@@ -1,2 +1,2 @@
 # bond
-Bibliometrics on non-bibliometric data
+Bibliometrics on non-bibliometric disciplines
