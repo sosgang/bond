@@ -1,0 +1,779 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1093/biomet/asw023"
+        ],
+        "titolo": "A differential-geometric approach to generalized linear models with grouped predictors",
+        "ISSN": [
+          "0006-3444"
+        ],
+        "journal": "BIOMETRIKA",
+        "csp": "vol. 103, p. 563-577, ISSN: 0006-3444, doi: 10.1093/biomet/asw023",
+        "anno": "2016",
+        "autori": "Augugliaro L., Mineo A., Wit E."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Augugliaro L., Mineo A., Wit E. (2016). A differential-geometric approach to",
+        "generalized linear models with grouped predictors. BIOMETRIKA, vol. 103,",
+        "p. 563-577, ISSN: 0006-3444, doi: 10.1093/biomet/asw023"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1515/sagmb-2014-0075"
+        ],
+        "titolo": "Model selection for factorial Gaussian graphical models with an application to dynamic regulatory networks",
+        "ISSN": [
+          "1544-6115"
+        ],
+        "journal": "STATISTICAL APPLICATIONS IN GENETICS AND MOLECULAR BIOLOGY",
+        "csp": "vol. 15, p. 193-212, ISSN: 1544-6115, doi: 10.1515/sagmb-2014-0075",
+        "anno": "2016",
+        "autori": "Vinciotti V, Augugliaro L, Abbruzzo A, Wit EC"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Vinciotti V, Augugliaro L, Abbruzzo A, Wit EC (2016). Model selection for",
+        "factorial Gaussian graphical models with an application to dynamic",
+        "regulatory networks. STATISTICAL APPLICATIONS IN GENETICS AND",
+        "MOLECULAR BIOLOGY, vol. 15, p. 193-212, ISSN: 1544-6115, doi:",
+        "10.1515/sagmb-2014-0075"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "201-265",
+        "doi": [
+          "10.1002/9783527694365.ch8"
+        ],
+        "titolo": "\u21131-Penalized Methods in High-Dimensional Gaussian Markov Random Fields",
+        "ISBN": [
+          "9783527694365"
+        ],
+        "csp": "WEINHEIM:WILEY-VCH Verlag GmbH & Co., ISBN: 9783527694365, doi: 10.1002/9783527694365.ch8",
+        "opera": "Augugliaro L;Mineo A;Wit E. (a cura di): Dehmer M;Shi Y;Emmert-Streib F, Computational Network Analysis with R: Applications in Biology, Medicine, and Chemistry. p",
+        "anno": "2016",
+        "autori": "Augugliaro L., Mineo A., Wit E."
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Augugliaro L., Mineo A., Wit E. (2016). \u21131-Penalized Methods in",
+        "High-Dimensional Gaussian Markov Random Fields. In: Augugliaro L;Mineo",
+        "A;Wit E. (a cura di): Dehmer M;Shi Y;Emmert-Streib F, Computational",
+        "Network Analysis with R: Applications in Biology, Medicine, and Chemistry.",
+        "p. 201-265, WEINHEIM:WILEY-VCH Verlag GmbH & Co., ISBN:",
+        "9783527694365, doi: 10.1002/9783527694365.ch8"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.leukres.2015.04.017"
+        ],
+        "titolo": "miR-155 regulative network in FLT3 mutated acute myeloid leukemia",
+        "ISSN": [
+          "0145-2126"
+        ],
+        "journal": "LEUKEMIA RESEARCH",
+        "csp": "vol. 39, p. 883-896, ISSN: 0145-2126, doi: 10.1016/j.leukres.2015.04.017",
+        "anno": "2015",
+        "autori": "Salemi D, Cammarata G, Agueli C, Augugliaro L, Corrado C, Bica. MG, Raimondo S, Marfia A, Randazzo V, Dragotto P, Di Raimondo F, Alessandro R, Fabbiano F, Santoro A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Salemi D, Cammarata G, Agueli C, Augugliaro L, Corrado C, Bica. MG,",
+        "Raimondo S, Marfia A, Randazzo V, Dragotto P, Di Raimondo F,",
+        "Alessandro R, Fabbiano F, Santoro A (2015). miR-155 regulative network",
+        "in FLT3 mutated acute myeloid leukemia. LEUKEMIA RESEARCH, vol. 39,",
+        "p. 883-896, ISSN: 0145-2126, doi: 10.1016/j.leukres.2015.04.017"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "5",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "1-8",
+        "doi": [
+          "10.1007/978-3-319-17377-1"
+        ],
+        "titolo": "Using the dglars Package to Estimate a Sparse Generalized Linear Model",
+        "ISBN": [
+          "978-3-319-17376-4"
+        ],
+        "csp": "ISBN: 978-3-319-17376-4, doi: 10.1007/978-3-319-17377-1",
+        "opera": "Advances in Statistical Models for Data Analysis. p",
+        "anno": "2015",
+        "autori": "Augugliaro L, Mineo A"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Augugliaro L, Mineo A (2015). Using the dglars Package to Estimate a",
+        "Sparse Generalized Linear Model. In: Advances in Statistical Models for",
+        "Data Analysis. p. 1-8, ISBN: 978-3-319-17376-4, doi:",
+        "10.1007/978-3-319-17377-1"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "dglars: An R Package to Estimate Sparse Generalized Linear Models",
+        "ISSN": [
+          "1548-7660"
+        ],
+        "journal": "JOURNAL OF STATISTICAL SOFTWARE",
+        "csp": "vol. 59, p. 1-40, ISSN: 1548-7660",
+        "anno": "2014",
+        "autori": "Augugliaro L, Mineo A, Wit EC"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Augugliaro L, Mineo A, Wit EC (2014). dglars: An R Package to Estimate",
+        "Sparse Generalized Linear Models. JOURNAL OF STATISTICAL",
+        "SOFTWARE, vol. 59, p. 1-40, ISSN: 1548-7660"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "7",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "ISBN: 978-88-8467-874-4",
+        "titolo": "An efficient algorithm to estimate the sparse group structure of an high-dimensional generalized linear model",
+        "csp": "Cagliari, 11-13 giugno 2014",
+        "opera": "Proceedings of the 47th Scientific Meeting of the Italian Statistical Society",
+        "anno": "2014",
+        "autori": "Augugliaro L, Mineo A"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Augugliaro L, Mineo A (2014). An efficient algorithm to estimate the sparse",
+        "group structure of an high-dimensional generalized linear model. In:",
+        "Proceedings of the 47th Scientific Meeting of the Italian Statistical Society.",
+        "ISBN: 978-88-8467-874-4, Cagliari, 11-13 giugno 2014"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "8",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "ISBN: 978-88-90643-74-3",
+        "titolo": "Robustness of dynamic gene regulatory networks in Neisseria",
+        "csp": "Cambridge, UK, 26-28 giugno 2014",
+        "opera": "Proceedings of the Eleventh international Meeting on Computational Intelligence Methods for Bioinformatics and Biostatistics",
+        "anno": "2014",
+        "autori": "Vinciotti V, Augugliaro L, Abbruzzo A, Wit E"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Vinciotti V, Augugliaro L, Abbruzzo A, Wit E (2014). Robustness of dynamic",
+        "gene regulatory networks in Neisseria. In: Proceedings of the Eleventh",
+        "international Meeting on Computational Intelligence Methods for",
+        "Bioinformatics and Biostatistics. ISBN: 978-88-90643-74-3, Cambridge, UK,",
+        "26-28 giugno 2014"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "9",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "ISBN: 978-88-90643-74-3",
+        "titolo": "DgCox: a differential geometric approach for high-dimensional Cox proportional hazard models",
+        "csp": "Cambridge, UK, 26-26 giugno 2014",
+        "opera": "Proceedings of the Eleventh international Meeting on Computational Intelligence Methods for Bioinformatics and Biostatistics",
+        "anno": "2014",
+        "autori": "Wit E, Augugliaro L, Abegaz F, Gonzalez J"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Wit E, Augugliaro L, Abegaz F, Gonzalez J (2014). DgCox: a differential",
+        "geometric approach for high-dimensional Cox proportional hazard models.",
+        "In: Proceedings of the Eleventh international Meeting on Computational",
+        "Intelligence Methods for Bioinformatics and Biostatistics. ISBN:",
+        "978-88-90643-74-3, Cambridge, UK, 26-26 giugno 2014"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "10",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "ISBN: 978-2-8399-1347-8",
+        "titolo": "Cyclic coordinate for penalized Gaussian graphical models with symmetry restriction",
+        "csp": "Geneva, August 19-22, 2014",
+        "opera": "Proceedings in Computational Statistics",
+        "anno": "2014",
+        "autori": "Abbruzzo A, Augugliaro L, Mineo A, Wit E"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Abbruzzo A, Augugliaro L, Mineo A, Wit E (2014). Cyclic coordinate for",
+        "penalized Gaussian graphical models with symmetry restriction. In:",
+        "Proceedings in Computational Statistics. ISBN: 978-2-8399-1347-8,",
+        "Geneva, August 19-22, 2014"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "11",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1111/rssb.12000"
+        ],
+        "titolo": "Differential geometric least angle regression: a differential geometric approach to sparse generalized linear models",
+        "ISSN": [
+          "1369-7412"
+        ],
+        "journal": "JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B STATISTICAL METHODOLOGY",
+        "csp": "vol. 75, p. 471-498, ISSN: 1369-7412, doi: 10.1111/rssb.12000",
+        "anno": "2013",
+        "autori": "Augugliaro L, Mineo A, Wit E"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Augugliaro L, Mineo A, Wit E (2013). Differential geometric least angle",
+        "regression: a differential geometric approach to sparse generalized linear",
+        "models. JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B",
+        "STATISTICAL METHODOLOGY, vol. 75, p. 471-498, ISSN: 1369-7412,",
+        "doi: 10.1111/rssb.12000"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "12",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "20-23",
+        "titolo": "Estimation of sparse generalized linear models: the dglars package",
+        "ISBN": [
+          "9788867871179"
+        ],
+        "csp": "Tommaso Minerva, Isabella Morlini, Francesco Palumbo, ISBN: 9788867871179, Modena, 18-20 Settembre, 2013",
+        "opera": "Cladag 2013 9th Meeting of the Classification and Data Analysis Group: Book of Abstracts. p",
+        "anno": "2013",
+        "autori": "Augugliaro L, Mineo A"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Augugliaro L, Mineo A (2013). Estimation of sparse generalized linear",
+        "models: the dglars package. In: Cladag 2013 9th Meeting of the",
+        "Classification and Data Analysis Group: Book of Abstracts. p. 20-23,",
+        "Tommaso Minerva, Isabella Morlini, Francesco Palumbo, ISBN:",
+        "9788867871179, Modena, 18-20 Settembre, 2013"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "13",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/00949655.2011.583650"
+        ],
+        "titolo": "Quantile regression via iterative least squares computations",
+        "ISSN": [
+          "0094-9655"
+        ],
+        "journal": "JOURNAL OF STATISTICAL COMPUTATION AND SIMULATION",
+        "csp": "vol. 82, p. 1557-1569, ISSN: 0094-9655, doi: 10.1080/00949655.2011.583650",
+        "anno": "2012",
+        "autori": "Muggeo VMR, Sciandra M, Augugliaro L"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Muggeo VMR, Sciandra M, Augugliaro L (2012). Quantile regression via",
+        "iterative least squares computations. JOURNAL OF STATISTICAL",
+        "COMPUTATION AND SIMULATION, vol. 82, p. 1557-1569, ISSN:",
+        "0094-9655, doi: 10.1080/00949655.2011.583650"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "14",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "ISBN: 978-88-6129-882-8",
+        "titolo": "A computational method to estimate sparse multiple Gaussian graphical models",
+        "csp": "Rome, June 20 - 22, 2012",
+        "opera": "Proceedings of the XLVI Scientific Meeting",
+        "anno": "2012",
+        "autori": "Onorati R, Augugliaro L, Mineo A"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Onorati R, Augugliaro L, Mineo A (2012). A computational method to",
+        "estimate sparse multiple Gaussian graphical models. In: Proceedings of the",
+        "XLVI Scientific Meeting. ISBN: 978-88-6129-882-8, Rome, June 20 - 22,",
+        "2012"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "15",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "67-79",
+        "titolo": "Differential geometric LARS via cyclic coordinate descent method",
+        "ISBN": [
+          "978-1-62748-321-6"
+        ],
+        "csp": "The International Statistical Institute/International Association for Statistical Computing, ISBN: 978-1-62748-321-6, Lymassol, Cyprus, 2012",
+        "opera": "Proceedings of COMPSTAT 2012, 20th International Conference on Computational Statistics. p",
+        "anno": "2012",
+        "autori": "Augugliaro L, Mineo A, Wit E"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Augugliaro L, Mineo A, Wit E (2012). Differential geometric LARS via cyclic",
+        "coordinate descent method. In: Proceedings of COMPSTAT 2012, 20th",
+        "International Conference on Computational Statistics. p. 67-79, The",
+        "International Statistical Institute/International Association for Statistical",
+        "Computing, ISBN: 978-1-62748-321-6, Lymassol, Cyprus, 2012"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "16",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1285/i20705948v4n2p227"
+        ],
+        "titolo": "Using differential geometric LARS algorithm to study the expression profile of a sample of patients with latex-fruit syndrome",
+        "ISSN": [
+          "2070-5948"
+        ],
+        "journal": "ELECTRONIC JOURNAL OF APPLIED STATISTICAL ANALYSIS",
+        "csp": "vol. 4, p. 227-234, ISSN: 2070-5948, doi: 10.1285/i20705948v4n2p227",
+        "anno": "2011",
+        "autori": "Augugliaro L, Mineo A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Augugliaro L, Mineo A (2011). Using differential geometric LARS algorithm",
+        "to study the expression profile of a sample of patients with latex-fruit",
+        "syndrome. ELECTRONIC JOURNAL OF APPLIED STATISTICAL",
+        "ANALYSIS, vol. 4, p. 227-234, ISSN: 2070-5948, doi:",
+        "10.1285/i20705948v4n2p227"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "17",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "447-456",
+        "titolo": "Plaid model for microarray data: an enhancement of the pruning step",
+        "ISBN": [
+          "978-3-642-13311-4"
+        ],
+        "csp": "Heidelberg:Springer-Verlag, ISBN: 978-3-642-13311-4",
+        "opera": "(a cura di): Fichet B;Piccolo D;Verde R;Vichi M, Classification and multivariate analysis for complex data structures. vol. 2011-02, p",
+        "anno": "2011",
+        "autori": "Augugliaro L, Mineo A"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Augugliaro L, Mineo A (2011). Plaid model for microarray data: an",
+        "enhancement of the pruning step. In: (a cura di): Fichet B;Piccolo D;Verde",
+        "R;Vichi M, Classification and multivariate analysis for complex data",
+        "structures. vol. 2011-02, p. 447-456, Heidelberg:Springer-Verlag, ISBN:",
+        "978-3-642-13311-4"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "18",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1002/ajh.21667"
+        ],
+        "titolo": "Differential expression of specific microRNA and their targets in acute myeloid leukemia",
+        "ISSN": [
+          "0361-8609"
+        ],
+        "journal": "AMERICAN JOURNAL OF HEMATOLOGY",
+        "csp": "vol. 85, p. 331-339, ISSN: 0361-8609, doi: 10.1002/ajh.21667",
+        "anno": "2010",
+        "autori": "Cammarata G, Augugliaro L, Salemi D, Agueli C, La Rosa M, Dagnino L, Civiletto G, Messana F, Marfia A, Bica MG, Cascio L, Floridia PM, Mineo A, Russo M, Fabbiano F, Santoro A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Cammarata G, Augugliaro L, Salemi D, Agueli C, La Rosa M, Dagnino L,",
+        "Civiletto G, Messana F, Marfia A, Bica MG, Cascio L, Floridia PM, Mineo A,",
+        "Russo M, Fabbiano F, Santoro A (2010). Differential expression of specific",
+        "microRNA and their targets in acute myeloid leukemia. AMERICAN",
+        "JOURNAL OF HEMATOLOGY, vol. 85, p. 331-339, ISSN: 0361-8609, doi:",
+        "10.1002/ajh.21667"
+      ],
+      "anno": "2010"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1093/biomet/asw023"
+        ],
+        "titolo": "A differential-geometric approach to generalized linear models with grouped predictors",
+        "ISSN": [
+          "0006-3444"
+        ],
+        "journal": "BIOMETRIKA",
+        "csp": "vol. 103, p. 563-577, ISSN: 0006-3444, doi: 10.1093/biomet/asw023",
+        "anno": "2016",
+        "autori": "Augugliaro L., Mineo A., Wit E."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Augugliaro L., Mineo A., Wit E. (2016). A differential-geometric approach to",
+        "generalized linear models with grouped predictors. BIOMETRIKA, vol. 103,",
+        "p. 563-577, ISSN: 0006-3444, doi: 10.1093/biomet/asw023"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1515/sagmb-2014-0075"
+        ],
+        "titolo": "Model selection for factorial Gaussian graphical models with an application to dynamic regulatory networks",
+        "ISSN": [
+          "1544-6115"
+        ],
+        "journal": "STATISTICAL APPLICATIONS IN GENETICS AND MOLECULAR BIOLOGY",
+        "csp": "vol. 15, p. 193-212, ISSN: 1544-6115, doi: 10.1515/sagmb-2014-0075",
+        "anno": "2016",
+        "autori": "Vinciotti V, Augugliaro L, Abbruzzo A, Wit EC"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Vinciotti V, Augugliaro L, Abbruzzo A, Wit EC (2016). Model selection for",
+        "factorial Gaussian graphical models with an application to dynamic",
+        "regulatory networks. STATISTICAL APPLICATIONS IN GENETICS AND",
+        "MOLECULAR BIOLOGY, vol. 15, p. 193-212, ISSN: 1544-6115, doi:",
+        "10.1515/sagmb-2014-0075"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "201-265",
+        "doi": [
+          "10.1002/9783527694365.ch8"
+        ],
+        "titolo": "\u21131-Penalized Methods in High-Dimensional Gaussian Markov Random Fields",
+        "ISBN": [
+          "9783527694365"
+        ],
+        "csp": "WEINHEIM:WILEY-VCH Verlag GmbH & Co., ISBN: 9783527694365, doi: 10.1002/9783527694365.ch8",
+        "opera": "Augugliaro L;Mineo A;Wit E. (a cura di): Dehmer M;Shi Y;Emmert-Streib F, Computational Network Analysis with R: Applications in Biology, Medicine, and Chemistry. p",
+        "anno": "2016",
+        "autori": "Augugliaro L., Mineo A., Wit E."
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Augugliaro L., Mineo A., Wit E. (2016). \u21131-Penalized Methods in",
+        "High-Dimensional Gaussian Markov Random Fields. In: Augugliaro L;Mineo",
+        "A;Wit E. (a cura di): Dehmer M;Shi Y;Emmert-Streib F, Computational",
+        "Network Analysis with R: Applications in Biology, Medicine, and Chemistry.",
+        "p. 201-265, WEINHEIM:WILEY-VCH Verlag GmbH & Co., ISBN:",
+        "9783527694365, doi: 10.1002/9783527694365.ch8"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "dglars: An R Package to Estimate Sparse Generalized Linear Models",
+        "ISSN": [
+          "1548-7660"
+        ],
+        "journal": "JOURNAL OF STATISTICAL SOFTWARE",
+        "csp": "vol. 59, p. 1-40, ISSN: 1548-7660",
+        "anno": "2014",
+        "autori": "Augugliaro L, Mineo A, Wit EC"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Augugliaro L, Mineo A, Wit EC (2014). dglars: An R Package to Estimate",
+        "Sparse Generalized Linear Models. JOURNAL OF STATISTICAL",
+        "SOFTWARE, vol. 59, p. 1-40, ISSN: 1548-7660"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1111/rssb.12000"
+        ],
+        "titolo": "Differential geometric least angle regression: a differential geometric approach to sparse generalized linear models",
+        "ISSN": [
+          "1369-7412"
+        ],
+        "journal": "JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B STATISTICAL METHODOLOGY",
+        "csp": "vol. 75, p. 471-498, ISSN: 1369-7412, doi: 10.1111/rssb.12000",
+        "anno": "2013",
+        "autori": "Augugliaro L, Mineo A, Wit E"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Augugliaro L, Mineo A, Wit E (2013). Differential geometric least angle",
+        "regression: a differential geometric approach to sparse generalized linear",
+        "models. JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B",
+        "STATISTICAL METHODOLOGY, vol. 75, p. 471-498, ISSN: 1369-7412,",
+        "doi: 10.1111/rssb.12000"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/00949655.2011.583650"
+        ],
+        "titolo": "Quantile regression via iterative least squares computations",
+        "ISSN": [
+          "0094-9655"
+        ],
+        "journal": "JOURNAL OF STATISTICAL COMPUTATION AND SIMULATION",
+        "csp": "vol. 82, p. 1557-1569, ISSN: 0094-9655, doi: 10.1080/00949655.2011.583650",
+        "anno": "2012",
+        "autori": "Muggeo VMR, Sciandra M, Augugliaro L"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Muggeo VMR, Sciandra M, Augugliaro L (2012). Quantile regression via",
+        "iterative least squares computations. JOURNAL OF STATISTICAL",
+        "COMPUTATION AND SIMULATION, vol. 82, p. 1557-1569, ISSN:",
+        "0094-9655, doi: 10.1080/00949655.2011.583650"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "7",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "447-456",
+        "titolo": "Plaid model for microarray data: an enhancement of the pruning step",
+        "ISBN": [
+          "978-3-642-13311-4"
+        ],
+        "csp": "Heidelberg:Springer-Verlag, ISBN: 978-3-642-13311-4",
+        "opera": "(a cura di): Fichet B;Piccolo D;Verde R;Vichi M, Classification and multivariate analysis for complex data structures. vol. 2011-02, p",
+        "anno": "2011",
+        "autori": "Augugliaro L, Mineo A"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Augugliaro L, Mineo A (2011). Plaid model for microarray data: an",
+        "enhancement of the pruning step. In: (a cura di): Fichet B;Piccolo D;Verde",
+        "R;Vichi M, Classification and multivariate analysis for complex data",
+        "structures. vol. 2011-02, p. 447-456, Heidelberg:Springer-Verlag, ISBN:",
+        "978-3-642-13311-4"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "8",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "121-128",
+        "titolo": "A statistical calibration model for Affymetrix probe level data",
+        "ISBN": [
+          "978-3-642-03738-2"
+        ],
+        "csp": "BERLIN:Springer, ISBN: 978-3-642-03738-2",
+        "opera": "(a cura di): Palumbo F.;Lauro C.;Greenacre M., Data analysis and classification: proceedings of the 6th Conference of the Classification and Data Analysis Group of the Societ\u00e0 Italiana di Statistica. p",
+        "anno": "2010",
+        "autori": "Augugliaro L, Mineo A"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Augugliaro L, Mineo A (2010). A statistical calibration model for Affymetrix",
+        "probe level data. In: (a cura di): Palumbo F.;Lauro C.;Greenacre M., Data",
+        "analysis and classification: proceedings of the 6th Conference of the",
+        "Classification and Data Analysis Group of the Societ\u00e0 Italiana di Statistica.",
+        "p. 121-128, BERLIN:Springer, ISBN: 978-3-642-03738-2"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Identifying modularity structure of a genetic network in gene expression profile data",
+        "ISSN": [
+          "0390-590X"
+        ],
+        "journal": "STATISTICA",
+        "csp": "vol. 69, p. 187-200, ISSN: 0390-590X",
+        "anno": "2009",
+        "autori": "Augugliaro L, Mineo A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Augugliaro L, Mineo A (2009). Identifying modularity structure of a genetic",
+        "network in gene expression profile data. STATISTICA, vol. 69, p. 187-200,",
+        "ISSN: 0390-590X"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Gene Expression Profile of Chronic Myeloid Leukemia Innately Resistant to Imatinib",
+        "ISSN": [
+          "1931-6925"
+        ],
+        "journal": "CLINICAL LEUKEMIA",
+        "csp": "vol. 1(4), p. 234-242, ISSN: 1931-6925",
+        "anno": "2007",
+        "autori": "CAMMARATA G, AUGUGLIARO L, LA ROSA M, TURRI D, RIZZO V, MARFIA A, AGUELI C, DAGNINO L, GIUSTOLISI R, MIRTO S, MINEO A, SANTORO A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "CAMMARATA G, AUGUGLIARO L, LA ROSA M, TURRI D, RIZZO V,",
+        "MARFIA A, AGUELI C, DAGNINO L, GIUSTOLISI R, MIRTO S, MINEO A,",
+        "SANTORO A (2007). Gene Expression Profile of Chronic Myeloid",
+        "Leukemia Innately Resistant to Imatinib. CLINICAL LEUKEMIA, vol. 1(4), p.",
+        "234-242, ISSN: 1931-6925"
+      ],
+      "anno": "2007"
+    }
+  ],
+  "general": {
+    "settore": "13/D1",
+    "progr": "19684",
+    "nome": "AUGUGLIARO Luigi",
+    "fascia": "Seconda"
+  },
+  "titoli": {
+    "Formale attribuzione di incarichi di insegnamento o di ricerca (fellowship) presso": [
+      {
+        "content": "Collaborazione al corso dal titolo \"Programmazione in ambiente R per la ricerca in ambito statistico\" della Scuola della Societ\u00e0 Italiana di Statistica, tenuto a Palermo dal 22 al 25 giugno 2009. Si allega dichiarazione sostitutiva e e-mail inviata dalla Societ\u00e0 Italiana di Statistica attestante la partecipazione al corso.",
+        "periodo": "dal 22-06-2009 al 25-06-2009"
+      },
+      {
+        "content": "Collaborazione al corso dal titolo \"Analisi dei dati con R: introduzione e applicazioni\" della Scuola della Societ\u00e0 Italiana di Statistica, tenuto a Palermo dal 11 al 14 dicembre 2012. Si allega dichiarazione sostitutiva e e-mail inviata dalla Societ\u00e0 Italiana di Statistica attestante la partecipazione al corso.",
+        "periodo": "dal 11-12-2012 al 14-12-2012"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Partecipazione come relatore alla convegno dal titolo \"XLIII Riunione Scientifica della Societ\u00e0 Italiana di Statistica\", Torino, 14-16 giugno 2006. Presentazione del lavoro dal titolo \"A New Proposal for Microarray Background Correction by means of a GLMM\". Si allega dichiarazione sostitutiva.",
+        "periodo": "dal 14-06-2006 al 16-06-2006"
+      },
+      {
+        "content": "Partecipazione come relatore invitato al convegno dal titolo \"Sixth Scientific Meeting of the CLAssification and Data Analysis Group of the Italian Society\", Macerata, 12-14 settembre 2007. Presentazione del lavoro dal titolo \"A Statistical Calibration Method Based on Non-linear Mixed Model for Affymetrix Probe Level Data\". Si allega dichiarazione sostitutiva.",
+        "periodo": "dal 12-09-2007 al 14-09-2007"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno dal titolo \"IV Convegno Nazionale della Societ\u00e0 Italiana di Statistica Medica ed Epidemiologia Clinica (SISMEC): La Ricerca Clinica tra Sperimentazione e Osservazione\", Monreale, 19-20 settembre 2007. Presentazione del lavoro dal titolo \"Statistical analysis of the gene expression profile in patients with chronic myeloid leukemia and innately resistant to imatinib mesylate\". Si allega dichiarazione sostitutiva.",
+        "periodo": "dal 19-09-2007 al 20-09-2007"
+      },
+      {
+        "content": "Partecipazione come relatore invitato al convegno dal titolo \"first joint meeting of the Soci\u00e9t\u00e9 Francophone de Classification and the Classification and Data Analysis Group of the Italian Statistical Society\", Caserta, 11-13 giugno 2008. Presentazione del lavoro dal titolo \"An enhancement of the plaid model algorithm\". Si allega dichiarazione sostitutiva.",
+        "periodo": "dal 11-06-2008 al 13-06-2008"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno dal titolo \"XVI\u00e8mes Rencontres de la Soci\u00e9t\u00e9 Francophone de Classification\", Grenoble 2-4 settembre 2009. Presentazione del lavoro dal titolo \"Applying differential geometric LARS algorithm to ultra-high dimensional feature space\". Si allega dichiarazione sostitutiva.",
+        "periodo": "dal 02-09-2009 al 04-09-2009"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno dal titolo \"7th Meeting of the Classification and Data Analysis Group of the Italian Statistical Society\", Catania 9\u201311 Settembre 2009. Presentazione del lavoro dal titolo \"Generalizing LARS algorithm using differential geometry\". Si allega dichiarazione sostitutiva.",
+        "periodo": "dal 09-09-2009 al 11-09-2009"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno dal titolo \"Statistical Methods for the analysis of large data-sets\", Pescara, 23-25 settembre 2009. Presentazione del lavoro dal titolo \"Genetic Network construction in CML gene expression profile data analysis\". Si allega dichiarazione sostitutiva.",
+        "periodo": "dal 23-09-2009 al 25-09-2009"
+      },
+      {
+        "content": "Partecipazione come relatore invitato al workshop dal titolo \"Statistics and the Life Sciences: High-dimensional inference and complex data\", Groningen (Netherlands) 23-25 novembre 2009. Titolo della presentazione \"A Differential Geometric Approach to Identify Important Variables in GLMs when p >> n\". Si allega dichiarazione sostitutiva.",
+        "periodo": "dal 23-11-2009 al 25-11-2009"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno dal titolo \"11th European Symposium on Statistical Methods for the Food Industry\", Benevento, 23-26 Febbraio 2010. Presentazione del lavoro dal titolo \"Using differential LARS algorithm to study the expression profile of a sample of patients with latex-fruit syndrome\". Si allega dichiarazione sostitutiva.",
+        "periodo": "dal 23-02-2010 al 26-02-2010"
+      },
+      {
+        "content": "Partecipazione come chair e relatore al convegno dal titolo \"20th International Conference on Computational Statistics, (COMPSTAT 2012)\", Limassol (Cyprus) 27-31 Agosto 2012. Presentazione del lavoro dal titolo \"Differential geometric LARS via cyclic coordinate descent method\". Si allega dichiarazione sostitutiva.",
+        "periodo": "dal 27-08-2012 al 31-08-2012"
+      },
+      {
+        "content": "Partecipazione come relatore invitato al workshop dal titolo \"Statistical Network Science with Applications\", Laiden (Netherlands), 2-5 Aprile 2013. Si allega dichiarazione sostitutiva e programma del workshop.",
+        "periodo": "dal 02-04-2013 al 05-04-2013"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno dal titolo \"9th Meeting of the Classification and Data Analysis Group\", Modena, 18-20 Settembre 2013. Presentazione del lavoro dal titolo \"Estimation of sparse generalized linear models: the dglars package\". Si allega dichiarazione sostitutiva e programma del convegno.",
+        "periodo": "dal 18-09-2013 al 20-09-2013"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno dal titolo \"47th Scientific Meeting of the Italian Statistical Society\", Cagliari, 11-13 giugno 2014. Presentazione del lavoro dal titolo \"An efficient algorithm to estimate the sparse group structure of an high-dimensional generalized linear model\". Si allega dichiarazione sostitutiva.",
+        "periodo": "dal 11-06-2014 al 13-06-2014"
+      },
+      {
+        "content": "Membro del Comitato Programma del convegno dal titolo \"European Meeting of Statisticians\", Amsterdam 6-10 luglio 2015. Si allega dichiarazione sostitutiva e poster del convegno.",
+        "periodo": "dal 06-07-2015 al 10-07-2015"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Partecipazione al progetto dal titolo \"European Cooperation for Statistics of Network Data Science\", coordinato dal Prof. Ernst Wit (University of Groningen, Netherlands), finanziato all'interno del programma europeo \"European Cooperation in Science and Technology\" (COST). Si allega: 1) Lettera di approvazione del progetto; 2) Descrizione del progetto attestante la partecipazione.",
+        "periodo": "dal 01-05-2016 a oggi"
+      },
+      {
+        "content": "Assegnazione del contributo relativo all'Azione D3 del Bando CoRI: \"Contributo per l'avvio e lo sviluppo di collaborazioni internazionali dell'Ateneo\". Il contributo \u00e8 finalizzato a finanziare le spese di soggiorno e di viaggio il Prof. Ernst C. Wit, Universit\u00e0 di Groningen (Netherlands), il quale collaborer\u00e0 con il Dott. Augugliaro sul progetto di ricerca dal titolo \"Differential Geometric Least Angle Regression Method\"; durante il soggiorno il Prof Ernst Wit terr\u00e0, inoltre, il corso dal titolo \"High-Dimensional Inference\", indirizzato agli studenti del Corso di Laurea Magistrale in Scienze Statistiche (LM-82), dell'Universit\u00e0 degli Studi di Palermo. Si allega la comunicazione, da parte dell'Area Ricerca e Sviluppo dell'Universit\u00e0 degli Studi di Palermo, dell'assegnazione del contributo.",
+        "periodo": "dal 17-10-2016 a oggi"
+      }
+    ],
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "Dottorato di Ricerca in \u201cStatistica\u201d, XIX Ciclo, Universit\u00e0 degli Studi di Palermo, conseguito in data 7 aprile 2008. Si allega dichiarazione sostitutiva.",
+        "periodo": "dal 01-01-2004 al 31-12-2007"
+      },
+      {
+        "content": "Assegno di Ricerca dal titolo \"SVILUPPI DI METODI E TECNICHE PER L'ANALISI DI MICROARRAY DATA\", tutor Prof. Angelo M. Mineo, presso il Dipartimento di Scienze Statistiche e Matematiche \"S. Vinelli\". Si allega dichiarazione sostitutiva.",
+        "periodo": "dal 23-06-2008 al 18-12-2008"
+      }
+    ],
+    "Partecipazione al collegio dei docenti ovvero attribuzione di incarichi di insegnamento,": [
+      {
+        "content": "Partecipazione al Collegio Docenti del dottorato di ricerca in \"STATISTICA, STATISTICA APPLICATA E FINANZA QUANTITATIVA\", anno accademico di inizio 2012 - Ciclo XXVI, proposto dall'Universit\u00e0 degli Studi di Palermo. Si allega dichiarazione sostitutiva e stampa del sito docente riportante la partecipazione al collegio docenti.",
+        "periodo": "dal 01-01-2012 al 01-01-2015"
+      }
+    ]
+  }
+}

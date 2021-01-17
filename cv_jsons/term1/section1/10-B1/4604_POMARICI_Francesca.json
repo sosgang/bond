@@ -1,0 +1,565 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Il ruolo del cantiere gotico nella basilica superiore di San Francesco ad Assisi",
+        "ISSN": [
+          "0393-7267"
+        ],
+        "journal": "ARTE MEDIEVALE",
+        "csp": "p. 161-172, ISSN: 0393-7267",
+        "anno": "2016",
+        "autori": "POMARICI F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "POMARICI F (2016). Il ruolo del cantiere gotico nella basilica superiore di",
+        "San Francesco ad Assisi. ARTE MEDIEVALE, p. 161-172, ISSN: 0393-7267"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Arnolfo e le sue botteghe",
+        "ISSN": [
+          "0393-7267"
+        ],
+        "journal": "ARTE MEDIEVALE",
+        "csp": "ISSN: 0393-7267",
+        "anno": "2014",
+        "autori": "POMARICI F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "POMARICI F (2014). Arnolfo e le sue botteghe. ARTE MEDIEVALE, ISSN:",
+        "0393-7267"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "3",
+      "type": "Monografia o trattato scientifico",
+      "parsed": null,
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "ANGELELLI W, GANDOLFO F, GIANANDREA M, POMARICI F (2012).",
+        "Medioevo in Molise. Il cantiere della chiesa di San Giorgio martire a Petrella",
+        "Tifernina. ISBN: 978-88-492-2296-8"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "L'iconografia della Vergine nell'opera di Arnolfo di cambio: il sepolcro de Bray e la facciata di Santa Maria del Fiore",
+        "ISSN": [
+          "0394-4573"
+        ],
+        "journal": "BOLLETTINO D'ARTE",
+        "csp": "p. 97-110, ISSN: 0394-4573",
+        "anno": "2009",
+        "autori": "POMARICI F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "POMARICI F (2009). L'iconografia della Vergine nell'opera di Arnolfo di",
+        "cambio: il sepolcro de Bray e la facciata di Santa Maria del Fiore.",
+        "BOLLETTINO D'ARTE, p. 97-110, ISSN: 0394-4573"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "5",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "Napoli:paparoedizioni ",
+        "titolo": "Aula egregia. L'abbazia di Sant'Antimo e la scultura del XII secolo nella Toscana meridionale",
+        "ISBN": [
+          "978-88-87111-86-6"
+        ],
+        "csp": "ISBN: 978-88-87111-86-6",
+        "anno": "2009",
+        "autori": "ANGELELLI W, GANDOLFO F, POMARICI F"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "ANGELELLI W, GANDOLFO F, POMARICI F (2009). Aula egregia.",
+        "L'abbazia di Sant'Antimo e la scultura del XII secolo nella Toscana",
+        "meridionale. Napoli:paparoedizioni , ISBN: 978-88-87111-86-6"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "6",
+      "type": "Monografia o trattato scientifico",
+      "parsed": null,
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "POMARICI F (2004). La prima facciata di Santa Maria del Fiore. Storia e",
+        "interpretazione. ISBN: 88-8334-152-X"
+      ],
+      "anno": "2004"
+    },
+    {
+      "id": "7",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "ROMA:Viella",
+        "titolo": "La scultura delle Pievi. Capitelli medievali in Casentino e Valdarno",
+        "ISBN": [
+          "88-8334-105-8"
+        ],
+        "csp": "ISBN: 88-8334-105-8",
+        "anno": "2003",
+        "autori": "ANGELELLI W, GANDOLFO F, POMARICI F"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "ANGELELLI W, GANDOLFO F, POMARICI F (2003). La scultura delle Pievi.",
+        "Capitelli medievali in Casentino e Valdarno. ROMA:Viella, ISBN:",
+        "88-8334-105-8"
+      ],
+      "anno": "2003"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Il ruolo del cantiere gotico nella basilica superiore di San Francesco ad Assisi",
+        "ISSN": [
+          "0393-7267"
+        ],
+        "journal": "ARTE MEDIEVALE",
+        "csp": "p. 161-172, ISSN: 0393-7267",
+        "anno": "2016",
+        "autori": "POMARICI F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "POMARICI F (2016). Il ruolo del cantiere gotico nella basilica superiore di",
+        "San Francesco ad Assisi. ARTE MEDIEVALE, p. 161-172, ISSN:",
+        "0393-7267"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "85-120",
+        "titolo": "Papal Imagery and Propaganda: Art, Architecture and Liturgy",
+        "ISBN": [
+          "978-90-04-29985-6"
+        ],
+        "csp": "ISBN: 978-90-04-29985-6",
+        "opera": "(a cura di): K. Sisson e A. Larson, A companion to Medieval Papacy. Growth of an Ideology and Institution. p",
+        "anno": "2016",
+        "autori": "POMARICI F"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "POMARICI F (2016). Papal Imagery and Propaganda: Art, Architecture and",
+        "Liturgy. In: (a cura di): K. Sisson e A. Larson, A companion to Medieval",
+        "Papacy. Growth of an Ideology and Institution. p. 85-120, ISBN:",
+        "978-90-04-29985-6"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "283-295",
+        "titolo": "Viaggi nel senso dei leoni apotropaici",
+        "ISBN": [
+          "978-88-572-2852-5"
+        ],
+        "csp": "MILANO:Edizioni Skir\u00e0., ISBN: 978-88-572-2852-5",
+        "opera": "(a cura di): Arturo Carlo Quintavalle, Medioevo: Natura e Figura. p",
+        "anno": "2015",
+        "autori": "POMARICI F"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "POMARICI F (2015). Viaggi nel senso dei leoni apotropaici. In: (a cura di):",
+        "Arturo Carlo Quintavalle, Medioevo: Natura e Figura. p. 283-295,",
+        "MILANO:Edizioni Skir\u00e0., ISBN: 978-88-572-2852-5"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Castelvecchio Subequo, chiesa di San Francesco. Le opzioni iconografiche nei cicli pittorici, tra modelli normativi ed esigenze di comunicazione.. RIVISTA DELL' ISTITUTO NAZIONALE DI ARCHEOLOGIA E STORIA DELL' ARTE, vol. 64/65, III s",
+        "ISSN": [
+          "0392-5285"
+        ],
+        "journal": "XXXII-XXXIII",
+        "csp": "2009-2010, p. 145-199, ISSN: 0392-5285",
+        "anno": "2014",
+        "autori": "POMARICI F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "POMARICI F (2014). Castelvecchio Subequo, chiesa di San Francesco. Le",
+        "opzioni iconografiche nei cicli pittorici, tra modelli normativi ed esigenze di",
+        "comunicazione.. RIVISTA DELL' ISTITUTO NAZIONALE DI",
+        "ARCHEOLOGIA E STORIA DELL' ARTE, vol. 64/65, III s. XXXII-XXXIII,",
+        "2009-2010, p. 145-199, ISSN: 0392-5285"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Arnolfo e le sue botteghe",
+        "ISSN": [
+          "0393-7267"
+        ],
+        "journal": "ARTE MEDIEVALE",
+        "csp": "ISSN: 0393-7267",
+        "anno": "2014",
+        "autori": "POMARICI F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "POMARICI F (2014). Arnolfo e le sue botteghe. ARTE MEDIEVALE, ISSN:",
+        "0393-7267"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "6",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "63-68",
+        "titolo": "Mostri marini con e senza ali, considerazioni sul grande pesce che ingoi\u00f2 Giona.",
+        "ISBN": [
+          "978-88-492-2753-6"
+        ],
+        "csp": "ISBN: 978-88-492-2753-6",
+        "opera": "L'officina dello sguardo. p",
+        "anno": "2014",
+        "autori": "POMARICI F"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "POMARICI F (2014). Mostri marini con e senza ali, considerazioni sul",
+        "grande pesce che ingoi\u00f2 Giona.. In: L'officina dello sguardo. p. 63-68,",
+        "ISBN: 978-88-492-2753-6"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "7",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "99-105",
+        "titolo": "Pace in terra: nativit\u00e0 e \"locus amoenus\"",
+        "ISBN": [
+          "978-88-6507-556-2"
+        ],
+        "csp": "ISBN: 978-88-6507-556-2",
+        "opera": "Miti antichi e moderni. Studi in onore di Edo Bellingeri. p",
+        "anno": "2013",
+        "autori": "POMARICI F"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "POMARICI F (2013). Pace in terra: nativit\u00e0 e \"locus amoenus\". In: Miti",
+        "antichi e moderni. Studi in onore di Edo Bellingeri. p. 99-105, ISBN:",
+        "978-88-6507-556-2"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "8",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "86-103",
+        "titolo": "L'Agnello e il liber creaturarum: il programma iconografico delle lunette",
+        "ISBN": [
+          "978-88-492-2296-8"
+        ],
+        "csp": "ISBN: 978-88-492-2296-8",
+        "opera": "Medioevo in Molise. Il cantiere della chiesa di San Giorgio martire a Petrella Tifernina. p",
+        "anno": "2012",
+        "autori": "POMARICI F"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "POMARICI F (2012). L'Agnello e il liber creaturarum: il programma",
+        "iconografico delle lunette. In: Medioevo in Molise. Il cantiere della chiesa di",
+        "San Giorgio martire a Petrella Tifernina. p. 86-103, ISBN:",
+        "978-88-492-2296-8"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "9",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "127-140",
+        "titolo": "Eroi a cavallo: la lastra di Aversa e compagni",
+        "ISBN": [
+          "978-88-7575-126-5"
+        ],
+        "csp": "ISBN: 978-88-7575-126-5",
+        "opera": "Forme e storia. Scritti di arte medievale e moderna per Francesco Gandolfo. p",
+        "anno": "2011",
+        "autori": "POMARICI F"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "POMARICI F (2011). Eroi a cavallo: la lastra di Aversa e compagni. In:",
+        "Forme e storia. Scritti di arte medievale e moderna per Francesco",
+        "Gandolfo. p. 127-140, ISBN: 978-88-7575-126-5"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "L'iconografia della Vergine nell'opera di Arnolfo di cambio: il sepolcro de Bray e la facciata di Santa Maria del Fiore",
+        "ISSN": [
+          "0394-4573"
+        ],
+        "journal": "BOLLETTINO D'ARTE",
+        "csp": "p. 97-110, ISSN: 0394-4573",
+        "anno": "2009",
+        "autori": "POMARICI F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "POMARICI F (2009). L'iconografia della Vergine nell'opera di Arnolfo di",
+        "cambio: il sepolcro de Bray e la facciata di Santa Maria del Fiore.",
+        "BOLLETTINO D'ARTE, p. 97-110, ISSN: 0394-4573"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "11",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "161-208",
+        "titolo": "Percorsi iconografici nella scultura architettonica della Toscana centromeridionale tra XI e XIII secolo",
+        "ISBN": [
+          "978-88-87111-86-6"
+        ],
+        "csp": "Paparo, ISBN: 978-88-87111-86-6",
+        "opera": "aula egregia. L'abbazia di Sant'Antimo e la scultura del XII secolo nella Toscana meridionale. p",
+        "anno": "2009",
+        "autori": "POMARICI F"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "POMARICI F (2009). Percorsi iconografici nella scultura architettonica della",
+        "Toscana centromeridionale tra XI e XIII secolo. In: aula egregia. L'abbazia",
+        "di Sant'Antimo e la scultura del XII secolo nella Toscana meridionale. p.",
+        "161-208, Paparo, ISBN: 978-88-87111-86-6"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "12",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "103-116",
+        "titolo": "Il presepe di S. Maria Maggiore: un riesame",
+        "ISBN": [
+          "978-88-8334-242-4"
+        ],
+        "csp": "ROMA:Viella, ISBN: 978-88-8334-242-4",
+        "opera": "Arnolfo di Cambio e la sua epoca. Firenze, 7-10 marzo 2006, p",
+        "anno": "2006",
+        "autori": "POMARICI F"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "POMARICI F (2006). Il presepe di S. Maria Maggiore: un riesame. In:",
+        "Arnolfo di Cambio e la sua epoca. Firenze, 7-10 marzo 2006, p. 103-116,",
+        "ROMA:Viella, ISBN: 978-88-8334-242-4"
+      ],
+      "anno": "2006"
+    },
+    {
+      "id": "13",
+      "type": "Monografia o trattato scientifico",
+      "parsed": null,
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "POMARICI F (2004). La prima facciata di Santa Maria del Fiore. Storia e",
+        "interpretazione. ISBN: 88-8334-152-X"
+      ],
+      "anno": "2004"
+    },
+    {
+      "id": "14",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "csp": "ROMA:Edizioni Sintesi Informazioni srl.",
+        "titolo": "L'enigma del piatto e la sella d'oro",
+        "opera": "Arte d'Occidente, temi e metodi. Studi in onore di Angiola Maria Romanini",
+        "anno": "1999",
+        "autori": "POMARICI F"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "POMARICI F (1999). L'enigma del piatto e la sella d'oro. In: Arte",
+        "d'Occidente, temi e metodi. Studi in onore di Angiola Maria Romanini.",
+        "ROMA:Edizioni Sintesi Informazioni srl."
+      ],
+      "anno": "1999"
+    },
+    {
+      "id": "15",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Il presepe di Arnolfo di Cambio: nuova proposta di ricostruzione",
+        "ISSN": [
+          "0393-7267"
+        ],
+        "journal": "ARTE MEDIEVALE",
+        "csp": "p. 155-175, ISSN: 0393-7267",
+        "anno": "1988",
+        "autori": "POMARICI F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "POMARICI F (1988). Il presepe di Arnolfo di Cambio: nuova proposta di",
+        "ricostruzione. ARTE MEDIEVALE, p. 155-175, ISSN: 0393-7267"
+      ],
+      "anno": "1988"
+    }
+  ],
+  "general": {
+    "settore": "10/B1",
+    "progr": "4604",
+    "nome": "POMARICI Francesca",
+    "fascia": "Prima"
+  },
+  "titoli": {
+    "Direzione o partecipazione a comitati editoriali di riviste, collane editoriali, enciclopedie e": [
+      {
+        "content": "Enciclopedia dell'arte medievale, Istituto della Enciclopedia Italiana",
+        "periodo": "dal 01-01-1984 al 30-12-2002"
+      },
+      {
+        "content": "Rivista \"Arte medievale\"",
+        "periodo": "dal 01-01-1984 a oggi"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "partecipazione come relatore al convegno \"roma Anno 1300\", Universit\u00e0 di Roma La Sapienza",
+        "periodo": "dal 19-05-1980 al 24-05-1980"
+      },
+      {
+        "content": "partecipazione come relatore al convegno: \"I Celestini a Ferentino. Territorio e ricerca\", Ferentino, Associazione culturale Gli argonauti",
+        "periodo": "dal 08-05-1982 al 09-05-1982"
+      },
+      {
+        "content": "partecipazione come relatore al convegno: \" I Tesori di Orte\", Ente Ottava medievale di Orte",
+        "periodo": "dal 12-11-1984 al 13-11-1984"
+      },
+      {
+        "content": "partecipazione come relatore al convegno: \"Storia e arte francescana a Ferentino\", Ferentino",
+        "periodo": "dal 26-05-1990 al 27-05-1990"
+      },
+      {
+        "content": "partecipazione come relatore al convegno: \"Medioevo: i modelli\", Centro Studi medievali, Parma",
+        "periodo": "dal 27-09-1999 al 01-10-1999"
+      },
+      {
+        "content": "partecipazione come relatore al convegno: \"Medioevo: arte lombarda\", Centro studi medievali, Parma",
+        "periodo": "dal 26-09-2001 al 29-09-2001"
+      },
+      {
+        "content": "partecipazione al comitato scientifico del Convegno internazionale \"Il monumento del cardinal Guillaume de Braye di Arnolfo di Cambio dopo il restauro\".",
+        "periodo": "dal 09-12-2004 al 11-12-2004"
+      },
+      {
+        "content": "organizzazione e partecipazione come relatore al convegno: \"Arnolfo di Cambio e la sua epoca, costruire, scolpire, dipingere e decorare. Firenze- Colle di Val d'Elsa",
+        "periodo": "dal 07-03-2006 al 10-03-2006"
+      },
+      {
+        "content": "partecipazione come relatore al convegno: \"Medioevo: immagine e memoria\", Parma AISAME",
+        "periodo": "dal 23-09-2008 al 28-09-2008"
+      },
+      {
+        "content": "partecipazione come relatore al convegno: \"Medioevo: le officine\", Parma AISAME",
+        "periodo": "dal 22-09-2009 al 27-09-2009"
+      },
+      {
+        "content": "partecipazione come relatore al convegno: \"Medioevo:natura e figura\", Parma AISAME",
+        "periodo": "dal 20-09-2011 al 25-09-2011"
+      },
+      {
+        "content": "partecipazione come relatore al convegno: \"La Maest\u00e0 di Montevergine. Storia e restauro, Mercogliano, abbazia di Loreto",
+        "periodo": "dal 07-06-2013 al 08-06-2013"
+      },
+      {
+        "content": "partecipazione come relatore al convegno: \"Medioevo tra Occidente e Mediterraneo, sulle orme di un percorso di ricerca\", \"La Sapienza\", Universit\u00e0 di Roma",
+        "periodo": "dal 17-12-2014 al 18-12-2014"
+      },
+      {
+        "content": "partecipazione al comitato scientifico del convegno internazionale \" Medioevo ritrovato. Recovered Middle Ages. Il patrimonio artistico della Puglia e dell\u2019Italia meridionale prima e dopo Aubin-Louis Millin (1759-1818)\", a cura di A. D'Achille e A. Iacobini, che si terr\u00e0 alla Sapienza il 25-26 maggio 2017",
+        "periodo": "dal 15-01-2016 a oggi"
+      },
+      {
+        "content": "partecipazione come relatore al convegno: \"A Sud di Roma. Itinerari per la conoscenza, la conservazione, la valorizzazione e la fruizione di siti archeologici e monumenti del Lazio\", Universit\u00e0 degli studi di Roma \"Tor Vergata\"",
+        "periodo": "dal 26-10-2016 al 27-10-2016"
+      }
+    ],
+    "Conseguimento di premi e riconoscimenti per l'attivit\u00e0 scientifica, inclusa l\u2019affiliazione ad": [
+      {
+        "content": "Premio \"Citt\u00e0 di Ferentino\"",
+        "periodo": "dal 15-09-1985 al 15-09-1985"
+      }
+    ],
+    "Partecipazione al collegio dei docenti ovvero attribuzione di incarichi di insegnamento,": [
+      {
+        "content": "partecipazione al collegio dei docenti dottorato \"MEMORIA E MATERIA DELLE OPERE D'ARTE ATTRAVERSO I PROCESSI DI PRODUZIONE,STORICIZZAZIONE, CONSERVAZIONE, MUSEALIZZAZIONE\", Universit\u00e0 della Tuscia",
+        "periodo": "dal 13-12-2006 al 01-01-2008"
+      },
+      {
+        "content": "partecipazione al collegio dei docenti del dottorato in STORIA DELL'ARTE, Universit\u00e0 degli Studi di ROMA \"Tor Vergata\"",
+        "periodo": "dal 30-12-2009 al 07-02-2013"
+      },
+      {
+        "content": "partecipazione al collegio dei docenti del dottorato in BENI CULTURALI E TERRITORIO, Universit\u00e0 degli studi di Roma \"Torvergata\"",
+        "periodo": "dal 08-02-2013 a oggi"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Membro del consiglio scientifico e coordinatore della sezione arti suntuarie per la mostra \"Anno 1300 il primo giubileo. Bonifacio VIII e il suo tempo.",
+        "periodo": "dal 12-04-2000 al 16-07-2000"
+      },
+      {
+        "content": "Membro del Comitato Nazionale per le celebrazioni del VII centenario della morte di Arnolfo di Cambio",
+        "periodo": "dal 01-01-2002 al 30-12-2006"
+      }
+    ],
+    "Responsabilita' scientifica per progetti di ricerca internazionali e nazionali, ammessi al": [
+      {
+        "content": "PRIN 2002, Scultura e architettura medievali in Toscana, 24",
+        "periodo": "dal 30-11-2004 al 19-01-2005"
+      },
+      {
+        "content": "PRIN 2006 Cattedrale e citt\u00e0 in Abruzzo: Atri",
+        "periodo": "dal 09-02-2007 al 19-03-2009"
+      }
+    ]
+  }
+}

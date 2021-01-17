@@ -1,0 +1,859 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.insmatheco.2016.05.018"
+        ],
+        "titolo": "Pricing and Hedging GLWB in the Heston and in the Black-Scholes with Stochastic Interest Rate Models",
+        "ISSN": [
+          "0167-6687"
+        ],
+        "journal": "INSURANCE MATHEMATICS & ECONOMICS",
+        "csp": "vol. 70, p. 38-57, ISSN: 0167-6687, doi: 10.1016/j.insmatheco.2016.05.018",
+        "anno": "2016",
+        "autori": "Goudenge Ludovic, Molent Andrea, Zanette Antonino"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Goudenge Ludovic, Molent Andrea, Zanette Antonino (2016). Pricing and",
+        "Hedging GLWB in the Heston and in the Black-Scholes with Stochastic",
+        "Interest Rate Models. INSURANCE MATHEMATICS & ECONOMICS, vol.",
+        "70, p. 38-57, ISSN: 0167-6687, doi: 10.1016/j.insmatheco.2016.05.018"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "607-621",
+        "titolo": "Efficient pricing of Swing options in Levy-driven model",
+        "ISBN": [
+          "9781498712323"
+        ],
+        "csp": "Chapman and Hall, ISBN: 9781498712323",
+        "opera": "(a cura di): M. A. H. Dempster and Ke Tang, Commodities. p",
+        "anno": "2016",
+        "autori": "O.Kudryavtsev, A.Zanette"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "O.Kudryavtsev, A.Zanette (2016). Efficient pricing of Swing options in",
+        "Levy-driven model. In: (a cura di): M. A. H. Dempster and Ke Tang,",
+        "Commodities. p. 607-621, Chapman and Hall, ISBN: 9781498712323"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1093/imaman/dpv032"
+        ],
+        "titolo": "A hybrid approach for the implementation of the Heston model",
+        "ISSN": [
+          "1471-678X"
+        ],
+        "journal": "IMA JOURNAL OF MANAGEMENT MATHEMATICS",
+        "csp": "vol. November 12, p. 1-34, ISSN: 1471-678X, doi: 10.1093/imaman/dpv032",
+        "anno": "2015",
+        "autori": "Briani M, Caramellino L, Zanette A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Briani M, Caramellino L, Zanette A (2015). A hybrid approach for the",
+        "implementation of the Heston model. IMA JOURNAL OF MANAGEMENT",
+        "MATHEMATICS, vol. November 12, p. 1-34, ISSN: 1471-678X, doi:",
+        "10.1093/imaman/dpv032"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1093/imaman/dpt030"
+        ],
+        "titolo": "A robust tree method for pricing American options with the Cox-Ingersoll-Ross interest rate model.",
+        "ISSN": [
+          "1471-678X"
+        ],
+        "journal": "IMA JOURNAL OF MANAGEMENT MATHEMATICS",
+        "csp": "vol. 26, p. 377-401, ISSN: 1471-678X, doi: 10.1093/imaman/dpt030",
+        "anno": "2015",
+        "autori": "E.Appolloni, L. Caramellino, A. Zanette"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "E.Appolloni, L. Caramellino, A. Zanette (2015). A robust tree method for",
+        "pricing American options with the Cox-Ingersoll-Ross interest rate model..",
+        "IMA JOURNAL OF MANAGEMENT MATHEMATICS, vol. 26, p. 377-401,",
+        "ISSN: 1471-678X, doi: 10.1093/imaman/dpt030"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1142/S0219024914500356"
+        ],
+        "titolo": "The Binomial Interpolated Lattice Method for Step Double Barrier Options",
+        "ISSN": [
+          "0219-0249"
+        ],
+        "journal": "INTERNATIONAL JOURNAL OF THEORETICAL AND APPLIED FINANCE",
+        "csp": "vol. 17, ISSN: 0219-0249, doi: 10.1142/S0219024914500356",
+        "anno": "2014",
+        "autori": "APPOLLONI E, GAUDENZI M, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "APPOLLONI E, GAUDENZI M, ZANETTE A (2014). The Binomial",
+        "Interpolated Lattice Method for Step Double Barrier Options.",
+        "INTERNATIONAL JOURNAL OF THEORETICAL AND APPLIED",
+        "FINANCE, vol. 17, ISSN: 0219-0249, doi: 10.1142/S0219024914500356"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/10920277.2013.826126"
+        ],
+        "titolo": "Pricing Ratchet equirty-indexed annuities with early surrender risk in a CIR++ model. ",
+        "ISSN": [
+          "1092-0277"
+        ],
+        "journal": "NORTH AMERICAN ACTUARIAL JOURNAL",
+        "csp": "vol. 17, p. 229-252, ISSN: 1092-0277, doi: 10.1080/10920277.2013.826126",
+        "anno": "2013",
+        "autori": "WEI X, GAUDENZI M, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "WEI X, GAUDENZI M, ZANETTE A (2013). Pricing Ratchet equirty-indexed",
+        "annuities with early surrender risk in a CIR++ model. . NORTH AMERICAN",
+        "ACTUARIAL JOURNAL, vol. 17, p. 229-252, ISSN: 1092-0277, doi:",
+        "10.1080/10920277.2013.826126"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/14697688.2012.717708"
+        ],
+        "titolo": "Efficient pricing of Swing options in Levy-driven models",
+        "ISSN": [
+          "1469-7688"
+        ],
+        "journal": "QUANTITATIVE FINANCE",
+        "csp": "vol. 13, p. 627-635, ISSN: 1469-7688, doi: 10.1080/14697688.2012.717708",
+        "anno": "2013",
+        "autori": "KUDRYAVTSEV O, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "KUDRYAVTSEV O, ZANETTE A (2013). Efficient pricing of Swing options",
+        "in Levy-driven models. QUANTITATIVE FINANCE, vol. 13, p. 627-635,",
+        "ISSN: 1469-7688, doi: 10.1080/14697688.2012.717708"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10287-009-0109-4"
+        ],
+        "titolo": "Pricing cliquet options by tree methods",
+        "ISSN": [
+          "1619-697X"
+        ],
+        "journal": "COMPUTATIONAL MANAGEMENT SCIENCE",
+        "csp": "vol. 8, p. 125-135, ISSN: 1619-697X, doi: 10.1007/s10287-009-0109-4",
+        "anno": "2011",
+        "autori": "GAUDENZI M, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GAUDENZI M, ZANETTE A (2011). Pricing cliquet options by tree methods.",
+        "COMPUTATIONAL MANAGEMENT SCIENCE, vol. 8, p. 125-135, ISSN:",
+        "1619-697X, doi: 10.1007/s10287-009-0109-4"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.3233/RDA-2011-0044"
+        ],
+        "titolo": "Monte Carlo Methods for pricing and hedging American Options in High Dimension",
+        "ISSN": [
+          "1569-7371"
+        ],
+        "journal": "RISK AND DECISION ANALYSIS",
+        "csp": "vol. 2, p. 207-220, ISSN: 1569-7371, doi: 10.3233/RDA-2011-0044",
+        "anno": "2011",
+        "autori": "L.CARAMELLINO, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "L.CARAMELLINO, ZANETTE A (2011). Monte Carlo Methods for pricing",
+        "and hedging American Options in High Dimension. RISK AND DECISION",
+        "ANALYSIS, vol. 2, p. 207-220, ISSN: 1569-7371, doi:",
+        "10.3233/RDA-2011-0044"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "The Singular Points Binomial Method for pricing American path-dependent options",
+        "ISSN": [
+          "1460-1559"
+        ],
+        "journal": "THE JOURNAL OF COMPUTATIONAL FINANCE",
+        "csp": "vol. 14/1, p. 29-56, ISSN: 1460-1559",
+        "anno": "2010",
+        "autori": "GAUDENZI M, M. A. LEPELLERE, A. ZANETTE"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GAUDENZI M, M. A. LEPELLERE, A. ZANETTE (2010). The Singular",
+        "Points Binomial Method for pricing American path-dependent options. THE",
+        "JOURNAL OF COMPUTATIONAL FINANCE, vol. 14/1, p. 29-56, ISSN:",
+        "1460-1559"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "11",
+      "type": "Voce (in dizionario o enciclopedia)",
+      "parsed": {
+        "titolo": "Tree methods",
+        "opera": "Rama Cont. Encyclopedia of Quantitative Finance. p. 1829-1835, Wiley, ISBN: 9780470057568, doi: 10.1002/9780470061602.eqf12017",
+        "anno": "2010",
+        "autori": "LELONG J, ZANETTE A"
+      },
+      "rawcontent": [
+        "Voce (in dizionario o enciclopedia)",
+        "LELONG J, ZANETTE A (2010). Tree methods. In: Rama Cont.",
+        "Encyclopedia of Quantitative Finance. p. 1829-1835, Wiley, ISBN:",
+        "9780470057568, doi: 10.1002/9780470061602.eqf12017"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "12",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Evaluating fair premiums of equity-linked policies with surrender option in a bivariate model",
+        "ISSN": [
+          "0167-6687"
+        ],
+        "journal": "INSURANCE MATHEMATICS & ECONOMICS",
+        "csp": "vol. 45, p. 286-295, ISSN: 0167-6687",
+        "anno": "2009",
+        "autori": "COSTABILE M, GAUDENZI M, MASSAB\u00d2 I, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "COSTABILE M, GAUDENZI M, MASSAB\u00d2 I, ZANETTE A (2009).",
+        "Evaluating fair premiums of equity-linked policies with surrender option in a",
+        "bivariate model. INSURANCE MATHEMATICS & ECONOMICS, vol. 45, p.",
+        "286-295, ISSN: 0167-6687"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "13",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Pricing American Barrier options with discrete dividend by binomial tree",
+        "ISSN": [
+          "1593-8883"
+        ],
+        "journal": "DECISIONS IN ECONOMICS AND FINANCE",
+        "csp": "vol. 32, p. 129-148, ISSN: 1593-8883",
+        "anno": "2009",
+        "autori": "GAUDENZI M, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GAUDENZI M, ZANETTE A (2009). Pricing American Barrier options with",
+        "discrete dividend by binomial tree. DECISIONS IN ECONOMICS AND",
+        "FINANCE, vol. 32, p. 129-148, ISSN: 1593-8883"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "14",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "A Moments and Strike Matching Binomial Algorithm for Pricing American Put Options",
+        "ISSN": [
+          "1593-8883"
+        ],
+        "journal": "DECISIONS IN ECONOMICS AND FINANCE",
+        "csp": "vol. 31, p. 33-49, ISSN: 1593-8883",
+        "anno": "2008",
+        "autori": "JOURDAIN B, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "JOURDAIN B, ZANETTE A (2008). A Moments and Strike Matching",
+        "Binomial Algorithm for Pricing American Put Options. DECISIONS IN",
+        "ECONOMICS AND FINANCE, vol. 31, p. 33-49, ISSN: 1593-8883"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "15",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "New insights on testing the efficiency of methods of pricing and hedging American options",
+        "ISSN": [
+          "0377-2217"
+        ],
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "csp": "vol. 185/1, p. 235-254, ISSN: 0377-2217",
+        "anno": "2008",
+        "autori": "PRESSACCO F, GAUDENZI M, ANTONINO ZANETTE, LAURA ZIANI"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "PRESSACCO F, GAUDENZI M, ANTONINO ZANETTE, LAURA ZIANI",
+        "(2008). New insights on testing the efficiency of methods of pricing and",
+        "hedging American options. EUROPEAN JOURNAL OF OPERATIONAL",
+        "RESEARCH, vol. 185/1, p. 235-254, ISSN: 0377-2217"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "16",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "A Mixed PDE-Monte Carlo Approach for Pricing Credit Default Index Swaptions",
+        "ISSN": [
+          "1593-8883"
+        ],
+        "journal": "DECISIONS IN ECONOMICS AND FINANCE",
+        "csp": "vol. 29, p. 121-137, ISSN: 1593-8883",
+        "anno": "2006",
+        "autori": "BALLY V, L.CARAMELLINO, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "BALLY V, L.CARAMELLINO, ZANETTE A (2006). A Mixed PDE-Monte",
+        "Carlo Approach for Pricing Credit Default Index Swaptions. DECISIONS IN",
+        "ECONOMICS AND FINANCE, vol. 29, p. 121-137, ISSN: 1593-8883"
+      ],
+      "anno": "2006"
+    },
+    {
+      "id": "17",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Parabolic ADI Methods for Pricing American Options on Two Stocks",
+        "ISSN": [
+          "0364-765X"
+        ],
+        "journal": "MATHEMATICS OF OPERATIONS RESEARCH",
+        "csp": "vol. 27, p. 121-149, ISSN: 0364-765X",
+        "anno": "2002",
+        "autori": "VILLENEUVE S, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "VILLENEUVE S, ZANETTE A (2002). Parabolic ADI Methods for Pricing",
+        "American Options on Two Stocks. MATHEMATICS OF OPERATIONS",
+        "RESEARCH, vol. 27, p. 121-149, ISSN: 0364-765X"
+      ],
+      "anno": "2002"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.insmatheco.2016.05.018"
+        ],
+        "titolo": "Pricing and Hedging GLWB in the Heston and in the Black-Scholes with Stochastic Interest Rate Models",
+        "ISSN": [
+          "0167-6687"
+        ],
+        "journal": "INSURANCE MATHEMATICS & ECONOMICS",
+        "csp": "vol. 70, p. 38-57, ISSN: 0167-6687, doi: 10.1016/j.insmatheco.2016.05.018",
+        "anno": "2016",
+        "autori": "Goudenge Ludovic, Molent Andrea, Zanette Antonino"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Goudenge Ludovic, Molent Andrea, Zanette Antonino (2016). Pricing and",
+        "Hedging GLWB in the Heston and in the Black-Scholes with Stochastic",
+        "Interest Rate Models. INSURANCE MATHEMATICS & ECONOMICS, vol.",
+        "70, p. 38-57, ISSN: 0167-6687, doi: 10.1016/j.insmatheco.2016.05.018"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1093/imaman/dpt030"
+        ],
+        "titolo": "A robust tree method for pricing American options with the Cox-Ingersoll-Ross interest rate model.",
+        "ISSN": [
+          "1471-678X"
+        ],
+        "journal": "IMA JOURNAL OF MANAGEMENT MATHEMATICS",
+        "csp": "vol. 26, p. 377-401, ISSN: 1471-678X, doi: 10.1093/imaman/dpt030",
+        "anno": "2015",
+        "autori": "E.Appolloni, L. Caramellino, A. Zanette"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "E.Appolloni, L. Caramellino, A. Zanette (2015). A robust tree method for",
+        "pricing American options with the Cox-Ingersoll-Ross interest rate model..",
+        "IMA JOURNAL OF MANAGEMENT MATHEMATICS, vol. 26, p. 377-401,",
+        "ISSN: 1471-678X, doi: 10.1093/imaman/dpt030"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1093/imaman/dpv032"
+        ],
+        "titolo": "A hybrid approach for the implementation of the Heston model",
+        "ISSN": [
+          "1471-678X"
+        ],
+        "journal": "IMA JOURNAL OF MANAGEMENT MATHEMATICS",
+        "csp": "vol. November 12, p. 1-34, ISSN: 1471-678X, doi: 10.1093/imaman/dpv032",
+        "anno": "2015",
+        "autori": "Briani M, Caramellino L, Zanette A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Briani M, Caramellino L, Zanette A (2015). A hybrid approach for the",
+        "implementation of the Heston model. IMA JOURNAL OF MANAGEMENT",
+        "MATHEMATICS, vol. November 12, p. 1-34, ISSN: 1471-678X, doi:",
+        "10.1093/imaman/dpv032"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1142/S0219024914500356"
+        ],
+        "titolo": "The Binomial Interpolated Lattice Method for Step Double Barrier Options",
+        "ISSN": [
+          "0219-0249"
+        ],
+        "journal": "INTERNATIONAL JOURNAL OF THEORETICAL AND APPLIED FINANCE",
+        "csp": "vol. 17, ISSN: 0219-0249, doi: 10.1142/S0219024914500356",
+        "anno": "2014",
+        "autori": "APPOLLONI E, GAUDENZI M, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "APPOLLONI E, GAUDENZI M, ZANETTE A (2014). The Binomial",
+        "Interpolated Lattice Method for Step Double Barrier Options.",
+        "INTERNATIONAL JOURNAL OF THEORETICAL AND APPLIED",
+        "FINANCE, vol. 17, ISSN: 0219-0249, doi: 10.1142/S0219024914500356"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/10920277.2013.826126"
+        ],
+        "titolo": "Pricing Ratchet equirty-indexed annuities with early surrender risk in a CIR++ model. ",
+        "ISSN": [
+          "1092-0277"
+        ],
+        "journal": "NORTH AMERICAN ACTUARIAL JOURNAL",
+        "csp": "vol. 17, p. 229-252, ISSN: 1092-0277, doi: 10.1080/10920277.2013.826126",
+        "anno": "2013",
+        "autori": "WEI X, GAUDENZI M, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "WEI X, GAUDENZI M, ZANETTE A (2013). Pricing Ratchet equirty-indexed",
+        "annuities with early surrender risk in a CIR++ model. . NORTH AMERICAN",
+        "ACTUARIAL JOURNAL, vol. 17, p. 229-252, ISSN: 1092-0277, doi:",
+        "10.1080/10920277.2013.826126"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/14697688.2012.717708"
+        ],
+        "titolo": "Efficient pricing of Swing options in Levy-driven models",
+        "ISSN": [
+          "1469-7688"
+        ],
+        "journal": "QUANTITATIVE FINANCE",
+        "csp": "vol. 13, p. 627-635, ISSN: 1469-7688, doi: 10.1080/14697688.2012.717708",
+        "anno": "2013",
+        "autori": "KUDRYAVTSEV O, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "KUDRYAVTSEV O, ZANETTE A (2013). Efficient pricing of Swing options",
+        "in Levy-driven models. QUANTITATIVE FINANCE, vol. 13, p. 627-635,",
+        "ISSN: 1469-7688, doi: 10.1080/14697688.2012.717708"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10287-009-0109-4"
+        ],
+        "titolo": "Pricing cliquet options by tree methods",
+        "ISSN": [
+          "1619-697X"
+        ],
+        "journal": "COMPUTATIONAL MANAGEMENT SCIENCE",
+        "csp": "vol. 8, p. 125-135, ISSN: 1619-697X, doi: 10.1007/s10287-009-0109-4",
+        "anno": "2011",
+        "autori": "GAUDENZI M, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GAUDENZI M, ZANETTE A (2011). Pricing cliquet options by tree methods.",
+        "COMPUTATIONAL MANAGEMENT SCIENCE, vol. 8, p. 125-135, ISSN:",
+        "1619-697X, doi: 10.1007/s10287-009-0109-4"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "The Singular Points Binomial Method for pricing American path-dependent options",
+        "ISSN": [
+          "1460-1559"
+        ],
+        "journal": "THE JOURNAL OF COMPUTATIONAL FINANCE",
+        "csp": "vol. 14/1, p. 29-56, ISSN: 1460-1559",
+        "anno": "2010",
+        "autori": "GAUDENZI M, M. A. LEPELLERE, A. ZANETTE"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GAUDENZI M, M. A. LEPELLERE, A. ZANETTE (2010). The Singular",
+        "Points Binomial Method for pricing American path-dependent options. THE",
+        "JOURNAL OF COMPUTATIONAL FINANCE, vol. 14/1, p. 29-56, ISSN:",
+        "1460-1559"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Evaluating fair premiums of equity-linked policies with surrender option in a bivariate model",
+        "ISSN": [
+          "0167-6687"
+        ],
+        "journal": "INSURANCE MATHEMATICS & ECONOMICS",
+        "csp": "vol. 45, p. 286-295, ISSN: 0167-6687",
+        "anno": "2009",
+        "autori": "COSTABILE M, GAUDENZI M, MASSAB\u00d2 I, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "COSTABILE M, GAUDENZI M, MASSAB\u00d2 I, ZANETTE A (2009).",
+        "Evaluating fair premiums of equity-linked policies with surrender option in a",
+        "bivariate model. INSURANCE MATHEMATICS & ECONOMICS, vol. 45, p.",
+        "286-295, ISSN: 0167-6687"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "New insights on testing the efficiency of methods of pricing and hedging American options",
+        "ISSN": [
+          "0377-2217"
+        ],
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "csp": "vol. 185/1, p. 235-254, ISSN: 0377-2217",
+        "anno": "2008",
+        "autori": "PRESSACCO F, GAUDENZI M, ANTONINO ZANETTE, LAURA ZIANI"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "PRESSACCO F, GAUDENZI M, ANTONINO ZANETTE, LAURA ZIANI",
+        "(2008). New insights on testing the efficiency of methods of pricing and",
+        "hedging American options. EUROPEAN JOURNAL OF OPERATIONAL",
+        "RESEARCH, vol. 185/1, p. 235-254, ISSN: 0377-2217"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "11",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "A Moments and Strike Matching Binomial Algorithm for Pricing American Put Options",
+        "ISSN": [
+          "1593-8883"
+        ],
+        "journal": "DECISIONS IN ECONOMICS AND FINANCE",
+        "csp": "vol. 31, p. 33-49, ISSN: 1593-8883",
+        "anno": "2008",
+        "autori": "JOURDAIN B, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "JOURDAIN B, ZANETTE A (2008). A Moments and Strike Matching",
+        "Binomial Algorithm for Pricing American Put Options. DECISIONS IN",
+        "ECONOMICS AND FINANCE, vol. 31, p. 33-49, ISSN: 1593-8883"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "12",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "A Mixed PDE-Monte Carlo Approach for Pricing Credit Default Index Swaptions",
+        "ISSN": [
+          "1593-8883"
+        ],
+        "journal": "DECISIONS IN ECONOMICS AND FINANCE",
+        "csp": "vol. 29, p. 121-137, ISSN: 1593-8883",
+        "anno": "2006",
+        "autori": "BALLY V, L.CARAMELLINO, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "BALLY V, L.CARAMELLINO, ZANETTE A (2006). A Mixed PDE-Monte",
+        "Carlo Approach for Pricing Credit Default Index Swaptions. DECISIONS IN",
+        "ECONOMICS AND FINANCE, vol. 29, p. 121-137, ISSN: 1593-8883"
+      ],
+      "anno": "2006"
+    },
+    {
+      "id": "13",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Pricing and Hedging American Options by Monte Carlo Methods using a Malliavin Calculus Approach",
+        "ISSN": [
+          "0929-9629"
+        ],
+        "journal": "MONTE CARLO METHODS AND APPLICATIONS",
+        "csp": "vol. 11, p. 97-134, ISSN: 0929-9629",
+        "anno": "2005",
+        "autori": "BALLY V, L.CARAMELLINO, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "BALLY V, L.CARAMELLINO, ZANETTE A (2005). Pricing and Hedging",
+        "American Options by Monte Carlo Methods using a Malliavin Calculus",
+        "Approach. MONTE CARLO METHODS AND APPLICATIONS, vol. 11, p.",
+        "97-134, ISSN: 0929-9629"
+      ],
+      "anno": "2005"
+    },
+    {
+      "id": "14",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Adaptive Finite-Element-Methods for Local Volatility European Option Pricing",
+        "ISSN": [
+          "0219-0249"
+        ],
+        "journal": "INTERNATIONAL JOURNAL OF THEORETICAL AND APPLIED FINANCE",
+        "csp": "vol. 7, p. 659-684, ISSN: 0219-0249",
+        "anno": "2004",
+        "autori": "ERN A, VILLENEUVE S, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "ERN A, VILLENEUVE S, ZANETTE A (2004). Adaptive",
+        "Finite-Element-Methods for Local Volatility European Option Pricing.",
+        "INTERNATIONAL JOURNAL OF THEORETICAL AND APPLIED",
+        "FINANCE, vol. 7, p. 659-684, ISSN: 0219-0249"
+      ],
+      "anno": "2004"
+    },
+    {
+      "id": "15",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Parabolic ADI Methods for Pricing American Options on Two Stocks",
+        "ISSN": [
+          "0364-765X"
+        ],
+        "journal": "MATHEMATICS OF OPERATIONS RESEARCH",
+        "csp": "vol. 27, p. 121-149, ISSN: 0364-765X",
+        "anno": "2002",
+        "autori": "VILLENEUVE S, ZANETTE A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "VILLENEUVE S, ZANETTE A (2002). Parabolic ADI Methods for Pricing",
+        "American Options on Two Stocks. MATHEMATICS OF OPERATIONS",
+        "RESEARCH, vol. 27, p. 121-149, ISSN: 0364-765X"
+      ],
+      "anno": "2002"
+    }
+  ],
+  "general": {
+    "settore": "13/D4",
+    "progr": "919",
+    "nome": "ZANETTE Antonino",
+    "fascia": "Prima"
+  },
+  "titoli": {
+    "Formale attribuzione di incarichi di insegnamento o di ricerca (fellowship) presso": [
+      {
+        "content": "Corso di Financial Mathematics 2 di 60 ore (30 ore lectures, 30 ore tutorials and labs) presso la Facolt\u00e0 di Matematica e Fisica dell'Universit\u00e0 di Ljubljana (Slovenia) nell' anno accademico 2011/2012 .",
+        "periodo": "dal 05-04-2012 al 05-05-2012"
+      },
+      {
+        "content": "Invited Professor at Inria Paris",
+        "periodo": "dal 26-12-2013 al 18-03-2014"
+      },
+      {
+        "content": "Corso di Financial Mathematics 2 di 60 ore (30 ore lectures, 30 ore tutorials and labs) presso la Facolt\u00e0 di Matematica e Fisica dell'Universit\u00e0 di Ljubljana (Slovenia) nell'anno accademico 2013/2014 .",
+        "periodo": "dal 03-04-2014 al 09-05-2014"
+      },
+      {
+        "content": "Invited Professor at Inria Paris",
+        "periodo": "dal 21-12-2014 al 23-03-2015"
+      },
+      {
+        "content": "Invited Professor at China Institute for Actuarial Science, Central University of Finance and Economics Beijing (China)",
+        "periodo": "dal 16-04-2015 al 16-05-2015"
+      },
+      {
+        "content": "Invited Professor at Inria Paris",
+        "periodo": "dal 20-12-2015 al 22-03-2016"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Partecipazione come organizzatore di una sessione e come relatore al convegno AMAM (Applied Mathematics and Applications of Mathematics), Nice 2003 : Adaptive Finite-Element-Methods for Local Volatility European Option Pricing",
+        "periodo": "dal 10-02-2003 al 15-02-2003"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno MC2QMC (Monte Carlo and Quasi-Monte Carlo Methods) 2004 Juan Le Pins, France : Pricing and Hedging American Options by Monte Carlo methods using a Malliavin calculus approach.",
+        "periodo": "dal 07-06-2004 al 10-06-2004"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno AMASES Palermo 2005 : A Moments and Strike Matching Binomial Algorithm for Pricing American Put Options.",
+        "periodo": "dal 12-09-2005 al 15-09-2005"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno Bachelier Conference Tokio August 2006 : Mixed PDE-Monte Carlo Approach for Pricing Credit Default Index Swaptions.",
+        "periodo": "dal 17-08-2006 al 20-08-2006"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno Second AMaMeF Conference. Advanced Mathematical Methods for Finance, 2007 Bedlewo (Poland) : The Singular Points Binomial Method for pricing American path-dependent options",
+        "periodo": "dal 30-04-2007 al 05-05-2007"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno 5th International Conference in Computational Management Science, Imperial College London 2008 : Pricing Cliquet options by tree methods.",
+        "periodo": "dal 26-03-2008 al 28-03-2008"
+      },
+      {
+        "content": "Organizzazione convegno Amamef conference on Numerical Methods in Finance, June 2008, Udine.",
+        "periodo": "dal 25-06-2008 al 27-06-2008"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno AMASES Trento 2008 : Pricing American barrier options with discrete dividends by binomial trees.",
+        "periodo": "dal 01-09-2008 al 04-09-2008"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno Insurance: Mathematics and Economics (IME) Conference Instanbul 2009 : Evaluating fair premiums of equity-linked policies with surrender option in a bivariate model.",
+        "periodo": "dal 26-05-2009 al 29-05-2009"
+      },
+      {
+        "content": "Invited Speaker INTERNATIONAL CONFERENCE ON APPLIED STATISTICS AND FINANCIAL MATHEMATICS Hong Kong Polytechnic University 2010 : Premia : An Option Pricing project.",
+        "periodo": "dal 16-12-2010 al 18-12-2010"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno Insurance: Mathematics and Economics (IME) Conference Trieste 2011 : Pricing Ratchet equity-indexed annuities with early surrender risk in a CIR++ model.",
+        "periodo": "dal 14-06-2011 al 17-06-2011"
+      },
+      {
+        "content": "Invited Speaker XIII Iberian-Italian Congress of Financial and Actuarial Mathematics Cividale del Friuli 2012 : Tree methods for pricing exotic options.",
+        "periodo": "dal 05-07-2012 al 07-07-2012"
+      },
+      {
+        "content": "Paper accettato al at 8th World Congress of the Bachelier Finance Society Bruxelles 2014 : A hybrid tree-finite difference approach for the Heston model.",
+        "periodo": "dal 02-06-2014 al 06-06-2014"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno Italian Society of Industrial and Applied Mathematics (SIMAI) Politecnico di MILANO 2016 : Hybrid tree-finite difference methods for the Heston, Bates and Heston Hull-White models.",
+        "periodo": "dal 13-09-2016 al 16-09-2016"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Collaboratore dal 2000 ad oggi del progetto INRIA MathRisk coordinato da A.Sulem. https://team.inria.fr/mathrisk/team-members/",
+        "periodo": "dal 01-01-2000 a oggi"
+      },
+      {
+        "content": "Partecipante al progetto PRIN 2003 \"Valutazioni ad alta precisione di opzioni rilevanti ai fini del prezzamento di contratti assicurativi \" Coordinatore scientifico DE FELICE Massimo",
+        "periodo": "dal 20-11-2003 al 20-11-2005"
+      },
+      {
+        "content": "Partecipante al progetto PRIN 2007 \"Metodi numerici per la valutazione di derivati manageriali, energetici ed esotici \" Coordinatore scientifico PRESSACCO Flavio",
+        "periodo": "dal 22-09-2008 al 22-09-2010"
+      }
+    ],
+    "Partecipazione al collegio dei docenti ovvero attribuzione di incarichi di insegnamento,": [
+      {
+        "content": "Insegnamento di 9 ore. Corso : Numerical Probabilistic methods in Finance. Financial mathematics Doctoral program, Politecnico di Milano.",
+        "periodo": "dal 30-05-2011 al 01-06-2011"
+      },
+      {
+        "content": "Partecipazione al Collegio Dottorato ASSICURAZIONE E FINANZA: MATEMATICA E GESTIONE Universit\u00e0 degli Studi di TRIESTE. Cicli: XXVII, XXVIII",
+        "periodo": "dal 09-03-2012 al 05-09-2013"
+      },
+      {
+        "content": "Partecipazione al Collegio Dottorato SCIENZE MANAGERIALI E ATTUARIALI Universit\u00e0 degli Studi di Udine. Cicli: XXIX, XXX, XXXI,XXXII",
+        "periodo": "dal 06-09-2013 a oggi"
+      }
+    ]
+  }
+}

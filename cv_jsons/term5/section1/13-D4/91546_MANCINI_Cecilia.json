@@ -1,0 +1,970 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "http://dx.doi.org/10.1016/j.spa.2016.09.008"
+        ],
+        "titolo": "Truncated Realized Covariance when prices have infinite variation jumps",
+        "ISSN": [
+          "0304-4149"
+        ],
+        "journal": "STOCHASTIC PROCESSES AND THEIR APPLICATIONS",
+        "csp": "vol. 127, p. 1998-2035, ISSN: 0304-4149, doi: http://dx.doi.org/10.1016/j.spa.2016.09.008",
+        "anno": "2017",
+        "autori": "MANCINI, CECILIA"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "MANCINI, CECILIA (2017). Truncated Realized Covariance when prices",
+        "have infinite variation jumps. STOCHASTIC PROCESSES AND THEIR",
+        "APPLICATIONS, vol. 127, p. 1998-2035, ISSN: 0304-4149, doi:",
+        "http://dx.doi.org/10.1016/j.spa.2016.09.008"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Spot Volatility Estimation Using Delta Sequences",
+        "ISSN": [
+          "0949-2984"
+        ],
+        "journal": "FINANCE AND STOCHASTICS",
+        "csp": "vol. 19, p. 261-293, ISSN: 0949-2984",
+        "anno": "2015",
+        "autori": "C.Mancini, V.Mattiussi, R.Ren\u00f2"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "C.Mancini, V.Mattiussi, R.Ren\u00f2 (2015). Spot Volatility Estimation Using",
+        "Delta Sequences. FINANCE AND STOCHASTICS, vol. 19, p. 261-293,",
+        "ISSN: 0949-2984"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Measuring the relevance of the microstructure noise in observed financial data",
+        "ISSN": [
+          "0304-4149"
+        ],
+        "journal": "STOCHASTIC PROCESSES AND THEIR APPLICATIONS",
+        "csp": "vol. 123, p. 2728-2751, ISSN: 0304-4149",
+        "anno": "2013",
+        "autori": "C.Mancini"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "C.Mancini (2013). Measuring the relevance of the microstructure noise in",
+        "observed financial data. STOCHASTIC PROCESSES AND THEIR",
+        "APPLICATIONS, vol. 123, p. 2728-2751, ISSN: 0304-4149"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Identifying the Brownian covariation from the co-jumps given discrete observations",
+        "ISSN": [
+          "0266-4666"
+        ],
+        "journal": "ECONOMETRIC THEORY",
+        "csp": "vol. 28 (2), p. 249-273, ISSN: 0266-4666",
+        "anno": "2012",
+        "autori": "C.Mancini, F.Gobbi"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "C.Mancini, F.Gobbi (2012). Identifying the Brownian covariation from the",
+        "co-jumps given discrete observations. ECONOMETRIC THEORY, vol. 28",
+        "(2), p. 249-273, ISSN: 0266-4666"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "5",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "403-445",
+        "titolo": "Jumps",
+        "ISBN": [
+          "9780470872512"
+        ],
+        "csp": "Oxford:casa editrice: Wiley, ISBN: 9780470872512",
+        "opera": "Editors: Luc Bauwens Christian Hafner and S\u00e9bastien Laurent. Handbook in Financial Engineering and Econometrics: Volatility Models and Their Applications. p",
+        "anno": "2012",
+        "autori": "F.Calvori, C.Mancini"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "F.Calvori, C.Mancini (2012). Jumps. In: Editors: Luc Bauwens Christian",
+        "Hafner and S\u00e9bastien Laurent. Handbook in Financial Engineering and",
+        "Econometrics: Volatility Models and Their Applications. p. 403-445,",
+        "Oxford:casa editrice: Wiley, ISBN: 9780470872512"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.spa.2010.12.001"
+        ],
+        "titolo": "The speed of convergence of the threshold estimator of integrated variance",
+        "ISSN": [
+          "0304-4149"
+        ],
+        "journal": "STOCHASTIC PROCESSES AND THEIR APPLICATIONS",
+        "csp": "vol. 121(4), p. 845-855, ISSN: 0304-4149, doi: 10.1016/j.spa.2010.12.001",
+        "anno": "2011",
+        "autori": "Cecilia Mancini"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Cecilia Mancini (2011). The speed of convergence of the threshold",
+        "estimator of integrated variance. STOCHASTIC PROCESSES AND THEIR",
+        "APPLICATIONS, vol. 121(4), p. 845-855, ISSN: 0304-4149, doi:",
+        "10.1016/j.spa.2010.12.001"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.3150/10-BEJ293"
+        ],
+        "titolo": "Nonparametric tests for pathwise properties of semimartingales",
+        "ISSN": [
+          "1350-7265"
+        ],
+        "journal": "BERNOULLI",
+        "csp": "vol. 17(2), p. 781-813, ISSN: 1350-7265, doi: 10.3150/10-BEJ293",
+        "anno": "2011",
+        "autori": "R.Cont, C.Mancini"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "R.Cont, C.Mancini (2011). Nonparametric tests for pathwise properties of",
+        "semimartingales. BERNOULLI, vol. 17(2), p. 781-813, ISSN: 1350-7265,",
+        "doi: 10.3150/10-BEJ293"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Threshold estimation of Markov models with jumps and interest rate modeling",
+        "ISSN": [
+          "0304-4076"
+        ],
+        "journal": "JOURNAL OF ECONOMETRICS",
+        "csp": "vol. 160 (1), p. 77-92, ISSN: 0304-4076",
+        "anno": "2011",
+        "autori": "C.MANCINI, R.RENO'"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "C.MANCINI, R.RENO' (2011). Threshold estimation of Markov models with",
+        "jumps and interest rate modeling. JOURNAL OF ECONOMETRICS, vol.",
+        "160 (1), p. 77-92, ISSN: 0304-4076"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Introduction to the special issue: financial mathematics and econometrics",
+        "ISSN": [
+          "0391-5026"
+        ],
+        "journal": "ECONOMIC NOTES",
+        "csp": "vol. vol. 39 n.1/2-2010, p. 43-45, ISSN: 0391-5026",
+        "anno": "2010",
+        "autori": "R.Ren\u00f2, C.Mancini"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "R.Ren\u00f2, C.Mancini (2010). Introduction to the special issue: financial",
+        "mathematics and econometrics. ECONOMIC NOTES, vol. vol. 39",
+        "n.1/2-2010, p. 43-45, ISSN: 0391-5026"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Non-parametric Threshold estimation for models with stochastic diffusion coefficient and jumps",
+        "ISSN": [
+          "0303-6898"
+        ],
+        "journal": "SCANDINAVIAN JOURNAL OF STATISTICS",
+        "csp": "vol. 36, p. 270-296, ISSN: 0303-6898",
+        "anno": "2009",
+        "autori": "C.MANCINI"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "C.MANCINI (2009). Non-parametric Threshold estimation for models with",
+        "stochastic diffusion coefficient and jumps. SCANDINAVIAN JOURNAL OF",
+        "STATISTICS, vol. 36, p. 270-296, ISSN: 0303-6898"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "11",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Large deviation principle for an estimator of the diffusion coefficient in a jump diffusion process",
+        "ISSN": [
+          "0167-7152"
+        ],
+        "journal": "STATISTICS & PROBABILITY LETTERS",
+        "csp": "vol. 78, p. 869-879, ISSN: 0167-7152",
+        "anno": "2008",
+        "autori": "C. MANCINI"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "C. MANCINI (2008). Large deviation principle for an estimator of the",
+        "diffusion coefficient in a jump diffusion process. STATISTICS &",
+        "PROBABILITY LETTERS, vol. 78, p. 869-879, ISSN: 0167-7152"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "12",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Estimation of the characteristics of the jumps of a general Poisson-diffusion model",
+        "ISSN": [
+          "0346-1238"
+        ],
+        "journal": "SCANDINAVIAN ACTUARIAL JOURNAL",
+        "csp": "vol. 1, p. 42-52, ISSN: 0346-1238",
+        "anno": "2004",
+        "autori": "C.MANCINI"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "C.MANCINI (2004). Estimation of the characteristics of the jumps of a",
+        "general Poisson-diffusion model. SCANDINAVIAN ACTUARIAL JOURNAL,",
+        "vol. 1, p. 42-52, ISSN: 0346-1238"
+      ],
+      "anno": "2004"
+    },
+    {
+      "id": "13",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "1-329",
+        "titolo": "Metodi matematici per le decisioni aziendali. p",
+        "ISBN": [
+          "883711415X"
+        ],
+        "csp": "BOLOGNA:Pitagora, ISBN: 883711415X",
+        "anno": "2003",
+        "autori": "C. MANCINI"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "C. MANCINI (2003). Metodi matematici per le decisioni aziendali. p. 1-329,",
+        "BOLOGNA:Pitagora, ISBN: 883711415X"
+      ],
+      "anno": "2003"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "http://dx.doi.org/10.1016/j.spa.2016.09.008"
+        ],
+        "titolo": "Truncated Realized Covariance when prices have infinite variation jumps",
+        "ISSN": [
+          "0304-4149"
+        ],
+        "journal": "STOCHASTIC PROCESSES AND THEIR APPLICATIONS",
+        "csp": "vol. 127, p. 1998-2035, ISSN: 0304-4149, doi: http://dx.doi.org/10.1016/j.spa.2016.09.008",
+        "anno": "2017",
+        "autori": "MANCINI, CECILIA"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "MANCINI, CECILIA (2017). Truncated Realized Covariance when prices",
+        "have infinite variation jumps. STOCHASTIC PROCESSES AND THEIR",
+        "APPLICATIONS, vol. 127, p. 1998-2035, ISSN: 0304-4149, doi:",
+        "http://dx.doi.org/10.1016/j.spa.2016.09.008"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Spot Volatility Estimation Using Delta Sequences",
+        "ISSN": [
+          "0949-2984"
+        ],
+        "journal": "FINANCE AND STOCHASTICS",
+        "csp": "vol. 19, p. 261-293, ISSN: 0949-2984",
+        "anno": "2015",
+        "autori": "C.Mancini, V.Mattiussi, R.Ren\u00f2"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "C.Mancini, V.Mattiussi, R.Ren\u00f2 (2015). Spot Volatility Estimation Using",
+        "Delta Sequences. FINANCE AND STOCHASTICS, vol. 19, p. 261-293,",
+        "ISSN: 0949-2984"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Measuring the relevance of the microstructure noise in observed financial data",
+        "ISSN": [
+          "0304-4149"
+        ],
+        "journal": "STOCHASTIC PROCESSES AND THEIR APPLICATIONS",
+        "csp": "vol. 123, p. 2728-2751, ISSN: 0304-4149",
+        "anno": "2013",
+        "autori": "C.Mancini"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "C.Mancini (2013). Measuring the relevance of the microstructure noise in",
+        "observed financial data. STOCHASTIC PROCESSES AND THEIR",
+        "APPLICATIONS, vol. 123, p. 2728-2751, ISSN: 0304-4149"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Identifying the Brownian covariation from the co-jumps given discrete observations",
+        "ISSN": [
+          "0266-4666"
+        ],
+        "journal": "ECONOMETRIC THEORY",
+        "csp": "vol. 28 (2), p. 249-273, ISSN: 0266-4666",
+        "anno": "2012",
+        "autori": "C.Mancini, F.Gobbi"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "C.Mancini, F.Gobbi (2012). Identifying the Brownian covariation from the",
+        "co-jumps given discrete observations. ECONOMETRIC THEORY, vol. 28",
+        "(2), p. 249-273, ISSN: 0266-4666"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "5",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "403-445",
+        "titolo": "Jumps",
+        "ISBN": [
+          "9780470872512"
+        ],
+        "csp": "Oxford:casa editrice: Wiley, ISBN: 9780470872512",
+        "opera": "Editors: Luc Bauwens Christian Hafner and S\u00e9bastien Laurent. Handbook in Financial Engineering and Econometrics: Volatility Models and Their Applications. p",
+        "anno": "2012",
+        "autori": "F.Calvori, C.Mancini"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "F.Calvori, C.Mancini (2012). Jumps. In: Editors: Luc Bauwens Christian",
+        "Hafner and S\u00e9bastien Laurent. Handbook in Financial Engineering and",
+        "Econometrics: Volatility Models and Their Applications. p. 403-445,",
+        "Oxford:casa editrice: Wiley, ISBN: 9780470872512"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.spa.2010.12.001"
+        ],
+        "titolo": "The speed of convergence of the threshold estimator of integrated variance",
+        "ISSN": [
+          "0304-4149"
+        ],
+        "journal": "STOCHASTIC PROCESSES AND THEIR APPLICATIONS",
+        "csp": "vol. 121(4), p. 845-855, ISSN: 0304-4149, doi: 10.1016/j.spa.2010.12.001",
+        "anno": "2011",
+        "autori": "Cecilia Mancini"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Cecilia Mancini (2011). The speed of convergence of the threshold",
+        "estimator of integrated variance. STOCHASTIC PROCESSES AND THEIR",
+        "APPLICATIONS, vol. 121(4), p. 845-855, ISSN: 0304-4149, doi:",
+        "10.1016/j.spa.2010.12.001"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Threshold estimation of Markov models with jumps and interest rate modeling",
+        "ISSN": [
+          "0304-4076"
+        ],
+        "journal": "JOURNAL OF ECONOMETRICS",
+        "csp": "vol. 160 (1), p. 77-92, ISSN: 0304-4076",
+        "anno": "2011",
+        "autori": "C.MANCINI, R.RENO'"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "C.MANCINI, R.RENO' (2011). Threshold estimation of Markov models with",
+        "jumps and interest rate modeling. JOURNAL OF ECONOMETRICS, vol.",
+        "160 (1), p. 77-92, ISSN: 0304-4076"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.3150/10-BEJ293"
+        ],
+        "titolo": "Nonparametric tests for pathwise properties of semimartingales",
+        "ISSN": [
+          "1350-7265"
+        ],
+        "journal": "BERNOULLI",
+        "csp": "vol. 17(2), p. 781-813, ISSN: 1350-7265, doi: 10.3150/10-BEJ293",
+        "anno": "2011",
+        "autori": "R.Cont, C.Mancini"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "R.Cont, C.Mancini (2011). Nonparametric tests for pathwise properties of",
+        "semimartingales. BERNOULLI, vol. 17(2), p. 781-813, ISSN: 1350-7265,",
+        "doi: 10.3150/10-BEJ293"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Non-parametric Threshold estimation for models with stochastic diffusion coefficient and jumps",
+        "ISSN": [
+          "0303-6898"
+        ],
+        "journal": "SCANDINAVIAN JOURNAL OF STATISTICS",
+        "csp": "vol. 36, p. 270-296, ISSN: 0303-6898",
+        "anno": "2009",
+        "autori": "C.MANCINI"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "C.MANCINI (2009). Non-parametric Threshold estimation for models with",
+        "stochastic diffusion coefficient and jumps. SCANDINAVIAN JOURNAL OF",
+        "STATISTICS, vol. 36, p. 270-296, ISSN: 0303-6898"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Large deviation principle for an estimator of the diffusion coefficient in a jump diffusion process",
+        "ISSN": [
+          "0167-7152"
+        ],
+        "journal": "STATISTICS & PROBABILITY LETTERS",
+        "csp": "vol. 78, p. 869-879, ISSN: 0167-7152",
+        "anno": "2008",
+        "autori": "C. MANCINI"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "C. MANCINI (2008). Large deviation principle for an estimator of the",
+        "diffusion coefficient in a jump diffusion process. STATISTICS &",
+        "PROBABILITY LETTERS, vol. 78, p. 869-879, ISSN: 0167-7152"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "11",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Estimation of the characteristics of the jumps of a general Poisson-diffusion model",
+        "ISSN": [
+          "0346-1238"
+        ],
+        "journal": "SCANDINAVIAN ACTUARIAL JOURNAL",
+        "csp": "vol. 1, p. 42-52, ISSN: 0346-1238",
+        "anno": "2004",
+        "autori": "C.MANCINI"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "C.MANCINI (2004). Estimation of the characteristics of the jumps of a",
+        "general Poisson-diffusion model. SCANDINAVIAN ACTUARIAL JOURNAL,",
+        "vol. 1, p. 42-52, ISSN: 0346-1238"
+      ],
+      "anno": "2004"
+    },
+    {
+      "id": "12",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Uniqueness of the solution to a difference-partial differential equation for finance",
+        "ISSN": [
+          "0218-2025"
+        ],
+        "journal": "MATHEMATICAL MODELS AND METHODS IN APPLIED SCIENCES",
+        "csp": "vol. 13, p. 919-943, ISSN: 0218-2025",
+        "anno": "2003",
+        "autori": "C. MANCINI"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "C. MANCINI (2003). Uniqueness of the solution to a difference-partial",
+        "differential equation for finance. MATHEMATICAL MODELS AND",
+        "METHODS IN APPLIED SCIENCES, vol. 13, p. 919-943, ISSN: 0218-2025"
+      ],
+      "anno": "2003"
+    },
+    {
+      "id": "13",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "The European options hedge perfectly in a Poisson-Gaussian stock market model",
+        "ISSN": [
+          "1350-486X"
+        ],
+        "journal": "APPLIED MATHEMATICAL FINANCE",
+        "csp": "vol. 9, p. 87-102, ISSN: 1350-486X",
+        "anno": "2002",
+        "autori": "C. MANCINI"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "C. MANCINI (2002). The European options hedge perfectly in a",
+        "Poisson-Gaussian stock market model. APPLIED MATHEMATICAL",
+        "FINANCE, vol. 9, p. 87-102, ISSN: 1350-486X"
+      ],
+      "anno": "2002"
+    },
+    {
+      "id": "14",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Disentangling the jumps of the diffusion in a geometric jumping Brownian motion. GIORNALE DELL'ISTITUTO ITALIANO DEGLI ATTUARI, vol",
+        "ISSN": [
+          "0390-5780"
+        ],
+        "journal": "LXIV",
+        "csp": "p. 19-47, ISSN: 0390-5780",
+        "anno": "2001",
+        "autori": "C. MANCINI"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "C. MANCINI (2001). Disentangling the jumps of the diffusion in a geometric",
+        "jumping Brownian motion. GIORNALE DELL'ISTITUTO ITALIANO DEGLI",
+        "ATTUARI, vol. LXIV, p. 19-47, ISSN: 0390-5780"
+      ],
+      "anno": "2001"
+    },
+    {
+      "id": "15",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "317-331",
+        "titolo": "Completing a jump-diffusion version of the bivariate Cox-Ingersoll-Ross model",
+        "csp": "-, Genova, 9-12 Sett.",
+        "opera": "AMASES. p",
+        "anno": "1998",
+        "autori": "C. MANCINI"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "C. MANCINI (1998). Completing a jump-diffusion version of the bivariate",
+        "Cox-Ingersoll-Ross model. In: AMASES. p. 317-331, -, Genova, 9-12 Sett."
+      ],
+      "anno": "1998"
+    }
+  ],
+  "general": {
+    "settore": "13/D4",
+    "progr": "91546",
+    "nome": "MANCINI Cecilia",
+    "fascia": "Prima"
+  },
+  "titoli": {
+    "Direzione o partecipazione a comitati editoriali di riviste, collane editoriali, enciclopedie e": [
+      {
+        "content": "2009-2010: Guest Editor, assieme a Roberto Ren\u00f2, dello Special Issue Financial Mathematics and Econometrics, dedicato alla pubblicazione di articoli collegati alla Research week Stochastic processes and financial econometrics, che si \u00e8 svolta a Firenze dal 9 all\u201911 settembre 2009, apparso su Economic Notes, 2010, Volume 39, Issue 1",
+        "periodo": "dal 11-09-2009 al 10-09-2010"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Comunicazioni a convegni (contributed talks): file allegato",
+        "periodo": "dal 01-01-1997 al 31-12-2017"
+      },
+      {
+        "content": "Comunicazione invitata, Cortona: convegno \"Evolution equations and applications\", invited speaker, partecipazione finanziata dall\u2019organizzazione del convegno",
+        "periodo": "dal 09-05-1999 al 15-05-1999"
+      },
+      {
+        "content": "Convegno co-organizzato: meeting Mathematical Finance Seminars, in occasione delle visite di M.Schweizer and P.Embrechts, Firenze",
+        "periodo": "dal 18-03-2003 al 18-03-2003"
+      },
+      {
+        "content": "Convegno co-organizzato: meeting Mathematical Finance Seminars, in occasione della visita di H. Buhlmann, Firenze 28/4/2004,",
+        "periodo": "dal 28-04-2004 al 28-04-2004"
+      },
+      {
+        "content": "Comunicazione invitata, Perugia, II giornata di studio \u201cDati ad alta frequenza: modelli e Applicazioni\u201d",
+        "periodo": "dal 19-11-2004 al 19-11-2004"
+      },
+      {
+        "content": "Comunicazione invitata, Politecnico di Torino: 22-esimo convegno IFIP, funded by MIUR project directed by Sergio Vessella",
+        "periodo": "dal 18-07-2005 al 22-07-2005"
+      },
+      {
+        "content": "Convegno co-organizzato: New Mathematical Methods in Risk Theory, Workshop in honour of Hans B\u00fchlmann, Firenze",
+        "periodo": "dal 06-10-2005 al 08-10-2005"
+      },
+      {
+        "content": "Comunicazione invitata, Rimini: invited talk, Convegno Small open economies in a globalized world, Rimini, sessione di Econometria, funded by DiMaD and by the conference organization",
+        "periodo": "dal 29-08-2006 al 02-09-2006"
+      },
+      {
+        "content": "Comunicazione invitata, Ecole Polytechnique, Palaiseau (France), Workshop on Financial Modelling with Jump Processes, funded by AMAMEF-ESF",
+        "periodo": "dal 06-09-2006 al 08-09-2006"
+      },
+      {
+        "content": "Comunicazione invitata, IMPA, Rio de Janeiro: Convegno Mathematics and finance: from theory to practice, funded by IMPA",
+        "periodo": "dal 30-10-2006 al 01-11-2006"
+      },
+      {
+        "content": "Comunicazione invitata, Tolouse: miniworkshop organizzato da Monique Pontier, Universit\u00e0 di Tolosa III, funded by the University Tolouse III",
+        "periodo": "dal 22-02-2007 al 22-02-2007"
+      },
+      {
+        "content": "Comunicazione invitata, Montreal: Invited discussant del paper di Ait-Sahalia e Jacod Testing for jumps in a discretely observed Process, CIREQ annual conference of Financial Econometrics (funded by CIREQ)",
+        "periodo": "dal 04-05-2007 al 05-05-2007"
+      },
+      {
+        "content": "Comunicazione invitata, Zurich, Minisymposium Inverse problems in financial modelling, organized by J. Zubelli, Convegno ICIAM (funded by ICIAM and DiMaD)",
+        "periodo": "dal 16-07-2007 al 20-07-2007"
+      },
+      {
+        "content": "Comunicazione invitata: London, Imperial College, invited discussant of a paper by Todorov and Tauchen, at the Financial econometrics conference (funded by Imperial College and DiMaD research funds, head of project PierLuigi Zezza)",
+        "periodo": "dal 16-05-2008 al 17-05-2008"
+      },
+      {
+        "content": "Comunicazione invitata, Ascona (declined), Sixth Seminar on Stochastic Analysis, Random Fields and Applications, Centro Stefano Franscini, Switzerland",
+        "periodo": "dal 19-05-2008 al 23-05-2008"
+      },
+      {
+        "content": "Comunicazione invitata: Parigi, Hec campus, Methematical finance conference, invtation funded by HEC",
+        "periodo": "dal 26-05-2008 al 26-05-2008"
+      },
+      {
+        "content": "Comunicazione invitata: London, UCL, workshop Continuous-time financial econometrics, invitation funded by UCL",
+        "periodo": "dal 28-05-2008 al 28-05-2008"
+      },
+      {
+        "content": "Comunicazione invitata alla conferenza Risk modelling and high-frequency data, Munich University of Technology, invitation funded by the Insitute for advanced study of TUM",
+        "periodo": "dal 12-06-2008 al 13-06-2008"
+      },
+      {
+        "content": "Comunicazione invitata, Financial Econometrics conference, Toulouse School of Economics, France",
+        "periodo": "dal 15-05-2009 al 16-05-2009"
+      },
+      {
+        "content": "Convegno organizzato: Reserach week in Florence Stochastic processes and financial econometrics, in occasione delle visite di Jean Jacod e Nour Meddahi presso il Dipartimento di Matematica per le Decisioni, Firenze",
+        "periodo": "dal 09-09-2009 al 11-09-2009"
+      },
+      {
+        "content": "Comunicazione invitata al Workshop on Stochastic Processes and Applications to Mathematical Finance, Ritsumeikan University, Japan",
+        "periodo": "dal 11-03-2010 al 12-03-2010"
+      },
+      {
+        "content": "Comunicazione invitata, Johns Hopkins Carey Business School, Baltimore, Maryland, Workshop on Econometrics, missed out travel because of Iceland volcano dust cloud",
+        "periodo": "dal 20-04-2010 al 20-04-2010"
+      },
+      {
+        "content": "Comunicazione invitata, Field Institute Toronto, Workshop on Financial Econometrics, organized by Yacine Ait-Sahalia (Chair), Jianqing Fan, Per Mykland, Thematic Program on Quantitative finance January-June 2010, missed out travel because of Iceland volcano dust cloud",
+        "periodo": "dal 24-04-2010 al 24-04-2010"
+      },
+      {
+        "content": "Comunicazione invitata alla Financial Econometrics Conference, Toulouse School of Economics, France, come discussant of a paper by Taesuk Lee and Werner Ploberger,",
+        "periodo": "dal 21-05-2010 al 22-05-2010"
+      },
+      {
+        "content": "Convegno organizzato: Third Florence-Ritsumeikan Workshop on Probability and Finance: Modeling and pricing finance and insurance assets in a risk management perspective, Firenze",
+        "periodo": "dal 16-03-2011 al 17-03-2011"
+      },
+      {
+        "content": "Convegno organizzato: Workshop Statistical inference and numerical analysis of stochastic processes: probabilistic tools and application to financial econometrics, Firenze",
+        "periodo": "dal 17-03-2011 al 18-03-2011"
+      },
+      {
+        "content": "Comunicazione invitata al Seventh Seminar on Stochastic Analysis, Random Fields and Applications, Ascona",
+        "periodo": "dal 23-05-2011 al 24-05-2011"
+      },
+      {
+        "content": "Comunicazione invitata alla conferenza Measuring risk, presso il Bendheim center for Finance, Princeton University",
+        "periodo": "dal 07-10-2011 al 08-10-2011"
+      },
+      {
+        "content": "Comunicazione invitata al workshop Statistics for Stochastic Processes: Inference, Limit Theorems, Finance and Data Analysis, Institut L. Bachelier, Palais Brongniart, Paris",
+        "periodo": "dal 12-03-2012 al 13-03-2012"
+      },
+      {
+        "content": "Convegno organizzato: Fifth Florence-Ritsumeikan Workshop on Stochastic Processes and Applications to Finance and Risk Management, Firenze",
+        "periodo": "dal 12-03-2013 al 13-03-2013"
+      },
+      {
+        "content": "Comunicazione invitata all'International Conference on mathematical/quantitative finance, financial engineering and related fields, presso il JAFEE-Columbia-Institute of Statistical Mathematics (ISM), Tokyo",
+        "periodo": "dal 18-03-2013 al 19-03-2013"
+      },
+      {
+        "content": "Comunicazione invitata alla conference Measuring and Modeling Financial Risk with High Frequency Data, EU Institute, Fiesole",
+        "periodo": "dal 27-06-2013 al 29-06-2013"
+      },
+      {
+        "content": "Comunicazione invitata ad una sessione parallela del 7th International Conference on Computational and Financial Econometrics (CFE), Univ. London",
+        "periodo": "dal 14-12-2013 al 16-12-2013"
+      },
+      {
+        "content": "Comunicazione invitata al convegno Statistics for Stochastic Processes and Analysis of High Frequency Data, Univ. Paris 6",
+        "periodo": "dal 18-12-2013 al 19-12-2013"
+      },
+      {
+        "content": "Comunicazione invitata: Discussant di un paper di Caporin, Kolokolov e Ren\u00f2 al XV Workshop on Quantitative Finance, Firenze",
+        "periodo": "dal 23-01-2014 al 24-01-2014"
+      },
+      {
+        "content": "Convegno co-organizzato: XV Workshop on Quantitative Finance, Firenze",
+        "periodo": "dal 23-01-2014 al 24-01-2014"
+      },
+      {
+        "content": "Comunicazione invitata al workshop on Statistical Inference for L\u00e9vy Processes, Lorentz Center, Leiden, The Netherlands",
+        "periodo": "dal 22-09-2014 al 25-09-2014"
+      },
+      {
+        "content": "Comunicazione invitata ad una sessione parallela della SIAM conference on Financial mathematics and engineering, Chicago",
+        "periodo": "dal 13-11-2014 al 15-11-2014"
+      },
+      {
+        "content": "Comunicazione invitata, workshop on statistics of high-frequency data, Humboldt University, Berlin, declined for teaching duties",
+        "periodo": "dal 20-11-2014 al 21-11-2014"
+      },
+      {
+        "content": "Comunicazione invitata, conference on Realized volatility, Montreal: declined for teaching duties",
+        "periodo": "dal 12-12-2014 al 13-12-2014"
+      },
+      {
+        "content": "Convegno co-corganizzato: Workshop Dependence in risk measurement and risk management, Florence",
+        "periodo": "dal 18-12-2014 al 19-12-2014"
+      },
+      {
+        "content": "Comunicazione invitata, discussant to a paper by J.Li at the Financial Econometrics Conference, Toulouse (declined)",
+        "periodo": "dal 22-05-2015 al 23-05-2015"
+      },
+      {
+        "content": "Comunicazione invitata al Conference Frontiers in Stochastic Modelling for Finance, Padova and Venezia",
+        "periodo": "dal 02-02-2016 al 05-02-2016"
+      },
+      {
+        "content": "Comunicazione invitata al Financial Engineering and Risk Management International Symposium, Guangzhou, China",
+        "periodo": "dal 12-06-2016 al 13-06-2016"
+      },
+      {
+        "content": "Comunicazione invitata al Siena Finance Workshop, Siena, e discussant del paper presentato da M.W.D.Kurtz",
+        "periodo": "dal 30-09-2016 al 30-09-2016"
+      },
+      {
+        "content": "Comunicazione invitata al Vienna\u2013Copenhagen Conference on Financial Econometrics, Vienna, dove sono stata anche Chairperson",
+        "periodo": "dal 09-03-2017 al 11-03-2017"
+      },
+      {
+        "content": "Comunicazione invitata al I Gransasso Workshop on Mathematical Finance, L\u2019Aquila",
+        "periodo": "dal 27-09-2017 al 29-09-2017"
+      }
+    ],
+    "Conseguimento di premi e riconoscimenti per l'attivit\u00e0 scientifica, inclusa l\u2019affiliazione ad": [
+      {
+        "content": "Affiliazione al Gruppo Nazionale per l'Analisi Matematica, la Probabilit\u00e0 e Applicazioni (GNAMPA) dell'ente di ricerca INdAM (Roma)",
+        "periodo": "dal 01-01-1996 a oggi"
+      },
+      {
+        "content": "Premio di laurea Bruno De Finetti, conferito dall'Accademia Nazionale dei Lincei, Roma, giugno",
+        "periodo": "dal 01-06-1997 al 30-06-1997"
+      },
+      {
+        "content": "Premio AMASES a pubblicazione di giovane autore che ha presentato un lavoro a nome singolo al XXII convegno AMASES, Genova",
+        "periodo": "dal 01-09-1998 al 30-09-1998"
+      },
+      {
+        "content": "Econometric Society: contributo per il lavoro \"Estimating the integrated volatility in stochastic volatility models with L\u00e9vy type jumps\", presentato al 2005 World congress of the Econometric Society, 500 Eu",
+        "periodo": "dal 01-08-2005 al 31-08-2005"
+      },
+      {
+        "content": "Affiliazione alla Society of Financial Econometrics (SoFiE): membro ordinario",
+        "periodo": "dal 01-01-2016 al 31-12-2016"
+      }
+    ],
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "RIEPILOGO titoli: file allegato",
+        "periodo": "dal 01-01-1988 al 31-05-2018"
+      },
+      {
+        "content": "Titoli accademici di ruolo e formazione, file allegato",
+        "periodo": "dal 01-07-1988 a oggi"
+      },
+      {
+        "content": "Seminari invitati: file allegato",
+        "periodo": "dal 01-06-1994 al 03-05-2018"
+      },
+      {
+        "content": "Ulteriori soggiorni di ricerca all'estero: 7 mesi a Parigi 6, per la frequenza dei corsi di DEA ed il conseguimento del diploma, a.a. 94-95",
+        "periodo": "dal 01-10-1994 al 30-09-1995"
+      },
+      {
+        "content": "Altre pubblicazioni: file allegato",
+        "periodo": "dal 01-01-1995 al 28-02-2018"
+      },
+      {
+        "content": "Attivit\u00e0 di referaggio: file allegato",
+        "periodo": "dal 01-01-1997 al 31-12-2017"
+      },
+      {
+        "content": "Attivit\u00e0 didattica in Italia: file allegato",
+        "periodo": "dal 01-01-1998 al 31-12-2018"
+      },
+      {
+        "content": "Altri incarichi istituzionali: file allegato",
+        "periodo": "dal 01-01-1998 al 19-04-2018"
+      },
+      {
+        "content": "Organizzazione di minicorsi e seminari scientifici a Firenze: file allegato",
+        "periodo": "dal 03-03-1999 al 28-03-2017"
+      },
+      {
+        "content": "RIEPILOGO pubblicazioni ai fini del calcolo degli indicatori di impatto",
+        "periodo": "dal 01-01-2003 al 31-12-2017"
+      },
+      {
+        "content": "Advisor di tesi di dottorato o di assegni di ricerca: file allegato",
+        "periodo": "dal 01-01-2005 a oggi"
+      },
+      {
+        "content": "Ulteriori soggiorni di ricerca all'estero: Newton Institue, Cambridge: visting 31-1/4-2 e 4-7/8-7",
+        "periodo": "dal 31-01-2005 al 08-07-2005"
+      },
+      {
+        "content": "LETTERA di mia presentazione da parte di Rama Cont",
+        "periodo": "dal 02-06-2005 al 02-06-2005"
+      },
+      {
+        "content": "Commissario per assegnazione del titolo di dottorato: file allegato",
+        "periodo": "dal 01-01-2007 al 31-12-2011"
+      },
+      {
+        "content": "Commissario in concorsi di ricercatore: file allegato",
+        "periodo": "dal 01-01-2008 al 31-03-2018"
+      },
+      {
+        "content": "DICHIARAZIONI DEI COAUTORI sul mio contributo alle pubblicazioni: file allegato",
+        "periodo": "dal 01-01-2008 al 31-12-2012"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Partecipazione, quale membro del gruppo di ricerca, a ricerche per progetti PRIN finanziati dal MIUR: file allegato",
+        "periodo": "dal 01-01-1998 al 31-12-2008"
+      },
+      {
+        "content": "Partecipazione al progetto di ricerca finanziato da GNAMPA, responsabile Marcello Galeotti",
+        "periodo": "dal 01-01-2009 al 31-12-2009"
+      },
+      {
+        "content": "Direzione del progetto \"Small Jumps and Default Contagion\u201d (finanziato da Europlace Institute of Finance Louis Bachelier): memberi del gruppo iniziale: Giampiero Maria Gallo (allora presso l'Univ. di Firenze), Mark Podolskij (Univ. Aarhus), Peter Tankov (Univ. Parigi 7); si sono poi aggiunti: Rachele Foschi (allora Univ. di Firenze) e Francesca Lilla (Univ. di Firenze)",
+        "periodo": "dal 01-01-2014 a oggi"
+      },
+      {
+        "content": "Partecipazione alle attivit\u00e0 di ricerca del gruppo di lavoro con Roberto Ren\u00f2 (direzione) e Venessa Mattiussi al tema \u201cSpot Volatility Estimation Using Delta Sequences\u201d",
+        "periodo": "dal 01-01-2014 al 31-12-2015"
+      },
+      {
+        "content": "Direzione del progetto strategico (finanziato dall'Universit\u00e0 di Firenze) \"Previsori di instabilit\u00e0 dei mercati finanziari\", gruppo di lavoro: Maria Elvira Mancino (Univ. Firenze), Salvatore Federico (Univ. Firenze), a cui si sono aggiunti Jos\u00e9 Figueroa-Lopez (Univ. di Washington di Saint Louis), Rachele Foschi (allora Univ. di Firenze) e Francesca Lilla (Univ. di Firenze)",
+        "periodo": "dal 01-01-2015 al 31-12-2017"
+      }
+    ],
+    "Formale attribuzione di incarichi di insegnamento o di ricerca (fellowship) presso": [
+      {
+        "content": "19 Soggiorni di ricerca all'estero su incarico: file allegato",
+        "periodo": "dal 11-01-1998 al 19-05-2017"
+      },
+      {
+        "content": "Stochastic processes, jumps and some applications to finance, Master and PhD students course, Ritsumeikan University, Japan",
+        "periodo": "dal 17-02-2009 al 24-02-2009"
+      },
+      {
+        "content": "Markowits Portfolio theory, a course to Bachelor students and a course to Master students, IPAG Business School (Grandes \u00c9coles), Paris",
+        "periodo": "dal 09-04-2018 al 12-04-2018"
+      }
+    ],
+    "Responsabilita' scientifica per progetti di ricerca internazionali e nazionali, ammessi al": [
+      {
+        "content": "Finanziamenti ulteriori di ricerca: file allegato",
+        "periodo": "dal 01-01-1994 al 31-12-2017"
+      },
+      {
+        "content": "Ateneo fiorentino: finanziamento del progetto Giovani Ricercatori, Problemi di controllo ottimo stocastico: aspetti teorici e applicazioni alla finanza: 4\u2019000\u2019000 Lire",
+        "periodo": "dal 01-01-2001 al 31-12-2001"
+      },
+      {
+        "content": "Ateneo fiorentino, finanziamento del progetto Giovani Ricercatori, Strategie di investimento ottimali secondo il criterio di limited off-hedging: 2000 Eu",
+        "periodo": "dal 01-01-2002 al 31-12-2002"
+      },
+      {
+        "content": "grant of 10\u2019000 Euro by Europlace Institute of Finance Louis Bachelier (EIF) for the research project \"Small Jumps and Default Contagion\u201d, other members of the group: Giampiero Maria Gallo, Mark Podolskij and Peter Tankov",
+        "periodo": "dal 10-12-2013 al 09-12-2015"
+      },
+      {
+        "content": "Finanziamento di 32\u2019000 Euro da parte dell'Universit\u00e0 di Firenze per il progetto strategico \"Previsori di instabilit\u00e0 dei mercati finanziari\", altri membri del gruppo: Maria Elvira Mancino, Salvatore Federico",
+        "periodo": "dal 29-09-2015 al 31-12-2017"
+      },
+      {
+        "content": "GNAMPA 3000 Eu, finanziamento di progetto di ricerca annuale",
+        "periodo": "dal 22-03-2018 a oggi"
+      }
+    ]
+  }
+}

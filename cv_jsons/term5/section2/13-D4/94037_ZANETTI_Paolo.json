@@ -1,0 +1,657 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.ins.2018.03.029"
+        ],
+        "titolo": "Performance and Energy Optimisation in CPUs through Fuzzy Knowledge Representation",
+        "ISSN": [
+          "0020-0255"
+        ],
+        "journal": "INFORMATION SCIENCES",
+        "csp": "ISSN: 0020-0255, doi: 10.1016/j.ins.2018.03.029",
+        "anno": "2018",
+        "autori": "Gellert, Arpad, Florea, Adrian, Fiore, Ugo, Zanetti, Paolo, Vintan, Lucian"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gellert, Arpad, Florea, Adrian, Fiore, Ugo, Zanetti, Paolo, Vintan, Lucian",
+        "(2018). Performance and Energy Optimisation in CPUs through Fuzzy",
+        "Knowledge Representation. INFORMATION SCIENCES, ISSN: 0020-0255,",
+        "doi: 10.1016/j.ins.2018.03.029"
+      ],
+      "anno": "2018"
+    },
+    {
+      "id": "2",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "Springer",
+        "titolo": "Tuning a Deep Learning Network for Solvency II: Preliminary Results",
+        "ISBN": [
+          "978-3-319-89823-0"
+        ],
+        "csp": "ISBN: 978-3-319-89823-0",
+        "opera": "Corazza M. Durb\u00e1n M. Gran\u00e9 A. Perna C. Sibillo M.. Mathematical and Statistical Methods for Actuarial Sciences and Finance",
+        "anno": "2018",
+        "autori": "Ugo Fiore, Zelda Marino, Luca Passalacqua, Francesca Perla, Salvatore Scognamiglio, Paolo Zanetti"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Ugo Fiore, Zelda Marino, Luca Passalacqua, Francesca Perla, Salvatore",
+        "Scognamiglio, Paolo Zanetti (2018). Tuning a Deep Learning Network for",
+        "Solvency II: Preliminary Results. In: Corazza M. Durb\u00e1n M. Gran\u00e9 A. Perna",
+        "C. Sibillo M.. Mathematical and Statistical Methods for Actuarial Sciences",
+        "and Finance. Springer, ISBN: 978-3-319-89823-0"
+      ],
+      "anno": "2018"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.12988/ams.2017.77215"
+        ],
+        "titolo": "Stock price forecasting with an hybrid model",
+        "ISSN": [
+          "1314-7552"
+        ],
+        "journal": "APPLIED MATHEMATICAL SCIENCES",
+        "csp": "vol. 11, p. 2225-2236, ISSN: 1314-7552, doi: 10.12988/ams.2017.77215",
+        "anno": "2017",
+        "autori": "Corsaro S., De Angelis P. L., Marino Z., Perla F., Zanetti P., Fiore U."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Corsaro S., De Angelis P. L., Marino Z., Perla F., Zanetti P., Fiore U.",
+        "(2017). Stock price forecasting with an hybrid model. APPLIED",
+        "MATHEMATICAL SCIENCES, vol. 11, p. 2225-2236, ISSN: 1314-7552,",
+        "doi: 10.12988/ams.2017.77215"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.ins.2017.12.030"
+        ],
+        "titolo": "Using generative adversarial networks for improving classification effectiveness in credit card fraud detection",
+        "ISSN": [
+          "0020-0255"
+        ],
+        "journal": "INFORMATION SCIENCES",
+        "csp": "ISSN: 0020-0255, doi: 10.1016/j.ins.2017.12.030",
+        "anno": "2017",
+        "autori": "Fiore, Ugo, De Santis, Alfredo, Perla, Francesca, Zanetti, Paolo, Palmieri, Francesco"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Fiore, Ugo, De Santis, Alfredo, Perla, Francesca, Zanetti, Paolo, Palmieri,",
+        "Francesco (2017). Using generative adversarial networks for improving",
+        "classification effectiveness in credit card fraud detection. INFORMATION",
+        "SCIENCES, ISSN: 0020-0255, doi: 10.1016/j.ins.2017.12.030"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s00500-015-1847-6"
+        ],
+        "titolo": "Relevant applications of Monte Carlo simulation in Solvency II",
+        "ISSN": [
+          "1432-7643"
+        ],
+        "journal": "SOFT COMPUTING",
+        "csp": "ISSN: 1432-7643, doi: 10.1007/s00500-015-1847-6",
+        "anno": "2015",
+        "autori": "Casarano Giuseppe, Castellani Gilberto, Passalacqua Luca, Perla Francesca, Zanetti Paolo"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Casarano Giuseppe, Castellani Gilberto, Passalacqua Luca, Perla",
+        "Francesca, Zanetti Paolo (2015). Relevant applications of Monte Carlo",
+        "simulation in Solvency II. SOFT COMPUTING, ISSN: 1432-7643, doi:",
+        "10.1007/s00500-015-1847-6"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.12988/ams.2013.37357"
+        ],
+        "titolo": "Hybrid MPI/openMP application on multicore architectures: the case of profit-sharing life insurance policies valuation",
+        "ISSN": [
+          "1312-885X"
+        ],
+        "journal": "APPLIED MATHEMATICAL SCIENCES",
+        "csp": "vol. 7, p. 5051-5070, ISSN: 1312-885X, doi: 10.12988/ams.2013.37357",
+        "anno": "2013",
+        "autori": "DE ANGELIS Pasquale Luigi, PERLA Francesca, ZANETTI Paolo"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "DE ANGELIS Pasquale Luigi, PERLA Francesca, ZANETTI Paolo (2013).",
+        "Hybrid MPI/openMP application on multicore architectures: the case of",
+        "profit-sharing life insurance policies valuation. APPLIED MATHEMATICAL",
+        "SCIENCES, vol. 7, p. 5051-5070, ISSN: 1312-885X, doi:",
+        "10.12988/ams.2013.37357"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.parco.2009.10.002"
+        ],
+        "titolo": "On parallel asset-liability management in life insurance: a forward risk-neutral approach",
+        "ISSN": [
+          "0167-8191"
+        ],
+        "journal": "PARALLEL COMPUTING",
+        "csp": "p. 390-402, ISSN: 0167-8191, doi: 10.1016/j.parco.2009.10.002",
+        "anno": "2010",
+        "autori": "CORSARO S., DE ANGELIS P.L., MARINO Z., PERLA F., ZANETTI P"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "CORSARO S., DE ANGELIS P.L., MARINO Z., PERLA F., ZANETTI P",
+        "(2010). On parallel asset-liability management in life insurance: a forward",
+        "risk-neutral approach. PARALLEL COMPUTING, p. 390-402, ISSN:",
+        "0167-8191, doi: 10.1016/j.parco.2009.10.002"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Computational issues in internal models: the case of profit-sharing life insurance policies",
+        "ISSN": [
+          "0390-5780"
+        ],
+        "journal": "GIORNALE DELL'ISTITUTO ITALIANO DEGLI ATTUARI",
+        "csp": "vol. 72, p. 243-262, ISSN: 0390-5780",
+        "anno": "2009",
+        "autori": "CORSARO Stefania, DE ANGELIS Pasquale Luigi, MARINO Zelda, PERLA Francesca, ZANETTI Paolo"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "CORSARO Stefania, DE ANGELIS Pasquale Luigi, MARINO Zelda,",
+        "PERLA Francesca, ZANETTI Paolo (2009). Computational issues in",
+        "internal models: the case of profit-sharing life insurance policies.",
+        "GIORNALE DELL'ISTITUTO ITALIANO DEGLI ATTUARI, vol. 72, p.",
+        "243-262, ISSN: 0390-5780"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "KREMM: an e-learning system for mathematical models applied to Economics and Finance. JE-LKS",
+        "ISSN": [
+          "1971-8829"
+        ],
+        "journal": "JOURNAL OF E-LEARNING AND KNOWLEDGE SOCIETY",
+        "csp": "vol. 5, p. 221-230, ISSN: 1971-8829",
+        "anno": "2009",
+        "autori": "CORSARO S, DE ANGELIS P L, GUARRACINO M R, MARINO Z, MONETTI V, PERLA F, ZANETTI P"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "CORSARO S, DE ANGELIS P L, GUARRACINO M R, MARINO Z,",
+        "MONETTI V, PERLA F, ZANETTI P (2009). KREMM: an e-learning system",
+        "for mathematical models applied to Economics and Finance. JE-LKS.",
+        "JOURNAL OF E-LEARNING AND KNOWLEDGE SOCIETY, vol. 5, p.",
+        "221-230, ISSN: 1971-8829"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "A sparse nonsymmetric eigensolver for distributed memory architectures",
+        "ISSN": [
+          "1744-5760"
+        ],
+        "journal": "INTERNATIONAL JOURNAL OF PARALLEL",
+        "csp": "EMERGENT AND DISTRIBUTED SYSTEMS, vol. 23, p. 259-270, ISSN: 1744-5760",
+        "anno": "2008",
+        "autori": "GUARRACINO M.R, PERLA F, ZANETTI P"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GUARRACINO M.R, PERLA F, ZANETTI P (2008). A sparse nonsymmetric",
+        "eigensolver for distributed memory architectures. INTERNATIONAL",
+        "JOURNAL OF PARALLEL, EMERGENT AND DISTRIBUTED SYSTEMS,",
+        "vol. 23, p. 259-270, ISSN: 1744-5760"
+      ],
+      "anno": "2008"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.ins.2018.03.029"
+        ],
+        "titolo": "Performance and Energy Optimisation in CPUs through Fuzzy Knowledge Representation",
+        "ISSN": [
+          "0020-0255"
+        ],
+        "journal": "INFORMATION SCIENCES",
+        "csp": "ISSN: 0020-0255, doi: 10.1016/j.ins.2018.03.029",
+        "anno": "2018",
+        "autori": "Gellert, Arpad, Florea, Adrian, Fiore, Ugo, Zanetti, Paolo, Vintan, Lucian"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gellert, Arpad, Florea, Adrian, Fiore, Ugo, Zanetti, Paolo, Vintan, Lucian",
+        "(2018). Performance and Energy Optimisation in CPUs through Fuzzy",
+        "Knowledge Representation. INFORMATION SCIENCES, ISSN: 0020-0255,",
+        "doi: 10.1016/j.ins.2018.03.029"
+      ],
+      "anno": "2018"
+    },
+    {
+      "id": "2",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "Springer",
+        "titolo": "Tuning a Deep Learning Network for Solvency II: Preliminary Results",
+        "ISBN": [
+          "978-3-319-89823-0"
+        ],
+        "csp": "ISBN: 978-3-319-89823-0",
+        "opera": "Corazza M. Durb\u00e1n M. Gran\u00e9 A. Perna C. Sibillo M.. Mathematical and Statistical Methods for Actuarial Sciences and Finance",
+        "anno": "2018",
+        "autori": "Ugo Fiore, Zelda Marino, Luca Passalacqua, Francesca Perla, Salvatore Scognamiglio, Paolo Zanetti"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Ugo Fiore, Zelda Marino, Luca Passalacqua, Francesca Perla, Salvatore",
+        "Scognamiglio, Paolo Zanetti (2018). Tuning a Deep Learning Network for",
+        "Solvency II: Preliminary Results. In: Corazza M. Durb\u00e1n M. Gran\u00e9 A. Perna",
+        "C. Sibillo M.. Mathematical and Statistical Methods for Actuarial Sciences",
+        "and Finance. Springer, ISBN: 978-3-319-89823-0"
+      ],
+      "anno": "2018"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.12988/ams.2017.77215"
+        ],
+        "titolo": "Stock price forecasting with an hybrid model",
+        "ISSN": [
+          "1314-7552"
+        ],
+        "journal": "APPLIED MATHEMATICAL SCIENCES",
+        "csp": "vol. 11, p. 2225-2236, ISSN: 1314-7552, doi: 10.12988/ams.2017.77215",
+        "anno": "2017",
+        "autori": "Corsaro S., De Angelis P. L., Marino Z., Perla F., Zanetti P., Fiore U."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Corsaro S., De Angelis P. L., Marino Z., Perla F., Zanetti P., Fiore U.",
+        "(2017). Stock price forecasting with an hybrid model. APPLIED",
+        "MATHEMATICAL SCIENCES, vol. 11, p. 2225-2236, ISSN: 1314-7552,",
+        "doi: 10.12988/ams.2017.77215"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.ins.2017.12.030"
+        ],
+        "titolo": "Using generative adversarial networks for improving classification effectiveness in credit card fraud detection",
+        "ISSN": [
+          "0020-0255"
+        ],
+        "journal": "INFORMATION SCIENCES",
+        "csp": "ISSN: 0020-0255, doi: 10.1016/j.ins.2017.12.030",
+        "anno": "2017",
+        "autori": "Fiore, Ugo, De Santis, Alfredo, Perla, Francesca, Zanetti, Paolo, Palmieri, Francesco"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Fiore, Ugo, De Santis, Alfredo, Perla, Francesca, Zanetti, Paolo, Palmieri,",
+        "Francesco (2017). Using generative adversarial networks for improving",
+        "classification effectiveness in credit card fraud detection. INFORMATION",
+        "SCIENCES, ISSN: 0020-0255, doi: 10.1016/j.ins.2017.12.030"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s00500-015-1847-6"
+        ],
+        "titolo": "Relevant applications of Monte Carlo simulation in Solvency II",
+        "ISSN": [
+          "1432-7643"
+        ],
+        "journal": "SOFT COMPUTING",
+        "csp": "ISSN: 1432-7643, doi: 10.1007/s00500-015-1847-6",
+        "anno": "2015",
+        "autori": "Casarano Giuseppe, Castellani Gilberto, Passalacqua Luca, Perla Francesca, Zanetti Paolo"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Casarano Giuseppe, Castellani Gilberto, Passalacqua Luca, Perla",
+        "Francesca, Zanetti Paolo (2015). Relevant applications of Monte Carlo",
+        "simulation in Solvency II. SOFT COMPUTING, ISSN: 1432-7643, doi:",
+        "10.1007/s00500-015-1847-6"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.12988/ams.2013.37357"
+        ],
+        "titolo": "Hybrid MPI/openMP application on multicore architectures: the case of profit-sharing life insurance policies valuation",
+        "ISSN": [
+          "1312-885X"
+        ],
+        "journal": "APPLIED MATHEMATICAL SCIENCES",
+        "csp": "vol. 7, p. 5051-5070, ISSN: 1312-885X, doi: 10.12988/ams.2013.37357",
+        "anno": "2013",
+        "autori": "DE ANGELIS Pasquale Luigi, PERLA Francesca, ZANETTI Paolo"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "DE ANGELIS Pasquale Luigi, PERLA Francesca, ZANETTI Paolo (2013).",
+        "Hybrid MPI/openMP application on multicore architectures: the case of",
+        "profit-sharing life insurance policies valuation. APPLIED MATHEMATICAL",
+        "SCIENCES, vol. 7, p. 5051-5070, ISSN: 1312-885X, doi:",
+        "10.12988/ams.2013.37357"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "7",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "281-319",
+        "doi": [
+          "10.1007/978-1-4614-3773-4_11"
+        ],
+        "titolo": "Financial evaluation of life insurance policies in high performance computing environments",
+        "ISBN": [
+          "978-1-4614-3772-7"
+        ],
+        "csp": "New York:Springer US, ISBN: 978-1-4614-3772-7, doi: 10.1007/978-1-4614-3773-4_11",
+        "opera": "Doumpos M Zopounidis C Pardalos P.M. (a cura di): Doumpos M Zopounidis C Pardalos P.M, Financial Decision Making Using Computational Intelligence. vol. 70, p",
+        "anno": "2012",
+        "autori": "Corsaro S, De Angelis P L, Marino Z, Zanetti P"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Corsaro S, De Angelis P L, Marino Z, Zanetti P (2012). Financial evaluation",
+        "of life insurance policies in high performance computing environments. In:",
+        "Doumpos M Zopounidis C Pardalos P.M. (a cura di): Doumpos M",
+        "Zopounidis C Pardalos P.M, Financial Decision Making Using",
+        "Computational Intelligence. vol. 70, p. 281-319, New York:Springer US,",
+        "ISBN: 978-1-4614-3772-7, doi: 10.1007/978-1-4614-3773-4_11"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "8",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "250-253",
+        "doi": [
+          "10.1007/978-3-642-30961-8_19"
+        ],
+        "titolo": "Performance Analysis of an Hybrid MPI/OpenMP ALM Software for Life Insurance Policies on Multi-core Architectures",
+        "ISBN": [
+          "978-3-642-30960-1"
+        ],
+        "csp": "Berlin Heidelberg:Springer-Verlag Berlin Heidelberg, ISBN: 978-3-642-30960-1, doi: 10.1007/978-3-642-30961-8_19",
+        "opera": "Barbara M. Chapman Federico Massaioli Matthias S. M\u00fcller Marco Rorro. (a cura di): Barbara M. Chapman Federico Massaioli Matthias S. M\u00fcller Marco Rorro, OpenMP in a Heterogeneous World. vol. 7312, p",
+        "anno": "2012",
+        "autori": "Perla Francesca, Zanetti Paolo"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Perla Francesca, Zanetti Paolo (2012). Performance Analysis of an Hybrid",
+        "MPI/OpenMP ALM Software for Life Insurance Policies on Multi-core",
+        "Architectures. In: Barbara M. Chapman Federico Massaioli Matthias S.",
+        "M\u00fcller Marco Rorro. (a cura di): Barbara M. Chapman Federico Massaioli",
+        "Matthias S. M\u00fcller Marco Rorro, OpenMP in a Heterogeneous World. vol.",
+        "7312, p. 250-253, Berlin Heidelberg:Springer-Verlag Berlin Heidelberg,",
+        "ISBN: 978-3-642-30960-1, doi: 10.1007/978-3-642-30961-8_19"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "9",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "471-478",
+        "doi": [
+          "10.1007/978-3-642-21878-1_58"
+        ],
+        "titolo": "Measuring Default Risk in a Parallel ALM Software for Life Insurance Portfolios",
+        "ISBN": [
+          "978-3-642-21877-4"
+        ],
+        "csp": "ISBN: 978-3-642-21877-4, doi: 10.1007/978-3-642-21878-1_58",
+        "opera": "Guarracino M.R;Vivien F;Traff J.L;Cannataro [...] annataro M;Danelutto M;Hast A;Perla F;Kn\u00fcpfer A;Di Martino B;Alexander M, Euro-Par 2010 Parallel Processing Workshops. vol. 6586, p",
+        "anno": "2011",
+        "autori": "Corsaro STEFANIA, Marino ZELDA, Perla Francesca, Zanetti Paolo"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Corsaro STEFANIA, Marino ZELDA, Perla Francesca, Zanetti Paolo",
+        "(2011). Measuring Default Risk in a Parallel ALM Software for Life",
+        "Insurance Portfolios. In: Guarracino M.R;Vivien F;Traff J.L;Cannataro [...]",
+        "annataro M;Danelutto M;Hast A;Perla F;Kn\u00fcpfer A;Di Martino B;Alexander",
+        "M, Euro-Par 2010 Parallel Processing Workshops. vol. 6586, p. 471-478,",
+        "ISBN: 978-3-642-21877-4, doi: 10.1007/978-3-642-21878-1_58"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.parco.2009.10.002"
+        ],
+        "titolo": "On parallel asset-liability management in life insurance: a forward risk-neutral approach",
+        "ISSN": [
+          "0167-8191"
+        ],
+        "journal": "PARALLEL COMPUTING",
+        "csp": "p. 390-402, ISSN: 0167-8191, doi: 10.1016/j.parco.2009.10.002",
+        "anno": "2010",
+        "autori": "CORSARO S., DE ANGELIS P.L., MARINO Z., PERLA F., ZANETTI P"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "CORSARO S., DE ANGELIS P.L., MARINO Z., PERLA F., ZANETTI P",
+        "(2010). On parallel asset-liability management in life insurance: a forward",
+        "risk-neutral approach. PARALLEL COMPUTING, p. 390-402, ISSN:",
+        "0167-8191, doi: 10.1016/j.parco.2009.10.002"
+      ],
+      "anno": "2010"
+    }
+  ],
+  "general": {
+    "settore": "13/D4",
+    "progr": "94037",
+    "nome": "ZANETTI Paolo",
+    "fascia": "Seconda"
+  },
+  "titoli": {
+    "Direzione o partecipazione a comitati editoriali di riviste, collane editoriali, enciclopedie e": [
+      {
+        "content": "Membro della Editorial Borad della rivista \"Applied Soft Computing\" ISSN: 1568-4946 Elsevier in qualit\u00e0 di \"Associate Editor\"",
+        "periodo": "dal 30-01-2017 a oggi"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Relatore al XXXI Convegno nazionale AMASES, tenutosi a Lecce nel 2007. Titolo della relazione: \"Current Status and Perspectives of KREMM: a Web Based Tool to Learn Mathematics\".",
+        "periodo": "dal 03-09-2007 al 06-09-2007"
+      },
+      {
+        "content": "Membro del comitato organizzatore del \"Workshop on high-performance computing applied to finance\", satellite della conferenza Euro-Par 2010, tenutasi a Ischia, Napoli, nel 2010.",
+        "periodo": "dal 01-01-2010 al 30-08-2010"
+      },
+      {
+        "content": "Presentazione di un poster dal titolo \"Performance analysis of an hybrid MPI/OpenMP ALM software for life insurance policies on multi-core architectures\" all'8th International Workshop on OpenMP, IWOMP 2012, Rome, Italy, June 11-13, 2012.",
+        "periodo": "dal 11-06-2012 al 13-06-2012"
+      },
+      {
+        "content": "Membro del comitato organizzatore del XLII convegno AMASES che si terr\u00e0 a Napoli dal 13 al 15 settembre 2018.",
+        "periodo": "dal 10-11-2017 a oggi"
+      }
+    ],
+    "Responsabilita' di studi e ricerche scientifiche affidati da qualificate istituzioni pubbliche o": [
+      {
+        "content": "Responsabile dell'attivit\u00e0 di studio di ricerca scientifica professionale inerente la sperimentazione della procedura \"least square montecarlo\", in ambienti di calcolo ad alte prestazioni, su portafogli di polizze sulla vita. L'obiettivo principale della sperimentazione \u00e8 stato quello di studiare le attuali performance e individuare eventuali possibili miglioramenti nell'efficienza e nella precisione computazionale della procedura ai fini del calcolo della distribuzione delle \"technical provisions\u201d a un istante futuro. L'incarico \u00e8 stato conferito in data 01/09/2015 dalla societ\u00e0 Alef \u2013 Advanced Laboratory Economics and Finance s.r.l. ed autorizzato con Decreto Ufficio Personale Docente e Ricercatore dell\u2019Universit\u00e0 di Napoli \u201cParthenope\u201d prot. N. 43406 del 08/10/2015 I risultati hanno fornito contributo alla seguente pubblicazione: Casarano, G.; Castellani, G.; Passalacqua, L.; Perla, F.; Zanetti, P. \"Relevant applications of Monte Carlo simulation in Solvency II\". SOFT COMPUTING, Vol. 21, Issue 15, 2017 (on line 2015), pp. 1181-1192",
+        "periodo": "dal 12-10-2015 al 10-11-2015"
+      },
+      {
+        "content": "Responsabile dell'attivit\u00e0 di studio di ricerca scientifica professionale inerente \"Aspetti computazionali nell'applicazione della direttiva Solvency II alla valutazione di polizze vita e danni in ambienti di calcolo ad alte prestazioni\", ed in particolare alla valutazione dei fattori che influenzano la riproducibilit\u00e0 dei risultati prodotti da processi di calcolo della \"Formula standard\" e del \"Modello Interno\" (in ottemperanza alla normativa Solvency II). Incarico conferito in data 13/11/2017 dalla societ\u00e0 Alef \u2013 Advanced Laboratory Economics and Finance s.r.l. ed autorizzato con Decreto Ufficio Personale Docente e Ricercatore dell\u2019Universit\u00e0 di Napoli \u201cParthenope\u201d prot. N. 0077390 del 27/11/2017. I risultati hanno fornito contributo alla seguente pubblicazione: Castellani, G.; Fiore, U.; Marino, Z.; Passalacqua, L.; Perla, F.; Scognamiglio, S.; Zanetti, P. \"An investigation of Machine Learning Approaches in the Solvency II Valuation Framework\" sottoposta per la pubblicazione su INFORMATION SCIENCE nello Special Issue \u201cBusiness Analytics \u2013 Emerging Trends and challenges\u201d.",
+        "periodo": "dal 27-11-2017 al 24-12-2017"
+      }
+    ],
+    "Conseguimento di premi e riconoscimenti per l'attivit\u00e0 scientifica, inclusa l\u2019affiliazione ad": [
+      {
+        "content": "Membro della Commissione Giudicatrice degli esami di stato abilitanti dei corsi \"Scuola Interuniversitaria Campana di Specializzazione all'Insegnamento \u2013 S.I.C.S.I.\" per l\u2019indirizzo Fisico-Informatico-Matematico, classe A048 (Matematica applicata) con sede presso l\u2019Universit\u00e0 degli Studi di Napoli \u201cParthenope\u201d dall\u2019a.a. 2003-04 all\u2019a.a 2007/08.",
+        "periodo": "dal 05-05-2003 al 30-06-2008"
+      },
+      {
+        "content": "Membro della Commissione Esaminatrice del concorso di ammissione ai corsi corsi Scuola Interuniversitaria Campana di Specializzazione all'Insegnamento \u2013 S.I.C.S.I. per l\u2019indirizzo Fisico-Informatico-Matematico, classe A048 (Matematica applicata) con sede presso l\u2019Universit\u00e0 degli Studi di Napoli \u201cParthenope\u201d per gli a.a. 2003-04, 2004-05, 2006-07, 2007-08.",
+        "periodo": "dal 01-09-2003 al 30-09-2008"
+      },
+      {
+        "content": "Membro della commissione di Ateneo per la gestione della sede locale della \"Scuola Interuniversitaria Campana di Specializzazione all'Insegnamento - S.I.C.S.I.\" per la classe A048 - Matematica Applicata",
+        "periodo": "dal 03-11-2003 al 31-10-2008"
+      },
+      {
+        "content": "Referente per i Sistemi Informativi dell\u2019Universit\u00e0 degli Studi di Napoli \u201cParthenope\u201d presso la CRUI.",
+        "periodo": "dal 08-11-2004 a oggi"
+      },
+      {
+        "content": "Presidente della Commissione Esaminatrice del concorso di ammissione ai corsi SICSI per l\u2019indirizzo Fisico-Informatico-Matematico, classe A048 (Matematica applicata) con sede presso l\u2019Universit\u00e0 degli Studi di Napoli \u201cParthenope\u201d nell\u2019anno accademico 2005-06.",
+        "periodo": "dal 01-09-2005 al 30-09-2005"
+      },
+      {
+        "content": "Manager Didattico per i corsi speciali abilitanti Legge n. 143/04 per la classe A048 (Matematica applicata) dell\u2019Universit\u00e0 di Napoli \u201cParthenope\u201d.",
+        "periodo": "dal 05-12-2005 al 19-06-2006"
+      },
+      {
+        "content": "Membro AMASES",
+        "periodo": "dal 15-06-2007 a oggi"
+      },
+      {
+        "content": "Rappresentante dei ricercatori nel Consiglio di Amministrazione dell'Universit\u00e0 di Napoli \"Parthenope\".",
+        "periodo": "dal 03-11-2008 al 31-10-2014"
+      },
+      {
+        "content": "Attivit\u00e0 di referaggio per le seguenti riviste: - Journal of Computers (JCP), Academy Publisher. - International Journal of Network Security - Journal of Ambient Intelligence and Humanized Computing, Springer - Journal of High Speed Networks, IOS press - Advances in Engineering Software, Elsevier - Applied Soft Computing, Elsevier - Journal of Network and Computer Applications, Elsevier",
+        "periodo": "dal 22-06-2010 a oggi"
+      },
+      {
+        "content": "Membro del Comitato di Indirizzo del progetto infrastrutturale: \u201cRete di Interconnessione Multiservizio Interuniversitaria Campana (RIMIC)\u201d - Programma Operativo Nazionale (PON) \u201cRicerca e Competitivit\u00e0\u201d 2007-2013.",
+        "periodo": "dal 02-07-2012 al 19-12-2014"
+      }
+    ],
+    "Partecipazione al collegio dei docenti ovvero attribuzione di incarichi di insegnamento,": [
+      {
+        "content": "Membro del collegio dei docenti del dottorato \"STATISTICA APPLICATA AL TERRITORIO DOT03LJJP2\"",
+        "periodo": "dal 10-12-2003 al 11-02-2010"
+      },
+      {
+        "content": "Membro del collegio dei docenti del dottorato \"STATISTICA E QUALIT\u00c0 DEI DATI ECONOMICI - DOT0941573\"",
+        "periodo": "dal 11-12-2009 al 12-05-2016"
+      },
+      {
+        "content": "Membro del collegio dei docenti del dottorato \"ECONOMIA QUANTITATIVA ED EUROLINGUAGGI PER LA SOSTENIBILITA' DEL BENESSERE - DOT1341008\"",
+        "periodo": "dal 25-09-2013 a oggi"
+      }
+    ],
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "Attivit\u00e0 di ricerca scientifica professionale inerente la sperimentazione della procedura \"least square montecarlo\", in ambienti di calcolo ad alte prestazioni, su portafogli di polizze sulla vita. L'obiettivo principale della sperimentazione \u00e8 stato quello di studiare le attuali performance e individuare eventuali possibili miglioramenti nell'efficienza e nella precisione computazionale della procedura ai fini del calcolo della distribuzione delle \"technical provisions\u201d a un istante futuro. L'incarico \u00e8 stato conferito in data 01/09/2015 dalla societ\u00e0 Alef \u2013 Advanced Laboratory Economics and Finance s.r.l. ed autorizzato con Decreto Ufficio Personale Docente e Ricercatore dell\u2019Universit\u00e0 di Napoli \u201cParthenope\u201d prot. N. 43406 del 08/10/2015 I risultati hanno fornito contributo alla seguente pubblicazione: Casarano, G.; Castellani, G.; Passalacqua, L.; Perla, F.; Zanetti, P. \"Relevant applications of Monte Carlo simulation in Solvency II\". SOFT COMPUTING, Vol. 21, Issue 15, 2017 (on line 2015), pp. 1181-1192",
+        "periodo": "dal 12-10-2015 al 10-11-2015"
+      },
+      {
+        "content": "Attivit\u00e0 di ricerca scientifica professionale inerente \"Aspetti computazionali nell'applicazione della direttiva Solvency II alla valutazione di polizze vita e danni in ambienti di calcolo ad alte prestazioni\", ed in particolare alla valutazione dei fattori che influenzano la riproducibilit\u00e0 dei risultati prodotti da processi di calcolo della \"Formula standard\" e del \"Modello Interno\" (in ottemperanza alla normativa Solvency II). Incarico conferito in data 13/11/2017 dalla societ\u00e0 Alef \u2013 Advanced Laboratory Economics and Finance s.r.l. ed autorizzato con Decreto Ufficio Personale Docente e Ricercatore dell\u2019Universit\u00e0 di Napoli \u201cParthenope\u201d prot. N. 0077390 del 27/11/2017. I risultati hanno fornito contributo alla seguente pubblicazione: Castellani, G.; Fiore, U.; Marino, Z.; Passalacqua, L.; Perla, F.; Scognamiglio, S.; Zanetti, P. \"An investigation of Machine Learning Approaches in the Solvency II Valuation Framework\" sottoposta per la pubblicazione su INFORMATION SCIENCE nello Special Issue \u201cBusiness Analytics \u2013 Emerging Trends and challenges\u201d.",
+        "periodo": "dal 27-11-2017 al 24-12-2017"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Gruppo di ricerca sulla valutazione di portafogli di polizze vita. Il gruppo \u00e8 formato da ricercatori dell'Universit\u00e0 \"Parthenope\" di Napoli e dell'Universit\u00e0 \"Sapienza\" di Roma. L'attivit\u00e0 riguarda lo sviluppo di algoritmi paralleli per la risoluzione di alcuni nuclei computazionali dei modelli interni delle imprese di assicurazione. In questo ambito il candidato \u00e8 stato: - Componente del gruppo di ricerca del PRIN 1999 \u201cModelli per la Finanza Matematica\u201d Coordinatore nazionale Prof. Massimo De Felice, Unit\u00e0 operativa dell'Universit\u00e0 degli Studi di Napoli \u201cParthenope\u201d, responsabile Prof. Pasquale Luigi De Angelis. - Componente del gruppo di ricerca del PRIN 2003 \u201cImprese di Assicurazione e Fondi Pensione. Modelli per la Valutazione, per la Gestione e per il Controllo\u201d Coordinatore nazionale Prof. Massimo De Felice, Unit\u00e0 operativa dell'Universit\u00e0 degli Studi di Napoli \u201cParthenope\u201d, responsabile Prof. Pasquale Luigi De Angelis. - Componente del gruppo del progetto di ricerca \u201cAspetti numerici nella risoluzione dei nuclei computazionali per la valutazione di portafogli di polizze vita\u201d. Progetto di Ricerca Scientifica della Regione Campania L.R. N.5, annualit\u00e0 2006 (finanziato nell'anno 2009). - Componente del gruppo del progetto di ricerca \u201cAspetti computazionali nei modelli interni delle imprese di assicurazione: il caso delle gestioni separate\u201d. Progetto di Ricerca Scientifica della Regione Campania L.R. N.5, annualit\u00e0 2009 (finanziato nell'anno 2015).",
+        "periodo": "dal 26-11-1999 a oggi"
+      },
+      {
+        "content": "Gruppo di ricerca su elearning. Il gruppo era formato da ricercatori delle Universit\u00e0 di Napoli \"Parthenope\" e Federico II insieme a ricercatori dell'ICAR-CNR. In questo ambito il candidato \u00e8 stato: - Componente del gruppo del progetto Nazionale \u201cMo.de.m\u201d (Modelli Didattici e Metodologie) nell\u2019ambito del POR Campania 2000-2006. - Componente del gruppo del progetto di ricerca su e-learning: \u201cKREMM: una base di conoscenza per modelli matematici\u201d. Progetto di Ricerca Scientifica della Regione Campania L.R. N.5, annualit\u00e0 2003 (finanziato nell'anno 2005). - Componente del gruppo del progetto di ricerca su e-learning: PROMETEO Nuove tecnologie per il monitoraggio e la modellistica ambientale, il trasferimento tecnologico e per l\u2019integrazione dei saperi a sostegno della ricerca giovane. Progetto di Ricerca Scientifica della Regione Campania L.R. N. 13/04 del 20.12.2004, annualit\u00e0 2009.",
+        "periodo": "dal 12-01-2005 al 20-12-2009"
+      },
+      {
+        "content": "Componente del gruppo di ricerca internazionale sullo studio delle performance di sistemi di calcolo parallelo applicati a problemi di natura finanziaria. Il gruppo \u00e8 formato da ricercatori dell\u2019Universit\u00e0 di Napoli \u201cParthenope\u201d e da ricercatori del dipartimento di Computer Science and Electrical Engineering Department \u2018Lucian Blaga\u2019, University of Sibiu, Romania. L\u2019attivit\u00e0 ha riguardato lo studio e l\u2019implementazione di algoritmi di calcolo con particolare riguardo al miglioramento delle performance di sistemi di calcolo multiprocessore e alla implementazione di sistemi di risparmio energetico.",
+        "periodo": "dal 11-06-2012 a oggi"
+      },
+      {
+        "content": "Componente dell\u2019Unit\u00e0 Operativa del progetto di ricerca \u2018ENVIRONET\u2019 a valere sui fondi del POR programma operativo nazionale - CAMPANIA FESR 2007/2013 O.O. 2.1 \u2018Interventi a favore delle PMI e degli organismi di ricerca- Sportello dell\u2019innovazione\u2019 di cui al D.D. N.1 del 05/02/14 Progetti di trasferimento tecnologico cooperativo e di prima industrializzazione per le imprese innovative ad alto potenziale.",
+        "periodo": "dal 01-01-2014 al 31-12-2016"
+      },
+      {
+        "content": "Componente dell\u2019Unit\u00e0 Operativa del progetto di ricerca \u2018Sviluppo di reti lunghe per la ricerca e l\u2019innovazione delle filiere tecnologiche Campane\u2019 - Misura A \u2018Azioni di sistema preliminari per l\u2019internazionalizzazione della filiera tecnologica\u2019 a valere sui fondi del POR programma operativo nazionale - CAMPANIA FESR 2007/2013 O.O. 2.1 \u2018Interventi a favore delle PMI e degli organismi di ricerca - Sportello dell\u2019innovazione\u2019 di cui al D.D. N.105 del 13/08/14 Progetti di trasferimento tecnologico cooperativo e di prima industrializzazione per le imprese innovative ad alto potenziale.",
+        "periodo": "dal 01-01-2015 al 31-12-2016"
+      },
+      {
+        "content": "Componente del gruppo di ricerca sull\u2019uso di tecniche di machine learning in ambito economico e finanziario. Il gruppo \u00e8 formato da ricercatori dell'Universit\u00e0 \"Parthenope\" di Napoli , dell'Universit\u00e0 \"Sapienza\" di Roma e dell\u2019Universit\u00e0 di Salerno. L'attivit\u00e0 riguarda lo sviluppo di algoritmi di apprendimento medianti reti neurali per la risoluzione di problemi di ottimizzazione e classificazione in ambito economico e finanziario.",
+        "periodo": "dal 01-03-2017 a oggi"
+      }
+    ],
+    "Responsabilita' scientifica per progetti di ricerca internazionali e nazionali, ammessi al": [
+      {
+        "content": "Responsabile di Ateneo per il progetto MURST/CIPE L.488/1992 GARR-B \u201cPotenziamento Reti Metropolitane e Regionali\u201d (2001-2003).",
+        "periodo": "dal 01-10-2001 al 28-11-2003"
+      },
+      {
+        "content": "Membro del comitato direttivo, in qualit\u00e0 di delegato del Rettore dell'Universit\u00e0 di Napoli \"Parthenope\", per il progetto \"Rete di Interconnessione Multiservizio Interuniversitaria Campana \u2013 RIMIC\", approvato nell'ambito del Programma Operativo Nazionale \u201cRicerca & Competitivit\u00e0\u201d (PON \u201cR&C\u201d) 2007-2013 (Avviso MIUR n. 254/Ric del 18 maggio 2011). Membro, su delega del Rettore dell'Universit\u00e0 di Napoli \"Parthenope\", del consiglio di amministrazione della compartecipata dell'Ateneo Rimic s.c.r.l. per la gestione dell'infrastruttura e dei servizi di comunicazione degli atenei e centri di ricerca campani.",
+        "periodo": "dal 18-05-2011 a oggi"
+      },
+      {
+        "content": "Responsabile scientifico del Progetto \u201cCampus Interconnesso per la sede di Monte di Dio dell'Universit\u00e0 degli Studi di Napoli Parthenope\u201d - Area di intervento \"Innalzamento della qualit\u00e0 ed adeguamento tecnologico delle strutture didattiche\" - Fondo di Sviluppo e Coesione 2007-13 \u2013 Accordo di programma quadro \"Innovazione, ricerca e competitivit\u00e0\". Delibere CIPE n. 78/11 e n. 7/12.",
+        "periodo": "dal 23-08-2011 a oggi"
+      }
+    ]
+  }
+}

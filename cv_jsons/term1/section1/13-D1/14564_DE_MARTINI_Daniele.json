@@ -1,0 +1,1370 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.3390/e18040142"
+        ],
+        "titolo": "Reproducibility Probability Estimation and RP-Testing for some nonparametric tests",
+        "ISSN": [
+          "1099-4300"
+        ],
+        "journal": "ENTROPY",
+        "csp": "vol. 18, ISSN: 1099-4300, doi: 10.3390/e18040142",
+        "anno": "2016",
+        "autori": "De Capitani L, De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Capitani L, De Martini D (2016). Reproducibility Probability Estimation",
+        "and RP-Testing for some nonparametric tests. ENTROPY, vol. 18, ISSN:",
+        "1099-4300, doi: 10.3390/e18040142"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "titolo": "Statistical Power and Failures in Phase III Trials",
+        "ISBN": [
+          "978-88-940813-8-1"
+        ],
+        "csp": "ISBN: 978-88-940813-8-1",
+        "opera": "A collection of studies around the power of statistical tests",
+        "anno": "2016",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "De Martini D (2016). Statistical Power and Failures in Phase III Trials. In: A",
+        "collection of studies around the power of statistical tests. ISBN:",
+        "978-88-940813-8-1"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "titolo": "Generalizing risk evaluations in relation to sample size determination",
+        "ISBN": [
+          "978-88-940813-8-1"
+        ],
+        "csp": "ISBN: 978-88-940813-8-1",
+        "opera": "A collection of studies around the power of statistical tests",
+        "anno": "2016",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "De Martini D (2016). Generalizing risk evaluations in relation to sample size",
+        "determination. In: A collection of studies around the power of statistical",
+        "tests. ISBN: 978-88-940813-8-1"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "4",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "titolo": "Reproducibility Probability estimation should replace p-value computation to evaluate the stability of statistical test outcomes",
+        "ISBN": [
+          "978-88-940813-8-1"
+        ],
+        "csp": "ISBN: 978-88-940813-8-1",
+        "opera": "A collection of studies around the power of statistical tests",
+        "anno": "2016",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "De Martini D (2016). Reproducibility Probability estimation should replace",
+        "p-value computation to evaluate the stability of statistical test outcomes. In:",
+        "A collection of studies around the power of statistical tests. ISBN:",
+        "978-88-940813-8-1"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "5",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "titolo": "Power Estimation for the t-test",
+        "ISBN": [
+          "978-88-940813-8-1"
+        ],
+        "csp": "ISBN: 978-88-940813-8-1",
+        "opera": "A collection of studies around the power of statistical tests",
+        "anno": "2016",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "De Martini D (2016). Power Estimation for the t-test. In: A collection of",
+        "studies around the power of statistical tests. ISBN: 978-88-940813-8-1"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "6",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "titolo": "Profit based phase II sample size determination when adaptation by design is adopted",
+        "ISBN": [
+          "978-88-940813-8-1"
+        ],
+        "csp": "ISBN: 978-88-940813-8-1",
+        "opera": "A collection of studies around the power of statistical tests",
+        "anno": "2016",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "De Martini D (2016). Profit based phase II sample size determination when",
+        "adaptation by design is adopted. In: A collection of studies around the",
+        "power of statistical tests. ISBN: 978-88-940813-8-1"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "7",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "titolo": "Arguing the adoption of Sample Size Estimation",
+        "ISBN": [
+          "978-88-940813-8-1"
+        ],
+        "csp": "ISBN: 978-88-940813-8-1",
+        "opera": "A collection of studies around the power of statistical tests",
+        "anno": "2016",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "De Martini D (2016). Arguing the adoption of Sample Size Estimation. In: A",
+        "collection of studies around the power of statistical tests. ISBN:",
+        "978-88-940813-8-1"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "8",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "titolo": "Jacknife and Bootstrap techniques for estimating the power and the sample size of statistical tests",
+        "ISBN": [
+          "978-88-940813-8-1"
+        ],
+        "csp": "ISBN: 978-88-940813-8-1",
+        "opera": "A collection of studies around the power of statistical tests",
+        "anno": "2016",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "De Martini D (2016). Jacknife and Bootstrap techniques for estimating the",
+        "power and the sample size of statistical tests. In: A collection of studies",
+        "around the power of statistical tests. ISBN: 978-88-940813-8-1"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "9",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "titolo": "Improving RP estimation and the links between Bayesian and Average Conservative estimators",
+        "ISBN": [
+          "978-88-940813-8-1"
+        ],
+        "csp": "ISBN: 978-88-940813-8-1",
+        "opera": "A collection of studies around the power of statistical tests",
+        "anno": "2016",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "De Martini D (2016). Improving RP estimation and the links between",
+        "Bayesian and Average Conservative estimators. In: A collection of studies",
+        "around the power of statistical tests. ISBN: 978-88-940813-8-1"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "10",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "titolo": "Optimal Ethical Power in Confirmatory Trials",
+        "ISBN": [
+          "978-88-940813-8-1"
+        ],
+        "csp": "ISBN: 978-88-940813-8-1",
+        "opera": "A collection of studies around the power of statistical tests",
+        "anno": "2016",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "De Martini D (2016). Optimal Ethical Power in Confirmatory Trials. In: A",
+        "collection of studies around the power of statistical tests. ISBN:",
+        "978-88-940813-8-1"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "11",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "titolo": "Sample size computation and contiguity of statistical hypotheses",
+        "ISBN": [
+          "978-88-940813-8-1"
+        ],
+        "csp": "ISBN: 978-88-940813-8-1",
+        "opera": "A collection of studies around the power of statistical tests",
+        "anno": "2016",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "De Martini D (2016). Sample size computation and contiguity of statistical",
+        "hypotheses. In: A collection of studies around the power of statistical tests.",
+        "ISBN: 978-88-940813-8-1"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "12",
+      "type": "Prefazione/Postfazione",
+      "parsed": null,
+      "rawcontent": [
+        "Prefazione/Postfazione",
+        "De Martini D (2016). Preface to: \"A collection of studies around the power",
+        "of statistical tests\". In: A collection of studies around the power of statistical",
+        "tests. ISBN: 978-88-940813-8-1"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "13",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/00949655.2013.825721"
+        ],
+        "titolo": "Reproducibility probability estimation and testing for the Wilcoxon rank-sum test",
+        "ISSN": [
+          "0094-9655"
+        ],
+        "journal": "JOURNAL OF STATISTICAL COMPUTATION AND SIMULATION",
+        "csp": "vol. 85, p. 468-493, ISSN: 0094-9655, doi: 10.1080/00949655.2013.825721",
+        "anno": "2015",
+        "autori": "De Capitani L, De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Capitani L, De Martini D (2015). Reproducibility probability estimation",
+        "and testing for the Wilcoxon rank-sum test. JOURNAL OF STATISTICAL",
+        "COMPUTATION AND SIMULATION, vol. 85, p. 468-493, ISSN: 0094-9655,",
+        "doi: 10.1080/00949655.2013.825721"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "14",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Allocating the Sample Size in Phase II and III Trials to Optimize Success Probability",
+        "ISSN": [
+          "2282-0930"
+        ],
+        "journal": "EPIDEMIOLOGY BIOSTATISTICS AND PUBLIC HEALTH",
+        "csp": "ISSN: 2282-0930",
+        "anno": "2014",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Martini D (2014). Allocating the Sample Size in Phase II and III Trials to",
+        "Optimize Success Probability. EPIDEMIOLOGY BIOSTATISTICS AND",
+        "PUBLIC HEALTH, ISSN: 2282-0930"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "15",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/00949655.2013.825721"
+        ],
+        "titolo": "Reproducibility probability estimation and testing for the Wilcoxon rank-sum test",
+        "ISSN": [
+          "0094-9655"
+        ],
+        "journal": "JOURNAL OF STATISTICAL COMPUTATION AND SIMULATION",
+        "csp": "vol. 85, p. 468-493, ISSN: 0094-9655, doi: 10.1080/00949655.2013.825721",
+        "anno": "2013",
+        "autori": "De Capitani L, De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Capitani L, De Martini D (2013). Reproducibility probability estimation",
+        "and testing for the Wilcoxon rank-sum test. JOURNAL OF STATISTICAL",
+        "COMPUTATION AND SIMULATION, vol. 85, p. 468-493, ISSN: 0094-9655,",
+        "doi: 10.1080/00949655.2013.825721"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "16",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "Wiley",
+        "titolo": "Success Probability Estimation with Applications to Clinical Trials",
+        "ISBN": [
+          "978-1-118-33578-9"
+        ],
+        "csp": "ISBN: 978-1-118-33578-9",
+        "anno": "2013",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "De Martini D (2013). Success Probability Estimation with Applications to",
+        "Clinical Trials. Wiley, ISBN: 978-1-118-33578-9"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "17",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Power Estimation for Multiple Co-Primary Endpoints: a comparison among conservative solutions",
+        "ISSN": [
+          "1723-7815"
+        ],
+        "journal": "ITALIAN JOURNAL OF PUBLIC HEALTH",
+        "csp": "vol. 9, ISSN: 1723-7815",
+        "anno": "2012",
+        "autori": "Lucadamo A, Accoto N, De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Lucadamo A, Accoto N, De Martini D (2012). Power Estimation for Multiple",
+        "Co-Primary Endpoints: a comparison among conservative solutions.",
+        "ITALIAN JOURNAL OF PUBLIC HEALTH, vol. 9, ISSN: 1723-7815"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "18",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Stability Criteria for the Outcomes of Statistical Tests to Assess Drug Effectiveness with a Single Study",
+        "ISSN": [
+          "1539-1604"
+        ],
+        "journal": "PHARMACEUTICAL STATISTICS",
+        "csp": "vol. 11, p. 273-279, ISSN: 1539-1604",
+        "anno": "2012",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Martini D (2012). Stability Criteria for the Outcomes of Statistical Tests",
+        "to Assess Drug Effectiveness with a Single Study. PHARMACEUTICAL",
+        "STATISTICS, vol. 11, p. 273-279, ISSN: 1539-1604"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "19",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "titolo": "Reproducibility Probability Estimation and Testing for some common nonparametric tests",
+        "opera": "ATTI DELLA 46\u00b0 RIUNIONE SCIENTIFICA DELLA SOCIETA' ITALIANA DI STATISTICA",
+        "anno": "2012",
+        "autori": "DE MARTINI D, DE CAPITANI L"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "DE MARTINI D, DE CAPITANI L (2012). Reproducibility Probability",
+        "Estimation and Testing for some common nonparametric tests. In: ATTI",
+        "DELLA 46\u00b0 RIUNIONE SCIENTIFICA DELLA SOCIETA' ITALIANA DI",
+        "STATISTICA."
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "20",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/10543400903453343"
+        ],
+        "titolo": "Conservative Sample Size Estimation in Nonparametrics",
+        "ISSN": [
+          "1054-3406"
+        ],
+        "journal": "JOURNAL OF BIOPHARMACEUTICAL STATISTICS",
+        "csp": "vol. 21, p. 24-41, ISSN: 1054-3406, doi: 10.1080/10543400903453343",
+        "anno": "2011",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Martini D (2011). Conservative Sample Size Estimation in",
+        "Nonparametrics. JOURNAL OF BIOPHARMACEUTICAL STATISTICS, vol.",
+        "21, p. 24-41, ISSN: 1054-3406, doi: 10.1080/10543400903453343"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "21",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/03610918.2011.568152"
+        ],
+        "titolo": "Robustness and corrections for sample size adaptation strategies based on effect size estimation. COMMUNICATIONS IN STATISTICS",
+        "ISSN": [
+          "0361-0918"
+        ],
+        "journal": "SIMULATION AND COMPUTATION",
+        "csp": "vol. 40, p. 1263-1277, ISSN: 0361-0918, doi: 10.1080/03610918.2011.568152",
+        "anno": "2011",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Martini D (2011). Robustness and corrections for sample size",
+        "adaptation strategies based on effect size estimation. COMMUNICATIONS",
+        "IN STATISTICS. SIMULATION AND COMPUTATION, vol. 40, p.",
+        "1263-1277, ISSN: 0361-0918, doi: 10.1080/03610918.2011.568152"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "22",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.spl.2011.04.001"
+        ],
+        "titolo": "On stochastic orderings of the Wilcoxon Rank Sum test statistic\u2014With applications to reproducibility probability estimation testing",
+        "ISSN": [
+          "0167-7152"
+        ],
+        "journal": "STATISTICS & PROBABILITY LETTERS",
+        "csp": "vol. 81, p. 937-946, ISSN: 0167-7152, doi: 10.1016/j.spl.2011.04.001",
+        "anno": "2011",
+        "autori": "De Capitani L, De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Capitani L, De Martini D (2011). On stochastic orderings of the Wilcoxon",
+        "Rank Sum test statistic\u2014With applications to reproducibility probability",
+        "estimation testing. STATISTICS & PROBABILITY LETTERS, vol. 81, p.",
+        "937-946, ISSN: 0167-7152, doi: 10.1016/j.spl.2011.04.001"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "23",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Adapting by calibration the sample size of a phase III trial on the basis of phase II data",
+        "ISSN": [
+          "1539-1604"
+        ],
+        "journal": "PHARMACEUTICAL STATISTICS",
+        "csp": "ISSN: 1539-1604",
+        "anno": "2011",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Martini D (2011). Adapting by calibration the sample size of a phase III",
+        "trial on the basis of phase II data. PHARMACEUTICAL STATISTICS, ISSN:",
+        "1539-1604"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "24",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "Padova",
+        "titolo": "Reproducibility Probability Testing for the Wilcoxon rank-sum test",
+        "csp": "14-15 Giugno 2010",
+        "opera": "Atti del convegno",
+        "anno": "2010",
+        "autori": "DE MARTINI D, DE CAPITANI L"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "DE MARTINI D, DE CAPITANI L (2010). Reproducibility Probability Testing",
+        "for the Wilcoxon rank-sum test. In: Atti del convegno. Padova, 14-15",
+        "Giugno 2010"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "25",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Evaluating the Risk in Sample Size Determination. COMMUNICATIONS IN STATISTICS",
+        "ISSN": [
+          "0361-0918"
+        ],
+        "journal": "SIMULATION AND COMPUTATION",
+        "csp": "vol. 37, n.9, p. 1776-1784, ISSN: 0361-0918",
+        "anno": "2008",
+        "autori": "DE MARTINI D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "DE MARTINI D (2008). Evaluating the Risk in Sample Size Determination.",
+        "COMMUNICATIONS IN STATISTICS. SIMULATION AND",
+        "COMPUTATION, vol. 37, n.9, p. 1776-1784, ISSN: 0361-0918"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "26",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.jspi.2007.06.035"
+        ],
+        "titolo": "On Multivariate Smoothed Bootstrap Consistency",
+        "ISSN": [
+          "0378-3758"
+        ],
+        "journal": "JOURNAL OF STATISTICAL PLANNING AND INFERENCE",
+        "csp": "vol. 138, p. 1828-1835, ISSN: 0378-3758, doi: 10.1016/j.jspi.2007.06.035",
+        "anno": "2008",
+        "autori": "De Martini D, Rapallo F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Martini D, Rapallo F (2008). On Multivariate Smoothed Bootstrap",
+        "Consistency. JOURNAL OF STATISTICAL PLANNING AND INFERENCE,",
+        "vol. 138, p. 1828-1835, ISSN: 0378-3758, doi: 10.1016/j.jspi.2007.06.035"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "27",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.spl.2007.09.064"
+        ],
+        "titolo": "Reproducibility Probability Estimation for Testing Statistical Hypotheses",
+        "ISSN": [
+          "0167-7152"
+        ],
+        "journal": "STATISTICS & PROBABILITY LETTERS",
+        "csp": "vol. 78, p. 1056-1061, ISSN: 0167-7152, doi: 10.1016/j.spl.2007.09.064",
+        "anno": "2008",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Martini D (2008). Reproducibility Probability Estimation for Testing",
+        "Statistical Hypotheses. STATISTICS & PROBABILITY LETTERS, vol. 78,",
+        "p. 1056-1061, ISSN: 0167-7152, doi: 10.1016/j.spl.2007.09.064"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "28",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Correcting Bias in Sample Size Estimation",
+        "ISSN": [
+          "1125-1964"
+        ],
+        "journal": "STATISTICA APPLICATA",
+        "csp": "vol. 19 n.2, p. 155-166, ISSN: 1125-1964",
+        "anno": "2007",
+        "autori": "DE MARTINI D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "DE MARTINI D (2007). Correcting Bias in Sample Size Estimation.",
+        "STATISTICA APPLICATA, vol. 19 n.2, p. 155-166, ISSN: 1125-1964"
+      ],
+      "anno": "2007"
+    },
+    {
+      "id": "29",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Grid Based Full Portfolio Revaluation for VaR Computation",
+        "ISSN": [
+          "1824-8039"
+        ],
+        "journal": "POS PROCEEDINGS OF SCIENCE",
+        "csp": "ISSN: 1824-8039",
+        "anno": "2006",
+        "autori": "FUSAI G., CHINELLI R., DE MARTINI D, LONGO G., MARENA M., MARIANO L., CAPPUCCIO R., SGHERRI R., REGINI L., CHIERICI W., COCCA E."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "FUSAI G., CHINELLI R., DE MARTINI D, LONGO G., MARENA M.,",
+        "MARIANO L., CAPPUCCIO R., SGHERRI R., REGINI L., CHIERICI W.,",
+        "COCCA E. (2006). Grid Based Full Portfolio Revaluation for VaR",
+        "Computation. POS PROCEEDINGS OF SCIENCE, ISSN: 1824-8039"
+      ],
+      "anno": "2006"
+    },
+    {
+      "id": "30",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "titolo": "Reproducibility Probability Estimation for the Wilcoxon-Rank-Sum Test",
+        "opera": "XLIII Riunione Scientifica della Societ\u00e0 Italiana di Statistica",
+        "anno": "2006",
+        "autori": "DE MARTINI D"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "DE MARTINI D (2006). Reproducibility Probability Estimation for the",
+        "Wilcoxon-Rank-Sum Test. In: XLIII Riunione Scientifica della Societ\u00e0",
+        "Italiana di Statistica."
+      ],
+      "anno": "2006"
+    },
+    {
+      "id": "31",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "Seattle \u2013 Washington",
+        "titolo": "On the Stability of Statistical Tests",
+        "csp": "August, 2006.",
+        "opera": "Proceedings of the Annual Joint Statistical Meeting of the American Statistical Association",
+        "anno": "2006",
+        "autori": "DE MARTINI D"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "DE MARTINI D (2006). On the Stability of Statistical Tests. In: Proceedings",
+        "of the Annual Joint Statistical Meeting of the American Statistical",
+        "Association. Seattle \u2013 Washington, August, 2006."
+      ],
+      "anno": "2006"
+    },
+    {
+      "id": "32",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/03610920500313742"
+        ],
+        "titolo": "Copula-based models for the power of independence tests. COMMUNICATIONS IN STATISTICS",
+        "ISSN": [
+          "0361-0926"
+        ],
+        "journal": "THEORY AND METHODS",
+        "csp": "vol. 34, p. 2283-2297, ISSN: 0361-0926, doi: 10.1080/03610920500313742",
+        "anno": "2005",
+        "autori": "De Martini D, Vespa E"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Martini D, Vespa E (2005). Copula-based models for the power of",
+        "independence tests. COMMUNICATIONS IN STATISTICS. THEORY AND",
+        "METHODS, vol. 34, p. 2283-2297, ISSN: 0361-0926, doi:",
+        "10.1080/03610920500313742"
+      ],
+      "anno": "2005"
+    },
+    {
+      "id": "33",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "On Unbiasedness and Power of Permutation Tests",
+        "ISSN": [
+          "0026-1424"
+        ],
+        "journal": "METRON",
+        "csp": "vol. LX N.1-2, p. 3-19, ISSN: 0026-1424",
+        "anno": "2002",
+        "autori": "PESARIN F., DE MARTINI D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "PESARIN F., DE MARTINI D (2002). On Unbiasedness and Power of",
+        "Permutation Tests. METRON, vol. LX N.1-2, p. 3-19, ISSN: 0026-1424"
+      ],
+      "anno": "2002"
+    },
+    {
+      "id": "34",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Bootstrap estimate of the power and sample size determination for permutation tests",
+        "ISSN": [
+          "0390-590X"
+        ],
+        "journal": "STATISTICA",
+        "csp": "vol. 4, p. 779- -790, ISSN: 0390-590X",
+        "anno": "2002",
+        "autori": "DE MARTINI D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "DE MARTINI D (2002). Bootstrap estimate of the power and sample size",
+        "determination for permutation tests. STATISTICA, vol. 4, p. 779- -790,",
+        "ISSN: 0390-590X"
+      ],
+      "anno": "2002"
+    },
+    {
+      "id": "35",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "POINTWISE ESTIMATE OF THE POWER AND SAMPLE SIZE DETERMINATION FOR PERMUTATION TESTS ",
+        "ISSN": [
+          "0390-590X"
+        ],
+        "journal": "STATISTICA",
+        "csp": "vol. 4, p. 779-790, ISSN: 0390-590X",
+        "anno": "2002",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Martini D (2002). POINTWISE ESTIMATE OF THE POWER AND",
+        "SAMPLE SIZE DETERMINATION FOR PERMUTATION TESTS .",
+        "STATISTICA, vol. 4, p. 779-790, ISSN: 0390-590X"
+      ],
+      "anno": "2002"
+    },
+    {
+      "id": "36",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Calculating the power of Permutation Tests: a Comparison Between Nonparametric Estimators",
+        "ISSN": [
+          "1067-5817"
+        ],
+        "journal": "JOURNAL OF APPLIED STATISTICAL SCIENCE",
+        "csp": "vol. 11, p. 111-122, ISSN: 1067-5817",
+        "anno": "2002",
+        "autori": "DE MARTINI D, RAPALLO F."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "DE MARTINI D, RAPALLO F. (2002). Calculating the power of Permutation",
+        "Tests: a Comparison Between Nonparametric Estimators. JOURNAL OF",
+        "APPLIED STATISTICAL SCIENCE, vol. 11, p. 111-122, ISSN: 1067-5817"
+      ],
+      "anno": "2002"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.3390/e18040142"
+        ],
+        "titolo": "Reproducibility Probability Estimation and RP-Testing for some nonparametric tests",
+        "ISSN": [
+          "1099-4300"
+        ],
+        "journal": "ENTROPY",
+        "csp": "vol. 18, ISSN: 1099-4300, doi: 10.3390/e18040142",
+        "anno": "2016",
+        "autori": "De Capitani L, De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Capitani L, De Martini D (2016). Reproducibility Probability Estimation",
+        "and RP-Testing for some nonparametric tests. ENTROPY, vol. 18, ISSN:",
+        "1099-4300, doi: 10.3390/e18040142"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/00949655.2013.825721"
+        ],
+        "titolo": "Reproducibility probability estimation and testing for the Wilcoxon rank-sum test",
+        "ISSN": [
+          "0094-9655"
+        ],
+        "journal": "JOURNAL OF STATISTICAL COMPUTATION AND SIMULATION",
+        "csp": "vol. 85, p. 468-493, ISSN: 0094-9655, doi: 10.1080/00949655.2013.825721",
+        "anno": "2015",
+        "autori": "De Capitani L, De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Capitani L, De Martini D (2015). Reproducibility probability estimation",
+        "and testing for the Wilcoxon rank-sum test. JOURNAL OF STATISTICAL",
+        "COMPUTATION AND SIMULATION, vol. 85, p. 468-493, ISSN: 0094-9655,",
+        "doi: 10.1080/00949655.2013.825721"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "3",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "Wiley",
+        "titolo": "Success Probability Estimation with Applications to Clinical Trials",
+        "ISBN": [
+          "978-1-118-33578-9"
+        ],
+        "csp": "ISBN: 978-1-118-33578-9",
+        "anno": "2013",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "De Martini D (2013). Success Probability Estimation with Applications to",
+        "Clinical Trials. Wiley, ISBN: 978-1-118-33578-9"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1002/pst.1505"
+        ],
+        "titolo": "Stability Criteria for the Outcomes of Statistical Tests to Assess Drug Effectiveness with a Single Study",
+        "ISSN": [
+          "1539-1604"
+        ],
+        "journal": "PHARMACEUTICAL STATISTICS",
+        "csp": "vol. 11, p. 273-279, ISSN: 1539-1604, doi: 10.1002/pst.1505",
+        "anno": "2012",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Martini D (2012). Stability Criteria for the Outcomes of Statistical Tests",
+        "to Assess Drug Effectiveness with a Single Study. PHARMACEUTICAL",
+        "STATISTICS, vol. 11, p. 273-279, ISSN: 1539-1604, doi: 10.1002/pst.1505"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/03610918.2011.568152"
+        ],
+        "titolo": "Robustness and corrections for sample size adaptation strategies based on effect size estimation. COMMUNICATIONS IN STATISTICS",
+        "ISSN": [
+          "0361-0918"
+        ],
+        "journal": "SIMULATION AND COMPUTATION",
+        "csp": "vol. 40, p. 1263-1277, ISSN: 0361-0918, doi: 10.1080/03610918.2011.568152",
+        "anno": "2011",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Martini D (2011). Robustness and corrections for sample size",
+        "adaptation strategies based on effect size estimation. COMMUNICATIONS",
+        "IN STATISTICS. SIMULATION AND COMPUTATION, vol. 40, p.",
+        "1263-1277, ISSN: 0361-0918, doi: 10.1080/03610918.2011.568152"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Adapting by calibration the sample size of a phase III trial on the basis of phase II data",
+        "ISSN": [
+          "1539-1604"
+        ],
+        "journal": "PHARMACEUTICAL STATISTICS",
+        "csp": "ISSN: 1539-1604",
+        "anno": "2011",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Martini D (2011). Adapting by calibration the sample size of a phase III",
+        "trial on the basis of phase II data. PHARMACEUTICAL STATISTICS, ISSN:",
+        "1539-1604"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/10543400903453343"
+        ],
+        "titolo": "Conservative Sample Size Estimation in Nonparametrics",
+        "ISSN": [
+          "1054-3406"
+        ],
+        "journal": "JOURNAL OF BIOPHARMACEUTICAL STATISTICS",
+        "csp": "vol. 21, p. 24-41, ISSN: 1054-3406, doi: 10.1080/10543400903453343",
+        "anno": "2011",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Martini D (2011). Conservative Sample Size Estimation in",
+        "Nonparametrics. JOURNAL OF BIOPHARMACEUTICAL STATISTICS, vol.",
+        "21, p. 24-41, ISSN: 1054-3406, doi: 10.1080/10543400903453343"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.spl.2011.04.001"
+        ],
+        "titolo": "On stochastic orderings of the Wilcoxon Rank Sum test statistic\u2014With applications to reproducibility probability estimation testing",
+        "ISSN": [
+          "0167-7152"
+        ],
+        "journal": "STATISTICS & PROBABILITY LETTERS",
+        "csp": "vol. 81, p. 937-946, ISSN: 0167-7152, doi: 10.1016/j.spl.2011.04.001",
+        "anno": "2011",
+        "autori": "De Capitani L, De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Capitani L, De Martini D (2011). On stochastic orderings of the Wilcoxon",
+        "Rank Sum test statistic\u2014With applications to reproducibility probability",
+        "estimation testing. STATISTICS & PROBABILITY LETTERS, vol. 81, p.",
+        "937-946, ISSN: 0167-7152, doi: 10.1016/j.spl.2011.04.001"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.spl.2007.09.064"
+        ],
+        "titolo": "Reproducibility Probability Estimation for Testing Statistical Hypotheses",
+        "ISSN": [
+          "0167-7152"
+        ],
+        "journal": "STATISTICS & PROBABILITY LETTERS",
+        "csp": "vol. 78, p. 1056-1061, ISSN: 0167-7152, doi: 10.1016/j.spl.2007.09.064",
+        "anno": "2008",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Martini D (2008). Reproducibility Probability Estimation for Testing",
+        "Statistical Hypotheses. STATISTICS & PROBABILITY LETTERS, vol. 78,",
+        "p. 1056-1061, ISSN: 0167-7152, doi: 10.1016/j.spl.2007.09.064"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.jspi.2007.06.035"
+        ],
+        "titolo": "On Multivariate Smoothed Bootstrap Consistency",
+        "ISSN": [
+          "0378-3758"
+        ],
+        "journal": "JOURNAL OF STATISTICAL PLANNING AND INFERENCE",
+        "csp": "vol. 138, p. 1828-1835, ISSN: 0378-3758, doi: 10.1016/j.jspi.2007.06.035",
+        "anno": "2008",
+        "autori": "De Martini D, Rapallo F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Martini D, Rapallo F (2008). On Multivariate Smoothed Bootstrap",
+        "Consistency. JOURNAL OF STATISTICAL PLANNING AND INFERENCE,",
+        "vol. 138, p. 1828-1835, ISSN: 0378-3758, doi: 10.1016/j.jspi.2007.06.035"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "11",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Evaluating the Risk in Sample Size Determination. COMMUNICATIONS IN STATISTICS",
+        "ISSN": [
+          "0361-0918"
+        ],
+        "journal": "SIMULATION AND COMPUTATION",
+        "csp": "vol. 37, n.9, p. 1776-1784, ISSN: 0361-0918",
+        "anno": "2008",
+        "autori": "DE MARTINI D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "DE MARTINI D (2008). Evaluating the Risk in Sample Size Determination.",
+        "COMMUNICATIONS IN STATISTICS. SIMULATION AND",
+        "COMPUTATION, vol. 37, n.9, p. 1776-1784, ISSN: 0361-0918"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "12",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/03610920500313742"
+        ],
+        "titolo": "Copula-based models for the power of independence tests. COMMUNICATIONS IN STATISTICS",
+        "ISSN": [
+          "0361-0926"
+        ],
+        "journal": "THEORY AND METHODS",
+        "csp": "vol. 34, p. 2283-2297, ISSN: 0361-0926, doi: 10.1080/03610920500313742",
+        "anno": "2005",
+        "autori": "De Martini D, Vespa E"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Martini D, Vespa E (2005). Copula-based models for the power of",
+        "independence tests. COMMUNICATIONS IN STATISTICS. THEORY AND",
+        "METHODS, vol. 34, p. 2283-2297, ISSN: 0361-0926, doi:",
+        "10.1080/03610920500313742"
+      ],
+      "anno": "2005"
+    },
+    {
+      "id": "13",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "On Unbiasedness and Power of Permutation Tests",
+        "ISSN": [
+          "0026-1424"
+        ],
+        "journal": "METRON",
+        "csp": "vol. LX N.1-2, p. 3-19, ISSN: 0026-1424",
+        "anno": "2002",
+        "autori": "PESARIN F., DE MARTINI D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "PESARIN F., DE MARTINI D (2002). On Unbiasedness and Power of",
+        "Permutation Tests. METRON, vol. LX N.1-2, p. 3-19, ISSN: 0026-1424"
+      ],
+      "anno": "2002"
+    },
+    {
+      "id": "14",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "POINTWISE ESTIMATE OF THE POWER AND SAMPLE SIZE DETERMINATION FOR PERMUTATION TESTS ",
+        "ISSN": [
+          "0390-590X"
+        ],
+        "journal": "STATISTICA",
+        "csp": "vol. 4, p. 779-790, ISSN: 0390-590X",
+        "anno": "2002",
+        "autori": "De Martini D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Martini D (2002). POINTWISE ESTIMATE OF THE POWER AND",
+        "SAMPLE SIZE DETERMINATION FOR PERMUTATION TESTS .",
+        "STATISTICA, vol. 4, p. 779-790, ISSN: 0390-590X"
+      ],
+      "anno": "2002"
+    },
+    {
+      "id": "15",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Smoothed Bootstrap Consistency through the Convergence in Mallows Metric of Smooth Estimates",
+        "ISSN": [
+          "1048-5252"
+        ],
+        "journal": "JOURNAL OF NONPARAMETRIC STATISTICS",
+        "csp": "vol. 12, p. 819-835, ISSN: 1048-5252",
+        "anno": "2000",
+        "autori": "DE MARTINI D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "DE MARTINI D (2000). Smoothed Bootstrap Consistency through the",
+        "Convergence in Mallows Metric of Smooth Estimates. JOURNAL OF",
+        "NONPARAMETRIC STATISTICS, vol. 12, p. 819-835, ISSN: 1048-5252"
+      ],
+      "anno": "2000"
+    }
+  ],
+  "general": {
+    "settore": "13/D1",
+    "progr": "14564",
+    "nome": "DE MARTINI Daniele",
+    "fascia": "Prima"
+  },
+  "titoli": {
+    "Direzione o partecipazione a comitati editoriali di riviste, collane editoriali, enciclopedie e": [
+      {
+        "content": "Partecipazione alla edizione della rivista MATHEMATICAL REVIEWS, ISSN: 0025-5629, della American Mathematical Society, in qualit\u00e0 di revisore: MR2100557 Reviewed Abu-Dayyeh, Walid A.; Al-Momani, Marwan A.; Muttlak, Hassen A. Exact Bahadur slope for combining independent tests for exponential distribution using simple random sampling and ranked set sampling data. J. Stat. Theory Appl. 3 (2004), no. 2, 159\u2013172. (Reviewer: Daniele De Martini)",
+        "periodo": "dal 01-01-2004 al 01-12-2004"
+      },
+      {
+        "content": "Partecipazione alla edizione della rivista MATHEMATICAL REVIEWS, ISSN: 0025-5629, della American Mathematical Society, in qualit\u00e0 di revisore: MR2232228 Reviewed Banerjee, Moulinath; Wellner, Jon A. Score statistics for current status data: comparisons with likelihood ratio and Wald statistics. Int. J. Biostat. 1 (2005), Art. 3, 29 pp. (electronic). (Reviewer: Daniele De Martini)",
+        "periodo": "dal 01-01-2005 al 01-12-2005"
+      },
+      {
+        "content": "Partecipazione alla edizione della rivista MATHEMATICAL REVIEWS, ISSN: 0025-5629, della American Mathematical Society, in qualit\u00e0 di revisore: MR2373677 Reviewed Gu, Jingping; Li, Dingding; Liu, Dandan Bootstrap non-parametric significance test. J. Nonparametr. Stat. 19 (2007), no. 6-8, 215\u2013230. (Reviewer: Daniele De Martini)",
+        "periodo": "dal 01-01-2007 al 01-12-2007"
+      },
+      {
+        "content": "Partecipazione alla edizione della rivista MATHEMATICAL REVIEWS, ISSN: 0025-5629, della American Mathematical Society, in qualit\u00e0 di revisore: MR2323860 Reviewed Guan, Zhong Semiparametric tests for change-points with epidemic alternatives. J. Statist. Plann. Inference 137 (2007), no. 6, 1748\u20131764. (Reviewer: Daniele De Martini)",
+        "periodo": "dal 01-01-2007 al 01-12-2007"
+      },
+      {
+        "content": "Partecipazione alla edizione della rivista MATHEMATICAL REVIEWS, ISSN: 0025-5629, della American Mathematical Society, in qualit\u00e0 di revisore: MR2293013 Reviewed Scaillet, Olivier Kernel-based goodness-of-fit tests for copulas with fixed smoothing parameters. J. Multivariate Anal. 98 (2007), no. 3, 533\u2013543. (Reviewer: Daniele De Martini)",
+        "periodo": "dal 01-01-2007 al 01-12-2007"
+      },
+      {
+        "content": "Partecipazione alla edizione della rivista MATHEMATICAL REVIEWS, ISSN: 0025-5629, della American Mathematical Society, in qualit\u00e0 di revisore: MR2459229 Reviewed Sen, Pranab K. Kendall's tau in high-dimensional genomic parsimony. Pushing the limits of contemporary statistics: contributions in honor of Jayanta K. Ghosh, 251\u2013266, Inst. Math. Stat. Collect., 3, Inst. Math. Statist., Beachwood, OH, 2008. (Reviewer: Daniele De Martini)",
+        "periodo": "dal 01-01-2008 al 01-12-2008"
+      },
+      {
+        "content": "Partecipazione alla edizione della rivista MATHEMATICAL REVIEWS, ISSN: 0025-5629, della American Mathematical Society, in qualit\u00e0 di revisore: MR2411125 Reviewed Kang, Moonsu; Sen, Pranab K. Kendall's tau-type rank statistics in genome data. Appl. Math. 53 (2008), no. 3, 207\u2013221. (Reviewer: Daniele De Martini)",
+        "periodo": "dal 01-01-2008 al 01-12-2008"
+      },
+      {
+        "content": "Partecipazione alla edizione della rivista MATHEMATICAL REVIEWS, ISSN: 0025-5629, della American Mathematical Society, in qualit\u00e0 di revisore: MR2573301 Reviewed Dauxois, Jean-Yves; Sencey, Sophie Non-parametric tests for recurrent events under competing risks. Scand. J. Stat. 36 (2009), no. 4, 649\u2013670. (Reviewer: Daniele De Martini)",
+        "periodo": "dal 01-01-2009 al 01-12-2009"
+      },
+      {
+        "content": "Partecipazione alla edizione della rivista MATHEMATICAL REVIEWS, ISSN: 0025-5629, della American Mathematical Society, in qualit\u00e0 di revisore: MR2829932 Reviewed Bickel, Peter J.; Boley, Nathan; Brown, James B.; Huang, Haiyan; Zhang, Nancy R. Subsampling methods for genomic inference. Ann. Appl. Stat. 4 (2010), no. 4, 1660\u20131697. (Reviewer: Daniele De Martini)",
+        "periodo": "dal 01-01-2010 al 01-12-2010"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Relatore: \u201cNP-SIZE: a Program to Compute Power and Sample Size for Nonparametric Tests\u201d; with D. Telesca. International Workshop on Statistical Modeling; Graz (Austria), July, 1999.",
+        "periodo": "dal 01-07-1999 al 31-07-1999"
+      },
+      {
+        "content": "Relatore: \u201cSmoothed Bootstrap on the Correlation Model, with MCMC Numerical Computation\u201d; with F. Rapallo. SCO99: Modelli Complessi e Metodi Computazionali Intensivi per la Stima e la Previsione; Venice (Italy), September, 1999.",
+        "periodo": "dal 01-09-1999 al 30-09-1999"
+      },
+      {
+        "content": "Relatore: \u201cBootstrap Estimate of the Power and Sample Size Determination for Permutation Tests\u201d. XL Riunione Scientifica della Societ\u00e0 Italiana di Statistica; Florence (Italy), April, 2000.",
+        "periodo": "dal 01-04-2000 al 30-04-2000"
+      },
+      {
+        "content": "Relatore: \u201cNP-SIZE: a Program to Compute Power and Sample Size for Nonparametric Tests\u201d. COMPSTAT2000; Utrecht (Netherland), August, 2000.",
+        "periodo": "dal 01-08-2000 al 31-08-2000"
+      },
+      {
+        "content": "Relatore: Riunione gruppo PRIN99: \u201cMetodi di Inferenza Statistica per problemi complessi\u201d, (1999-2001); \"Modelli di dipendenza continua da distribuzioni congiunte per la potenza dei test di indipendenza\", con Vespa E.",
+        "periodo": "dal 02-11-2001 al 04-11-2001"
+      },
+      {
+        "content": "Relatore: \u201cExact conditional inference on h-sample problems for categorical data using algebraic algorithms\u201d; with F. Rapallo. XLI Riunione Scientifica della Societ\u00e0 Italiana di Statistica; Milano (Italy), June, 2002.",
+        "periodo": "dal 01-06-2002 al 31-07-2002"
+      },
+      {
+        "content": "Relatore: \u201cModeling Bivariate Dependence - with application to efficiency of dependence tests\u201d; with E. Vespa. XLI Riunione Scientifica della Societ\u00e0 Italiana di Statistica; Milano (Italy), June, 2002.",
+        "periodo": "dal 01-06-2002 al 30-06-2002"
+      },
+      {
+        "content": "Relatore: \u201cThe program NP-SIZE: new features for power computation on nonparametric tests\u201d. COMPSTAT2002; Berlin (Germany), August, 2002",
+        "periodo": "dal 01-08-2002 al 31-08-2002"
+      },
+      {
+        "content": "Relatore: \u201cThe Emotionality of the p-Value, the Rationality of the Post-Hoc Power: How to Interpret the Results of Statistical Tests\u201d. D. XLII Riunione Scientifica della Societ\u00e0 Italiana di Statistica; Bari (Italy), June, 2004.",
+        "periodo": "dal 01-06-2004 al 30-06-2004"
+      },
+      {
+        "content": "Relatore: \u201cNonparametric Sample Size Estimation\u201d. 26th Annual Meeting, Society for Clinical Trials; Portland \u2013 Oregon (USA), May, 2005.",
+        "periodo": "dal 01-05-2005 al 30-05-2005"
+      },
+      {
+        "content": "Relatore: Statistics Department Seminar, Stanford University \u2013 California (USA): Bootstrap Confidence Intervals for the Power of Statistical Tests (September, 2005).",
+        "periodo": "dal 01-09-2005 al 01-09-2005"
+      },
+      {
+        "content": "Relatore: Department of Epidemiology and Biostatistics - Karolinska Institute - Stockholm (Sweden): Sample Size Estimation and Reproducibility Probability in Nonparametrics (October, 2005).",
+        "periodo": "dal 01-10-2005 al 01-11-2005"
+      },
+      {
+        "content": "Relatore: Department of Medical Statistics - University of Wien (Austria): Estimating Sample Size and Reproducibility in Nonparametrics (November, 2005).",
+        "periodo": "dal 01-11-2005 al 01-12-2005"
+      },
+      {
+        "content": "Relatore: \u201cReproducibility Probability in Nonparametric Tests\u201d. 27th Annual Meeting, Society for Clinical Trials; Orlando \u2013 Florida (USA), May, 2006.",
+        "periodo": "dal 01-05-2006 al 30-05-2006"
+      },
+      {
+        "content": "Relatore: \u201cReproducibility Probability Estimation for the Wilcoxon-Rank-Sum Test\u201d. XLIII Riunione Scientifica della Societ\u00e0 Italiana di Statistica; Torino (Italy), June, 2006.",
+        "periodo": "dal 01-06-2006 al 30-06-2006"
+      },
+      {
+        "content": "Relatore: Statistics Department Seminar, Stanford University \u2013 California (USA): On the stability of statistical tests (August, 2006).",
+        "periodo": "dal 01-08-2006 al 01-09-2006"
+      },
+      {
+        "content": "Relatore: \u201cOn the Stability of Statistical Tests\u201d. Joint Statistical Meeting of the American Statistical Association; Seattle \u2013 Washington (USA), August, 2006.",
+        "periodo": "dal 01-08-2006 al 31-08-2006"
+      },
+      {
+        "content": "Relatore: Enginsoft CAE (Computer Assisted Engineering) users meeting - Stezzano (BG, Italy): New methods for estimating the sample size of an experiment with binary random outcome (October, 2007).",
+        "periodo": "dal 01-10-2007 al 01-11-2007"
+      },
+      {
+        "content": "Organizzazione: Prima Riunione gruppo PRIN07: \u201cStatistical methods for learning in clinical research\u201d, (2007-2009); \"Presentazione progetto della sede di Novara\"",
+        "periodo": "dal 01-10-2008 al 01-11-2008"
+      },
+      {
+        "content": "Organizzazione: Seconda Riunione gruppo PRIN07: \u201cStatistical methods for learning in clinical research\u201d, (2007-2009); \"Adapting by calibration the sample size of a phase III trial on the basis of phase II data\"",
+        "periodo": "dal 01-06-2009 al 01-06-2009"
+      },
+      {
+        "content": "Organizzazione: Terza Riunione gruppo PRIN07: \u201cStatistical methods for learning in clinical research\u201d, (2007-2009); \"Stima della potenza per test Intersection-Union: differenti approcci, difficolt`a tecniche e possibili sviluppi\", con Accoto N.,e Lucadamo A.",
+        "periodo": "dal 01-10-2009 al 01-11-2009"
+      },
+      {
+        "content": "Relatore: \u201cReproducibility Probability Testing for the Wilcoxon rank-sum test\u201d; with L. De Capitani. 45a Riunione Scientifica della Societ\u00e0 Italiana di Statistica \u2013 Riunione satellite - Padova: Statistica per problemi complessi, June 2010.",
+        "periodo": "dal 01-06-2010 al 30-06-2010"
+      },
+      {
+        "content": "Relatore: Statistics Department Seminar, Stanford University \u2013 California (USA): On power estimation \u2013 with applications to clinical trials (August, 2010).",
+        "periodo": "dal 01-08-2010 al 01-09-2010"
+      },
+      {
+        "content": "Organizzazione: Quarta Riunione gruppo PRIN07: \u201cStatistical methods for learning in clinical research\u201d, (2007-2009); \"On Power Estimation in presence of multiple endpoints\", con A.Lucadamo e,N.Accoto.",
+        "periodo": "dal 01-09-2010 al 01-10-2010"
+      },
+      {
+        "content": "Relatore: \u201cReproducibility Probability Estimation and Testing for some common nonparametric tests\u201d; with L. De Capitani. 46a Riunione Scientifica della Societ\u00e0 Italiana di Statistica Roma, June 2012.",
+        "periodo": "dal 01-06-2012 al 01-07-2012"
+      },
+      {
+        "content": "Relatore: \u201cAllocating resources in Phase II and III Trials to Optimize Gain through Adaptation by Design\u201d. 35th Annual Meeting, Society for Clinical Trials; Philadelphia \u2013 Pennsylvania (USA), May 2014.",
+        "periodo": "dal 01-05-2014 al 01-06-2014"
+      },
+      {
+        "content": "Relatore: \u201cProfit Evaluations when Adaptation by Design is Applied\u201d. 27th Annual European Meeting, Drug Information Association; Paris - France, April 2015.",
+        "periodo": "dal 01-04-2015 al 01-06-2015"
+      },
+      {
+        "content": "Relatore: \u201cRP-estimation and testing for some common nonparametric tests\u201d. Joint Meeting of International Biometric (IBS) Swiss-Austro and Italian Regions; Milan \u2013 Italy, June 2015.",
+        "periodo": "dal 01-06-2015 al 01-07-2015"
+      }
+    ],
+    "Responsabilita' di studi e ricerche scientifiche affidati da qualificate istituzioni pubbliche o": [
+      {
+        "content": "Responsabile della ricerca intitolata: \u201cStatistical methods for estimating the experimental sample size\u201d, finanziata dall'Universit\u00e0 del Piemonte Orientale e condotta dalla Dott.ssa Nadia Accoto.",
+        "periodo": "dal 01-01-2009 al 31-12-2010"
+      },
+      {
+        "content": "Responsabile della ricerca intitolata: \u201cNonparametric statistical methods for geography and tourism\u201d, finanziata dall'Universit\u00e0 del Piemonte Orientale e condotta dal Dott. Lucio De Capitani",
+        "periodo": "dal 01-01-2009 al 31-12-2010"
+      },
+      {
+        "content": "Responsabile della ricerca intitolata: \u201cReproducibility Probability Estimation: theory and application in biostatistics and finance\u201d, finanziata dall'Universit\u00e0 degli Studi di Milano-Bicocca e condotta dal Dott. Lucio De Capitani",
+        "periodo": "dal 01-01-2013 a oggi"
+      }
+    ],
+    "Conseguimento di premi e riconoscimenti per l'attivit\u00e0 scientifica, inclusa l\u2019affiliazione ad": [
+      {
+        "content": "Premio di ricerca finalizzato alla mobilit\u00e0 internazionale, Universit\u00e0 del Piemonte Orientale, 2005.",
+        "periodo": "dal 01-01-2005 al 31-12-2005"
+      },
+      {
+        "content": "Premio di ricerca finalizzato alla mobilit\u00e0 internazionale, Universit\u00e0 del Piemonte Orientale, 2006.",
+        "periodo": "dal 01-01-2006 al 31-12-2006"
+      }
+    ],
+    "Partecipazione al collegio dei docenti ovvero attribuzione di incarichi di insegnamento,": [
+      {
+        "content": "Partecipazione al collegio dei docenti del \"Dottorato in Statistica e Applicazioni\" 26esimo ciclo, sede Milano-Bicocca",
+        "periodo": "dal 01-01-2010 al 31-12-2012"
+      },
+      {
+        "content": "Partecipazione al collegio dei docenti del \"Dottorato in Statistica e Applicazioni\", 27esimo ciclo, sede Milano-Bicocca",
+        "periodo": "dal 01-01-2011 al 31-12-2013"
+      },
+      {
+        "content": "Partecipazione al collegio dei docenti del \"Dottorato in Statistica e Applicazioni\", 28esimo ciclo, sede Milano-Bicocca",
+        "periodo": "dal 01-01-2012 al 31-12-2014"
+      },
+      {
+        "content": "Partecipazione al collegio dei docenti del \"Dottorato in Statistica e Matematica per la Finanza\", 29esimo ciclo, sede Milano-Bicocca",
+        "periodo": "dal 01-01-2013 al 31-12-2015"
+      }
+    ],
+    "Formale attribuzione di incarichi di insegnamento o di ricerca (fellowship) presso": [
+      {
+        "content": "Insegnamento intitolato: \u201cEstimation theory, confidence intervals, hypothesis testing\u201d, presso Universit\u00e9 de Nice Sophia-Antipolis (France), I.U.T (Institute Universitaire Technologique) S.T.I.D (Statistique et Traitement Informatique des Donn\u00e9es)",
+        "periodo": "dal 01-01-1998 al 31-12-1999"
+      },
+      {
+        "content": "Insegnamento intitolato:\u201cForecasting methods for data-mining\u201d, presso Universit\u00e9 de Nice Sophia-Antipolis (France), I.U.T (Institute Universitaire Technologique) S.T.I.D (Statistique et Traitement Informatique des Donn\u00e9es)",
+        "periodo": "dal 01-01-1999 al 31-12-2001"
+      },
+      {
+        "content": "Insegnamento intitolato \u201cStatistical quality control\u201d, presso Universit\u00e9 de Nice Sophia-Antipolis (France), I.U.T (Institute Universitaire Technologique) S.T.I.D (Statistique et Traitement Informatique des Donn\u00e9es)",
+        "periodo": "dal 01-01-2002 al 31-12-2002"
+      },
+      {
+        "content": "Insegnamento intitolato \u201cSampling techniques\u201d, presso Universit\u00e9 de Nice Sophia-Antipolis (France), I.U.T (Institute Universitaire Technologique) S.T.I.D (Statistique et Traitement Informatique des Donn\u00e9es)",
+        "periodo": "dal 01-01-2003 al 31-12-2005"
+      },
+      {
+        "content": "Corso intitolato \u201cAdaptive Designs: Overview, Hurdles, Examples & Software\u201d, with Coffey C., per la Society for Clinical Trials, durante il 36th Annual Meeting, Arlington \u2013 Virginia (USA), May 2015. (pagine 17 e 18, workshop P2)",
+        "periodo": "dal 10-05-2015 al 30-05-2015"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Partecipazione al PRIN1999, intitolato: \u201cStatistical methods for complex and multivariate problems\u201d, Coordinatore nazionale Prof. F.Pesarin. Sede di Novara: \"Sviluppo di tecniche statistiche non parametriche, bootstrap e di permutazione, con particolare attenzione allo studio della potenza dei test\".",
+        "periodo": "dal 26-11-1999 al 21-12-2001"
+      },
+      {
+        "content": "Responsabile locale PRIN2007, intitolato: \u201cStatistical methods for learning in clinical research\u201d, Coordinatore nazionale Prof.M.Gasparini. Sede di Novara, Universit\u00e0 del Piemonte Orientale: \"Calcolo adattativo della dimensione campionaria di un esperimento sulla base dei dati pilota: soluzioni parametriche, non parametriche, e ottimali\".",
+        "periodo": "dal 22-09-2008 al 22-10-2010"
+      }
+    ],
+    "Responsabilita' scientifica per progetti di ricerca internazionali e nazionali, ammessi al": [
+      {
+        "content": "Responsabile locale PRIN2007, intitolato: \u201cStatistical methods for learning in clinical research\u201d, Coordinatore nazionale Prof.M.Gasparini. Sede di Novara, Universit\u00e0 del Piemonte Orientale: \"Calcolo adattativo della dimensione campionaria di un esperimento sulla base dei dati pilota: soluzioni parametriche, non parametriche, e ottimali\".",
+        "periodo": "dal 22-09-2008 al 22-10-2010"
+      }
+    ],
+    "Risultati ottenuti nel trasferimento tecnologico in termini di partecipazione alla creazione": [
+      {
+        "content": "BREVETTO: DE MARTINI D (2004). Procedimento e sistema per il controllo statistico di processi industriali. TO2004A000377, De Martini D.",
+        "periodo": "dal 01-01-2004 al 01-01-2010"
+      },
+      {
+        "content": "BREVETTO: DE MARTINI D (2005). A method and system for the statistical control of industrial processes. EU-05104957.5, Universita' del Piemonte Orientale",
+        "periodo": "dal 01-01-2005 al 01-01-2010"
+      },
+      {
+        "content": "BREVETTO: DE MARTINI D (2005). A method and system for the statistical control of industrial processes. US/11/146132, Universita' del Piemonte Orientale",
+        "periodo": "dal 01-01-2005 a oggi"
+      }
+    ]
+  }
+}

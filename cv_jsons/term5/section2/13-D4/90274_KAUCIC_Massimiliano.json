@@ -1,0 +1,557 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": null,
+      "rawcontent": [
+        "Articolo in rivista",
+        "KAUCIC, MASSIMILIANO, DARIS, ROBERTO (2017). Interval-valued",
+        "upside potential and downside risk portfolio optimisation. EKONOMSKA",
+        "ISTRA\u017eIVANJA, vol. 30, p. 1406-1426, ISSN: 1331-677X, doi:",
+        "10.1080/1331677X.2017.1340180"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Prospect Theory Based Portfolio Optimization Problem with Imprecise Forecasts",
+        "ISSN": [
+          "1581-6311"
+        ],
+        "journal": "MANAGING GLOBAL TRANSITIONS",
+        "csp": "vol. 14, p. 359-384, ISSN: 1581-6311",
+        "anno": "2016",
+        "autori": "Kaucic Massimiliano, Daris Roberto"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Kaucic Massimiliano, Daris Roberto (2016). Prospect Theory Based Portfolio",
+        "Optimization Problem with Imprecise Forecasts. MANAGING GLOBAL",
+        "TRANSITIONS, vol. 14, p. 359-384, ISSN: 1581-6311"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.3390/risks3030390"
+        ],
+        "titolo": "Multi-Objective Stochastic Optimization Programs for a non-Life Insurance Company under Solvency Constraints",
+        "ISSN": [
+          "2227-9091"
+        ],
+        "journal": "RISKS",
+        "csp": "vol. 2015, p. 390-419, ISSN: 2227-9091, doi: 10.3390/risks3030390",
+        "anno": "2015",
+        "autori": "Kaucic Massimiliano, Daris Roberto"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Kaucic Massimiliano, Daris Roberto (2015). Multi-Objective Stochastic",
+        "Optimization Programs for a non-Life Insurance Company under Solvency",
+        "Constraints. RISKS, vol. 2015, p. 390-419, ISSN: 2227-9091, doi:",
+        "10.3390/risks3030390"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "4",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "1",
+        "titolo": "Matematica per l'economia e la statistica. vol",
+        "ISBN": [
+          "978-88-7873-161-5"
+        ],
+        "csp": "UDINE:Edizioni Goliardiche, ISBN: 978-88-7873-161-5",
+        "anno": "2014",
+        "autori": "Daris Roberto, Kaucic Massimiliano"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Daris Roberto, Kaucic Massimiliano (2014). Matematica per l'economia e la",
+        "statistica. vol. 1, UDINE:Edizioni Goliardiche, ISBN: 978-88-7873-161-5"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10898-012-9913-4"
+        ],
+        "titolo": "A multi-start opposition-based particle swarm optimization algorithm with adaptive velocity for bound constrained global optimization",
+        "ISSN": [
+          "0925-5001"
+        ],
+        "journal": "JOURNAL OF GLOBAL OPTIMIZATION",
+        "csp": "p. 165-188, ISSN: 0925-5001, doi: 10.1007/s10898-012-9913-4",
+        "anno": "2013",
+        "autori": "KAUCIC, MASSIMILIANO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "KAUCIC, MASSIMILIANO (2013). A multi-start opposition-based particle",
+        "swarm optimization algorithm with adaptive velocity for bound constrained",
+        "global optimization. JOURNAL OF GLOBAL OPTIMIZATION, p. 165-188,",
+        "ISSN: 0925-5001, doi: 10.1007/s10898-012-9913-4"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "6",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "Milano:Poliscript 2013 - Politecnico di Milano",
+        "titolo": "AN APPLICATION OF KRIGING TO ITALIAN MORTALITY RATES",
+        "ISBN": [
+          "9788864930190"
+        ],
+        "csp": "ISBN: 9788864930190, Milano, 9-11 settembre 2013",
+        "opera": "Proceedings of S.Co: 2013 - Complex Data Modeling and Computationally Intensive Statistical Methods for Estimation and Prediction",
+        "anno": "2013",
+        "autori": "Ivan Luciano Danesi, Massimiliano Kaucic, Nicola Torelli"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Ivan Luciano Danesi, Massimiliano Kaucic, Nicola Torelli (2013). AN",
+        "APPLICATION OF KRIGING TO ITALIAN MORTALITY RATES. In:",
+        "Proceedings of S.Co: 2013 - Complex Data Modeling and Computationally",
+        "Intensive Statistical Methods for Estimation and Prediction. Milano:Poliscript",
+        "2013 - Politecnico di Milano, ISBN: 9788864930190, Milano, 9-11 settembre",
+        "2013"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.ejor.2010.07.008"
+        ],
+        "titolo": "Investment using evolutionary learning methods and technical rules",
+        "ISSN": [
+          "0377-2217"
+        ],
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "csp": "p. 1717-1727, ISSN: 0377-2217, doi: 10.1016/j.ejor.2010.07.008",
+        "anno": "2010",
+        "autori": "KAUCIC, MASSIMILIANO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "KAUCIC, MASSIMILIANO (2010). Investment using evolutionary learning",
+        "methods and technical rules. EUROPEAN JOURNAL OF OPERATIONAL",
+        "RESEARCH, p. 1717-1727, ISSN: 0377-2217, doi:",
+        "10.1016/j.ejor.2010.07.008"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Predicting EU Energy Industry Excess Returns on EU Market Index via a Constrained Genetic Algorithm",
+        "ISSN": [
+          "0927-7099"
+        ],
+        "journal": "COMPUTATIONAL ECONOMICS",
+        "csp": "p. 173-193, ISSN: 0927-7099",
+        "anno": "2009",
+        "autori": "KAUCIC, MASSIMILIANO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "KAUCIC, MASSIMILIANO (2009). Predicting EU Energy Industry Excess",
+        "Returns on EU Market Index via a Constrained Genetic Algorithm.",
+        "COMPUTATIONAL ECONOMICS, p. 173-193, ISSN: 0927-7099"
+      ],
+      "anno": "2009"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": null,
+      "rawcontent": [
+        "Articolo in rivista",
+        "KAUCIC, MASSIMILIANO, DARIS, ROBERTO (2017). Interval-valued",
+        "upside potential and downside risk portfolio optimisation. EKONOMSKA",
+        "ISTRA\u017eIVANJA, vol. 30, p. 1406-1426, ISSN: 1331-677X, doi:",
+        "10.1080/1331677X.2017.1340180"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.15604/ejbm.2017.05.03.001"
+        ],
+        "titolo": "The Information Content of Earnings Announcements in the European Insurance Market: An Event Study Analysis",
+        "ISSN": [
+          "2148-0206"
+        ],
+        "journal": "EURASIAN JOURNAL OF BUSINESS AND MANAGEMENT",
+        "csp": "vol. 5, p. 1-16, ISSN: 2148-0206, doi: 10.15604/ejbm.2017.05.03.001",
+        "anno": "2017",
+        "autori": "Dreassi Alberto, Kaucic Massimiliano, Valentinuz Giorgio"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Dreassi Alberto, Kaucic Massimiliano, Valentinuz Giorgio (2017). The",
+        "Information Content of Earnings Announcements in the European",
+        "Insurance Market: An Event Study Analysis. EURASIAN JOURNAL OF",
+        "BUSINESS AND MANAGEMENT, vol. 5, p. 1-16, ISSN: 2148-0206, doi:",
+        "10.15604/ejbm.2017.05.03.001"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Prospect Theory Based Portfolio Optimization Problem with Imprecise Forecasts",
+        "ISSN": [
+          "1581-6311"
+        ],
+        "journal": "MANAGING GLOBAL TRANSITIONS",
+        "csp": "vol. 14, p. 359-384, ISSN: 1581-6311",
+        "anno": "2016",
+        "autori": "Kaucic Massimiliano, Daris Roberto"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Kaucic Massimiliano, Daris Roberto (2016). Prospect Theory Based",
+        "Portfolio Optimization Problem with Imprecise Forecasts. MANAGING",
+        "GLOBAL TRANSITIONS, vol. 14, p. 359-384, ISSN: 1581-6311"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.3390/risks3030390"
+        ],
+        "titolo": "Multi-Objective Stochastic Optimization Programs for a non-Life Insurance Company under Solvency Constraints",
+        "ISSN": [
+          "2227-9091"
+        ],
+        "journal": "RISKS",
+        "csp": "vol. 2015, p. 390-419, ISSN: 2227-9091, doi: 10.3390/risks3030390",
+        "anno": "2015",
+        "autori": "Kaucic Massimiliano, Daris Roberto"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Kaucic Massimiliano, Daris Roberto (2015). Multi-Objective Stochastic",
+        "Optimization Programs for a non-Life Insurance Company under Solvency",
+        "Constraints. RISKS, vol. 2015, p. 390-419, ISSN: 2227-9091, doi:",
+        "10.3390/risks3030390"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10898-012-9913-4"
+        ],
+        "titolo": "A multi-start opposition-based particle swarm optimization algorithm with adaptive velocity for bound constrained global optimization",
+        "ISSN": [
+          "0925-5001"
+        ],
+        "journal": "JOURNAL OF GLOBAL OPTIMIZATION",
+        "csp": "p. 165-188, ISSN: 0925-5001, doi: 10.1007/s10898-012-9913-4",
+        "anno": "2013",
+        "autori": "KAUCIC, MASSIMILIANO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "KAUCIC, MASSIMILIANO (2013). A multi-start opposition-based particle",
+        "swarm optimization algorithm with adaptive velocity for bound constrained",
+        "global optimization. JOURNAL OF GLOBAL OPTIMIZATION, p. 165-188,",
+        "ISSN: 0925-5001, doi: 10.1007/s10898-012-9913-4"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "6",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "Milano:Poliscript 2013 - Politecnico di Milano",
+        "titolo": "AN APPLICATION OF KRIGING TO ITALIAN MORTALITY RATES",
+        "ISBN": [
+          "9788864930190"
+        ],
+        "csp": "ISBN: 9788864930190, Milano, 9-11 settembre 2013",
+        "opera": "Proceedings of S.Co: 2013 - Complex Data Modeling and Computationally Intensive Statistical Methods for Estimation and Prediction",
+        "anno": "2013",
+        "autori": "Ivan Luciano Danesi, Massimiliano Kaucic, Nicola Torelli"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Ivan Luciano Danesi, Massimiliano Kaucic, Nicola Torelli (2013). AN",
+        "APPLICATION OF KRIGING TO ITALIAN MORTALITY RATES. In:",
+        "Proceedings of S.Co: 2013 - Complex Data Modeling and Computationally",
+        "Intensive Statistical Methods for Estimation and Prediction.",
+        "Milano:Poliscript 2013 - Politecnico di Milano, ISBN: 9788864930190,",
+        "Milano, 9-11 settembre 2013"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "7",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "281-294",
+        "doi": [
+          "10.5772/38213"
+        ],
+        "titolo": "Portfolio Management Using Artificial Trading Systems Based on Technical Analysis",
+        "ISBN": [
+          "9789535104001"
+        ],
+        "csp": "ISBN: 9789535104001, doi: 10.5772/38213",
+        "opera": "(a cura di): Rustem Popa, Genetic Algorithms in Applications. p",
+        "anno": "2012",
+        "autori": "Massimiliano Kaucic"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Massimiliano Kaucic (2012). Portfolio Management Using Artificial Trading",
+        "Systems Based on Technical Analysis. In: (a cura di): Rustem Popa,",
+        "Genetic Algorithms in Applications. p. 281-294, ISBN: 9789535104001, doi:",
+        "10.5772/38213"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.ejor.2010.07.008"
+        ],
+        "titolo": "Investment using evolutionary learning methods and technical rules",
+        "ISSN": [
+          "0377-2217"
+        ],
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "csp": "p. 1717-1727, ISSN: 0377-2217, doi: 10.1016/j.ejor.2010.07.008",
+        "anno": "2010",
+        "autori": "KAUCIC, MASSIMILIANO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "KAUCIC, MASSIMILIANO (2010). Investment using evolutionary learning",
+        "methods and technical rules. EUROPEAN JOURNAL OF OPERATIONAL",
+        "RESEARCH, p. 1717-1727, ISSN: 0377-2217, doi:",
+        "10.1016/j.ejor.2010.07.008"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Predicting EU Energy Industry Excess Returns on EU Market Index via a Constrained Genetic Algorithm",
+        "ISSN": [
+          "0927-7099"
+        ],
+        "journal": "COMPUTATIONAL ECONOMICS",
+        "csp": "p. 173-193, ISSN: 0927-7099",
+        "anno": "2009",
+        "autori": "KAUCIC, MASSIMILIANO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "KAUCIC, MASSIMILIANO (2009). Predicting EU Energy Industry Excess",
+        "Returns on EU Market Index via a Constrained Genetic Algorithm.",
+        "COMPUTATIONAL ECONOMICS, p. 173-193, ISSN: 0927-7099"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "10",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "869-884",
+        "doi": [
+          "10.4018/978-1-59140-984-7"
+        ],
+        "titolo": "Multiattribute Metodologies in Financial Decision Aid",
+        "ISBN": [
+          "9781591409847"
+        ],
+        "csp": "ISBN: 9781591409847, doi: 10.4018/978-1-59140-984-7",
+        "opera": "(a cura di): Jean-Philippe Rennard, Handbook of Research on Nature-Inspired Computing for Economics and Management. p",
+        "anno": "2007",
+        "autori": "Mattia Ciprian, Massimiliano Kaucic, Giulia Nogherotto, Valentino Pediroda, Danilo Di Stefano"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Mattia Ciprian, Massimiliano Kaucic, Giulia Nogherotto, Valentino Pediroda,",
+        "Danilo Di Stefano (2007). Multiattribute Metodologies in Financial Decision",
+        "Aid. In: (a cura di): Jean-Philippe Rennard, Handbook of Research on",
+        "Nature-Inspired Computing for Economics and Management. p. 869-884,",
+        "ISBN: 9781591409847, doi: 10.4018/978-1-59140-984-7"
+      ],
+      "anno": "2007"
+    }
+  ],
+  "general": {
+    "settore": "13/D4",
+    "progr": "90274",
+    "nome": "KAUCIC Massimiliano",
+    "fascia": "Seconda"
+  },
+  "titoli": {
+    "Direzione o partecipazione a comitati editoriali di riviste, collane editoriali, enciclopedie e": [
+      {
+        "content": "Guest editor dello special issue \u201cInvestors Decision-Making Based on complex Information from Networked Economies and Unstable Markets\u201d per la rivista Managing Global Transitions, ISSN 1854-6935.",
+        "periodo": "dal 01-01-2017 a oggi"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Relatore al 36th Annual Meeting of the Italian Association for Mathematics Applied to Economic and Social Sciences (AMASES 2012), Foggia, Italia. Titolo della presentazione: \u201cMulti-objective evolutionary optimization of higher-order moments and expected shortfall in cardinality constrained portfolio selection\u201d.",
+        "periodo": "dal 13-09-2012 al 15-09-2012"
+      },
+      {
+        "content": "Relatore alla Giornata CISA \u2013 Giovani Ricercatori, Metodi innovativi per la misura e la gestione dei rischi, Firenze, Italia. Titolo della presentazione: \u201cSolving multiobjective portfolio selection problems with parametric ideals and Groebner systems\u201d.",
+        "periodo": "dal 29-11-2013 al 29-11-2013"
+      },
+      {
+        "content": "Relatore al 39th Annual Meeting of the Italian Association for Mathematics Applied to Economic and Social Sciences (AMASES 2015), Padova, Italia. Titolo della presentazione: \u201cA multi-objective optimization approach to non-life insurance portfolios with chance constraints\u201d.",
+        "periodo": "dal 10-09-2015 al 12-09-2015"
+      },
+      {
+        "content": "Relatore alla 16th Management International Conference (MIC 2016), Pula, Croazia. Titolo della presentazione: \u201cBehavioural portfolio choices based on a set-valued scenario approach\u201d.",
+        "periodo": "dal 01-06-2016 al 04-06-2016"
+      },
+      {
+        "content": "Membro del comitato organizzativo locale per la 17th International Conference on Computational Science and Its Applications (ICCSA 2017), Trieste, Italia, tenutasi dal 03/07/2017 al 06/07/2017.",
+        "periodo": "dal 20-03-2017 al 06-07-2017"
+      },
+      {
+        "content": "Relatore alla 17th Management International Conference (MIC 2017), Pula, Croazia. Titolo della presentazione: \u201cThe information content of earnings announcements in the European insurance market: an event study analysis\u201d.",
+        "periodo": "dal 24-05-2017 al 27-05-2017"
+      },
+      {
+        "content": "Relatore al 3rd Symposium on Quantitative Finance and Risk Analysis (QFRA 2017), Corfu, Grecia. Titolo della presentazione: \u201cRobust portfolio selection under loss aversion from a set-valued optimization perspective\u201d.",
+        "periodo": "dal 15-06-2017 al 16-06-2017"
+      },
+      {
+        "content": "Membro del comitato scientifico per la Global Conference on Business and Economics (GLOBE 2018), Sarasota, Florida, USA, che si terr\u00e0 dal 04-06-2018 al 08-06-2018.",
+        "periodo": "dal 23-10-2017 a oggi"
+      },
+      {
+        "content": "Membro del Programme Board per la 18th Management International Conference (MIC 2018), Bled, Slovenia, che si terr\u00e0 dal 30-06-2018 al 02-07-2018. Sar\u00f2 inoltre relatore con una presentazione dal titolo \"Strategies for Managing Risk and Diversification in a Passive Investment Perspective by the Use of Selected ETFs Listed on the Italian Stock Exchange\".",
+        "periodo": "dal 30-01-2018 a oggi"
+      }
+    ],
+    "Responsabilita' di studi e ricerche scientifiche affidati da qualificate istituzioni pubbliche o": [
+      {
+        "content": "Titolare di assegno di ricerca (art. 22, legge 240/2010) nel s.s.d. SECS-S/06 presso il Dipartimento di Scienze Economiche, Aziendali, Matematiche e Statistiche dell\u2019Universit\u00e0 di Trieste. Progetto co-finanziato da Generali Group. Programma di ricerca \u201cStrategie dinamiche e procedure di ottimizzazione euristica per il problema di selezione di portafoglio con applicazioni a Solvency II\u201d (supervisore scientifico: prof.ssa Bacinello Anna Rita). Alcuni membri del team di Generali con cui ho collaborato: dott. Verbich Maurizio, dott. Pahnke Volker, dott. Baradello Marco.",
+        "periodo": "dal 01-09-2011 al 31-08-2013"
+      }
+    ],
+    "Conseguimento di premi e riconoscimenti per l'attivit\u00e0 scientifica, inclusa l\u2019affiliazione ad": [
+      {
+        "content": "Borsa di studio del MIUR per il dottorato in Finanza Aziendale, Universit\u00e0 di Trieste.",
+        "periodo": "dal 01-01-2006 al 31-12-2008"
+      },
+      {
+        "content": "Premio di 8000 euro conseguito insieme al Prof. Pietro Millossovich nel concorso Giovani Ricercatori 2006 indetto dall\u2019Universit\u00e0 di Trieste con un progetto dal titolo \u201cConstruction and selection of Markovian models in credit risk management\u201d.",
+        "periodo": "dal 01-01-2007 al 31-12-2008"
+      },
+      {
+        "content": "Socio dell'AMASES (Associazione per la Matematica Applicata alle Scienze Economiche e Sociali) e dell\u2019EIASM (European Institute for Advanced Studies in Management).",
+        "periodo": "dal 01-01-2010 a oggi"
+      }
+    ],
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "Collaboratore a contratto presso il Dipartimento di Economia e Tecnica Aziendale dell\u2019Universit\u00e0 di Trieste per il progetto \u201cPredisposizione di programmi di elaborazione dati per l\u2019uso dei sensori nella finanza dei mercati\u201d.",
+        "periodo": "dal 20-02-2004 al 20-04-2004"
+      },
+      {
+        "content": "Titolare di assegno di ricerca (art. 51, comma 6, legge 449/1997) nel s.s.d. SECS-P/09 presso il Dipartimento di Economia e Tecnica Aziendale dell\u2019Universit\u00e0 di Trieste. Programma di ricerca \u201cStudio del fenomeno dell\u2019insolvenza nell\u2019impresa, nei mercati finanziari e nel sistema economico attraverso tecniche di softcomputing\u201d.",
+        "periodo": "dal 02-05-2004 al 30-04-2006"
+      },
+      {
+        "content": "Collaborazione con un team di analisti finanziari di Generali Group per lo sviluppo di algoritmi di allocazione settoriale e gestione di portafoglio. Referenti: Barbini Fabrizio, Morganti Michele.",
+        "periodo": "dal 15-01-2007 a oggi"
+      },
+      {
+        "content": "Responsabile della ricerca in Capp&CAPP S.r.l., Udine, Italia. Sono stato preposto allo sviluppo di modelli di validazione del rating per piccole e medie imprese e alla gestione dei sistemi informatici per la raccolta e gestione dei dati di reporting.",
+        "periodo": "dal 17-11-2008 al 09-02-2010"
+      },
+      {
+        "content": "Titolare di assegno di ricerca (art. 22, legge 240/2010) nel s.s.d. SECS-S/06 della durata di due anni presso il Dipartimento di Scienze Economiche, Aziendali, Matematiche e Statistiche dell\u2019Universit\u00e0 di Trieste e successivo rinnovo per un anno con il programma di ricerca \u201cStrategie dinamiche e procedure di ottimizzazione euristica per il problema di selezione di portafoglio con applicazioni a Solvency II\u201d.",
+        "periodo": "dal 01-09-2011 al 31-08-2014"
+      },
+      {
+        "content": "Consulente per attivit\u00e0 didattica universitaria e post-universitaria e sviluppo di software in ambito finanziario (P. IVA: 01238410326; tipo di attivit\u00e0: istruzione universitaria e post-universitaria; accademie e conservatori (codice ATECO 2017: 85.42.00); altre attivit\u00e0 esercitate: consulenza nel settore delle tecnologie dell\u2019informatica (codice ATECO 2017: 62.02.00)).",
+        "periodo": "dal 09-10-2013 al 31-12-2017"
+      },
+      {
+        "content": "Titolare di assegno di ricerca nel s.s.d. SECS-S/06 presso il Dipartimento di Scienze Economiche, Aziendali, Matematiche e Statistiche dell\u2019Universit\u00e0 di Trieste. Programma di ricerca \u201cValutazione e analisi dei rischi in ambito finanziario e assicurativo\u201d.",
+        "periodo": "dal 01-09-2014 al 09-03-2015"
+      },
+      {
+        "content": "Ricercatore a tempo determinato (art. 24, comma 3, lett. a) legge 240/2010) presso il Dipartimento di Scienze Economiche, Aziendali, Matematiche e Statistiche dell\u2019Universit\u00e0 di Trieste.",
+        "periodo": "dal 10-03-2015 al 09-03-2018"
+      },
+      {
+        "content": "Ricercatore a tempo determinato (art. 24, comma 3, lett. b) legge 240/2010) presso il Dipartimento di Scienze Economiche, Aziendali, Matematiche e Statistiche dell\u2019Universit\u00e0 di Trieste.",
+        "periodo": "dal 12-03-2018 a oggi"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Membro del gruppo di ricerca \"Rischio dei Mercati Finanziari\" relativo al contratto di ricerca MIUR dal titolo \"Sistemi complessi applicati alla finanza moderna\", coordinatore del progetto il prof. Maurizio Fanni.",
+        "periodo": "dal 01-02-2004 al 31-01-2006"
+      },
+      {
+        "content": "COLLABORAZIONI ed ATTIVITA' di RICERCA a LIVELLO NAZIONALE con i seguenti colleghi dell\u2019Universit\u00e0 degli Studi di Trieste e di altri Atenei italiani: Prof.ssa Bacinello Anna Rita (DEAMS, Universit\u00e0 degli Studi di Trieste), Prof. Bevilacqua Paolo (DIA, Universit\u00e0 degli Studi di Trieste), Prof. Bosi Gianni (DEAMS, Universit\u00e0 degli Studi di Trieste), Prof. Daris Roberto (DEAMS, Universit\u00e0 degli Studi di Trieste), Prof. Dreassi Alberto (DEAMS, Universit\u00e0 degli Studi di Trieste), Prof. Millossovich Pietro (DEAMS, Universit\u00e0 degli Studi di Trieste), Prof. Torelli Nicola (DEAMS, Universit\u00e0 degli Studi di Trieste), Prof. Valentinuz Giorgio (DEAMS, Universit\u00e0 degli Studi di Trieste), Prof.ssa Zuanon Magal\u00ec (Universit\u00e0 degli Studi di Brescia). COLLABORAZIONI ed ATTIVITA' di RICERCA a LIVELLO INTERNAZIONALE con i seguenti docenti della University of Guilan, Iran: Prof. Mirzazadeh M. (Department of Mathematics), Prof. Moradi M. (Faculty of Engineering). Queste collaborazioni sono attestate dalle pubblicazioni scientifiche presentate e dai submitted papers and work in progress qui di seguito elencati: PAPER SOTTOMESSI Bevilacqua, P., Bosi, G., Kaucic, M., and Zuanon, M. (2017), \u201cPareto optimality on compact spaces in a preference-based setting under incompleteness\u201d. Stato del lavoro: under review. WORK IN PROGRESS: Bacinello A. R., Kaucic M., and Zoccolan I. (2017), \u201cVariable Annuities with State-Dependent Fees: Valuation, Numerical Implementation, Comparative Static Analysis and Model Risk\u201d. Kaucic, M., Moradi, M., Jirsaraie, M. G., and Mirzazadeh, M. (2018), \u201cPortfolio optimization by improved NSGA-II and SPEA-II based on different risk measures\u201d.",
+        "periodo": "dal 01-01-2013 a oggi"
+      }
+    ],
+    "Formale attribuzione di incarichi di insegnamento o di ricerca (fellowship) presso": [
+      {
+        "content": "New Europe Master in Banking and Entrepreneurship, Conegliano (TV): attivit\u00e0 di docenza inserita nel modulo didattico \u201cCorporate Finance and Risk Analysis\u201d (9 ore all\u2019anno nelle sei edizioni dal 2009 al 2014). Direttore del Master: Matej Lah.",
+        "periodo": "dal 01-10-2009 al 23-12-2014"
+      },
+      {
+        "content": "FSE Course - Executive Program in Investment Analysis & Portfolio Management, RedOddity, Bolzano, Italia: docente per il corso \u201cAsset Management: Models and Tools\u201d (32 ore).",
+        "periodo": "dal 14-10-2013 al 17-10-2013"
+      },
+      {
+        "content": "FSE Course - Executive Program in Investment Analysis & Portfolio Management, RedOddity, Bolzano, Italia: docente per il corso \u201cWorking in the Development Environment for Portfolio Management: Bridging the Gap between Theory and Practice with MATLAB and R\u201d (72 ore).",
+        "periodo": "dal 28-10-2013 al 13-11-2013"
+      },
+      {
+        "content": "Conferimento di attivit\u00e0 didattica nel corso dal titolo \"Portfolio Selection\" programmato nell'ambito del progetto pilota di aggiornamento e formazione interna di Generali Group denominato \"Generali Group Executive Education on Technical Excellence\" (12 ore). Responsabile scientifico: Prof. Nicola Torelli.",
+        "periodo": "dal 25-09-2014 al 26-09-2014"
+      },
+      {
+        "content": "Conferimento di attivit\u00e0 didattica nel corso dal titolo \"Asset Liability Management and Strategic Asset Allocation\" programmato nell'ambito del programma di aggiornamento e formazione interna di Generali Group denominato \"Generali Advanced Technical Education\" (12 ore). Responsabile scientifico: Prof. Nicola Torelli.",
+        "periodo": "dal 19-02-2018 al 20-02-2018"
+      }
+    ]
+  }
+}

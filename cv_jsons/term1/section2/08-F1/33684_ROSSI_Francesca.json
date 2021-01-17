@@ -1,0 +1,437 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "1-132",
+        "titolo": "Il progetto per le Centralit\u00e0. Il caso di Roma. p",
+        "ISBN": [
+          "9788854879256"
+        ],
+        "csp": "ROMA:Aracne, ISBN: 9788854879256",
+        "anno": "2014",
+        "autori": "F.Ciardini, F.Rossi"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "F.Ciardini, F.Rossi (2014). Il progetto per le Centralit\u00e0. Il caso di Roma. p.",
+        "1-132, ROMA:Aracne, ISBN: 9788854879256"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "2",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "1-105",
+        "titolo": "Tempo e citt\u00e0. vol. 1862.123, p",
+        "ISBN": [
+          "978-88-568-0151-4"
+        ],
+        "csp": "Milano:Franco Angeli, ISBN: 978-88-568-0151-4",
+        "anno": "2008",
+        "autori": "F. ROSSI"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "F. ROSSI (2008). Tempo e citt\u00e0. vol. 1862.123, p. 1-105, Milano:Franco",
+        "Angeli, ISBN: 978-88-568-0151-4"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Storia di un concorso",
+        "ISSN": [
+          "0042-1022"
+        ],
+        "journal": "URBANISTICA",
+        "csp": "vol. 130, p. 43-46, ISSN: 0042-1022",
+        "anno": "2006",
+        "autori": "F. Rossi"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "F. Rossi (2006). Storia di un concorso. URBANISTICA, vol. 130, p. 43-46,",
+        "ISSN: 0042-1022"
+      ],
+      "anno": "2006"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Una propuesta polic\u00e9ntrica y conectada ferroviariamente para recualificar la periferia de Roma",
+        "ISSN": [
+          "1133-4762"
+        ],
+        "journal": "CIUDAD Y TERRITORIO - ESTUDIOS TERRITORIALES",
+        "csp": "vol. 189, p. 509-516, ISSN: 1133-4762",
+        "anno": "2016",
+        "autori": "Jos\u00e9 M. De Ure\u00f1a, Francesca Rossi"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Jos\u00e9 M. De Ure\u00f1a, Francesca Rossi (2016). Una propuesta polic\u00e9ntrica y",
+        "conectada ferroviariamente para recualificar la periferia de Roma. CIUDAD",
+        "Y TERRITORIO - ESTUDIOS TERRITORIALES, vol. 189, p. 509-516,",
+        "ISSN: 1133-4762"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Valle Aurelia in progress: alla ricerca di uno spazio condiviso",
+        "ISSN": [
+          "0392-2014"
+        ],
+        "journal": "AR",
+        "csp": "vol. 105, p. 58-61, ISSN: 0392-2014",
+        "anno": "2013",
+        "autori": "F.Rossi"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "F.Rossi (2013). Valle Aurelia in progress: alla ricerca di uno spazio",
+        "condiviso. AR, vol. 105, p. 58-61, ISSN: 0392-2014"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Roma 2020: grande evento e strategia urbana",
+        "ISSN": [
+          "0392-2014"
+        ],
+        "journal": "AR",
+        "csp": "vol. 98, p. 43-45, ISSN: 0392-2014",
+        "anno": "2011",
+        "autori": "F. Rossi"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "F. Rossi (2011). Roma 2020: grande evento e strategia urbana. AR, vol.",
+        "98, p. 43-45, ISSN: 0392-2014"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Il sistema museale territoriale: una risorsa per il paesaggio",
+        "ISSN": [
+          "0392-2014"
+        ],
+        "journal": "AR",
+        "csp": "vol. 96, p. 40-42, ISSN: 0392-2014",
+        "anno": "2011",
+        "autori": "F. Rossi"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "F. Rossi (2011). Il sistema museale territoriale: una risorsa per il paesaggio.",
+        "AR, vol. 96, p. 40-42, ISSN: 0392-2014"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Fes: riqualificazione della Place Florence",
+        "ISSN": [
+          "0392-2014"
+        ],
+        "journal": "AR",
+        "csp": "vol. 88, p. 12-14, ISSN: 0392-2014",
+        "anno": "2010",
+        "autori": "F. Rossi"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "F. Rossi (2010). Fes: riqualificazione della Place Florence. AR, vol. 88, p.",
+        "12-14, ISSN: 0392-2014"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "6",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "19-23",
+        "titolo": "La conoscenza del territorio",
+        "ISBN": [
+          "9788854830486"
+        ],
+        "csp": "ROMA:Aracne, ISBN: 9788854830486",
+        "opera": "F. Rossi. Letture di Paesaggio. p",
+        "anno": "2010",
+        "autori": "F. Rossi"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "F. Rossi (2010). La conoscenza del territorio. In: F. Rossi. Letture di",
+        "Paesaggio. p. 19-23, ROMA:Aracne, ISBN: 9788854830486"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "7",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "81-90",
+        "titolo": "La sintesi critico-valutativa",
+        "ISBN": [
+          "9788854830486"
+        ],
+        "csp": "ROMA:Aracne, ISBN: 9788854830486",
+        "opera": "F. Rossi. Letture di paesaggio. p",
+        "anno": "2010",
+        "autori": "F. Rossi"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "F. Rossi (2010). La sintesi critico-valutativa. In: F. Rossi. Letture di",
+        "paesaggio. p. 81-90, ROMA:Aracne, ISBN: 9788854830486"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "8",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "24-31",
+        "titolo": "Inquadramento territoriale",
+        "ISBN": [
+          "9788854830486"
+        ],
+        "csp": "ROMA:Aracne, ISBN: 9788854830486",
+        "opera": "F. Rossi. Letture di paesaggio. p",
+        "anno": "2010",
+        "autori": "F. Rossi"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "F. Rossi (2010). Inquadramento territoriale. In: F. Rossi. Letture di",
+        "paesaggio. p. 24-31, ROMA:Aracne, ISBN: 9788854830486"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "9",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "404-410",
+        "titolo": "Politiche integrate per la riqualificazione delle periferie",
+        "ISBN": [
+          "9788854817722"
+        ],
+        "csp": "ROMA:Aracne, ISBN: 9788854817722",
+        "opera": "L. FREGOLENT. Periferia e periferie. p",
+        "anno": "2008",
+        "autori": "F. ROSSI"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "F. ROSSI (2008). Politiche integrate per la riqualificazione delle periferie.",
+        "In: L. FREGOLENT. Periferia e periferie. p. 404-410, ROMA:Aracne, ISBN:",
+        "9788854817722"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Storia di un concorso",
+        "ISSN": [
+          "0042-1022"
+        ],
+        "journal": "URBANISTICA",
+        "csp": "vol. 130, p. 43-46, ISSN: 0042-1022",
+        "anno": "2006",
+        "autori": "F. Rossi"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "F. Rossi (2006). Storia di un concorso. URBANISTICA, vol. 130, p. 43-46,",
+        "ISSN: 0042-1022"
+      ],
+      "anno": "2006"
+    }
+  ],
+  "general": {
+    "settore": "08/F1",
+    "progr": "33684",
+    "nome": "ROSSI Francesca",
+    "fascia": "Seconda"
+  },
+  "titoli": {
+    "Direzione o partecipazione a comitati editoriali di riviste, collane editoriali, enciclopedie e": [
+      {
+        "content": "Partecipa al comitato di redazione della Rivista bimestrale AR dell'Ordine degli Architetti , Pianificatori e Paesaggisti di Roma e Provincia",
+        "periodo": "dal 01-01-2009 al 31-12-2013"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Organizzatrice dell'incontro di studio internazionale, patrocinato dal Comune di Roma, Dipartimento Politiche del Territorio, Ufficio Pianificazione e Progettazione Generale e dalla Facolt\u00e0 di Architettura Valle Giulia, Universit\u00e0 Sapienza di Roma, \u201cGovernare la citt\u00e0 contemporanea: per un rilancio del progetto della modernit\u00e0\u201d in collaborazione con l'arch Carmen Mariano presso la sala Colonne di Palazzo Marini, Roma. Coordinatore Scientifico: Prof. Arch. Maurizio Marcelloni",
+        "periodo": "dal 14-05-2004 al 15-05-2005"
+      },
+      {
+        "content": "Relatrice, invitata come rappresentante dell\u2019area urbanistica, nella Sezione Idee a Confronto: Giovani Talenti, al Convegno \u201cRoma al 2015: Gli scenari per il futuro della citt\u00e0\u201d organizzato dal Comune di Roma. 18-19 gennaio, Auditorium di Roma, Parco della Musica. Titolo dell\u2019intervento:\u201d Roma al 2015: una struttura metropolitana policentrica\u201d",
+        "periodo": "dal 18-01-2005 al 19-01-2015"
+      },
+      {
+        "content": "Relatrice nel seminario nazionale \u201cPeriferie come banlieues?\u201d, organizzato dalla Universit\u00e0 IUAV di Venezia, Facolt\u00e0 di Pianificazione del Territorio, Dipartimento di Pianificazione, C\u00e0 Tron, Santa Croce a Venezia. Comitato scientifico: Laura Fregolent, Francesco Indovina, Liliana Padovani e Domenico Patassini. Titolo dell\u2019intervento: \u201cRoma: le politiche dell\u2019amministrazione\u201d",
+        "periodo": "dal 30-03-2006 al 31-03-2006"
+      },
+      {
+        "content": "Relatrice nel Quarto Seminario tematico internazionale Euroscapes (EUROPEAN LANDSCAPES MANAGEMENT) finanziato dall'Unione Europea - Programma INTERREG IVC, dal titolo \u201cHistorical and cultural heritage: tools and methodologies\u201d organizzato dalla Universit\u00e0 Sapienza di Roma, Facolt\u00e0 di Architettura e dal Comune di Viterbo. Titolo intervento \u201cUpper Tuscia's Cultural Lanscape and the Monte Rufeno Nature Reserve. Italian case study -Analysis of current urban planning\u201d (Viterbo, Italy). Coordinatore Scientifico: Lucio Carbonara",
+        "periodo": "dal 20-10-2011 al 21-10-2011"
+      }
+    ],
+    "Responsabilita' di studi e ricerche scientifiche affidati da qualificate istituzioni pubbliche o": [
+      {
+        "content": "Responsabile di attivit\u00e0 di ricerca a seguito di incarico da parte del Dipartimento di Pianificazione Territoriale e Urbanistica dell'Universit\u00e0 Sapienza di Roma all'interno della Ricerca MIUR \"Roma metafora della citt\u00e0 contemporanea: la dimensione territoriale, la presenza invasiva della storia e il suo rapporto con la modernit\u00e0, la struttura urbana ad arcipelago, il fenomeno dell'abusivismo come espressione della citt\u00e0 senza regole. Roma laboratorio per l'innovazioni delle metodologie di costruzione della citt\u00e0 metropolitana, degli strumenti di intervento nella citt\u00e0 disegnata, di coinvolgimento dei beni storici nella ricostruzione delle identit\u00e0 dei luoghi. Incarico: elaborazione bibliografica su esempi italiani ed internazionali di governo metropolitano, predisposizione materiali e organizzazione seminario di studio sulla prima questione centrale \"La nuova dimensione della citt\u00e0 contemporanea\"",
+        "periodo": "dal 01-02-2006 al 30-11-2006"
+      },
+      {
+        "content": "Responsabile, in qualit\u00e0 di assegnista, di un contratto di collaborazione ad attivit\u00e0 di ricerca di durata biennale presso la facolt\u00e0 di Architettura \"Valle Giulia\" dal titolo:\"La nuova dimensione policentrica di Roma: condividere il centro in periferia\"",
+        "periodo": "dal 04-04-2006 al 31-03-2008"
+      },
+      {
+        "content": "Responsabile di attivit\u00e0 di ricerca a seguito di bando per incarico di lavoro autonomo semestrale presso il Dipartimento DATA, Facolt\u00e0 di Architettura, Universit\u00e0 Sapienza di Roma, per la Ricerca di Ateneo Federato \u201cProgetto urbano come progetto di centralit\u00e0: il caso di Roma\u201d, Responsabile Scientifico: Prof. Francesco Ciardini. Responsabile Scientifico della ricerca: Prof. Francesco Ciardini. Incarico svolto: responsabile della raccolta e selezione di materiale utile per la predisposizione di schemi analitici sulle Centralit\u00e0 urbane ed individuazione di parametri comparativi sulla base di esperienze di progettazione delle Centralit\u00e0 urbane a Roma",
+        "periodo": "dal 01-02-2011 al 01-06-2011"
+      },
+      {
+        "content": "Responsabile, in qualit\u00e0 di Ricercatore a tempo determinato tipo A, cofinanziato dalla Regione Lazio, nel Settore Scientifico Disciplinare Icar 21, presso il Dipartimento di Pianificazione, Design, Tecnologia dell'Architettura, del Progetto di Ricerca \"Il sistema museale globale come risorsa per lo sviluppo del territorio\"",
+        "periodo": "dal 01-12-2012 al 30-11-2013"
+      },
+      {
+        "content": "Responsabile, in qualit\u00e0 di Ricercatore a tempo determinato tipo A, cofinanziato dalla Regione Lazio, nel Settore Scientifico Disciplinare Icar 21, presso il Dipartimento di Pianificazione, Design, Tecnologia dell'Architettura, responsabile del Progetto di Ricerca \"Il sistema museale globale come risorsa per lo sviluppo del territorio\"",
+        "periodo": "dal 01-05-2014 al 30-04-2015"
+      }
+    ],
+    "Conseguimento di premi e riconoscimenti per l'attivit\u00e0 scientifica, inclusa l\u2019affiliazione ad": [
+      {
+        "content": "Socio aderente dell\u2019Istituto Nazionale di Urbanistica (INU)",
+        "periodo": "dal 01-01-2009 a oggi"
+      },
+      {
+        "content": "Socio aderente di Accademia Urbana, Societ\u00e0 scientifica dei Docenti universitari di Urbanistica Italiani",
+        "periodo": "dal 01-01-2016 a oggi"
+      }
+    ],
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "Incarico di consulenza presso la Societ\u00e0 Risorse per Roma, RPR Spa, societ\u00e0 municipalizzata del Comune di Roma, per la predisposizione di studi, programmi, ricerche per la costituzione di una Agenzia per il commercio a Roma e all'attuazione di programmi volti alla riqualificazione e allo sviluppo del settore del commercio romano, in particolare per la collaborazione nella redazione di tre dei quattro rapporti previsti nel Piano di Fattibilit\u00e0.",
+        "periodo": "dal 20-04-2001 al 10-08-2001"
+      },
+      {
+        "content": "Incarico di consulenza presso la Societ\u00e0 Risorse per Roma, RPR Spa, societ\u00e0 municipalizzata del Comune di Roma, per la collaborazione nella redazione di studi, programmi, ricerche, elaborazioni progettuali per proposte di valorizzazione nell'ambito della commessa \"Ottimizzazione immobili del Comune di Roma\"",
+        "periodo": "dal 02-04-2002 al 09-08-2002"
+      },
+      {
+        "content": "Incarico di consulenza presso la Societ\u00e0 Risorse per Roma, RPR Spa, societ\u00e0 municipalizzata del Comune di Roma, per la collaborazione nella redazione di studi, programmi, ricerche, elaborazioni progettuali per proposte di valorizzazione nell'ambito della commessa \"Ottimizzazione immobili del Comune di Roma\"",
+        "periodo": "dal 01-09-2002 al 31-12-2002"
+      },
+      {
+        "content": "Incarico di consulenza presso la Societ\u00e0 Risorse per Roma, RPR Spa, societ\u00e0 municipalizzata del Comune di Roma, per la collaborazione e il completamento della redazione di studi, programmi, ricerche ed elaborazioni progettuali per proposte di valorizzazione nell'ambito della commessa \"Ottimizzazione immobili del Comune di Roma\" e \"Campidoglio II\".",
+        "periodo": "dal 15-01-2003 al 15-04-2003"
+      },
+      {
+        "content": "Incarico di consulenza presso la Societ\u00e0 Risorse per Roma, RPR Spa, societ\u00e0 municipalizzata del Comune di Roma, per l'aggiornamento dello stato di fatto della sede e degli archivi dell'Amministrazione Comunale coinvolti dal Progetto Campidoglio Due e le attivit\u00e0 progettuali relative all'inquadramento dell'area e degli immobili interessati dal piano del nuovo insediamento degli uffici comunali nel quadrante Ostiense - P.zza da Verrazzano e l'elaborazione di studi e ricerche su interventi analoghi.",
+        "periodo": "dal 28-04-2003 al 28-07-2003"
+      },
+      {
+        "content": "Consulenza urbanistica per la redazione del Primo dossier degli studi di fattibilit\u00e0 per lo Schema di Assetto preliminare del Progetto urbano della Centralit\u00e0 urbana di Romanina, Roma. Coordinatore Prof. Ach. Maurizio Marcelloni",
+        "periodo": "dal 15-01-2004 al 15-06-2004"
+      },
+      {
+        "content": "Incarico di consulenza presso la Societ\u00e0 Risorse per Roma, RPR Spa, societ\u00e0 municipalizzata del Comune di Roma, finalizzato alla collaborazione operativa nella redazione dello studio di fattibilit\u00e0 per il possibile insediamento della Luiss sull'area ex Alitalia, a Roma -Magliana, di propriet\u00e0 comunale, gi\u00e0 destinata al Nuovo Mercato dei Fiori, fornendo supporto tecnico con particolare riguardo alla compatibilit\u00e0 urbanistica degli interventi previsti e coordinandosi, per l'attuazione dell'incarico con il Responsabile dell'Area Tecnica e con il Responsabile di Commessa.",
+        "periodo": "dal 02-02-2004 al 30-04-2004"
+      },
+      {
+        "content": "Incarico di consulenza presso la Societ\u00e0 Risorse per Roma, RPR Spa, societ\u00e0 municipalizzata del Comune di Roma, per la Redazione dello studio di fattibilit\u00e0 per il possibile insediamento del nuovo Mercato \"Pineta Sacchetti\" nell'area compresa tra via Boccea e via Martel (DD n.313 del 29/03/2004) e del mercato \"Giovanni de' Calvi\" nell'area asovrastante il PUP in Largo Pellettier n. 315 (DD n. 314 del 29703/2004) soprattutto riguardo le problematiche di natura urbanistica, e per gli interventi di valorizzazione degli immobili di P.zza Verdi (Disc. Incarico 21/01/2004), attualmente destinato a Poligrafico dello Stato e le attivit\u00e0 istruttorie propedeutiche alla valorizzazione degli immobili di Via di S. Susanna 13 e Via Giulia 79 (Disc. Incarico 08/01/2004)",
+        "periodo": "dal 01-10-2004 al 21-12-2004"
+      },
+      {
+        "content": "Consulenza urbanistica per la predisposizione del Documento preliminare di programma per la prima fase del Concorso Internazionale \"FareCentroaRomanina\", Progetto urbano della Centralit\u00e0 urbana Romanina, a Roma patrocinato dal Comune di Roma e dall'Inarch (Istituto nazionale di Architettura), all'interno del gruppo di lavoro coordinato dal Prof. Ach. Maurizio Marcelloni",
+        "periodo": "dal 10-01-2005 al 10-06-2005"
+      },
+      {
+        "content": "Consulenza urbanistica per la predisposizione degli elaborati urbanistici e linee guida per i progettisti della seconda fase del Concorso Internazionale \"FareCentroaRomanina\", Progetto urbano della Centralit\u00e0 urbana Romanina, a Roma patrocinato dal Comune di Roma e dall'Inarch (Istituto nazionale di Architettura), all'interno del gruppo di lavoro coordinato dal Prof. Ach. Maurizio Marcelloni",
+        "periodo": "dal 15-06-2005 al 15-12-2005"
+      },
+      {
+        "content": "Incarico professionale per la predisposizione di una pubblicazione dedicata al Progetto Urbano della Nuova Centralit\u00e0 Romanina a Roma, responsabile Prof. Arch. Maurizio Marcelloni.",
+        "periodo": "dal 10-01-2006 al 10-06-2006"
+      },
+      {
+        "content": "Consulenza urbanistica per la redazione della Relazione Generale del progetto \"Realizzazione di un polo culturale di Alta formazione: Cittadella del Mare\u201d nell'ambito dello Studio di fattibilit\u00e0 del progetto \u201cRecupero, rifunzionalizzazione e valorizzazione del complesso denominato ex Molini Meridionali Marzoli contrada Calastro in Torre del Greco (Napoli), intervento del piano strategico \u201cCosta del Vesuvio 2007-2013\u201d redatto dai Comuni costieri vesuviani, dal Comune di Torre del Greco e dalla TESS per l\u2019attuazione degli \u201cAccordi di Reciprocit\u00e0\u201d, parte integrante del P.O. Fers 2007-13 - asse VI \u201cSviluppo urbano e qualit\u00e0 della vita\u201d del Programma Integrato Urbano \u201cP.I.U.\u2019 Europa\u201d della Regione Campania",
+        "periodo": "dal 01-09-2009 al 30-11-2009"
+      },
+      {
+        "content": "Responsabile in qualit\u00e0 di capogruppo (in collaborazione con lo studio OSA -Architettura e Paesaggio, Roma) dello studio preliminare alla Redazione del Piano attuativo del Borghetto Aurelio nell\u2019ambito della Opera Pubblica n. 12 del P.R.U. Valle Aurelia \u201cFormazione e attuazione del Piano attuativo del Borghetto\u201d (D.D. 154 del 26/02/2010), Roma Capitale, U.O. Attuazione Programmi di Recupero Urbano e OO.PP. (art. 11 L. 493/93). L'incarico comprende tutte le prestazioni necessarie a fornire all'Amministrazione tutte le informazioni, documenti, elaborati necessari per il successivo incarico di Redazione del Piano Attuativo del Borghetto nonch\u00e9 alla formulazione di Linee Guida per la valorizzazione paesaggistica dello stesso.",
+        "periodo": "dal 26-04-2010 al 26-06-2010"
+      },
+      {
+        "content": "Collaborazione professionale per la redazione delle varianti urbanistiche al PRG del Comune di L' Aquila relative alle zone a vincolo decaduto, attivit\u00e0 commissariale del Prof. Arch. Francesco Ciardini per la Facolt\u00e0 di Architettura, Universit\u00e0 Sapienza di Roma, Via Flaminia 70.",
+        "periodo": "dal 01-03-2012 al 01-05-2012"
+      },
+      {
+        "content": "Incarico professionale come responsabile e capogruppo (in collaborazione con lo studio OSA -Architettura e Paesaggio, Roma) per la redazione del Piano di Recupero del Borghetto Aurelio nell\u2019ambito della OP 12 del PRU Valle Aurelia \u201cFormazione e attuazione del Piano attuativo del Borghetto\u201d (DD 154 del 26/02/2010), Roma Capitale, U.O. Attuazione Programmi di Recupero Urbano e OO.PP. (art. 11 L. 493/93).",
+        "periodo": "dal 29-03-2012 al 29-07-2012"
+      },
+      {
+        "content": "Responsabile, in qualit\u00e0 di capogruppo, della Redazione del Piano di Recupero del Borghetto Aurelio nell\u2019ambito della Opera Pubblica n.12 del P.R.U. Valle Aurelia \u201cFormazione e attuazione del Piano attuativo del Borghetto\u201d (D.D. 154 del 26/02/2010), Roma Capitale, U.O. Attuazione Programmi di Recupero Urbano e OO.PP. (art. 11 L. 493/93) (in collaborazione con lo studio OSA -Architettura e Paesaggio, Roma)",
+        "periodo": "dal 29-03-2012 al 29-07-2012"
+      },
+      {
+        "content": "Collaborazione nel programma del primo anno del Master of Civil Engineering of the University of Castilla -La Mancha (Spagna) conducendo il seminario \u201cIl Piano Regolatore Generale di Roma del 2008 e il Progetto Urbano Ostiense-Marconi\u201dorganizzato a Roma. Responsabile: Prof. Vicente Romero de \u00c1vila Serrano, UCLM School of Civil Engineering, Assistant Professor & Researcher",
+        "periodo": "dal 02-03-2016 al 02-03-2016"
+      },
+      {
+        "content": "Collaborazione, in qualit\u00e0 di Tutor, nel Workshop internazionale di progettazione urbanistica \u201cCapisaldi storici e citt\u00e0 contemporanea. Strategie di valorizzazione e Rigenerazione. Roma. Un progetto urbano per la riqualificazione del settore urbano Termini-Esquilino-San Lorenzo\u201d, con la Tianjin University (Pejyang University), la Chongqing University e la Southeast University of China, presso il Dipartimento di Pianificazione, Design e Tecnologia dell'Architettura , Facolt\u00e0 di Architettura, Universit\u00e0 Sapienza di Roma",
+        "periodo": "dal 20-09-2016 al 23-09-2016"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Componente, in qualit\u00e0 di Dottoranda, della Ricerca di Facolt\u00e0 di Architettura Valle Giulia, Universit\u00e0 Sapienza di Roma, \u201cGovernare la citt\u00e0 contemporanea: gli strumenti di piano tra tradizione e innovazione\u201d Responsabile scientifico della ricerca: Prof. Maurizio Marcelloni. Ruolo svolto: responsabile dell'analisi di strumenti di piano e di apparati legislativi varati negli ultimi dieci anni in alcuni paesi europei per confrontare gli elementi che maggiormente incidono sull\u2019organizzazione della citt\u00e0 e che ne descrivono i caratteri di contemporaneit\u00e0, in particolare l\u2019aspetto della scala strutturale-sovracomunale e della scala sociale-locale.",
+        "periodo": "dal 04-06-2003 al 03-06-2005"
+      },
+      {
+        "content": "Componente, in qualit\u00e0 di Dottoranda, della Ricerca di Ateneo dell\u2019Universit\u00e0 Sapienza di Roma, \u201cIl Progetto Urbano: dalla citt\u00e0 consolidata alla citt\u00e0 disgregata\u201d Responsabile scientifico della ricerca: Prof. Maurizio Marcelloni. Ruolo svolto: responsabile della ricognizione a livello nazionale ed internazionale di esempi di intervento nonch\u00e9 dell\u2019analisi delle caratteristiche del progetto urbano: localizzazione nella citt\u00e0, dimensione, obiettivi, tempi, fasi di progettazione, funzioni insediate; costruzione di una metodologia di indagine delle diverse tipologie di progetto urbano con particolare attenzione all\u2019individuazione delle specificit\u00e0 di intervento di quei progetti finalizzati alla riqualificazione della citt\u00e0 disgregata.",
+        "periodo": "dal 04-06-2003 al 03-06-2005"
+      },
+      {
+        "content": "Componente, in qualit\u00e0 di Dottoranda, nella Ricerca interuniversitaria PRIN cofinanziata dal MIUR (Ministero dell'Istruzione, dell'Universit\u00e0 e della Ricerca) e MIT (Ministero Infrastrutture e Trasporti) \u201cPensare la citt\u00e0 contemporanea. Pianificazione e gestione delle grandi citt\u00e0 italiane. Una riflessione sul governo urbano dopo dieci anni di sperimentazione innovativa. Le nuove prospettive\u201d. Coordinatore scientifico del Programma di Ricerca: Prof. Maurizio Marcelloni, Dipartimento di pianificazione Territoriale e Urbanistica, Facolt\u00e0 di Architettura Valle Giulia, Sapienza Universit\u00e0 di Roma",
+        "periodo": "dal 30-03-2004 al 30-01-2006"
+      },
+      {
+        "content": "Componente, in qualit\u00e0 di Professore a contratto presso il Dipartimento Interateneo di Pianificazione Territoriale e Urbanistica DIPTU, del Progetto di Ricerca Europeo INTERREG IV C \u201cGreen management plans for European urban and peri-urban Landscapes\u201d, acronimo Euroscapes), nell'ambito degli assi tematici \"Patrimonio culturale e paesaggio\" e \"Biodiversit\u00e0 e patrimonio culturale\", Coordinamento scientifico della ricerca: Responsabile Prof. Lucio Carbonara e capofila Marn\u00e9e la-Vall\u00e9e Val Maubu\u00e9e - Associazione di Comuni dell'hinterland di Parigi. Ruolo svolto: responsabile delle attivit\u00e0 di raccolta e sistematizzazione degli strumenti urbanistici vigenti nell\u2019area di studio, compresi quelli del settore; lettura critica degli strumenti in relazione a contenuti, obiettivi, finalit\u00e0; elaborazione di un quadro sinottico degli strumenti vigenti; evidenziazione di criticit\u00e0, congruenze ed incongruenze tra i vari strumenti urbanistici e in relazione al tema specifico del progetto Euroscapes; elaborazione di un percorso metodologico per l\u2019integrazione tra i vari strumenti.",
+        "periodo": "dal 01-01-2010 al 31-12-2012"
+      },
+      {
+        "content": "Componente della Ricerca di Ateneo \u201cPaesaggio culturale e energie rinnovabili: percorsi di ricerca, strumenti e metodi per una gestione integrata\u201d, Dipartimento Data, Universit\u00e0 Sapienza di Roma e Dip. Diritto ed economia delle attivit\u00e0 produttive. Responsabile Scientifico: Elio Trusiani Responsabile scientifico della ricerca: Prof. Elio Trusiani. Ruolo svolto: Analisi piani urbanistici e descrizione delle politiche, degli obiettivi, degli interventi in materia di energie rinnovabili e paesaggio con particolare riferimento al paesaggio culturale e valutazione sintetico comparativa",
+        "periodo": "dal 15-04-2012 al 15-04-2013"
+      },
+      {
+        "content": "Componente, in qualit\u00e0 di ricercatore a tempo determinato, della Ricerca di Ateneo \u201cDimensione metropolitana e intercomunalit\u00e0. Criteri (multipli) di perimetrazione della cooperazione e prospettive di sviluppo dei territori del Lazio in un confronto europeo\u201d , Dipartimento PDTA, Universit\u00e0 Sapienza di Roma. Responsabile Scientifico della ricerca: Prof. Carmela Mariano Ruolo volto: responsabile dell'indagine riguardante il Regno Unito come modello di governo per la pianificazione del territorio metropolitano e del Sistema Museale della Regione Lazio come modello di aggregazione intercomunale a geometria variabile.",
+        "periodo": "dal 01-01-2014 al 01-01-2016"
+      }
+    ]
+  }
+}

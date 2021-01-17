@@ -1,0 +1,377 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "Lulu Press",
+        "titolo": "Esbozo de un diccionario combinatorio espa\u00f1ol-italiano",
+        "ISBN": [
+          "9781326874483"
+        ],
+        "csp": "ISBN: 9781326874483",
+        "anno": "2016",
+        "autori": "Simone Greco"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Simone Greco (2016). Esbozo de un diccionario combinatorio",
+        "espa\u00f1ol-italiano. Lulu Press, ISBN: 9781326874483"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "6",
+        "titolo": "Una obra in fieri: Diccit Diccionario combinatorio espa\u00f1ol italiano",
+        "ISBN": [
+          "978-2-8124-3678-9"
+        ],
+        "csp": "Paris:Classiques Garnier, ISBN: 978-2-8124-3678-9",
+        "opera": "Cahiers du Dictionnaire. vol",
+        "anno": "2014",
+        "autori": "Greco S"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Greco S (2014). Una obra in fieri: Diccit Diccionario combinatorio espa\u00f1ol",
+        "italiano. In: Cahiers du Dictionnaire. vol. 6, Paris:Classiques Garnier, ISBN:",
+        "978-2-8124-3678-9"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "El an\u00e1lisis l\u00e9xico en funci\u00f3n de la actividad de traducci\u00f3n. LINGUE E LINGUAGGI, vol",
+        "ISSN": [
+          "2239-0359"
+        ],
+        "journal": "X",
+        "csp": "ISSN: 2239-0359",
+        "anno": "2013",
+        "autori": "Greco S"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Greco S (2013). El an\u00e1lisis l\u00e9xico en funci\u00f3n de la actividad de traducci\u00f3n.",
+        "LINGUE E LINGUAGGI, vol. X, ISSN: 2239-0359"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "4",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "Lulu Press",
+        "titolo": "\u00daltimas noticias de Clara S\u00e1nchez",
+        "ISBN": [
+          "978-1-4457-2335-8"
+        ],
+        "csp": "ISBN: 978-1-4457-2335-8",
+        "anno": "2010",
+        "autori": "Greco S"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Greco S (2010). \u00daltimas noticias de Clara S\u00e1nchez. Lulu Press, ISBN:",
+        "978-1-4457-2335-8"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "5",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "30",
+        "titolo": "Aspectos l\u00e9xicos de la mediaci\u00f3n ling\u00fc\u00edstica. Las unidades sintagm\u00e1ticas l\u00e9xicas en espa\u00f1ol e italiano. BIBLIOTECA DELLA RICERCA. LINGUISTICA, vol",
+        "ISBN": [
+          "978-88-8229-740-4"
+        ],
+        "csp": "ISBN: 978-88-8229-740-4, ISSN: 2036-041X",
+        "ISSN": [
+          "2036-041X"
+        ],
+        "anno": "2007",
+        "autori": "Greco S"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Greco S (2007). Aspectos l\u00e9xicos de la mediaci\u00f3n ling\u00fc\u00edstica. Las unidades",
+        "sintagm\u00e1ticas l\u00e9xicas en espa\u00f1ol e italiano. BIBLIOTECA DELLA RICERCA.",
+        "LINGUISTICA, vol. 30, ISBN: 978-88-8229-740-4, ISSN: 2036-041X"
+      ],
+      "anno": "2007"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "17",
+        "doi": [
+          "10.4438/1697- 9346- BV"
+        ],
+        "titolo": "Esbozo de un diccionario combinatorio espa\u00f1ol-italiano. vol",
+        "csp": "Madrid:Ministerio de Educaci\u00f3n, Cultura y Deporte, doi: 10.4438/1697- 9346- BV",
+        "anno": "2016",
+        "autori": "Greco Simone"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Greco Simone (2016). Esbozo de un diccionario combinatorio",
+        "espa\u00f1ol-italiano. vol. 17, Madrid:Ministerio de Educaci\u00f3n, Cultura y Deporte,",
+        "doi: 10.4438/1697- 9346- BV"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "6",
+        "titolo": "Una obra in fieri: Diccit Diccionario combinatorio espa\u00f1ol italiano",
+        "ISBN": [
+          "978-2-8124-3678-9"
+        ],
+        "csp": "Paris:Classiques Garnier, ISBN: 978-2-8124-3678-9",
+        "opera": "Cahiers du Dictionnaire. vol",
+        "anno": "2014",
+        "autori": "Greco S"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Greco S (2014). Una obra in fieri: Diccit Diccionario combinatorio espa\u00f1ol",
+        "italiano. In: Cahiers du Dictionnaire. vol. 6, Paris:Classiques Garnier, ISBN:",
+        "978-2-8124-3678-9"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "El an\u00e1lisis l\u00e9xico en funci\u00f3n de la actividad de traducci\u00f3n. LINGUE E LINGUAGGI, vol",
+        "ISSN": [
+          "2239-0359"
+        ],
+        "journal": "X",
+        "csp": "ISSN: 2239-0359",
+        "anno": "2013",
+        "autori": "Greco S"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Greco S (2013). El an\u00e1lisis l\u00e9xico en funci\u00f3n de la actividad de traducci\u00f3n.",
+        "LINGUE E LINGUAGGI, vol. X, ISSN: 2239-0359"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "4",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "csp": "XX",
+        "titolo": "El lenguaje publicitario: \u00e9nfasis, mitigaci\u00f3n y recursos quin\u00e9sicos",
+        "opera": "AA.VV. Annali della Facolt\u00e0 di Lingue e letterature straniere dell'Universit\u00e0 degli Studi di Bari. vol",
+        "anno": "2010",
+        "autori": "Greco S"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Greco S (2010). El lenguaje publicitario: \u00e9nfasis, mitigaci\u00f3n y recursos",
+        "quin\u00e9sicos. In: AA.VV. Annali della Facolt\u00e0 di Lingue e letterature straniere",
+        "dell'Universit\u00e0 degli Studi di Bari. vol. XX"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "5",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "Lulu Press",
+        "titolo": "\u00daltimas noticias de Clara S\u00e1nchez",
+        "ISBN": [
+          "978-1-4457-2335-8"
+        ],
+        "csp": "ISBN: 978-1-4457-2335-8",
+        "anno": "2010",
+        "autori": "Greco S"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Greco S (2010). \u00daltimas noticias de Clara S\u00e1nchez. Lulu Press, ISBN:",
+        "978-1-4457-2335-8"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "6",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "XXXIX",
+        "titolo": "Clara S\u00e1nchez. Vedute del paradiso",
+        "ISBN": [
+          "978-88-6056-135-0"
+        ],
+        "csp": "ISBN: 978-88-6056-135-0",
+        "opera": "AA.VV.. Annali della Facolt\u00e0 di Lettere e Filosofia 2006 - Universit\u00e0 degli Studi di Macerata. vol",
+        "anno": "2008",
+        "autori": "Greco S"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Greco S (2008). Clara S\u00e1nchez. Vedute del paradiso. In: AA.VV.. Annali",
+        "della Facolt\u00e0 di Lettere e Filosofia 2006 - Universit\u00e0 degli Studi di Macerata.",
+        "vol. XXXIX, ISBN: 978-88-6056-135-0"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "7",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "79-96",
+        "titolo": "Transpensando",
+        "ISBN": [
+          "978-88-548-1643-5"
+        ],
+        "csp": "Aracne, ISBN: 978-88-548-1643-5",
+        "opera": "Annali della facolt\u00e0 di Lettere e Filosofia dell'Universit\u00e0 degli Studi di Perugia. vol. XLII, p",
+        "anno": "2007",
+        "autori": "GRECO S"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "GRECO S (2007). Transpensando. In: Annali della facolt\u00e0 di Lettere e",
+        "Filosofia dell'Universit\u00e0 degli Studi di Perugia. vol. XLII, p. 79-96, Aracne,",
+        "ISBN: 978-88-548-1643-5"
+      ],
+      "anno": "2007"
+    },
+    {
+      "id": "8",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "30",
+        "titolo": "Aspectos l\u00e9xicos de la mediaci\u00f3n ling\u00fc\u00edstica. Las unidades sintagm\u00e1ticas l\u00e9xicas en espa\u00f1ol e italiano. BIBLIOTECA DELLA RICERCA. LINGUISTICA, vol",
+        "ISBN": [
+          "978-88-8229-740-4"
+        ],
+        "csp": "ISBN: 978-88-8229-740-4, ISSN: 2036-041X",
+        "ISSN": [
+          "2036-041X"
+        ],
+        "anno": "2007",
+        "autori": "Greco S"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Greco S (2007). Aspectos l\u00e9xicos de la mediaci\u00f3n ling\u00fc\u00edstica. Las unidades",
+        "sintagm\u00e1ticas l\u00e9xicas en espa\u00f1ol e italiano. BIBLIOTECA DELLA RICERCA.",
+        "LINGUISTICA, vol. 30, ISBN: 978-88-8229-740-4, ISSN: 2036-041X"
+      ],
+      "anno": "2007"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Lenguas afines. REVISTA REDELE, vol",
+        "ISSN": [
+          "1571-4667"
+        ],
+        "journal": "VI",
+        "csp": "ISSN: 1571-4667",
+        "anno": "2006",
+        "autori": "Greco S"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Greco S (2006). Lenguas afines. REVISTA REDELE, vol. VI, ISSN:",
+        "1571-4667"
+      ],
+      "anno": "2006"
+    }
+  ],
+  "general": {
+    "settore": "10/I1",
+    "progr": "10685",
+    "nome": "GRECO Simone",
+    "fascia": "Seconda"
+  },
+  "titoli": {
+    "Direzione o partecipazione a comitati editoriali di riviste, collane editoriali, enciclopedie e": [
+      {
+        "content": "Referee - Onom\u00e1zein: Revista de ling\u00fc\u00edstica, filolog\u00eda y traducci\u00f3n, Pontificia Universidad Cat\u00f3lica de Chile, ISSN 0718-5758",
+        "periodo": "dal 01-10-2016 a oggi"
+      },
+      {
+        "content": "Referee - HIKMA. Estudios de Traducci\u00f3n/Translation Studies, Universidad de C\u00f3rdoba (Espa\u00f1a), ISSN 1579-9794",
+        "periodo": "dal 01-10-2016 a oggi"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Partecipazione come relatore al convegno di carattere scientifico \"L'italianit\u00e0 e oltre l'italianit\u00e0\", in Spagna, a Bilbao e Vitoria, con una comunicazione dal titolo \"Unidades sintagm\u00e1ticas l\u00e9xicas en espa\u00f1ol e italiano: comunicaci\u00f3n y fluidez expresiva\" (17 novembre 2016, Vitoria).",
+        "periodo": "dal 16-11-2016 al 20-11-2016"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno di carattere scientifico \"Didattica e nuove tecnologie in ambito ELE\", organizzato, a Bari, da LEND, con il patrocinio di AISPI e AISPI - Scuola (23 febbraio 2017).",
+        "periodo": "dal 21-11-2016 a oggi"
+      }
+    ],
+    "Conseguimento di premi e riconoscimenti per l'attivit\u00e0 scientifica, inclusa l\u2019affiliazione ad": [
+      {
+        "content": "Membro di A.E.P.E. Asociaci\u00f3n Europea de Profesores de Espa\u00f1ol.",
+        "periodo": "dal 01-01-2014 a oggi"
+      },
+      {
+        "content": "Il Gobierno de Espa\u00f1a e il Ministerio de Educaci\u00f3n, Cultura y Deporte hanno riconosciuto l'impatto del lavoro \"Esbozo de un diccionario combinatorio espa\u00f1ol-italiano\" nella ricerca scientifica, inserendolo nella Biblioteca virtual RedELE (17, 2016).",
+        "periodo": "dal 01-03-2016 a oggi"
+      }
+    ],
+    "Partecipazione al collegio dei docenti ovvero attribuzione di incarichi di insegnamento,": [
+      {
+        "content": "Membro del collegio dei docenti del Dottorato di ricerca in Francesistica e Ispanistica (ciclo XXVIII) dell'Universit\u00e0 degli Studi di Bari \"Aldo Moro\". Tutor del dottorando LAPEDOTA DOMENICO DANIELE (tesi dottorale di prossima discussione in Linguistica contrastiva spagnola < > italiana e Traduttologia, basata sull'analisi di /Cinco horas con Mario/, di Miguel Delibes, e le traduzioni in italiano edite. Titolo della tesi: /Unidades sintagm\u00e1ticas l\u00e9xicas en Cinco horas con Mario, de Miguel Delibes, y en sus traducciones al italiano./ Hip\u00f3tesis de discurso fraseol\u00f3gicamente sexuado; Commissari: Mar\u00eda Pilar CAPANAGA CABALLERO, Manuel CARRERA D\u00cdAZ, Mariagrazia RUSSO).",
+        "periodo": "dal 01-10-2015 a oggi"
+      }
+    ],
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "Ha prestato servizio, in qualit\u00e0 di professore a contratto, per dieci anni, ininterrottamente, in diversi atenei, per le esigenze di corsi di laurea, di primo e di secondo livello, a carattere umanistico ed economico-politico.",
+        "periodo": "dal 01-10-2005 al 28-02-2015"
+      },
+      {
+        "content": "Suficiencia investigadora y Diploma de estudios avanzados (D.E.A.) en Lengua espa\u00f1ola y ling\u00fc\u00edstica general - Universidad Aut\u00f3noma de Madrid - Facultad de Filosof\u00eda y Letras",
+        "periodo": "dal 18-10-2007 a oggi"
+      },
+      {
+        "content": "Responsabile della cattedra di Lingua spagnola del dipartimento di Scienze politiche e internazionali (gi\u00e0 facolt\u00e0 di Scienze politiche) dell'Universit\u00e0 di Siena 1240.",
+        "periodo": "dal 01-10-2010 al 30-09-2013"
+      },
+      {
+        "content": "In qualit\u00e0 di docente guida o relatore, ha diretto ventun lavori di ricerca, gi\u00e0 presentati, a conclusione di lauree di primo e secondo ciclo; altrettanti sono in fieri.",
+        "periodo": "dal 01-10-2012 a oggi"
+      },
+      {
+        "content": "In qualit\u00e0 di docente affidatario, insegna Lingua e traduzione - Lingua spagnola, nel dipartimento di afferenza e in quello di Scienze politiche, per non meno di 24 CFU/anno accademico.",
+        "periodo": "dal 01-03-2015 a oggi"
+      },
+      {
+        "content": "Doctorado en Lengua espa\u00f1ola y ling\u00fc\u00edstica general - Universidad Aut\u00f3noma de Madrid - Facultad de Filosof\u00eda y Letras",
+        "periodo": "dal 02-02-2016 a oggi"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Linea di Ricerca su fondi di ateneo es. fin. 2014: /Don Chisciotte/ in Italia. Studio diacronico delle traduzioni italiane del Novecento. Componente del Gruppo di Ricerca",
+        "periodo": "dal 01-10-2015 a oggi"
+      }
+    ]
+  }
+}

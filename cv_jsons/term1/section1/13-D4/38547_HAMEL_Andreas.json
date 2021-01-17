@@ -1,0 +1,919 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s11228-015-0332-9"
+        ],
+        "titolo": "Complete Duality for Quasiconvex and Convex Set-Valued Functions",
+        "ISSN": [
+          "1877-0533"
+        ],
+        "journal": "SET-VALUED AND VARIATIONAL ANALYSIS",
+        "csp": "vol. 24, p. 253-275, ISSN: 1877-0533, doi: 10.1007/s11228-015-0332-9",
+        "anno": "2016",
+        "autori": "Drapeau S, Hamel A, Kupper M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Drapeau S, Hamel A, Kupper M (2016). Complete Duality for Quasiconvex",
+        "and Convex Set-Valued Functions. SET-VALUED AND VARIATIONAL",
+        "ANALYSIS, vol. 24, p. 253-275, ISSN: 1877-0533, doi:",
+        "10.1007/s11228-015-0332-9"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.jmaa.2014.10.010"
+        ],
+        "titolo": "A Minty variational principle for set optimization",
+        "ISSN": [
+          "0022-247X"
+        ],
+        "journal": "JOURNAL OF MATHEMATICAL ANALYSIS AND APPLICATIONS",
+        "csp": "vol. 423, p. 770-796, ISSN: 0022-247X, doi: 10.1016/j.jmaa.2014.10.010",
+        "anno": "2015",
+        "autori": "Crespi GP, Hamel AH, Schrage C"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Crespi GP, Hamel AH, Schrage C (2015). A Minty variational principle for",
+        "set optimization. JOURNAL OF MATHEMATICAL ANALYSIS AND",
+        "APPLICATIONS, vol. 423, p. 770-796, ISSN: 0022-247X, doi:",
+        "10.1016/j.jmaa.2014.10.010"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "3",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "65-141",
+        "titolo": "Set Optimization-a Rather Short Introduction ",
+        "ISSN": [
+          "2194-1009"
+        ],
+        "csp": "Springer-Verlag, ISSN: 2194-1009",
+        "opera": "(a cura di): Hamel A, Heyde F, L\u00f6hne A, Rudloff B, Schrage C , Set Optimization and Applications - The State of the Art . SPRINGER PROCEEDINGS IN MATHEMATICS & STATISTICS, vol. 151, p",
+        "anno": "2015",
+        "autori": "Hamel A, Heyde F, L\u00f6hne A, Rudloff B, Schrage C"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Hamel A, Heyde F, L\u00f6hne A, Rudloff B, Schrage C (2015). Set",
+        "Optimization-a Rather Short Introduction . In: (a cura di): Hamel A, Heyde",
+        "F, L\u00f6hne A, Rudloff B, Schrage C , Set Optimization and Applications - The",
+        "State of the Art . SPRINGER PROCEEDINGS IN MATHEMATICS &",
+        "STATISTICS, vol. 151, p. 65-141, Springer-Verlag, ISSN: 2194-1009"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "4",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "151",
+        "titolo": "Set Optimization and Applications - The State of the Art . SPRINGER PROCEEDINGS IN MATHEMATICS & STATISTICS, vol",
+        "ISSN": [
+          "2194-1009"
+        ],
+        "csp": "Springer-Verlag, ISSN: 2194-1009",
+        "anno": "2015",
+        "autori": "Hamel A, Heyde F, L\u00f6hne A, Rudloff B, Schrage C"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Hamel A, Heyde F, L\u00f6hne A, Rudloff B, Schrage C (2015). Set Optimization",
+        "and Applications - The State of the Art . SPRINGER PROCEEDINGS IN",
+        "MATHEMATICS & STATISTICS, vol. 151, Springer-Verlag, ISSN:",
+        "2194-1009"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Directional derivatives, subdifferentials and optimality conditions for set-valued convex functions",
+        "ISSN": [
+          "1348-9151"
+        ],
+        "journal": "PACIFIC JOURNAL OF OPTIMIZATION",
+        "csp": "vol. 10, p. 667-689, ISSN: 1348-9151",
+        "anno": "2014",
+        "autori": "Hamel AH, Schrage C"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH, Schrage C (2014). Directional derivatives, subdifferentials and",
+        "optimality conditions for set-valued convex functions. PACIFIC JOURNAL",
+        "OF OPTIMIZATION, vol. 10, p. 667-689, ISSN: 1348-9151"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10898-013-0098-2"
+        ],
+        "titolo": "Benson type algorithms for linear vector optimisation problems and applications ",
+        "ISSN": [
+          "0925-5001"
+        ],
+        "journal": "JOURNAL OF GLOBAL OPTIMIZATION",
+        "csp": "vol. 59, p. 811-836, ISSN: 0925-5001, doi: 10.1007/s10898-013-0098-2",
+        "anno": "2014",
+        "autori": "Hamel A, Loehne A, Rudloff B"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel A, Loehne A, Rudloff B (2014). Benson type algorithms for linear",
+        "vector optimisation problems and applications . JOURNAL OF GLOBAL",
+        "OPTIMIZATION, vol. 59, p. 811-836, ISSN: 0925-5001, doi:",
+        "10.1007/s10898-013-0098-2"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10957-013-0431-4"
+        ],
+        "titolo": "Lagrange Duality in Set Optimization",
+        "ISSN": [
+          "0022-3239"
+        ],
+        "journal": "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS",
+        "csp": "vol. 161, p. 368-397, ISSN: 0022-3239, doi: 10.1007/s10957-013-0431-4",
+        "anno": "2014",
+        "autori": "Hamel AH, Loehne A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH, Loehne A (2014). Lagrange Duality in Set Optimization.",
+        "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS, vol. 161,",
+        "p. 368-397, ISSN: 0022-3239, doi: 10.1007/s10957-013-0431-4"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Set-valued average value at risk and its computation",
+        "ISSN": [
+          "1862-9679"
+        ],
+        "journal": "MATHEMATICS AND FINANCIAL ECONOMICS",
+        "csp": "vol. 7, p. 229-246, ISSN: 1862-9679",
+        "anno": "2013",
+        "autori": "Hamel A, Rudloff B, Yankova M."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel A, Rudloff B, Yankova M. (2013). Set-valued average value at risk",
+        "and its computation. MATHEMATICS AND FINANCIAL ECONOMICS, vol.",
+        "7, p. 229-246, ISSN: 1862-9679"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Notes on extended real- and set-valued functions",
+        "ISSN": [
+          "0944-6532"
+        ],
+        "journal": "JOURNAL OF CONVEX ANALYSIS",
+        "csp": "vol. 19, p. 355-384, ISSN: 0944-6532",
+        "anno": "2012",
+        "autori": "Hamel AH, Schrage C"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH, Schrage C (2012). Notes on extended real- and set-valued",
+        "functions. JOURNAL OF CONVEX ANALYSIS, vol. 19, p. 355-384, ISSN:",
+        "0944-6532"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Set-valued risk measures for conical market models",
+        "ISSN": [
+          "1862-9679"
+        ],
+        "journal": "MATHEMATICS AND FINANCIAL ECONOMICS",
+        "csp": "vol. 5, p. 1-28, ISSN: 1862-9679",
+        "anno": "2011",
+        "autori": "Hamel AH, Heyde F, Rudloff B"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH, Heyde F, Rudloff B (2011). Set-valued risk measures for conical",
+        "market models. MATHEMATICS AND FINANCIAL ECONOMICS, vol. 5, p.",
+        "1-28, ISSN: 1862-9679"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "11",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/02331934.2010.534794"
+        ],
+        "titolo": "A Fenchel-Rockafellar duality theorem for set-valued optimization",
+        "ISSN": [
+          "0233-1934"
+        ],
+        "journal": "OPTIMIZATION",
+        "csp": "vol. 60, p. 1023-1043, ISSN: 0233-1934, doi: 10.1080/02331934.2010.534794",
+        "anno": "2011",
+        "autori": "Hamel AH"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH (2011). A Fenchel-Rockafellar duality theorem for set-valued",
+        "optimization. OPTIMIZATION, vol. 60, p. 1023-1043, ISSN: 0233-1934, doi:",
+        "10.1080/02331934.2010.534794"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "12",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1137/080743494"
+        ],
+        "titolo": "Duality for set-valued measures of risk",
+        "ISSN": [
+          "1945-497X"
+        ],
+        "journal": "SIAM JOURNAL ON FINANCIAL MATHEMATICS",
+        "csp": "vol. 1, p. 66-95, ISSN: 1945-497X, doi: 10.1137/080743494",
+        "anno": "2010",
+        "autori": "Hamel AH, Heyde F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH, Heyde F (2010). Duality for set-valued measures of risk. SIAM",
+        "JOURNAL ON FINANCIAL MATHEMATICS, vol. 1, p. 66-95, ISSN:",
+        "1945-497X, doi: 10.1137/080743494"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "13",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s11228-009-0109-0"
+        ],
+        "titolo": "A duality theory for set-valued functions I: Fenchel conjugation theory",
+        "ISSN": [
+          "1877-0533"
+        ],
+        "journal": "SET-VALUED AND VARIATIONAL ANALYSIS",
+        "csp": "vol. 17, p. 153-182, ISSN: 1877-0533, doi: 10.1007/s11228-009-0109-0",
+        "anno": "2009",
+        "autori": "Hamel AH"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH (2009). A duality theory for set-valued functions I: Fenchel",
+        "conjugation theory. SET-VALUED AND VARIATIONAL ANALYSIS, vol. 17,",
+        "p. 153-182, ISSN: 1877-0533, doi: 10.1007/s11228-009-0109-0"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "14",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Minimal elements for product orders",
+        "ISSN": [
+          "0233-1934"
+        ],
+        "journal": "OPTIMIZATION",
+        "csp": "vol. 57, p. 263-275, ISSN: 0233-1934",
+        "anno": "2008",
+        "autori": "Hamel AH, Tammer C"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH, Tammer C (2008). Minimal elements for product orders.",
+        "OPTIMIZATION, vol. 57, p. 263-275, ISSN: 0233-1934"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "15",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Minimal element theorems and Ekeland's principle with set relations",
+        "ISSN": [
+          "1345-4773"
+        ],
+        "journal": "JOURNAL OF NONLINEAR AND CONVEX ANALYSIS",
+        "csp": "vol. 7, p. 19-37, ISSN: 1345-4773",
+        "anno": "2006",
+        "autori": "Hamel AH, L\u00f6hne A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH, L\u00f6hne A (2006). Minimal element theorems and Ekeland's",
+        "principle with set relations. JOURNAL OF NONLINEAR AND CONVEX",
+        "ANALYSIS, vol. 7, p. 19-37, ISSN: 1345-4773"
+      ],
+      "anno": "2006"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s11228-015-0332-9"
+        ],
+        "titolo": "Complete Duality for Quasiconvex and Convex Set-Valued Functions",
+        "ISSN": [
+          "1877-0533"
+        ],
+        "journal": "SET-VALUED AND VARIATIONAL ANALYSIS",
+        "csp": "vol. 24, p. 253-275, ISSN: 1877-0533, doi: 10.1007/s11228-015-0332-9",
+        "anno": "2016",
+        "autori": "Drapeau S, Hamel A, Kupper M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Drapeau S, Hamel A, Kupper M (2016). Complete Duality for Quasiconvex",
+        "and Convex Set-Valued Functions. SET-VALUED AND VARIATIONAL",
+        "ANALYSIS, vol. 24, p. 253-275, ISSN: 1877-0533, doi:",
+        "10.1007/s11228-015-0332-9"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.jmaa.2014.10.010"
+        ],
+        "titolo": "A Minty variational principle for set optimization",
+        "ISSN": [
+          "0022-247X"
+        ],
+        "journal": "JOURNAL OF MATHEMATICAL ANALYSIS AND APPLICATIONS",
+        "csp": "vol. 423, p. 770-796, ISSN: 0022-247X, doi: 10.1016/j.jmaa.2014.10.010",
+        "anno": "2015",
+        "autori": "Crespi GP, Hamel AH, Schrage C"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Crespi GP, Hamel AH, Schrage C (2015). A Minty variational principle for",
+        "set optimization. JOURNAL OF MATHEMATICAL ANALYSIS AND",
+        "APPLICATIONS, vol. 423, p. 770-796, ISSN: 0022-247X, doi:",
+        "10.1016/j.jmaa.2014.10.010"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "3",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "65-141",
+        "titolo": "Set Optimization-a Rather Short Introduction ",
+        "ISSN": [
+          "2194-1009"
+        ],
+        "csp": "Springer-Verlag, ISSN: 2194-1009",
+        "opera": "(a cura di): Hamel A, Heyde F, L\u00f6hne A, Rudloff B, Schrage C , Set Optimization and Applications - The State of the Art . SPRINGER PROCEEDINGS IN MATHEMATICS & STATISTICS, vol. 151, p",
+        "anno": "2015",
+        "autori": "Hamel A, Heyde F, L\u00f6hne A, Rudloff B, Schrage C"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Hamel A, Heyde F, L\u00f6hne A, Rudloff B, Schrage C (2015). Set",
+        "Optimization-a Rather Short Introduction . In: (a cura di): Hamel A, Heyde",
+        "F, L\u00f6hne A, Rudloff B, Schrage C , Set Optimization and Applications - The",
+        "State of the Art . SPRINGER PROCEEDINGS IN MATHEMATICS &",
+        "STATISTICS, vol. 151, p. 65-141, Springer-Verlag, ISSN: 2194-1009"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10898-013-0098-2"
+        ],
+        "titolo": "Benson type algorithms for linear vector optimisation problems and applications ",
+        "ISSN": [
+          "0925-5001"
+        ],
+        "journal": "JOURNAL OF GLOBAL OPTIMIZATION",
+        "csp": "vol. 59, p. 811-836, ISSN: 0925-5001, doi: 10.1007/s10898-013-0098-2",
+        "anno": "2014",
+        "autori": "Hamel A, Loehne A, Rudloff B"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel A, Loehne A, Rudloff B (2014). Benson type algorithms for linear",
+        "vector optimisation problems and applications . JOURNAL OF GLOBAL",
+        "OPTIMIZATION, vol. 59, p. 811-836, ISSN: 0925-5001, doi:",
+        "10.1007/s10898-013-0098-2"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Directional derivatives, subdifferentials and optimality conditions for set-valued convex functions",
+        "ISSN": [
+          "1348-9151"
+        ],
+        "journal": "PACIFIC JOURNAL OF OPTIMIZATION",
+        "csp": "vol. 10, p. 667-689, ISSN: 1348-9151",
+        "anno": "2014",
+        "autori": "Hamel AH, Schrage C"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH, Schrage C (2014). Directional derivatives, subdifferentials and",
+        "optimality conditions for set-valued convex functions. PACIFIC JOURNAL",
+        "OF OPTIMIZATION, vol. 10, p. 667-689, ISSN: 1348-9151"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10957-013-0431-4"
+        ],
+        "titolo": "Lagrange Duality in Set Optimization",
+        "ISSN": [
+          "0022-3239"
+        ],
+        "journal": "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS",
+        "csp": "vol. 161, p. 368-397, ISSN: 0022-3239, doi: 10.1007/s10957-013-0431-4",
+        "anno": "2014",
+        "autori": "Hamel AH, Loehne A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH, Loehne A (2014). Lagrange Duality in Set Optimization.",
+        "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS, vol. 161,",
+        "p. 368-397, ISSN: 0022-3239, doi: 10.1007/s10957-013-0431-4"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Set-valued average value at risk and its computation",
+        "ISSN": [
+          "1862-9679"
+        ],
+        "journal": "MATHEMATICS AND FINANCIAL ECONOMICS",
+        "csp": "vol. 7, p. 229-246, ISSN: 1862-9679",
+        "anno": "2013",
+        "autori": "Hamel A, Rudloff B, Yankova M."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel A, Rudloff B, Yankova M. (2013). Set-valued average value at risk",
+        "and its computation. MATHEMATICS AND FINANCIAL ECONOMICS, vol.",
+        "7, p. 229-246, ISSN: 1862-9679"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Notes on extended real- and set-valued functions",
+        "ISSN": [
+          "0944-6532"
+        ],
+        "journal": "JOURNAL OF CONVEX ANALYSIS",
+        "csp": "vol. 19, p. 355-384, ISSN: 0944-6532",
+        "anno": "2012",
+        "autori": "Hamel AH, Schrage C"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH, Schrage C (2012). Notes on extended real- and set-valued",
+        "functions. JOURNAL OF CONVEX ANALYSIS, vol. 19, p. 355-384, ISSN:",
+        "0944-6532"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Set-valued risk measures for conical market models",
+        "ISSN": [
+          "1862-9679"
+        ],
+        "journal": "MATHEMATICS AND FINANCIAL ECONOMICS",
+        "csp": "vol. 5, p. 1-28, ISSN: 1862-9679",
+        "anno": "2011",
+        "autori": "Hamel AH, Heyde F, Rudloff B"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH, Heyde F, Rudloff B (2011). Set-valued risk measures for conical",
+        "market models. MATHEMATICS AND FINANCIAL ECONOMICS, vol. 5, p.",
+        "1-28, ISSN: 1862-9679"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/02331934.2010.534794"
+        ],
+        "titolo": "A Fenchel-Rockafellar duality theorem for set-valued optimization",
+        "ISSN": [
+          "0233-1934"
+        ],
+        "journal": "OPTIMIZATION",
+        "csp": "vol. 60, p. 1023-1043, ISSN: 0233-1934, doi: 10.1080/02331934.2010.534794",
+        "anno": "2011",
+        "autori": "Hamel AH"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH (2011). A Fenchel-Rockafellar duality theorem for set-valued",
+        "optimization. OPTIMIZATION, vol. 60, p. 1023-1043, ISSN: 0233-1934, doi:",
+        "10.1080/02331934.2010.534794"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "11",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1137/080743494"
+        ],
+        "titolo": "Duality for set-valued measures of risk",
+        "ISSN": [
+          "1945-497X"
+        ],
+        "journal": "SIAM JOURNAL ON FINANCIAL MATHEMATICS",
+        "csp": "vol. 1, p. 66-95, ISSN: 1945-497X, doi: 10.1137/080743494",
+        "anno": "2010",
+        "autori": "Hamel AH, Heyde F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH, Heyde F (2010). Duality for set-valued measures of risk. SIAM",
+        "JOURNAL ON FINANCIAL MATHEMATICS, vol. 1, p. 66-95, ISSN:",
+        "1945-497X, doi: 10.1137/080743494"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "12",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s11228-009-0109-0"
+        ],
+        "titolo": "A duality theory for set-valued functions I: Fenchel conjugation theory",
+        "ISSN": [
+          "1877-0533"
+        ],
+        "journal": "SET-VALUED AND VARIATIONAL ANALYSIS",
+        "csp": "vol. 17, p. 153-182, ISSN: 1877-0533, doi: 10.1007/s11228-009-0109-0",
+        "anno": "2009",
+        "autori": "Hamel AH"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH (2009). A duality theory for set-valued functions I: Fenchel",
+        "conjugation theory. SET-VALUED AND VARIATIONAL ANALYSIS, vol. 17,",
+        "p. 153-182, ISSN: 1877-0533, doi: 10.1007/s11228-009-0109-0"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "13",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Minimal elements for product orders",
+        "ISSN": [
+          "0233-1934"
+        ],
+        "journal": "OPTIMIZATION",
+        "csp": "vol. 57, p. 263-275, ISSN: 0233-1934",
+        "anno": "2008",
+        "autori": "Hamel AH, Tammer C"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH, Tammer C (2008). Minimal elements for product orders.",
+        "OPTIMIZATION, vol. 57, p. 263-275, ISSN: 0233-1934"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "14",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Minimal element theorems and Ekeland's principle with set relations",
+        "ISSN": [
+          "1345-4773"
+        ],
+        "journal": "JOURNAL OF NONLINEAR AND CONVEX ANALYSIS",
+        "csp": "vol. 7, p. 19-37, ISSN: 1345-4773",
+        "anno": "2006",
+        "autori": "Hamel AH, L\u00f6hne A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH, L\u00f6hne A (2006). Minimal element theorems and Ekeland's",
+        "principle with set relations. JOURNAL OF NONLINEAR AND CONVEX",
+        "ANALYSIS, vol. 7, p. 19-37, ISSN: 1345-4773"
+      ],
+      "anno": "2006"
+    },
+    {
+      "id": "15",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Closing the duality gap in linear vector optimization",
+        "ISSN": [
+          "0944-6532"
+        ],
+        "journal": "JOURNAL OF CONVEX ANALYSIS",
+        "csp": "vol. 11, p. 163-178, ISSN: 0944-6532",
+        "anno": "2004",
+        "autori": "Hamel AH, Heyde F, L\u00f6hne A, Tammer C, Winkler K"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Hamel AH, Heyde F, L\u00f6hne A, Tammer C, Winkler K (2004). Closing the",
+        "duality gap in linear vector optimization. JOURNAL OF CONVEX",
+        "ANALYSIS, vol. 11, p. 163-178, ISSN: 0944-6532"
+      ],
+      "anno": "2004"
+    }
+  ],
+  "general": {
+    "settore": "13/D4",
+    "progr": "38547",
+    "nome": "HAMEL Andreas",
+    "fascia": "Prima"
+  },
+  "titoli": {
+    "Direzione o partecipazione a comitati editoriali di riviste, collane editoriali, enciclopedie e": [
+      {
+        "content": "Associate Editor of \"Applied Mathematics and Computation\"",
+        "periodo": "dal 01-03-2014 a oggi"
+      },
+      {
+        "content": "Hamel A (Leading Editor), Heyde F, L\u00f6hne A, Rudloff B, Schrage C (2015). Set Optimization and Applications - The State of the Art . SPRINGER PROCEEDINGS IN MATHEMATICS & STATISTICS, vol. 151, Springer-Verlag, ISSN: 2194-1009",
+        "periodo": "dal 01-01-2015 a oggi"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Co{organizer (with C. Tammer) of 2nd International Summer School \"Optimal Control and Optimization Theory,\" Halle, Germany, 2002, with financial support of LEUCOREA and Federal State Sachsen-Anhalt",
+        "periodo": "dal 01-01-2002 a oggi"
+      },
+      {
+        "content": "Co-organizer (with R. Henrion, W. Romisch) of the Workshop \"Risikoma e und Anwendungen (Risk measures and applications),\" jointly organized by Humboldt-University Berlin,Weierstrass-Institute Berlin and Martin-Luther-University Halle-Wittenberg, Berlin, 2003",
+        "periodo": "dal 01-01-2003 a oggi"
+      },
+      {
+        "content": "Co-organizer of Minisymposium (2 sessions, with G. Eichfelder, A. Lohne) \"Vector- and Set-Valued Optimization\", SIAM Conference on Optimization, Boston 2008",
+        "periodo": "dal 01-01-2008 a oggi"
+      },
+      {
+        "content": "Invited talk \"A duality theory for set-valued risk measures\" at NSF/CBMS Regional Conference on Convex Duality Methods in Mathematical Finance, UCSB, June 2008",
+        "periodo": "dal 01-06-2008 a oggi"
+      },
+      {
+        "content": "Presentation at 7th EUROPT Workshop \"Advances in Continuous Optimization\", June 2009",
+        "periodo": "dal 01-06-2009 a oggi"
+      },
+      {
+        "content": "Invited talk \"The fundamental duality formula in set-valued optimization\", University of South Australia, Adelaide, August 2010",
+        "periodo": "dal 01-08-2010 a oggi"
+      },
+      {
+        "content": "AMS Joint Meeting, in stream \"Set-valued optimization and variational inequalities\", New Orleans, January 2011",
+        "periodo": "dal 01-01-2011 a oggi"
+      },
+      {
+        "content": "Co-organizer \"AMS Special Session on Set-Valued Optimization and Variational Problems\" at the joint Annual Mathematical Meetings, New Orleans, January 2011 (with A. Khan, M. Sama)",
+        "periodo": "dal 01-01-2011 a oggi"
+      },
+      {
+        "content": "Co-organizer of Minisymposium (3 sessions, with G. Eichfelder, A. Khan) 'Vector- and Set-Valued Optimization,\" SIAM Conference on Optimization, Darmstadt 2011",
+        "periodo": "dal 01-07-2011 a oggi"
+      },
+      {
+        "content": "Talk at conference \"Optimization, Theory, Algorithms and Applications in Economics\", Barcelona, Spain, October 2011",
+        "periodo": "dal 01-10-2011 a oggi"
+      },
+      {
+        "content": "Talk at conference \"Mathematical Finance and Partial Differential Equations\", Rutgers University, November 2011",
+        "periodo": "dal 01-11-2011 a oggi"
+      },
+      {
+        "content": "Invited seminar talk \"The complete-lattice approach to set-valued optimization: Solution concepts, duality, optimality conditions, applications\", Technion Haifa, January 2012",
+        "periodo": "dal 01-01-2012 a oggi"
+      },
+      {
+        "content": "Co-organizer \"AMS Special Session on Set-Valued Optimization and Variational Problems\" at the joint Annual Mathematical Meetings, Boston, January 2012 (with A. Khan, M. Sama)",
+        "periodo": "dal 01-01-2012 a oggi"
+      },
+      {
+        "content": "Organizer of the International Summer School on Variational Analysis for Finance and Economics, Yeshiva University, New York, August 2012",
+        "periodo": "dal 01-08-2012 a oggi"
+      },
+      {
+        "content": "Co-organizer of Conference \"Set Optimization Meets Finance,\" Lutherstadt-Wittenberg, Germany, August 2012 (with A. Lohne, F. Heyde, R. Rudloff , C. Schrage)",
+        "periodo": "dal 01-08-2012 a oggi"
+      },
+      {
+        "content": "Invited session \"Set-Valued Convex and Quasiconvex Duality\" at International Symposium of Mathematical Programming, Berlin, Germany, August 2012 (3 talks)",
+        "periodo": "dal 01-08-2012 a oggi"
+      },
+      {
+        "content": "Invited talk \"Set-valued optimization and conlinear structures: Theory, ramifications and challenges\", South Pacific Optimization Meeting, Newcastle, Australia, February 2013",
+        "periodo": "dal 01-02-2013 a oggi"
+      },
+      {
+        "content": "Invited workshop (2 lectures) \"Markets with Frictions: From Set-Valued Risk Measures to Utility Maximization\", University Hannover, November 2013",
+        "periodo": "dal 01-11-2013 a oggi"
+      },
+      {
+        "content": "Invited seminar talk \"Set Optimization -A New Mathematical Area with Applications in Finance\", University of Technology Cottbus, Department of Mathematics, December 2013",
+        "periodo": "dal 01-12-2013 a oggi"
+      },
+      {
+        "content": "Talk at 6th German-Polish Conference on Optimization \"Set-Valued Optimization and Convex Process Duality\", Lutherstadt-Wittenberg, February 2014",
+        "periodo": "dal 01-02-2014 a oggi"
+      },
+      {
+        "content": "Co-organizer of Conference \"Set Optimization Meets Finance,\" Brunico-Bruneck, Italy, September 2014 (with A. Lohne, F. Heyde, R. Rudloff , C. Schrage)",
+        "periodo": "dal 01-09-2014 a oggi"
+      },
+      {
+        "content": "Invited seminar talk \"Set Optimization and Applications in Finance -a New Mathematical Challenge\", University of Trento, Department of Mathematics, October 2014",
+        "periodo": "dal 01-10-2014 a oggi"
+      },
+      {
+        "content": "Two invited lectures at 9th Bachelier Colloquium, Metabief, France, January 2015",
+        "periodo": "dal 01-01-2015 a oggi"
+      },
+      {
+        "content": "Invited talk at South Pacific Optimization Meeting, Adelaide, Australia, February 2015",
+        "periodo": "dal 01-02-2015 a oggi"
+      },
+      {
+        "content": "Invited talk \"Set-valued approaches to multi-utility representation and optimization\" ZIF Bielefeld, June 2015",
+        "periodo": "dal 01-06-2015 a oggi"
+      },
+      {
+        "content": "Invited talk \"A set-valued approach to zero-sum matrix games with vector payoffs\" at RIMS, Varese, Italy, September 2015",
+        "periodo": "dal 01-09-2015 a oggi"
+      },
+      {
+        "content": "Co-organizer of \"Bozen-Bolzano Risk School,\" Bozen, Italy, September 2015 (with F. Durante)",
+        "periodo": "dal 01-09-2015 a oggi"
+      },
+      {
+        "content": "Invited talk \"Stochastic orders, multi-utility representations and central regions. A set optimization perspective.\" Institute for Statistics and Mathematics, University of Business and Economics (WU), Vienna, October 2015",
+        "periodo": "dal 01-10-2015 a oggi"
+      },
+      {
+        "content": "Invited session \"Set Optimization and Applications\" & invited talk \"An abstract convexity approach to set relations and set optimization\" at The 5th Asian Conference on Nonlinear Analysis and Optimization, Niigata, August 2016",
+        "periodo": "dal 01-08-2016 a oggi"
+      },
+      {
+        "content": "Organizer of the invited session \"Set Optimization: Advances and Applications\" and presentation on \"The fundamental duality formula in set optimization\" at The 5th International Conference on Continuous Optimization of the Mathematical Optimization Society, Tokio, August 2016",
+        "periodo": "dal 07-08-2016 a oggi"
+      },
+      {
+        "content": "Co-organizer of conference \"Set Optimization for Applications\", Vienna September 19-23, 2016, see http://sofa2016.wu.ac.at",
+        "periodo": "dal 01-09-2016 a oggi"
+      }
+    ],
+    "Responsabilita' di studi e ricerche scientifiche affidati da qualificate istituzioni pubbliche o": [
+      {
+        "content": "Designed course \u201cConvex Analysis for Finance and Economics,\u201d the first version of which was run at Halle University in 2003, and the full course became part of the Ph.D. program at the Department of Operations Research and Financial Engineering at Princeton University (later also taught by B. Rudloff, P. Cheridito at Princeton University and M. Kupper at Humboldt University Berlin). Two times (2008, 2009) elected for \"Princeton Engineering Commendation List for Outstanding Teaching.\"",
+        "periodo": "dal 01-10-2007 al 30-06-2009"
+      }
+    ],
+    "Conseguimento di premi e riconoscimenti per l'attivit\u00e0 scientifica, inclusa l\u2019affiliazione ad": [
+      {
+        "content": "Research Grant of German Academic Exchange Service (DAAD) for a Research stay at the Imperial College, London",
+        "periodo": "dal 01-04-1999 al 30-09-1999"
+      },
+      {
+        "content": "Grant for a teaching project \"Development and Test of a New Methodology for Multimedia Lectures for Graduate Courses in Mathematics\" (with C. Filipski), supported by Federal State Sachsen-Anhalt, Germany, and EU Commission",
+        "periodo": "dal 01-06-2002 al 31-05-2004"
+      },
+      {
+        "content": "Research grant for one year research stay at the IMPA, Conselho Nacional de Desenvolvimento Cient ifico e Tecnol ogico (CNPq), Brazil",
+        "periodo": "dal 01-02-2005 al 31-03-2006"
+      },
+      {
+        "content": "Member of the American Mathematical Society AMS",
+        "periodo": "dal 01-01-2012 a oggi"
+      },
+      {
+        "content": "Grant for the project \"An abstract convexity approach to scalarization in set/vector optimization and to multi-utility representation\" (members of the Team: C. Crespi, F. Flores-Bazan, M.Rocca, C. Schrage) 22.500 Free University of Bozen Central Research Funds",
+        "periodo": "dal 01-01-2014 a oggi"
+      }
+    ],
+    "Partecipazione al collegio dei docenti ovvero attribuzione di incarichi di insegnamento,": [
+      {
+        "content": "Member of the Collegio dei Docenti of the PhD program \"Management and Economics on Organizational and Institutional Outliers\" Faculty of Economics and Management, Free University of Bozen Cycle 2014",
+        "periodo": "dal 01-09-2014 a oggi"
+      },
+      {
+        "content": "Member of the Collegio dei Docenti of the PhD program \"Methods and Models for Economic Decisions\", Dipartimento di Economia dell\u2019Universit\u00e0 dell\u2019Insubria, Cycle 2015",
+        "periodo": "dal 01-09-2015 a oggi"
+      },
+      {
+        "content": "Member of the Collegio dei Docenti of the PhD program \"Methods and Models for Economic Decisions\", Dipartimento di Economia dell\u2019Universit\u00e0 dell\u2019Insubria, Cycle 2016",
+        "periodo": "dal 01-09-2016 a oggi"
+      }
+    ],
+    "Formale attribuzione di incarichi di insegnamento o di ricerca (fellowship) presso": [
+      {
+        "content": "Research Stay as PostDoc at Imperial College London, Department of Electrical Engineering",
+        "periodo": "dal 01-04-1999 al 30-09-1999"
+      },
+      {
+        "content": "Research Stay as PostDoc/Lecturer at IMPA, Rio de Janeiro, Brasil",
+        "periodo": "dal 01-02-2005 al 31-03-2006"
+      },
+      {
+        "content": "Associate Researcher/Lecturer at Department of Operations Research and Financial Engineering (ORFE), Princeton University, NJ, USA; teaching duties within the PhD program as well as undergraduate courses; research in mathematical finance",
+        "periodo": "dal 01-09-2007 al 28-02-2010"
+      },
+      {
+        "content": "2010-13 Associate Professor for Mathematics, Yeshiva University New York (teaching courses in mathematics, probability, finance, mathematical economics and research work); 2014: offer for tenured full professor position at YU (declined)",
+        "periodo": "dal 01-08-2010 al 14-09-2013"
+      }
+    ],
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "Co-PhD-supervisor of Andreas Loehne: He obtained his PhD in 2005 with thesis \"Optimization with set relations\" at University Halle\u2013 Wittenberg, summa cum laude",
+        "periodo": "dal 01-09-2002 al 31-08-2005"
+      },
+      {
+        "content": "PhD supervisor for Carola Schrage: She obtained a PhD in 2009 with thesis \"Set-valued convex analysis\" at University Halle\u2013Wittenberg, magna cum laude",
+        "periodo": "dal 01-01-2006 al 31-12-2009"
+      },
+      {
+        "content": "Currently: PhD supervisor for Daniel Kostner at Free University Bozen, topic \"Quantiles and Risk Measures for Multivariate Positions,\" ongoing",
+        "periodo": "dal 01-09-2014 a oggi"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Leader of the project \"An abstract convexity approach to scalarization in set/vector optimization and to multi-utility representation\" (members of the Team: C. Crespi, F. Flores-Bazan, M.Rocca, C. Schrage)",
+        "periodo": "dal 01-01-2014 a oggi"
+      }
+    ],
+    "Responsabilita' scientifica per progetti di ricerca internazionali e nazionali, ammessi al": [
+      {
+        "content": "Responsible for the project \"An abstract convexity approach to scalarization in set/vector optimization and to multi-utility representation\" (members of the Team: C. Crespi, F. Flores-Bazan, M.Rocca, C. Schrage), 22.500 Euro, Free University of Bozen Central Research Funds",
+        "periodo": "dal 01-01-2014 a oggi"
+      }
+    ]
+  }
+}

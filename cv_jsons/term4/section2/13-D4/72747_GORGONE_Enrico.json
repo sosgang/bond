@@ -1,0 +1,757 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s11590-017-1168-z"
+        ],
+        "titolo": "Dynamic smoothness parameter for fast gradient methods",
+        "ISSN": [
+          "1862-4472"
+        ],
+        "journal": "OPTIMIZATION LETTERS",
+        "csp": "ISSN: 1862-4472, doi: 10.1007/s11590-017-1168-z",
+        "anno": "2017",
+        "autori": "Frangioni, Antonio, Gendron, Bernard, GORGONE, ENRICO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Frangioni, Antonio, Gendron, Bernard, GORGONE, ENRICO (2017).",
+        "Dynamic smoothness parameter for fast gradient methods. OPTIMIZATION",
+        "LETTERS, ISSN: 1862-4472, doi: 10.1007/s11590-017-1168-z"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1002/net.21721"
+        ],
+        "titolo": "A Lagrangian heuristic algorithm for the time-dependent combined network design and routing problem",
+        "ISSN": [
+          "0028-3045"
+        ],
+        "journal": "NETWORKS",
+        "csp": "vol. 69, p. 110-123, ISSN: 0028-3045, doi: 10.1002/net.21721",
+        "anno": "2017",
+        "autori": "Fortz, Bernard, GORGONE, ENRICO, Papadimitriou, Dimitri"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Fortz, Bernard, GORGONE, ENRICO, Papadimitriou, Dimitri (2017). A",
+        "Lagrangian heuristic algorithm for the time-dependent combined network",
+        "design and routing problem. NETWORKS, vol. 69, p. 110-123, ISSN:",
+        "0028-3045, doi: 10.1002/net.21721"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.cor.2017.06.001"
+        ],
+        "titolo": "Lagrangian relaxation for SVM feature selection",
+        "ISSN": [
+          "0305-0548"
+        ],
+        "journal": "COMPUTERS & OPERATIONS RESEARCH",
+        "csp": "vol. 87, p. 137-145, ISSN: 0305-0548, doi: 10.1016/j.cor.2017.06.001",
+        "anno": "2017",
+        "autori": "GAUDIOSO, MANLIO, GORGONE, ENRICO, Labb\u00e9, M., Rodr\u00edguez Ch\u00ed\u00ada, A. M."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GAUDIOSO, MANLIO, GORGONE, ENRICO, Labb\u00e9, M., Rodr\u00edguez Ch\u00ed\u00ada,",
+        "A. M. (2017). Lagrangian relaxation for SVM feature selection.",
+        "COMPUTERS & OPERATIONS RESEARCH, vol. 87, p. 137-145, ISSN:",
+        "0305-0548, doi: 10.1016/j.cor.2017.06.001"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s11075-017-0280-6"
+        ],
+        "titolo": "A method for convex minimization based on translated first-order approximations",
+        "ISSN": [
+          "1017-1398"
+        ],
+        "journal": "NUMERICAL ALGORITHMS",
+        "csp": "vol. 2017, p. 1-16, ISSN: 1017-1398, doi: 10.1007/s11075-017-0280-6",
+        "anno": "2017",
+        "autori": "Astorino, A., GAUDIOSO, MANLIO, GORGONE, ENRICO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Astorino, A., GAUDIOSO, MANLIO, GORGONE, ENRICO (2017). A",
+        "method for convex minimization based on translated first-order",
+        "approximations. NUMERICAL ALGORITHMS, vol. 2017, p. 1-16, ISSN:",
+        "1017-1398, doi: 10.1007/s11075-017-0280-6"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "5",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "6030-6036",
+        "doi": [
+          "10.1109/ICC.2015.7249283"
+        ],
+        "titolo": "Lagrangian relaxation for the time-dependent combined network design and routing problem",
+        "ISBN": [
+          "9781467364324"
+        ],
+        "csp": "Institute of Electrical and Electronics Engineers Inc., ISBN: 9781467364324, gbr, 2015, doi: 10.1109/ICC.2015.7249283",
+        "opera": "IEEE International Conference on Communications. vol. 2015-, p",
+        "anno": "2015",
+        "autori": "Papadimitriou, Dimitri, Fortz, Bernard, Gorgone, Enrico"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Papadimitriou, Dimitri, Fortz, Bernard, Gorgone, Enrico (2015). Lagrangian",
+        "relaxation for the time-dependent combined network design and routing",
+        "problem. In: IEEE International Conference on Communications. vol. 2015-,",
+        "p. 6030-6036, Institute of Electrical and Electronics Engineers Inc., ISBN:",
+        "9781467364324, gbr, 2015, doi: 10.1109/ICC.2015.7249283"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10107-013-0642-3"
+        ],
+        "titolo": "Bundle methods for sum-functions with \"easy\" components: applications to multicommodity network design",
+        "ISSN": [
+          "0025-5610"
+        ],
+        "journal": "MATHEMATICAL PROGRAMMING",
+        "csp": "vol. 145, p. 133-161, ISSN: 0025-5610, doi: 10.1007/s10107-013-0642-3",
+        "anno": "2014",
+        "autori": "Frangioni, A, GORGONE, ENRICO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Frangioni, A, GORGONE, ENRICO (2014). Bundle methods for",
+        "sum-functions with \"easy\" components: applications to multicommodity",
+        "network design. MATHEMATICAL PROGRAMMING, vol. 145, p. 133-161,",
+        "ISSN: 0025-5610, doi: 10.1007/s10107-013-0642-3"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1137/120888867"
+        ],
+        "titolo": "A nonmonotone proximal bundle method with (potentially) continuous step decisions",
+        "ISSN": [
+          "1052-6234"
+        ],
+        "journal": "SIAM JOURNAL ON OPTIMIZATION",
+        "csp": "vol. 23, p. 1784-1809, ISSN: 1052-6234, doi: 10.1137/120888867",
+        "anno": "2013",
+        "autori": "Astorino, A., Frangioni, A., Fuduli, A., GORGONE, ENRICO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Astorino, A., Frangioni, A., Fuduli, A., GORGONE, ENRICO (2013). A",
+        "nonmonotone proximal bundle method with (potentially) continuous step",
+        "decisions. SIAM JOURNAL ON OPTIMIZATION, vol. 23, p. 1784-1809,",
+        "ISSN: 1052-6234, doi: 10.1137/120888867"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.ejor.2013.02.038"
+        ],
+        "titolo": "A library for continuous convex separable quadratic knapsack problems",
+        "ISSN": [
+          "0377-2217"
+        ],
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "csp": "vol. 229, p. 37-40, ISSN: 0377-2217, doi: 10.1016/j.ejor.2013.02.038",
+        "anno": "2013",
+        "autori": "Frangioni, Antonio, GORGONE, ENRICO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Frangioni, Antonio, GORGONE, ENRICO (2013). A library for continuous",
+        "convex separable quadratic knapsack problems. EUROPEAN JOURNAL",
+        "OF OPERATIONAL RESEARCH, vol. 229, p. 37-40, ISSN: 0377-2217, doi:",
+        "10.1016/j.ejor.2013.02.038"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1137/100817930"
+        ],
+        "titolo": "Piecewise-quadratic approximations in convex numerical optimization",
+        "ISSN": [
+          "1052-6234"
+        ],
+        "journal": "SIAM JOURNAL ON OPTIMIZATION",
+        "csp": "vol. 21, p. 1418-1438, ISSN: 1052-6234, doi: 10.1137/100817930",
+        "anno": "2011",
+        "autori": "Astorino, A, Frangioni, A., GAUDIOSO, MANLIO, GORGONE, ENRICO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Astorino, A, Frangioni, A., GAUDIOSO, MANLIO, GORGONE, ENRICO",
+        "(2011). Piecewise-quadratic approximations in convex numerical",
+        "optimization. SIAM JOURNAL ON OPTIMIZATION, vol. 21, p. 1418-1438,",
+        "ISSN: 1052-6234, doi: 10.1137/100817930"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/02331931003692557"
+        ],
+        "titolo": "Data preprocessing in semi-supervised SVM classification",
+        "ISSN": [
+          "0233-1934"
+        ],
+        "journal": "OPTIMIZATION",
+        "csp": "vol. 60, p. 143-151, ISSN: 0233-1934, doi: 10.1080/02331931003692557",
+        "anno": "2011",
+        "autori": "Astorino, A., GORGONE, ENRICO, Gaudioso, M, Pallaschke, D."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Astorino, A., GORGONE, ENRICO, Gaudioso, M, Pallaschke, D. (2011).",
+        "Data preprocessing in semi-supervised SVM classification.",
+        "OPTIMIZATION, vol. 60, p. 143-151, ISSN: 0233-1934, doi:",
+        "10.1080/02331931003692557"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "11",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/02331930903085367"
+        ],
+        "titolo": "Separation of convex sets by Clarke subdifferential",
+        "ISSN": [
+          "0233-1934"
+        ],
+        "journal": "OPTIMIZATION",
+        "csp": "vol. 59, p. 1199-1210, ISSN: 0233-1934, doi: 10.1080/02331930903085367",
+        "anno": "2010",
+        "autori": "GAUDIOSO, MANLIO, GORGONE, ENRICO, Pallaschke, D."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GAUDIOSO, MANLIO, GORGONE, ENRICO, Pallaschke, D. (2010).",
+        "Separation of convex sets by Clarke subdifferential. OPTIMIZATION, vol.",
+        "59, p. 1199-1210, ISSN: 0233-1934, doi: 10.1080/02331930903085367"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "12",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/10556780903236911"
+        ],
+        "titolo": "Gradient set splitting in nonconvex nonsmooth numerical optimization",
+        "ISSN": [
+          "1055-6788"
+        ],
+        "journal": "OPTIMIZATION METHODS & SOFTWARE",
+        "csp": "vol. 25, p. 59-74, ISSN: 1055-6788, doi: 10.1080/10556780903236911",
+        "anno": "2010",
+        "autori": "GAUDIOSO, MANLIO, GORGONE, ENRICO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GAUDIOSO, MANLIO, GORGONE, ENRICO (2010). Gradient set splitting",
+        "in nonconvex nonsmooth numerical optimization. OPTIMIZATION",
+        "METHODS & SOFTWARE, vol. 25, p. 59-74, ISSN: 1055-6788, doi:",
+        "10.1080/10556780903236911"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "13",
+      "type": "Articolo in rivista",
+      "parsed": null,
+      "rawcontent": [
+        "Articolo in rivista",
+        "GORGONE, ENRICO (2010). Nonsmooth optimization: Theory and",
+        "algorithms. 4OR, vol. 8, p. 109-112, ISSN: 1619-4500, doi:",
+        "10.1007/s10288-009-0107-y"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "14",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Ottimizzazione non-differenziabile: Teoria e algoritmi",
+        "ISSN": [
+          "1972-7356"
+        ],
+        "journal": "LA MATEMATICA NELLA SOCIET\u00c0 E NELLA CULTURA",
+        "csp": "vol. 2, p. 251-254, ISSN: 1972-7356",
+        "anno": "2009",
+        "autori": "Gorgone, Enrico"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gorgone, Enrico (2009). Ottimizzazione non-differenziabile: Teoria e",
+        "algoritmi. LA MATEMATICA NELLA SOCIET\u00c0 E NELLA CULTURA, vol. 2,",
+        "p. 251-254, ISSN: 1972-7356"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "15",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/10556780802264071"
+        ],
+        "titolo": "Non-smoothness in classification problems",
+        "ISSN": [
+          "1055-6788"
+        ],
+        "journal": "OPTIMIZATION METHODS & SOFTWARE",
+        "csp": "vol. 23, p. 675-688, ISSN: 1055-6788, doi: 10.1080/10556780802264071",
+        "anno": "2008",
+        "autori": "Astorino, A., Fuduli, A, GORGONE, ENRICO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Astorino, A., Fuduli, A, GORGONE, ENRICO (2008). Non-smoothness in",
+        "classification problems. OPTIMIZATION METHODS & SOFTWARE, vol.",
+        "23, p. 675-688, ISSN: 1055-6788, doi: 10.1080/10556780802264071"
+      ],
+      "anno": "2008"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s11590-017-1168-z"
+        ],
+        "titolo": "Dynamic smoothness parameter for fast gradient methods",
+        "ISSN": [
+          "1862-4472"
+        ],
+        "journal": "OPTIMIZATION LETTERS",
+        "csp": "ISSN: 1862-4472, doi: 10.1007/s11590-017-1168-z",
+        "anno": "2017",
+        "autori": "Frangioni, Antonio, Gendron, Bernard, GORGONE, ENRICO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Frangioni, Antonio, Gendron, Bernard, GORGONE, ENRICO (2017).",
+        "Dynamic smoothness parameter for fast gradient methods. OPTIMIZATION",
+        "LETTERS, ISSN: 1862-4472, doi: 10.1007/s11590-017-1168-z"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.cor.2017.06.001"
+        ],
+        "titolo": "Lagrangian relaxation for SVM feature selection",
+        "ISSN": [
+          "0305-0548"
+        ],
+        "journal": "COMPUTERS & OPERATIONS RESEARCH",
+        "csp": "vol. 87, p. 137-145, ISSN: 0305-0548, doi: 10.1016/j.cor.2017.06.001",
+        "anno": "2017",
+        "autori": "GAUDIOSO, MANLIO, GORGONE, ENRICO, Labb\u00e9, M., Rodr\u00edguez Ch\u00ed\u00ada, A. M."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GAUDIOSO, MANLIO, GORGONE, ENRICO, Labb\u00e9, M., Rodr\u00edguez Ch\u00ed\u00ada,",
+        "A. M. (2017). Lagrangian relaxation for SVM feature selection.",
+        "COMPUTERS & OPERATIONS RESEARCH, vol. 87, p. 137-145, ISSN:",
+        "0305-0548, doi: 10.1016/j.cor.2017.06.001"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1002/net.21721"
+        ],
+        "titolo": "A Lagrangian heuristic algorithm for the time-dependent combined network design and routing problem",
+        "ISSN": [
+          "0028-3045"
+        ],
+        "journal": "NETWORKS",
+        "csp": "vol. 69, p. 110-123, ISSN: 0028-3045, doi: 10.1002/net.21721",
+        "anno": "2017",
+        "autori": "Fortz, Bernard, GORGONE, ENRICO, Papadimitriou, Dimitri"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Fortz, Bernard, GORGONE, ENRICO, Papadimitriou, Dimitri (2017). A",
+        "Lagrangian heuristic algorithm for the time-dependent combined network",
+        "design and routing problem. NETWORKS, vol. 69, p. 110-123, ISSN:",
+        "0028-3045, doi: 10.1002/net.21721"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s11075-017-0280-6"
+        ],
+        "titolo": "A method for convex minimization based on translated first-order approximations",
+        "ISSN": [
+          "1017-1398"
+        ],
+        "journal": "NUMERICAL ALGORITHMS",
+        "csp": "vol. 2017, p. 1-16, ISSN: 1017-1398, doi: 10.1007/s11075-017-0280-6",
+        "anno": "2017",
+        "autori": "Astorino, A., GAUDIOSO, MANLIO, GORGONE, ENRICO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Astorino, A., GAUDIOSO, MANLIO, GORGONE, ENRICO (2017). A",
+        "method for convex minimization based on translated first-order",
+        "approximations. NUMERICAL ALGORITHMS, vol. 2017, p. 1-16, ISSN:",
+        "1017-1398, doi: 10.1007/s11075-017-0280-6"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10107-013-0642-3"
+        ],
+        "titolo": "Bundle methods for sum-functions with \"easy\" components: applications to multicommodity network design",
+        "ISSN": [
+          "0025-5610"
+        ],
+        "journal": "MATHEMATICAL PROGRAMMING",
+        "csp": "vol. 145, p. 133-161, ISSN: 0025-5610, doi: 10.1007/s10107-013-0642-3",
+        "anno": "2014",
+        "autori": "Frangioni, A, GORGONE, ENRICO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Frangioni, A, GORGONE, ENRICO (2014). Bundle methods for",
+        "sum-functions with \"easy\" components: applications to multicommodity",
+        "network design. MATHEMATICAL PROGRAMMING, vol. 145, p. 133-161,",
+        "ISSN: 0025-5610, doi: 10.1007/s10107-013-0642-3"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.ejor.2013.02.038"
+        ],
+        "titolo": "A library for continuous convex separable quadratic knapsack problems",
+        "ISSN": [
+          "0377-2217"
+        ],
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "csp": "vol. 229, p. 37-40, ISSN: 0377-2217, doi: 10.1016/j.ejor.2013.02.038",
+        "anno": "2013",
+        "autori": "Frangioni, Antonio, GORGONE, ENRICO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Frangioni, Antonio, GORGONE, ENRICO (2013). A library for continuous",
+        "convex separable quadratic knapsack problems. EUROPEAN JOURNAL",
+        "OF OPERATIONAL RESEARCH, vol. 229, p. 37-40, ISSN: 0377-2217, doi:",
+        "10.1016/j.ejor.2013.02.038"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1137/120888867"
+        ],
+        "titolo": "A nonmonotone proximal bundle method with (potentially) continuous step decisions",
+        "ISSN": [
+          "1052-6234"
+        ],
+        "journal": "SIAM JOURNAL ON OPTIMIZATION",
+        "csp": "vol. 23, p. 1784-1809, ISSN: 1052-6234, doi: 10.1137/120888867",
+        "anno": "2013",
+        "autori": "Astorino, A., Frangioni, A., Fuduli, A., GORGONE, ENRICO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Astorino, A., Frangioni, A., Fuduli, A., GORGONE, ENRICO (2013). A",
+        "nonmonotone proximal bundle method with (potentially) continuous step",
+        "decisions. SIAM JOURNAL ON OPTIMIZATION, vol. 23, p. 1784-1809,",
+        "ISSN: 1052-6234, doi: 10.1137/120888867"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1137/100817930"
+        ],
+        "titolo": "Piecewise-quadratic approximations in convex numerical optimization",
+        "ISSN": [
+          "1052-6234"
+        ],
+        "journal": "SIAM JOURNAL ON OPTIMIZATION",
+        "csp": "vol. 21, p. 1418-1438, ISSN: 1052-6234, doi: 10.1137/100817930",
+        "anno": "2011",
+        "autori": "Astorino, A, Frangioni, A., GAUDIOSO, MANLIO, GORGONE, ENRICO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Astorino, A, Frangioni, A., GAUDIOSO, MANLIO, GORGONE, ENRICO",
+        "(2011). Piecewise-quadratic approximations in convex numerical",
+        "optimization. SIAM JOURNAL ON OPTIMIZATION, vol. 21, p. 1418-1438,",
+        "ISSN: 1052-6234, doi: 10.1137/100817930"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/10556780903236911"
+        ],
+        "titolo": "Gradient set splitting in nonconvex nonsmooth numerical optimization",
+        "ISSN": [
+          "1055-6788"
+        ],
+        "journal": "OPTIMIZATION METHODS & SOFTWARE",
+        "csp": "vol. 25, p. 59-74, ISSN: 1055-6788, doi: 10.1080/10556780903236911",
+        "anno": "2010",
+        "autori": "GAUDIOSO, MANLIO, GORGONE, ENRICO"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GAUDIOSO, MANLIO, GORGONE, ENRICO (2010). Gradient set splitting",
+        "in nonconvex nonsmooth numerical optimization. OPTIMIZATION",
+        "METHODS & SOFTWARE, vol. 25, p. 59-74, ISSN: 1055-6788, doi:",
+        "10.1080/10556780903236911"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/02331930903085367"
+        ],
+        "titolo": "Separation of convex sets by Clarke subdifferential",
+        "ISSN": [
+          "0233-1934"
+        ],
+        "journal": "OPTIMIZATION",
+        "csp": "vol. 59, p. 1199-1210, ISSN: 0233-1934, doi: 10.1080/02331930903085367",
+        "anno": "2010",
+        "autori": "GAUDIOSO, MANLIO, GORGONE, ENRICO, Pallaschke, D."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GAUDIOSO, MANLIO, GORGONE, ENRICO, Pallaschke, D. (2010).",
+        "Separation of convex sets by Clarke subdifferential. OPTIMIZATION, vol.",
+        "59, p. 1199-1210, ISSN: 0233-1934, doi: 10.1080/02331930903085367"
+      ],
+      "anno": "2010"
+    }
+  ],
+  "general": {
+    "settore": "13/D4",
+    "progr": "72747",
+    "nome": "GORGONE Enrico",
+    "fascia": "Seconda"
+  },
+  "titoli": {
+    "Direzione o partecipazione a comitati editoriali di riviste, collane editoriali, enciclopedie e": [
+      {
+        "content": "Attivit\u00e0 di review per diverse riviste, tra cui: Computers & Operations Research, European Journal of Operational Research, IIMB Management Review, INFOR: Information Systems and Operational Research, Optimization Methods and Software, Optimization, SIAM Journal on Optimization",
+        "periodo": "dal 25-03-2012 a oggi"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "partecipazione come relatore a convegni di carattere scientifico, se ne riportano in allegato i titoli di alcuni di particolare interesse",
+        "periodo": "dal 15-09-2006 a oggi"
+      },
+      {
+        "content": "incarico di organizzazione del convegno scientifico \"41st Annual Conference of Italian Operational Research Society - Operations Research for Complex Decision Making\" Villa San Giovanni (RC) 7-10 Settembre 2010",
+        "periodo": "dal 01-01-2009 al 10-09-2010"
+      },
+      {
+        "content": "incarico di organizzazione del convegno scientifico \"Odysseus 2018, Seventh International Workshop on Freight Transportation and Logistics\" - Cagliari, 3-8 Giugno 2018",
+        "periodo": "dal 02-06-2015 a oggi"
+      }
+    ],
+    "Responsabilita' di studi e ricerche scientifiche affidati da qualificate istituzioni pubbliche o": [
+      {
+        "content": "Incarico di ricerca in \"decision sciences and information systems\" presso l'Indian Institute of Management Bangalore (IIMB), Bangalore, India; si allega lettera di invito",
+        "periodo": "dal 15-12-2016 a oggi"
+      }
+    ],
+    "Conseguimento di premi e riconoscimenti per l'attivit\u00e0 scientifica, inclusa l\u2019affiliazione ad": [
+      {
+        "content": "qualificazione di Ricercatore nel settore 26, Matematica applicata e applicazioni di matematica, dell'Universit\u00e0 francese, si allega il certificato",
+        "periodo": "dal 04-02-2015 a oggi"
+      }
+    ],
+    "Partecipazione al collegio dei docenti ovvero attribuzione di incarichi di insegnamento,": [
+      {
+        "content": "Attribuzione individuale dell'incarico di insegnamento di \"Advanced OR Methods II \u2013 Integer Programming and Dynamic Programming\" nell'ambito del \"PhD Program in Mathematics and Computer Science\" della Universit\u00e0 degli Studi di Cagliari",
+        "periodo": "dal 04-05-2017 a oggi"
+      }
+    ],
+    "Formale attribuzione di incarichi di insegnamento o di ricerca (fellowship) presso": [
+      {
+        "content": "Tirocinio di Ricerca svolto parzialmente presso l'Universit\u00e0 di Karlsruhe, Germania, sotto la supervisione del Prof. Diethard Pallaschke",
+        "periodo": "dal 01-07-2008 al 17-09-2008"
+      },
+      {
+        "content": "Postdoctoral Research Fellowship in Operations Research presso l'Universit\u00e9 de Montreal, Canada, sotto la supervisione del Prof. Bernard Gendron",
+        "periodo": "dal 15-04-2012 al 15-10-2012"
+      },
+      {
+        "content": "Postdoctoral Research Fellowship in Operations Research presso l'Universit\u00e9 de Montreal, Canada, sotto la supervisione del Prof. Bernard Gendron",
+        "periodo": "dal 15-04-2013 al 15-10-2013"
+      },
+      {
+        "content": "Postdoctoral Research Fellowship in Operations Research presso l'Universit\u00e9 Libre de Bruxelles, Belgio, sotto la supervisione dei Proff. Martine Labb\u00e9 e Bernard Fortz",
+        "periodo": "dal 01-11-2013 al 22-12-2015"
+      },
+      {
+        "content": "Attribuzione dell'incarico di tutor del corso Continuous Optimization, nell'ambito della Laurea Magistrale in Scienze Matematiche dell'Universit\u00e9 Libre de Bruxelles",
+        "periodo": "dal 01-01-2015 al 31-07-2015"
+      },
+      {
+        "content": "Attribuzione individuale dell'incarico di insegnamento di Advanced OR Methods II nell'ambito del Fellow Programme in Management, programma di dottorato dell'Indian Institute of Management Bangalore (IIMB), India",
+        "periodo": "dal 15-12-2016 a oggi"
+      }
+    ],
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "Esercitatore del corso di Metodi Quantitativi per le Decisioni, nell'ambito del corso di Laurea in Elettronica, presso l\u2019Universit\u00e0 della Calabria.",
+        "periodo": "dal 01-09-2004 al 31-07-2005"
+      },
+      {
+        "content": "Esercitatore del corso di Logistica II, nell'ambito del corso di Laurea Magistrale in Ingegneria Gestionale, presso l\u2019Universit\u00e0 della Calabria.",
+        "periodo": "dal 01-09-2005 al 31-07-2006"
+      },
+      {
+        "content": "Esercitatore del corso di Metodi di Ottimizzazione, nell'ambito del corso di Laurea Magistrale in Ingegneria Gestionale, presso l\u2019Universit\u00e0 della Calabria.",
+        "periodo": "dal 01-09-2005 al 31-07-2009"
+      },
+      {
+        "content": "Esercitatore del corso di Ricerca Operativa, nell'ambito del corso di Laurea in Informatica presso l\u2019Universit\u00e0 della Calabria.",
+        "periodo": "dal 01-09-2005 al 31-07-2009"
+      },
+      {
+        "content": "Esercitatore del corso di Ricerca Operativa, nell'ambito del corso di Laurea in Ingegneria Informatica presso l\u2019Universit\u00e0 della Calabria.",
+        "periodo": "dal 01-09-2005 al 31-07-2007"
+      },
+      {
+        "content": "Collaboratore dell'Istituto di Calcolo e Reti ad Alte Prestazioni del Consiglio Nazionale delle Ricerche per ricerche su tematiche di Ottimizzazione Non-Lineare",
+        "periodo": "dal 01-01-2007 al 31-12-2007"
+      },
+      {
+        "content": "Tirocinio di Ricerca, Programma Integrato di Voucher e Borse per l\u2019Alta Formazione POR CALABRIA 2000-2006 - Misura 3.7, della Regione Calabria, sotto la supervisione del Prof. Diethard Pallaschke dell'Ing. Antonio Fuduli",
+        "periodo": "dal 01-03-2008 al 31-12-2008"
+      },
+      {
+        "content": "Assegno di ricerca presso il dipartimento di elettronica, informatica e sistematica dell'Universit\u00e0 della Calabria su \"studio di classi di problemi di ottimo nonlineare nella logistica di stoccaggio e distribuzione\", sotto la supervisione del Prof. Manlio Gaudioso",
+        "periodo": "dal 01-06-2009 al 31-08-2011"
+      },
+      {
+        "content": "Borsa Post-doc all\u2019estero nell\u2019ambito del \u201cProgetto POR FSE 2007/2013\u201d della Regione Calabria su \"Tecniche Avanzate di Ottimizzazione per Problemi Strutturati a Larga Scala nei Trasporti e nella Logistica\", sotto la supervisione dei Proff. Manlio Gaudioso e Bernard Gendron",
+        "periodo": "dal 01-09-2011 al 31-10-2013"
+      },
+      {
+        "content": "Post-doc fellowship presso l'Universit\u00e9 Libre de Bruxelles, sotto la supervisione dei proff. Bernard Fortz e Martine Labb\u00e9",
+        "periodo": "dal 01-11-2013 al 22-12-2015"
+      },
+      {
+        "content": "Docente dell'insegnamento di Analisi Matematica (gi\u00e0 Calcolo Differenziale e Integrale), nell'ambito del corso di Laurea in informatica, presso l\u2019Universit\u00e0 degli studi di Cagliari",
+        "periodo": "dal 01-01-2016 a oggi"
+      },
+      {
+        "content": "Visiting faculty presso l'Indian Institute of Management Bangalore (IIMB), Bangalore, India",
+        "periodo": "dal 15-12-2016 a oggi"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Partecipazione al Progetto COMEX, combinatorial optimization metaheuristics & exact methods, Research Project P7/36 (Research action P7), coordinatore prof. Bernard Fortz dell'Universit\u00e9 Libre de Bruxelles",
+        "periodo": "dal 01-11-2013 al 22-12-2015"
+      },
+      {
+        "content": "Partecipazione al Progetto PON Smart Cities and Communities and Social Innovation \u201cCagliari Port 2020\u201d nell'ambito Logistica Last Mile (bando D.D. 391/Ric del 5 luglio 2012) sui temi della \"City Logistics\" in collaborazione con i professori Teodor Gabriel Cranic e Paola Zuddas.",
+        "periodo": "dal 23-12-2015 a oggi"
+      },
+      {
+        "content": "Partecipazione al Progetto PRIN 2015 \u201cSmart PORt Terminals - SPORTi\u201d (coordinatore nazionale prof. UKOVICH Walter) nell'unit\u00e0 dell'Universit\u00e0 di Cagliari (responsabile locale prof. Paola Zuddas)",
+        "periodo": "dal 15-03-2017 a oggi"
+      }
+    ],
+    "Risultati ottenuti nel trasferimento tecnologico in termini di partecipazione alla creazione": [
+      {
+        "content": "co-autore del software Convex-Quadratic-Knapsack, Solution algorithms for Convex Quadratic Separable Continuous Knapsack Problems, insieme al prof. A. Frangioni, detto software \u00e8 disponibile su GitHub",
+        "periodo": "dal 01-01-2015 a oggi"
+      },
+      {
+        "content": "co-autore del software SubGrad-4-FC-MMCF, Subgradient methods for Multicommodity Network Design, insieme al prof. A. Frangioni, detto software \u00e8 disponibile su GitHub",
+        "periodo": "dal 01-01-2015 a oggi"
+      }
+    ]
+  }
+}

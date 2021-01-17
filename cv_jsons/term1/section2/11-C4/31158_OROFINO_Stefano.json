@@ -1,0 +1,237 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Traduzione di libro",
+      "parsed": null,
+      "rawcontent": [
+        "Traduzione di libro",
+        "OROFINO S (2015). EDUCAZIONE, SOCIETA', CULTURA. ISBN:",
+        "9788854878068"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "IL PROBLEMA DELL'EDUCAZIONE IN THEODOR W. ADORNO",
+        "ISSN": [
+          "0032-9347"
+        ],
+        "journal": "I PROBLEMI DELLA PEDAGOGIA",
+        "csp": "vol. 2/2014, p. 295-321, ISSN: 0032-9347",
+        "anno": "2014",
+        "autori": "OROFINO S"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "OROFINO S (2014). IL PROBLEMA DELL'EDUCAZIONE IN THEODOR W.",
+        "ADORNO. I PROBLEMI DELLA PEDAGOGIA, vol. 2/2014, p. 295-321,",
+        "ISSN: 0032-9347"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "3",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "1",
+        "titolo": "Karl Marx: n\u00e9 antiamericano, n\u00e9 moralizzatore. vol",
+        "ISBN": [
+          "9788854874428"
+        ],
+        "csp": "ROMA:Aracneeditrice, ISBN: 9788854874428",
+        "anno": "2014",
+        "autori": "Orofino S"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Orofino S (2014). Karl Marx: n\u00e9 antiamericano, n\u00e9 moralizzatore. vol. 1,",
+        "ROMA:Aracneeditrice, ISBN: 9788854874428"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "4",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "Roma:ARACNE editrice S.r.l.",
+        "titolo": "Estetica e educazione in Theodor W. Adorno",
+        "ISBN": [
+          "978-88-548-4210-6"
+        ],
+        "csp": "ISBN: 978-88-548-4210-6",
+        "anno": "2011",
+        "autori": "OROFINO S"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "OROFINO S (2011). Estetica e educazione in Theodor W. Adorno.",
+        "Roma:ARACNE editrice S.r.l., ISBN: 978-88-548-4210-6"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "5",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "Roma:ARACNE editrice S.r.l.",
+        "titolo": "Contro Heidegger e i juke-box. Marxismo, arte e societ\u00e0 in Theodor W. Adorno",
+        "ISBN": [
+          "88-548-0735-4"
+        ],
+        "csp": "ISBN: 88-548-0735-4",
+        "anno": "2006",
+        "autori": "OROFINO S"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "OROFINO S (2006). Contro Heidegger e i juke-box. Marxismo, arte e societ\u00e0",
+        "in Theodor W. Adorno. Roma:ARACNE editrice S.r.l., ISBN: 88-548-0735-4"
+      ],
+      "anno": "2006"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Traduzione di libro",
+      "parsed": null,
+      "rawcontent": [
+        "Traduzione di libro",
+        "OROFINO S (2015). EDUCAZIONE, SOCIETA', CULTURA. ISBN:",
+        "9788854878068"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "IL PROBLEMA DELL'EDUCAZIONE IN THEODOR W. ADORNO",
+        "ISSN": [
+          "0032-9347"
+        ],
+        "journal": "I PROBLEMI DELLA PEDAGOGIA",
+        "csp": "vol. 2/2014, p. 295-321, ISSN: 0032-9347",
+        "anno": "2014",
+        "autori": "OROFINO S"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "OROFINO S (2014). IL PROBLEMA DELL'EDUCAZIONE IN THEODOR W.",
+        "ADORNO. I PROBLEMI DELLA PEDAGOGIA, vol. 2/2014, p. 295-321,",
+        "ISSN: 0032-9347"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "3",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "1",
+        "titolo": "Karl Marx: n\u00e9 antiamericano, n\u00e9 moralizzatore. vol",
+        "ISBN": [
+          "9788854874428"
+        ],
+        "csp": "ROMA:Aracneeditrice, ISBN: 9788854874428",
+        "anno": "2014",
+        "autori": "Orofino S"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Orofino S (2014). Karl Marx: n\u00e9 antiamericano, n\u00e9 moralizzatore. vol. 1,",
+        "ROMA:Aracneeditrice, ISBN: 9788854874428"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "4",
+      "type": "Recensione in rivista",
+      "parsed": {
+        "titolo": "L'APPARIRE DEL MONDO E IL RUOLO DEL SENSIBILE",
+        "ISSN": [
+          "1828-5368"
+        ],
+        "journal": "SEGNI E COMPRENSIONE",
+        "csp": "vol. 78/Anno XXVI, p. 102-109, ISSN: 1828-5368",
+        "anno": "2012",
+        "autori": "OROFINO S"
+      },
+      "rawcontent": [
+        "Recensione in rivista",
+        "OROFINO S (2012). L'APPARIRE DEL MONDO E IL RUOLO DEL",
+        "SENSIBILE. SEGNI E COMPRENSIONE, vol. 78/Anno XXVI, p. 102-109,",
+        "ISSN: 1828-5368"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "5",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "Roma:ARACNE editrice S.r.l.",
+        "titolo": "Estetica e educazione in Theodor W. Adorno",
+        "ISBN": [
+          "978-88-548-4210-6"
+        ],
+        "csp": "ISBN: 978-88-548-4210-6",
+        "anno": "2011",
+        "autori": "OROFINO S"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "OROFINO S (2011). Estetica e educazione in Theodor W. Adorno.",
+        "Roma:ARACNE editrice S.r.l., ISBN: 978-88-548-4210-6"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "6",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "Roma:ARACNE editrice S.r.l.",
+        "titolo": "Contro Heidegger e i juke-box. Marxismo, arte e societ\u00e0 in Theodor W. Adorno",
+        "ISBN": [
+          "88-548-0735-4"
+        ],
+        "csp": "ISBN: 88-548-0735-4",
+        "anno": "2006",
+        "autori": "OROFINO S"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "OROFINO S (2006). Contro Heidegger e i juke-box. Marxismo, arte e societ\u00e0",
+        "in Theodor W. Adorno. Roma:ARACNE editrice S.r.l., ISBN: 88-548-0735-4"
+      ],
+      "anno": "2006"
+    }
+  ],
+  "general": {
+    "settore": "11/C4",
+    "progr": "31158",
+    "nome": "OROFINO Stefano",
+    "fascia": "Seconda"
+  },
+  "titoli": {
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "Esercitazioni seminariali tenute per il Corso di Estetica del Dipartimento di Filosofia Unical, basate sull'attivita di ricerca da me svolta sull'estetica di Adorno, culminate nella pubblicazione del testo Orofino S., Estetica e educazione in Theodor W. Adorno, Aracne, Roma 2011 (indicato fra le mie pubblicazioni), inserito come testo consigliato per il corso di Estetica Unical, Anno Accademico 2011/2012. Le esercitazioni seminariali si sono svolte, pi\u00f9 precisamente, nell'Anno Accademico 2011/2012, sul tema \"Theodor Adorno e la fine della bellezza\" (6, 7, 13 e 14 dicembre 2011), e nell'Anno Accademico 2012/2013 sull'estetica di Adorno analizzata in senso pi\u00f9 generale (27, 28 novembre e 4 dicembre 2012)",
+        "periodo": "dal 06-12-2011 al 04-12-2012"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Relatore al Convegno \"Arte, Natura, Storicit\u00e0\", 6-7 maggio 1999, Universit\u00e0 della Calabria. Relazione intitolata: \"Per un'antropologia negativa. Bello naturale e bello artistico in Th. W. Adorno\", pubblicata nel testo, a cura di Romeo bufalo e Pio Colonnello, Arte, Natura, Storicit\u00e0, Luciano Editore, Napoli, 2000, ISBN 8886767927, pp. 153-169",
+        "periodo": "dal 06-05-1999 al 07-05-1999"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Partecipazione, per un triennio, dal 2007 al 2009 al gruppo di ricerca afferente alla cattedra di Estetica dell'Universit\u00e0 della Calabria, coordinato, quale responsabile dal Prof. Romeo Slavatore Bufalo, titolare della suddetta cattedra. Titoli dei progetti di ricerca: 1) Sentire, immaginare, pensare. Figure della soggettivit\u00e0 tra et\u00e0 moderna e contemporanea (2007); 2) Apparenza e verit\u00e0 tra estetica e filosofia (2008); 3) Estetica e forme della soggettivit\u00e0 (2009)",
+        "periodo": "dal 01-03-2007 al 31-12-2009"
+      }
+    ]
+  }
+}

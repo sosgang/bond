@@ -1,0 +1,435 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "LECTURE NOTES IN MATHEMATICS",
+        "doi": [
+          "10.1007/978-3-319-60771-9"
+        ],
+        "titolo": "Recent results in Hamilton-Jacobi-Bellman theory",
+        "ISSN": [
+          "0075-8434"
+        ],
+        "csp": "ISSN: 0075-8434, doi: 10.1007/978-3-319-60771-9",
+        "opera": "Optimal Con- trol Design: Novel Directions and Applications",
+        "anno": "2017",
+        "autori": "Adriano Festa, Roberto Guglielmi, Cristopher Hermosilla, PICARELLI A, Smita Sahu, Achille Sassi, Francisco Silva"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Adriano Festa, Roberto Guglielmi, Cristopher Hermosilla, PICARELLI A,",
+        "Smita Sahu, Achille Sassi, Francisco Silva (2017). Recent results in",
+        "Hamilton-Jacobi-Bellman theory. In: Optimal Con- trol Design: Novel",
+        "Directions and Applications. LECTURE NOTES IN MATHEMATICS, ISSN:",
+        "0075-8434, doi: 10.1007/978-3-319-60771-9"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "State-constrained stochastic optimal control problems via reachability approach",
+        "ISSN": [
+          "0363-0129"
+        ],
+        "journal": "SIAM JOURNAL ON CONTROL AND OPTIMIZATION",
+        "csp": "vol. 54, p. 2568-2593, ISSN: 0363-0129",
+        "anno": "2016",
+        "autori": "Olivier Bokanowski, PICARELLI A, Hasnaa Zidani"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Olivier Bokanowski, PICARELLI A, Hasnaa Zidani (2016). State-constrained",
+        "stochastic optimal control problems via reachability approach. SIAM",
+        "JOURNAL ON CONTROL AND OPTIMIZATION, vol. 54, p. 2568-2593,",
+        "ISSN: 0363-0129"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s00245-014-9255-3"
+        ],
+        "titolo": "Dynamic Programming and error estimates for stochastic control problems with maximum cost",
+        "ISSN": [
+          "0095-4616"
+        ],
+        "journal": "APPLIED MATHEMATICS AND OPTIMIZATION",
+        "csp": "vol. 71, p. 125-163, ISSN: 0095-4616, doi: 10.1007/s00245-014-9255-3",
+        "anno": "2015",
+        "autori": "Olivier Bokanowski, PICARELLI A, Hasnaa Zidani"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Olivier Bokanowski, PICARELLI A, Hasnaa Zidani (2015). Dynamic",
+        "Programming and error estimates for stochastic control problems with",
+        "maximum cost. APPLIED MATHEMATICS AND OPTIMIZATION, vol. 71, p.",
+        "125-163, ISSN: 0095-4616, doi: 10.1007/s00245-014-9255-3"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "DOI 10.1007/s00030-015-0343-0"
+        ],
+        "titolo": "Zubov's method for controlled diffusions with state constraints",
+        "ISSN": [
+          "1021-9722"
+        ],
+        "journal": "NODEA-NONLINEAR DIFFERENTIAL EQUATIONS AND APPLICATIONS",
+        "csp": "vol. 22, p. 1765-1799, ISSN: 1021-9722, doi: DOI 10.1007/s00030-015-0343-0",
+        "anno": "2015",
+        "autori": "Lars Grune, PICARELLI A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Lars Grune, PICARELLI A (2015). Zubov's method for controlled diffusions",
+        "with state constraints. NODEA-NONLINEAR DIFFERENTIAL EQUATIONS",
+        "AND APPLICATIONS, vol. 22, p. 1765-1799, ISSN: 1021-9722, doi: DOI",
+        "10.1007/s00030-015-0343-0"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "A patchy dynamic programming scheme for a class of Hamilton-Jacobi-Bellman equations",
+        "ISSN": [
+          "1064-8275"
+        ],
+        "journal": "SIAM JOURNAL ON SCIENTIFIC COMPUTING",
+        "csp": "vol. 34, p. A2625-A2649, ISSN: 1064-8275",
+        "anno": "2012",
+        "autori": "Simone Cacace, Emiliano Cristiani, Maurizio Falcone, PICARELLI A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Simone Cacace, Emiliano Cristiani, Maurizio Falcone, PICARELLI A (2012).",
+        "A patchy dynamic programming scheme for a class of",
+        "Hamilton-Jacobi-Bellman equations. SIAM JOURNAL ON SCIENTIFIC",
+        "COMPUTING, vol. 34, p. A2625-A2649, ISSN: 1064-8275"
+      ],
+      "anno": "2012"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1051/m2an/2017039"
+        ],
+        "titolo": "High-order filtered schemes for time-dependent second order HJB equations.",
+        "ISSN": [
+          "1290-3841"
+        ],
+        "journal": "MOD\u00c9LISATION MATH\u00c9MATIQUE ET ANALYSE NUM\u00c9RIQUE",
+        "csp": "ISSN: 1290-3841, doi: 10.1051/m2an/2017039",
+        "anno": "2018",
+        "autori": "Olivier Bokanowski, PICARELLI A, Christoph Reisinger"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Olivier Bokanowski, PICARELLI A, Christoph Reisinger (2018). High-order",
+        "filtered schemes for time-dependent second order HJB equations..",
+        "MOD\u00c9LISATION MATH\u00c9MATIQUE ET ANALYSE NUM\u00c9RIQUE, ISSN:",
+        "1290-3841, doi: 10.1051/m2an/2017039"
+      ],
+      "anno": "2018"
+    },
+    {
+      "id": "2",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "LECTURE NOTES IN MATHEMATICS",
+        "doi": [
+          "10.1007/978-3-319-60771-9"
+        ],
+        "titolo": "Recent results in Hamilton-Jacobi-Bellman theory",
+        "ISSN": [
+          "0075-8434"
+        ],
+        "csp": "ISSN: 0075-8434, doi: 10.1007/978-3-319-60771-9",
+        "opera": "Optimal Con- trol Design: Novel Directions and Applications",
+        "anno": "2017",
+        "autori": "Adriano Festa, Roberto Guglielmi, Cristopher Hermosilla, PICARELLI A, Smita Sahu, Achille Sassi, Francisco Silva"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Adriano Festa, Roberto Guglielmi, Cristopher Hermosilla, PICARELLI A,",
+        "Smita Sahu, Achille Sassi, Francisco Silva (2017). Recent results in",
+        "Hamilton-Jacobi-Bellman theory. In: Optimal Con- trol Design: Novel",
+        "Directions and Applications. LECTURE NOTES IN MATHEMATICS, ISSN:",
+        "0075-8434, doi: 10.1007/978-3-319-60771-9"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "State-constrained stochastic optimal control problems via reachability approach",
+        "ISSN": [
+          "0363-0129"
+        ],
+        "journal": "SIAM JOURNAL ON CONTROL AND OPTIMIZATION",
+        "csp": "vol. 54, p. 2568-2593, ISSN: 0363-0129",
+        "anno": "2016",
+        "autori": "Olivier Bokanowski, PICARELLI A, Hasnaa Zidani"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Olivier Bokanowski, PICARELLI A, Hasnaa Zidani (2016). State-constrained",
+        "stochastic optimal control problems via reachability approach. SIAM",
+        "JOURNAL ON CONTROL AND OPTIMIZATION, vol. 54, p. 2568-2593,",
+        "ISSN: 0363-0129"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s00245-014-9255-3"
+        ],
+        "titolo": "Dynamic Programming and error estimates for stochastic control problems with maximum cost",
+        "ISSN": [
+          "0095-4616"
+        ],
+        "journal": "APPLIED MATHEMATICS AND OPTIMIZATION",
+        "csp": "vol. 71, p. 125-163, ISSN: 0095-4616, doi: 10.1007/s00245-014-9255-3",
+        "anno": "2015",
+        "autori": "Olivier Bokanowski, PICARELLI A, Hasnaa Zidani"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Olivier Bokanowski, PICARELLI A, Hasnaa Zidani (2015). Dynamic",
+        "Programming and error estimates for stochastic control problems with",
+        "maximum cost. APPLIED MATHEMATICS AND OPTIMIZATION, vol. 71, p.",
+        "125-163, ISSN: 0095-4616, doi: 10.1007/s00245-014-9255-3"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "DOI 10.1007/s00030-015-0343-0"
+        ],
+        "titolo": "Zubov's method for controlled diffusions with state constraints",
+        "ISSN": [
+          "1021-9722"
+        ],
+        "journal": "NODEA-NONLINEAR DIFFERENTIAL EQUATIONS AND APPLICATIONS",
+        "csp": "vol. 22, p. 1765-1799, ISSN: 1021-9722, doi: DOI 10.1007/s00030-015-0343-0",
+        "anno": "2015",
+        "autori": "Lars Grune, PICARELLI A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Lars Grune, PICARELLI A (2015). Zubov's method for controlled diffusions",
+        "with state constraints. NODEA-NONLINEAR DIFFERENTIAL EQUATIONS",
+        "AND APPLICATIONS, vol. 22, p. 1765-1799, ISSN: 1021-9722, doi: DOI",
+        "10.1007/s00030-015-0343-0"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "A patchy dynamic programming scheme for a class of Hamilton-Jacobi-Bellman equations",
+        "ISSN": [
+          "1064-8275"
+        ],
+        "journal": "SIAM JOURNAL ON SCIENTIFIC COMPUTING",
+        "csp": "vol. 34, p. A2625-A2649, ISSN: 1064-8275",
+        "anno": "2012",
+        "autori": "Simone Cacace, Emiliano Cristiani, Maurizio Falcone, PICARELLI A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Simone Cacace, Emiliano Cristiani, Maurizio Falcone, PICARELLI A (2012).",
+        "A patchy dynamic programming scheme for a class of",
+        "Hamilton-Jacobi-Bellman equations. SIAM JOURNAL ON SCIENTIFIC",
+        "COMPUTING, vol. 34, p. A2625-A2649, ISSN: 1064-8275"
+      ],
+      "anno": "2012"
+    }
+  ],
+  "general": {
+    "settore": "13/D4",
+    "progr": "85403",
+    "nome": "PICARELLI Athena",
+    "fascia": "Seconda"
+  },
+  "titoli": {
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "Dottorato di Ricerca in Matematica per le Applicazioni. Tesi in Controllo Stocastico: \"Sur de probl\u00e8mes de controle stochastique avec contraintes sur l'\u00e9tat\" (problemi di controllo stocastico con vincoli di stato). ENSTA ParisTech. Progetto Europeo ITN-SADCO (Sensitivity Analysis for Deterministic Control Design) Marie Curie Action.",
+        "periodo": "dal 01-11-2011 al 04-04-2015"
+      },
+      {
+        "content": "Seminari su invito in universit\u00e0 nazionali e internazionali: - Seminario di Analisi Numerica, University of Oxford, UK. - Seminario del gruppo Finanza Matematica, Politecnico di Milano, Italy. - Seminario \u201cRisk & Stochastics and Financial Mathematics\u201d, London School of Economics (LSE), UK. - Seminario del gruppo Mod\u00e8les Stochastiques en Finance, CMAP Ecole Polytechnique, Palaiseau, France. - Seminari di Analisi Numerica, Durham University, UK. - Seminario Mathematical and Computational Finance, University of Oxford, UK. - Seminario \u201cEquazioni differenziali e loro applicazioni\u201d, Universit\u00e0 di Padova, Italy. - Seminario di Analisi Numerica, Universit\u00e0 di Roma \"La Sapienza\", Italy. - Seminario del gruppo di Probabilita, Universit\u00e9 de Evry, France. - Seminario di \"Probabilit\u00e9, Statistiques et Contr\u00f4le\", ENSTA ParisTech, France.",
+        "periodo": "dal 01-11-2012 a oggi"
+      },
+      {
+        "content": "Referee per le seguenti riviste internazionali: SIAM Journal on control and Optimization (SICON), SIAM Journal of Scientific Computing (SISC), Radon series on Computational and Applied Mathematics, Journal of Optimization Theory and Applications (JOTA), Journal of Applied Mathematics and Optimization (AMO), Bulletin of the Mexican Mathematical Society, IMA Journal on Numerical Analisys, Communications in Pure and Applied Analysis.",
+        "periodo": "dal 01-01-2014 a oggi"
+      },
+      {
+        "content": "Nomura Post-doc Research Fellowship presso l'Universit\u00e0 di Oxford. Gruppo di Finanza Matematica e Computazionale (MCFG).",
+        "periodo": "dal 15-01-2015 al 14-01-2017"
+      },
+      {
+        "content": "Post-doc presso il dipartimento di Matematica dell'Universit\u00e0 di Oxford. Gruppo in Finanza Matematica e Computazionale (MCFG).",
+        "periodo": "dal 15-01-2017 al 30-09-2017"
+      },
+      {
+        "content": "CFM (Capital Fund Management) Post-doc Research Fellowship presso Imperial College London. Gruppo di Finanza Matematica.",
+        "periodo": "dal 01-10-2017 al 30-03-2018"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Membro della commissione ORGANIZZATRICE dei \"SADCO doctoral days\" all'ENSTA ParisTech, https://uma.ensta-paristech.fr/itn-sadco/?module=palaiseau_2013&action=index",
+        "periodo": "dal 10-06-2013 al 13-06-2013"
+      },
+      {
+        "content": "Workshop New Perspectives in Optimal Control and Games. CONTRIBUTED TALK: \"Zubov method for controlled diffusions under state-constraints\". http://itn-sadco.inria.fr/itn-sadco.in ria.fr/events-meetings/network-wide-acti vities/irm2014.html",
+        "periodo": "dal 10-09-2014 al 12-09-2014"
+      },
+      {
+        "content": "13th Viennese Workshop on Optimal Control and Dynamic Games, Vienne, Austria. INVITED TALK IN THEMATIC SESSION: \"State-constrained stochastic optimal control problems via reachability approach\". https://orcos.tuwien.ac.at/events/vw2015/",
+        "periodo": "dal 13-05-2015 al 16-05-2015"
+      },
+      {
+        "content": "SIAM conference on Control and its applications, Paris, France. CONTRIBUTED TALK: \"Zubov method for controlled diffusions under state-constraints\". http://www.siam.org/meetings/ct15/",
+        "periodo": "dal 08-07-2015 al 10-07-2015"
+      },
+      {
+        "content": "9th Oxford-Princeton Workshop on Financial Mathematics & Stochastic Analysis. INVITED TALK: \"Duality-based error estimates for some approximation schemes for optimal investment problems\". http://orfe.princeton.edu/op9/",
+        "periodo": "dal 20-11-2015 al 21-11-2015"
+      },
+      {
+        "content": "5th Chilean Workshop on Numerical Analysis of PDEs, Conception, Chile. INVITED TALK IN THEMATIC SESSION: \"Duality-based error estimates for some approximation schemes for optimal investment problems\". https://www.ci2ma.udec.cl/wonapde2016/minisymposia/index.php#mini23",
+        "periodo": "dal 11-01-2016 al 15-01-2016"
+      },
+      {
+        "content": "Workshop Analysis and Applications of Stochastic Systems, Rio de Janeiro, Brasil. INVITED TALK: \"Duality-based error estimates for some approximation schemes for optimal investment problems\" https://svan2016.sciencesconf.org/resource/page/id/10",
+        "periodo": "dal 28-03-2016 al 01-04-2016"
+      },
+      {
+        "content": "Congress of the Italian Society of Industrial and Applied Mathematics (SIMAI), Milano, Italy. INVITED TALK IN THEMATIC SESSION: \"A class of filtered scheme for second order Hamilton-Jacobi-Bellman equations\". https://www.eko.polimi.it/index.php/SIMAI2016/SIMAI2016",
+        "periodo": "dal 13-09-2016 al 16-09-2016"
+      },
+      {
+        "content": "Workshop, Numerical Methods for Hamilton-Jacobi equations in Optimal Control and related fields, Linz, Austria. INVITED TALK: \"High\u2013order filtered schemes for time\u2013dependent second order HJB equations\". https://www.ricam.oeaw.ac.at/specsem/specsem2016/workshop3/",
+        "periodo": "dal 21-11-2016 al 25-11-2016"
+      },
+      {
+        "content": "Workshop Numerical methods for optimal control problems, Rome, Italy. CONTRIBUTED TALK: \"Some stability properties for a BDF2-type scheme for parabolic equations\". http://www1.mat.uniroma1.it/ricerca/convegni/2017/numoc2017/info.html",
+        "periodo": "dal 19-06-2017 al 23-06-2017"
+      },
+      {
+        "content": "International Conference on Computational Finance, Lisbon, Portugal. INVITED TALK IN THEMATIC SESSION: \"Some high order schemes for parabolic Hamilton-Jacobi-Bellman equations\". http://cemapre.iseg.ulisboa.pt/iccf2017/",
+        "periodo": "dal 04-09-2017 al 08-09-2017"
+      },
+      {
+        "content": "Verona-Paris Conference on Stochastic Modeling (VPSMS), Universit\u00e0 di Verona, Italy. CONTRIBUTED TALK: \"State constrained stochastic optimal control problems via reachability approach\". http://vpsms2018.org/event/opening-conference/",
+        "periodo": "dal 18-12-2017 al 21-12-2017"
+      },
+      {
+        "content": "Workshop on Stochastic analysis applied to economics, finance, and insurance. INVITED TALK: \"State constrained optimal control problems via reachability approach\". http://eventos.cmm.uchile.cl/stochasticfinance2018/program/",
+        "periodo": "dal 19-03-2018 al 23-03-2018"
+      },
+      {
+        "content": "14th Viennese Conference on Optimal Control and Dynamic Games. ORGANIZZAZIONE SPECIAL SESSION: \"Modeling and Computational Methods for Financial Applications\". https://orcos.tuwien.ac.at/events/vc2018/special_sessions_vc18/",
+        "periodo": "dal 03-07-2018 al 06-07-2018"
+      }
+    ],
+    "Responsabilita' di studi e ricerche scientifiche affidati da qualificate istituzioni pubbliche o": [
+      {
+        "content": "Nomura Post-doc Research Fellowship presso l'Universit\u00e0 di Oxford. Gruppo di Finanza Matematica e Computazionale (MCFG).",
+        "periodo": "dal 15-01-2015 al 14-01-2017"
+      },
+      {
+        "content": "Post-doc presso il dipartimento di Matematica dell'Universit\u00e0 di Oxford. Gruppo in Finanza Matematica e Computazionale (MCFG).",
+        "periodo": "dal 15-01-2017 al 30-09-2017"
+      },
+      {
+        "content": "CFM (Capital Fund Management) Post-doc Research Fellowship presso Imperial College London. Gruppo di Finanza Matematica.",
+        "periodo": "dal 01-10-2017 al 30-03-2018"
+      }
+    ],
+    "Partecipazione al collegio dei docenti ovvero attribuzione di incarichi di insegnamento,": [
+      {
+        "content": "Docente del Mini corso (2h) per studenti di PhD e Postdocs \"Introduction to stochastic optimal control\" tenutosi durante lo Young Researchers Workshop on System Dynamics and Optimal Control SADCO-WIAS (2014), Berlino, Germany https://uma.ensta-paristech.fr/itn-sadco/?module=berlin_2014&action=index",
+        "periodo": "dal 29-01-2014 al 31-01-2014"
+      },
+      {
+        "content": "Co-supervisione (con il Prof. Christoph Reisinger) della tesi di dottorato di Julen Rotaetxe Arto (Universit\u00e0 di Oxford).",
+        "periodo": "dal 01-01-2016 al 20-04-2017"
+      }
+    ],
+    "Formale attribuzione di incarichi di insegnamento o di ricerca (fellowship) presso": [
+      {
+        "content": "Esercitatrice per il corso \"M\u00e9thodes num\u00e9riques pour les EDP en Finance\" (12 h) per studenti di Master. ENSTA ParisTech (Palaiseau, France).",
+        "periodo": "dal 01-10-2012 al 31-12-2012"
+      },
+      {
+        "content": "Periodo di visita (3 mesi) presso l'Universit\u00e0 di Bayreuth (Germania) per collaborazione col professor Lars Grune all'interno del progetto ITN-SADCO.",
+        "periodo": "dal 01-04-2014 al 30-06-2014"
+      },
+      {
+        "content": "Esercitatrice per il corso \"Introduction to optimal control\" per il master in Finanza Matematica e Computazionale (8 ore). Universit\u00e0 di Oxford.",
+        "periodo": "dal 15-01-2015 al 15-03-2015"
+      },
+      {
+        "content": "Nomura Post-doc Research Fellowship presso l'Universit\u00e0 di Oxford. Gruppo di Finanza Matematica e Computazionale (MCFG).",
+        "periodo": "dal 15-01-2015 al 14-01-2017"
+      },
+      {
+        "content": "Tutor (esercitazioni per gruppi di 2 o 3 studenti) in Applied Mathematics presso il St Catherine's College (Universit\u00e0 di Oxoford) nelle materie: probabilit\u00e0, calcolo, calcolo delle variazioni, equazioni differenziali ordinarie. Corsi per studenti del I e II anno di laurea in Matematica. Totale 72 ore.",
+        "periodo": "dal 01-10-2015 al 30-06-2016"
+      },
+      {
+        "content": "Titolare del corso \"Finite Difference methods in Finance\" (11h) per gli studenti del Master in Finanza Matematica e Computazionale. Universit\u00e0 di Oxford.",
+        "periodo": "dal 01-10-2016 al 31-12-2016"
+      },
+      {
+        "content": "Post-doc presso il dipartimento di Matematica dell'Universit\u00e0 di Oxford. Gruppo in Finanza Matematica e Computazionale (MCFG).",
+        "periodo": "dal 15-01-2017 al 30-09-2017"
+      },
+      {
+        "content": "CFM (Capital Fund Management) Post-doc Research Fellowship presso Imperial College London. Gruppo di Finanza Matematica.",
+        "periodo": "dal 01-10-2017 al 30-03-2018"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Membro del progetto di ricerca ITN SADCO 7th Framework Programme \u00abFP7-PEOPLE-2010-ITN\u00bb Grant agreement number 264735-SADCO http://itn-sadco.inria.fr/itn-sadco.inria.fr/fellows.html",
+        "periodo": "dal 01-11-2011 al 31-10-2014"
+      }
+    ],
+    "Responsabilita' scientifica per progetti di ricerca internazionali e nazionali, ammessi al": [
+      {
+        "content": "Titolare del finanziamento per Giovani Ricercatori del gruppo INDAM GNCS (Gruppo Nazionale per il Calcolo Scientifico) su presentazione di progetto di ricerca.",
+        "periodo": "dal 01-01-2016 al 31-12-2016"
+      }
+    ]
+  }
+}

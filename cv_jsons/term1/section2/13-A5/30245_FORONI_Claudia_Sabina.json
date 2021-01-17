@@ -1,0 +1,415 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1002/jae.2545"
+        ],
+        "titolo": "Density forecasts with MIDAS models",
+        "ISSN": [
+          "1099-1255"
+        ],
+        "journal": "JOURNAL OF APPLIED ECONOMETRICS",
+        "csp": "ISSN: 1099-1255, doi: 10.1002/jae.2545",
+        "anno": "2016",
+        "autori": "Aastveit KA, Foroni C, Ravazzolo F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Aastveit KA, Foroni C, Ravazzolo F (2016). Density forecasts with MIDAS",
+        "models. JOURNAL OF APPLIED ECONOMETRICS, ISSN: 1099-1255, doi:",
+        "10.1002/jae.2545"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Mixed frequency Structural VARs. JOURNAL OF THE ROYAL STATISTICAL SOCIETY",
+        "ISSN": [
+          "1467-985X"
+        ],
+        "journal": "SERIES A",
+        "csp": "STATISTICS IN SOCIETY, ISSN: 1467-985X",
+        "anno": "2016",
+        "autori": "Foroni C, Marcellino M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Foroni C, Marcellino M (2016). Mixed frequency Structural VARs. JOURNAL",
+        "OF THE ROYAL STATISTICAL SOCIETY. SERIES A, STATISTICS IN",
+        "SOCIETY, ISSN: 1467-985X"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Markov-switching Mixed Frequency Vector Autoregression Models",
+        "ISSN": [
+          "0169-2070"
+        ],
+        "journal": "INTERNATIONAL JOURNAL OF FORECASTING",
+        "csp": "ISSN: 0169-2070",
+        "anno": "2015",
+        "autori": "Foroni C, Guerin P, Marcellino M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Foroni C, Guerin P, Marcellino M (2015). Markov-switching Mixed Frequency",
+        "Vector Autoregression Models. INTERNATIONAL JOURNAL OF",
+        "FORECASTING, ISSN: 0169-2070"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "U-MIDAS: MIDAS regressions with unrestricted lag polynomials. JOURNAL OF THE ROYAL STATISTICAL SOCIETY",
+        "ISSN": [
+          "1467-985X"
+        ],
+        "journal": "SERIES A",
+        "csp": "STATISTICS IN SOCIETY, ISSN: 1467-985X",
+        "anno": "2015",
+        "autori": "Foroni C, Marcellino M, Schumacher C"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Foroni C, Marcellino M, Schumacher C (2015). U-MIDAS: MIDAS",
+        "regressions with unrestricted lag polynomials. JOURNAL OF THE ROYAL",
+        "STATISTICAL SOCIETY. SERIES A, STATISTICS IN SOCIETY, ISSN:",
+        "1467-985X"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "A Comparison of Mixed Frequency Approaches for Nowcasting Euro Area Macroeconomic aggregates",
+        "ISSN": [
+          "0169-2070"
+        ],
+        "journal": "INTERNATIONAL JOURNAL OF FORECASTING",
+        "csp": "ISSN: 0169-2070",
+        "anno": "2014",
+        "autori": "Foroni C, Marcellino M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Foroni C, Marcellino M (2014). A Comparison of Mixed Frequency",
+        "Approaches for Nowcasting Euro Area Macroeconomic aggregates.",
+        "INTERNATIONAL JOURNAL OF FORECASTING, ISSN: 0169-2070"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Mixed-Frequency Structural Models: Identification, Estimation, and Policy Analysis",
+        "ISSN": [
+          "1099-1255"
+        ],
+        "journal": "JOURNAL OF APPLIED ECONOMETRICS",
+        "csp": "ISSN: 1099-1255",
+        "anno": "2014",
+        "autori": "Foroni C, Marcellino M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Foroni C, Marcellino M (2014). Mixed-Frequency Structural Models:",
+        "Identification, Estimation, and Policy Analysis. JOURNAL OF APPLIED",
+        "ECONOMETRICS, ISSN: 1099-1255"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Mixed-frequency vector autoregressive models",
+        "ISSN": [
+          "0731-9053"
+        ],
+        "journal": "ADVANCES IN ECONOMETRICS",
+        "csp": "ISSN: 0731-9053",
+        "anno": "2013",
+        "autori": "Foroni C, Ghysels E, Marcellino M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Foroni C, Ghysels E, Marcellino M (2013). Mixed-frequency vector",
+        "autoregressive models. ADVANCES IN ECONOMETRICS, ISSN: 0731-9053"
+      ],
+      "anno": "2013"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Mixed frequency Structural VARs. JOURNAL OF THE ROYAL STATISTICAL SOCIETY",
+        "ISSN": [
+          "1467-985X"
+        ],
+        "journal": "SERIES A",
+        "csp": "STATISTICS IN SOCIETY, ISSN: 1467-985X",
+        "anno": "2016",
+        "autori": "Foroni C, Marcellino M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Foroni C, Marcellino M (2016). Mixed frequency Structural VARs. JOURNAL",
+        "OF THE ROYAL STATISTICAL SOCIETY. SERIES A, STATISTICS IN",
+        "SOCIETY, ISSN: 1467-985X"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1002/jae.2545"
+        ],
+        "titolo": "Density forecasts with MIDAS models",
+        "ISSN": [
+          "1099-1255"
+        ],
+        "journal": "JOURNAL OF APPLIED ECONOMETRICS",
+        "csp": "ISSN: 1099-1255, doi: 10.1002/jae.2545",
+        "anno": "2016",
+        "autori": "Aastveit KA, Foroni C, Ravazzolo F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Aastveit KA, Foroni C, Ravazzolo F (2016). Density forecasts with MIDAS",
+        "models. JOURNAL OF APPLIED ECONOMETRICS, ISSN: 1099-1255, doi:",
+        "10.1002/jae.2545"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1504/IJCEE.2017.10000629"
+        ],
+        "titolo": "A daily indicator of economic growth for the euro area",
+        "ISSN": [
+          "1757-1170"
+        ],
+        "journal": "INTERNATIONAL JOURNAL OF COMPUTATIONAL ECONOMICS AND ECONOMETRICS",
+        "csp": "ISSN: 1757-1170, doi: 10.1504/IJCEE.2017.10000629",
+        "anno": "2016",
+        "autori": "Aprigliano V, Foroni C, Mazzi G, Marcellino M, Venditti F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Aprigliano V, Foroni C, Mazzi G, Marcellino M, Venditti F (2016). A daily",
+        "indicator of economic growth for the euro area. INTERNATIONAL JOURNAL",
+        "OF COMPUTATIONAL ECONOMICS AND ECONOMETRICS, ISSN:",
+        "1757-1170, doi: 10.1504/IJCEE.2017.10000629"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Markov-switching Mixed Frequency Vector Autoregression Models",
+        "ISSN": [
+          "0169-2070"
+        ],
+        "journal": "INTERNATIONAL JOURNAL OF FORECASTING",
+        "csp": "ISSN: 0169-2070",
+        "anno": "2015",
+        "autori": "Foroni C, Guerin P, Marcellino M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Foroni C, Guerin P, Marcellino M (2015). Markov-switching Mixed Frequency",
+        "Vector Autoregression Models. INTERNATIONAL JOURNAL OF",
+        "FORECASTING, ISSN: 0169-2070"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "U-MIDAS: MIDAS regressions with unrestricted lag polynomials. JOURNAL OF THE ROYAL STATISTICAL SOCIETY",
+        "ISSN": [
+          "1467-985X"
+        ],
+        "journal": "SERIES A",
+        "csp": "STATISTICS IN SOCIETY, ISSN: 1467-985X",
+        "anno": "2015",
+        "autori": "Foroni C, Marcellino M, Schumacher C"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Foroni C, Marcellino M, Schumacher C (2015). U-MIDAS: MIDAS",
+        "regressions with unrestricted lag polynomials. JOURNAL OF THE ROYAL",
+        "STATISTICAL SOCIETY. SERIES A, STATISTICS IN SOCIETY, ISSN:",
+        "1467-985X"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Mixed-Frequency Structural Models: Identification, Estimation, and Policy Analysis",
+        "ISSN": [
+          "1099-1255"
+        ],
+        "journal": "JOURNAL OF APPLIED ECONOMETRICS",
+        "csp": "ISSN: 1099-1255",
+        "anno": "2014",
+        "autori": "Foroni C, Marcellino M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Foroni C, Marcellino M (2014). Mixed-Frequency Structural Models:",
+        "Identification, Estimation, and Policy Analysis. JOURNAL OF APPLIED",
+        "ECONOMETRICS, ISSN: 1099-1255"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "A Comparison of Mixed Frequency Approaches for Nowcasting Euro Area Macroeconomic aggregates",
+        "ISSN": [
+          "0169-2070"
+        ],
+        "journal": "INTERNATIONAL JOURNAL OF FORECASTING",
+        "csp": "ISSN: 0169-2070",
+        "anno": "2014",
+        "autori": "Foroni C, Marcellino M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Foroni C, Marcellino M (2014). A Comparison of Mixed Frequency",
+        "Approaches for Nowcasting Euro Area Macroeconomic aggregates.",
+        "INTERNATIONAL JOURNAL OF FORECASTING, ISSN: 0169-2070"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Mixed-frequency vector autoregressive models",
+        "ISSN": [
+          "0731-9053"
+        ],
+        "journal": "ADVANCES IN ECONOMETRICS",
+        "csp": "ISSN: 0731-9053",
+        "anno": "2013",
+        "autori": "Foroni C, Ghysels E, Marcellino M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Foroni C, Ghysels E, Marcellino M (2013). Mixed-frequency vector",
+        "autoregressive models. ADVANCES IN ECONOMETRICS, ISSN: 0731-9053"
+      ],
+      "anno": "2013"
+    }
+  ],
+  "general": {
+    "settore": "13/A5",
+    "progr": "30245",
+    "nome": "FORONI Claudia Sabina",
+    "fascia": "Seconda"
+  },
+  "titoli": {
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "Research Assistant, European University Institute Programmazione in Matlab e Gauss codes per diversi progetti in applied macroeconomics.",
+        "periodo": "dal 01-04-2010 al 31-07-2012"
+      },
+      {
+        "content": "Intern al dipartimento di Ricerca della Deutsche Bundesbank Lavoro su un nuovo modello MIDAS, l' Unrestricted-MIDAS",
+        "periodo": "dal 09-01-2011 al 31-03-2011"
+      },
+      {
+        "content": "Refereeing per: Econometric Theory, Econometrics and Statistics, Empirical Economics, International Journal of Computational Economics and Econometrics, International Journal of Forecasting, Journal of Applied Econometrics, Journal of Business Cycle Analysis and Measurement, Journal of Econometrics, Journal of Forecasting, Journal of the Royal Statistical Society, Oxford Bulletin of Economics and Statistics.",
+        "periodo": "dal 01-01-2012 a oggi"
+      },
+      {
+        "content": "Researcher, Norges Bank Ricerca con focus principalmente su forecasting e analisi strutturale di sviluppi macroeconomici. Membro del team di short-term forecasting, responsabile delle previsioni di GDP e inflazione per la Norvegia. Membro del team per lo sviluppo di cross-checks models per le variabili rilevanti per la politica monetaria norvegese.",
+        "periodo": "dal 01-10-2012 al 15-05-2016"
+      },
+      {
+        "content": "Economist, European Central Bank (on leave da Norges Bank) Responsabile dei modelli di previsione e di analisi strutturale del prezzo del perolio. Ricerca sulla relazione tra prezzo del petrolio e degli asset prices e su cambiamenti strutturali nel mercato del petrolio. Ricerca su incertezza, tassi di cambio, identificazione degli shock.",
+        "periodo": "dal 15-05-2016 a oggi"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Conferenze: 2016: Annual Conference of the International Association for Applied Econometrics, CAMP-BI Workshop on Commodities, business cycles and monetary policy, 1st Banque de France \u2013 Norges Bank Workshop in Empirical Macroeconomics (discussant), 3rd Bundesbank \u2013 Norges Bank Workshop, Workshop in Forecasting in Finance and Macroeconomics \u2013 University of Bolzano (discussant); 2015: Symposium of the Society for Nonlinear Dynamics and Econometrics, SIRE Workshop, Barcelona GSE Summer Forum, Euro Area Business Cycle Network Conference, Annual Conference of the International Association for Applied Econometrics; 2014: Forskerm\u00f8tet, Macroeconomic and Econometric Conference, Birmingham, Computing in Economics and Finance, Annual Conference of the International Association for Applied Econometrics, International Symposium on Forecasting, Conference on Computational Financial Econometrics, (EC)2 Conference; 2013: Italian Congress of Econometrics and Empirical Economics, Symposium of the Society for Nonlinear Dynamics and Econometrics, Royal Economic Society, Canadian Economics Association Annual Conference, (EC)2 Conference; 2012: RES PhD Meeting; 2011: (EC)2 Conference.",
+        "periodo": "dal 01-01-2011 a oggi"
+      },
+      {
+        "content": "Seminari (su invito): 2016: Banque de France, Deutsche Bundesbank; 2015: European Central Bank, Bank of England; 2014: BI Norwegian Business School; 2013: St. Andrews University; 2012: Norges Bank, Hungarian Central Bank, De Nederlandsche Bank, Statistics Norway.",
+        "periodo": "dal 01-01-2012 a oggi"
+      },
+      {
+        "content": "Co-organizzatore della serie di seminari a Norges Bank",
+        "periodo": "dal 01-01-2015 al 15-05-2016"
+      },
+      {
+        "content": "Membro dell' Organizing Committee: EABCN Conference in Oslo (2015): http://cepr.org/event/1830",
+        "periodo": "dal 11-06-2015 al 12-06-2015"
+      }
+    ],
+    "Responsabilita' di studi e ricerche scientifiche affidati da qualificate istituzioni pubbliche o": [
+      {
+        "content": "Responsabile per lo sviluppo di modelli per ottenere scenari sull' evoluzione del prezzo del petrolio all' European Central Bank.",
+        "periodo": "dal 15-05-2016 a oggi"
+      }
+    ],
+    "Conseguimento di premi e riconoscimenti per l'attivit\u00e0 scientifica, inclusa l\u2019affiliazione ad": [
+      {
+        "content": "Ph.D. Scholarship, Ministero degli Affari Esteri (http://www.eui.eu/ServicesAndAd min/AcademicService/DoctoralProgramme/Gr antInfo/Italy.aspx)",
+        "periodo": "dal 01-09-2008 al 31-08-2011"
+      },
+      {
+        "content": "Fourth Year Completion Grant, European University Institute (http://www.eui.eu/ServicesAn dAdmin/AcademicService/DoctoralProgramme /GrantInfo/Italy.aspx)",
+        "periodo": "dal 01-09-2011 al 31-08-2012"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Membro del Research department di Norges Bank",
+        "periodo": "dal 01-10-2012 al 15-05-2016"
+      },
+      {
+        "content": "Visiting researcher all'European University Institute, Robert Schumann Centre. Ricerca su come il mismatch tra la frequenza con cui i DSGE models vengono stimati e quella dei dati utilizzati nella stima si traduca in problemi di identificazione, stime distorte e distorsioni nelle policy analysis.",
+        "periodo": "dal 01-03-2013 al 31-03-2013"
+      },
+      {
+        "content": "Partecipazione alle attivit\u00e1 di ricerca dell'European Central Bank",
+        "periodo": "dal 15-05-2016 a oggi"
+      }
+    ],
+    "Formale attribuzione di incarichi di insegnamento o di ricerca (fellowship) presso": [
+      {
+        "content": "Lecturer, University of Oslo. Modelling and Systems Estiomation (master level). (http://www.uio.no/studier/emner/sv/oekonomi/ECON4160/h14/index.html e http://www.uio.no/studier/emner/sv/oekon omi/ECON4160/h15/index.html) Superviosi one di studenti di Master per la tesi.",
+        "periodo": "dal 01-09-2014 al 31-12-2015"
+      }
+    ]
+  }
+}

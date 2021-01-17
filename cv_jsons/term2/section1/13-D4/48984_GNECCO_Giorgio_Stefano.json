@@ -1,0 +1,2191 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.cor.2016.11.004"
+        ],
+        "titolo": "Optimal Distributed Task Scheduling in Volunteer Clouds",
+        "ISSN": [
+          "0305-0548"
+        ],
+        "journal": "COMPUTERS & OPERATIONS RESEARCH",
+        "csp": "vol. 81, p. 231-246, ISSN: 0305-0548, doi: 10.1016/j.cor.2016.11.004",
+        "anno": "2017",
+        "autori": "Sebastio S, Gnecco G, Bemporad A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Sebastio S, Gnecco G, Bemporad A (2017). Optimal Distributed Task",
+        "Scheduling in Volunteer Clouds. COMPUTERS & OPERATIONS",
+        "RESEARCH, vol. 81, p. 231-246, ISSN: 0305-0548, doi:",
+        "10.1016/j.cor.2016.11.004"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10957-015-0804-y"
+        ],
+        "titolo": "On the Curse of Dimensionality in the Ritz Method",
+        "ISSN": [
+          "0022-3239"
+        ],
+        "journal": "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS",
+        "csp": "vol. 168, p. 488-509, ISSN: 0022-3239, doi: 10.1007/s10957-015-0804-y",
+        "anno": "2016",
+        "autori": "Gnecco G"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G (2016). On the Curse of Dimensionality in the Ritz Method.",
+        "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS, vol. 168,",
+        "p. 488-509, ISSN: 0022-3239, doi: 10.1007/s10957-015-0804-y"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.engappai.2016.08.018"
+        ],
+        "titolo": "A Hierarchical Consensus Method for the Approximation of the Consensus State, Based on Clustering and Spectral Graph Theory",
+        "ISSN": [
+          "0952-1976"
+        ],
+        "journal": "ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE",
+        "csp": "vol. 56, p. 157-174, ISSN: 0952-1976, doi: 10.1016/j.engappai.2016.08.018",
+        "anno": "2016",
+        "autori": "Morisi R, Gnecco G, Bemporad A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Morisi R, Gnecco G, Bemporad A (2016). A Hierarchical Consensus",
+        "Method for the Approximation of the Consensus State, Based on Clustering",
+        "and Spectral Graph Theory. ENGINEERING APPLICATIONS OF",
+        "ARTIFICIAL INTELLIGENCE, vol. 56, p. 157-174, ISSN: 0952-1976, doi:",
+        "10.1016/j.engappai.2016.08.018"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "4",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "170-181",
+        "doi": [
+          "10.1007/978-3-319-51469-7_14"
+        ],
+        "titolo": "Design of Acoustic Metamaterials through Nonlinear Programming",
+        "ISBN": [
+          "978-3-319-51468-0"
+        ],
+        "ISSN": [
+          "0302-9743"
+        ],
+        "csp": "ISBN: 978-3-319-51468-0, ISSN: 0302-9743, doi: 10.1007/978-3-319-51469-7_14",
+        "opera": "2nd International Workshop on Optimization, Machine Learning and Big Data (MOD 2016), Volterra, Italy, August 26th-29th, 2016. LECTURE NOTES IN COMPUTER SCIENCE, vol. 10122, p",
+        "anno": "2016",
+        "autori": "Bacigalupo A, Gnecco G, Lepidi M, Gambarotta L"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Bacigalupo A, Gnecco G, Lepidi M, Gambarotta L (2016). Design of",
+        "Acoustic Metamaterials through Nonlinear Programming. In: 2nd",
+        "International Workshop on Optimization, Machine Learning and Big Data",
+        "(MOD 2016), Volterra, Italy, August 26th-29th, 2016. LECTURE NOTES IN",
+        "COMPUTER SCIENCE, vol. 10122, p. 170-181, ISBN: 978-3-319-51468-0,",
+        "ISSN: 0302-9743, doi: 10.1007/978-3-319-51469-7_14"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "5",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "35-40",
+        "titolo": "Learning with Hard Constraints as a Limit Case of Learning with Soft Constraints",
+        "ISBN": [
+          "978-287587027-8"
+        ],
+        "csp": "ISBN: 978-287587027-8, Bruges, Belgium, April 27th-29th, 2016",
+        "opera": "Proceedings of the 24th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2016), Bruges, Belgium, April 27th-29th, 2016. p",
+        "anno": "2016",
+        "autori": "Gnecco G, Gori M, Melacci S, Sanguineti M"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Gnecco G, Gori M, Melacci S, Sanguineti M (2016). Learning with Hard",
+        "Constraints as a Limit Case of Learning with Soft Constraints. In:",
+        "Proceedings of the 24th European Symposium on Artificial Neural",
+        "Networks, Computational Intelligence and Machine Learning (ESANN",
+        "2016), Bruges, Belgium, April 27th-29th, 2016. p. 35-40, ISBN:",
+        "978-287587027-8, Bruges, Belgium, April 27th-29th, 2016"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1109/TNNLS.2014.2361866"
+        ],
+        "titolo": "Learning with Mixed Hard/Soft Pointwise Constraints",
+        "ISSN": [
+          "2162-237X"
+        ],
+        "journal": "IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS",
+        "csp": "vol. 26, p. 2019-2032, ISSN: 2162-237X, doi: 10.1109/TNNLS.2014.2361866",
+        "anno": "2015",
+        "autori": "Gnecco G, Gori M, Melacci S, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Gori M, Melacci S, Sanguineti M (2015). Learning with Mixed",
+        "Hard/Soft Pointwise Constraints. IEEE TRANSACTIONS ON NEURAL",
+        "NETWORKS AND LEARNING SYSTEMS, vol. 26, p. 2019-2032, ISSN:",
+        "2162-237X, doi: 10.1109/TNNLS.2014.2361866"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10957-014-0570-2"
+        ],
+        "titolo": "Narrowing the Search for Optimal Call-Admission Policies via a Nonlinear Stochastic Knapsack Model",
+        "ISSN": [
+          "1573-2878"
+        ],
+        "journal": "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS",
+        "csp": "vol. 164, p. 819-841, ISSN: 1573-2878, doi: 10.1007/s10957-014-0570-2",
+        "anno": "2015",
+        "autori": "Cello M, Gnecco G, Marchese M, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Cello M, Gnecco G, Marchese M, Sanguineti M (2015). Narrowing the",
+        "Search for Optimal Call-Admission Policies via a Nonlinear Stochastic",
+        "Knapsack Model. JOURNAL OF OPTIMIZATION THEORY AND",
+        "APPLICATIONS, vol. 164, p. 819-841, ISSN: 1573-2878, doi:",
+        "10.1007/s10957-014-0570-2"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.neucom.2014.07.052"
+        ],
+        "titolo": "An Efficient Self Organizing Active Contour Model for Image Segmentation",
+        "ISSN": [
+          "0925-2312"
+        ],
+        "journal": "NEUROCOMPUTING",
+        "csp": "vol. 149, p. 820-835, ISSN: 0925-2312, doi: 10.1016/j.neucom.2014.07.052",
+        "anno": "2015",
+        "autori": "Abdelsamea M M, Gnecco G, Gaber M M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Abdelsamea M M, Gnecco G, Gaber M M (2015). An Efficient Self",
+        "Organizing Active Contour Model for Image Segmentation.",
+        "NEUROCOMPUTING, vol. 149, p. 820-835, ISSN: 0925-2312, doi:",
+        "10.1016/j.neucom.2014.07.052"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1162/NECO_a_00686"
+        ],
+        "titolo": "Foundations of Support Constraint Machines",
+        "ISSN": [
+          "0899-7667"
+        ],
+        "journal": "NEURAL COMPUTATION",
+        "csp": "vol. 27, p. 388-480, ISSN: 0899-7667, doi: 10.1162/NECO_a_00686",
+        "anno": "2015",
+        "autori": "Gnecco G, Gori M, Melacci S, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Gori M, Melacci S, Sanguineti M (2015). Foundations of Support",
+        "Constraint Machines. NEURAL COMPUTATION, vol. 27, p. 388-480, ISSN:",
+        "0899-7667, doi: 10.1162/NECO_a_00686"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "10",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "245-270",
+        "doi": [
+          "10.1007/978-3-319-09903-3_12"
+        ],
+        "titolo": "Learning as Constraint Reactions",
+        "ISBN": [
+          "978-3-319-09902-6"
+        ],
+        "csp": "Springer, ISBN: 978-3-319-09902-6, doi: 10.1007/978-3-319-09903-3_12",
+        "opera": "(a cura di): Koprinkova-Hristova P; Mladenov V; Kasabov N, Artificial Neural Networks - Methods and Applications in Bio- and Neuroinformatics (Series in Bio-Neuroinformatics). vol. 4, p",
+        "anno": "2015",
+        "autori": "Gnecco G, Gori M, Melacci S, Sanguineti M"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Gnecco G, Gori M, Melacci S, Sanguineti M (2015). Learning as Constraint",
+        "Reactions. In: (a cura di): Koprinkova-Hristova P; Mladenov V; Kasabov N,",
+        "Artificial Neural Networks - Methods and Applications in Bio- and",
+        "Neuroinformatics (Series in Bio-Neuroinformatics). vol. 4, p. 245-270,",
+        "Springer, ISBN: 978-3-319-09902-6, doi: 10.1007/978-3-319-09903-3_12"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "11",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "379-386",
+        "doi": [
+          "10.1007/978-3-319-19390-8_43"
+        ],
+        "ISSN": [
+          "0302-9743"
+        ],
+        "ISBN": [
+          "978-3-319-19390-8"
+        ],
+        "csp": "BERLIN HEIDELBERG:Springer-Verlag, ISBN: 978-3-319-19390-8, ISSN: 0302-9743, doi: 10.1007/978-3-319-19390-8_43",
+        "opera": "Santiago de Compostela, Spain. LECTURE NOTES IN COMPUTER SCIENCE, vol. 9131, p",
+        "autori": "Morisi R, Gnecco G, Lanconelli N, Zanigni S, Manners D N, Testa C, Evangelisti S, Gramegna L, Bianchini C, Cortelli P, Tonon C (2015). Binary and Multi-Class Parkinsonian Disorders Classification usin"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Morisi R, Gnecco G, Lanconelli N, Zanigni S, Manners D N, Testa C,",
+        "Evangelisti S, Gramegna L, Bianchini C, Cortelli P, Tonon C (2015). Binary",
+        "and Multi-Class Parkinsonian Disorders Classification usin [...] Santiago de",
+        "Compostela, Spain. LECTURE NOTES IN COMPUTER SCIENCE, vol.",
+        "9131, p. 379-386, BERLIN HEIDELBERG:Springer-Verlag, ISBN:",
+        "978-3-319-19390-8, ISSN: 0302-9743, doi: 10.1007/978-3-319-19390-8_43"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "12",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "2487-2494",
+        "doi": [
+          "10.1109/ECC.2015.7330911"
+        ],
+        "titolo": "Online Learning as an LGQ Optimal Control problem with Random Matrices",
+        "ISBN": [
+          "978-3-9524-2693-7"
+        ],
+        "csp": "IEEE, ISBN: 978-3-9524-2693-7, July 15th-17th, 2015, Linz, Austria, doi: 10.1109/ECC.2015.7330911",
+        "opera": "Proceedings of the 14th IEEE European Control Conference, (IEEE ECC 2015). p",
+        "anno": "2015",
+        "autori": "Gnecco G, Bemporad A, Gori M, Morisi R, Sanguineti M"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Gnecco G, Bemporad A, Gori M, Morisi R, Sanguineti M (2015). Online",
+        "Learning as an LGQ Optimal Control problem with Random Matrices. In:",
+        "Proceedings of the 14th IEEE European Control Conference, (IEEE ECC",
+        "2015). p. 2487-2494, IEEE, ISBN: 978-3-9524-2693-7, July 15th-17th,",
+        "2015, Linz, Austria, doi: 10.1109/ECC.2015.7330911"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "13",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1109/LCOMM.2014.011314.132522"
+        ],
+        "titolo": "Evaluation of the Average Packet Delivery Delay in Highly-Disrupted Networks: The DTN and IP-like Protocol Cases",
+        "ISSN": [
+          "1089-7798"
+        ],
+        "journal": "IEEE COMMUNICATIONS LETTERS",
+        "csp": "vol. 18, p. 519-522, ISSN: 1089-7798, doi: 10.1109/LCOMM.2014.011314.132522",
+        "anno": "2014",
+        "autori": "Cello M, Gnecco G, Marchese M, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Cello M, Gnecco G, Marchese M, Sanguineti M (2014). Evaluation of the",
+        "Average Packet Delivery Delay in Highly-Disrupted Networks: The DTN and",
+        "IP-like Protocol Cases. IEEE COMMUNICATIONS LETTERS, vol. 18, p.",
+        "519-522, ISSN: 1089-7798, doi: 10.1109/LCOMM.2014.011314.132522"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "14",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s11063-013-9294-9r"
+        ],
+        "titolo": "Approximation and Estimation Bounds for Subsets of Reproducing Kernel Krein Spaces",
+        "ISSN": [
+          "1370-4621"
+        ],
+        "journal": "NEURAL PROCESSING LETTERS",
+        "csp": "vol. 39, p. 137-153, ISSN: 1370-4621, doi: 10.1007/s11063-013-9294-9r",
+        "anno": "2014",
+        "autori": "Gnecco G"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G (2014). Approximation and Estimation Bounds for Subsets of",
+        "Reproducing Kernel Krein Spaces. NEURAL PROCESSING LETTERS, vol.",
+        "39, p. 137-153, ISSN: 1370-4621, doi: 10.1007/s11063-013-9294-9r"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "15",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.neucom.2012.06.065"
+        ],
+        "titolo": "A Theoretical Framework for Supervised Learning from Regions",
+        "ISSN": [
+          "0925-2312"
+        ],
+        "journal": "NEUROCOMPUTING",
+        "csp": "vol. 129, p. 25-32, ISSN: 0925-2312, doi: 10.1016/j.neucom.2012.06.065",
+        "anno": "2014",
+        "autori": "Gnecco G, Gori M, Melacci S, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Gori M, Melacci S, Sanguineti M (2014). A Theoretical",
+        "Framework for Supervised Learning from Regions. NEUROCOMPUTING,",
+        "vol. 129, p. 25-32, ISSN: 0925-2312, doi: 10.1016/j.neucom.2012.06.065"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "16",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10589-013-9614-z"
+        ],
+        "titolo": "Approximate Dynamic Programming for Stochastic N-Stage Optimization with Application to Optimal Consumption under Uncertainty",
+        "ISSN": [
+          "0926-6003"
+        ],
+        "journal": "COMPUTATIONAL OPTIMIZATION AND APPLICATIONS",
+        "csp": "vol. 58, p. 31-85, ISSN: 0926-6003, doi: 10.1007/s10589-013-9614-z",
+        "anno": "2014",
+        "autori": "Gaggero M, Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gaggero M, Gnecco G, Sanguineti M (2014). Approximate Dynamic",
+        "Programming for Stochastic N-Stage Optimization with Application to",
+        "Optimal Consumption under Uncertainty. COMPUTATIONAL",
+        "OPTIMIZATION AND APPLICATIONS, vol. 58, p. 31-85, ISSN: 0926-6003,",
+        "doi: 10.1007/s10589-013-9614-z"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "17",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1504/IJART.2014.066452"
+        ],
+        "titolo": "On the Detection of the Level of Attention in an Orchestra Through Head Movements",
+        "ISSN": [
+          "1754-8853"
+        ],
+        "journal": "INTERNATIONAL JOURNAL OF ARTS AND TECHNOLOGY",
+        "csp": "vol. 7, p. 316-338, ISSN: 1754-8853, doi: 10.1504/IJART.2014.066452",
+        "anno": "2014",
+        "autori": "Gnecco G, Glowinski D, Camurri A, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Glowinski D, Camurri A, Sanguineti M (2014). On the Detection",
+        "of the Level of Attention in an Orchestra Through Head Movements.",
+        "INTERNATIONAL JOURNAL OF ARTS AND TECHNOLOGY, vol. 7, p.",
+        "316-338, ISSN: 1754-8853, doi: 10.1504/IJART.2014.066452"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "18",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "199-208",
+        "doi": [
+          "10.1007/978-3-319-07695-9_19"
+        ],
+        "titolo": "A Concurrent SOM-Based Chan-Vese Model for Image Segmentation",
+        "ISBN": [
+          "978-331907694-2"
+        ],
+        "csp": "Springer, ISBN: 978-331907694-2, doi: 10.1007/978-3-319-07695-9_19",
+        "opera": "Advances in Intelligent Systems and Computing. vol. 295, p",
+        "anno": "2014",
+        "autori": "Abdelsamea M M, Gnecco G, Gaber M M"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Abdelsamea M M, Gnecco G, Gaber M M (2014). A Concurrent",
+        "SOM-Based Chan-Vese Model for Image Segmentation. In: Advances in",
+        "Intelligent Systems and Computing. vol. 295, p. 199-208, Springer, ISBN:",
+        "978-331907694-2, doi: 10.1007/978-3-319-07695-9_19"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "19",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "27-50",
+        "doi": [
+          "10.1007/978-3-319-00669-7_3"
+        ],
+        "titolo": "Suboptimal Policies for Stochastic N-Stage Optimization Problems: Accuracy Analysis and a Case Study from Optimal Consumption",
+        "ISBN": [
+          "978-3-319-00668-0"
+        ],
+        "csp": "Springer, ISBN: 978-3-319-00668-0, doi: 10.1007/978-3-319-00669-7_3",
+        "opera": "(a cura di): El Ouardighi F; Kogan K, Models and Methods in Economics and Management. p",
+        "anno": "2014",
+        "autori": "Gaggero M, Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Gaggero M, Gnecco G, Sanguineti M (2014). Suboptimal Policies for",
+        "Stochastic N-Stage Optimization Problems: Accuracy Analysis and a Case",
+        "Study from Optimal Consumption. In: (a cura di): El Ouardighi F; Kogan K,",
+        "Models and Methods in Economics and Management. p. 27-50, Springer,",
+        "ISBN: 978-3-319-00668-0, doi: 10.1007/978-3-319-00669-7_3"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "20",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "293-302",
+        "doi": [
+          "10.1007/978-3-319-07695-9_28"
+        ],
+        "titolo": "A Survey of SOM-Based Active Contour Models for Image Segmentation",
+        "ISBN": [
+          "978-331907694-2"
+        ],
+        "csp": "Springer, ISBN: 978-331907694-2, doi: 10.1007/978-3-319-07695-9_28",
+        "opera": "Advances in Intelligent Systems and Computing. vol. 295, p",
+        "anno": "2014",
+        "autori": "Abdelsamea M M, Gnecco G, Gaber M M"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Abdelsamea M M, Gnecco G, Gaber M M (2014). A Survey of SOM-Based",
+        "Active Contour Models for Image Segmentation. In: Advances in Intelligent",
+        "Systems and Computing. vol. 295, p. 293-302, Springer, ISBN:",
+        "978-331907694-2, doi: 10.1007/978-3-319-07695-9_28"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "21",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "23-32",
+        "titolo": "Evaluation of Individual Contributions in a Group Estimate of the Position of a Moving Point of Common Interest",
+        "ISBN": [
+          "978-88-909096-1-0"
+        ],
+        "csp": "ISBN: 978-88-909096-1-0, Genova, 12-14 settembre 2013",
+        "opera": "Proceedings of SysMus 2013. p",
+        "anno": "2014",
+        "autori": "Punta D, Puri G, Tollini F, Gnecco G, Sanguineti M, Camurri A"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Punta D, Puri G, Tollini F, Gnecco G, Sanguineti M, Camurri A (2014).",
+        "Evaluation of Individual Contributions in a Group Estimate of the Position of",
+        "a Moving Point of Common Interest. In: Proceedings of SysMus 2013. p.",
+        "23-32, ISBN: 978-88-909096-1-0, Genova, 12-14 settembre 2013"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "22",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "2228-2233",
+        "titolo": "Sparse Solutions to the Average Consensus Problem via L1-Norm Regularization of the Fastest Mixing Markov-Chain Problem",
+        "ISBN": [
+          "978-1-4673-6090-6"
+        ],
+        "csp": "IEEE, ISBN: 978-1-4673-6090-6",
+        "opera": "Proceedings of the 53rd IEEE International Conference on Decision and Control (IEEE CDC 2014), Los Angeles, CA, USA, December 15th-17th, 2014. p",
+        "anno": "2014",
+        "autori": "Gnecco G, Morisi R, Bemporad A"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Gnecco G, Morisi R, Bemporad A (2014). Sparse Solutions to the Average",
+        "Consensus Problem via L1-Norm Regularization of the Fastest Mixing",
+        "Markov-Chain Problem. In: Proceedings of the 53rd IEEE International",
+        "Conference on Decision and Control (IEEE CDC 2014), Los Angeles, CA,",
+        "USA, December 15th-17th, 2014. p. 2228-2233, IEEE, ISBN:",
+        "978-1-4673-6090-6"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "23",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10957-012-0118-2"
+        ],
+        "titolo": "Dynamic Programming and Value-Function Approximation in Sequential Decision Problems: Error Analysis and Numerical Results",
+        "ISSN": [
+          "0022-3239"
+        ],
+        "journal": "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS",
+        "csp": "vol. 156, p. 380-416, ISSN: 0022-3239, doi: 10.1007/s10957-012-0118-2",
+        "anno": "2013",
+        "autori": "Gaggero M, Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gaggero M, Gnecco G, Sanguineti M (2013). Dynamic Programming and",
+        "Value-Function Approximation in Sequential Decision Problems: Error",
+        "Analysis and Numerical Results. JOURNAL OF OPTIMIZATION THEORY",
+        "AND APPLICATIONS, vol. 156, p. 380-416, ISSN: 0022-3239, doi:",
+        "10.1007/s10957-012-0118-2"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "24",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1109/TNET.2012.2222924"
+        ],
+        "titolo": "Optimality Conditions for Coordinate-Convex Policies in CAC With Nonlinear Feasibility Boundaries",
+        "ISSN": [
+          "1063-6692"
+        ],
+        "journal": "IEEE-ACM TRANSACTIONS ON NETWORKING",
+        "csp": "vol. 21, p. 1363-1377, ISSN: 1063-6692, doi: 10.1109/TNET.2012.2222924",
+        "anno": "2013",
+        "autori": "Cello M, Gnecco G, Marchese M, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Cello M, Gnecco G, Marchese M, Sanguineti M (2013). Optimality",
+        "Conditions for Coordinate-Convex Policies in CAC With Nonlinear",
+        "Feasibility Boundaries. IEEE-ACM TRANSACTIONS ON NETWORKING,",
+        "vol. 21, p. 1363-1377, ISSN: 1063-6692, doi: 10.1109/TNET.2012.2222924"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "25",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1162/NECO_a_00417"
+        ],
+        "titolo": "Learning with Boundary Conditions",
+        "ISSN": [
+          "0899-7667"
+        ],
+        "journal": "NEURAL COMPUTATION",
+        "csp": "vol. 25, p. 1029-1106, ISSN: 0899-7667, doi: 10.1162/NECO_a_00417",
+        "anno": "2013",
+        "autori": "Gnecco G, Gori M, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Gori M, Sanguineti M (2013). Learning with Boundary",
+        "Conditions. NEURAL COMPUTATION, vol. 25, p. 1029-1106, ISSN:",
+        "0899-7667, doi: 10.1162/NECO_a_00417"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "26",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "146-153",
+        "doi": [
+          "10.1007/978-3-642-40728-4_19"
+        ],
+        "titolo": "Learning with hard constraints",
+        "ISBN": [
+          "978-3-642-40727-7"
+        ],
+        "csp": "Springer, ISBN: 978-3-642-40727-7, doi: 10.1007/978-3-642-40728-4_19",
+        "opera": "(a cura di): Mladenov V, et al., Lecture Notes in Computer Science. vol. 8131, p",
+        "anno": "2013",
+        "autori": "Gnecco G, Gori M, Melacci S, Sanguineti M"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Gnecco G, Gori M, Melacci S, Sanguineti M (2013). Learning with hard",
+        "constraints. In: (a cura di): Mladenov V, et al., Lecture Notes in Computer",
+        "Science. vol. 8131, p. 146-153, Springer, ISBN: 978-3-642-40727-7, doi:",
+        "10.1007/978-3-642-40728-4_19"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "27",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "120-127",
+        "doi": [
+          "10.1007/978-3-642-37982-6_16"
+        ],
+        "titolo": "Towards Automated Analysis of Joint Music Performance in the Orchestra",
+        "ISBN": [
+          "978-364237981-9"
+        ],
+        "csp": "Springer, ISBN: 978-364237981-9, doi: 10.1007/978-3-642-37982-6_16",
+        "opera": "(a cura di): De Mi [...] ics and Telecommunications Enginering (Proc. 3rd Int. Conf. on Arts and Technology - Milano, 21-23 marzo 2013). vol. 116, p",
+        "anno": "2013",
+        "autori": "Gnecco G, Badino L, Camurri A, D'Ausilio A, Fadiga L, Glowinski D, Sanguineti M, Varni G, Volpe G"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Gnecco G, Badino L, Camurri A, D'Ausilio A, Fadiga L, Glowinski D,",
+        "Sanguineti M, Varni G, Volpe G (2013). Towards Automated Analysis of",
+        "Joint Music Performance in the Orchestra. In: (a cura di): De Mi [...] ics and",
+        "Telecommunications Enginering (Proc. 3rd Int. Conf. on Arts and",
+        "Technology - Milano, 21-23 marzo 2013). vol. 116, p. 120-127, Springer,",
+        "ISBN: 978-364237981-9, doi: 10.1007/978-3-642-37982-6_16"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "28",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "233-238",
+        "doi": [
+          "10.1109/ACII.2013.45"
+        ],
+        "titolo": "Expressive Non-verbal Interaction in String Quartet",
+        "ISBN": [
+          "978-076955048-0"
+        ],
+        "csp": "ISBN: 978-076955048-0, doi: 10.1109/ACII.2013.45",
+        "opera": "Proceedings of the V Int. Conf. on Affective Computing and Intelligent Interaction. p",
+        "anno": "2013",
+        "autori": "Glowinski D, Gnecco G, Camurri A, Piana S"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Glowinski D, Gnecco G, Camurri A, Piana S (2013). Expressive Non-verbal",
+        "Interaction in String Quartet. In: Proceedings of the V Int. Conf. on Affective",
+        "Computing and Intelligent Interaction. p. 233-238, ISBN: 978-076955048-0,",
+        "doi: 10.1109/ACII.2013.45"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "29",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1155/2012/806945"
+        ],
+        "titolo": "A Comparison Between Fixed-Basis and Variable-Basis Schemes for Function Approximation and Functional Optimization",
+        "ISSN": [
+          "1110-757X"
+        ],
+        "journal": "JOURNAL OF APPLIED MATHEMATICS",
+        "csp": "vol. 2012, p. 1-17, ISSN: 1110-757X, doi: 10.1155/2012/806945",
+        "anno": "2012",
+        "autori": "Gnecco G"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G (2012). A Comparison Between Fixed-Basis and Variable-Basis",
+        "Schemes for Function Approximation and Functional Optimization.",
+        "JOURNAL OF APPLIED MATHEMATICS, vol. 2012, p. 1-17, ISSN:",
+        "1110-757X, doi: 10.1155/2012/806945"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "30",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1109/LCOMM.2012.042312.120369"
+        ],
+        "titolo": "A Model of Buffer Occupancy for ICNs",
+        "ISSN": [
+          "1089-7798"
+        ],
+        "journal": "IEEE COMMUNICATIONS LETTERS",
+        "csp": "vol. 16, p. 862-865, ISSN: 1089-7798, doi: 10.1109/LCOMM.2012.042312.120369",
+        "anno": "2012",
+        "autori": "Cello M, Gnecco G, Marchese M, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Cello M, Gnecco G, Marchese M, Sanguineti M (2012). A Model of Buffer",
+        "Occupancy for ICNs. IEEE COMMUNICATIONS LETTERS, vol. 16, p.",
+        "862-865, ISSN: 1089-7798, doi: 10.1109/LCOMM.2012.042312.120369"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "31",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.amc.2012.01.015"
+        ],
+        "titolo": "Accuracy of Approximations of Solutions to Fredholm Equations by Kernel Methods",
+        "ISSN": [
+          "0096-3003"
+        ],
+        "journal": "APPLIED MATHEMATICS AND COMPUTATION",
+        "csp": "vol. 218, p. 7481-7497, ISSN: 0096-3003, doi: 10.1016/j.amc.2012.01.015",
+        "anno": "2012",
+        "autori": "Gnecco G, Kurkova V, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Kurkova V, Sanguineti M (2012). Accuracy of Approximations of",
+        "Solutions to Fredholm Equations by Kernel Methods. APPLIED",
+        "MATHEMATICS AND COMPUTATION, vol. 218, p. 7481-7497, ISSN:",
+        "0096-3003, doi: 10.1016/j.amc.2012.01.015"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "32",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.jhydrol.2012.09.006"
+        ],
+        "titolo": "Classifiers for the Detection of Flood-Prone Areas Using Remote Sensed Elevation Data",
+        "ISSN": [
+          "0022-1694"
+        ],
+        "journal": "JOURNAL OF HYDROLOGY",
+        "csp": "vol. 470-471, p. 302-315, ISSN: 0022-1694, doi: 10.1016/j.jhydrol.2012.09.006",
+        "anno": "2012",
+        "autori": "Degiorgis M, Gnecco G, Gorni S, Roth G, Sanguineti M, Taramasso A C"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Degiorgis M, Gnecco G, Gorni S, Roth G, Sanguineti M, Taramasso A C",
+        "(2012). Classifiers for the Detection of Flood-Prone Areas Using Remote",
+        "Sensed Elevation Data. JOURNAL OF HYDROLOGY, vol. 470-471, p.",
+        "302-315, ISSN: 0022-1694, doi: 10.1016/j.jhydrol.2012.09.006"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "33",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s11590-011-0339-6"
+        ],
+        "titolo": "New Insights into Witsenhausen\u2019s Counterexample",
+        "ISSN": [
+          "1862-4472"
+        ],
+        "journal": "OPTIMIZATION LETTERS",
+        "csp": "vol. 6, p. 1425-1446, ISSN: 1862-4472, doi: 10.1007/s11590-011-0339-6",
+        "anno": "2012",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2012). New Insights into Witsenhausen\u2019s",
+        "Counterexample. OPTIMIZATION LETTERS, vol. 6, p. 1425-1446, ISSN:",
+        "1862-4472, doi: 10.1007/s11590-011-0339-6"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "34",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1137/100803481"
+        ],
+        "titolo": "Suboptimal Solutions to Team Optimization Problems with Stochastic Information Structure",
+        "ISSN": [
+          "1052-6234"
+        ],
+        "journal": "SIAM JOURNAL ON OPTIMIZATION",
+        "csp": "vol. 22, p. 212-243, ISSN: 1052-6234, doi: 10.1137/100803481",
+        "anno": "2012",
+        "autori": "Gnecco G, Sanguineti M, Gaggero M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M, Gaggero M (2012). Suboptimal Solutions to Team",
+        "Optimization Problems with Stochastic Information Structure. SIAM",
+        "JOURNAL ON OPTIMIZATION, vol. 22, p. 212-243, ISSN: 1052-6234, doi:",
+        "10.1137/100803481"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "35",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "491-496",
+        "doi": [
+          "10.1109/SYSoSE.2012.6384188"
+        ],
+        "titolo": "An Application to Two-Hop Forwarding of a Model of Buffer Occupancy in ICNs",
+        "ISBN": [
+          "978-146732975-0"
+        ],
+        "csp": "ISBN: 978-146732975-0, doi: 10.1109/SYSoSE.2012.6384188",
+        "opera": "Proceedings SOSE 2012 7th International Conference on System of Systems Engineering. p",
+        "anno": "2012",
+        "autori": "Cello M, Gnecco G, Marchese M, Sanguineti M"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Cello M, Gnecco G, Marchese M, Sanguineti M (2012). An Application to",
+        "Two-Hop Forwarding of a Model of Buffer Occupancy in ICNs. In:",
+        "Proceedings SOSE 2012 7th International Conference on System of",
+        "Systems Engineering. p. 491-496, ISBN: 978-146732975-0, doi:",
+        "10.1109/SYSoSE.2012.6384188"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "36",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "1902-1908",
+        "doi": [
+          "10.1109/CDC.2012.6426656"
+        ],
+        "titolo": "Approximation Structures with Moderate Complexity in Functional Optimization and Dynamic Programming",
+        "ISBN": [
+          "978-1-4673-2066-5"
+        ],
+        "csp": "ISBN: 978-1-4673-2066-5, doi: 10.1109/CDC.2012.6426656",
+        "opera": "Proc. 2012 Conference on Decision and Control. p",
+        "anno": "2012",
+        "autori": "Gaggero M, Gnecco G, Parisini T, Sanguineti M, Zoppoli R"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Gaggero M, Gnecco G, Parisini T, Sanguineti M, Zoppoli R (2012).",
+        "Approximation Structures with Moderate Complexity in Functional",
+        "Optimization and Dynamic Programming. In: Proc. 2012 Conference on",
+        "Decision and Control. p. 1902-1908, ISBN: 978-1-4673-2066-5, doi:",
+        "10.1109/CDC.2012.6426656"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "37",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s11590-010-0213-y"
+        ],
+        "titolo": "Team Optimization Problems with Lipschitz Continuous Strategies",
+        "ISSN": [
+          "1862-4472"
+        ],
+        "journal": "OPTIMIZATION LETTERS",
+        "csp": "vol. 5, p. 333-346, ISSN: 1862-4472, doi: 10.1007/s11590-010-0213-y",
+        "anno": "2011",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2011). Team Optimization Problems with",
+        "Lipschitz Continuous Strategies. OPTIMIZATION LETTERS, vol. 5, p.",
+        "333-346, ISSN: 1862-4472, doi: 10.1007/s11590-010-0213-y"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "38",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.neunet.2011.05.014"
+        ],
+        "titolo": "Can Dictionary-Based Computational Models Outperform the Best Linear Ones?",
+        "ISSN": [
+          "0893-6080"
+        ],
+        "journal": "NEURAL NETWORKS",
+        "csp": "vol. 24, p. 881-887, ISSN: 0893-6080, doi: 10.1016/j.neunet.2011.05.014",
+        "anno": "2011",
+        "autori": "Gnecco G, Kurkova V, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Kurkova V, Sanguineti M (2011). Can Dictionary-Based",
+        "Computational Models Outperform the Best Linear Ones?. NEURAL",
+        "NETWORKS, vol. 24, p. 881-887, ISSN: 0893-6080, doi:",
+        "10.1016/j.neunet.2011.05.014"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "39",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1109/LCOMM.2011.030311.102228"
+        ],
+        "titolo": "CAC with Nonlinearly-Constrained Feasibility Regions",
+        "ISSN": [
+          "1089-7798"
+        ],
+        "journal": "IEEE COMMUNICATIONS LETTERS",
+        "csp": "vol. 15, p. 467-469, ISSN: 1089-7798, doi: 10.1109/LCOMM.2011.030311.102228",
+        "anno": "2011",
+        "autori": "Cello M, Gnecco G, Marchese M, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Cello M, Gnecco G, Marchese M, Sanguineti M (2011). CAC with",
+        "Nonlinearly-Constrained Feasibility Regions. IEEE COMMUNICATIONS",
+        "LETTERS, vol. 15, p. 467-469, ISSN: 1089-7798, doi:",
+        "10.1109/LCOMM.2011.030311.102228"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "40",
+      "type": "Articolo in rivista",
+      "parsed": null,
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G (2011). Functional Optimization by Variable-Basis Approximation",
+        "Schemes. 4OR, vol. 9, p. 103-106, ISSN: 1619-4500, doi:",
+        "10.1007/s10288-010-0134-8"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "41",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.neunet.2010.10.002"
+        ],
+        "titolo": "Some Comparisons of Complexity in Dictionary-Based and Linear Computational Models",
+        "ISSN": [
+          "0893-6080"
+        ],
+        "journal": "NEURAL NETWORKS",
+        "csp": "vol. 24, p. 171-182, ISSN: 0893-6080, doi: 10.1016/j.neunet.2010.10.002",
+        "anno": "2011",
+        "autori": "Gnecco G, Kurkova V, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Kurkova V, Sanguineti M (2011). Some Comparisons of",
+        "Complexity in Dictionary-Based and Linear Computational Models.",
+        "NEURAL NETWORKS, vol. 24, p. 171-182, ISSN: 0893-6080, doi:",
+        "10.1016/j.neunet.2010.10.002"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "42",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1109/TIT.2010.2090198"
+        ],
+        "titolo": "On a Variational Norm Tailored to Variable-Basis Approximation Schemes",
+        "ISSN": [
+          "0018-9448"
+        ],
+        "journal": "IEEE TRANSACTIONS ON INFORMATION THEORY",
+        "csp": "vol. 57, p. 549-558, ISSN: 0018-9448, doi: 10.1109/TIT.2010.2090198",
+        "anno": "2011",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2011). On a Variational Norm Tailored to",
+        "Variable-Basis Approximation Schemes. IEEE TRANSACTIONS ON",
+        "INFORMATION THEORY, vol. 57, p. 549-558, ISSN: 0018-9448, doi:",
+        "10.1109/TIT.2010.2090198"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "43",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "126-133",
+        "doi": [
+          "10.1007/978-3-642-21735-7_16"
+        ],
+        "titolo": "Bounds for Approximate Solutions of Fredholm Integral Equations using Kernel Networks",
+        "ISBN": [
+          "978-364221734-0"
+        ],
+        "csp": "Springer, ISBN: 978-364221734-0, doi: 10.1007/978-3-642-21735-7_16",
+        "opera": "(a cura di): Honkela T; Duch W; Girolami M; Kaski S, Lecture Notes in Computer Science. vol. 6791, p",
+        "anno": "2011",
+        "autori": "Gnecco G, Kurkova V, Sanguineti M"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Gnecco G, Kurkova V, Sanguineti M (2011). Bounds for Approximate",
+        "Solutions of Fredholm Integral Equations using Kernel Networks. In: (a cura",
+        "di): Honkela T; Duch W; Girolami M; Kaski S, Lecture Notes in Computer",
+        "Science. vol. 6791, p. 126-133, Springer, ISBN: 978-364221734-0, doi:",
+        "10.1007/978-3-642-21735-7_16"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "44",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "466-470",
+        "doi": [
+          "10.1109/INFCOM.2011.5935205"
+        ],
+        "titolo": "Structural Poperties of Optimal Coordinate-Convex Policies for CAC with Nonlinearly-Constrained Feasibility Regions",
+        "ISBN": [
+          "978-1-4244-9921-2"
+        ],
+        "csp": "ISBN: 978-1-4244-9921-2, doi: 10.1109/INFCOM.2011.5935205",
+        "opera": "2011 Proceedings IEEE INFOCOM. p",
+        "anno": "2011",
+        "autori": "Marchese M, Cello M, Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Marchese M, Cello M, Gnecco G, Sanguineti M (2011). Structural Poperties",
+        "of Optimal Coordinate-Convex Policies for CAC with",
+        "Nonlinearly-Constrained Feasibility Regions. In: 2011 Proceedings IEEE",
+        "INFOCOM. p. 466-470, ISBN: 978-1-4244-9921-2, doi:",
+        "10.1109/INFCOM.2011.5935205"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "45",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10957-010-9720-3"
+        ],
+        "titolo": "Minimizing Sequences for a Family of Functional Optimal Estimation Problems",
+        "ISSN": [
+          "0022-3239"
+        ],
+        "journal": "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS",
+        "csp": "vol. 147, p. 243-262, ISSN: 0022-3239, doi: 10.1007/s10957-010-9720-3",
+        "anno": "2010",
+        "autori": "Alessandri A, Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Alessandri A, Gnecco G, Sanguineti M (2010). Minimizing Sequences for a",
+        "Family of Functional Optimal Estimation Problems. JOURNAL OF",
+        "OPTIMIZATION THEORY AND APPLICATIONS, vol. 147, p. 243-262,",
+        "ISSN: 0022-3239, doi: 10.1007/s10957-010-9720-3"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "46",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Information Complexity of Infinite Dimensional Optimization Problems and Their Approximation Schemes",
+        "ISSN": [
+          "2041-3173"
+        ],
+        "journal": "MATHEMATICS IN ENGINEERING",
+        "csp": "SCIENCE AND AEROSPACE, vol. 1, p. 303-317, ISSN: 2041-3173",
+        "anno": "2010",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2010). Information Complexity of Infinite",
+        "Dimensional Optimization Problems and Their Approximation Schemes.",
+        "MATHEMATICS IN ENGINEERING, SCIENCE AND AEROSPACE, vol. 1,",
+        "p. 303-317, ISSN: 2041-3173"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "47",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10957-009-9620-6"
+        ],
+        "titolo": "Estimates of Variation with Respect to a Set and Applications to Optimization Problems",
+        "ISSN": [
+          "0022-3239"
+        ],
+        "journal": "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS",
+        "csp": "vol. 145, p. 53-75, ISSN: 0022-3239, doi: 10.1007/s10957-009-9620-6",
+        "anno": "2010",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2010). Estimates of Variation with Respect to a",
+        "Set and Applications to Optimization Problems. JOURNAL OF",
+        "OPTIMIZATION THEORY AND APPLICATIONS, vol. 145, p. 53-75, ISSN:",
+        "0022-3239, doi: 10.1007/s10957-009-9620-6"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "48",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/S11590-009-0158-1"
+        ],
+        "titolo": "Error Bounds for Suboptimal Solutions to Kernel Principal Component Analysis",
+        "ISSN": [
+          "1862-4472"
+        ],
+        "journal": "OPTIMIZATION LETTERS",
+        "csp": "vol. 4, p. 197-210, ISSN: 1862-4472, doi: 10.1007/S11590-009-0158-1",
+        "anno": "2010",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2010). Error Bounds for Suboptimal Solutions to",
+        "Kernel Principal Component Analysis. OPTIMIZATION LETTERS, vol. 4, p.",
+        "197-210, ISSN: 1862-4472, doi: 10.1007/S11590-009-0158-1"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "49",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Editorial for the Special Issue: Mathematical Problems in Engineering, Aerospace, and Sciences",
+        "ISSN": [
+          "1312-885X"
+        ],
+        "journal": "APPLIED MATHEMATICAL SCIENCES",
+        "csp": "vol. 4, p. 3621-3624, ISSN: 1312-885X",
+        "anno": "2010",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2010). Editorial for the Special Issue:",
+        "Mathematical Problems in Engineering, Aerospace, and Sciences.",
+        "APPLIED MATHEMATICAL SCIENCES, vol. 4, p. 3621-3624, ISSN:",
+        "1312-885X"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "50",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.ipl.2010.08.011"
+        ],
+        "titolo": "On Spectral Windows in Supervised Learning From Data",
+        "ISSN": [
+          "0020-0190"
+        ],
+        "journal": "INFORMATION PROCESSING LETTERS",
+        "csp": "vol. 110, p. 1031-1036, ISSN: 0020-0190, doi: 10.1016/j.ipl.2010.08.011",
+        "anno": "2010",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2010). On Spectral Windows in Supervised",
+        "Learning From Data. INFORMATION PROCESSING LETTERS, vol. 110,",
+        "p. 1031-1036, ISSN: 0020-0190, doi: 10.1016/j.ipl.2010.08.011"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "51",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1162/NECO.2009.05-08-786"
+        ],
+        "titolo": "Regularization Techniques and Suboptimal Solutions to Optimization Problems in Learning from Data",
+        "ISSN": [
+          "0899-7667"
+        ],
+        "journal": "NEURAL COMPUTATION",
+        "csp": "vol. 22, p. 793-829, ISSN: 0899-7667, doi: 10.1162/NECO.2009.05-08-786",
+        "anno": "2010",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2010). Regularization Techniques and",
+        "Suboptimal Solutions to Optimization Problems in Learning from Data.",
+        "NEURAL COMPUTATION, vol. 22, p. 793-829, ISSN: 0899-7667, doi:",
+        "10.1162/NECO.2009.05-08-786"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "52",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10957-010-9680-7"
+        ],
+        "titolo": "Suboptimal Solutions to Dynamic Optimization Problems via Approximations of the Policy Functions",
+        "ISSN": [
+          "0022-3239"
+        ],
+        "journal": "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS",
+        "csp": "vol. 146, p. 764-794, ISSN: 0022-3239, doi: 10.1007/s10957-010-9680-7",
+        "anno": "2010",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2010). Suboptimal Solutions to Dynamic",
+        "Optimization Problems via Approximations of the Policy Functions.",
+        "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS, vol. 146,",
+        "p. 764-794, ISSN: 0022-3239, doi: 10.1007/s10957-010-9680-7"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "53",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "440-451",
+        "doi": [
+          "10.1007/978-3-642-11266-9_37"
+        ],
+        "titolo": "Smooth Optimal Decision Strategies for Static Team Optimization Problems and their Approximations",
+        "ISBN": [
+          "978-3-642-11265-2"
+        ],
+        "csp": "Berlin Heidelberg:Springer, ISBN: 978-3-642-11265-2, doi: 10.1007/978-3-642-11266-9_37",
+        "opera": "Van Leeuwen J, et al.. Lecture Notes in Computer Science. vol. 5901, p",
+        "anno": "2010",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Gnecco G, Sanguineti M (2010). Smooth Optimal Decision Strategies for",
+        "Static Team Optimization Problems and their Approximations. In: Van",
+        "Leeuwen J, et al.. Lecture Notes in Computer Science. vol. 5901, p.",
+        "440-451, Berlin Heidelberg:Springer, ISBN: 978-3-642-11265-2, doi:",
+        "10.1007/978-3-642-11266-9_37"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "54",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "358-367",
+        "doi": [
+          "10.1007/978-3-642-15825-4_48"
+        ],
+        "titolo": "Some Comparisons of Model Complexity in Linear and Neural-Network Approximation",
+        "ISBN": [
+          "978-3-642-04002-3"
+        ],
+        "csp": "Berlin-Heidelberg:Springer, ISBN: 978-3-642-04002-3, doi: 10.1007/978-3-642-15825-4_48",
+        "opera": "(a cura di): Diamantaras K; Duch W; Iliadis L S, Lecture Notes in Computer Science. vol. 6354, p",
+        "anno": "2010",
+        "autori": "Gnecco G, Kurkova V, Sanguineti M"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Gnecco G, Kurkova V, Sanguineti M (2010). Some Comparisons of Model",
+        "Complexity in Linear and Neural-Network Approximation. In: (a cura di):",
+        "Diamantaras K; Duch W; Iliadis L S, Lecture Notes in Computer Science.",
+        "vol. 6354, p. 358-367, Berlin-Heidelberg:Springer, ISBN:",
+        "978-3-642-04002-3, doi: 10.1007/978-3-642-15825-4_48"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "55",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10589-007-9108-y"
+        ],
+        "titolo": "Accuracy of Suboptimal Solutions to Kernel Principal Component Analysis",
+        "ISSN": [
+          "0926-6003"
+        ],
+        "journal": "COMPUTATIONAL OPTIMIZATION AND APPLICATIONS",
+        "csp": "vol. 42, p. 265-287, ISSN: 0926-6003, doi: 10.1007/s10589-007-9108-y",
+        "anno": "2009",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2009). Accuracy of Suboptimal Solutions to",
+        "Kernel Principal Component Analysis. COMPUTATIONAL OPTIMIZATION",
+        "AND APPLICATIONS, vol. 42, p. 265-287, ISSN: 0926-6003, doi:",
+        "10.1007/s10589-007-9108-y"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "56",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10287-008-0072-5"
+        ],
+        "titolo": "The Weight-Decay Technique in Learning from Data: An Optimization Point of View",
+        "ISSN": [
+          "1619-697X"
+        ],
+        "journal": "COMPUTATIONAL MANAGEMENT SCIENCE",
+        "csp": "vol. 6, p. 53-79, ISSN: 1619-697X, doi: 10.1007/s10287-008-0072-5",
+        "anno": "2009",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2009). The Weight-Decay Technique in Learning",
+        "from Data: An Optimization Point of View. COMPUTATIONAL",
+        "MANAGEMENT SCIENCE, vol. 6, p. 53-79, ISSN: 1619-697X, doi:",
+        "10.1007/s10287-008-0072-5"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "57",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "113-154",
+        "doi": [
+          "10.1007/978-3-642-04003-0_6"
+        ],
+        "titolo": "Regularization and Suboptimal Solutions in Learning from Data",
+        "ISBN": [
+          "978-364204002-3"
+        ],
+        "csp": "Springer, ISBN: 978-364204002-3, doi: 10.1007/978-3-642-04003-0_6",
+        "opera": "(a cura di): Diamantaras K; Duch W; Iliadis L S, Innovations in Neural Information Paradigms and Applications. vol. 247, p",
+        "anno": "2009",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Gnecco G, Sanguineti M (2009). Regularization and Suboptimal Solutions",
+        "in Learning from Data. In: (a cura di): Diamantaras K; Duch W; Iliadis L S,",
+        "Innovations in Neural Information Paradigms and Applications. vol. 247, p.",
+        "113-154, Springer, ISBN: 978-364204002-3, doi:",
+        "10.1007/978-3-642-04003-0_6"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "58",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Approximation Error Bounds via Rademacher Complexity",
+        "ISSN": [
+          "1312-885X"
+        ],
+        "journal": "APPLIED MATHEMATICAL SCIENCES",
+        "csp": "vol. 2, p. 153-176, ISSN: 1312-885X",
+        "anno": "2008",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2008). Approximation Error Bounds via",
+        "Rademacher Complexity. APPLIED MATHEMATICAL SCIENCES, vol. 2,",
+        "p. 153-176, ISSN: 1312-885X"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "59",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Computationally Efficient Approximation Schemes for Functional Optimization",
+        "ISSN": [
+          "1535-6698"
+        ],
+        "journal": "INTERNATIONAL JOURNAL OF COMPUTER RESEARCH",
+        "csp": "vol. 17, p. 153-189, ISSN: 1535-6698",
+        "anno": "2008",
+        "autori": "Alessandri A, Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Alessandri A, Gnecco G, Sanguineti M (2008). Computationally Efficient",
+        "Approximation Schemes for Functional Optimization. INTERNATIONAL",
+        "JOURNAL OF COMPUTER RESEARCH, vol. 17, p. 153-189, ISSN:",
+        "1535-6698"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "60",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1155/2008/640758"
+        ],
+        "titolo": "Estimates of the Approximation Error via Rademacher Complexity: Learning Vector-Valued Functions",
+        "ISSN": [
+          "1025-5834"
+        ],
+        "journal": "JOURNAL OF INEQUALITIES AND APPLICATIONS",
+        "csp": "p. 1-16, ISSN: 1025-5834, doi: 10.1155/2008/640758",
+        "anno": "2008",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2008). Estimates of the Approximation Error via",
+        "Rademacher Complexity: Learning Vector-Valued Functions. JOURNAL OF",
+        "INEQUALITIES AND APPLICATIONS, p. 1-16, ISSN: 1025-5834, doi:",
+        "10.1155/2008/640758"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "61",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/1726037X.2008.10698552"
+        ],
+        "titolo": "Value and Policy Function Approximations in Infinite-Horizon Optimization Problems",
+        "ISSN": [
+          "1726-037X"
+        ],
+        "journal": "JOURNAL OF DYNAMICAL SYSTEMS AND GEOMETRIC THEORIES",
+        "csp": "vol. 6, p. 123-147, ISSN: 1726-037X, doi: 10.1080/1726037X.2008.10698552",
+        "anno": "2008",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2008). Value and Policy Function Approximations",
+        "in Infinite-Horizon Optimization Problems. JOURNAL OF DYNAMICAL",
+        "SYSTEMS AND GEOMETRIC THEORIES, vol. 6, p. 123-147, ISSN:",
+        "1726-037X, doi: 10.1080/1726037X.2008.10698552"
+      ],
+      "anno": "2008"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.cor.2016.11.004"
+        ],
+        "titolo": "Optimal Distributed Task Scheduling in Volunteer Clouds",
+        "ISSN": [
+          "0305-0548"
+        ],
+        "journal": "COMPUTERS & OPERATIONS RESEARCH",
+        "csp": "vol. 81, p. 231-246, ISSN: 0305-0548, doi: 10.1016/j.cor.2016.11.004",
+        "anno": "2017",
+        "autori": "Sebastio S, Gnecco G, Bemporad A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Sebastio S, Gnecco G, Bemporad A (2017). Optimal Distributed Task",
+        "Scheduling in Volunteer Clouds. COMPUTERS & OPERATIONS",
+        "RESEARCH, vol. 81, p. 231-246, ISSN: 0305-0548, doi:",
+        "10.1016/j.cor.2016.11.004"
+      ],
+      "anno": "2017"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10957-015-0804-y"
+        ],
+        "titolo": "On the Curse of Dimensionality in the Ritz Method",
+        "ISSN": [
+          "0022-3239"
+        ],
+        "journal": "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS",
+        "csp": "vol. 168, p. 488-509, ISSN: 0022-3239, doi: 10.1007/s10957-015-0804-y",
+        "anno": "2016",
+        "autori": "Gnecco G"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G (2016). On the Curse of Dimensionality in the Ritz Method.",
+        "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS, vol. 168,",
+        "p. 488-509, ISSN: 0022-3239, doi: 10.1007/s10957-015-0804-y"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10957-014-0570-2"
+        ],
+        "titolo": "Narrowing the Search for Optimal Call-Admission Policies via a Nonlinear Stochastic Knapsack Model",
+        "ISSN": [
+          "1573-2878"
+        ],
+        "journal": "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS",
+        "csp": "vol. 164, p. 819-841, ISSN: 1573-2878, doi: 10.1007/s10957-014-0570-2",
+        "anno": "2015",
+        "autori": "Cello M, Gnecco G, Marchese M, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Cello M, Gnecco G, Marchese M, Sanguineti M (2015). Narrowing the",
+        "Search for Optimal Call-Admission Policies via a Nonlinear Stochastic",
+        "Knapsack Model. JOURNAL OF OPTIMIZATION THEORY AND",
+        "APPLICATIONS, vol. 164, p. 819-841, ISSN: 1573-2878, doi:",
+        "10.1007/s10957-014-0570-2"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1109/TNNLS.2014.2361866"
+        ],
+        "titolo": "Learning with Mixed Hard/Soft Pointwise Constraints",
+        "ISSN": [
+          "2162-237X"
+        ],
+        "journal": "IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS",
+        "csp": "vol. 26, p. 2019-2032, ISSN: 2162-237X, doi: 10.1109/TNNLS.2014.2361866",
+        "anno": "2015",
+        "autori": "Gnecco G, Gori M, Melacci S, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Gori M, Melacci S, Sanguineti M (2015). Learning with Mixed",
+        "Hard/Soft Pointwise Constraints. IEEE TRANSACTIONS ON NEURAL",
+        "NETWORKS AND LEARNING SYSTEMS, vol. 26, p. 2019-2032, ISSN:",
+        "2162-237X, doi: 10.1109/TNNLS.2014.2361866"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1162/NECO_a_00686"
+        ],
+        "titolo": "Foundations of Support Constraint Machines",
+        "ISSN": [
+          "0899-7667"
+        ],
+        "journal": "NEURAL COMPUTATION",
+        "csp": "vol. 27, p. 388-480, ISSN: 0899-7667, doi: 10.1162/NECO_a_00686",
+        "anno": "2015",
+        "autori": "Gnecco G, Gori M, Melacci S, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Gori M, Melacci S, Sanguineti M (2015). Foundations of Support",
+        "Constraint Machines. NEURAL COMPUTATION, vol. 27, p. 388-480, ISSN:",
+        "0899-7667, doi: 10.1162/NECO_a_00686"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10589-013-9614-z"
+        ],
+        "titolo": "Approximate Dynamic Programming for Stochastic N-Stage Optimization with Application to Optimal Consumption under Uncertainty",
+        "ISSN": [
+          "0926-6003"
+        ],
+        "journal": "COMPUTATIONAL OPTIMIZATION AND APPLICATIONS",
+        "csp": "vol. 58, p. 31-85, ISSN: 0926-6003, doi: 10.1007/s10589-013-9614-z",
+        "anno": "2014",
+        "autori": "Gaggero M, Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gaggero M, Gnecco G, Sanguineti M (2014). Approximate Dynamic",
+        "Programming for Stochastic N-Stage Optimization with Application to",
+        "Optimal Consumption under Uncertainty. COMPUTATIONAL",
+        "OPTIMIZATION AND APPLICATIONS, vol. 58, p. 31-85, ISSN: 0926-6003,",
+        "doi: 10.1007/s10589-013-9614-z"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1109/TNET.2012.2222924"
+        ],
+        "titolo": "Optimality Conditions for Coordinate-Convex Policies in CAC With Nonlinear Feasibility Boundaries",
+        "ISSN": [
+          "1063-6692"
+        ],
+        "journal": "IEEE-ACM TRANSACTIONS ON NETWORKING",
+        "csp": "vol. 21, p. 1363-1377, ISSN: 1063-6692, doi: 10.1109/TNET.2012.2222924",
+        "anno": "2013",
+        "autori": "Cello M, Gnecco G, Marchese M, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Cello M, Gnecco G, Marchese M, Sanguineti M (2013). Optimality",
+        "Conditions for Coordinate-Convex Policies in CAC With Nonlinear",
+        "Feasibility Boundaries. IEEE-ACM TRANSACTIONS ON NETWORKING,",
+        "vol. 21, p. 1363-1377, ISSN: 1063-6692, doi: 10.1109/TNET.2012.2222924"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10957-012-0118-2"
+        ],
+        "titolo": "Dynamic Programming and Value-Function Approximation in Sequential Decision Problems: Error Analysis and Numerical Results",
+        "ISSN": [
+          "0022-3239"
+        ],
+        "journal": "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS",
+        "csp": "vol. 156, p. 380-416, ISSN: 0022-3239, doi: 10.1007/s10957-012-0118-2",
+        "anno": "2013",
+        "autori": "Gaggero M, Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gaggero M, Gnecco G, Sanguineti M (2013). Dynamic Programming and",
+        "Value-Function Approximation in Sequential Decision Problems: Error",
+        "Analysis and Numerical Results. JOURNAL OF OPTIMIZATION THEORY",
+        "AND APPLICATIONS, vol. 156, p. 380-416, ISSN: 0022-3239, doi:",
+        "10.1007/s10957-012-0118-2"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1109/LCOMM.2012.042312.120369"
+        ],
+        "titolo": "A Model of Buffer Occupancy for ICNs",
+        "ISSN": [
+          "1089-7798"
+        ],
+        "journal": "IEEE COMMUNICATIONS LETTERS",
+        "csp": "vol. 16, p. 862-865, ISSN: 1089-7798, doi: 10.1109/LCOMM.2012.042312.120369",
+        "anno": "2012",
+        "autori": "Cello M, Gnecco G, Marchese M, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Cello M, Gnecco G, Marchese M, Sanguineti M (2012). A Model of Buffer",
+        "Occupancy for ICNs. IEEE COMMUNICATIONS LETTERS, vol. 16, p.",
+        "862-865, ISSN: 1089-7798, doi: 10.1109/LCOMM.2012.042312.120369"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1137/100803481"
+        ],
+        "titolo": "Suboptimal Solutions to Team Optimization Problems with Stochastic Information Structure",
+        "ISSN": [
+          "1052-6234"
+        ],
+        "journal": "SIAM JOURNAL ON OPTIMIZATION",
+        "csp": "vol. 22, p. 212-243, ISSN: 1052-6234, doi: 10.1137/100803481",
+        "anno": "2012",
+        "autori": "Gnecco G, Sanguineti M, Gaggero M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M, Gaggero M (2012). Suboptimal Solutions to Team",
+        "Optimization Problems with Stochastic Information Structure. SIAM",
+        "JOURNAL ON OPTIMIZATION, vol. 22, p. 212-243, ISSN: 1052-6234, doi:",
+        "10.1137/100803481"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "11",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1109/TIT.2010.2090198"
+        ],
+        "titolo": "On a Variational Norm Tailored to Variable-Basis Approximation Schemes",
+        "ISSN": [
+          "0018-9448"
+        ],
+        "journal": "IEEE TRANSACTIONS ON INFORMATION THEORY",
+        "csp": "vol. 57, p. 549-558, ISSN: 0018-9448, doi: 10.1109/TIT.2010.2090198",
+        "anno": "2011",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2011). On a Variational Norm Tailored to",
+        "Variable-Basis Approximation Schemes. IEEE TRANSACTIONS ON",
+        "INFORMATION THEORY, vol. 57, p. 549-558, ISSN: 0018-9448, doi:",
+        "10.1109/TIT.2010.2090198"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "12",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10957-010-9680-7"
+        ],
+        "titolo": "Suboptimal Solutions to Dynamic Optimization Problems via Approximations of the Policy Functions",
+        "ISSN": [
+          "0022-3239"
+        ],
+        "journal": "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS",
+        "csp": "vol. 146, p. 764-794, ISSN: 0022-3239, doi: 10.1007/s10957-010-9680-7",
+        "anno": "2010",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2010). Suboptimal Solutions to Dynamic",
+        "Optimization Problems via Approximations of the Policy Functions.",
+        "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS, vol. 146,",
+        "p. 764-794, ISSN: 0022-3239, doi: 10.1007/s10957-010-9680-7"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "13",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10957-010-9720-3"
+        ],
+        "titolo": "Minimizing Sequences for a Family of Functional Optimal Estimation Problems",
+        "ISSN": [
+          "0022-3239"
+        ],
+        "journal": "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS",
+        "csp": "vol. 147, p. 243-262, ISSN: 0022-3239, doi: 10.1007/s10957-010-9720-3",
+        "anno": "2010",
+        "autori": "Alessandri A, Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Alessandri A, Gnecco G, Sanguineti M (2010). Minimizing Sequences for a",
+        "Family of Functional Optimal Estimation Problems. JOURNAL OF",
+        "OPTIMIZATION THEORY AND APPLICATIONS, vol. 147, p. 243-262,",
+        "ISSN: 0022-3239, doi: 10.1007/s10957-010-9720-3"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "14",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10957-009-9620-6"
+        ],
+        "titolo": "Estimates of Variation with Respect to a Set and Applications to Optimization Problems",
+        "ISSN": [
+          "0022-3239"
+        ],
+        "journal": "JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS",
+        "csp": "vol. 145, p. 53-75, ISSN: 0022-3239, doi: 10.1007/s10957-009-9620-6",
+        "anno": "2010",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2010). Estimates of Variation with Respect to a",
+        "Set and Applications to Optimization Problems. JOURNAL OF",
+        "OPTIMIZATION THEORY AND APPLICATIONS, vol. 145, p. 53-75, ISSN:",
+        "0022-3239, doi: 10.1007/s10957-009-9620-6"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "15",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10287-008-0072-5"
+        ],
+        "titolo": "The Weight-Decay Technique in Learning from Data: An Optimization Point of View",
+        "ISSN": [
+          "1619-697X"
+        ],
+        "journal": "COMPUTATIONAL MANAGEMENT SCIENCE",
+        "csp": "vol. 6, p. 53-79, ISSN: 1619-697X, doi: 10.1007/s10287-008-0072-5",
+        "anno": "2009",
+        "autori": "Gnecco G, Sanguineti M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Gnecco G, Sanguineti M (2009). The Weight-Decay Technique in Learning",
+        "from Data: An Optimization Point of View. COMPUTATIONAL",
+        "MANAGEMENT SCIENCE, vol. 6, p. 53-79, ISSN: 1619-697X, doi:",
+        "10.1007/s10287-008-0072-5"
+      ],
+      "anno": "2009"
+    }
+  ],
+  "general": {
+    "settore": "13/D4",
+    "progr": "48984",
+    "nome": "GNECCO Giorgio Stefano",
+    "fascia": "Prima"
+  },
+  "titoli": {
+    "Direzione o partecipazione a comitati editoriali di riviste, collane editoriali, enciclopedie e": [
+      {
+        "content": "Guest Editor of the Special Issue \u201cMathematical Problems in Engineering\u201d in the international journal \u201cApplied Mathematical Sciences\u201d (indexed in Scopus).",
+        "periodo": "dal 01-08-2010 al 31-08-2010"
+      },
+      {
+        "content": "Associate Editor for the international journal \u201cMathematics in Engineering, Science and Aerospace\u201d.",
+        "periodo": "dal 01-03-2011 a oggi"
+      },
+      {
+        "content": "Associate Editor for the international journal \u201cIEEE Transactions on Neural Networks and Learning Systems\u201d (indexed in both ISI and Scopus). According to the ISI Impact Factor 2015, the journal is in the first quartile in ISI according to 4 different subject categories.",
+        "periodo": "dal 01-01-2013 a oggi"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Participation at conferences as speaker: \u20222nd International Workshop on Optimization, Machine Learning and Big Data (MOD 2016), Volterra, Italy, August 26th-29th, 2016 \u202224th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2016), Bruges, Belgium, September 27th-29th, 2016 \u202245th Conference of the Italian Operational Research Society (AIRO 2015), Pisa, Italy, September 7th-10th, 2015 \u202214th IEEE European Control Conference (IEEE ECC 2015), Linz, Austria, July 15th-17th, 2015 \u202253rd IEEE International Conference on Decision and Control (IEEE CDC 2014), Los Angeles, CA, USA, December 15th-17th, 2014 \u202244th Conference of the Italian Operational Research Society (AIRO 2014), Como, Italy, September 2nd-5th, 2014 \u202220th Conference of the International Federation of Operational Research Societies (IFORS 2014), Barcelona, Spain, July 13rd-18th, 2014 \u20223rd International Conference on Arts and Technology (ArtsIT 2013), Milan, Italy, March 21st-23rd, 2013 \u20226th Winter Conference of the Italian Operational Research Society (AIRO Winter 2011), Cortina d'Ampezzo, Italy, February 7th-12th, 2011 \u202224th International Conference of the Association of European Operational Research Societies (EURO 2010), Lisbon, Portugal, July 11th-14th, 2010 \u202236th International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM 2010), \u0160pindler\u016fv Ml\u00fdn, Czech Republic, January 23rd-29th, 2010 \u2022International Network Optimization Conference (INOC 2009), Pisa, Italy, April 26th-29th, 2009 \u202240th Conference of the Italian Operational Research Society (AIRO 2009), Siena, Italy, September 8th-11th, 2009 \u202238th Conference of the Italian Operational Research Society (AIRO 2007), Genoa, Italy, September 5th-8th, 2007",
+        "periodo": "dal 05-09-2007 al 29-08-2016"
+      },
+      {
+        "content": "Invited talks: \u2022October 22nd, 2007: invited talk at the Institute of Computer Science - Academy of Science, Prague, Czech Republic \u2022October 7th, 2009: invited talk at the seminar SLIPGURU - DISI, University of Genoa, Italy \u2022February 21st, 2012: invited talk at the seminar \u201cOptimization and Game Theory\u201d, DIMA, University of Genoa, Italy \u2022 May 8th, 2012: invited talk at the research center \u201cCasa Paganini - Infomus\u201d, University of Genoa, Italy \u2022December 10th, 2014: invited talk at the third Italian Workshop on Machine Learning and Data Mining, University of Pisa, Italy \u2022May 7th, 2015: invited talk at the Workshop on \u201cVariational Analysis, Game Theory and Related Topics\u201d, University of Genoa, Italy \u2022September 22nd, 2015: invited talk at the fourth Italian Workshop on Machine Learning and Data Mining, University of Ferrara, Italy \u2022February 16th, 2016: invited talk at Scuola Superiore Sant\u2019Anna, Pisa, Italy",
+        "periodo": "dal 22-10-2007 al 16-02-2016"
+      },
+      {
+        "content": "2008: Scientific Secretary of the Local Organizing Committee of the 7th Int. Conf. \u201cMathematical Problems in Engineering, Aerospace, and Sciences\u201d (ICNPAA 2008)",
+        "periodo": "dal 25-06-2008 al 27-06-2008"
+      },
+      {
+        "content": "Scientific/organization activity: Member of the Int. Program Committees of \u20222014-2017: Int. Conf. on Operations Research and Enterprise Systems (ICORES 2014, 2015, 2016, 2017, 2018) \u20222017: Member of the Int. Program Committee of the 3rd Int. Workshop on Machine Learning, Optimization and Big Data (MOD 2017) \u20222016: Int. Conf. on Artificial Intelligence Applications and Innovations (AIAI 2016) \u20222011-2017: Int. Conf. on Engineering Applications of Neural Networks (EANN 2011, 2012, 2013, 2014, 2015, 2017) \u20222014: 16th ACM Int. Conf. on Multimedia Interaction (ICMI 2014) \u20222010, 2014: Int. Conf. on Artificial Neural Networks (ICANN 2010, 2014) \u20222014: 2014 Int. Joint Conf. on Neural Networks (IJCNN 2014)",
+        "periodo": "dal 01-01-2010 a oggi"
+      },
+      {
+        "content": "Organization of seminars at IMT - School for Advanced Studies, Lucca: \u2022July 18th, 2016; October 14th, 2015; March 2nd, 2015; July 10th, 2014: V\u0115ra K\u016frkova, Institute of Computer Science, Academy of Sciences of the Czech Republic \u2022July 18th, 2016; July 10th, 2014: Paul C. Kainen, Department of Mathematics and Statistics, Georgetown University, Washington, USA",
+        "periodo": "dal 10-07-2014 al 18-07-2016"
+      },
+      {
+        "content": "Participation at conferences as session chair: \u2022IFORS 2014, Barcelona, Spain, July 13rd -18th, 2014",
+        "periodo": "dal 13-07-2014 al 18-07-2014"
+      }
+    ],
+    "Responsabilita' di studi e ricerche scientifiche affidati da qualificate istituzioni pubbliche o": [
+      {
+        "content": "Collaboration with the Dept. of Biophysical and Electronic Engineering (DIBE) - University of Genoa (Prof. B. Bianco) on \u201cDefinition of optimality criteria for the choice of the parameters for the Cole-Davidson model, and application to a particular case\u201d.",
+        "periodo": "dal 01-06-2005 al 30-06-2005"
+      },
+      {
+        "content": "Collaboration with the Dept. of Communications, Computer, and System Sciences (DIST) - University of Genoa (Prof. R. Zoppoli), on \u201cComparison between linear and nonlinear one-hidden layer approximating networks\u201d.",
+        "periodo": "dal 05-04-2011 al 04-05-2011"
+      }
+    ],
+    "Partecipazione al collegio dei docenti ovvero attribuzione di incarichi di insegnamento,": [
+      {
+        "content": "Supervisor of the Ph.D. student Mohammed Abdelsamea at IMT - School for Advaced Studies, Lucca. Title of the thesis: \u201cRegional Active Contours Based on Variational Level Sets and Machine Learning for Image Segmentation\u201d. The Ph.D. student Mohammed Abdelsamea was the first in his track to complete the Ph.D. at IMT Lucca in March 2015.",
+        "periodo": "dal 06-09-2013 al 02-03-2015"
+      },
+      {
+        "content": "\u2022Academic Year 2013-2014: teacher of the Ph.D. Course \u201cOptimal Control\u201d at IMT - School for Advanced Studies, Lucca (20 hours, Ph.D. track in Computer, Decision, and System Science, and Ph.D. track in Economics).",
+        "periodo": "dal 15-11-2013 al 31-01-2014"
+      },
+      {
+        "content": "Supervisor of the Ph.D. student Rita Morisi at IMT - School for Advanced Studies, Lucca. Title of the thesis: \u201cGraph-based Techniques and Spectral Graph Theory in Control and Machine Learning\u201d). The Ph.D. student Rita Morisi was among the first in her track to complete the Ph.D. in July 2016.",
+        "periodo": "dal 30-11-2013 al 17-07-2016"
+      },
+      {
+        "content": "\u20222014: Ph.D. (Mathematics) thesis committee member at UniRomaTre. Student: Danilo Costarelli. Title of the thesis: \u201cSigmoidal Functions Approximation and Applications\u201d.",
+        "periodo": "dal 26-02-2014 al 26-02-2014"
+      },
+      {
+        "content": "\u2022Academic Year 2014-2015: teacher of the Ph.D. Course \u201cOptimal Control\u201d at IMT - School for Advanced Studies, Lucca (20 hours, Ph.D. tracks in: Computer Science, Control Systems, Image Analysis, Management Science, Economics, Computational Mechanics, Complex Networks).",
+        "periodo": "dal 15-11-2014 al 31-01-2015"
+      },
+      {
+        "content": "\u2022Academic Year 2014-2015: teacher of the Ph.D. Course \u201cAn Introduction do Dynamic Optimization and Optimal Control: Models, Solutions, and Approximations\u201d at the University of Genoa (20 hours).",
+        "periodo": "dal 16-03-2015 al 20-03-2015"
+      },
+      {
+        "content": "\u2022Academic Year 2015-2016: teacher of the Ph.D. Course \u201cOptimal Control\u201d at IMT - School for Advanced Studies, Lucca (20 hours + 10 hours of review of Linear Algebra, Ph.D. tracks in: Computer Science and System Engineering and Economics, Management and Data Science).",
+        "periodo": "dal 15-11-2015 al 30-01-2016"
+      },
+      {
+        "content": "\u2022Academic Year 2015-2016: teacher of the Ph.D. Course \u201cAn Introduction do Dynamic Optimization and Optimal Control: Models, Solutions, and Approximations\u201d at the University of Genoa.",
+        "periodo": "dal 14-03-2016 al 18-03-2016"
+      },
+      {
+        "content": "\u2022Academic Year 2016-2017: 2-hours lecture (October 10th, 2016) at IMT - School for Advanced Studies, Lucca on \u201cLASSO estimation\u201d within the Ph.D. Course \u201cAnalytics and Data Science in Economics and Management, II\u201d held by Prof. Massimo Riccaboni (Ph.D. track in Economics, Management and Data Science).",
+        "periodo": "dal 10-10-2016 al 10-10-2016"
+      },
+      {
+        "content": "\u2022Academic Year 2016-2017: teacher of the Ph.D. Course \u201cMatrix Algebra\u201d at IMT - School for Advanced Studies, Lucca (10 hours, Ph.D. track in Economics, Management and Data Science).",
+        "periodo": "dal 15-11-2016 al 30-11-2016"
+      },
+      {
+        "content": "\u2022Academic Year 2016-2017: teacher of the Ph.D. Course \u201cOptimal Control\u201d at IMT - School for Advanced Studies, Lucca (20 hours, Ph.D. tracks in: Computer Science and System Engineering and Economics, Management and Data Science).",
+        "periodo": "dal 30-11-2016 al 30-01-2017"
+      },
+      {
+        "content": "Co-advisor of a Master\u2019s Degree thesis in Mathematics (topic: game theory) at the University of Genoa (student: Alessio Cirimele)",
+        "periodo": "dal 15-12-2016 al 15-12-2016"
+      },
+      {
+        "content": "Reviewer of a Ph.D. thesis in Information Engineering and Science (topic: machine learning) at the University of Siena. Student: Alessandro Rossi.",
+        "periodo": "dal 13-03-2017 al 17-03-2017"
+      },
+      {
+        "content": "\u2022Academic Year 2016-2017: teacher of the Ph.D. Course \u201cAn Introduction do Dynamic Optimization and Optimal Control: Models, Solutions, and Approximations\u201d at the University of Genoa.",
+        "periodo": "dal 13-03-2017 al 17-03-2017"
+      }
+    ],
+    "Formale attribuzione di incarichi di insegnamento o di ricerca (fellowship) presso": [
+      {
+        "content": "Visiting scientist at the Institute of Computer Science of the Academy of Sciences of the Czech Republic, Prague (joint research with Prof. V\u0115ra K\u016frkov\u00e1 on machine learning and neural networks).",
+        "periodo": "dal 10-10-2007 al 30-10-2007"
+      },
+      {
+        "content": "Visiting scientist at the University of Cambridge, UK (joint research with Prof. B\u00e9la Bollob\u00e1s on percolation applied to telecommunications networks).",
+        "periodo": "dal 27-05-2016 al 30-05-2016"
+      }
+    ],
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "\u201cLaurea Quinquennale\u201d (Master's Degree) in Telecommunications Engineering (2004, University of Genoa, 110/110 cum Laude). Thesis: \u201cApplication of Support Vector Machines to Optimal Control Problems\u201d. Supervisors: Proff. Marcello Sanguineti and Riccardo Zoppoli. Average examination mark before the thesis defense: about 29.54/30.",
+        "periodo": "dal 31-12-2004 al 31-12-2004"
+      },
+      {
+        "content": "Member of the NOCC laboratory (Nonlinear Optimization, Complexity, and Control Laboratory) at DIST - University of Genoa.",
+        "periodo": "dal 01-01-2005 al 30-06-2012"
+      },
+      {
+        "content": "Reviewer activity for international journals: \u2022Theoretical Computer Science (2 papers). \u2022SIAM Journal on Optimization (1 paper). \u2022Pattern Recognition Letters (1 paper). \u2022Optik - International Journal for Light and Electron Optics (1 paper). \u2022Neurocomputing (18 papers). \u2022Neural Processing Letters (23 papers). \u2022Neural Networks (14 papers). \u2022Neural Computing & Applications (5 papers). \u2022Neural Computation (1 paper). \u2022Networks (1 paper). \u2022Journal of Optimization Theory and Applications (1 paper). \u2022International Journal of Information Technology & Decision Making (2 papers). \u2022International Journal of Human - Computer Studies (1 paper). \u2022International Journal of Computer Mathematics (1 paper). \u2022Intelligent Service Robotics (1 paper). \u2022Intelligent Systems in Accounting, Finance and Management (1 paper). \u2022IET Image Processing (1 paper). \u2022IEEE Transactions on Neural Networks and Learning Systems, formerly IEEE Transactions on Neural Networks (33 papers). \u2022IEEE Transactions on Automatic Control (6 papers). \u2022IEEE Systems Journal (5 papers). \u2022IEEE Journal of Biomedical and Health Informatics (1 paper). \u2022IEEE Communications Letters (3 papers). \u2022Expert Systems with Applications (2 papers). \u2022Environmental Modelling & Software (2 papers). \u2022Engineering Applications of Artificial Intelligence (1 paper). \u2022Computational Management Science (1 paper). \u2022Computational Intelligence and Neuroscience (1 paper). \u2022Central European Journal of Mathematics (1 paper). \u2022Automatica (1 paper). \u2022Applied Mathematical Sciences (15 papers).",
+        "periodo": "dal 01-01-2006 a oggi"
+      },
+      {
+        "content": "Master's degree level teaching at the University of Genoa: \u2022Academic Year 2012-13: assistant lecturer and exerciser within the Courses: - Operations Research (\u201cLaurea Magistrale\u201d in Logistics and Transportation Engineering); - Business Management and Operations Research (\u201cLaurea Magistrale\u201d in Electronic Engineering); - Operations Research (\u201cLaurea Magistrale\u201d in Informatics Engineering); - Operations Research 1 (\u201cLaurea Triennale\u201d in Management Engineering - Savona, University Campus). \u2022Academic Year 2011-12: assistant lecturer and exerciser (10 hours) within the Course of Operations Research (\u201cLaurea Magistrale\u201d in Logistics and Transportation Engineering. \u2022Academic Year 2011-12: contract Assistant Professor (40 hours) within the Courses: -Operations Research (\u201cLaurea Magistrale\u201d in Informatics Engineering); -Business Management and Operations Research \u201c(Laurea Magistrale\u201d in Electronic Engineering). \u2022Academic Year 2010-11: contract Assistant Professor (30 hours) within the Course of Mathematical Methods, Statistics, and Operations Research (\u201cLaurea Magistrale\u201d in Logistics and Transportation Engineering). \u2022Academic Year 2007-08: contract Assistant Professor (30 hours) within the Course of Operations Research 1 (\u201cLaurea\u201d in Electronic Engineering). \u2022Academic Year 2006-07: contract Assistant Professor (30 hours; art. 33 Statuto University of Genoa) within the Course of Operations Research 1 (\u201cLaurea\u201d in Civil and Environmental Engineering). \u2022Academic Year 2006-07: contract Assistant Professor (30 hours; art. 33 Statuto University of Genoa) within the Course of Operations Research 1 (\u201cLaurea\u201d in Electronic Engineering). \u2022Since 2007: qualified expert (\u201cCultore della Materia\u201d) in Operations Research, within the \u201cLaurea\u201d courses in Logistics and Transportation Engineering, Informatics Engineering, Telecommunications Engineering, and Management Engineering. \u20222005-06: contract for the drafting of the lecture notes for the Course of Operations Research 1 (\u201cLaurea\u201d in Electronic Engineering).",
+        "periodo": "dal 01-01-2006 al 05-09-2013"
+      },
+      {
+        "content": "Post-Laurea training: Ph.D. courses at the University of Genoa \u2022 \u201cStochastic Processes\u201d (E. Sasso). \u2022 \u201cCalculus of Variations\u201d (D. Percivale and T. Zolezzi). \u2022 \u201cElliptic Equations and Sobolev Spaces\u201d (M. Chicco). \u2022 \u201cRegularization Methods for High-Dimensional Learning\u201d (F. Odone and L. Rosasco). Ph.D. courses at other universities \u2022 \u201cA Short Course in Nonlinear Optimization\u201d (A. Wachter, IBM TJ Watson Research NY) - University of Bologna, Italy, March 2007. \u2022 EURO-FGI course \u201cGame Theory with Application to Telecommunications\u201d (V. Fragnelli) - University of Eastern Piedmont, December 10th -14th, 2007. \u2022 \u201cA Short Course in Convex Optimization\u201d (K. Scheinberg, Columbia University, NY) - University of Bologna, July 2009. International schools and workshops \u2022\u201cThe Analysis of Patterns\u201d - \u201cEttore Majorana Center\u201d, Erice, Italy - October 28th-November 6th, 2005. \u2022\u201cMathematical Foundations of Learning Theory - II\u201d - Paris, \u00c9cole Normale Superieure, May-June 2006. \u2022Workshop \u201cComplex Networks - Equilibrium and Vulnerability Analysis with Applications\u201d (A. Nagurney, University of Massachusetts at Amherst) - University of Catania, March 10th-12th, 2008. \u2022\u201cGraph Theory, Algorithms and Applications\u201d-\u201cEttore Majorana Center\u201d, Erice, Italy, September 8th-16th, 2008. \u2022\u201cC.I.R.O. Summer School\u201d, Bertinoro, Italy, June 28th-July 3rd, 2010.",
+        "periodo": "dal 01-01-2006 al 31-12-2010"
+      },
+      {
+        "content": "Member of EURO (Association of European Operational Research Societies).",
+        "periodo": "dal 01-01-2007 a oggi"
+      },
+      {
+        "content": "2007-2011, 2014, 2015: Member of AIRO (Italian Operational Research Society).",
+        "periodo": "dal 01-01-2007 al 31-12-2015"
+      },
+      {
+        "content": "Reviewer activity for international conferences: \u2022Int. Conf. on Adaptive and Natural Computing Algorithms, 2007 (1 paper). \u202247 th IEEE Conf. on Decision and Control, 2008 (1 paper). \u2022Int. Conf. on Artificial Neural Networks, 2008 (1 paper). \u2022Int. Conf. on Artificial Neural Networks, 2009 (10 papers). \u202248 th IEEE Conf. on Decision and Control, 2009 (1 paper). \u202249 th IEEE Conf. on Decision and Control, 2010 (1 paper). \u2022Int. Conf. on Artificial Neural Networks, 2010 (5 papers). \u2022Int. Conf. on Informatics in Control, Automation and Robotics, 2011 (2 papers). \u202250 th IEEE Conf. on Decision and Control and European Control Conf., 2011 (1 paper). \u202212 th Int. Conf. on Engineering Applications of Neural Networks, 2011 (3 papers). \u202213 th Int. Conf. on Engineering Applications of Neural Networks, 2012 (2 papers). \u202251 st IEEE Conf. on Decision and Control and European Control Conf., 2012 (2 papers). \u20222013 IEEE American Control Conf. (2 papers). \u202252 nd IEEE Conf. on Decision and Control and European Control Conf., 2013 (2 papers). \u2022Int. Conf. on Artificial Neural Networks, 2013 (4 papers). \u202214 th Int. Conf. on Engineering Applications of Neural Networks, 2013 (1 paper). \u20226 th Int. Conf. of Students of Systematic Musicology, 2013 (3 papers). \u202215 th ACM Int. Conf. on Multimedia Interaction, 2013 (2 papers). \u20223 rd Int. Conf. on Operations Research and Enterprise Systems, 2014 (5 papers). \u202213 th IEEE European Control Conference, 2014 (1 paper). \u2022Int. Joint Conf. on Neural Networks, 2014 (4 papers). \u202220 th Int. Conf. on Artificial Neural Networks, 2014 (3 papers). \u202215 th Int. Conf. on Engineering Applications of Neural Networks, 2014 (3 papers). \u20224 th Int. Conf. on Operations Research and Enterprise Systems, 2015 (6 papers). \u2022Int. Joint Conf. on Neural Networks, 2015 (2 papers). \u202216 th Int. Conf. on Engineering Applications of Neural Networks, 2015 (2 papers). \u20225 th Int. Conf. on Operations Research and Enterprise Systems, 2016 (2 papers). \u2022Int. Joint Conf. on Neural Networks, 2016 (2 papers). \u202255 th IEEE Conf. on Decision and Control and European Control Conf., 2016 (2 papers). \u202212 th Int. Conf. on Artificial Intelligence Applications and Innovations, 2016 (2 papers). \u20226 th Int. Conf. on Operations Research and Enterprise Systems, 2017 (1 paper). \u2022Int. Joint Conf. on Neural Networks, 2017 (4 papers). \u2022Int. Conf. on Optimization and Decision Science, 47th Conf. of the Italian Operational Research Society, 2017 (2 papers).",
+        "periodo": "dal 01-01-2007 a oggi"
+      },
+      {
+        "content": "Reviewer activity for monographs: \u2022\u201cComplex-Valued Neural Networks: Utilizing High-Dimensional Parameters\u201d, T. Nitta, Ed. (Publisher: Medical Information Science Reference), 2009 (review performed in 2008, before the publication of the book).",
+        "periodo": "dal 01-10-2008 al 31-10-2008"
+      },
+      {
+        "content": "Member of GNAMPA (Italian Group for Mathematical Analysis, Probability, and their Applications), Section 2 (Calculus of Variations, Control Theory and Optimization).",
+        "periodo": "dal 01-01-2009 a oggi"
+      },
+      {
+        "content": "Ph.D. in Mathematics and Applications (2009, University of Genoa). Thesis: \u201cFunctional Optimization by Variable-Basis Approximation Schemes\u201d. Supervisor: Prof. Marcello Sanguineti.",
+        "periodo": "dal 26-05-2009 al 26-05-2009"
+      },
+      {
+        "content": "Member of CNIT (Italian Inter-University Consortium for Telecommunications).",
+        "periodo": "dal 01-01-2011 a oggi"
+      },
+      {
+        "content": "Member of the NOCC laboratory (Nonlinear Optimization, Complexity, and Control Laboratory) at DIBRIS - University of Genoa.",
+        "periodo": "dal 01-09-2012 al 05-09-2013"
+      },
+      {
+        "content": "Member of the selection committee for the admission to the Ph.D. program in Control Systems at the IMT - School for Advanced Studies, Lucca.",
+        "periodo": "dal 06-09-2013 a oggi"
+      },
+      {
+        "content": "Member of the Academic Council at the IMT -School for Advanced Studies, Lucca, as a representative of researchers.",
+        "periodo": "dal 03-12-2013 al 31-07-2015"
+      },
+      {
+        "content": "Italian National Scientific Qualification for the role of Associate Professor in Operations Research (MAT/09).",
+        "periodo": "dal 20-12-2013 a oggi"
+      },
+      {
+        "content": "Member of AI*IA (Italian Association for Artificial Intelligence).",
+        "periodo": "dal 01-01-2014 al 31-12-2015"
+      },
+      {
+        "content": "Italian National Scientific Qualification for the role of Associate Professor in Computer Science (INF/01).",
+        "periodo": "dal 09-01-2014 a oggi"
+      },
+      {
+        "content": "Member of the selection committee for a Post-Doc position at the IMT - School for Advanced Studies, Lucca.",
+        "periodo": "dal 01-09-2014 al 30-09-2014"
+      },
+      {
+        "content": "Member of the selection committee for a research collaborator position at the IMT - School for Advanced Studies, Lucca.",
+        "periodo": "dal 01-10-2014 al 31-10-2014"
+      },
+      {
+        "content": "Member of the selection committee for an Assistant Professor position at the IMT - School for Advanced Studies, Lucca.",
+        "periodo": "dal 01-11-2014 al 30-11-2014"
+      },
+      {
+        "content": "Reviewer activity for international projects: \u2022Research project SKAT-VG, funded by the European Commission within FP7\u2013ICT\u2013 FET schema, 2015 (three review meetings: January 2015 in Venice, Italy, October 2015 in Lisbon, Portugal, and January 2017 in Paris, France).",
+        "periodo": "dal 01-01-2015 al 20-01-2017"
+      },
+      {
+        "content": "Reviewer activity for Zentralblatt MATH of published books and papers: \u2022D. P. Bertsekas, \u201cAbstract Dynamic Programming\u201d, Athena Scientific, 2013 (review performed in 2015). \u2022N. Halman, D. Klabjan, C.-L. Li, J. Orlin, D. Simchi-Levi, \u201cFully Polynomial Time Approximation Schemes for Stochastic Dynamic Programs\u201d, SIAM Journal on Discrete Mathematics, vol. 28, pp. 1725-1796, 2014 (review performed in 2015).",
+        "periodo": "dal 01-01-2015 a oggi"
+      },
+      {
+        "content": "Italian National Scientific Qualification for the role of Associate Professor in Information Processing Systems (ING-INF/05).",
+        "periodo": "dal 23-01-2015 a oggi"
+      },
+      {
+        "content": "Member of the committee for the third-year evaluation of an Assistant Professor position at the IMT - School for Advanced Studies, Lucca.",
+        "periodo": "dal 01-02-2015 al 28-02-2015"
+      },
+      {
+        "content": "Italian National Scientific Qualification for the role of Associate Professor in Mathematical Methods in Economic and Actuarial Sciences (SECS-S/06).",
+        "periodo": "dal 03-03-2015 a oggi"
+      },
+      {
+        "content": "Description of the main research activities related to the Scientific Sector \"13/D4 - Mathematical Methods in Economic and Actuarial Sciences\", and curriculum vitae containing the full list of publications (see the PDF in the attachment)",
+        "periodo": "dal 28-03-2017 al 28-03-2017"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Member of the \u201cProgetto di Ateneo 2006\u201d of the University of Genoa \u201cApplication of the extended Ritz method to control problems\u201d. Coordinator: Prof. Marco Baglietto.",
+        "periodo": "dal 01-01-2006 al 31-12-2006"
+      },
+      {
+        "content": "Member of the Italian Research Program of National Interest (PRIN - MIUR) \u201cModels and algorithms for robust network optimization\u201d. National coordinator: Prof. Matteo Fischetti. Research unit coordinator: Prof. Paola Zuddas.",
+        "periodo": "dal 01-01-2006 al 31-12-2008"
+      },
+      {
+        "content": "Member of the international project 2004-2009 \u201cLearning from data by neural networks and kernel methods: An approach based on approximate optimization\u201d (originally a 2004-2006 project, then renewed for the years 2007-2009), among University of Genoa, National Research Council of Italy, and Czech Academy of Sciences. Italian coordinator: Prof. Marcello Sanguineti. Czech coordinator: Prof. V\u0115ra K\u016frkova.",
+        "periodo": "dal 01-09-2007 al 31-12-2009"
+      },
+      {
+        "content": "Member of the \u201cProgetto di Ateneo 2008\u201d of the University di Genoa \u201cSolving functional optimization problems through nonlinear approximators and learning from data\u201d. Coordinator: Prof. Marcello Sanguineti.",
+        "periodo": "dal 01-01-2008 al 31-12-2008"
+      },
+      {
+        "content": "Member of the Italian Research Program of National Interest (PRIN-MIUR) \u201cAdaptive state estimation and adaptive optimal control\u201d. National coordinator: Prof. Giorgio Picci. Research unit coordinator: Prof. Riccardo Zoppoli.",
+        "periodo": "dal 01-01-2009 al 31-12-2010"
+      },
+      {
+        "content": "Member of the international project 2010-2012 \u201cComplexity of neural-network and kernel computational models\u201d, among University of Genoa, National Research Council of Italy, and Czech Academy of Sciences. Italian coordinator: Prof. Marcello Sanguineti. Czech coordinator: Prof. V\u0115ra K\u016frkova.",
+        "periodo": "dal 01-01-2010 al 31-12-2012"
+      },
+      {
+        "content": "Member of the DIBRIS research staff (University of Genoa) in the EU project 7FP ICT FET SIEMPRE (Social Interaction and Entrainment using Music PeRformancE: www.siempre.infomus.org). Coordinator: Prof. Antonio Camurri. In the project, I contributed in the investigation of techniques for the automated analysis of nonverbal social signals in groups of people. I also applied my competencies in music (I have two 10-years \"Conservatorio\" diplomas in violin and viola, respectively), combining them with methods of Operations Research (e.g., Game Theory).",
+        "periodo": "dal 01-01-2012 al 30-06-2013"
+      },
+      {
+        "content": "Member of the research project \u201cMethodologies for the approximate solution of team optimization problems and strategic interaction problems\u201d, granted by INdAM-GNAMPA (Italian Institute for High Mathematics, Group for Mathematical Analysis, Probability, and their Applications). Coordinator: Prof. Marcello Sanguineti.",
+        "periodo": "dal 01-01-2013 al 31-12-2013"
+      },
+      {
+        "content": "Member of the EU project 2012-2015H2020 IC EFFINET (Efficient Integrated Real-time Monitoring and Control of Drinking Water Networks: effinet.eu). Italian Coordinator: Prof. Alberto Bemporad.",
+        "periodo": "dal 06-09-2013 al 31-12-2015"
+      },
+      {
+        "content": "Director of the Research Unit of INdAM (National Institute for Advanced Mathematics) at the IMT - School for Advanced Studies, Lucca.",
+        "periodo": "dal 01-09-2016 a oggi"
+      },
+      {
+        "content": "Member of the H2020-ICT-2015 project TELMI (Technology enhanced learning of musical instrument performance). Italian Coordinator: Prof. Gualtiero Volpe.",
+        "periodo": "dal 01-02-2017 a oggi"
+      }
+    ]
+  }
+}
