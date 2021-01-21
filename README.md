@@ -21,11 +21,16 @@ We ground our analysis on the data of the candidates and commissions that took p
         - field folders: named after the alphanumeric code of the RF in the taxonomy defined by the Ministerial Decree 159 (e.g. 10-G1 and 13-D4) contain:
           - candidate file: named after the application's unique ID. A unique ID is created for each application. Therefore if a candidate casts two applications in a session, they will be assigned two unique IDs: one for each application.
  
-### 2. Bibliographic and citation data of the candidates and the commission
+ 
+### 2. Bibliographic and citation data
 
-- [**bib-cit_data**](https://github.com/sosgang/bond/tree/main/bib-cit_data): contains all the bibliographic and citation data of each candidate;  
-  - Data are divided by term, section and field
-  - Files are named after the term number, section number and field identification code, separated by a dash
+- [**bib-cit_data**](https://github.com/sosgang/bond/tree/main/bib-cit_data): contains all the bibliographic and citation data of the candidates and the commission.
+  - Candidates' data is divided into Jsons files that are named after the term the candidates applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for.
+    - Each Jsons file contains a dict of dicts. Keys are the candidates' identifiers and values are the candidates' dictionaries.
+      - Each candidate's dictionary contains:
+        - "AuIds" : the list of MAG Author Ids found for the candidates
+        - "pubbs" : the list of the publications contained in the CV represented as a list of dictionaries
+          - Each publication corresponds to a dictionary containing the ID of the publication in the CV, the year, title, and the Paper Id, the DOI, the ISSN, the ISBN of the publication when present.
   
 - ### **citmetrics** containing the citation-based metrics calculated for each candidate
   - **"complete metrics.csv"*** contains all the calculated metrics for each candidate
