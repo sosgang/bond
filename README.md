@@ -56,6 +56,15 @@ We ground our analysis on the data of the candidates and commissions that took p
         - "other_comm" : number of other publications citing a publication authored by at least one member of the commission
       - "other_nodes" : publications not authored neither by the candidate nor by any member of the commission
       
-- ["complete_metrics.csv"](https://github.com/sosgang/bond/blob/main/complete_metrics.csv) : contains the citation-based metrics calculated for each candidate:
+- ["complete_metrics.csv"](https://github.com/sosgang/bond/blob/main/complete_metrics.csv) : contains the citation-based metrics calculated for each candidate. Each row corresponds to one candidate. The columns are the following:
+  - "coverage" : number of publications listed in the candidate's CV were found in the open sources of use.
+    - "A" >= 75% or >= 15 CV publications found;
+    - "B" < 70% of CV publications but additional publications not listed in the CV were found in MAG to reach a number of found publications comparable to the original one;
+    - "C" few or no publications found;
+  - "term" : term the candidate applied in
+  - "role" : role the candidate applied for
+  - "field" : field the candidate applied for
+  - "id" : unique ID of the application
+  - "
 
 
