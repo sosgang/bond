@@ -65,6 +65,6 @@ We ground our analysis on the data of the candidates and commissions that took p
   - "role" : role the candidate applied for
   - "field" : field the candidate applied for
   - "id" : unique ID of the application
-  - "
+  - "cand":
 
 
