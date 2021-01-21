@@ -28,9 +28,11 @@ We ground our analysis on the data of the candidates and commissions that took p
   - Candidates' data is divided into Jsons files that are named after the term the candidates applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for.
     - Each Jsons file contains a dict of dicts. Keys are the candidates' identifiers and values are the candidates' dictionaries.
       - Each candidate's dictionary contains:
-        - "AuIds" : the list of MAG Author Ids found for the candidates
-        - "pubbs" : the list of the publications contained in the CV represented as a list of dictionaries
-          - Each publication corresponds to a dictionary containing the ID of the publication in the CV, the year, title, and the Paper Id, the DOI, the ISSN, the ISBN of the publication when present.
+        - "AuIds" : list of MAG Author Ids found for the candidates
+        - "pubbs" : list of publications contained in the candidate's CV as a list of dictionaries
+          - Each publication is a dictionary with year, title, Paper Id, DOI, ISSN, ISBN, citing and cited publications
+            - "citing" and "cited" : lists of citing and cited publications as lists of dictionaries
+        - "pubbs_MAG" : structured as "pubbs"
   
 - ### **citmetrics** containing the citation-based metrics calculated for each candidate
   - **"complete metrics.csv"*** contains all the calculated metrics for each candidate
