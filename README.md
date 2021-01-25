@@ -111,7 +111,7 @@ We ground our analysis on the data of the candidates and commissions that took p
 
 ### 3.1 Materials
 
-- [**cv_jsons** folder](https://github.com/sosgang/bond/tree/main/cv_jsons): the folder containing the json files extracted from the candidates' CVs. The internal structure of the folder should remain as is at the moment: cv_jsons/asn_session name/term name/role name/field name/
+- [**cv_jsons** folder](https://github.com/sosgang/bond/tree/main/cv_jsons) : the folder containing the json files extracted from the candidates' CVs. The internal structure of the folder should remain as is at the moment: cv_jsons/asn_session name/term name/role name/field name/
 - All the python files in [**data_collection** folder](https://github.com/sosgang/bond/tree/main/data_collection)
 
 ### 3.2 Execution
@@ -127,7 +127,7 @@ We ground our analysis on the data of the candidates and commissions that took p
 
 ## 4. Analyzing coverage
 
-### 4.1 Necessary materials
+### 4.1 Materials
 
 - [**bib-cit_data** folder](https://github.com/sosgang/bond/tree/main/bib-cit_data) containing all the bibliographic and citation data of the candidates and the commission. Candidates' data is divided into Jsons files that are named after the term candidates applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for.
 - The python files contained in [**coverage** folder](https://github.com/sosgang/bond/blob/main/coverage)
