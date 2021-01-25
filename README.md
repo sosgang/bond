@@ -2,12 +2,12 @@
 
 Repository containing code and data for our **"Do open citations inform the qualitative peer-review evaluation in research assessments? An analysis of the Italian National Scientific Qualification"** paper.
 
-1. [Introduction](#introduction)
+1. [Introduction](#1-introduction)
 2. [Resulting data](#2-resulting-data)
-3. [Reproducing the data collection](#reproducing-the-data-collection)
+3. [Reproducing the data collection](#3-reproducing-the-data-collection)
 
 
-## Introduction
+## 1. Introduction
 
 Our study is rooted in the context of the Italian National Scientific Qualification (NSQ). The NSQ is a national assessment exercise that qualifies scholars to the positions of Associate Professor and Full Professor. It consists of a quantitative and qualitative evaluation process, making use of both bibliometrics and a peer-review process. In the NSQ, academic disciplines are divided into two categories, i.e. citation-based disciplines (CDs) and non-citation-based disciplines (NDs). This division affects the bibliometrics used in the first part of the process. This study aims at exploring whether citation-based metrics can yield insights on how the peer-review of NDs is conducted.
 
@@ -88,7 +88,7 @@ We ground our analysis on the data of the candidates and commissions that took p
 
 ### 2.4 Coverage data
 
-- [**coverage.csv**](https://github.com/sosgang/bond/blob/main/coverage.csv) contains the coverage information calculated for each candidate. Each row corresponds to one candidate. The columns are the following:
+- [**coverage.csv**](https://github.com/sosgang/bond/blob/main/coverage/coverage.csv) contains the coverage information calculated for each candidate. Each row corresponds to one candidate. The columns are the following:
   - "cov_sect" : level of coverage of the candidate's publications by the open sources of use.
     - "A" >= 75% or >= 15 CV publications found;
     - "B" < 70% of CV publications but additional publications not listed in the CV were found in MAG to reach a number of found publications comparable to the original one;
@@ -107,7 +107,7 @@ We ground our analysis on the data of the candidates and commissions that took p
   - "combined%" : percentage of the number of publications authored by the candidate found over the total number of unique publications in the CV when the open sources of use are combined.
   - "total_CV" : total number of unique publications in the candidate's cv
  
-## Reproducing the data collection
+## 3. Reproducing the data collection
 
 ### 3.1 Necessary materials
 
@@ -125,7 +125,7 @@ We ground our analysis on the data of the candidates and commissions that took p
 ### 3.3 Citation network analysis and metrics
 - graph_analysis.py : creates and analyzes citation networks, and calculates our citation-based metrics for each candidate.
 
-### 3.4 Analyzing coverage
+### 4. Analyzing coverage
 
 
 
