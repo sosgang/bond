@@ -5,7 +5,7 @@ Repository containing code and data for our **"Do open citations inform the qual
 1. [Introduction](#1-introduction)
 2. [Resulting data](#2-resulting-data)
 3. [Reproducing the data collection](#3-reproducing-the-data-collection)
-
+4. [Analyzing coverage](#4-analyzing-coverage)
 
 ## 1. Introduction
 
@@ -30,7 +30,7 @@ We ground our analysis on the data of the candidates and commissions that took p
  
 ### 2.2 Bibliographic and citation data
 
-- [**bib-cit_data**](https://github.com/sosgang/bond/tree/main/bib-cit_data): contains all the bibliographic and citation data of the candidates and the commission. Candidates' data is divided into Jsons files that are named after the term candidates applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for. Each Jsons file contains a dict of dicts. Keys are the candidates' identifiers and values are the candidates' dictionaries. Each candidate's dictionary contains:
+- [**bib-cit_data** folder](https://github.com/sosgang/bond/tree/main/bib-cit_data): contains all the bibliographic and citation data of the candidates and the commission. Candidates' data is divided into Jsons files that are named after the term candidates applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for. Each Jsons file contains a dict of dicts. Keys are the candidates' identifiers and values are the candidates' dictionaries. Each candidate's dictionary contains:
   - "AuIds" : list of MAG Author Ids found for the candidates
   - "pubbs" : list of publications contained in the candidate's CV as a list of dictionaries
     - Each publication is a dictionary with year, title, Paper Id, DOI, ISSN, ISBN, citing and cited publications
@@ -40,7 +40,7 @@ We ground our analysis on the data of the candidates and commissions that took p
 
 ### 2.3 Citation networks and citation-based metrics
   
-- [**citmetrics**](https://github.com/sosgang/bond/tree/main/citmetrics): contains information on the citation network built for each candidate connecting her/his publications with those of her/his evaluating commission. Candidates' data is divided into Jsons files that are named after the term candidates applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for. Each Jsons file contains a dict of dicts. Keys are the candidates' identifiers and values are the candidates' dictionaries. Each candidate's dictionary contains:
+- [**citmetrics** folder](https://github.com/sosgang/bond/tree/main/citmetrics): contains information on the citation network built for each candidate connecting her/his publications with those of her/his evaluating commission. Candidates' data is divided into Jsons files that are named after the term candidates applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for. Each Jsons file contains a dict of dicts. Keys are the candidates' identifiers and values are the candidates' dictionaries. Each candidate's dictionary contains:
   - "bc" : information on the publications cited by both a publication authored by the candidate and a publication authored by at least one member of the commission.
     - "articles": dictionary where: each key is a string with the Paper Id of the publication authored by the candidated and the Paper Id of the publication authored by at least one member of the commission;  each value is the number of publications they both cite;
     - "number" : total number of unique publications cited by both a publication authored by the candidate and a publication authored by at least one member of the commission. 
@@ -109,12 +109,12 @@ We ground our analysis on the data of the candidates and commissions that took p
  
 ## 3. Reproducing the data collection
 
-### 3.1 Necessary materials
+### 3.1 Materials
 
-  - [**cv_jsons** folder](https://github.com/sosgang/bond/tree/main/cv_jsons): the folder containing the json files extracted from the candidates' CVs. The internal structure of the folder should remain as is at the moment: cv_jsons/asn_session name/term name/role name/field name/
-  - [**data_collection** folder](https://github.com/sosgang/bond/tree/main/data_collection): the folder containing the python files for the data collection process.
+- [**cv_jsons** folder](https://github.com/sosgang/bond/tree/main/cv_jsons): the folder containing the json files extracted from the candidates' CVs. The internal structure of the folder should remain as is at the moment: cv_jsons/asn_session name/term name/role name/field name/
+- All the python files in [**data_collection** folder](https://github.com/sosgang/bond/tree/main/data_collection)
 
-### 3.2 Data collection
+### 3.2 Execution
 - **bond_execution.py** : executes the entire collection process by calling all the other necessary python files, and saves the results in json format and csv.
 - meta_extraction.py : extracts the publications' metadata from the CV json files, disambiguating duplicate publications, and stores it in a dictionary.
 - add_info.py : adds other types of information to the dictionary: the full name of the candidate, the ANVUR metrics, the outcome of the NSQ and the coverage of the candidate's publications.
@@ -125,10 +125,15 @@ We ground our analysis on the data of the candidates and commissions that took p
 ### 3.3 Citation network analysis and metrics
 - graph_analysis.py : creates and analyzes citation networks, and calculates our citation-based metrics for each candidate.
 
-### 4. Analyzing coverage
+## 4. Analyzing coverage
 
+### 4.1 Necessary materials
 
+- [**bib-cit_data** folder](https://github.com/sosgang/bond/tree/main/bib-cit_data) containing all the bibliographic and citation data of the candidates and the commission. Candidates' data is divided into Jsons files that are named after the term candidates applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for.
+- The python files contained in [**coverage** folder](https://github.com/sosgang/bond/blob/main/coverage)
 
+### 4.2 Execution
 
-
+- **coverage.py** : executes the functions for calculating the coverage of the CV publications of each candidate and stores the results in a CSV file.
+- search_OA_CR.py : searches for each publication in OpenAIRE and Crossref
 
