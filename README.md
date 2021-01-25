@@ -24,40 +24,36 @@ We ground our analysis on the data of the candidates and commissions that took p
  
 ### 2. Bibliographic and citation data
 
-- [**bib-cit_data**](https://github.com/sosgang/bond/tree/main/bib-cit_data): contains all the bibliographic and citation data of the candidates and the commission. Candidates' data is divided into Jsons files that are named after the term candidates applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for.
-  - Each Jsons file contains a dict of dicts. Keys are the candidates' identifiers and values are the candidates' dictionaries.
-    - Each candidate's dictionary contains:
-      - "AuIds" : list of MAG Author Ids found for the candidates
-      - "pubbs" : list of publications contained in the candidate's CV as a list of dictionaries
-        - Each publication is a dictionary with year, title, Paper Id, DOI, ISSN, ISBN, citing and cited publications
-          - "citing" and "cited" : lists of citing and cited publications as lists of dictionaries
-      - "pubbs_MAG" : structured as "pubbs", contains the list of publications found in MAG that the candidate did not included in her/his CV
+- [**bib-cit_data**](https://github.com/sosgang/bond/tree/main/bib-cit_data): contains all the bibliographic and citation data of the candidates and the commission. Candidates' data is divided into Jsons files that are named after the term candidates applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for. Each Jsons file contains a dict of dicts. Keys are the candidates' identifiers and values are the candidates' dictionaries. Each candidate's dictionary contains:
+  - "AuIds" : list of MAG Author Ids found for the candidates
+  - "pubbs" : list of publications contained in the candidate's CV as a list of dictionaries
+    - Each publication is a dictionary with year, title, Paper Id, DOI, ISSN, ISBN, citing and cited publications
+      - "citing" and "cited" : lists of citing and cited publications as lists of dictionaries
+  - "pubbs_MAG" : structured as "pubbs", contains the list of publications found in MAG that the candidate did not included in her/his CV
 
 
 ### 3. Citation data and citation-based metrics
   
-- [**citmetrics**](https://github.com/sosgang/bond/tree/main/citmetrics): contains information on the citation network built for each candidate connecting her/his publications with those of her/his evaluating commission. Candidates' data is divided into Jsons files that are named after the term candidates applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for.
-  - Each Jsons file contains a dict of dicts. Keys are the candidates' identifiers and values are the candidates' dictionaries.
-    - Each candidate's dictionary contains:
-      - "bc" : information on the publications cited by both a publication authored by the candidate and a publication authored by at least one member of the commission.
-        - "articles": dictionary where: each key is a string with the Paper Id of the publication authored by the candidated and the Paper Id of the publication authored by at least one member of the commission;  each value is the number of publications they both cite;
-        - "number" : total number of unique publications cited by both a publication authored by the candidate and a publication authored by at least one member of the commission. 
-      - "cand_nodes" : overall number of publications authored by the candidate found in the open sources of use.
-      - "cand_paths" : dictionary with information on the paths starting from a publication authored by the candidate and ending at a publication authored by at least one member of the commission. Each key is the length of the paths (the number of edges (citations) between the two publications). Each value is a list of lists. Each list contains the Paper Ids of the starting and ending publications.
-      - "cc" : information on the publications citing both a publication authored by the candidate and a publication authored by at least one member of the commission.
-        - "articles": dictionary where: each key is a string with the Paper Id of the publication authored by the candidated and the Paper Id of the publication authored by at least one member of the commission; each value is the number of publications citing both;
-        - "number" : total number of unique publications citing both a publication authored by the candidate and a publication authored by at least one member of the commission. 
-      - "co-au" : dictionary with information about the publications authored by both the candidate and at least one member of the commission.
-        - "articles" is the list of Paper Ids of the co-authored publications.
-        - "number" is the number of co-authored publications.
-      - "comm_nodes" : overall number of publications authored by at least one member of the commission.
-      - "comm_paths" : dictionary with information on the paths starting from a publication authored by at least one member of the commission and ending at a publication authored by the candidate.Each key is the length of the paths (the number of edges (citations) between the two publications). Each value is a list of lists. Each list contains the Paper Ids of the starting and ending publications. 
-      - "other" : dictionary with information on citations from and to publications not authored by neither the candidate nor any member of the commission.
-        - "cand_other" : number of other publications cited by a publication authored by the candidate.
-        - "comm_other" : number of other publications cited by a publication authored by at least one member of the commission.
-        - "other_cand" : number of other publications citing a publication authored by the candidate.
-        - "other_comm" : number of other publications citing a publication authored by at least one member of the commission.
-      - "other_nodes" : overall number of publications not authored neither by the candidate nor by any member of the commission.
+- [**citmetrics**](https://github.com/sosgang/bond/tree/main/citmetrics): contains information on the citation network built for each candidate connecting her/his publications with those of her/his evaluating commission. Candidates' data is divided into Jsons files that are named after the term candidates applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for. Each Jsons file contains a dict of dicts. Keys are the candidates' identifiers and values are the candidates' dictionaries. Each candidate's dictionary contains:
+  - "bc" : information on the publications cited by both a publication authored by the candidate and a publication authored by at least one member of the commission.
+    - "articles": dictionary where: each key is a string with the Paper Id of the publication authored by the candidated and the Paper Id of the publication authored by at least one member of the commission;  each value is the number of publications they both cite;
+    - "number" : total number of unique publications cited by both a publication authored by the candidate and a publication authored by at least one member of the commission. 
+  - "cand_nodes" : overall number of publications authored by the candidate found in the open sources of use.
+  - "cand_paths" : dictionary with information on the paths starting from a publication authored by the candidate and ending at a publication authored by at least one member of the commission. Each key is the length of the paths (the number of edges (citations) between the two publications). Each value is a list of lists. Each list contains the Paper Ids of the starting and ending publications.
+  - "cc" : information on the publications citing both a publication authored by the candidate and a publication authored by at least one member of the commission.
+    - "articles": dictionary where: each key is a string with the Paper Id of the publication authored by the candidated and the Paper Id of the publication authored by at least one member of the commission; each value is the number of publications citing both;
+    - "number" : total number of unique publications citing both a publication authored by the candidate and a publication authored by at least one member of the commission. 
+  - "co-au" : dictionary with information about the publications authored by both the candidate and at least one member of the commission.
+    - "articles" is the list of Paper Ids of the co-authored publications.
+    - "number" is the number of co-authored publications.
+  - "comm_nodes" : overall number of publications authored by at least one member of the commission.
+  - "comm_paths" : dictionary with information on the paths starting from a publication authored by at least one member of the commission and ending at a publication authored by the candidate.Each key is the length of the paths (the number of edges (citations) between the two publications). Each value is a list of lists. Each list contains the Paper Ids of the starting and ending publications. 
+  - "other" : dictionary with information on citations from and to publications not authored by neither the candidate nor any member of the commission.
+    - "cand_other" : number of other publications cited by a publication authored by the candidate.
+    - "comm_other" : number of other publications cited by a publication authored by at least one member of the commission.
+    - "other_cand" : number of other publications citing a publication authored by the candidate.
+    - "other_comm" : number of other publications citing a publication authored by at least one member of the commission.
+  - "other_nodes" : overall number of publications not authored neither by the candidate nor by any member of the commission.
       
 - ["complete_metrics.csv"](https://github.com/sosgang/bond/blob/main/complete_metrics.csv) : contains the citation-based metrics calculated for each candidate. Each row corresponds to one candidate. The columns are the following:
   - "coverage" : number of publications listed in the candidate's CV were found in the open sources of use.
