@@ -1,6 +1,6 @@
 # bond: Bibliometrics on non-bibliometric disciplines
 
-Repository containing code and data for our "...." paper.
+Repository containing code and data for our "Do open citations inform the qualitative peer-review evaluation in research assessments? An analysis of the Italian National Scientific Qualification" paper.
 
 ## Intro
 
@@ -39,32 +39,50 @@ We ground our analysis on the data of the candidates and commissions that took p
 - [**citmetrics**](https://github.com/sosgang/bond/tree/main/citmetrics): contains information on the citation network built for each candidate connecting her/his publications with those of her/his evaluating commission. Candidates' data is divided into Jsons files that are named after the term candidates applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for.
   - Each Jsons file contains a dict of dicts. Keys are the candidates' identifiers and values are the candidates' dictionaries.
     - Each candidate's dictionary contains:
-      - "bc" : Paper Ids and number of the publications cited by both a publication authored by the candidate and a publication authored by at least one member of the commission.
+      - "bc" : information on the publications cited by both a publication authored by the candidate and a publication authored by at least one member of the commission.
+        - "articles": dictionary where: each key is a string with the Paper Id of the publication authored by the candidated and the Paper Id of the publication authored by at least one member of the commission;  each value is the number of publications they both cite;
+        - "number" : total number of unique publications cited by both a publication authored by the candidate and a publication authored by at least one member of the commission. 
       - "cand_nodes" : overall number of publications authored by the candidate found in the open sources of use.
-      - "cand_paths" : dictionary of the paths starting from a publication authored by the candidate and ending at a publication authored by at least one member of the commission.
-        - Keys are the lengths of the paths: the number of edges (citations) between the two publications.
-        - Values are lists of lists. Each list contains the Paper Ids of the starting and ending publications.
-      - "co-au" : dictionary with information of the publications authored by both the candidate and at least one member of the commission.
+      - "cand_paths" : dictionary with information on the paths starting from a publication authored by the candidate and ending at a publication authored by at least one member of the commission. Each key is the length of the paths (the number of edges (citations) between the two publications). Each value is a list of lists. Each list contains the Paper Ids of the starting and ending publications.
+      - "cc" : information on the publications citing both a publication authored by the candidate and a publication authored by at least one member of the commission.
+        - "articles": dictionary where: each key is a string with the Paper Id of the publication authored by the candidated and the Paper Id of the publication authored by at least one member of the commission; each value is the number of publications citing both;
+        - "number" : total number of unique publications citing both a publication authored by the candidate and a publication authored by at least one member of the commission. 
+      - "co-au" : dictionary with information about the publications authored by both the candidate and at least one member of the commission.
         - "articles" is the list of Paper Ids of the co-authored publications.
         - "number" is the number of co-authored publications.
       - "comm_nodes" : overall number of publications authored by at least one member of the commission.
-      - "comm_paths" : dictionary of the paths starting from a publication authored by at least one member of the commission and ending at a publication authored by the candidate. It is structured like "cand_paths".
-      - "other" : dictionary with information on citations from and to publications not authored by neither the candidate nor any member of the commission
-        - "cand_other" : number of other publications cited by a publication authored by the candidate
-        - "comm_other" : number of other publications cited by a publication authored by at least one member of the commission
-        - "other_cand" : number of other publications citing a publication authored by the candidate
-        - "other_comm" : number of other publications citing a publication authored by at least one member of the commission
-      - "other_nodes" : publications not authored neither by the candidate nor by any member of the commission
+      - "comm_paths" : dictionary with information on the paths starting from a publication authored by at least one member of the commission and ending at a publication authored by the candidate.Each key is the length of the paths (the number of edges (citations) between the two publications). Each value is a list of lists. Each list contains the Paper Ids of the starting and ending publications. 
+      - "other" : dictionary with information on citations from and to publications not authored by neither the candidate nor any member of the commission.
+        - "cand_other" : number of other publications cited by a publication authored by the candidate.
+        - "comm_other" : number of other publications cited by a publication authored by at least one member of the commission.
+        - "other_cand" : number of other publications citing a publication authored by the candidate.
+        - "other_comm" : number of other publications citing a publication authored by at least one member of the commission.
+      - "other_nodes" : overall number of publications not authored neither by the candidate nor by any member of the commission.
       
 - ["complete_metrics.csv"](https://github.com/sosgang/bond/blob/main/complete_metrics.csv) : contains the citation-based metrics calculated for each candidate. Each row corresponds to one candidate. The columns are the following:
   - "coverage" : number of publications listed in the candidate's CV were found in the open sources of use.
     - "A" >= 75% or >= 15 CV publications found;
     - "B" < 70% of CV publications but additional publications not listed in the CV were found in MAG to reach a number of found publications comparable to the original one;
     - "C" few or no publications found;
-  - "term" : term the candidate applied in
-  - "role" : role the candidate applied for
-  - "field" : field the candidate applied for
-  - "id" : unique ID of the application
-  - "cand":
+  - "term" : term the candidate applied in.
+  - "role" : role the candidate applied for.
+  - "field" : field the candidate applied for.
+  - "id" : unique ID of the application.
+  - "cand" : overall number of publications authored by the candidate found in the open sources of use.
+  - "books" : number of books authored by the candidate.
+  - "articles" : number of journal articles authored by the candidate.
+  - "other_pubbs" : number of other kinds of publications (e.g. proceedings articles and workshop papers) authored by the candidate.
+  - "co-au" : number of publications authored by both the candidate and at least one member of the commission.
+  - "cand_comm" : number of citations going from a candidate’s publication to a publication authored by at least one member of the commission.
+  - "comm_cand" : number of citations going from a publication authored by at least one member of the commission to a candidate’s publication.
+  - "bc" : number of publications cited by both a publication authored by the candidate and a publication authored by at least one member of the commission.
+  - "cc" : number of publications citing both a publication authored by the candidate and a publication authored by at least one member of the commission.
+  - "cand_other" : number of other publications (i.e. which are not authored neither by the candidate nor by any member of the commission) cited by a publication authored by the candidate.
+  - "other_cand" : number of other publications (i.e. which are not authored neither by the candidate nor by any member of the commission) citing a publication authored by the candidate.
+  - "nd_m1" : number of books authored by the candidate; bibliometric retrieved from Scopus and Web of Science, and calculated by ANVUR.
+  - "nd_m2" : number of book chapters authored by the candidate; bibliometric retrieved from Scopus and Web of Science, and calculated by ANVUR.
+  - "nd_m3" : number of papers authored by the candidate; bibliometric retrieved from Scopus and Web of Science, and calculated by ANVUR.
+
+
 
 
