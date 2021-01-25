@@ -2,7 +2,7 @@
 
 Repository containing code and data for our "Do open citations inform the qualitative peer-review evaluation in research assessments? An analysis of the Italian National Scientific Qualification" paper.
 
-1. [Introduction](## Introduction)
+1. [Introduction](##Introduction)
 
 ## Introduction
 
