@@ -1,6 +1,6 @@
-# bond: Bibliometrics on non-bibliometric disciplines
+# bond: Bringing Open data in Non-citation-based Disciplines
 
-Repository containing code and data for our "Do open citations inform the qualitative peer-review evaluation in research assessments? An analysis of the Italian National Scientific Qualification" paper.
+Repository containing code and data for our **"Do open citations inform the qualitative peer-review evaluation in research assessments? An analysis of the Italian National Scientific Qualification"** paper.
 
 1. [Introduction](##Introduction)
 2. [Resulting data](##Resulting data)
