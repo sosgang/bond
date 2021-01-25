@@ -7,7 +7,7 @@ Repository containing code and data for our **"Do open citations inform the qual
 3. [Reproducing the data collection](##reproducing-the-data-collection)
 
 
-## 1. Introduction
+## Introduction
 
 Our study is rooted in the context of the Italian National Scientific Qualification (NSQ). The NSQ is a national assessment exercise that qualifies scholars to the positions of Associate Professor and Full Professor. It consists of a quantitative and qualitative evaluation process, making use of both bibliometrics and a peer-review process. In the NSQ, academic disciplines are divided into two categories, i.e. citation-based disciplines (CDs) and non-citation-based disciplines (NDs). This division affects the bibliometrics used in the first part of the process. This study aims at exploring whether citation-based metrics can yield insights on how the peer-review of NDs is conducted.
 
@@ -16,7 +16,7 @@ Specifically, our work focuses on citation-centric metrics that capture the rela
 We ground our analysis on the data of the candidates and commissions that took part in the 2016, 2017, and 2018 sessions of the NSQ for the disciplines *Historical and General Linguistics* and *Mathematical Methods of Economics, Finance and Actuarial Sciences*, having Recruiting Fields (RF) 10/G1 and 13/D4 respectively according to the NSQ classification. And we collected the bibliographic metadata and citation data from the following open datasets: [Microsoft Academic Graph](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/), [OpenAIRE](https://www.openaire.eu/), [Crossref](https://www.crossref.org/), and [OpenCitations](https://opencitations.net/).
 
  
-## 2. Resulting data
+## Resulting data
 
 ### 2.1 Candidates' CV Json files
 
@@ -107,7 +107,7 @@ We ground our analysis on the data of the candidates and commissions that took p
   - "combined%" : percentage of the number of publications authored by the candidate found over the total number of unique publications in the CV when the open sources of use are combined.
   - "total_CV" : total number of unique publications in the candidate's cv
  
-## 3. Reproducing the data collection
+## Reproducing the data collection
 
 ### 3.1 Necessary materials
 
