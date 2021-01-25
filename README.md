@@ -10,7 +10,8 @@ Specifically, our work focuses on citation-centric metrics that capture the rela
 
 We ground our analysis on the data of the candidates and commissions that took part in the 2016, 2017, and 2018 sessions of the NSQ for the disciplines *Historical and General Linguistics* and *Mathematical Methods of Economics, Finance and Actuarial Sciences*, having Recruiting Fields (RF) 10/G1 and 13/D4 respectively according to the NSQ classification. And we collected the bibliographic metadata and citation data from the following open datasets: [Microsoft Academic Graph](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/), [OpenAIRE](https://www.openaire.eu/), [Crossref](https://www.crossref.org/), and [OpenCitations](https://opencitations.net/).
 
-## Materials
+ 
+## Data resulting from our analysis
 
 ### 1. Candidates' CV Json files
 
@@ -20,7 +21,7 @@ We ground our analysis on the data of the candidates and commissions that took p
       - role folders: named after the academic role the candidates applied to (e.g. "AP" for associate and "FP" for full professorship) contain:
         - field folders: named after the alphanumeric code of the RF in the taxonomy defined by the Ministerial Decree 159 (e.g. 10-G1 and 13-D4) contain:
           - candidate file: named after the application's unique ID. A unique ID is created for each application. Therefore if a candidate casts two applications in a session, she/he will be assigned two unique IDs: one for each application.
- 
+
  
 ### 2. Bibliographic and citation data
 
@@ -55,7 +56,7 @@ We ground our analysis on the data of the candidates and commissions that took p
     - "other_comm" : number of other publications citing a publication authored by at least one member of the commission.
   - "other_nodes" : overall number of publications not authored neither by the candidate nor by any member of the commission.
       
-- ["complete_metrics.csv"](https://github.com/sosgang/bond/blob/main/complete_metrics.csv) : contains the citation-based metrics calculated for each candidate. Each row corresponds to one candidate. The columns are the following:
+- [**complete_metrics.csv**](https://github.com/sosgang/bond/blob/main/complete_metrics.csv) : contains the citation-based metrics calculated for each candidate. Each row corresponds to one candidate. The columns are the following:
   - "coverage" : number of publications listed in the candidate's CV were found in the open sources of use.
     - "A" >= 75% or >= 15 CV publications found;
     - "B" < 70% of CV publications but additional publications not listed in the CV were found in MAG to reach a number of found publications comparable to the original one;
@@ -78,6 +79,19 @@ We ground our analysis on the data of the candidates and commissions that took p
   - "nd_m1" : number of books authored by the candidate; bibliometric retrieved from Scopus and Web of Science, and calculated by ANVUR.
   - "nd_m2" : number of book chapters authored by the candidate; bibliometric retrieved from Scopus and Web of Science, and calculated by ANVUR.
   - "nd_m3" : number of papers authored by the candidate; bibliometric retrieved from Scopus and Web of Science, and calculated by ANVUR.
+  - "outcome" : outcome of the NSQ.
+
+ 
+## Instruction for reproducing our analysis
+
+### 1. Necessary materials
+
+  - [**cv_jsons** folder](https://github.com/sosgang/bond/tree/main/cv_jsons): the folder containing the json files extracted from the candidates' CVs
+  - [**data_collection** folder](https://github.com/sosgang/bond/tree/main/data_collection): the folder containing the python files for the data collection process
+
+### 2. Data collection
+- **bond_execution.py** : executes the entire collection process by calling all the other necessary python files, and saves the results in json format and csv.
+- meta_extraction.py : extracts the publication from the CV json files and 
 
 
 
