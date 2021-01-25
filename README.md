@@ -2,7 +2,9 @@
 
 Repository containing code and data for our "Do open citations inform the qualitative peer-review evaluation in research assessments? An analysis of the Italian National Scientific Qualification" paper.
 
-## Intro
+1. [Introduction](## Introduction)
+
+## Introduction
 
 Our study is rooted in the context of the Italian National Scientific Qualification (NSQ). The NSQ is a national assessment exercise that qualifies scholars to the positions of Associate Professor and Full Professor. It consists of a quantitative and qualitative evaluation process, making use of both bibliometrics and a peer-review process. In the NSQ, academic disciplines are divided into two categories, i.e. citation-based disciplines (CDs) and non-citation-based disciplines (NDs). This division affects the bibliometrics used in the first part of the process. This study aims at exploring whether citation-based metrics can yield insights on how the peer-review of NDs is conducted.
 
