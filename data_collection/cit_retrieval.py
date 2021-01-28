@@ -34,7 +34,7 @@ def search_cited(loggr, idt):
 
 def search_citing(idt):
     hdr_mag = {'Ocp-Apim-Subscription-Key': 'ac0d6ea6f26845e8b41c0df9f4e45120'}
-    query = f"expr=RId={idt}&attributes=Id,DOI,AA.AuN,AA.AuId,Ti,Y,J.JN"
+    query = f"expr=RId={idt}&count=3000&attributes=Id,DOI,AA.AuN,AA.AuId,Ti,Y,J.JN"
     url_mag = f"https://api.labs.cognitive.microsoft.com/academic/v1.0/evaluate?{query}"
     r = requests.get(url_mag, headers=hdr_mag).json()
     citing = []
