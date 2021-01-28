@@ -53,9 +53,9 @@ def merge_graphs_pid(comm_dd, cand_dd, author, end_date):
     for comm_id, info in comm_dd.items():
         surname = info["fullname"][0]
         comm_g_b = create_graph_pid(comm_g_a, info["pubbs"], "commission", surname, "year", end_date)
-        comm_graph = create_graph_pid(comm_g_b, info["pubbs_MAG"], "commission", surname, "year_MAG", end_date)
+        comm_graph = create_graph_pid(comm_g_b, info["pubbs_mag"], "commission", surname, "year_mag", end_date)
     cand_g_a = create_graph_pid(comm_graph, cand_dd["pubbs"], "candidate", author, "year", end_date)
-    candidate_graph = create_graph_pid(cand_g_a, cand_dd["pubbs_MAG"], "candidate", author, "year_MAG", end_date)
+    candidate_graph = create_graph_pid(cand_g_a, cand_dd["pubbs_mag"], "candidate", author, "year_mag", end_date)
 
     return candidate_graph
 
@@ -188,38 +188,34 @@ def analyze_graph(comm, cand_json, author, end_date):
 """create and """
 
 
-def adding_graphmetrics(dd):
+def adding_citmetrics(dd):
 
-    metrics_dd = dict()
-    for asn_year, quads in dd["cand"].items():
-        metrics_dd[asn_year] = dict()
-        for quad, sects in quads.items():
-            metrics_dd[asn_year][quad] = dict()
-            for sect, fields in sects.items():
-                metrics_dd[asn_year][quad][sect] = dict()
+    print("adding citmetrics")
+
+    for asn_year, terms in dd["cand"].items():
+        for term, roles in terms.items():
+            for role, fields in roles.items():
                 for field, candidates in fields.items():
-                    metrics_dd[asn_year][quad][sect][field] = dict()
 
                     comm = dd["comm"][asn_year][field]
 
                     limit = 0
                     if asn_year == "2016":
-                        if quad == "1":
+                        if term == "1":
                             limit = 2017
-                        elif quad == "5":
+                        elif term == "5":
                             limit = 2019
                         else:
                             limit = 2018
                     elif asn_year == "2018":
-                        if quad == "1":
+                        if term == "1":
                             limit = 2019
-                        elif quad == "5" or quad == "6":
+                        elif term == "5" or term == "6":
                             limit = 2021
                         else:
                             limit = 2020
 
-                    for cand_id, info in field.items():
-                        metr = metrics_dd[asn_year][quad][sect][field]
-                        metr[cand_id] = analyze_graph(comm, info, info["fullname"][0], limit)
+                    for cand_id, info in candidates.items():
+                        info["citmetrics"] = analyze_graph(comm, info, info["fullname"][0], limit)
 
-    return metrics_dd
+    return dd

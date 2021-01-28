@@ -122,31 +122,33 @@ def retrieving_bib(authors_dict, limit):
 
 def adding_bib(dd):
 
-    for asn_year, quads in dd["cand"].items():
-        for quad, sects in quads.items():
-            for sect, fields in sects.items():
+    print("adding bib")
+
+    for asn_year, terms in dd["cand"].items():
+        for term, roles in terms.items():
+            for role, fields in roles.items():
                 for field, candidates in fields.items():
 
                     limit = 0
                     if asn_year == "2016":
-                        if quad == "1":
+                        if term == "1":
                             limit = 2017
-                        elif quad == "5":
+                        elif term == "5":
                             limit = 2019
                         else:
                             limit = 2018
                     elif asn_year == "2018":
-                        if quad == "1":
+                        if term == "1":
                             limit = 2019
-                        elif quad == "5" or quad == "6":
+                        elif term == "5" or term == "6":
                             limit = 2021
                         else:
                             limit = 2020
 
-                    dd[asn_year][quad][sect][field] = retrieving_bib(candidates, limit)
+                    dd["cand"][asn_year][term][role][field] = retrieving_bib(candidates, limit)
 
     for asn_year, fields in dd["comm"].items():
         for field, commission in fields.items():
-            dd[asn_year][field] = retrieving_bib(commission, 2021)
+            dd["comm"][asn_year][field] = retrieving_bib(commission, 2021)
 
     return dd

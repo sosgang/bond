@@ -1,7 +1,8 @@
+import time
 import re
 import unicodedata
 import requests
-from python-Levenshtein import Levenshtein
+import Levenshtein
 
 """ Cleaning title and identifying author name """
 def cleaning_title(title, typ):
@@ -97,9 +98,11 @@ def search_title_oa(loggr, fullname, title, year):
     query = f"title={keywords}&author={surname}&toDateAccepted={str(year)}-12-31&page=1&size=5&format=json"
     url_oa = f"http://api.openaire.eu/search/publications?{query}"
     d = None
+    r_oa = requests.get(url_oa)
+    hdrs_oa = r_oa.headers
 
     try:
-        r = requests.get(url_oa).json()
+        r = r_oa.json()
         if r["response"]["results"] is not None:
             result = r["response"]["results"]["result"][0]["metadata"]["oaf:entity"]
             if "pid" in result["oaf:result"]:
@@ -128,7 +131,7 @@ def search_title_oa(loggr, fullname, title, year):
             return [d, c_raw]
 
     except Exception as ex:
-        loggr.error(ex)
+        loggr.error("OA__" + repr(ex) + "__" + url_oa + "__" + hdrs_oa["Content-Type"])
 
 
 """ Searching titles in CrossRef """
@@ -139,10 +142,12 @@ def search_title_cr(loggr, hdr_cr, fullname, title, year):
     name = cleaning_name(fullname[1].split(" ")[0])
     query = f"query.bibliographic={keywords}&query.author={surname}&rows=4&select=DOI,title,author,issued"
     url_cr = f"https://api.crossref.org/works?{query}"
-    r = requests.get(url_cr, headers=hdr_cr).json()
-    possible = []
+    r_cr = requests.get(url_cr, headers=hdr_cr)
+    hdrs_cr = r_cr.headers
 
     try:
+        r = r_cr.json()
+        possible = []
         if r["message"]["items"]:
             idx = 0
             while idx < len(r["message"]["items"]):
@@ -175,15 +180,26 @@ def search_title_cr(loggr, hdr_cr, fullname, title, year):
                 return res["DOI"]
 
     except Exception as ex:
-        loggr.error(ex)
+        if hdrs_cr["content-type"] == 'text/plain' or hdrs_cr["content-type"] == 'text/html':
+            r = r_cr.text
+            if "503" in r:
+                time.sleep(5.0)
+                print(f"attempt:{url_cr}")
+                solution = search_title_cr(loggr, hdr_cr, fullname, title, year)
+                return solution
+            else:
+                loggr.error("CR__" + repr(ex) + "__" + url_cr + "__" + r)
+        else:
+            loggr.error("CR__" + repr(ex) + "__" + url_cr + "__" + hdrs_cr["content-type"])
 
 
 def searching_ids(logger, authors_dict):
 
+    lim_cr = 0
     hdr_mag = {'Ocp-Apim-Subscription-Key': 'ac0d6ea6f26845e8b41c0df9f4e45120'}
     hdr_cr = {'User-Agent': 'mailto:federica.bologna17@gmail.com'}
 
-    for author, info in authors_dict:
+    for author, info in authors_dict.items():
 
         auids = set()
         for pub in info["pubbs"]:
@@ -212,26 +228,36 @@ def searching_ids(logger, authors_dict):
                             pub["cited_raw"] = result[1]
 
                     else:
-                        result = search_title_cr(logger, hdr_cr, info["fullname"], pub["title"], pub["year"])
+                        if lim_cr < 49:
+                            result = search_title_cr(logger, hdr_cr, info["fullname"], pub["title"], pub["year"])
+                            lim_cr += 1
+                        else:
+                            time.sleep(1.0)
+                            result = search_title_cr(logger, hdr_cr, info["fullname"], pub["title"], pub["year"])
+                            lim_cr = 1
+
                         if result is not None:
                             pub["doi"] = result
+
+        info["AuIds"] = list(auids)
 
     return authors_dict
 
 
 def adding_ids(logger, dd):
 
-    logger.info("________________SEARCH AUID________________")
+    print("adding ids")
+    logger.error("________________SEARCH AUID________________")
 
-    for asn_year, quads in dd["cand"].items():
-        for quad, sects in quads.items():
-            for sect, fields in sects.items():
+    for asn_year, terms in dd["cand"].items():
+        for term, roles in terms.items():
+            for role, fields in roles.items():
                 for field, candidates in fields.items():
-                    dd[asn_year][quad][sect][field] = searching_ids(logger, candidates)
+                    dd["cand"][asn_year][term][role][field] = searching_ids(logger, candidates)
 
     for asn_year, fields in dd["comm"].items():
         for field, commission in fields.items():
-            dd[asn_year][field] = searching_ids(logger, commission)
+            dd["comm"][asn_year][field] = searching_ids(logger, commission)
 
     return dd
 

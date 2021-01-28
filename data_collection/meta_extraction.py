@@ -51,27 +51,27 @@ def extracting_metadata_cand(path, cand_dd):
     with os.scandir(path) as asn_years:
 
         for asn_year in asn_years:
-            asn_year = asn_year.name
-            cand_dd[asn_year] = dict()
-            asn_year_path = os.path.join(path, asn_year)
-            with os.scandir(asn_year_path) as quads:
+            asn_year_name = asn_year.name
+            cand_dd[asn_year_name] = dict()
+            asn_year_path = os.path.join(path, asn_year_name)
+            with os.scandir(asn_year_path) as terms:
 
-                for quad in quads:
-                    quad_name = quad.name
-                    cand_dd[asn_year][quad_name] = dict()
-                    quad_path = os.path.join(asn_year_path, quad_name)
-                    with os.scandir(quad_path) as sections:
+                for term in terms:
+                    term_name = term.name[-1]
+                    cand_dd[asn_year_name][term_name] = dict()
+                    term_path = os.path.join(asn_year_path, term.name)
+                    with os.scandir(term_path) as roles:
 
-                        for section in sections:
-                            section_name = section.name[-1]
-                            cand_dd[asn_year][quad_name][section_name] = dict()
-                            section_path = os.path.join(quad_path, section.name)
-                            with os.scandir(section_path) as fields:
+                        for role in roles:
+                            role_name = role.name
+                            cand_dd[asn_year_name][term_name][role_name] = dict()
+                            role_path = os.path.join(term_path, role.name)
+                            with os.scandir(role_path) as fields:
 
                                 for field in fields:
                                     field_name = field.name
-                                    cand_dd[asn_year][quad_name][section_name][field_name] = dict()
-                                    field_path = os.path.join(section_path, field_name)
+                                    cand_dd[asn_year_name][term_name][role_name][field_name] = dict()
+                                    field_path = os.path.join(role_path, field_name)
                                     with os.scandir(field_path) as cvs:
 
                                         for cv in cvs:
@@ -79,8 +79,8 @@ def extracting_metadata_cand(path, cand_dd):
                                             cand_id = cv_name.split("_", 1)[0]
                                             cv_dir = os.path.join(field_path, cv.name)
 
-                                            cand_dd[asn_year][quad_name][section_name][field_name][cand_id] = dict()
-                                            ddict = cand_dd[asn_year][quad_name][section_name][field_name][cand_id]
+                                            cand_dd[asn_year_name][term_name][role_name][field_name][cand_id] = dict()
+                                            ddict = cand_dd[asn_year_name][term_name][role_name][field_name][cand_id]
 
                                             with open(cv_dir, 'r') as json_file:
                                                 data = json.load(json_file)
@@ -137,32 +137,33 @@ def extracting_metadata_comm(path):
         comm_csv = csv.reader(csvfile)
 
         for row in comm_csv:
-            if row[0] in comm_dd.keys():
-                if row[1] in comm_dd[row[0]].keys():
-                    if row[2] in comm_dd[row[0]][row[1]].keys():
-                        pub = dict()
-                        pub["id"] = row[5]
-                        pub["title"] = cleaning_title(row[6])
-                        pub["year"] = row[7]
-                        if row[7]:
-                            pub["doi"] = cleaning_doi(row[8])
-                        comm_dd[row[0]][row[1]][row[2]]["pubbs"].append(pub)
-                    # asn year, field, id
+            if row[0]:
+                if row[0] in comm_dd.keys():
+                    if row[1] in comm_dd[row[0]].keys():
+                        if row[2] in comm_dd[row[0]][row[1]].keys():
+                            pub = dict()
+                            pub["id"] = row[5]
+                            pub["title"] = cleaning_title(row[6])
+                            pub["year"] = int(row[7])
+                            if row[8]:
+                                pub["doi"] = cleaning_doi(row[8])
+                            comm_dd[row[0]][row[1]][row[2]]["pubbs"].append(pub)
+                        # asn year, field, id
+                        else:
+                            comm_dd[row[0]][row[1]][row[2]] = dict()
+                            comm_dd[row[0]][row[1]][row[2]]["fullname"] = [row[3], row[4]]
+                            comm_dd[row[0]][row[1]][row[2]]["pubbs"] = []
+                            pub = dict()
+                            pub["id"] = row[5]
+                            pub["title"] = cleaning_title(row[6])
+                            pub["year"] = int(row[7])
+                            if row[8]:
+                                pub["doi"] = cleaning_doi(row[8])
+                            comm_dd[row[0]][row[1]][row[2]]["pubbs"].append(pub)
                     else:
-                        comm_dd[row[0]][row[1]][row[2]] = dict()
-                        comm_dd[row[0]][row[1]][row[2]]["fullname"] = [row[3], row[4]]
-                        comm_dd[row[0]][row[1]][row[2]]["pubbs"] = []
-                        pub = dict()
-                        pub["id"] = row[5]
-                        pub["title"] = cleaning_title(row[6])
-                        pub["year"] = row[7]
-                        if row[7]:
-                            pub["doi"] = cleaning_doi(row[8])
-                        comm_dd[row[0]][row[1]][row[2]]["pubbs"].append(pub)
+                        comm_dd[row[0]][row[1]] = dict()
                 else:
-                    comm_dd[row[0]][row[1]] = dict()
-            else:
-                comm_dd[row[0]] = dict()
+                    comm_dd[row[0]] = dict()
 
     return comm_dd
 
@@ -170,8 +171,11 @@ def extracting_metadata_comm(path):
 def extracting_metadata(jsons_path, csv_path):
 
     dd = dict()
+    dd["cand"] = dict()
     cand_dict = extracting_metadata_cand(jsons_path, dd["cand"])
     dd["cand"] = cand_dict
+
+    dd["comm"] = dict()
     comm_dict = extracting_metadata_comm(csv_path)
     dd["comm"] = comm_dict
 
