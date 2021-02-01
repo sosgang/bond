@@ -6,6 +6,7 @@ Repository containing code and data for our **"Do open citations inform the qual
 2. [Resulting data](#2-resulting-data)
 3. [Reproducing the data collection](#3-reproducing-the-data-collection)
 4. [Analyzing coverage](#4-analyzing-coverage)
+5. [Machine learning experiment](#5-machine-learning-experiment)
 
 ## 1. Introduction
 
@@ -136,4 +137,22 @@ We ground our analysis on the data of the candidates and commissions that took p
 
 - **coverage.py** : executes the functions for calculating the coverage of the CV publications of each candidate and stores the results in a CSV file.
 - search_OA_CR.py : searches for each publication in OpenAIRE and Crossref
+
+## 5. Machine learning experiment
+
+### 5.1 Materials
+
+- [**ml_experiment/data** folder](https://github.com/sosgang/bond/tree/main/ml_experiment/data): contains both the input file (i.e. results.csv) for the python scripts that perform the analysis, and the output produced by the scripts.
+  - [**results.csv**](https://github.com/sosgang/bond/tree/main/ml_experiment/data/results.csv): the citation-based metrics calculated for each candidate. Each row corresponds to one candidate. This file is the input of the python scripts.
+  - [**combinations_F1_0.7.csv**](https://github.com/sosgang/bond/tree/main/ml_experiment/data/combinations_F1_0.7.csv): the results of the classifiers having f1-score >= 0.700. This file is the output of the experiment (script file: ml_combinations.py).
+  - [**combinations_ALL_features.zip**](https://github.com/sosgang/bond/tree/main/ml_experiment/data/combinations_ALL_features.zip): an archive containing the results of all the 982,980 computed classifiers in a single file. This file is the output of the experiment (script file: ml_combinations.py).
+  - [**combinations_i_features.zip**](https://github.com/sosgang/bond/tree/main/ml_experiment/data/combinations_i_features.zip): an archive containing the same data contained in combinations_ALL_features.zip split in multiple files. This file is the output of the experiment (script file: ml_combinations.py).
+
+### 5.2 Execution
+
+- [**ml_experiment/script** folder](https://github.com/sosgang/bond/tree/main/ml_experiment/script): contains the python scripts developed for the experiment based on machine learning techniques presented in the paper.
+  - [**ml_combinations.py**](https://github.com/sosgang/bond/tree/main/ml_experiment/script/ml_combinations.py): the script evaluates the classifiers that can be computed using all the possible combinations of metrics, input data coverages and classification algorithms, for each field and role. The classifiers are trained on the data about candidates to the first four terms of the NSQ, and are tested on the candidates of the last term.
+  - [**plotDecisionTree.py**](https://github.com/sosgang/bond/tree/main/ml_experiment/script/plotDecisionTree.py): the script plots the decision tree presented in Figure 7 in the paper.
+  - [**mylib.py**](https://github.com/sosgang/bond/tree/main/ml_experiment/script/mylib.py): the library file containing functions used by the python scripts.
+  
 
