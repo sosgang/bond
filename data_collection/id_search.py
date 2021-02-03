@@ -1,5 +1,7 @@
 import time
+import os
 import re
+import json
 import unicodedata
 import requests
 import Levenshtein
@@ -236,70 +238,87 @@ def search_title_cr(loggr, hdr_cr, fullname, title, year):
             return solution
 
 
-def searching_ids(logger, authors_dict):
+def searching_ids(logger, info):
 
     lim_cr = 0
     hdr_mag = {'Ocp-Apim-Subscription-Key': 'ac0d6ea6f26845e8b41c0df9f4e45120'}
     hdr_cr = {'User-Agent': 'mailto:federica.bologna17@gmail.com'}
 
-    for author, info in authors_dict.items():
+    auids = set()
+    for pub in info["pubbs"]:
+        if "doi" in pub.keys():
+            result = search_doi_mag(logger, hdr_mag, info["fullname"], pub["doi"])
+            if result is not None:
+                if result[0]:
+                    pub.update(result[0])
+                if result[1]:
+                    auids.add(result[1])
 
-        auids = set()
-        for pub in info["pubbs"]:
-            if "doi" in pub.keys():
-                result = search_doi_mag(logger, hdr_mag, info["fullname"], pub["doi"])
+        elif "title" in pub.keys():
+            result = search_title_mag(logger, hdr_mag, info["fullname"], pub["title"], pub["year"])
+            if result is not None:
+                if result[0]:
+                    pub.update(result[0])
+                if result[1]:
+                    auids.add(result[1])
+
+            else:
+                result = search_title_oa(logger, info["fullname"], pub["title"], pub["year"])
                 if result is not None:
                     if result[0]:
-                        pub.update(result[0])
+                        pub["doi"] = result[0]
                     if result[1]:
-                        auids.add(result[1])
-
-            elif "title" in pub.keys():
-                result = search_title_mag(logger, hdr_mag, info["fullname"], pub["title"], pub["year"])
-                if result is not None:
-                    if result[0]:
-                        pub.update(result[0])
-                    if result[1]:
-                        auids.add(result[1])
+                        pub["cited_raw"] = result[1]
 
                 else:
-                    result = search_title_oa(logger, info["fullname"], pub["title"], pub["year"])
-                    if result is not None:
-                        if result[0]:
-                            pub["doi"] = result[0]
-                        if result[1]:
-                            pub["cited_raw"] = result[1]
-
+                    if lim_cr < 49:
+                        result = search_title_cr(logger, hdr_cr, info["fullname"], pub["title"], pub["year"])
+                        lim_cr += 1
                     else:
-                        if lim_cr < 49:
-                            result = search_title_cr(logger, hdr_cr, info["fullname"], pub["title"], pub["year"])
-                            lim_cr += 1
-                        else:
-                            time.sleep(1.0)
-                            result = search_title_cr(logger, hdr_cr, info["fullname"], pub["title"], pub["year"])
-                            lim_cr = 1
+                        time.sleep(1.0)
+                        result = search_title_cr(logger, hdr_cr, info["fullname"], pub["title"], pub["year"])
+                        lim_cr = 1
 
-                        if result is not None:
-                            pub["doi"] = result
+                    if result is not None:
+                        pub["doi"] = result
 
         info["AuIds"] = list(auids)
 
-    return authors_dict
+    return info
 
 
 def adding_ids(logger, dd):
 
-    print("adding ids")
     logger.error("________________SEARCH AUID________________")
+    print("adding ids")
+
+    id_folder = os.path.join(os.getcwd(), "id_data")
+    if os.path.exists(id_folder) is False:
+        os.mkdir(id_folder)
 
     for asn_year, terms in dd["cand"].items():
         for term, roles in terms.items():
             for role, fields in roles.items():
                 for field, candidates in fields.items():
-                    dd["cand"][asn_year][term][role][field] = searching_ids(logger, candidates)
+                    for cand_id, cand_dict in candidates.items():
+
+                        cand_file = os.path.join(id_folder, f'{asn_year}_{term}_{role}_{field}_{cand_id}_id.json')
+
+                        if os.path.exists(cand_file) is False:
+                            dd["cand"][asn_year][term][role][field][cand_id] = searching_ids(logger, cand_dict)
+                            with open(cand_file, 'w') as id_file:
+                                json.dump(cand_dict, id_file, sort_keys=True, indent=4)
 
     for asn_year, fields in dd["comm"].items():
         for field, commission in fields.items():
-            dd["comm"][asn_year][field] = searching_ids(logger, commission)
+            for comm_id, comm_dict in commission.items():
+
+                comm_file = os.path.join(id_folder, f'{asn_year}_{field}_{comm_id}_id.json')
+
+                if os.path.exists(comm_file) is False:
+                    dd["comm"][asn_year][field][comm_id] = searching_ids(logger, comm_dict)
+
+                    with open(comm_file, 'w') as id_file:
+                        json.dump(comm_dict, id_file, sort_keys=True, indent=4)
 
     return dd

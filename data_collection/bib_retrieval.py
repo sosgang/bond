@@ -1,7 +1,9 @@
 """Retrieving Articles from Author Identifiers:
 AuthorIDs > Article IDs"""
-import requests
 import time
+import os
+import json
+import requests
 
 
 def matching_pubbs(list_pubbs, new):
@@ -116,48 +118,63 @@ def search_pubbs(loggr, author_id, pubbs, pubbs_mag, date):
             return solution
 
 
-def retrieving_bib(logger, authors_dict, limit):
+def retrieving_bib(logger, info, limit):
 
-    for author, info in authors_dict.items():
+    info["pubbs_mag"] = []
+    for au_id in info["AuIds"]:
+        p_a, p_mag_a = search_pubbs(logger, au_id, info["pubbs"], info["pubbs_mag"], limit)
+        info["pubbs"] = p_a
+        info["pubbs_mag"] = p_mag_a
 
-        info["pubbs_mag"] = []
-        for au_id in info["AuIds"]:
-            p_a, p_mag_a = search_pubbs(logger, au_id, info["pubbs"], info["pubbs_mag"], limit)
-            info["pubbs"] = p_a
-            info["pubbs_mag"] = p_mag_a
-
-    return authors_dict
+    return info
 
 
 def adding_bib(logger, dd):
 
     print("adding bib")
 
+    bib_folder = os.path.join(os.getcwd(), "bib_data")
+    if os.path.exists(bib_folder) is False:
+        os.mkdir(bib_folder)
+
     for asn_year, terms in dd["cand"].items():
         for term, roles in terms.items():
             for role, fields in roles.items():
                 for field, candidates in fields.items():
+                    for cand_id, cand_dict in candidates.items():
 
-                    limit = 0
-                    if asn_year == "2016":
-                        if term == "1":
-                            limit = 2017
-                        elif term == "5":
-                            limit = 2019
-                        else:
-                            limit = 2018
-                    elif asn_year == "2018":
-                        if term == "1":
-                            limit = 2019
-                        elif term == "5" or term == "6":
-                            limit = 2021
-                        else:
-                            limit = 2020
+                        limit = 0
+                        if asn_year == "2016":
+                            if term == "1":
+                                limit = 2017
+                            elif term == "5":
+                                limit = 2019
+                            else:
+                                limit = 2018
+                        elif asn_year == "2018":
+                            if term == "1":
+                                limit = 2019
+                            elif term == "5" or term == "6":
+                                limit = 2021
+                            else:
+                                limit = 2020
 
-                    dd["cand"][asn_year][term][role][field] = retrieving_bib(logger, candidates, limit)
+                        cand_file = os.path.join(bib_folder, f'{asn_year}_{term}_{role}_{field}_{cand_id}_bib.json')
+
+                        if os.path.exists(cand_file) is False:
+                            dd["cand"][asn_year][term][role][field][cand_id] = retrieving_bib(logger, cand_dict, limit)
+                            with open(cand_file, 'w') as bib_file:
+                                json.dump(cand_dict, bib_file, sort_keys=True, indent=4)
 
     for asn_year, fields in dd["comm"].items():
         for field, commission in fields.items():
-            dd["comm"][asn_year][field] = retrieving_bib(logger, commission, 2021)
+            for comm_id, comm_dict in commission.items():
+
+                comm_file = os.path.join(bib_folder, f'{asn_year}_{field}_{comm_id}_bib.json')
+
+                if os.path.exists(comm_file) is False:
+                    dd["comm"][asn_year][field][comm_id] = retrieving_bib(logger, comm_dict, 2021)
+                    with open(comm_file, 'w') as bib_file:
+                        json.dump(comm_dict, bib_file, sort_keys=True, indent=4)
 
     return dd

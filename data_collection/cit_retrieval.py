@@ -1,4 +1,6 @@
 import time
+import os
+import json
 import re
 import unicodedata
 import requests
@@ -230,56 +232,72 @@ def search_coci(loggr, lim_cr, t, pubb):
             return sol1, sol2
 
 
+def retrieving_cit(logger, info):
 
-def retrieving_cit(logger, authors_dict):
+    for pub1 in info["pubbs"]:
+        if "RId" in pub1.keys():
+            pub1["cited"] = [search_cited(logger, rid) for rid in pub1["RId"]]
+            pub1.pop("RId")
+        if "PId" in pub1.keys():
+            result = search_citing(logger, pub1["PId"])
+            if result:
+                pub1["citing"] = result
+        if "doi" in pub1.keys():
+            lim_cr0 = 0
+            pub_a, lim_cr1 = search_coci(logger, lim_cr0, 1, pub1)
+            pub_b, lim_cr2 = search_coci(logger, lim_cr1, 2, pub1)
+            pub1.update(pub_a)
+            pub1.update(pub_b)
 
-    for author, info in authors_dict.items():
+    for pub2 in info["pubbs_mag"]:
+        if "RId" in pub2.keys():
+            pub2["cited"] = [search_cited(logger, rid) for rid in pub2["RId"]]
+            pub2.pop("RId")
+        if "PId" in pub2.keys():
+            result = search_citing(logger, pub2["PId"])
+            if result:
+                pub2["citing"] = result
+        if "doi" in pub2.keys():
+            lim_cr0 = 0
+            pub_a, lim_cr1 = search_coci(logger, lim_cr0, 1, pub2)
+            pub_b, lim_cr2 = search_coci(logger, lim_cr1, 2, pub2)
+            pub2.update(pub_a)
+            pub2.update(pub_b)
 
-        for pub1 in info["pubbs"]:
-            if "RId" in pub1.keys():
-                pub1["cited"] = [search_cited(logger, rid) for rid in pub1["RId"]]
-                pub1.pop("RId")
-            if "PId" in pub1.keys():
-                result = search_citing(logger, pub1["PId"])
-                if result:
-                    pub1["citing"] = result
-            if "doi" in pub1.keys():
-                lim_cr0 = 0
-                pub_a, lim_cr1 = search_coci(logger, lim_cr0, 1, pub1)
-                pub_b, lim_cr2 = search_coci(logger, lim_cr1, 2, pub1)
-                pub1.update(pub_a)
-                pub1.update(pub_b)
-
-        for pub2 in info["pubbs_mag"]:
-            if "RId" in pub2.keys():
-                pub2["cited"] = [search_cited(logger, rid) for rid in pub2["RId"]]
-                pub2.pop("RId")
-            if "PId" in pub2.keys():
-                result = search_citing(logger, pub2["PId"])
-                if result:
-                    pub2["citing"] = result
-            if "doi" in pub2.keys():
-                lim_cr0 = 0
-                pub_a, lim_cr1 = search_coci(logger, lim_cr0, 1, pub2)
-                pub_b, lim_cr2 = search_coci(logger, lim_cr1, 2, pub2)
-                pub2.update(pub_a)
-                pub2.update(pub_b)
-
-    return authors_dict
+    return info
 
 
 def adding_cit(logger, dd):
+
     logger.error("________________RETRIEVE CIT________________")
     print("adding cit")
+
+    cit_folder = os.path.join(os.getcwd(), "cit_data")
+    if os.path.exists(cit_folder) is False:
+        os.mkdir(cit_folder)
 
     for asn_year, terms in dd["cand"].items():
         for term, roles in terms.items():
             for role, fields in roles.items():
                 for field, candidates in fields.items():
-                    dd["cand"][asn_year][term][role][field] = retrieving_cit(logger, candidates)
+                    for cand_id, cand_dict in candidates.items():
+
+                        cand_file = os.path.join(cit_folder, f'{asn_year}_{term}_{role}_{field}_{cand_id}_cit.json')
+
+                        if os.path.exists(cand_file) is False:
+                            dd["cand"][asn_year][term][role][field][cand_id] = retrieving_cit(logger, cand_dict)
+                            with open(cand_file, 'w') as cit_file:
+                                json.dump(cand_dict, cit_file, sort_keys=True, indent=4)
 
     for asn_year, fields in dd["comm"].items():
         for field, commission in fields.items():
-            dd["comm"][asn_year][field] = retrieving_cit(logger, commission)
+            for comm_id, comm_dict in commission.items():
+
+                comm_file = os.path.join(cit_folder, f'{asn_year}_{field}_{comm_id}_cit.json')
+
+                if os.path.exists(comm_file) is False:
+                    dd["comm"][asn_year][field][comm_id] = retrieving_cit(logger, comm_dict)
+                    with open(comm_file, 'w') as cit_file:
+                        json.dump(comm_dict, cit_file, sort_keys=True, indent=4)
 
     return dd
