@@ -1,6 +1,7 @@
 """Retrieving Articles from Author Identifiers:
 AuthorIDs > Article IDs"""
 import requests
+import time
 
 
 def matching_pubbs(list_pubbs, new):
@@ -85,7 +86,7 @@ def search_pubbs(loggr, author_id, pubbs, pubbs_mag, date):
     query = f"And(Composite(AA.AuId={author_id}),Y<{date})&count=300&attributes=Id,DOI,Ti,Y,RId,J.JN,Pt"
     url_mag = f"https://api.labs.cognitive.microsoft.com/academic/v1.0/evaluate?expr={query}"
     try:
-        r_mag = requests.get(url_mag, headers=hdr_mag, timeout=5)
+        r_mag = requests.get(url_mag, headers=hdr_mag, timeout=10)
         r = r_mag.json()
         if "entities" in r.keys():
             for entity in r["entities"]:
@@ -110,6 +111,7 @@ def search_pubbs(loggr, author_id, pubbs, pubbs_mag, date):
 
     except Exception as ex0:
         if "ConnectTimeout" in repr(ex0):
+            time.sleep(5.0)
             solution = search_pubbs(loggr, author_id, pubbs, pubbs_mag, date)
             return solution
 

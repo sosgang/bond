@@ -58,7 +58,7 @@ def search_doi_mag(loggr, hdr_mag, fullname, doi):
     url_mag = f"https://api.labs.cognitive.microsoft.com/academic/v1.0/evaluate?{query}"
 
     try:
-        r_mag = requests.get(url_mag, headers=hdr_mag, timeout=5)
+        r_mag = requests.get(url_mag, headers=hdr_mag, timeout=10)
         r = r_mag.json()
         if "entities" in r.keys():
             if r["entities"]:
@@ -72,7 +72,9 @@ def search_doi_mag(loggr, hdr_mag, fullname, doi):
                     return [d, auid]
 
     except Exception as ex0:
+        print(f"doi_mag_timeout_{doi}")
         if "ConnectTimeout" in repr(ex0):
+            time.sleep(5.0)
             solution = search_doi_mag(loggr, hdr_mag, fullname, doi)
             return solution
 
@@ -83,7 +85,7 @@ def search_title_mag(loggr, hdr_mag, fullname, title, year):
     url_mag = f"https://api.labs.cognitive.microsoft.com/academic/v1.0/evaluate?{query}"
 
     try:
-        r_mag = requests.get(url_mag, headers=hdr_mag, timeout=5)
+        r_mag = requests.get(url_mag, headers=hdr_mag, timeout=10)
         r = r_mag.json()
         if "entities" in r.keys():
             for entity in r["entities"]:
@@ -100,7 +102,9 @@ def search_title_mag(loggr, hdr_mag, fullname, title, year):
                         return [d, auid]
 
     except Exception as ex0:
+        print(f"title_mag_timeout_{title}")
         if "ConnectTimeout" in repr(ex0):
+            time.sleep(5.0)
             solution = search_title_mag(loggr, hdr_mag, fullname, title, year)
             return solution
 
@@ -115,7 +119,7 @@ def search_title_oa(loggr, fullname, title, year):
     d = None
 
     try:
-        r_oa = requests.get(url_oa, timeout=5)
+        r_oa = requests.get(url_oa, timeout=10)
         hdrs_oa = r_oa.headers
 
         try:
@@ -151,7 +155,9 @@ def search_title_oa(loggr, fullname, title, year):
             loggr.error("OA__" + repr(ex1) + "__" + url_oa + "__" + hdrs_oa["Content-Type"])
 
     except Exception as ex0:
+        print(f"oa_timeout_{title}")
         if "ConnectTimeout" in repr(ex0):
+            time.sleep(5.0)
             solution = search_title_oa(loggr, fullname, title, year)
             return solution
 
@@ -166,7 +172,7 @@ def search_title_cr(loggr, hdr_cr, fullname, title, year):
     url_cr = f"https://api.crossref.org/works?{query}"
 
     try:
-        r_cr = requests.get(url_cr, headers=hdr_cr, timeout=5)
+        r_cr = requests.get(url_cr, headers=hdr_cr, timeout=60)
         hdrs_cr = r_cr.headers
 
         try:
@@ -187,7 +193,7 @@ def search_title_cr(loggr, hdr_cr, fullname, title, year):
 
                     for n in r["message"]["items"][idx]["author"]:
                         if "family" in n.keys():
-                            if "given" in n.keys:
+                            if "given" in n.keys():
                                 if n["family"].lower() == surname and n["given"].lower() == name:
                                     point_b += 2
                                 elif n["family"].lower() == surname and n["given"].lower()[0] == name[0]:
@@ -220,10 +226,12 @@ def search_title_cr(loggr, hdr_cr, fullname, title, year):
                 else:
                     loggr.error("CR__" + repr(ex1) + "__" + url_cr + "__" + r)
             else:
-                loggr.error("CR__" + repr(ex1) + "__" + url_cr + "__" + hdrs_cr["content-type"])
+                loggr.exception("CR__" + repr(ex1) + "__" + url_cr + "__" + hdrs_cr["content-type"])
 
     except Exception as ex0:
+        print(f"cr_timeout_{title}")
         if "ConnectTimeout" in repr(ex0):
+            time.sleep(5.0)
             solution = search_title_cr(loggr, hdr_cr, fullname, title, year)
             return solution
 

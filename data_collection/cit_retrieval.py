@@ -11,7 +11,7 @@ def search_cited(loggr, idt):
     query = f"expr=Id={idt}&attributes=Id,DOI,AA.AuN,AA.AuId,Ti,Y,J.JN"
     url_mag = f"https://api.labs.cognitive.microsoft.com/academic/v1.0/evaluate?{query}"
     try:
-        r_mag = requests.get(url_mag, headers=hdr_mag, timeout=5)
+        r_mag = requests.get(url_mag, headers=hdr_mag, timeout=10)
 
         try:
             r = r_mag.json()
@@ -33,9 +33,10 @@ def search_cited(loggr, idt):
                 solution = search_cited(loggr, idt)
                 return solution
             else:
-                loggr.error("MAG__" + repr(ex1) + "__" + url_mag)
+                loggr.exception("MAG__" + repr(ex1) + "__" + url_mag)
 
     except Exception as ex0:
+        print(f"cited_mag_timeout_{idt}")
         if "ConnectTimeout" in repr(ex0):
             time.sleep(5.0)
             solution = search_cited(loggr, idt)
@@ -50,7 +51,7 @@ def search_citing(loggr, idt):
     url_mag = f"https://api.labs.cognitive.microsoft.com/academic/v1.0/evaluate?{query}"
 
     try:
-        r_mag = requests.get(url_mag, headers=hdr_mag, timeout=5)
+        r_mag = requests.get(url_mag, headers=hdr_mag, timeout=10)
 
         try:
             r = r_mag.json()
@@ -75,9 +76,10 @@ def search_citing(loggr, idt):
                 solution = search_citing(loggr, idt)
                 return solution
             else:
-                loggr.error("MAG__" + repr(ex1) + "__" + url_mag)
+                loggr.exception("MAG__" + repr(ex1) + "__" + url_mag)
 
     except Exception as ex0:
+        print(f"citing_mag_timeout_{idt}")
         if "ConnectTimeout" in repr(ex0):
             time.sleep(5.0)
             solution = search_citing(loggr, idt)
@@ -130,7 +132,7 @@ def search_cr(loggr, doi):
     url_cr = f"https://api.crossref.org/works/{doi}"
     hdr_cr = {'User-Agent': 'mailto:federica.bologna17@gmail.com'}
     try:
-        r_cr = requests.get(url_cr, headers=hdr_cr)
+        r_cr = requests.get(url_cr, headers=hdr_cr, timeout=60)
         hdrs_cr = r_cr.headers
         d = dict()
 
@@ -159,6 +161,7 @@ def search_cr(loggr, doi):
                 loggr.error("CR__" + repr(ex1) + "__" + url_cr + "__" + hdrs_cr["content-type"])
 
     except Exception as ex0:
+        print(f"cr_cit_timeout_{doi}")
         if "ConnectTimeout" in repr(ex0):
             time.sleep(5.0)
             solution = search_cr(loggr, doi)
@@ -179,7 +182,7 @@ def search_coci(loggr, lim_cr, t, pubb):
     doi = pubb["doi"].lower()
     url_oc = f"https://opencitations.net/index/api/v1/{api}/{doi}?format=json"
     try:
-        r_oc = requests.get(url_oc)
+        r_oc = requests.get(url_oc, timeout=10)
         hdrs_oc = r_oc.headers
 
         try:
@@ -220,6 +223,7 @@ def search_coci(loggr, lim_cr, t, pubb):
             return pubb, lim_cr
 
     except Exception as ex0:
+        print(f"oc_timeout_{doi}")
         if "ConnectTimeout" in repr(ex0):
             time.sleep(5.0)
             sol1, sol2 = search_coci(loggr, lim_cr, t, pubb)
