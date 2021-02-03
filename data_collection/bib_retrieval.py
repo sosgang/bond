@@ -4,6 +4,7 @@ import requests
 
 
 def matching_pubbs(list_pubbs, new):
+
     value = 0
     n = len(list_pubbs)
     idx = 0
@@ -78,49 +79,55 @@ def matching_pubbs(list_pubbs, new):
     return value, list_pubbs
 
 
-def search_pubbs(author_id, pubbs, pubbs_mag, date):
+def search_pubbs(loggr, author_id, pubbs, pubbs_mag, date):
 
     hdr_mag = {'Ocp-Apim-Subscription-Key': 'ac0d6ea6f26845e8b41c0df9f4e45120'}
     query = f"And(Composite(AA.AuId={author_id}),Y<{date})&count=300&attributes=Id,DOI,Ti,Y,RId,J.JN,Pt"
     url_mag = f"https://api.labs.cognitive.microsoft.com/academic/v1.0/evaluate?expr={query}"
-    r = requests.get(url_mag, headers=hdr_mag).json()
+    try:
+        r_mag = requests.get(url_mag, headers=hdr_mag, timeout=5)
+        r = r_mag.json()
+        if "entities" in r.keys():
+            for entity in r["entities"]:
+                d = dict()
+                d["PId"] = entity["Id"]
+                d["year_mag"] = entity["Y"]
+                d["title"] = entity["Ti"]
+                if "Pt" in entity.keys():
+                    d["type"] = entity["Pt"]
+                if "DOI" in entity.keys():
+                    d["doi"] = entity["DOI"]
+                if "RId" in entity.keys():
+                    d["RId"] = entity["RId"]
+                if "J" in entity.keys():
+                    d["journal"] = entity["J"]["JN"]
 
-    if "entities" in r.keys():
-        for entity in r["entities"]:
-            d = dict()
-            d["PId"] = entity["Id"]
-            d["year_mag"] = entity["Y"]
-            d["title"] = entity["Ti"]
-            if "Pt" in entity.keys():
-                d["type"] = entity["Pt"]
-            if "DOI" in entity.keys():
-                d["doi"] = entity["DOI"]
-            if "RId" in entity.keys():
-                d["RId"] = entity["RId"]
-            if "J" in entity.keys():
-                d["journal"] = entity["J"]["JN"]
+                value, pubbs = matching_pubbs(pubbs, d)
+                if value == 0:
+                    pubbs_mag.append(d)
 
-            value, pubbs = matching_pubbs(pubbs, d)
-            if value == 0:
-                pubbs_mag.append(d)
+        return pubbs, pubbs_mag
 
-    return pubbs, pubbs_mag
+    except Exception as ex0:
+        if "ConnectTimeout" in repr(ex0):
+            solution = search_pubbs(loggr, author_id, pubbs, pubbs_mag, date)
+            return solution
 
 
-def retrieving_bib(authors_dict, limit):
+def retrieving_bib(logger, authors_dict, limit):
 
     for author, info in authors_dict.items():
 
         info["pubbs_mag"] = []
         for au_id in info["AuIds"]:
-            p_a, p_mag_a = search_pubbs(au_id, info["pubbs"], info["pubbs_mag"], limit)
+            p_a, p_mag_a = search_pubbs(logger, au_id, info["pubbs"], info["pubbs_mag"], limit)
             info["pubbs"] = p_a
             info["pubbs_mag"] = p_mag_a
 
     return authors_dict
 
 
-def adding_bib(dd):
+def adding_bib(logger, dd):
 
     print("adding bib")
 
@@ -145,10 +152,10 @@ def adding_bib(dd):
                         else:
                             limit = 2020
 
-                    dd["cand"][asn_year][term][role][field] = retrieving_bib(candidates, limit)
+                    dd["cand"][asn_year][term][role][field] = retrieving_bib(logger, candidates, limit)
 
     for asn_year, fields in dd["comm"].items():
         for field, commission in fields.items():
-            dd["comm"][asn_year][field] = retrieving_bib(commission, 2021)
+            dd["comm"][asn_year][field] = retrieving_bib(logger, commission, 2021)
 
     return dd

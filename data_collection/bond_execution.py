@@ -19,7 +19,7 @@ def BoND(cand_jsons_path, comm_csv_path, outcomes_path, final_path):
 
     ids_dict = adding_ids(logger, outcome_dict)  # adding AuIds and DOIs to the existing metadata
 
-    bib_dict = adding_bib(ids_dict)  # adding extra publications found in MAG
+    bib_dict = adding_bib(logger, ids_dict)  # adding extra publications found in MAG
 
     with open('bib_data.json', 'w') as bib_file:
         json.dump(bib_dict, bib_file, sort_keys=True, indent=4)
