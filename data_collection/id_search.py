@@ -74,7 +74,6 @@ def search_doi_mag(loggr, hdr_mag, fullname, doi):
                     return [d, auid]
 
     except Exception as ex0:
-        print(f"doi_mag_timeout_{doi}")
         if "ConnectTimeout" in repr(ex0):
             time.sleep(5.0)
             solution = search_doi_mag(loggr, hdr_mag, fullname, doi)
@@ -104,7 +103,6 @@ def search_title_mag(loggr, hdr_mag, fullname, title, year):
                         return [d, auid]
 
     except Exception as ex0:
-        print(f"title_mag_timeout_{title}")
         if "ConnectTimeout" in repr(ex0):
             time.sleep(5.0)
             solution = search_title_mag(loggr, hdr_mag, fullname, title, year)
@@ -157,7 +155,6 @@ def search_title_oa(loggr, fullname, title, year):
             loggr.error("OA__" + repr(ex1) + "__" + url_oa + "__" + hdrs_oa["Content-Type"])
 
     except Exception as ex0:
-        print(f"oa_timeout_{title}")
         if "ConnectTimeout" in repr(ex0):
             time.sleep(5.0)
             solution = search_title_oa(loggr, fullname, title, year)
@@ -222,7 +219,6 @@ def search_title_cr(loggr, hdr_cr, fullname, title, year):
                 r = r_cr.text
                 if "503" in r:
                     time.sleep(5.0)
-                    print(f"attempt:{url_cr}")
                     solution = search_title_cr(loggr, hdr_cr, fullname, title, year)
                     return solution
                 else:
@@ -231,7 +227,6 @@ def search_title_cr(loggr, hdr_cr, fullname, title, year):
                 loggr.exception("CR__" + repr(ex1) + "__" + url_cr + "__" + hdrs_cr["content-type"])
 
     except Exception as ex0:
-        print(f"cr_timeout_{title}")
         if "ConnectTimeout" in repr(ex0):
             time.sleep(5.0)
             solution = search_title_cr(loggr, hdr_cr, fullname, title, year)

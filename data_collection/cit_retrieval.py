@@ -38,7 +38,6 @@ def search_cited(loggr, idt):
                 loggr.exception("MAG__" + repr(ex1) + "__" + url_mag)
 
     except Exception as ex0:
-        print(f"cited_mag_timeout_{idt}")
         if "ConnectTimeout" in repr(ex0):
             time.sleep(5.0)
             solution = search_cited(loggr, idt)
@@ -81,7 +80,6 @@ def search_citing(loggr, idt):
                 loggr.exception("MAG__" + repr(ex1) + "__" + url_mag)
 
     except Exception as ex0:
-        print(f"citing_mag_timeout_{idt}")
         if "ConnectTimeout" in repr(ex0):
             time.sleep(5.0)
             solution = search_citing(loggr, idt)
@@ -154,7 +152,6 @@ def search_cr(loggr, doi):
                 r2 = r_cr.text
                 if "503" in r2:
                     time.sleep(5.0)
-                    print(f"attempt:{url_cr}")
                     solution = search_cr(loggr, doi)
                     return solution
                 else:
@@ -163,7 +160,6 @@ def search_cr(loggr, doi):
                 loggr.error("CR__" + repr(ex1) + "__" + url_cr + "__" + hdrs_cr["content-type"])
 
     except Exception as ex0:
-        print(f"cr_cit_timeout_{doi}")
         if "ConnectTimeout" in repr(ex0):
             time.sleep(5.0)
             solution = search_cr(loggr, doi)
@@ -216,7 +212,6 @@ def search_coci(loggr, lim_cr, t, pubb):
                 loggr.error("COCI__" + repr(ex1) + "__" + url_oc + "__" + r1)
             elif "MaxRetryError" in repr(ex1):
                 time.sleep(5.0)
-                print(f"attempt:{url_oc}")
                 sol1, sol2 = search_coci(loggr, lim_cr, t, pubb)
                 return sol1, sol2
             else:
@@ -225,7 +220,6 @@ def search_coci(loggr, lim_cr, t, pubb):
             return pubb, lim_cr
 
     except Exception as ex0:
-        print(f"oc_timeout_{doi}")
         if "ConnectTimeout" in repr(ex0):
             time.sleep(5.0)
             sol1, sol2 = search_coci(loggr, lim_cr, t, pubb)
