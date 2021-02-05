@@ -113,6 +113,7 @@ def search_pubbs(loggr, author_id, pubbs, pubbs_mag, date):
 
     except Exception as ex0:
         if "ConnectTimeout" in repr(ex0):
+            loggr.error("MAG-bib__" + repr(ex0) + "__" + url_mag)
             time.sleep(5.0)
             solution = search_pubbs(loggr, author_id, pubbs, pubbs_mag, date)
             return solution
@@ -131,6 +132,7 @@ def retrieving_bib(logger, info, limit):
 
 def adding_bib(logger, dd):
 
+    logger.error("________________RETRIEVE BIB________________")
     print("adding bib")
 
     bib_folder = os.path.join(os.getcwd(), "bib_data")
@@ -163,8 +165,13 @@ def adding_bib(logger, dd):
 
                         if os.path.exists(cand_file) is False:
                             dd["cand"][asn_year][term][role][field][cand_id] = retrieving_bib(logger, cand_dict, limit)
+                            cand_bib_dict = dd["cand"][asn_year][term][role][field][cand_id]
                             with open(cand_file, 'w') as bib_file:
-                                json.dump(cand_dict, bib_file, sort_keys=True, indent=4)
+                                json.dump(cand_bib_dict, bib_file, sort_keys=True, indent=4)
+                        else:
+                            with open(cand_file) as bib_file:
+                                cand_bib_dict = json.load(bib_file)
+                                dd["cand"][asn_year][term][role][field][cand_id] = cand_bib_dict
 
     for asn_year, fields in dd["comm"].items():
         for field, commission in fields.items():
@@ -174,7 +181,12 @@ def adding_bib(logger, dd):
 
                 if os.path.exists(comm_file) is False:
                     dd["comm"][asn_year][field][comm_id] = retrieving_bib(logger, comm_dict, 2021)
+                    comm_bib_dict = dd["comm"][asn_year][field][comm_id]
                     with open(comm_file, 'w') as bib_file:
-                        json.dump(comm_dict, bib_file, sort_keys=True, indent=4)
+                        json.dump(comm_bib_dict, bib_file, sort_keys=True, indent=4)
+                else:
+                    with open(comm_file) as bib_file:
+                        comm_bib_dict = json.load(bib_file)
+                        dd["comm"][asn_year][field][comm_id] = comm_bib_dict
 
     return dd

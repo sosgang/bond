@@ -31,14 +31,16 @@ def search_cited(loggr, idt):
 
         except Exception as ex1:
             if "MaxRetryError" in repr(ex1):
+                loggr.error("MAG-cited__" + repr(ex1) + "__" + url_mag)
                 time.sleep(5.0)
                 solution = search_cited(loggr, idt)
                 return solution
             else:
-                loggr.exception("MAG__" + repr(ex1) + "__" + url_mag)
+                loggr.exception("MAG-cited__" + repr(ex1) + "__" + url_mag)
 
     except Exception as ex0:
         if "ConnectTimeout" in repr(ex0):
+            loggr.error("MAG-cited__" + repr(ex0) + "__" + url_mag)
             time.sleep(5.0)
             solution = search_cited(loggr, idt)
             return solution
@@ -73,14 +75,16 @@ def search_citing(loggr, idt):
 
         except Exception as ex1:
             if "MaxRetryError" in repr(ex1):
+                loggr.error("MAG-citing__" + repr(ex1) + "__" + url_mag)
                 time.sleep(5.0)
                 solution = search_citing(loggr, idt)
                 return solution
             else:
-                loggr.exception("MAG__" + repr(ex1) + "__" + url_mag)
+                loggr.exception("MAG-citing__" + repr(ex1) + "__" + url_mag)
 
     except Exception as ex0:
         if "ConnectTimeout" in repr(ex0):
+            loggr.error("MAG-citing__" + repr(ex0) + "__" + url_mag)
             time.sleep(5.0)
             solution = search_citing(loggr, idt)
             return solution
@@ -151,6 +155,7 @@ def search_cr(loggr, doi):
             if hdrs_cr["content-type"] == 'text/plain' or hdrs_cr["content-type"] == 'text/html':
                 r2 = r_cr.text
                 if "503" in r2:
+                    loggr.error("CR__" + repr(ex1) + "__" + url_cr)
                     time.sleep(5.0)
                     solution = search_cr(loggr, doi)
                     return solution
@@ -159,14 +164,19 @@ def search_cr(loggr, doi):
             else:
                 loggr.error("CR__" + repr(ex1) + "__" + url_cr + "__" + hdrs_cr["content-type"])
 
+            return d
+
     except Exception as ex0:
         if "ConnectTimeout" in repr(ex0):
+            loggr.error("CR__" + repr(ex0) + "__" + url_cr)
             time.sleep(5.0)
             solution = search_cr(loggr, doi)
             return solution
 
 
-def search_coci(loggr, lim_cr, t, pubb):
+def search_coci(loggr, t, pubb):
+
+    lim_cr = 0
 
     api = ""
     key = ""
@@ -199,31 +209,35 @@ def search_coci(loggr, lim_cr, t, pubb):
                         new_d = search_cr(loggr, cit)
                         lim_cr = 1
 
-                    if new_d is not None:
+                    if new_d:
                         value = matching_coci(loggr, pubb[key], new_d)
                         if value == 0:
                             pubb[key].append(new_d)
 
-            return pubb, lim_cr
+            return pubb
 
         except Exception as ex1:
-            if hdrs_oc['Content-Type'] == 'text/plain':
+            if hdrs_oc['Content-Type'] == 'text/html':
                 r1 = r_oc.text
                 loggr.error("COCI__" + repr(ex1) + "__" + url_oc + "__" + r1)
+
             elif "MaxRetryError" in repr(ex1):
+                loggr.error("COCI__" + repr(ex1) + "__" + url_oc)
                 time.sleep(5.0)
-                sol1, sol2 = search_coci(loggr, lim_cr, t, pubb)
-                return sol1, sol2
+                solution = search_coci(loggr, t, pubb)
+                return solution
+
             else:
                 loggr.error("COCI__" + repr(ex1) + "__" + url_oc + "__" + hdrs_oc["Content-Type"])
 
-            return pubb, lim_cr
+            return pubb
 
     except Exception as ex0:
         if "ConnectTimeout" in repr(ex0):
+            loggr.error("COCI__" + repr(ex0) + "__" + url_oc)
             time.sleep(5.0)
-            sol1, sol2 = search_coci(loggr, lim_cr, t, pubb)
-            return sol1, sol2
+            solution = search_coci(loggr, t, pubb)
+            return solution
 
 
 def retrieving_cit(logger, info):
@@ -237,11 +251,17 @@ def retrieving_cit(logger, info):
             if result:
                 pub1["citing"] = result
         if "doi" in pub1.keys():
-            lim_cr0 = 0
-            pub_a, lim_cr1 = search_coci(logger, lim_cr0, 1, pub1)
-            pub_b, lim_cr2 = search_coci(logger, lim_cr1, 2, pub1)
-            pub1.update(pub_a)
-            pub1.update(pub_b)
+            pub_a = search_coci(logger, 1, pub1)
+            time.sleep(1.0)
+            pub_b = search_coci(logger, 2, pub1)
+            if pub_a is not None:
+                pub1.update(pub_a)
+            else:
+                logger.error(f"Cit OC: NoneType__{info['fullname']}__{pub1['doi']}")
+            if pub_b is not None:
+                pub1.update(pub_b)
+            else:
+                logger.error(f"Cit OC: NoneType__{info['fullname']}__{pub1['doi']}")
 
     for pub2 in info["pubbs_mag"]:
         if "RId" in pub2.keys():
@@ -252,11 +272,17 @@ def retrieving_cit(logger, info):
             if result:
                 pub2["citing"] = result
         if "doi" in pub2.keys():
-            lim_cr0 = 0
-            pub_a, lim_cr1 = search_coci(logger, lim_cr0, 1, pub2)
-            pub_b, lim_cr2 = search_coci(logger, lim_cr1, 2, pub2)
-            pub2.update(pub_a)
-            pub2.update(pub_b)
+            pub_a = search_coci(logger, 1, pub2)
+            time.sleep(1.0)
+            pub_b = search_coci(logger, 2, pub2)
+            if pub_a is not None:
+                pub2.update(pub_a)
+            else:
+                logger.error(f"Cit OC: NoneType__{info['fullname']}__{pub2['doi']}")
+            if pub_b is not None:
+                pub2.update(pub_b)
+            else:
+                logger.error(f"Cit OC: NoneType__{info['fullname']}__{pub2['doi']}")
 
     return info
 
@@ -280,8 +306,13 @@ def adding_cit(logger, dd):
 
                         if os.path.exists(cand_file) is False:
                             dd["cand"][asn_year][term][role][field][cand_id] = retrieving_cit(logger, cand_dict)
+                            cand_cit_dict = dd["cand"][asn_year][term][role][field][cand_id]
                             with open(cand_file, 'w') as cit_file:
-                                json.dump(cand_dict, cit_file, sort_keys=True, indent=4)
+                                json.dump(cand_cit_dict, cit_file, sort_keys=True, indent=4)
+                        else:
+                            with open(cand_file) as cit_file:
+                                cand_cit_dict = json.load(cit_file)
+                                dd["cand"][asn_year][term][role][field][cand_id] = cand_cit_dict
 
     for asn_year, fields in dd["comm"].items():
         for field, commission in fields.items():
@@ -291,7 +322,12 @@ def adding_cit(logger, dd):
 
                 if os.path.exists(comm_file) is False:
                     dd["comm"][asn_year][field][comm_id] = retrieving_cit(logger, comm_dict)
+                    comm_cit_dict = dd["comm"][asn_year][field][comm_id]
                     with open(comm_file, 'w') as cit_file:
-                        json.dump(comm_dict, cit_file, sort_keys=True, indent=4)
+                        json.dump(comm_cit_dict, cit_file, sort_keys=True, indent=4)
+                else:
+                    with open(comm_file) as cit_file:
+                        comm_cit_dict = json.load(cit_file)
+                        dd["comm"][asn_year][field][comm_id] = comm_cit_dict
 
     return dd

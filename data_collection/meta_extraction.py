@@ -137,33 +137,29 @@ def extracting_metadata_comm(path):
         comm_csv = csv.reader(csvfile)
 
         for row in comm_csv:
-            if row[0]:
-                if row[0] in comm_dd.keys():
-                    if row[1] in comm_dd[row[0]].keys():
-                        if row[2] in comm_dd[row[0]][row[1]].keys():
-                            pub = dict()
-                            pub["id"] = row[5]
-                            pub["title"] = cleaning_title(row[6])
-                            pub["year"] = int(row[7])
-                            if row[8]:
-                                pub["doi"] = cleaning_doi(row[8])
-                            comm_dd[row[0]][row[1]][row[2]]["pubbs"].append(pub)
-                        # asn year, field, id
-                        else:
-                            comm_dd[row[0]][row[1]][row[2]] = dict()
-                            comm_dd[row[0]][row[1]][row[2]]["fullname"] = [row[3], row[4]]
-                            comm_dd[row[0]][row[1]][row[2]]["pubbs"] = []
-                            pub = dict()
-                            pub["id"] = row[5]
-                            pub["title"] = cleaning_title(row[6])
-                            pub["year"] = int(row[7])
-                            if row[8]:
-                                pub["doi"] = cleaning_doi(row[8])
-                            comm_dd[row[0]][row[1]][row[2]]["pubbs"].append(pub)
-                    else:
-                        comm_dd[row[0]][row[1]] = dict()
-                else:
+            if row[0] and row[0] != "asn_session":
+                if row[0] not in comm_dd.keys():
                     comm_dd[row[0]] = dict()
+
+                if row[1] not in comm_dd[row[0]].keys():
+                    comm_dd[row[0]][row[1]] = dict()
+
+                if row[2] not in comm_dd[row[0]][row[1]].keys():
+                    comm_dd[row[0]][row[1]][row[2]] = dict()
+
+                if "fullname" not in comm_dd[row[0]][row[1]][row[2]].keys():
+                    comm_dd[row[0]][row[1]][row[2]]["fullname"] = [row[3], row[4]]
+
+                if "pubbs" not in comm_dd[row[0]][row[1]][row[2]].keys():
+                    comm_dd[row[0]][row[1]][row[2]]["pubbs"] = []
+
+                pub = dict()
+                pub["id"] = row[5]
+                pub["title"] = cleaning_title(row[6])
+                pub["year"] = int(row[7])
+                if row[8]:
+                    pub["doi"] = cleaning_doi(row[8])
+                comm_dd[row[0]][row[1]][row[2]]["pubbs"].append(pub)
 
     return comm_dd
 

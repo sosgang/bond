@@ -75,6 +75,7 @@ def search_doi_mag(loggr, hdr_mag, fullname, doi):
 
     except Exception as ex0:
         if "ConnectTimeout" in repr(ex0):
+            loggr.error("MAG-doi-id__" + repr(ex0) + "__" + url_mag)
             time.sleep(5.0)
             solution = search_doi_mag(loggr, hdr_mag, fullname, doi)
             return solution
@@ -104,6 +105,7 @@ def search_title_mag(loggr, hdr_mag, fullname, title, year):
 
     except Exception as ex0:
         if "ConnectTimeout" in repr(ex0):
+            loggr.error("MAG-title-id__" + repr(ex0) + "__" + url_mag)
             time.sleep(5.0)
             solution = search_title_mag(loggr, hdr_mag, fullname, title, year)
             return solution
@@ -116,7 +118,7 @@ def search_title_oa(loggr, fullname, title, year):
     surname = cleaning_name(fullname[0].split(" ")[-1])
     query = f"title={keywords}&author={surname}&toDateAccepted={str(year)}-12-31&page=1&size=5&format=json"
     url_oa = f"http://api.openaire.eu/search/publications?{query}"
-    d = None
+    doi = ""
 
     try:
         r_oa = requests.get(url_oa, timeout=10)
@@ -133,29 +135,30 @@ def search_title_oa(loggr, fullname, title, year):
                         while idx < n:
                             if result["oaf:result"]["pid"][idx]["@classid"] == "doi":
                                 if "$" in result["oaf:result"]["pid"][idx].keys():
-                                    d = result["oaf:result"]["pid"][idx]["$"]
+                                    doi = result["oaf:result"]["pid"][idx]["$"]
                                     idx = n
                             idx += 1
 
                     elif result["oaf:result"]["pid"]["@classid"] == "doi":
                         if "$" in result["oaf:result"]["pid"].keys():
-                            d = result["oaf:result"]["pid"]["$"]
+                            doi = result["oaf:result"]["pid"]["$"]
 
                 else:
-                    d = None
+                    doi = ""
 
                 if "extraInfo" in result.keys() and result["extraInfo"]["@typology"] == "citations":
                     c_raw = result["extraInfo"]["citations"]["citation"]
                 else:
-                    c_raw = None
+                    c_raw = ""
 
-                return [d, c_raw]
+                return [doi, c_raw]
 
         except Exception as ex1:
             loggr.error("OA__" + repr(ex1) + "__" + url_oa + "__" + hdrs_oa["Content-Type"])
 
     except Exception as ex0:
         if "ConnectTimeout" in repr(ex0):
+            loggr.error("OA__" + repr(ex0) + "__" + url_oa)
             time.sleep(5.0)
             solution = search_title_oa(loggr, fullname, title, year)
             return solution
@@ -182,28 +185,31 @@ def search_title_cr(loggr, hdr_cr, fullname, title, year):
                 while idx < len(r["message"]["items"]):
                     point_a = 0
                     point_b = 0
-                    if r["message"]["items"][idx]["issued"]["date-parts"][0][0]:
-                        if r["message"]["items"][idx]["issued"]["date-parts"][0][0] == year:
-                            point_a += 3
-                        elif year - 1 < r["message"]["items"][idx]["issued"]["date-parts"][0][0] < year + 1:
-                            point_a += 2
-                        elif year - 2 < r["message"]["items"][idx]["issued"]["date-parts"][0][0] < year + 2:
-                            point_a += 1
+                    point_c = 0
+                    if "issued" in r["message"]["items"][idx].keys():
+                        if "date-parts" in r["message"]["items"][idx]["issued"].keys():
+                            if r["message"]["items"][idx]["issued"]["date-parts"][0][0]:
+                                if r["message"]["items"][idx]["issued"]["date-parts"][0][0] == year:
+                                    point_a += 3
+                                elif year - 1 < r["message"]["items"][idx]["issued"]["date-parts"][0][0] < year + 1:
+                                    point_a += 2
+                                elif year - 2 < r["message"]["items"][idx]["issued"]["date-parts"][0][0] < year + 2:
+                                    point_a += 1
 
-                    for n in r["message"]["items"][idx]["author"]:
-                        if "family" in n.keys():
-                            if "given" in n.keys():
-                                if n["family"].lower() == surname and n["given"].lower() == name:
-                                    point_b += 2
-                                elif n["family"].lower() == surname and n["given"].lower()[0] == name[0]:
+                    if "author" in r["message"]["items"][idx].keys():
+                        for n in r["message"]["items"][idx]["author"]:
+                            if "family" in n.keys():
+                                if "given" in n.keys():
+                                    if n["family"].lower() == surname and n["given"].lower() == name:
+                                        point_b += 2
+                                    elif n["family"].lower() == surname and n["given"].lower()[0] == name[0]:
+                                        point_b += 1
+                                elif n["family"].lower() == surname:
                                     point_b += 1
-                            elif n["family"].lower() == surname:
-                                point_b = 1
-                        else:
-                            point_b = 0
 
-                    title_pub = r["message"]["items"][idx]["title"][0].lower()
-                    point_c = Levenshtein.ratio(title, title_pub)
+                    if "title" in r["message"]["items"][idx].keys():
+                        title_pub = r["message"]["items"][idx]["title"][0].lower()
+                        point_c = Levenshtein.ratio(title, title_pub)
 
                     possible.append((point_c, point_b, point_a, idx))
                     idx += 1
@@ -228,6 +234,7 @@ def search_title_cr(loggr, hdr_cr, fullname, title, year):
 
     except Exception as ex0:
         if "ConnectTimeout" in repr(ex0):
+            loggr.error("CR__" + repr(ex0) + "__" + url_cr)
             time.sleep(5.0)
             solution = search_title_cr(loggr, hdr_cr, fullname, title, year)
             return solution
@@ -301,8 +308,13 @@ def adding_ids(logger, dd):
 
                         if os.path.exists(cand_file) is False:
                             dd["cand"][asn_year][term][role][field][cand_id] = searching_ids(logger, cand_dict)
+                            cand_id_dict = dd["cand"][asn_year][term][role][field][cand_id]
                             with open(cand_file, 'w') as id_file:
-                                json.dump(cand_dict, id_file, sort_keys=True, indent=4)
+                                json.dump(cand_id_dict, id_file, sort_keys=True, indent=4)
+                        else:
+                            with open(cand_file) as id_file:
+                                cand_id_dict = json.load(id_file)
+                                dd["cand"][asn_year][term][role][field][cand_id] = cand_id_dict
 
     for asn_year, fields in dd["comm"].items():
         for field, commission in fields.items():
@@ -312,8 +324,12 @@ def adding_ids(logger, dd):
 
                 if os.path.exists(comm_file) is False:
                     dd["comm"][asn_year][field][comm_id] = searching_ids(logger, comm_dict)
-
+                    comm_id_dict = dd["comm"][asn_year][field][comm_id]
                     with open(comm_file, 'w') as id_file:
-                        json.dump(comm_dict, id_file, sort_keys=True, indent=4)
+                        json.dump(comm_id_dict, id_file, sort_keys=True, indent=4)
+                else:
+                    with open(comm_file) as id_file:
+                        comm_id_dict = json.load(id_file)
+                        dd["comm"][asn_year][field][comm_id] = comm_id_dict
 
     return dd
