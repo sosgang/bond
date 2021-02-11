@@ -245,6 +245,7 @@ def retrieving_cit(logger, info):
 
     for pub1 in info["pubbs"]:
         if "RId" in pub1.keys():
+            pub1["cited"] = []
             for rid in pub1["RId"]:
                 result = search_cited(logger, rid)
                 if result:
@@ -269,6 +270,7 @@ def retrieving_cit(logger, info):
 
     for pub2 in info["pubbs_mag"]:
         if "RId" in pub2.keys():
+            pub2["cited"] = []
             for rid in pub2["RId"]:
                 result = search_cited(logger, rid)
                 if result:
