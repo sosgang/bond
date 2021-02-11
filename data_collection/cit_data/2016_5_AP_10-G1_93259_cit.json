@@ -1,0 +1,877 @@
+{
+    "AuIds": [
+        2790045157,
+        2782846710,
+        2716354443,
+        2637352273,
+        2751037590
+    ],
+    "fullname": [
+        "Pecorari",
+        "Filippo"
+    ],
+    "ind_anvur": [
+        10,
+        1,
+        1,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "978-3-631-67036-1"
+            ],
+            "PId": 2792127150,
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "1"
+            },
+            "title": "anaphoric encapsulation and reported speech lines of interaction between referential coherence and enunciative coherence in the italian press",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-7667-663-5"
+            ],
+            "ISSN": [
+                "1824-2855"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "2"
+            },
+            "title": "gli impieghi comunicativi dei puntini di sospensione nell italiano contemporaneo",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-904330-8-5"
+            ],
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "title": "punteggiatura comunicativa e prosodia",
+            "type": "contributo in atti di convegno",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-6274-760-8"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "4"
+            },
+            "title": "quando i processi diventano referenti l incapsulazione anaforica tra grammatica e coesione testuale vol 16 ",
+            "type": "monografia o trattato scientifico",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1023-2044"
+            ],
+            "PId": 2783913086,
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "5"
+            },
+            "journal": "BULLETIN SUISSE DE LINGUISTIQUE APPLIQU\u00c9E",
+            "title": "l incapsulazione anaforica nell italiano contemporaneo analisi di un corpus giornalistico",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1023-2044"
+            ],
+            "PId": 2245153198,
+            "cited": [
+                {
+                    "PId": 1571009574,
+                    "author": [
+                        {
+                            "AuId": 2589294338,
+                            "AuN": "m a k halliday"
+                        },
+                        {
+                            "AuId": 2104613981,
+                            "AuN": "j r martin"
+                        }
+                    ],
+                    "title": "writing science literacy and discursive power",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2001770904,
+                    "author": [
+                        {
+                            "AuId": 2101041973,
+                            "AuN": "allan bell"
+                        }
+                    ],
+                    "title": "the language of news media",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 1544217300,
+                    "author": [
+                        {
+                            "AuId": 1958940450,
+                            "AuN": "kees hengeveld"
+                        },
+                        {
+                            "AuId": 2483395218,
+                            "AuN": "simon c dik"
+                        }
+                    ],
+                    "title": "the structure of the clause",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 566483550,
+                    "author": [
+                        {
+                            "AuId": 144023391,
+                            "AuN": "oswald ducrot"
+                        }
+                    ],
+                    "title": "le dire et le dit",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 625301976,
+                    "author": [
+                        {
+                            "AuId": 1194265407,
+                            "AuN": "marina sbisa"
+                        }
+                    ],
+                    "title": "detto non detto le forme della comunicazione implicita",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2316546790,
+                    "author": [
+                        {
+                            "AuId": 2208897122,
+                            "AuN": "john a bateman"
+                        }
+                    ],
+                    "doi": "10.1515/ZFSW.1995.14.1.91",
+                    "journal": "zeitschrift fur sprachwissenschaft",
+                    "title": "rezension von dik simon c functional grammar in prolog an integrated implementation for english french and dutch berlin new york mouton de gruyter 1992",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 335164637,
+                    "author": [
+                        {
+                            "AuId": 2243511639,
+                            "AuN": "angela ferrari"
+                        },
+                        {
+                            "AuId": 1362469952,
+                            "AuN": "luca cignetti"
+                        },
+                        {
+                            "AuId": 2000218412,
+                            "AuN": "annamaria de cesare"
+                        },
+                        {
+                            "AuId": 1785003127,
+                            "AuN": "letizia lala"
+                        },
+                        {
+                            "AuId": 2115246645,
+                            "AuN": "magda mandelli"
+                        },
+                        {
+                            "AuId": 2234771931,
+                            "AuN": "claudia ricci"
+                        },
+                        {
+                            "AuId": 610769054,
+                            "AuN": "enrico roggia"
+                        }
+                    ],
+                    "title": "l interfaccia lingua testo natura e funzioni dell articolazione informativa dell enunciato",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2245885011,
+                    "author": [
+                        {
+                            "AuId": 2243511639,
+                            "AuN": "angela ferrari"
+                        }
+                    ],
+                    "doi": "10.1400/271727",
+                    "title": "linguistica del testo",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2940762021,
+                    "author": [
+                        {
+                            "AuId": 2052768260,
+                            "AuN": "emilia maria calaresu"
+                        }
+                    ],
+                    "title": "testuali parole la dimensione pragmatica e testuale del discorso riportato",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2662223045,
+                    "author": [
+                        {
+                            "AuId": 2243511639,
+                            "AuN": "angela ferrari"
+                        }
+                    ],
+                    "title": "linguistica del testo principi fenomeni strutture",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 605451324,
+                    "author": [
+                        {
+                            "AuId": 2130921422,
+                            "AuN": "gianluca colella"
+                        }
+                    ],
+                    "title": "il discorso riportato",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 4351446,
+                    "author": [
+                        {
+                            "AuId": 2323177920,
+                            "AuN": "maria debora de fazio"
+                        }
+                    ],
+                    "journal": "lingua e stile",
+                    "title": "l italiano giornalistico dall inizio del 900 ai quotidiani on line",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2279804979,
+                    "author": [
+                        {
+                            "AuId": 2243511639,
+                            "AuN": "angela ferrari"
+                        }
+                    ],
+                    "title": "aspetti semantici e informativi della nominalizzazione sintagmatica",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2288174760,
+                    "author": [
+                        {
+                            "AuId": 2678587930,
+                            "AuN": "anna maria de cesare"
+                        },
+                        {
+                            "AuId": 2283126464,
+                            "AuN": "laura baranzini"
+                        }
+                    ],
+                    "title": "la variete syntaxique des depeches d agence publiees en ligne reflexions a partir d un corpus de langue italienne",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 3012134162,
+                    "author": [
+                        {
+                            "AuId": 3011766967,
+                            "AuN": "l lala"
+                        }
+                    ],
+                    "title": "l incapsulatore anaforico cosa nell orale e nello scritto",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1964643630,
+                    "author": [
+                        {
+                            "AuId": 162955447,
+                            "AuN": "claudia caffi"
+                        }
+                    ],
+                    "doi": "10.1016/0378-2166(84)90037-7",
+                    "journal": "journal of pragmatics",
+                    "title": "some remarks on illocution and metacommunication",
+                    "year_mag": 1984
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "journal": "BULLETIN SUISSE DE LINGUISTIQUE APPLIQU\u00c9E",
+            "title": "incapsulatori anaforici e discorso riportato nell italiano giornalistico sfruttamenti coesivi della dimensione enunciativa",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "1600-0811"
+            ],
+            "PId": 2315190142,
+            "cited": [
+                {
+                    "PId": 2169789327,
+                    "author": [
+                        {
+                            "AuId": 2116754257,
+                            "AuN": "renata vieira"
+                        },
+                        {
+                            "AuId": 314690538,
+                            "AuN": "massimo poesio"
+                        }
+                    ],
+                    "doi": "10.1162/089120100750105948",
+                    "journal": "computational linguistics",
+                    "title": "an empirically based system for processing definite descriptions",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1911315034,
+                    "author": [
+                        {
+                            "AuId": 2483395218,
+                            "AuN": "simon c dik"
+                        },
+                        {
+                            "AuId": 1958940450,
+                            "AuN": "kees hengeveld"
+                        }
+                    ],
+                    "doi": "10.1515/9783110218374",
+                    "title": "the theory of functional grammar part ii complex and derived constructions",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1980366261,
+                    "author": [
+                        {
+                            "AuId": 149195590,
+                            "AuN": "kees van deemter"
+                        },
+                        {
+                            "AuId": 1966777572,
+                            "AuN": "rodger kibble"
+                        }
+                    ],
+                    "doi": "10.1162/089120100750105966",
+                    "journal": "computational linguistics",
+                    "title": "on coreferring coreference in muc and related annotation schemes",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1581670392,
+                    "author": [
+                        {
+                            "AuId": 2274833084,
+                            "AuN": "ivana kruijffkorbayova"
+                        },
+                        {
+                            "AuId": 2112881711,
+                            "AuN": "mark steedman"
+                        }
+                    ],
+                    "doi": "10.1023/A:1024160025821",
+                    "journal": "journal of logic language and information",
+                    "title": "discourse and information structure",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 161167887,
+                    "author": [
+                        {
+                            "AuId": 2986311949,
+                            "AuN": "t givon"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.3.01GIV",
+                    "title": "topic continuity in discourse an introduction",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2083541983,
+                    "author": [
+                        {
+                            "AuId": 2041835375,
+                            "AuN": "stefan langer"
+                        }
+                    ],
+                    "doi": "10.1075/LI.27.2.03LAN",
+                    "journal": "lingvisticae investigationes",
+                    "title": "a linguistic test battery for support verb constructions",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2135102358,
+                    "author": [
+                        {
+                            "AuId": 2116754257,
+                            "AuN": "renata vieira"
+                        },
+                        {
+                            "AuId": 1806051850,
+                            "AuN": "simone teufel"
+                        }
+                    ],
+                    "doi": "10.3115/976909.979689",
+                    "title": "towards resolution of bridging descriptions",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2155887962,
+                    "author": [
+                        {
+                            "AuId": 74707377,
+                            "AuN": "morton ann gernsbacher"
+                        }
+                    ],
+                    "doi": "10.1080/01690969108406939",
+                    "journal": "language and cognitive processes",
+                    "title": "comprehending conceptual anaphors",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 1986161504,
+                    "author": [
+                        {
+                            "AuId": 2566829883,
+                            "AuN": "robert de beaugrande"
+                        },
+                        {
+                            "AuId": 2028881588,
+                            "AuN": "wolfgang u dressler"
+                        }
+                    ],
+                    "doi": "10.1515/9783111349305",
+                    "journal": "language",
+                    "title": "einfuhrung in die textlinguistik",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 55776252,
+                    "author": [
+                        {
+                            "AuId": 2243511639,
+                            "AuN": "angela ferrari"
+                        },
+                        {
+                            "AuId": 2000218412,
+                            "AuN": "annamaria de cesare"
+                        }
+                    ],
+                    "title": "la progressione tematica rivisitata",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1905610750,
+                    "author": [
+                        {
+                            "AuId": 2314503628,
+                            "AuN": "margarita borreguero zuloaga"
+                        }
+                    ],
+                    "doi": "10.5209/REV_CFIT.2006.V13.17827",
+                    "title": "naturaleza y funcion de los encapsuladores en los textos informativamente densos la noticia periodistica",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2884833024,
+                    "author": [
+                        {
+                            "AuId": 1996952422,
+                            "AuN": "mariejose reichlerbeguelin"
+                        }
+                    ],
+                    "doi": "10.3406/PRATI.1988.1470",
+                    "title": "anaphore cataphore et memoire discursive",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2227861538,
+                    "author": [
+                        {
+                            "AuId": 2494139150,
+                            "AuN": "sebastian loebner"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-009-3381-1_7",
+                    "title": "natural language and generalized quantifier theory",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2105215271,
+                    "author": [
+                        {
+                            "AuId": 318893072,
+                            "AuN": "tommaso caselli"
+                        }
+                    ],
+                    "journal": "procesamiento del lenguaje natural",
+                    "title": "using a generative lexicon resource to compute bridging anaphora in italian",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 31197267,
+                    "author": [
+                        {
+                            "AuId": 2883701029,
+                            "AuN": "claude perrin"
+                        },
+                        {
+                            "AuId": 2666614589,
+                            "AuN": "caroline masseron"
+                        },
+                        {
+                            "AuId": 2884464139,
+                            "AuN": "agnes auricchio"
+                        }
+                    ],
+                    "doi": "10.3406/PRATI.1995.1735",
+                    "title": "l anaphore demonstrative a fonction resomptive",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2527001269,
+                    "author": [
+                        {
+                            "AuId": 2527053136,
+                            "AuN": "m e conte"
+                        }
+                    ],
+                    "journal": "lingua e stile",
+                    "title": "dimostrativi nel testo tra continuita e discontinuita referenziale",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 133084411,
+                    "author": [
+                        {
+                            "AuId": 2661067969,
+                            "AuN": "i korzen"
+                        }
+                    ],
+                    "journal": "lingua nostra",
+                    "title": "anafore e relazioni anaforiche un approccio pragmatico cognitivo",
+                    "year_mag": 2001
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Lambrecht",
+                            "given": "Knud",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511620607",
+                    "title": "information structure and sentence form",
+                    "year_oc": 1994
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Brown",
+                            "given": "Gillian",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Yule",
+                            "given": "George",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511805226",
+                    "title": "discourse analysis",
+                    "year_oc": 1983
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Searle",
+                            "given": "John R.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139173438",
+                    "title": "speech acts",
+                    "year_oc": 1969
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Bologna, Italy"
+                                }
+                            ],
+                            "family": "Prandi",
+                            "given": "Michele",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/HCP.13",
+                    "title": "the building blocks of meaning",
+                    "year_oc": 2004
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Chafe",
+                            "given": "Wallace",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.11.03CHA",
+                    "title": "cognitive constraints on information flow",
+                    "year_oc": 1987
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.1075/RRO.50.2.03PEC",
+            "journal": "REVUE ROMANE",
+            "title": "la coesione testuale dei lanci di agenzia uno studio delle anafore di ordine superiore",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-2-915271-80-5"
+            ],
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "title": "associative anaphora between event denoting antecedents",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9783034315630"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "9"
+            },
+            "title": "metalinguistico metatestuale e metacomunicativo mezzi di coesione testuale tra anafora e deissi",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788876675065"
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "10"
+            },
+            "title": "ai confini dell incapsulazione anaforica strategie incapsulative non prototipiche",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788896312568"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "11"
+            },
+            "title": "l incapsulazione zero aspetti semantici informativi e testuali",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "2386-2629"
+            ],
+            "PId": 2751627226,
+            "cited": [
+                {
+                    "PId": 592390879,
+                    "author": [
+                        {
+                            "AuId": 346496385,
+                            "AuN": "maurizio dardano"
+                        },
+                        {
+                            "AuId": 2278263279,
+                            "AuN": "pietro trifone"
+                        }
+                    ],
+                    "title": "grammatica italiana con nozioni di linguistica",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 653432894,
+                    "author": [
+                        {
+                            "AuId": 2724376052,
+                            "AuN": "bice garavelli mortara"
+                        }
+                    ],
+                    "title": "prontuario di punteggiatura",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1580749560,
+                    "author": [
+                        {
+                            "AuId": 2619641836,
+                            "AuN": "luca serianni"
+                        },
+                        {
+                            "AuId": 620063992,
+                            "AuN": "alberto castelvecchi"
+                        }
+                    ],
+                    "title": "grammatica italiana italiano comune e lingua letteraria",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2579134520,
+                    "author": [
+                        {
+                            "AuId": 152930314,
+                            "AuN": "edoardo lombardi vallauri"
+                        }
+                    ],
+                    "title": "ipotetiche libere nel non parlato",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2039883898,
+                    "author": [
+                        {
+                            "AuId": 346496385,
+                            "AuN": "maurizio dardano"
+                        }
+                    ],
+                    "doi": "10.2307/413164",
+                    "journal": "language",
+                    "title": "il linguaggio dei giornali italiani",
+                    "year_mag": 1975
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1"
+            },
+            "journal": "CHIMERA",
+            "title": "puntini di sospensione e mimesi del parlato le facce del rapporto tra punteggiatura e prosodia",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "2083-7275"
+            ],
+            "cited_raw": [
+                {
+                    "@position": "1",
+                    "rawText": {
+                        "$": "Berrendonner A. 1990. \u201ePour une macro-syntaxe\u201d. Travaux de linguistique (21) : 25-36."
+                    }
+                },
+                {
+                    "@position": "2",
+                    "rawText": {
+                        "$": "Cresti E. 2000. Corpus di italiano parlato, 2 voll., Firenze."
+                    }
+                },
+                {
+                    "@position": "3",
+                    "rawText": {
+                        "$": "Ferrari A. 2003. Le ragioni del testo. Aspetti morfosintattici e interpuntivi dell'italiano contemporaneo, Firenze."
+                    }
+                },
+                {
+                    "@position": "4",
+                    "rawText": {
+                        "$": "Ferrari A., Lala L. 2013. \u201eLa virgola nell'italiano contemporaneo. Per un approccio testuale (pi\u00f9) radicale\u201d. Studi di grammatica italiana (29-30) : 479-501."
+                    }
+                },
+                {
+                    "@position": "5",
+                    "rawText": {
+                        "$": "Ferrari A., Mandelli M. 2010. Virgules, et coordination. Aspects s\u00e9mantiques, informationnels et textuels, [in:] La Parataxe. Actes du Colloque International de Macro-syntaxe (Neuch\u00e2- tel, 12-15 f\u00e9vrier 2007), a c. di M.-J. B\u00e9guelin et al., Bern: 269-84."
+                    }
+                },
+                {
+                    "@position": "6",
+                    "rawText": {
+                        "$": "Ferrari A., Pecorari F. 2017. Punteggiatura comunicativa e prosodia, [in:] Linguisti in contatto 2. Ricerche di linguistica italiana in Svizzera e sulla Svizzera. Atti del Convegno di Bellinzona, 19-21 novembre 2015, a c. di B. Moretti et al., Bellinzona: 377-89."
+                    }
+                },
+                {
+                    "@position": "7",
+                    "rawText": {
+                        "$": "Ferrari A., Zampese L. 2000. Dalla frase al testo. Una grammatica per l'italiano, Bologna."
+                    }
+                },
+                {
+                    "@position": "8",
+                    "rawText": {
+                        "$": "Ferrari A. et al. 2008. L'interfaccia lingua-testo. Natura e funzioni dell'articolazione informativa dell'enunciato, Alessandria."
+                    }
+                },
+                {
+                    "@position": "9",
+                    "rawText": {
+                        "$": "Lang E. 1984. The semantics of coordination, Amsterdam."
+                    }
+                },
+                {
+                    "@position": "10",
+                    "rawText": {
+                        "$": "Mandelli M. 2011. La coordinazione sintattica nella costruzione del testo, Gen\u00e8ve."
+                    }
+                },
+                {
+                    "@position": "11",
+                    "rawText": {
+                        "$": "Mortara Garavelli B. 2003. Prontuario di punteggiatura, Roma-Bari."
+                    }
+                },
+                {
+                    "@position": "12",
+                    "rawText": {
+                        "$": "Sabatini F., Coletti V. 2006. Il Sabatini-Coletti. Dizionario della lingua italiana, Milano."
+                    }
+                },
+                {
+                    "@position": "13",
+                    "rawText": {
+                        "$": "Serafini F. 2012. Questo \u00e8 il punto. Istruzioni per l'uso della punteggiatura, Roma-Bari."
+                    }
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2"
+            },
+            "doi": "10.24917/20837275.9.1.16",
+            "journal": "IX",
+            "title": "punteggiatura e coordinazione sintattica il caso dei puntini di sospensione e della lineetta singola annales universitatis paedagogicae cracoviensis studia de cultura vol",
+            "type": "articolo in rivista",
+            "year": 2017
+        }
+    ],
+    "pubbs_mag": []
+}

@@ -1,0 +1,752 @@
+{
+    "AuIds": [
+        3047871970
+    ],
+    "fullname": [
+        "Ferroni",
+        "Filippo"
+    ],
+    "ind_anvur": [
+        5,
+        3,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1466-4283"
+            ],
+            "cited_raw": [
+                {
+                    "@position": "1",
+                    "id": {
+                        "@confidenceLevel": "0.65310436",
+                        "@type": "openaire",
+                        "@value": "od_______645::f7d88d5c6ebebd7dfc4f4721b99216d5"
+                    },
+                    "rawText": {
+                        "$": "Altissimo, F., Bassanetti, A., Cristadoro, R., Forni, M., Hallin, M., Lippi, M., Reichlin, L. and Veronese, G.: 2001, Eurocoin: A real time coincident indicator of the euro area business cycle, CEPR Discussion Papers 3108, C.E.P.R. Discussion Papers."
+                    }
+                },
+                {
+                    "@position": "2",
+                    "rawText": {
+                        "$": "Altissimo, F., Cristadoro, R., Forni, M., Lippi, M. and Veronese, G.: 2010, New eurocoin: Tracking economic growth in real time, The Review of Economics and Statistics 92(4), 1024{1034."
+                    }
+                },
+                {
+                    "@position": "3",
+                    "rawText": {
+                        "$": "Bai, J. and Ng, S.: 2002, Determining the number of factors in approximate factor models, Econometrica 70(1), 191{221."
+                    }
+                },
+                {
+                    "@position": "4",
+                    "id": {
+                        "@confidenceLevel": "0.63159585",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::3027432732a45b84496a210443fdd1fe"
+                    },
+                    "rawText": {
+                        "$": "Banbura, M. and Modugno, M.: 2012, Maximum likelihood estimation of factor models on datasets with arbitrary pattern of missing data, Journal of Applied Econometrics pp. 1{27."
+                    }
+                },
+                {
+                    "@position": "5",
+                    "rawText": {
+                        "$": "Caggiano, G. and Leonida, L.: 2009, International output convergence: evidence from an autocorrelation function approach, Journal of Applied Econometrics 24(1), 139{162."
+                    }
+                },
+                {
+                    "@position": "6",
+                    "id": {
+                        "@confidenceLevel": "0.59972584",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::e4b713b35c1981a3b7400c640131113c"
+                    },
+                    "rawText": {
+                        "$": "Canova, F. and Ciccarelli, M.: 2009, Estimating Multi-country VAR models, International Economic Review 50, 929{961."
+                    }
+                },
+                {
+                    "@position": "7",
+                    "id": {
+                        "@confidenceLevel": "0.692776",
+                        "@type": "openaire",
+                        "@value": "scholix_____::59bc46868b4d18420ad27ab5b6908b1e"
+                    },
+                    "rawText": {
+                        "$": "Canova, F. and Ciccarelli, M.: 2013, Panel Vector of Autoregressive Models: A Survey, Advance in Economerics 31."
+                    }
+                },
+                {
+                    "@position": "8",
+                    "rawText": {
+                        "$": "Ciccarelli, M., Ortega, E. and Valderrama, M. T.: 2012, Heterogeneity and cross-country spillovers in macroeconomic- nancial linkages, Banco de Espan~a Working Papers 1241, Banco de Espan~a."
+                    }
+                },
+                {
+                    "@position": "9",
+                    "rawText": {
+                        "$": "Del Negro, M. and Otrok, C.: 2008, Dynamic factor models with time-varying parameters: measuring changes in international business cycles, Technical report."
+                    }
+                },
+                {
+                    "@position": "10",
+                    "rawText": {
+                        "$": "Farhi, E. and Werning, I.: 2012, Fiscal Unions, Nber working papers, National Bureau of Economic Research, Inc."
+                    }
+                },
+                {
+                    "@position": "11",
+                    "rawText": {
+                        "$": "Fernandez-Villaverde, J., Rubio-Ramirez, J., Sargent, T. and Watson, M.: 2007, The A,B,C and D for understanding VARs, American Economic Review 97, 1021{1026."
+                    }
+                },
+                {
+                    "@position": "12",
+                    "id": {
+                        "@confidenceLevel": "0.58034056",
+                        "@type": "openaire",
+                        "@value": "od_______645::47d007b9a15fca7ce64b57f48e572bef"
+                    },
+                    "rawText": {
+                        "$": "Forni, M. and Gambetti, L.: 2011, Su cient information in structural VARs, Center for Economic Research (RECent) 062, University of Modena and Reggio E., Dept. of Economics."
+                    }
+                },
+                {
+                    "@position": "13",
+                    "id": {
+                        "@confidenceLevel": "0.66183704",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::d8f220685030ac3de8b1a4ae34d0ea48"
+                    },
+                    "rawText": {
+                        "$": "Geweke, J. and Zhou, G.: 1996, Measuring the pricing error of the arbitrage pricing theory, Review of Financial Studies 9(2), 557{87."
+                    }
+                },
+                {
+                    "@position": "14",
+                    "id": {
+                        "@confidenceLevel": "0.62126356",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::b153b8adf365e20f6334fa5af1e2ff04"
+                    },
+                    "rawText": {
+                        "$": "Giannone, D., Reichlin, L. and Small, D.: 2008, Nowcasting: The real-time informational content of macroeconomic data, Journal of Monetary Economics 55(4), 665{676."
+                    }
+                },
+                {
+                    "@position": "15",
+                    "rawText": {
+                        "$": "Kose, M. A., Otrok, C. and Prasad, E.: 2012, Global business cycles: Convergence or decoupling?, International Economic Review 53(2), 511{538."
+                    }
+                },
+                {
+                    "@position": "16",
+                    "rawText": {
+                        "$": "Kose, M. A., Otrok, C. and Whiteman, C. H.: 2003, International business cycles: World, region, and country-speci c factors, American Economic Review 93(4), 1216{1239."
+                    }
+                },
+                {
+                    "@position": "17",
+                    "rawText": {
+                        "$": "Ludvigson, S. C. and Ng, S.: 2009, Macro factors in bond risk premia, Review of Financial Studies 22(12), 5027{5067."
+                    }
+                },
+                {
+                    "@position": "18",
+                    "id": {
+                        "@confidenceLevel": "0.4731437",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::e4bfaff0cf5734684cff0bc655ee3452"
+                    },
+                    "rawText": {
+                        "$": "Marcellino, M., Stock, J. H. and Watson, M. W.: 2003, Macroeconomic forecasting in the euro area: Country speci c versus area-wide information, European Economic Review 47(1), 1{18."
+                    }
+                },
+                {
+                    "@position": "19",
+                    "rawText": {
+                        "$": "McKinnon, R.: 1963, Optimum currency areas, Americal Economic Review 53(4), 717{725."
+                    }
+                },
+                {
+                    "@position": "20",
+                    "id": {
+                        "@confidenceLevel": "0.66253966",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::b84463de899ce1c96e84d6d1f2477a15"
+                    },
+                    "rawText": {
+                        "$": "Moench, E., Ng, S. and Potter, S.: 2013, Dynamic hierarchical factor models, Review of Economics and Statistics 95(5)."
+                    }
+                },
+                {
+                    "@position": "21",
+                    "id": {
+                        "@confidenceLevel": "0.681221",
+                        "@type": "openaire",
+                        "@value": "doiboost____::0a316436a8f9fbe005678d88e1ac6f43"
+                    },
+                    "rawText": {
+                        "$": "Mumtaz, H. and Surico, P.: 2012, Evolving international in ation dynamics: Evidence from a timevarying dynamic factor model, Journal of European Economic Association 10, 716{734."
+                    }
+                },
+                {
+                    "@position": "22",
+                    "rawText": {
+                        "$": "000 bon 2"
+                    }
+                },
+                {
+                    "@position": "23",
+                    "id": {
+                        "@confidenceLevel": "0.5016425",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::fcb55755a095ee3cb66ab85859a80263"
+                    },
+                    "rawText": {
+                        "$": "H H 510. G. Bazot, M. D. Bordo and E. Monnet, \u201cThe Price of Stability. The balance sheet policy of the Banque de France and the Gold Standard (1880-1914) ,\u201d October 2014 511. K. Istrefi and A. Piloiu, \u201cEconomic Policy Uncertainty and Inflation Expectations,\u201d October 2014 512. C. Jardet and A. Monks, \u201cEuro Area monetary policy shocks: impact on financial asset prices during the crisis?,\u201d October 2014 513. J. Dugast and T. Foucault, \u201cFalse News, Informational Efficiency, and Price Reversals,\u201d October 2014 514. G. Cette, J. Lopez and J. Mairesse, \u201cProduct and Labor Market Regulations, Production Prices, Wages and Productivity,\u201d October 2014 515. L. Ferrara and C. Marsilli, \u201cNowcasting global economic growth: A factor-augmented mixed-frequency approach,\u201d October 2014 516. F. Langot and M. Lemoine, \u201cStrategic fiscal revaluation or devaluation: why does the labor wedge matter? ,\u201d October 2014 517. J.-P. Renne, \u201cFixed-Income Pricing in a Non-Linear Interest-Rate Model,\u201d October 2014 518. J.-P. Renne, \u201cOptions Embedded in ECB Targeted Refinancing Operations,\u201d October 2014 519. A. Penalver, \u201cPre-crisis credit standards: monetary policy or the savings glut?,\u201d November 2014 520. C. Marsilli, \u201cVariable Selection in Predictive MIDAS Models,\u201d November 2014 521. P. Lopez, \u201cThe Term Structure of the Welfare Cost of Uncertainty,\u201d November 2014 522. F. Ferroni and B. Klaus, \u201cEuro Area business cycles in turbulent times: convergence or decoupling? ,\u201d November 2014"
+                    }
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.2139/ssrn.2531342",
+            "journal": "APPLIED ECONOMICS",
+            "title": "the euro area business cycles in turbulent times convergence or decoupling ",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "1099-1255"
+            ],
+            "PId": 2265268857,
+            "RId": [
+                2011224622,
+                2130807853,
+                2154427296,
+                2105109338,
+                1987476768,
+                3094419395,
+                1525755869,
+                2085241520,
+                2111094164,
+                2142759087,
+                2038674930,
+                2078550815,
+                1506549282,
+                1535941903,
+                2158336698,
+                2047293375,
+                1513266530,
+                1953360160,
+                2166496721,
+                2029366192,
+                2044394043,
+                1989874667,
+                2030997496,
+                1536881089,
+                2170237425,
+                3023365622,
+                2189626280
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1002/JAE.2414",
+            "journal": "JOURNAL OF APPLIED ECONOMETRICS",
+            "title": "choosing the variables to estimate singular dsge models",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0304-4076"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1016/j.jeconom.2011.08.008",
+            "journal": "JOURNAL OF ECONOMETRICS",
+            "title": "the dynamics of us inflation can monetary policy explain the changes ",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1759-7331"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.3982/qe36",
+            "journal": "QUANTITATIVE ECONOMICS",
+            "title": "multiple filtering device for the estimation of cyclical dsge models",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1935-1690"
+            ],
+            "PId": 2251102953,
+            "cited_raw": [
+                {
+                    "@position": "1",
+                    "rawText": {
+                        "$": "1See Smets and Wouters (2003), Rabanal and Rubio-Ramirez (2005), Rabanal (2007), Bouakez, Cardia and Ruge-Murcia (2005), Christensen and Dib (2008), among others."
+                    }
+                },
+                {
+                    "@position": "2",
+                    "rawText": {
+                        "$": "2See Smets and Wouters (2007, 2005), Del Negro, Schoerfheide, Smets and Wouters (2007), Justiniano and Primiceri (2008), Rabanal (2006), among others."
+                    }
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.2139/ssrn.1372061",
+            "journal": "JOURNAL OF MACROECONOMICS",
+            "title": "trend agnostic one step estimation of dsge models the b e",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1869-4187"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1007/s13209-009-0012-9",
+            "journal": "SERIES",
+            "title": "a commentary on medea a model for the spanish economy",
+            "type": "articolo in rivista",
+            "year": 2010
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2148494581,
+            "RId": [
+                2011224622,
+                2137873201,
+                2136796925,
+                1545731555,
+                1991135386,
+                2157354639,
+                1536025864,
+                2168876779,
+                2123105585,
+                1997776596,
+                2105109338,
+                2062803890,
+                2114519883,
+                2058172443,
+                1506676960,
+                1945533287,
+                2620520523,
+                2159470871,
+                1979928514,
+                2158470790,
+                1977378138,
+                1605924765,
+                2066579355,
+                1497933741,
+                2133613014,
+                2117351568,
+                2029500844,
+                2184125768,
+                1703667458,
+                2788717824,
+                2251102953
+            ],
+            "doi": "10.2139/SSRN.1374253",
+            "journal": "quantitative economics",
+            "title": "multiple filtering devices for the estimation of cyclical dsge models",
+            "type": "1",
+            "year_mag": 2009
+        },
+        {
+            "PId": 2130800946,
+            "RId": [
+                2011224622,
+                2137873201,
+                2149530077,
+                1545731555,
+                2130807853,
+                1536025864,
+                2168446738,
+                2123105585,
+                1997776596,
+                2151162832,
+                2111656590,
+                2129676560,
+                2069498607,
+                2105109338,
+                2136993807,
+                2114519883,
+                2166865502,
+                1506676960,
+                1484441916,
+                1983679403,
+                2125077671,
+                2891882094,
+                2068984728,
+                1979928514,
+                2158470790,
+                1977378138,
+                2148494581,
+                2114740781,
+                2009560202,
+                2029500844,
+                2162322740,
+                2103225730
+            ],
+            "doi": "10.2139/SSRN.1372061",
+            "journal": "b e journal of macroeconomics",
+            "title": "trend agnostic one step estimation of dsge models",
+            "type": "1",
+            "year_mag": 2011
+        },
+        {
+            "PId": 2107018096,
+            "RId": [
+                2144395073,
+                2011224622,
+                2137873201,
+                1573437329,
+                2149855692,
+                1575213124,
+                2112895268,
+                1602003033,
+                2037159943,
+                2132448732,
+                1976537161,
+                2164702500,
+                2102216624,
+                3095700530,
+                1967239989,
+                2162217839,
+                2009127824,
+                2058172443,
+                1506676960,
+                2134622247,
+                2163396639,
+                2113827690,
+                2132055478,
+                2111339875,
+                2128051034,
+                1945533287,
+                2167694389,
+                1977378138,
+                2171526857,
+                1574839136,
+                1497933741
+            ],
+            "doi": "10.1016/J.JECONOM.2011.08.008",
+            "journal": "journal of econometrics",
+            "title": "the dynamics of us inflation can monetary policy explain the changes",
+            "type": "1",
+            "year_mag": 2012
+        },
+        {
+            "PId": 582576480,
+            "RId": [
+                2159706540,
+                2038601479,
+                2035777923,
+                1970487353,
+                1572971165,
+                3022367431,
+                2493081869,
+                3023877248,
+                2122966827,
+                2093730348,
+                1966731843,
+                1607165860,
+                2066356831,
+                2156307979,
+                1746145036,
+                1563322435,
+                1826132183,
+                2995646812,
+                1896171851,
+                1984138841,
+                1593306094,
+                2057450776,
+                2570481437,
+                2145134598,
+                2150863267,
+                2131083915,
+                3022527734,
+                2152562625,
+                180979610,
+                1555781808,
+                1603434492,
+                1977503282,
+                2127130289
+            ],
+            "doi": "10.2139/SSRN.2531342",
+            "journal": "applied economics",
+            "title": "euro area business cycles in turbulent times convergence or decoupling",
+            "type": "1",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2318966054,
+            "RId": [
+                2011224622,
+                2137873201,
+                2136796925,
+                1991135386,
+                2123105585,
+                1997776596,
+                2105109338,
+                2062803890,
+                2058172443,
+                1506676960,
+                1979928514,
+                2158470790,
+                1977378138,
+                1605924765,
+                2066579355,
+                2029500844,
+                2319195665,
+                2184125768,
+                2251102953
+            ],
+            "doi": "10.3982/QE36",
+            "journal": "quantitative economics",
+            "title": "multiple filtering devices for the estimation of cyclical dsge models multiple filtering devices for dsge estimation",
+            "type": "1",
+            "year_mag": 2011
+        },
+        {
+            "PId": 1541124106,
+            "RId": [
+                2106022734,
+                2048593579,
+                2106759695,
+                2107497267,
+                2129482027,
+                3022712314,
+                1573437329,
+                2117735259,
+                1989475699,
+                2089853409,
+                1482241473,
+                1989393566,
+                2112895268,
+                2138992063,
+                2094025373,
+                2165393354,
+                2102216624,
+                1967239989,
+                2031365995,
+                2150617721,
+                2614226046,
+                1995872895,
+                2070446367,
+                2128211087,
+                1576958567,
+                2006673739,
+                2132055478,
+                2052615455,
+                1495774266,
+                1945533287,
+                1485453334,
+                1510833818,
+                2742022685,
+                2006651494,
+                1977378138,
+                1722624015,
+                2155907470,
+                1887740044,
+                2079277255,
+                1986361762,
+                2125164540,
+                2140320318,
+                1561906511,
+                2102239237,
+                1745395841,
+                2121912383,
+                2129869037,
+                1978737197,
+                2107018096,
+                1563723480,
+                2111367684,
+                2026633590,
+                1607486571,
+                2111298197,
+                1605146478,
+                2779532324,
+                1517197857,
+                2144744966,
+                442441,
+                1559460305,
+                2248312700,
+                1496391628,
+                1549342581,
+                3021742651,
+                1547925620,
+                2742697059,
+                2119776323,
+                2135969160
+            ],
+            "doi": "10.2139/SSRN.1966019",
+            "journal": "studies in economics",
+            "title": "interpreting the hours technology time varying relationship",
+            "type": "1",
+            "year_mag": 2011
+        },
+        {
+            "PId": 1601885806,
+            "RId": [
+                2011224622,
+                2137873201,
+                2140286179,
+                2149530077,
+                2130807853,
+                1505618697,
+                2792688608,
+                1595521060,
+                2133604496,
+                1595798404,
+                2151162832,
+                2111656590,
+                2000501921,
+                2132055478,
+                1603265961,
+                2015831780,
+                2007823168,
+                2122223141,
+                2085241520,
+                2125077671,
+                1994242213,
+                1992365695,
+                2121653007,
+                1964454944,
+                2890990199,
+                2131396510,
+                2142508000,
+                2062455076,
+                2148494581,
+                1484858298,
+                2005864255,
+                2298842343,
+                1990766890,
+                1550077515,
+                1524214010,
+                2164456980,
+                568626327,
+                1500005015,
+                1498430495,
+                2251102953
+            ],
+            "doi": "10.2139/SSRN.1693811",
+            "title": "did tax policies mitigate us business cycles",
+            "type": "0",
+            "year_mag": 2010
+        },
+        {
+            "PId": 3042198038,
+            "title": "approximating time varying structural models with time invariant structures working paper 15 10",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 3022749443,
+            "title": "the dynamics of hours worked and technology",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2183067860,
+            "RId": [
+                2144395073,
+                2189139855,
+                1536025864,
+                1579579143,
+                2164702500,
+                2118081621,
+                2003759958,
+                1768936006,
+                44519018,
+                250959414
+            ],
+            "title": "the science and art of dsge modelling a dynare based course on model construction calibration estimation and policy analysis",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2259339854,
+            "RId": [
+                2007069447,
+                2049882758,
+                2100902597,
+                1579579143,
+                171292237,
+                1967239989,
+                1541146312,
+                2170431464,
+                1945533287,
+                2056536708,
+                2054520318,
+                2158470790,
+                2049351915,
+                1767510566,
+                2111788487
+            ],
+            "journal": "studies in economics",
+            "title": "fundamental shock selection in dsge models",
+            "type": "1",
+            "year_mag": 2015
+        },
+        {
+            "PId": 3021130355,
+            "title": "fundamental shock selection in dsge models",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2551282350,
+            "title": "centre for international macroeconomic studies cims a summer course on the construction estimation and use of dsge macroeconomic",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2004027084,
+            "RId": [
+                1964454944,
+                2158231558,
+                1979928514,
+                2158470790,
+                2148494581,
+                2130800946,
+                2029500844,
+                2170619192,
+                2282984326,
+                1541323061
+            ],
+            "doi": "10.1007/S13209-009-0012-9",
+            "journal": "series",
+            "title": "commentary on medea a dsge model for the spanish economy",
+            "type": "1",
+            "year_mag": 2010
+        }
+    ]
+}

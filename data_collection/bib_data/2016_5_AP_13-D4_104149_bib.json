@@ -1,0 +1,521 @@
+{
+    "AuIds": [
+        2196667291
+    ],
+    "fullname": [
+        "Morini",
+        "Matteo"
+    ],
+    "ind_anvur": [
+        4,
+        1,
+        2,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0377-2217"
+            ],
+            "PId": 1583406721,
+            "RId": [
+                1659842140,
+                2102963250,
+                1564372824,
+                2265679842,
+                2167118372,
+                2089559114,
+                1500432356,
+                2127238399,
+                1978025816,
+                2082275958,
+                1970082412,
+                2130141442,
+                2129200304,
+                1504141014,
+                2224233282,
+                2035228366,
+                1551816901,
+                1496165559,
+                1486084504,
+                2132689717,
+                2067494905,
+                2041451294,
+                2162597144,
+                2135936574,
+                1989149110,
+                2344552900,
+                432163589,
+                2078869094,
+                2271346383,
+                1843663265,
+                1994700887
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1016/J.EJOR.2016.07.059",
+            "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+            "title": "personal income tax reforms a genetic algorithm approach",
+            "type": "articolo in rivista",
+            "year": 2018
+        },
+        {
+            "ISSN": [
+                "1860-949X"
+            ],
+            "PId": 2774622127,
+            "RId": [
+                2148606196,
+                3099768174,
+                1956559956,
+                2038073276,
+                1987640420,
+                425947563,
+                2091474992,
+                2026447297
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1007/978-3-319-72150-7_86",
+            "title": "the evolution of japanese business networks in asean countries since the 1960s",
+            "type": "contributo in atti di convegno",
+            "year": 2018
+        },
+        {
+            "ISSN": [
+                "2199-322X"
+            ],
+            "PId": 2622225207,
+            "RId": [
+                2109100253,
+                1978706036,
+                2501229666,
+                2114619206,
+                3022436420,
+                2155781840,
+                2152329050,
+                2093074200,
+                1595124634,
+                1522439999,
+                1562406545,
+                2044086213,
+                2401170721
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1007/S40797-017-0058-Y",
+            "journal": "ITALIAN ECONOMIC JOURNAL",
+            "title": "business cycle in a macromodel with oligopoly and agentsa heterogeneity an agent based approach",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-1-137-33980-5"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1057/9781137339812",
+            "title": "agent based dynamic optimization of fiscal systems",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9781137339812"
+            ],
+            "PId": 2549266430,
+            "RId": [
+                1596556739,
+                2040217797
+            ],
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1057/9781137339812",
+            "title": "agent based models of the economy from theories to applications ",
+            "type": "monografia o trattato scientifico",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9789289708289"
+            ],
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "title": "employment security and employability a contribution to the flexicurity debate ",
+            "type": "monografia o trattato scientifico",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "2051-1310"
+            ],
+            "PId": 3099475525,
+            "RId": [
+                1875112053,
+                3099768174,
+                2125910575,
+                2159397589,
+                2171707538,
+                2023655578,
+                2127387319,
+                2154897810,
+                2109469951,
+                1566045513,
+                2417643204,
+                2089125183,
+                2056944867,
+                2035316056,
+                2110158660,
+                2087194317,
+                2147854962,
+                1758651971,
+                2142170653,
+                1971937094,
+                2090372231,
+                2057503158,
+                2081245596,
+                2090396658,
+                2129802470,
+                2029848348,
+                2148905870,
+                1971749140
+            ],
+            "cv_id": {
+                "pubbs": "4"
+            },
+            "doi": "10.1093/COMNET/CNV022",
+            "journal": "JOURNAL OF COMPLEX NETWORKS",
+            "title": "detecting global bridges in networks",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9781137339812"
+            ],
+            "cv_id": {
+                "pubbs": "6"
+            },
+            "doi": "10.1057/9781137339812.0019",
+            "title": "the emergence of cooperation",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788815109880"
+            ],
+            "cv_id": {
+                "pubbs": "8"
+            },
+            "title": "swarm",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2006
+        },
+        {
+            "cv_id": {
+                "pubbs": "9"
+            },
+            "type": "curatela",
+            "year": 2006
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2149555845,
+            "RId": [
+                1875112053,
+                3099768174,
+                2125910575,
+                2171707538,
+                2023655578,
+                2127387319,
+                2154897810,
+                2109469951,
+                1566045513,
+                2417643204,
+                2089125183,
+                2056944867,
+                2035316056,
+                2110158660,
+                2087194317,
+                2147854962,
+                2142170653,
+                1971937094,
+                2090372231,
+                2057503158,
+                2081245596,
+                2090396658,
+                2129802470,
+                2029848348,
+                2148905870,
+                1971749140
+            ],
+            "doi": "10.1093/COMNET/CNV022",
+            "journal": "arxiv social and information networks",
+            "title": "detecting global bridges in networks",
+            "type": "8",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2730564095,
+            "journal": "arxiv social and information networks",
+            "title": "revealing evolutions in dynamical networks",
+            "type": "8",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2610189298,
+            "title": "temporal evolution of communities based on scientometrics data",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2268233575,
+            "title": "bridgeness a novel centrality measure to detect global bridges",
+            "type": "3",
+            "year_mag": 2014
+        },
+        {
+            "PId": 2337004160,
+            "title": "the evolution of japanese business networks in asean countries since the 1960s",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2152525934,
+            "RId": [
+                3023376117,
+                2026559010,
+                1526813172,
+                1981447531,
+                2039326439,
+                1988466436,
+                1488556245,
+                2133269919,
+                1524486083,
+                2102112353,
+                2178752668,
+                2169289813,
+                1977890266,
+                2918060890,
+                1595315522,
+                2069544743,
+                2106168670,
+                1574662445,
+                2003422660,
+                1498135517,
+                2020417480,
+                1991008122,
+                2040556263,
+                2030257977,
+                2148962857,
+                2117814136,
+                1416242241,
+                1721200174,
+                1964179522,
+                2059548670,
+                2087116247,
+                2087501438,
+                2384365001,
+                151035281,
+                1570525987
+            ],
+            "title": "testing bounded rationality against full rationality in job changing behavior",
+            "type": "0",
+            "year_mag": 2007
+        },
+        {
+            "PId": 2734805629,
+            "RId": [
+                2148606196,
+                3099768174,
+                1956559956,
+                2095197847,
+                2128366083,
+                2109469951,
+                2129432581,
+                2068417597,
+                167686439,
+                1599501231,
+                1482646796,
+                2038073276,
+                2160867252,
+                2065384939,
+                1890850610,
+                1500604528,
+                3099475525,
+                211541646,
+                2237620065,
+                1534140627,
+                1555068495,
+                425947563,
+                1979300504,
+                2484074006,
+                2126158531,
+                2091474992,
+                2026447297,
+                3121003336
+            ],
+            "journal": "arxiv general finance",
+            "title": "network analysis of japanese global business using quasi exhaustive micro data for japanese overseas subsidiaries",
+            "type": "8",
+            "year_mag": 2017
+        },
+        {
+            "PId": 437675471,
+            "title": "modelli per la complessita la simulazione ad agenti in economia",
+            "type": "0",
+            "year_mag": 2006
+        },
+        {
+            "PId": 177693346,
+            "RId": [
+                1497256448,
+                2889011686,
+                1510118806,
+                2122356930,
+                1978706036,
+                1541288193,
+                1582671483,
+                1482193576,
+                2013122523,
+                1992417414,
+                2912738957,
+                1561086728,
+                2124492800,
+                2588389260,
+                1495524406,
+                1604837545
+            ],
+            "title": "simulation in the textile industry production planning optimization",
+            "type": "0",
+            "year_mag": 2005
+        },
+        {
+            "PId": 2341030768,
+            "title": "a simple model of coevolution for macroscopic and microscopic levels",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2155430082,
+            "RId": [
+                3023376117,
+                1526813172,
+                1488556245,
+                2133269919,
+                1524486083,
+                3023785578,
+                2178752668,
+                2169289813,
+                1977890266,
+                2918060890,
+                1595315522,
+                2069544743,
+                2106168670,
+                1574662445,
+                1498135517,
+                2020417480,
+                1991008122,
+                2040556263,
+                2030257977,
+                2148962857,
+                2117814136,
+                1416242241,
+                1721200174,
+                2059548670,
+                2087116247,
+                2384365001,
+                151035281
+            ],
+            "title": "econometric explorations on bounded rationality the case of job changing behavior",
+            "type": "0",
+            "year_mag": 2007
+        },
+        {
+            "PId": 2781071188,
+            "title": "a mesoscale description of networks dynamics through continuous partitioning",
+            "type": "3",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2486273385,
+            "RId": [
+                1596556739,
+                2796137918
+            ],
+            "doi": "10.1057/9781137339812_12",
+            "title": "the emergence of cooperation",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2727002812,
+            "title": "new results modeling of dynamics of complex networks",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2613524874,
+            "title": "la clinical governance tra condivisione di percorsi diagnostico terapeutici e appropriatezza dell utilizzo del pronto soccorso pediatrico dell ospedale di rivoli",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2766639329,
+            "RId": [
+                2035316056,
+                2110158660,
+                1604980173,
+                1500604528,
+                2057347514
+            ],
+            "title": "tools for understanding the dynamics of social networks",
+            "type": "10",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2472966020,
+            "RId": [
+                2146292423,
+                1659842140,
+                1564372824,
+                1970082412,
+                1551816901,
+                1583406721,
+                1586828131,
+                1966950453,
+                2104402142,
+                2328432640
+            ],
+            "doi": "10.1057/9781137339812_11",
+            "title": "agent based dynamic optimization of fiscal systems",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 3083762208,
+            "title": "a simple model of coevolution for macroscopic and microscopic levels",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2611662435,
+            "title": "rapporto sull assistenza territoriale a favore delle persone anziane non autosufficienti in piemonte",
+            "type": "0",
+            "year_mag": 2010
+        }
+    ]
+}

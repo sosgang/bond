@@ -1,0 +1,967 @@
+{
+    "AuIds": [
+        2171831607,
+        3032229493
+    ],
+    "fullname": [
+        "Baviera",
+        "Roberto"
+    ],
+    "ind_anvur": [
+        7,
+        4,
+        0,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1544-6123"
+            ],
+            "PId": 2409167400,
+            "RId": [
+                2116701769,
+                1602009083,
+                2066698196,
+                2242452116
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1016/J.FRL.2016.06.010",
+            "journal": "FINANCE RESEARCH LETTERS",
+            "title": "is the comprehensive assessment able to capture banks risks ",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1469-7688"
+            ],
+            "PId": 2556235365,
+            "RId": [
+                2141186877,
+                1568559004,
+                2112688502,
+                2123446302,
+                2132558761,
+                1988178181,
+                2164378403,
+                1561513404,
+                2092139823,
+                2405403969,
+                20733138
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1080/14697688.2016.1247981",
+            "journal": "QUANTITATIVE FINANCE",
+            "title": "a joint model for temperature and natural gas with an application to the us market",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-3-902109-82-8"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.2139/ssrn.2541043",
+            "title": "is the comprehensive assessment really comprehensive ",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-3-319-33446-2"
+            ],
+            "PId": 2558482324,
+            "RId": [
+                1575658391,
+                2956412360,
+                2158036201,
+                284681250,
+                630532681,
+                1983886831,
+                2339492953,
+                2289378561,
+                1787023877,
+                1970094691,
+                1902794734,
+                1977881282,
+                244625274,
+                648825079,
+                1501785539,
+                2754498166
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1007/978-3-319-33446-2_5",
+            "title": "cva with wrong way risk in the presence of early exercise",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1350-486X"
+            ],
+            "PId": 1977881282,
+            "RId": [
+                2170444200,
+                1998031535,
+                2125836937,
+                2734883049,
+                1486416193,
+                2168546199,
+                2165951442,
+                1211722519,
+                2156833036,
+                1862823561,
+                2089215424,
+                1984833767,
+                2167499060,
+                584914513
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1080/1350486X.2014.959665",
+            "journal": "APPLIED MATHEMATICAL FINANCE",
+            "title": "a note on dual curve construction mr crab s bootstrap",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "1742-5468"
+            ],
+            "PId": 3101231859,
+            "RId": [
+                2032781595,
+                2048964254,
+                2104731515,
+                2072438896,
+                2019219533,
+                2110681278,
+                2029179335,
+                2045793099,
+                1987398627,
+                2057602671,
+                1990248805,
+                2105619668
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1088/1742-5468/2015/12/P12007",
+            "journal": "JOURNAL OF STATISTICAL MECHANICS: THEORY AND EXPERIMENT",
+            "title": "a method that reveals the multi level ultrametric tree hidden in p spin glass like systems",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "1469-7688"
+            ],
+            "PId": 2118138205,
+            "RId": [
+                1602773783,
+                2126311658,
+                2170444200,
+                2137824542,
+                2083505075,
+                2072274284,
+                2014208555,
+                2120790358,
+                2124119855,
+                1994130890,
+                2251618576,
+                2017684264,
+                1984833767,
+                2118029670,
+                3098768665,
+                2062537637,
+                2271446866
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.1080/14697688.2011.589400",
+            "journal": "QUANTITATIVE FINANCE",
+            "title": "a perturbative approach to bermudan options pricing with applications",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1469-7688"
+            ],
+            "PId": 2083729750,
+            "RId": [
+                1575658391,
+                2170444200,
+                2338681524,
+                2119299497,
+                2131206752,
+                1596159815,
+                1984833767,
+                2047755754,
+                2100067840
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "8"
+            },
+            "doi": "10.1080/14697680600999377",
+            "journal": "QUANTITATIVE FINANCE",
+            "title": "a simple solution for sticky cap and sticky floor",
+            "type": "articolo in rivista",
+            "year": 2007
+        },
+        {
+            "ISSN": [
+                "0219-0249"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "9"
+            },
+            "doi": "10.1142/S0219024906003640",
+            "journal": "INTERNATIONAL JOURNAL OF THEORETICAL AND APPLIED FINANCE",
+            "title": "bond market model",
+            "type": "articolo in rivista",
+            "year": 2006
+        },
+        {
+            "ISSN": [
+                "2424-7863"
+            ],
+            "cv_id": {
+                "pubbs": "1"
+            },
+            "doi": "10.1142/S2424786316500122",
+            "journal": "INTERNATIONAL JOURNAL OF FINANCIAL ENGINEERING",
+            "title": "a note on cva and wrong way risk",
+            "type": "articolo in rivista",
+            "year": 2016
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 1984833767,
+            "RId": [
+                1503295912,
+                1575658391,
+                2170444200,
+                2117202489,
+                1998548744,
+                2050067494,
+                2127386934,
+                2338681524,
+                2119299497,
+                131484529,
+                1596159815,
+                1605804212,
+                2047755754,
+                1181963131,
+                2100067840,
+                2083729750
+            ],
+            "doi": "10.2139/SSRN.710902",
+            "journal": "international journal of theoretical and applied finance",
+            "title": "bond market model",
+            "type": "1",
+            "year_mag": 2006
+        },
+        {
+            "PId": 2951925595,
+            "RId": [
+                2077791698,
+                2124181495,
+                2057116804,
+                2044793768,
+                1995875735,
+                2153316750,
+                2011881037,
+                2067367544,
+                1982039177,
+                2069913491,
+                1592940997,
+                2091475656,
+                1983104153,
+                2091927473,
+                2051203581,
+                1965527389
+            ],
+            "journal": "arxiv disordered systems and neural networks",
+            "title": "a general methodology to price and hedge derivatives in incomplete markets",
+            "type": "8",
+            "year_mag": 1998
+        },
+        {
+            "PId": 1592044002,
+            "RId": [
+                2341283081,
+                2077791698,
+                2057116804,
+                67284852,
+                2146612430,
+                2044793768,
+                1985018066,
+                1973458764,
+                1995875735,
+                1524124716,
+                1572802054,
+                2153316750,
+                1576267150,
+                2011881037,
+                2067367544,
+                2795413297,
+                1982039177,
+                2069913491,
+                1992563875,
+                2346714215,
+                1592940997,
+                2091475656,
+                1983104153,
+                2091927473,
+                2051203581,
+                1965527389,
+                102371233,
+                2034489173,
+                2082716308,
+                1181963131,
+                1664920104,
+                1998871534,
+                3101945874,
+                2132187824,
+                2113687945
+            ],
+            "doi": "10.1142/S0219024900000024",
+            "journal": "international journal of theoretical and applied finance",
+            "title": "a general methodology to price and hedge derivatives in incomplete markets",
+            "type": "1",
+            "year_mag": 2000
+        },
+        {
+            "PId": 2952222387,
+            "RId": [
+                2044793768,
+                1981868363,
+                2065484891,
+                2034489173,
+                1664920104,
+                1667867312,
+                2057183658,
+                2009024731
+            ],
+            "journal": "arxiv disordered systems and neural networks",
+            "title": "optimal strategies for prudent investors",
+            "type": "8",
+            "year_mag": 1998
+        },
+        {
+            "PId": 2147172551,
+            "RId": [
+                2044793768,
+                1973458764,
+                1572802054,
+                1970500498,
+                1981868363,
+                2004659685,
+                2795413297,
+                2091475656,
+                102371233,
+                2065484891,
+                2034489173,
+                1664920104,
+                2057183658,
+                2009024731,
+                2132187824
+            ],
+            "doi": "10.1142/S0219024998000254",
+            "journal": "international journal of theoretical and applied finance",
+            "title": "optimal strategies for prudent investors",
+            "type": "1",
+            "year_mag": 1998
+        },
+        {
+            "PId": 1874875384,
+            "RId": [
+                2124758339,
+                2116701769,
+                1519270853,
+                2066698196,
+                2779144323,
+                2117439553,
+                2242452116,
+                2125665298,
+                2093339187,
+                2170013516,
+                2053483294,
+                2007061751,
+                1512106166,
+                2131601003,
+                2096459805,
+                2098245076,
+                2013084953,
+                1496165559,
+                196343342,
+                2171092514,
+                2126679125,
+                1603894205,
+                205590212,
+                1611458817
+            ],
+            "doi": "10.2139/SSRN.2541043",
+            "title": "is the comprehensive assessment really comprehensive",
+            "type": "0",
+            "year_mag": 2014
+        },
+        {
+            "PId": 1566533489,
+            "RId": [
+                2140971281,
+                2148402268,
+                2036488048,
+                2057116804,
+                67284852,
+                2116807840,
+                2131773668,
+                2753908209,
+                2005424182,
+                2751862591,
+                1995875735,
+                2085125074,
+                1986395918,
+                2071511656,
+                1979161134,
+                2076209196,
+                1539020160,
+                2035737640,
+                2000088897,
+                2041404167,
+                2135520161,
+                2171984983,
+                2167478194,
+                2087171258,
+                2035416181,
+                2152456240,
+                2280886493,
+                2963876753
+            ],
+            "doi": "10.2139/SSRN.147129",
+            "journal": "arxiv disordered systems and neural networks",
+            "title": "efficiency in foreign exchange markets",
+            "type": "8",
+            "year_mag": 1999
+        },
+        {
+            "PId": 2007660581,
+            "RId": [
+                2036488048,
+                1667165204,
+                2753908209,
+                2751862591,
+                2802464205,
+                2135520161
+            ],
+            "doi": "10.1007/S100510170226",
+            "journal": "european physical journal b",
+            "title": "forecast in foreign exchange markets",
+            "type": "1",
+            "year_mag": 2001
+        },
+        {
+            "PId": 102371233,
+            "RId": [
+                2077791698,
+                1973458764,
+                1995875735,
+                2153316750,
+                2011881037,
+                1563248516,
+                2106271302,
+                2067367544,
+                2001202328,
+                2163528216,
+                1816654404,
+                2069913491,
+                1592940997,
+                2107136434,
+                1983104153,
+                2070000984
+            ],
+            "doi": "10.2139/SSRN.99837",
+            "title": "gambling and pricing of derivatives",
+            "type": "0",
+            "year_mag": 1998
+        },
+        {
+            "PId": 3100199141,
+            "RId": [
+                2140971281,
+                2148402268,
+                2057116804,
+                67284852,
+                2131773668,
+                2044793768,
+                2753908209,
+                2057418282,
+                2071511656,
+                2067211778,
+                2076209196,
+                1975148091,
+                2104252737,
+                2041404167,
+                2167478194,
+                2087171258,
+                2114715837
+            ],
+            "doi": "10.1016/S0378-4371(00)00094-7",
+            "journal": "arxiv statistical mechanics",
+            "title": "markovian approximation in foreign exchange markets",
+            "type": "8",
+            "year_mag": 1999
+        },
+        {
+            "PId": 2152456240,
+            "RId": [
+                2140971281,
+                2148402268,
+                2148198877,
+                2057116804,
+                67284852,
+                2131773668,
+                2044793768,
+                2753908209,
+                2751862591,
+                1995875735,
+                1986395918,
+                2057418282,
+                2071511656,
+                2067211778,
+                2151073625,
+                2076209196,
+                1539020160,
+                1965555277,
+                1975148091,
+                2104252737,
+                2041404167,
+                2167478194,
+                2087171258,
+                1566533489,
+                2114715837,
+                2034489173,
+                2514442713,
+                2001452344,
+                2113687945
+            ],
+            "doi": "10.1016/S0378-4371(00)00094-7",
+            "journal": "physica a statistical mechanics and its applications",
+            "title": "markovian approximation in foreign exchange markets",
+            "type": "1",
+            "year_mag": 2000
+        },
+        {
+            "PId": 648825079,
+            "RId": [
+                2158036201,
+                1578103278,
+                630532681,
+                1983886831,
+                1902794734,
+                1977881282
+            ],
+            "doi": "10.2139/SSRN.2594842",
+            "title": "a note on cva and wrong way risk",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 3103810301,
+            "RId": [
+                2077791698,
+                2124181495,
+                2106154424,
+                2044793768,
+                1995875735,
+                2011881037,
+                2106271302,
+                2117101638,
+                2067367544,
+                2001202328,
+                2163528216,
+                1816654404,
+                2069913491,
+                1592940997,
+                2107136434,
+                1983104153,
+                1592044002,
+                1965527389,
+                2602737734,
+                1622518221,
+                2951337363
+            ],
+            "doi": "10.1016/S0378-4371(00)00005-4",
+            "journal": "arxiv statistical mechanics",
+            "title": "growth optimal investment and pricing of derivatives",
+            "type": "8",
+            "year_mag": 1999
+        },
+        {
+            "PId": 2102958676,
+            "RId": [
+                2341283081,
+                2077791698,
+                2124181495,
+                2106154424,
+                2146612430,
+                2044793768,
+                1985018066,
+                1973458764,
+                1995875735,
+                2153316750,
+                1576267150,
+                2052635514,
+                2011881037,
+                1563248516,
+                2106271302,
+                2117101638,
+                2067367544,
+                2001202328,
+                2163528216,
+                2093077581,
+                1816654404,
+                2069913491,
+                1778683340,
+                1592940997,
+                2107136434,
+                1983104153,
+                1592044002,
+                2091927473,
+                2017095460,
+                1965527389,
+                1998052780,
+                102371233,
+                2034489173,
+                2602737734,
+                1181963131,
+                1622518221,
+                2075490169,
+                1506797563,
+                1957312062,
+                2113687945
+            ],
+            "doi": "10.1016/S0378-4371(00)00005-4",
+            "journal": "physica a statistical mechanics and its applications",
+            "title": "growth optimal investment and pricing of derivatives",
+            "type": "1",
+            "year_mag": 2000
+        },
+        {
+            "PId": 2129914201,
+            "RId": [
+                2116988722,
+                2131773668,
+                1995875735,
+                2041462006,
+                2041404167,
+                2087171258,
+                2114715837,
+                2034489173
+            ],
+            "doi": "10.1016/S0378-4371(02)00968-8",
+            "journal": "physica a statistical mechanics and its applications",
+            "title": "antipersistent markov behavior in foreign exchange markets",
+            "type": "1",
+            "year_mag": 2002
+        },
+        {
+            "PId": 2091803123,
+            "RId": [
+                2140971281,
+                1999996900,
+                1979575715,
+                2057116804,
+                67284852,
+                2116807840,
+                1667165204,
+                2131773668,
+                2753908209,
+                2005424182,
+                2057686864,
+                2751862591,
+                2085125074,
+                1986395918,
+                2057418282,
+                2034358898,
+                2076209196,
+                2000088897,
+                2171984983,
+                2167478194
+            ],
+            "doi": "10.1016/S0378-4371(01)00363-6",
+            "journal": "physica a statistical mechanics and its applications",
+            "title": "correlations and multi affinity in high frequency financial datasets",
+            "type": "1",
+            "year_mag": 2001
+        },
+        {
+            "PId": 2100067840,
+            "RId": [
+                1575658391,
+                2170444200,
+                2117202489,
+                2338681524,
+                2119299497,
+                2047755754
+            ],
+            "doi": "10.1088/1469-7688/3/4/304",
+            "journal": "quantitative finance",
+            "title": "vol bond an analytical solution",
+            "type": "1",
+            "year_mag": 2003
+        },
+        {
+            "PId": 3101832012,
+            "RId": [
+                2022820481,
+                2019313753,
+                1974572752,
+                2101936356,
+                2060913109,
+                2024953051,
+                2007912509,
+                1987135734,
+                1976278894,
+                2066392268
+            ],
+            "doi": "10.1088/0305-4470/31/18/005",
+            "journal": "journal of physics a",
+            "title": "a variational approach to ising spin glasses in finite dimensions",
+            "type": "1",
+            "year_mag": 1998
+        },
+        {
+            "PId": 2000223221,
+            "RId": [
+                1971565000,
+                2022820481,
+                2019313753,
+                1974572752,
+                2101936356,
+                2060913109,
+                2024953051,
+                2007912509,
+                1987135734,
+                1976278894,
+                2066392268
+            ],
+            "doi": "10.1088/0305-4470/31/18/005",
+            "journal": "arxiv disordered systems and neural networks",
+            "title": "a variational approach to ising spin glasses in finite dimensions",
+            "type": "8",
+            "year_mag": 1997
+        },
+        {
+            "PId": 2081595925,
+            "RId": [
+                2136913207,
+                1999995442,
+                2057116804,
+                2076057077,
+                2091957196,
+                2157403008,
+                2083630699,
+                2076209196,
+                2036628376,
+                2110942893,
+                2105143894,
+                1592371891,
+                2171984983,
+                1992588541
+            ],
+            "doi": "10.1142/S0219024902001560",
+            "journal": "international journal of theoretical and applied finance",
+            "title": "moving averages and price dynamics",
+            "type": "1",
+            "year_mag": 2002
+        },
+        {
+            "PId": 1590900295,
+            "RId": [
+                2126311658,
+                2170444200,
+                2124119855,
+                2116789784
+            ],
+            "doi": "10.2139/SSRN.941318",
+            "title": "a perturbative approach to bermudan options pricing",
+            "type": "0",
+            "year_mag": 2006
+        },
+        {
+            "PId": 1682523964,
+            "RId": [
+                2170444200,
+                1998031535,
+                2125836937,
+                1211722519,
+                2156833036
+            ],
+            "doi": "10.2139/SSRN.2158131",
+            "title": "mr crab s bootstrap",
+            "type": "0",
+            "year_mag": 2014
+        },
+        {
+            "PId": 2259901928,
+            "RId": [
+                2141186877,
+                2112688502,
+                573310676,
+                2123446302,
+                2587628976,
+                2132558761,
+                1988178181,
+                2164378403,
+                1561513404,
+                2092139823,
+                1528540506
+            ],
+            "doi": "10.2139/SSRN.2585927",
+            "title": "going hybrid a joint model for temperature and natural gas",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2182330406,
+            "doi": "10.2139/SSRN.2496516",
+            "title": "a thermometer for financial instability in the euro area economy and the role of carry trade",
+            "type": "0",
+            "year_mag": 2014
+        },
+        {
+            "PId": 2614336428,
+            "journal": "chapters in suerf studies",
+            "title": "the ssm at 1",
+            "type": "1",
+            "year_mag": 2016
+        },
+        {
+            "PId": 39588913,
+            "RId": [
+                1602773783,
+                2064978316,
+                1480459000,
+                1575658391,
+                2100190417,
+                2148080284,
+                2077545917,
+                2050067494,
+                1980519218,
+                131484529,
+                2032865375,
+                2118574463,
+                1984833767,
+                1770433555,
+                2010681211,
+                2511164790,
+                101472404,
+                1590900295,
+                2089692352,
+                2083729750
+            ],
+            "doi": "10.2139/SSRN.977479",
+            "title": "gigi model a simple stochastic volatility approach for multifactor interest rates",
+            "type": "0",
+            "year_mag": 2007
+        },
+        {
+            "PId": 2183080586,
+            "RId": [
+                2140971281,
+                1999996900,
+                1979575715,
+                2036488048,
+                2057116804,
+                67284852,
+                2116807840,
+                1667165204,
+                2131773668,
+                2753908209,
+                2057686864,
+                2751862591,
+                2085125074,
+                1604565168,
+                2034358898,
+                2076209196,
+                2000088897,
+                2171984983,
+                2167478194
+            ],
+            "title": "correlations and multi a nity in high frequency nancial datasets",
+            "type": "0",
+            "year_mag": 2001
+        },
+        {
+            "PId": 130770999,
+            "doi": "10.2139/SSRN.302652",
+            "title": "option prices in presence of transaction cost",
+            "type": "0",
+            "year_mag": 2001
+        },
+        {
+            "PId": 2064818676,
+            "doi": "10.1051/JP4:1998609",
+            "journal": "journal de physique iv",
+            "title": "cluster approximation for ising spin glasses",
+            "type": "1",
+            "year_mag": 1998
+        },
+        {
+            "PId": 2161881707,
+            "RId": [
+                2136913207,
+                1592371891
+            ],
+            "journal": "arxiv disordered systems and neural networks",
+            "title": "moving averages and markets inefficiency",
+            "type": "8",
+            "year_mag": 2000
+        },
+        {
+            "PId": 2214452403,
+            "RId": [
+                2032781595,
+                2048964254,
+                2104731515,
+                2072438896,
+                2019219533,
+                2110681278,
+                2029179335,
+                2045793099,
+                1987398627,
+                2057602671,
+                1990248805,
+                2105619668
+            ],
+            "doi": "10.1088/1742-5468/2015/12/P12007",
+            "journal": "arxiv statistical mechanics",
+            "title": "a method that reveals the multi level ultrametric tree hidden in p spin glass like systems",
+            "type": "8",
+            "year_mag": 2015
+        }
+    ]
+}

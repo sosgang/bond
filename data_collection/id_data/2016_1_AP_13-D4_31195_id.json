@@ -1,0 +1,365 @@
+{
+    "AuIds": [
+        1801755093
+    ],
+    "fullname": [
+        "Di Girolami",
+        "Cristina"
+    ],
+    "ind_anvur": [
+        7,
+        1,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1090/CONM/668/13396",
+            "title": "calculus via regularizations in banach spaces and kolmogorov type path dependent equations",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0938-2259"
+            ],
+            "PId": 2198925810,
+            "RId": [
+                1545761024,
+                1607633954,
+                2099857041,
+                3108933734,
+                2146207816,
+                2104091263,
+                2043709218,
+                2096275307,
+                2103284380,
+                2060066667,
+                2055822187,
+                2138363423,
+                1998402333,
+                2136976063,
+                2598397370,
+                2135782532,
+                305513724,
+                2014671255,
+                2036539206,
+                2048801296,
+                2067859900,
+                1984960279,
+                1579852351,
+                2994591836,
+                2054905224,
+                2097008084,
+                1785858825,
+                2031625929,
+                2069453527,
+                2159230683,
+                1546860809,
+                1997965124,
+                2110179001,
+                2085637960,
+                2724844704,
+                2069173637,
+                2149418968,
+                2207711535,
+                2142505346,
+                2013616422,
+                1596943704,
+                2052533863,
+                1530313629,
+                133013578,
+                2089315571,
+                2027927241,
+                2121696515,
+                2130198485,
+                2955575499,
+                1967747224,
+                2044014317,
+                2315696198,
+                1576598737
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1007/S00199-015-0946-Z",
+            "journal": "I",
+            "title": "generically distributed investments on flexible projects and endogenous growth economic theory vol",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0030-6126"
+            ],
+            "cited_raw": [
+                {
+                    "@position": "1",
+                    "id": {
+                        "@confidenceLevel": "0.68908566",
+                        "@type": "openaire",
+                        "@value": "datacite____::a9ca6d3485a733aaf2bac1d1ed9e63fd"
+                    },
+                    "rawText": {
+                        "$": "[24] David Nualart. The Malliavin calculus and related topics. Probability and its Applications (New York). Springer-Verlag, New York, 1995."
+                    }
+                },
+                {
+                    "@position": "2",
+                    "id": {
+                        "@confidenceLevel": "0.5065621",
+                        "@type": "openaire",
+                        "@value": "doiboost____::7dc1bb2c6e818770fc563b43fdf4aa0b"
+                    },
+                    "rawText": {
+                        "$": "[25] Philip E. Protter. Stochastic integration and differential equations, volume 21 of Applications of Mathematics (New York). Springer-Verlag, Berlin, second edition, 2004. Stochastic Modelling and Applied Probability."
+                    }
+                },
+                {
+                    "@position": "3",
+                    "id": {
+                        "@confidenceLevel": "0.689171",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::e8ec8e82637991963c5141ad6df3715b"
+                    },
+                    "rawText": {
+                        "$": "[26] Francesco Russo and Ciprian A. Tudor. On bifractional Brownian motion. Stochastic Processes and their Applications, 116(5):830 - 856, 2006."
+                    }
+                },
+                {
+                    "@position": "4",
+                    "rawText": {
+                        "$": "[27] Francesco Russo and Pierre Vallois. Forward, backward and symmetric stochastic integration. Probab. Theory Related Fields, 97(3):403-421, 1993."
+                    }
+                },
+                {
+                    "@position": "5",
+                    "id": {
+                        "@confidenceLevel": "0.68051577",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::e88f1d2b304af092f0e29326e5674731"
+                    },
+                    "rawText": {
+                        "$": "[28] Francesco Russo and Pierre Vallois. The generalized covariation process and It\u00f4 formula. Stochastic Process. Appl., 59(1):81-104, 1995."
+                    }
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.18910/50813",
+            "journal": "VI",
+            "title": "generalized covariation for banach space valued processes ito formula and applications osaka journal of mathematics vol",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0026-1335"
+            ],
+            "PId": 1972285740,
+            "RId": [
+                1542004730,
+                1527296550,
+                1606157354,
+                1554577510,
+                609699901,
+                2911730943,
+                1968339027,
+                1530927473,
+                2097100146,
+                1590432342,
+                2127368952,
+                3104292233,
+                1544159280,
+                2023328381,
+                2123140996,
+                1630963925,
+                1992293932,
+                2056464302,
+                591031131,
+                1970645310,
+                2239047270,
+                2145004383,
+                1985170541,
+                2058901392,
+                1581574104,
+                1223141377,
+                1986974679,
+                2579206073,
+                1983576522,
+                2126008692,
+                2116985390,
+                645203532,
+                2082615400,
+                2481095694,
+                2170064820,
+                1809232600,
+                1993293623,
+                2223092261,
+                1562564909,
+                2164573936,
+                2057384397,
+                2023086125,
+                569040081,
+                2005784517,
+                1968906272,
+                1661191159,
+                2086401712,
+                2592346698,
+                2463489113,
+                3103803794,
+                2039293174,
+                2782615476
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1007/S00184-013-0472-6",
+            "journal": "VXXVII",
+            "title": "the covariation for banach space valued processes and applications metrika vol",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0219-0257"
+            ],
+            "PId": 2170064820,
+            "RId": [
+                1630963925,
+                1970457327,
+                1986974679,
+                1983576522,
+                2057612205,
+                2082615400,
+                2481095694,
+                1809232600,
+                1598945832,
+                1993293623,
+                2034652451,
+                2023086125,
+                1992854440,
+                1968906272,
+                1989589633,
+                1515374460,
+                2046484130,
+                2086401712,
+                2592346698,
+                3103803794
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1142/S0219025712500075",
+            "journal": "INFINITE DIMENSIONAL ANALYSIS QUANTUM PROBABILITY AND RELATED TOPICS",
+            "title": "generalized covariation and extended fukushima decompositions for banach space valued processes applications to windows of dirichlet processes",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "0007-4497"
+            ],
+            "PId": 1968906272,
+            "RId": [
+                1580561995,
+                1545370368,
+                1554577510,
+                1995522593,
+                2076458153,
+                403266949,
+                1978094758,
+                1523471994,
+                3104974285,
+                2576386146,
+                1995666097,
+                2022273243,
+                1630963925,
+                2103254903,
+                1992293932,
+                2056464302,
+                1674151627,
+                2099645792,
+                2025505566,
+                2320684320,
+                2062433814,
+                1985170541,
+                1986974679,
+                1998373805,
+                1998549733,
+                2014111104,
+                2324444,
+                2057612205,
+                1612188185,
+                2076591766,
+                1968014877,
+                1809232600,
+                1992472513,
+                2139768402,
+                2169672610,
+                1993293623,
+                2007962184,
+                2146630941,
+                2164573936,
+                2034652451,
+                2503826451,
+                2023086125,
+                2005784517,
+                2024090399,
+                141246929,
+                3103803794,
+                2067087447
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1016/J.BULSCI.2011.06.008",
+            "journal": "BULLETIN DES SCIENCES MATHEMATIQUES",
+            "title": "on stochastic calculus related to financial assets without semimartingales",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1631-073X"
+            ],
+            "PId": 1993293623,
+            "RId": [
+                1542004730,
+                2330548796,
+                3104292233,
+                1630963925,
+                1992293932,
+                2056464302,
+                1581574104,
+                1983576522,
+                2116985390,
+                1612188185,
+                2082615400,
+                2164573936,
+                2023086125,
+                1661191159,
+                3103803794
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.1016/J.CRMA.2010.11.032",
+            "journal": "COMPTES RENDUS MATHEMATIQUE",
+            "title": "clark ocone type formula for non semimartingales with finite quadratic variation",
+            "type": "articolo in rivista",
+            "year": 2011
+        }
+    ]
+}

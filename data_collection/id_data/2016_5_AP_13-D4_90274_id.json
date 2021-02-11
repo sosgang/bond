@@ -1,0 +1,387 @@
+{
+    "AuIds": [
+        2117988985,
+        2635067278
+    ],
+    "fullname": [
+        "Kaucic",
+        "Massimiliano"
+    ],
+    "ind_anvur": [
+        5,
+        2,
+        1,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1581-6311"
+            ],
+            "PId": 2593165043,
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "2"
+            },
+            "journal": "MANAGING GLOBAL TRANSITIONS",
+            "title": "prospect theory based portfolio optimization problem with imprecise forecasts",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "2227-9091"
+            ],
+            "PId": 1927133640,
+            "RId": [
+                2126105956,
+                2143381319,
+                1553373771,
+                2008499862,
+                1602773783,
+                1997188340,
+                2098907614,
+                2020320008,
+                1106997938,
+                2072620509,
+                2145633829,
+                315644267,
+                564387942,
+                2143245714,
+                2115800158,
+                2163932646,
+                2158183964,
+                1983221302,
+                2036103851,
+                2045547871,
+                1970287426,
+                2135447813,
+                2123851407,
+                2023658415,
+                2040533142,
+                2073098058,
+                2011806243,
+                2000060165,
+                1981211029,
+                2050496989,
+                2064079650,
+                639967202,
+                1997743401,
+                2099323358,
+                1594603170,
+                1973979650,
+                2040345527,
+                1995487919,
+                1990314599,
+                2033553098,
+                2010773809,
+                2082355609,
+                959464100,
+                2147205590,
+                2006185018,
+                2271346984,
+                2166997557,
+                2266947914
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.3390/RISKS3030390",
+            "journal": "RISKS",
+            "title": "multi objective stochastic optimization programs for a non life insurance company under solvency constraints",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-7873-161-5"
+            ],
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "title": "matematica per l economia e la statistica vol",
+            "type": "monografia o trattato scientifico",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0925-5001"
+            ],
+            "PId": 2019884884,
+            "RId": [
+                2152195021,
+                2165299997,
+                2109364787,
+                2272090139,
+                2145113795,
+                1577668191,
+                1560921017,
+                2081749411,
+                1907706552,
+                2123066915,
+                2139386984,
+                1925428099,
+                2117595234,
+                2135232426,
+                2162745921,
+                2124548165,
+                2236361361,
+                1547618122,
+                2003881902,
+                2018700453,
+                2073082177,
+                1930801851,
+                1980380058,
+                2022451981,
+                2084993914,
+                120878463,
+                190427941,
+                2154369526,
+                2157833270,
+                2090045341,
+                2093279886,
+                2086826886,
+                199009478,
+                2242121653,
+                1528239469,
+                2161497816,
+                1875894172,
+                2105990447,
+                1996310596,
+                2156249836,
+                1985105933,
+                2127789101,
+                2040046806,
+                2054567731,
+                3094360242
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1007/S10898-012-9913-4",
+            "journal": "JOURNAL OF GLOBAL OPTIMIZATION",
+            "title": "a multi start opposition based particle swarm optimization algorithm with adaptive velocity for bound constrained global optimization",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9788864930190"
+            ],
+            "PId": 1541475200,
+            "RId": [
+                1595797227,
+                102235808,
+                57879723,
+                2115620436,
+                1967144205,
+                2104827390
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "title": "an application of kriging to italian mortality rates",
+            "type": "contributo in atti di convegno",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0377-2217"
+            ],
+            "PId": 1973979650,
+            "RId": [
+                2126105956,
+                1554944419,
+                1988790447,
+                1553373771,
+                2133469585,
+                2145073242,
+                2148948822,
+                42649658,
+                3011865677,
+                2101544483,
+                2131773668,
+                2149214223,
+                2108166901,
+                2143152597,
+                2131177033,
+                2002685209,
+                2148999633,
+                2110374348,
+                593643677,
+                2034382662,
+                2320383582,
+                1968740499,
+                1565394917,
+                2056479183,
+                1995487919,
+                1989275788,
+                2122052394,
+                2020055071,
+                1904274893,
+                2074592453,
+                1537282253
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.1016/J.EJOR.2010.07.008",
+            "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+            "title": "investment using evolutionary learning methods and technical rules",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "0927-7099"
+            ],
+            "PId": 2081611188,
+            "RId": [
+                1639032689,
+                1595498733,
+                1576818901,
+                2142183404,
+                2168175751,
+                1969423031,
+                2007069447,
+                2058815839,
+                1503022246,
+                2797502950,
+                38218484,
+                171292237,
+                1500123647,
+                2157394313,
+                1550270839,
+                2132286633,
+                1967883775,
+                2006988935,
+                2007682563,
+                2911346016,
+                2153489418,
+                2171567624,
+                1970411806,
+                1988368644,
+                1542147512,
+                2017186929,
+                1923583597,
+                1978160697,
+                2076877989,
+                2071062197,
+                1810320518,
+                1519883650,
+                2030989305,
+                1984402573,
+                2108656766,
+                2158486472,
+                2073068290,
+                182470170,
+                1488445696,
+                2037815079,
+                1517691913,
+                2326071757
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "8"
+            },
+            "doi": "10.1007/S10614-009-9176-4",
+            "journal": "COMPUTATIONAL ECONOMICS",
+            "title": "predicting eu energy industry excess returns on eu market index via a constrained genetic algorithm",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "cv_id": {
+                "pubbs": "1"
+            },
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "2148-0206"
+            ],
+            "PId": 2762503130,
+            "RId": [
+                3023181463,
+                1593455549,
+                2071892020,
+                2029056003,
+                2154187126,
+                2084169808,
+                2151427963,
+                2157357994,
+                1854750766,
+                1862373218,
+                2144140637,
+                2076086866,
+                44429087,
+                2067891004
+            ],
+            "cv_id": {
+                "pubbs": "2"
+            },
+            "doi": "10.15604/EJBM.2017.05.03.001",
+            "journal": "EURASIAN JOURNAL OF BUSINESS AND MANAGEMENT",
+            "title": "the information content of earnings announcements in the european insurance market an event study analysis",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9789535104001"
+            ],
+            "PId": 1487660788,
+            "RId": [
+                2148948822,
+                2101544483,
+                2151237529,
+                1607768087,
+                564387942,
+                593643677,
+                2159134133,
+                1997069306,
+                2120512945,
+                614587567,
+                2107238783,
+                1606010076,
+                1973979650,
+                1904274893,
+                605605128,
+                2059746474,
+                2054641330,
+                2326039742
+            ],
+            "cv_id": {
+                "pubbs": "7"
+            },
+            "doi": "10.5772/38213",
+            "title": "portfolio management using artificial trading systems based on technical analysis",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9781591409847"
+            ],
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "doi": "10.4018/978-1-59140-984-7",
+            "title": "multiattribute metodologies in financial decision aid",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2007
+        }
+    ]
+}

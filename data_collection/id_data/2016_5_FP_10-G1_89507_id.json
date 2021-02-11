@@ -1,0 +1,1280 @@
+{
+    "AuIds": [
+        3113607391,
+        2002991233,
+        2736191205,
+        3120876470
+    ],
+    "fullname": [
+        "Tamburini",
+        "Fabio"
+    ],
+    "ind_anvur": [
+        40,
+        5,
+        1,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "978-3-319-54283-6"
+            ],
+            "ISSN": [
+                "1876-1100"
+            ],
+            "PId": 2604847445,
+            "RId": [
+                1993453262,
+                2511020697,
+                2250185923,
+                38675480
+            ],
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1007/978-3-319-54283-6_20",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-6729-044-4"
+            ],
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "title": "quali risorse usa o crea il linguista ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-1-945626-83-8"
+            ],
+            "PId": 2756668352,
+            "RId": [
+                1614298861,
+                179875071,
+                1524333225,
+                32507011,
+                1806891645,
+                2963042606,
+                2026369565,
+                1564720605,
+                1549285799,
+                2619993508,
+                2474824677,
+                16967297,
+                1510667201,
+                1526481195,
+                2295119550,
+                2581719241,
+                2288817436,
+                1779452081,
+                2091917610,
+                1582774210,
+                1608367484,
+                2143331952,
+                2555456875,
+                2407936315,
+                1525068081,
+                120524294,
+                3102194711,
+                1563364586,
+                176510440,
+                2250180457,
+                1852191752,
+                3115277010
+            ],
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "doi": "10.18653/V1/D17-1196",
+            "title": "towards quantum language models",
+            "type": "contributo in atti di convegno",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-91-7685-467-9"
+            ],
+            "ISSN": [
+                "1650-3686"
+            ],
+            "PId": 2786605464,
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "title": "annotating italian social media texts in universal dependencies",
+            "type": "contributo in atti di convegno",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-91-7685-467-9"
+            ],
+            "ISSN": [
+                "1650-3686"
+            ],
+            "PId": 2781892966,
+            "RId": [
+                2579343286,
+                2153274216,
+                10376690,
+                2027155840,
+                1942234578,
+                2276546613,
+                2734970616,
+                1928863833,
+                2215157566,
+                2579328229
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "5"
+            },
+            "title": "semgrex plus a tool for automatic dependency graph rewriting",
+            "type": "contributo in atti di convegno",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-99982-76-8"
+            ],
+            "ISSN": [
+                "1613-0073"
+            ],
+            "PId": 2774024737,
+            "RId": [
+                2250539671,
+                2950577311,
+                1984052055,
+                2115792525,
+                2005181355,
+                1569430537,
+                2063052951,
+                2082599510,
+                45780694,
+                2066018628,
+                22866016,
+                64381093,
+                2007666296,
+                2251298087,
+                2250247820,
+                2882319491
+            ],
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "doi": "10.4000/BOOKS.AACCADEMIA.2364",
+            "title": "developing a large scale framenet for italian the iframenet experience",
+            "type": "contributo in atti di convegno",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9788898640188"
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "title": "induzione di categorie grammaticali e lessicali",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-99982-09-6"
+            ],
+            "ISSN": [
+                "1613-0073"
+            ],
+            "PId": 2578630722,
+            "RId": [
+                2964121744,
+                2950577311,
+                2158899491,
+                2064675550,
+                1940872118,
+                2079735306,
+                3005455900,
+                2137845336,
+                2252006340,
+                2574359814
+            ],
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "doi": "10.4000/BOOKS.AACCADEMIA.1969",
+            "title": "a bilstm crf pos tagger for italian tweets using morphological information",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-99982-09-6"
+            ],
+            "ISSN": [
+                "1613-0073"
+            ],
+            "PId": 2571911508,
+            "RId": [
+                2064675550,
+                2157765050,
+                371426616,
+                2138738738,
+                2950121111,
+                95788356,
+                2579454606,
+                2574053021
+            ],
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "title": "overview of the evalita 2016 part of speech on twitter for italian task",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-2-9517408-9-1"
+            ],
+            "PId": 2572757483,
+            "RId": [
+                1614298861,
+                2158899491,
+                2187089797,
+                2251939518,
+                2117130368,
+                2160660844,
+                2132339004,
+                2131744502,
+                2158139315,
+                2113459411,
+                1662133657,
+                2131462252,
+                2099813784,
+                2250879510,
+                2128870637,
+                2251771443,
+                2963921497,
+                2296194829,
+                2238728730,
+                2158028897,
+                295894637,
+                2250930514,
+                947140380,
+                124633754,
+                1486777056,
+                2963246918,
+                2267742292,
+                2074790252,
+                2251979305,
+                1610818344,
+                8821756,
+                1711419975,
+                2882319491
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "10"
+            },
+            "title": "specialising paragraph vectors for text polarity detection",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-99982-08-9"
+            ],
+            "ISSN": [
+                "1613-0073"
+            ],
+            "cv_id": {
+                "pubbs_ind": "11"
+            },
+            "doi": "10.4000/books.aaccademia.1849",
+            "title": " better than state of the art pos tagging for italian texts",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-2-9517408-9-1"
+            ],
+            "PId": 2574300828,
+            "RId": [
+                2165758561,
+                1847168837,
+                58497106,
+                1996171054,
+                2151989011,
+                2027790310,
+                2061620618,
+                2085301512,
+                2136914353,
+                2166510494,
+                2063042856,
+                1968634965,
+                2021720310,
+                2147176795,
+                7709353,
+                1980584599,
+                2121282288,
+                2114074514,
+                1549082171,
+                1983421775,
+                2050445774,
+                1994244061,
+                2252171711,
+                2135417772,
+                1988568308,
+                2405088233,
+                2285653139,
+                2071099820,
+                2151969795,
+                178622196,
+                1593493514,
+                1520040208,
+                2096758841,
+                1584993141,
+                1994871153,
+                2162238982,
+                97192492,
+                2332394448,
+                2157744775,
+                2973243456,
+                2017361309,
+                2141931002,
+                2783093268,
+                2135190171,
+                2030560355,
+                1998795718,
+                1495202524,
+                970512012,
+                2015574295
+            ],
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "title": "automatic identification of mild cognitive impairment through the analysis of italian spontaneous speech productions",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-99982-08-9"
+            ],
+            "ISSN": [
+                "1613-0073"
+            ],
+            "cv_id": {
+                "pubbs_ind": "13"
+            },
+            "doi": "10.4000/books.aaccademia.1683",
+            "title": " almost automatic conversion of the venice italian treebank into the merged italian dependency treebank format ",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-1-5108-3313-5"
+            ],
+            "ISSN": [
+                "2308-457X"
+            ],
+            "PId": 2511020697,
+            "RId": [
+                1524333225,
+                1978116440,
+                2401277329,
+                2008066109,
+                2134315375,
+                2570994193,
+                2087891313,
+                97192492,
+                2405246930,
+                2986824071,
+                81223661,
+                2250668798
+            ],
+            "cv_id": {
+                "pubbs_ind": "14"
+            },
+            "doi": "10.21437/INTERSPEECH.2016-148",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1720-9331"
+            ],
+            "PId": 2232445584,
+            "RId": [
+                1996171054,
+                2093414802,
+                2134835252,
+                2166820052,
+                2096429026,
+                2072029017,
+                2026942286,
+                1581480663,
+                2048520715,
+                1990491233,
+                1560092530,
+                45989781,
+                2402812677,
+                2167715705,
+                1965635292,
+                2600829178,
+                2401209354,
+                2158421320,
+                32827127,
+                2408211607,
+                2147315143,
+                137732731,
+                1598371594,
+                131212770,
+                2075335860,
+                26337071,
+                129795657,
+                2323766257,
+                1825681571,
+                2055019838,
+                1593941008,
+                1499912240,
+                1761450840,
+                2885189718,
+                1634541166,
+                2294653492,
+                2017881378,
+                78118500,
+                2132741065,
+                1567653707,
+                161551039,
+                2322201731,
+                2277931740,
+                1604214652,
+                2520610926,
+                2191668891,
+                2567501403,
+                2149016536
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "15"
+            },
+            "doi": "10.1418/80758",
+            "journal": "LINGUE E LINGUAGGIO",
+            "title": "automatic detection of prosodic prominence by means of acoustic analyses",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-97657-11-8"
+            ],
+            "PId": 2736107534,
+            "cv_id": {
+                "pubbs_ind": "16"
+            },
+            "doi": "10.17469/O2101AISV000020",
+            "type": "contributo in atti di convegno",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788867414727"
+            ],
+            "cv_id": {
+                "pubbs_ind": "17"
+            },
+            "title": "the ficlit cs unibo system at the evalita 2014 sentiment polarity classification task",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788867414727"
+            ],
+            "PId": 3120702360,
+            "RId": [
+                2031248101,
+                1501669607,
+                2090777335,
+                2051434435,
+                147964346,
+                1585773866,
+                2030605379,
+                1526481195,
+                2316564661,
+                2250180457,
+                1549864491,
+                2170784679
+            ],
+            "cv_id": {
+                "pubbs_ind": "18"
+            },
+            "title": "emotion recognition with a kernel quantum classifier",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788867414727"
+            ],
+            "cv_id": {
+                "pubbs_ind": "19"
+            },
+            "title": "are quantum classifiers promising ",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9783642358272"
+            ],
+            "ISSN": [
+                "0302-9743"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "20"
+            },
+            "doi": "10.1007/978-3-642-35828-9",
+            "title": "the anita lemmatiser a tool for accurate lemmatisation of italian texts",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9783642358272"
+            ],
+            "ISSN": [
+                "0302-9743"
+            ],
+            "cv_id": {
+                "pubbs_ind": "21"
+            },
+            "doi": "10.1007/978-3-642-35827-2",
+            "title": "the lemmatisation task at the evalita 2011 evaluation campaign",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9788878709010"
+            ],
+            "cv_id": {
+                "pubbs_ind": "22"
+            },
+            "title": "una valutazione oggettiva dei metodi piu diffusi per l estrazione automatica della frequenza fondamentale",
+            "type": "contributo in atti di convegno",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9788866553519"
+            ],
+            "PId": 2263696886,
+            "RId": [
+                1583314545,
+                2093414802,
+                1589878313,
+                1504955803,
+                2154825638,
+                2019597205,
+                167757489,
+                107303030,
+                2288305937,
+                1480428657,
+                1581480663,
+                1967599482,
+                1552992291,
+                56103664,
+                1560092530,
+                625409345,
+                637946176,
+                2158421320,
+                185021866,
+                26337071,
+                2097139554,
+                1593941008,
+                46880280,
+                2126555270,
+                2132741065,
+                369730484,
+                193891303,
+                587511732,
+                2579692812,
+                2277931740,
+                2520610926,
+                2191668891,
+                2212989378,
+                2478951370,
+                3114476516,
+                1599052899,
+                3114269611,
+                2791647461
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "23"
+            },
+            "doi": "10.1400/202936",
+            "title": "topic and focus marking in an italian corpus some results of algorithmic measurements and structural interpretation ",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9782951740877"
+            ],
+            "PId": 2293493948,
+            "RId": [
+                1583314545,
+                2093414802,
+                1589878313,
+                1504955803,
+                2154825638,
+                2019597205,
+                167757489,
+                107303030,
+                2288305937,
+                1480428657,
+                1967599482,
+                1552992291,
+                56103664,
+                1560092530,
+                625409345,
+                637946176,
+                2158421320,
+                2099593733,
+                185021866,
+                26337071,
+                2097139554,
+                2492823658,
+                1593941008,
+                46880280,
+                2126555270,
+                2132741065,
+                369730484,
+                193891303,
+                587511732,
+                2579692812,
+                2277931740,
+                2292651076,
+                2520610926,
+                2191668891,
+                2212989378,
+                2478951370,
+                2567501403,
+                3114476516,
+                335394579,
+                3114269611,
+                2791647461,
+                2505870682,
+                2765101311,
+                2990300857
+            ],
+            "cv_id": {
+                "pubbs_ind": "24"
+            },
+            "title": "a topologic view of topic and focus marking in italian",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788878707740"
+            ],
+            "cv_id": {
+                "pubbs_ind": "25"
+            },
+            "title": "la prominenza in italiano demarcazione piu che culminazione ",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9782951740877"
+            ],
+            "PId": 2252006340,
+            "RId": [
+                24718583,
+                2053306448,
+                201288405,
+                92858395,
+                2401109438,
+                2169147927,
+                102530743,
+                107550075,
+                1594995214,
+                2800117250,
+                1997049674,
+                2129207541,
+                2043302885,
+                1516896190,
+                2290314254,
+                2275556581,
+                1993853024,
+                22866016,
+                2052930267,
+                2183690873,
+                2557042518,
+                2163367965,
+                20696818,
+                3108267640,
+                1737117998,
+                2024483811
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "26"
+            },
+            "title": "anita a powerful morphological analyser for italian",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "978-1-62276-759-5"
+            ],
+            "ISSN": [
+                "1990-9772"
+            ],
+            "cv_id": {
+                "pubbs_ind": "27"
+            },
+            "title": "objective subjective and linguistic roads to perceptual prominence how are they compared and why ",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1720-9331"
+            ],
+            "PId": 1912227892,
+            "cv_id": {
+                "pubbs_ind": "28"
+            },
+            "doi": "10.1418/35838",
+            "journal": "LINGUE E LINGUAGGIO",
+            "title": "morphology meets computational linguistics",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1720-9331"
+            ],
+            "PId": 1683134199,
+            "RId": [
+                2155870214,
+                1538369587,
+                260318771,
+                1558939142,
+                193898724,
+                2031762086,
+                203709682,
+                22866016,
+                2479069631,
+                2547389196,
+                3108267640
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "29"
+            },
+            "doi": "10.1418/34543",
+            "journal": "LINGUE E LINGUAGGIO",
+            "title": "noun clad adjectives on the adjectival status of non head constituents of italian attributive compounds",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1720-9331"
+            ],
+            "PId": 1737117998,
+            "RId": [
+                201288405,
+                574264556,
+                92858395,
+                2025419958,
+                2070243191,
+                2060667324,
+                2064318101,
+                1491091022,
+                53308956,
+                2059412912,
+                2253979631,
+                2142725269,
+                2281032843,
+                2974719388
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "30"
+            },
+            "doi": "10.1418/35841",
+            "journal": "LINGUE E LINGUAGGIO",
+            "title": "annotating large corpora for studying italian derivational morphology",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9788469462256"
+            ],
+            "cv_id": {
+                "pubbs_ind": "31"
+            },
+            "title": "exploiting corpus evidence for automatic sense induction",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9781618392701"
+            ],
+            "ISSN": [
+                "1990-9772"
+            ],
+            "PId": 191179348,
+            "RId": [
+                1592805114,
+                1522263329,
+                2088965663,
+                1581480663,
+                1539337024,
+                1723254216,
+                2147315143,
+                1546295465,
+                178114869,
+                2059200595,
+                22410466,
+                182372643,
+                2144985933,
+                1603260176,
+                51543369,
+                659361809,
+                1750468880,
+                2027843951,
+                2140679197,
+                2398762936
+            ],
+            "cv_id": {
+                "pubbs_ind": "32"
+            },
+            "title": "prominence based prosody prediction for unit selection speech synthesis",
+            "type": "contributo in atti di convegno",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-1-60558-638-0"
+            ],
+            "PId": 2099828952,
+            "RId": [
+                2147152072,
+                852643139,
+                2136930489,
+                2166776180,
+                1997698702,
+                2128809169,
+                1531666944,
+                1573733520,
+                2079641356,
+                1538369587,
+                267990210,
+                2113989144,
+                1581453494,
+                2612384978,
+                2110928519
+            ],
+            "cv_id": {
+                "pubbs_ind": "33"
+            },
+            "doi": "10.1145/1774088.1774262",
+            "title": "of mice and terms clustering algorithms on ambiguous terms in folksonomies",
+            "type": "contributo in atti di convegno",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "978-0-7695-3872-3"
+            ],
+            "PId": 2110928519,
+            "RId": [
+                2147152072,
+                2136930489,
+                2166776180,
+                2128809169,
+                2079641356,
+                1538369587,
+                1581453494,
+                2612384978,
+                2120719430
+            ],
+            "cv_id": {
+                "pubbs_ind": "34"
+            },
+            "doi": "10.1109/ISDA.2009.125",
+            "title": "a parametric architecture for tags clustering in folksonomic search engines",
+            "type": "contributo in atti di convegno",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-88-7870-469-5"
+            ],
+            "PId": 2567501403,
+            "RId": [
+                175750906,
+                2619993508,
+                1996171054,
+                2118142207,
+                2013319990,
+                2093414802,
+                2134835252,
+                2166820052,
+                2072029017,
+                2149768999,
+                2112446559,
+                2026942286,
+                175761898,
+                1496594527,
+                1990491233,
+                1994098317,
+                2167715705,
+                1965635292,
+                1561690142,
+                1627557510,
+                2158421320,
+                2147315143,
+                2099593733,
+                137732731,
+                185021866,
+                2142303499,
+                1598371594,
+                26337071,
+                140606381,
+                2059200595,
+                1634541166,
+                2000673220,
+                2617946200,
+                2132741065,
+                1567653707,
+                2322201731,
+                2277931740,
+                1604214652,
+                2520610926,
+                3845825,
+                4707744,
+                2191668891,
+                647612160,
+                2149016536,
+                792183615,
+                3047598705
+            ],
+            "cv_id": {
+                "pubbs_ind": "35"
+            },
+            "doi": "10.1400/137542",
+            "title": "prominenza frasale e tipologia prosodica un approccio acustico",
+            "type": "contributo in atti di convegno",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-88-903581-1-1"
+            ],
+            "cv_id": {
+                "pubbs_ind": "36"
+            },
+            "title": "pos tagging italian texts with coristagger",
+            "type": "contributo in atti di convegno",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "1721-4777"
+            ],
+            "cv_id": {
+                "pubbs": "11",
+                "pubbs_ind": "37"
+            },
+            "journal": "GRISELDAONLINE",
+            "title": "la linguistica computazionale un crogiolo di esperienze multidisciplinari",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "978-88-7395-314-2"
+            ],
+            "PId": 3034093908,
+            "RId": [
+                2168652246,
+                2097396421,
+                1519554123,
+                200279514,
+                2479974171,
+                2406616796,
+                302300587,
+                2141635030
+            ],
+            "cv_id": {
+                "pubbs_ind": "38"
+            },
+            "title": "learning an italian categorial grammar",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "978-88-7395-314-2"
+            ],
+            "PId": 3114621602,
+            "cv_id": {
+                "pubbs_ind": "39"
+            },
+            "title": "italian lexical classes definition using automatic methods",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        },
+        {
+            "PId": 2110354579,
+            "RId": [
+                2144578941,
+                2135843243,
+                1773803948,
+                2569308312,
+                2949108231,
+                199541590,
+                2166451556,
+                1551773846,
+                2308131898,
+                178622196,
+                2176587813,
+                90118760,
+                2912751646,
+                2710930863,
+                2991456449,
+                1551535631,
+                2479974171,
+                2404653900,
+                104175215,
+                136654564
+            ],
+            "cv_id": {
+                "pubbs_ind": "40"
+            },
+            "title": "evaluation of natural language tools for italian evalita 2007",
+            "type": "contributo in atti di convegno",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "1381-2416"
+            ],
+            "PId": 2026942286,
+            "RId": [
+                2129249398,
+                2161964681,
+                2008957275,
+                2093414802,
+                1931766939,
+                2166820052,
+                1479974611,
+                2045784978,
+                107303030,
+                1974555773,
+                175761898,
+                1496594527,
+                3043876381,
+                2020203910,
+                1965635292,
+                1627557510,
+                2099593733,
+                51742649,
+                1596429772,
+                1559701846,
+                1689171632,
+                140606381,
+                1634541166,
+                2146451076,
+                1909138660,
+                2077662551,
+                2110479652,
+                2114270453,
+                1568864391
+            ],
+            "cv_id": {
+                "pubbs": "12",
+                "pubbs_ind": "41"
+            },
+            "doi": "10.1007/S10772-005-4760-Z",
+            "journal": "INTERNATIONAL JOURNAL OF SPEECH TECHNOLOGY",
+            "title": "an automatic system for detecting prosodic prominence in american english continous speech",
+            "type": "articolo in rivista",
+            "year": 2005
+        },
+        {
+            "ISBN": [
+                "88-7395-076-0"
+            ],
+            "cv_id": {
+                "pubbs": "14",
+                "pubbs_ind": "42"
+            },
+            "title": "fenomeni prosodici e prominenza un approccio acustico",
+            "type": "monografia o trattato scientifico",
+            "year": 2005
+        },
+        {
+            "ISSN": [
+                "0378-5122"
+            ],
+            "PId": 2141931002,
+            "RId": [
+                2115017507,
+                2164059021,
+                2129497119,
+                2156220037,
+                2106931873,
+                1993571512,
+                2116709840,
+                2137554996,
+                2767571575,
+                2157110881,
+                2065338300,
+                2048505725,
+                2116358746,
+                1983482668,
+                1833523444,
+                2127635525,
+                2054664500,
+                1793734229,
+                2123979895,
+                2061620618,
+                2081164888,
+                2125887218,
+                2085301512,
+                2136914353,
+                1976825681,
+                2063042856,
+                2058409003,
+                2013349363,
+                2069655646,
+                2018647543,
+                2121282288,
+                2156397323,
+                2135417772,
+                2027363663,
+                2116933994,
+                2115291144,
+                1493612178,
+                2018827178,
+                1545780968,
+                2085138404,
+                1994871153,
+                1989719175,
+                2030560355,
+                2009654687,
+                2038239236,
+                1981353074,
+                2184932433,
+                2013148068,
+                328421598,
+                2319571883
+            ],
+            "cv_id": {
+                "pubbs": "3"
+            },
+            "doi": "10.1016/J.MATURITAS.2015.05.013",
+            "journal": "MATURITAS",
+            "title": "should we screen for cognitive decline and dementia ",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "2333-2042"
+            ],
+            "PId": 2323766257,
+            "RId": [
+                2129999749,
+                2117497855,
+                1975079546,
+                2093414802,
+                2126131681,
+                2073791162,
+                2096429026,
+                2112985344,
+                1581480663,
+                2103945478,
+                1560092530,
+                45989781,
+                2402812677,
+                2401209354,
+                2408211607,
+                2147315143,
+                2099593733,
+                1825681571,
+                2058409955,
+                2017881378,
+                2132741065,
+                1513857583,
+                2022789108,
+                2191668891,
+                2567501403
+            ],
+            "cv_id": {
+                "pubbs": "5"
+            },
+            "doi": "10.21437/SPEECHPROSODY.2014-44",
+            "title": "prosodic prominence detection in italian continuous speech using probabilistic graphical models",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "88-7395-020-5"
+            ],
+            "cv_id": {
+                "pubbs": "13"
+            },
+            "title": "elaborazione automatica del linguaggio parlato",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2005
+        },
+        {
+            "ISBN": [
+                "3895868728"
+            ],
+            "PId": 22866016,
+            "RId": [
+                2086677051,
+                2135843243,
+                1773803948,
+                2081687495,
+                2021034890,
+                163882031,
+                591184081,
+                2099794352,
+                90804719,
+                1560951407,
+                636122370
+            ],
+            "cv_id": {
+                "pubbs": "15"
+            },
+            "title": "coris codis a corpus of written italian based on a defined and a dynamic model",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2003
+        }
+    ]
+}

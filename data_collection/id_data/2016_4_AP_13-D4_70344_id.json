@@ -1,0 +1,333 @@
+{
+    "AuIds": [
+        315952755
+    ],
+    "fullname": [
+        "Lucheroni",
+        "Carlo"
+    ],
+    "ind_anvur": [
+        8,
+        1,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0306-2619"
+            ],
+            "PId": 2567848976,
+            "RId": [
+                1647779468,
+                2021271093,
+                315644267,
+                2184731665,
+                1904801170,
+                320003081,
+                2115001337,
+                1987554429,
+                2488157181,
+                2159822936,
+                2084411676,
+                2025274380,
+                2021058563,
+                1658511505,
+                2071357564,
+                2074476317,
+                2791131865,
+                2000372861
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1016/J.APENERGY.2016.12.125",
+            "journal": "APPLIED ENERGY",
+            "title": "co2 volatility impact on energy portfolio choice a fully stochastic lcoe theory analysis",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "PId": 2735787435,
+            "RId": [
+                1727659491,
+                2162397513
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1109/EEM.2017.7982030",
+            "title": "modeling of wind speed spatio temporal series by multivariate garch and copula garch models",
+            "type": "contributo in atti di convegno",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-1-5090-1298-5"
+            ],
+            "PId": 2478048776,
+            "RId": [
+                1568559004,
+                1987959842,
+                2103187549,
+                2000235364,
+                1973752907,
+                2084899596,
+                2036318826,
+                1572043990,
+                2120983653,
+                2299563309
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1109/EEM.2016.7521242",
+            "title": "spikes and antispikes in electricity continuous time price models",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1109/eem.2014.6861243",
+            "title": "stochastic lcoe for optimal electricity generation portfolio selection 2014 11th international conference on the european energy market eem ",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1109/eem.2013.6607303",
+            "title": "panel modelling of electricity prices linear and nonlinear regression approaches2013 10th international conference on the european energy market eem ",
+            "type": "contributo in atti di convegno",
+            "year": 2013
+        },
+        {
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1109/eem.2013.6607379",
+            "title": "spikes antispikes and thresholds in electricity logprices 2013 10th international conference on the european energy market eem ",
+            "type": "contributo in atti di convegno",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "2081-8858"
+            ],
+            "PId": 1572043990,
+            "RId": [
+                2074812030,
+                2486662084,
+                1571403844,
+                185455334,
+                2172064003,
+                2072208595,
+                2022314986,
+                573310676,
+                2145777288,
+                2496051004,
+                2150956140,
+                2095814382,
+                3023939952,
+                2110849068,
+                2166151355,
+                2157961354,
+                2121490355,
+                2024082878,
+                2087677959,
+                1987959842,
+                2117101278,
+                3022649037,
+                1606326889,
+                2097634765,
+                2043289619,
+                2148917048,
+                2148823874,
+                2113614127,
+                1973752907,
+                2084899596,
+                2336949149,
+                2139988225,
+                2013434786,
+                2036318826,
+                1967848725,
+                1993258694,
+                2241909013,
+                1973475965,
+                2040261483
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.5277/ORD120102",
+            "journal": "OPERATIONS RESEARCH AND DECISIONS",
+            "title": "a hybrid setarx model for spikes in tight electricity markets",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9781467308342"
+            ],
+            "PId": 1987139598,
+            "RId": [
+                2072208595,
+                2145777288,
+                2110849068,
+                2166151355,
+                2121490355,
+                2087677959,
+                1930187923,
+                2139988225,
+                2036318826,
+                1967848725,
+                1535659078
+            ],
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "doi": "10.1109/EEM.2012.6254740",
+            "title": "calibration of a sas spike antispike setarx model for electricity prices",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1860-711X"
+            ],
+            "PId": 2040261483,
+            "RId": [
+                2486662084,
+                1571403844,
+                1489605740,
+                2119443761,
+                2072700524,
+                573310676,
+                3023939952,
+                1987959842,
+                3022649037,
+                2068910575,
+                2009375605,
+                1973752907,
+                2061191702,
+                2084899596,
+                2055814027,
+                1975144795,
+                2106126450
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "9"
+            },
+            "doi": "10.1007/S11403-009-0058-6",
+            "journal": "JOURNAL OF ECONOMIC INTERACTION AND COORDINATION",
+            "title": "stochastic models of resonating markets",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "1539-3755"
+            ],
+            "PId": 1973752907,
+            "RId": [
+                2072700524,
+                2142702648,
+                2131872995,
+                2055034183,
+                2611011638,
+                1999647190,
+                2070775244,
+                2977066553,
+                2975469349,
+                2152627601,
+                2035051040,
+                2090201562,
+                2065791026,
+                1520288732,
+                2092183766,
+                2050685038,
+                2009375605,
+                2000235364,
+                2061191702,
+                2061483091,
+                2105543503,
+                1995213133,
+                2118343917,
+                2093059910,
+                2508048271
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "10"
+            },
+            "doi": "10.1103/PHYSREVE.76.056116",
+            "journal": "PHYSICAL REVIEW E",
+            "title": "resonating models for the electric power market",
+            "type": "articolo in rivista",
+            "year": 2007
+        },
+        {
+            "ISBN": [
+                "9781424468386"
+            ],
+            "PId": 2036318826,
+            "RId": [
+                2486662084,
+                1571403844,
+                2072208595,
+                2121490355,
+                2117101278,
+                51359916,
+                1973752907,
+                2084899596,
+                1967848725,
+                1973475965,
+                2055814027,
+                2040261483
+            ],
+            "cv_id": {
+                "pubbs": "8"
+            },
+            "doi": "10.1109/EEM.2010.5558724",
+            "title": "tarx models for spikes and antispikes in electricity markets",
+            "type": "contributo in atti di convegno",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "9781424444540"
+            ],
+            "PId": 2084899596,
+            "RId": [
+                1999996900,
+                2064978316,
+                2486662084,
+                1489605740,
+                2072700524,
+                573310676,
+                3023939952,
+                2009375605,
+                1973752907,
+                2061191702,
+                1975144795
+            ],
+            "cv_id": {
+                "pubbs": "9"
+            },
+            "doi": "10.1109/EEM.2009.5207157",
+            "title": "a resonating model for the power market and its calibration",
+            "type": "contributo in atti di convegno",
+            "year": 2009
+        }
+    ]
+}

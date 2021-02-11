@@ -1,0 +1,274 @@
+{
+    "AuIds": [
+        230398139
+    ],
+    "fullname": [
+        "Burzoni",
+        "Matteo"
+    ],
+    "ind_anvur": [
+        4,
+        4,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1050-5164"
+            ],
+            "PId": 2949387699,
+            "RId": [
+                1529558080,
+                2076458153,
+                45770263,
+                3100511656,
+                2111120177,
+                2169203802,
+                1842249978,
+                1984328418,
+                2004986913,
+                2165028571,
+                3101369717,
+                2135234300,
+                2106198462,
+                2087001647,
+                1490772975,
+                2048594534,
+                1485598997,
+                2232913842,
+                1732667205,
+                2118599684,
+                2045891232,
+                2963161223,
+                2012206417
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "1"
+            },
+            "journal": "THE ANNALS OF APPLIED PROBABILITY",
+            "title": "model free superhedging duality",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1469-7696"
+            ],
+            "cited_raw": [
+                {
+                    "@position": "1",
+                    "rawText": {
+                        "$": "Acerbi, C., Sz\u00b4ekely, B., 2014, Backtesting Expected Shortfall. Risk."
+                    }
+                },
+                {
+                    "@position": "2",
+                    "rawText": {
+                        "$": "Artzner, P., Delbaen, F., Eber, J.-M., Heath., D., 1997. Thinking Coherently. Risk 10, 68-71."
+                    }
+                },
+                {
+                    "@position": "3",
+                    "id": {
+                        "@confidenceLevel": "0.59414953",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::a9ba3b2bff269061b4c5a3b3273ed2b4"
+                    },
+                    "rawText": {
+                        "$": "Artzner, P., Delbaen, F., Eber, J.-M., Heath., D., 1999. Coherent measures of risk. Mathematical Finance 9, 203-228."
+                    }
+                },
+                {
+                    "@position": "4",
+                    "rawText": {
+                        "$": "Basel Committee on Banking Supervision, 2013. Fundamental review of the trading book, second consultative document. Bank for International Settlements."
+                    }
+                },
+                {
+                    "@position": "5",
+                    "rawText": {
+                        "$": "Bellini, F., Bignozzi, V., 2015. Elicitable risk measures. Quantitative Finance 15(5)."
+                    }
+                },
+                {
+                    "@position": "6",
+                    "rawText": {
+                        "$": "Corbetta, J., Peri, I., 2016. Backtesting Lambda Value at Risk. Available at arxiv.org/abs/1602.07599"
+                    }
+                },
+                {
+                    "@position": "7",
+                    "id": {
+                        "@confidenceLevel": "0.5534873",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::213effe822321761a55f3fddcffe89b4"
+                    },
+                    "rawText": {
+                        "$": "Cont, R., Deguest, R., and Scandolo, G., 2010. Robustness and sensitivity analysis of risk measurement procedures. Quantitative Finance 10, 593-606."
+                    }
+                },
+                {
+                    "@position": "8",
+                    "rawText": {
+                        "$": "Davis, M.H.A., 2013. Consistency of Risk measure Estimates."
+                    }
+                },
+                {
+                    "@position": "9",
+                    "id": {
+                        "@confidenceLevel": "0.68630475",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::885c3fb717d8c83982c74cede8e140a3"
+                    },
+                    "rawText": {
+                        "$": "Drapeau, S., Kupper, M., 2012. Risk Preferences and their Robust Representation. Mathematics of Operations Research 28-62."
+                    }
+                },
+                {
+                    "@position": "10",
+                    "id": {
+                        "@confidenceLevel": "0.6758316",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::38c25d34737578490cdfad3dff3653f2"
+                    },
+                    "rawText": {
+                        "$": "Embrechts, P., Hofert, M., 2013. A note on generalized inverses. Mathematical Methods of Operations Research, 77(3), 423-432."
+                    }
+                },
+                {
+                    "@position": "11",
+                    "id": {
+                        "@confidenceLevel": "0.6622392",
+                        "@type": "openaire",
+                        "@value": "doiboost____::eb3b6f6d2437ca43a46142708dda0a79"
+                    },
+                    "rawText": {
+                        "$": "Embrechts, P., Hofert, M., 2014. Statistics and Quantitative Risk Management for Banking and Insurance. Annual Review of Statistics and Its Application, 1, 493-514."
+                    }
+                },
+                {
+                    "@position": "12",
+                    "rawText": {
+                        "$": "Embrechts, P., Puccetti, G., Ru\u00a8schendorf, L., Wang, R., Beleraj, A., 2014. An Academic Response to Basel 3.5. Risks, 2, 25-48."
+                    }
+                },
+                {
+                    "@position": "13",
+                    "rawText": {
+                        "$": "Fissler, T., Ziegel, J., 2015. Higher order elicitability and Osbands principle. Available at arxiv.org/abs/1503.08123."
+                    }
+                },
+                {
+                    "@position": "14",
+                    "id": {
+                        "@confidenceLevel": "0.6419614",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::8442477e9c4463204b0dfa92f0fa1d13"
+                    },
+                    "rawText": {
+                        "$": "Frittelli, M., Maggis, M., Peri, I., 2014. Risk measures on P(R) and Value at Risk with Probability/Loss function. Mathematical Finance 24, 442-463."
+                    }
+                },
+                {
+                    "@position": "15",
+                    "rawText": {
+                        "$": "Gneiting, T., 2011. Making and evaluating point forecasts. Journal of the American Statistical Association 106, 746-762."
+                    }
+                },
+                {
+                    "@position": "16",
+                    "rawText": {
+                        "$": "Hampel, F., Ronchetti, E., Rousseeuw, P., Stahel, W., 1986. Robust Statistics: The Approach Based on Influence Functions, New York."
+                    }
+                },
+                {
+                    "@position": "17",
+                    "rawText": {
+                        "$": "Huber, P., 1981. Robust Statistics, Wiley, NJ."
+                    }
+                },
+                {
+                    "@position": "18",
+                    "rawText": {
+                        "$": "Koch-Medina, P., and Munari, C., 2015, Unexpected shortfalls of Expected Shortfall: Extreme default profiles and regulatory arbitrage. Available at SSRN: http://ssrn.com/abstract=2536549."
+                    }
+                },
+                {
+                    "@position": "19",
+                    "rawText": {
+                        "$": "Kr\u00a8atschmer, V., Schied, A., Z\u00a8ahle, H., 2012. Qualitative and infinitesimal robustness of tail-dependent statistical functionals. Journal of Multivariate Analysis 103, 35-47."
+                    }
+                },
+                {
+                    "@position": "20",
+                    "rawText": {
+                        "$": "Kr\u00a8atschmer, V., Schied, A., Z\u00a8ahle, H., 2014. Comparative and qualitative robustness for law invariant risk measures. Finance and Stochastics 18(2), 271-295."
+                    }
+                },
+                {
+                    "@position": "21",
+                    "id": {
+                        "@confidenceLevel": "0.6320917",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::65a87c8504dde727ed8fa52b4e6e4ae7"
+                    },
+                    "rawText": {
+                        "$": "Lambert, N., Pennock, D. M., Shoham, Y., 2008. Eliciting properties of probability distributions. Proceedings of the 9th ACM Conference on Electronic Commerce, July 8-12, Chicago, Illinois."
+                    }
+                },
+                {
+                    "@position": "22",
+                    "rawText": {
+                        "$": "Osband, K. H. 1985. Providing incentives for better cost forecasting. Ph. D. thesis. University of California, Berkeley."
+                    }
+                },
+                {
+                    "@position": "23",
+                    "rawText": {
+                        "$": "Williams, D., 1991. Probability with Martingales. Cambridge University Press."
+                    }
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1080/14697688.2017.1297535",
+            "journal": "QUANTITATIVE FINANCE",
+            "title": "on the properties of the lambda value at risk robustness elic itability and consistency",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1945-497X"
+            ],
+            "PId": 2963808892,
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1137/15M1053013",
+            "journal": "SIAM JOURNAL ON FINANCIAL MATHEMATICS",
+            "title": "arbitrage and hedging in model independent markets with frictions",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0949-2984"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1007/S00780-015-0283-",
+            "journal": "FINANCE AND STOCHASTICS",
+            "title": "universal arbitrage aggregator in discrete time markets under uncertainty",
+            "type": "articolo in rivista",
+            "year": 2016
+        }
+    ]
+}

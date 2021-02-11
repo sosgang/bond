@@ -1,0 +1,1001 @@
+{
+    "AuIds": [
+        2792148191,
+        2738327110,
+        2905390023,
+        2632773863,
+        3119827272,
+        2745398189,
+        2746790575,
+        3109694065,
+        2639036721,
+        3107437206
+    ],
+    "fullname": [
+        "De Marco",
+        "Anna"
+    ],
+    "ind_anvur": [
+        28,
+        5,
+        3,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "9788857547985"
+            ],
+            "PId": 2794176904,
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "title": "i segnali discorsivi nel contatto linguistico il caso di allora",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2018
+        },
+        {
+            "ISSN": [
+                "0033-9725"
+            ],
+            "PId": 2746107421,
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "2"
+            },
+            "journal": "RASSEGNA ITALIANA DI LINGUISTICA APPLICATA",
+            "title": "i segnali discorsivi nel parlato di emigrati italiani in germania",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "2037-3597"
+            ],
+            "PId": 2736835399,
+            "citing": [
+                {
+                    "PId": 2892087104,
+                    "author": [
+                        {
+                            "AuId": 2343656848,
+                            "AuN": "paolo balboni"
+                        }
+                    ],
+                    "doi": "10.30687/ELLE/2280-6792/2018/01/008",
+                    "title": "beli bibliografia dell educazione linguistica in italia 2017 update",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.13130/2037-3597/8763",
+            "journal": "ITALIANO LINGUADUE",
+            "title": "la comunicazione delle emozioni in italiano l2 una proposta di training prosodico",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-3-631-71758-5"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.3726/B11249",
+            "title": "l acquisizione delle emozioni nell italiano non nativo un percorso didattico longitudinale",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1879-7865"
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Haugen",
+                            "given": "Tor Arne",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Enger",
+                            "given": "Hans-Olav",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1515/LING-2019-0008",
+                    "title": "the semantics of scandinavian pancake constructions",
+                    "year_oc": 2019
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Koplenig",
+                            "given": "Alexander",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/CLLT-2014-0049",
+                    "title": "using the parameters of the zipf mandelbrot law to measure diachronic lexical syntactical and stylistic changes a large scale corpus analysis",
+                    "year_oc": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1075",
+            "journal": "LIA",
+            "title": "the use of discourse markers in l2 italian a preliminary investigation of acoustic cues",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-7667-571-3"
+            ],
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "title": "l uso dei segnali discorsivi in apprendenti di italiano l2",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-97657-16-3"
+            ],
+            "PId": 2904534800,
+            "citing": [
+                {
+                    "PId": 2963808652,
+                    "author": [
+                        {
+                            "AuId": 2963720172,
+                            "AuN": "anna de marco"
+                        }
+                    ],
+                    "doi": "10.5772/INTECHOPEN.87210",
+                    "title": "teaching the prosody of emotive communication in a second language",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "7"
+            },
+            "title": "sulla realizzazione prosodica delle emozioni in italiano nativo e non nativo",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-1-4438-9770-9"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "8"
+            },
+            "title": "identity through discourse the use of pronouns in the narration of italian emigrants",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-6897-045-1"
+            ],
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "title": "uno studio sui correlati acustici delle emozioni in apprendenti di italiano l2 ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-557-0601-8"
+            ],
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "title": "lingua al plurale la formazione degli insegnanti introduzione",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-430-8572-9"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "11"
+            },
+            "title": "dalle emozioni alla voce nuovi orizzonti della comunicazione in italiano l2 ",
+            "type": "monografia o trattato scientifico",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1123-4059"
+            ],
+            "PId": 3109490015,
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "journal": "FILOLOGIA ANTICA E MODERNA",
+            "title": "a functional approach to discourse markers in l2 learners of italian a preliminary study",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0033-9725"
+            ],
+            "PId": 2559978747,
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "13"
+            },
+            "doi": "10.1400/241698",
+            "journal": "RASSEGNA ITALIANA DI LINGUISTICA APPLICATA",
+            "title": "derive fonetiche e percezioni identitarie il caso dell emigrazione italiana a monaco",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "1-4438-7719-0"
+            ],
+            "PId": 3108497899,
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "14"
+            },
+            "title": "the acquisition of emotional competence in l2 learners of italian",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-536-1830-6"
+            ],
+            "cv_id": {
+                "pubbs_ind": "15"
+            },
+            "title": "bellissimo corso di lingua italiana 3 ",
+            "type": "monografia o trattato scientifico",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "2280-6792"
+            ],
+            "cv_id": {
+                "pubbs_ind": "16"
+            },
+            "journal": "EDUCAZIONE LINGUISTICA LANGUAGE EDUCATION",
+            "title": "l espressione e la percezione delle emozioni vocali in apprendenti di italiano l2 uno studio cross linguistico",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-88-9765-705-7"
+            ],
+            "cv_id": {
+                "pubbs_ind": "17"
+            },
+            "title": "l acquisizione dei profili intonativi in apprendenti di italiano l2 attraverso un unita di apprendimento in modalita blended learning",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-1-908416-12-4"
+            ],
+            "PId": 2149314171,
+            "cited": [
+                {
+                    "PId": 2007889078,
+                    "author": [
+                        {
+                            "AuId": 2615569507,
+                            "AuN": "patricia m clancy"
+                        },
+                        {
+                            "AuId": 2145703555,
+                            "AuN": "sandra a thompson"
+                        },
+                        {
+                            "AuId": 2705044156,
+                            "AuN": "ryoko suzuki"
+                        },
+                        {
+                            "AuId": 2133408547,
+                            "AuN": "hongyin tao"
+                        }
+                    ],
+                    "doi": "10.1016/0378-2166(95)00036-4",
+                    "journal": "journal of pragmatics",
+                    "title": "the conversational use of reactive tokens in english japanese and mandarin",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2112098060,
+                    "author": [
+                        {
+                            "AuId": 1977169904,
+                            "AuN": "john hellermann"
+                        },
+                        {
+                            "AuId": 2479325738,
+                            "AuN": "andrea vergun"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2006.04.008",
+                    "journal": "journal of pragmatics",
+                    "title": "language which is not taught the discourse marker use of beginning adult learners of english",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2802714926,
+                    "author": [
+                        {
+                            "AuId": 154801596,
+                            "AuN": "carla bazzanella"
+                        }
+                    ],
+                    "title": "discourse markers in italian towards a compositional meaning",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1963080254,
+                    "author": [
+                        {
+                            "AuId": 2659140716,
+                            "AuN": "victor h yngve"
+                        }
+                    ],
+                    "title": "on getting a word in edgewise",
+                    "year_mag": 1970
+                },
+                {
+                    "PId": 2122510625,
+                    "author": [
+                        {
+                            "AuId": 2632773863,
+                            "AuN": "anna de marco"
+                        },
+                        {
+                            "AuId": 2615069819,
+                            "AuN": "paola leone"
+                        }
+                    ],
+                    "doi": "10.14705/RPNET.2012.000029",
+                    "title": "computer mediated conversation for mutual learning acknowledgement and agreement assessment signals in italian as l2",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2884879996,
+                    "author": [
+                        {
+                            "AuId": 154801596,
+                            "AuN": "carla bazzanella"
+                        }
+                    ],
+                    "title": "i segnali discorsivi",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1857331875,
+                    "author": [
+                        {
+                            "AuId": 2234122567,
+                            "AuN": "stephanie helene pellet"
+                        }
+                    ],
+                    "title": "the development of competence in french interlanguage pragmatics the case of the discourse marker donc",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 202209982,
+                    "author": [
+                        {
+                            "AuId": 2651106702,
+                            "AuN": "hikyoung lee"
+                        }
+                    ],
+                    "journal": "journal of pan pacific association of applied linguistics",
+                    "title": "the acquisition of colloquial english features by korean americans",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 572803379,
+                    "author": [
+                        {
+                            "AuId": 2048774514,
+                            "AuN": "camilla bardel"
+                        }
+                    ],
+                    "title": "la pragmatica in italiano l2 l uso dei segnali discorsivi",
+                    "year_mag": 2004
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 1509689533,
+                    "author": [
+                        {
+                            "AuId": 2615069819,
+                            "AuN": "paola leone"
+                        }
+                    ],
+                    "journal": "international journal of learning teaching and educational research",
+                    "title": "teletandem video recordings and usage based tasks developing a socially situated scenario for learning",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2513977413,
+                    "author": [
+                        {
+                            "AuId": 2713059070,
+                            "AuN": "anna de marco"
+                        }
+                    ],
+                    "doi": "10.1075/LIA.7.1.03DEM",
+                    "journal": "international journal of learning teaching and educational research",
+                    "title": "the use of discourse markers in l2 italian a preliminary investigation of acoustic cues",
+                    "year_mag": 2016
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "18"
+            },
+            "doi": "10.14705/RPNET.2013.000141",
+            "title": "discourse markers in italian as l2 in face to face vs computer mediated settings ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "2239-9615"
+            ],
+            "cv_id": {
+                "pubbs_ind": "19"
+            },
+            "journal": "ITALS",
+            "title": "apprendimento spontaneo e guidato una proposta didattica per studenti cinesi",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "2037-3597"
+            ],
+            "cv_id": {
+                "pubbs_ind": "20"
+            },
+            "journal": "ITALIANO LINGUADUE",
+            "title": "una proposta educativa per gli studenti cinesi il focus on form",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "978-3-0343-1080-2"
+            ],
+            "cv_id": {
+                "pubbs_ind": "21"
+            },
+            "title": "the role of grammar teaching a proposal for chinese students of italian l2",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "978-1908416-03-2"
+            ],
+            "PId": 2122510625,
+            "cited": [
+                {
+                    "PId": 2153190547,
+                    "author": [
+                        {
+                            "AuId": 2121438367,
+                            "AuN": "harvey sacks"
+                        },
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        },
+                        {
+                            "AuId": 2153560426,
+                            "AuN": "gail jefferson"
+                        }
+                    ],
+                    "doi": "10.2307/412243",
+                    "journal": "language",
+                    "title": "a simplest systematics for the organization of turn taking for conversation",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 644273409,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        }
+                    ],
+                    "title": "sequence organization in interaction",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1982356447,
+                    "author": [
+                        {
+                            "AuId": 2116676152,
+                            "AuN": "gabriele kasper"
+                        }
+                    ],
+                    "doi": "10.1111/J.0026-7902.2004.T01-18-.X",
+                    "journal": "the modern language journal",
+                    "title": "participant orientations in german conversation for learning",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2007889078,
+                    "author": [
+                        {
+                            "AuId": 2615569507,
+                            "AuN": "patricia m clancy"
+                        },
+                        {
+                            "AuId": 2145703555,
+                            "AuN": "sandra a thompson"
+                        },
+                        {
+                            "AuId": 2705044156,
+                            "AuN": "ryoko suzuki"
+                        },
+                        {
+                            "AuId": 2133408547,
+                            "AuN": "hongyin tao"
+                        }
+                    ],
+                    "doi": "10.1016/0378-2166(95)00036-4",
+                    "journal": "journal of pragmatics",
+                    "title": "the conversational use of reactive tokens in english japanese and mandarin",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2040750552,
+                    "author": [
+                        {
+                            "AuId": 608509827,
+                            "AuN": "max m louwerse"
+                        },
+                        {
+                            "AuId": 2318702769,
+                            "AuN": "heather h mitchell"
+                        }
+                    ],
+                    "doi": "10.1207/S15326950DP3503_1",
+                    "journal": "discourse processes",
+                    "title": "toward a taxonomy of a set of discourse markers in dialog a theoretical and computational linguistic account",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 599801995,
+                    "author": [
+                        {
+                            "AuId": 2807471759,
+                            "AuN": "elizabeth couperkuhlen"
+                        },
+                        {
+                            "AuId": 2127181079,
+                            "AuN": "cecilia e ford"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.62",
+                    "title": "sound patterns in interaction cross linguistic studies from conversation",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 147951522,
+                    "author": [
+                        {
+                            "AuId": 2797586639,
+                            "AuN": "loredana cerrato"
+                        }
+                    ],
+                    "title": "investigating communicative feedback phenomena across languages and modalities",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1963080254,
+                    "author": [
+                        {
+                            "AuId": 2659140716,
+                            "AuN": "victor h yngve"
+                        }
+                    ],
+                    "title": "on getting a word in edgewise",
+                    "year_mag": 1970
+                },
+                {
+                    "PId": 1538786999,
+                    "author": [
+                        {
+                            "AuId": 154801596,
+                            "AuN": "carla bazzanella"
+                        },
+                        {
+                            "AuId": 2806135252,
+                            "AuN": "cristina bosco"
+                        },
+                        {
+                            "AuId": 2513923548,
+                            "AuN": "alessandro garcea"
+                        },
+                        {
+                            "AuId": 2718906269,
+                            "AuN": "barbara gili fivela"
+                        },
+                        {
+                            "AuId": 2155430513,
+                            "AuN": "johanna miecznikowski"
+                        },
+                        {
+                            "AuId": 2344604475,
+                            "AuN": "francesca tini brunozzi"
+                        }
+                    ],
+                    "doi": "10.5565/REV/CATJL.122",
+                    "journal": "catalan journal of linguistics",
+                    "title": "italian allora french alors functions convergences and divergences",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2299376354,
+                    "author": [
+                        {
+                            "AuId": 2615069819,
+                            "AuN": "paola leone"
+                        }
+                    ],
+                    "journal": "apples journal of applied language studies",
+                    "title": "content domain and language competence in computer mediated conversation for learning",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2326709526,
+                    "author": [
+                        {
+                            "AuId": 2666812667,
+                            "AuN": "deng xudong"
+                        }
+                    ],
+                    "doi": "10.1075/PRAG.18.2.06XUD",
+                    "journal": "pragmatics",
+                    "title": "the use of listener responses in mandarin chinese and australian english conversations",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2789135362,
+                    "author": [
+                        {
+                            "AuId": 2503304735,
+                            "AuN": "laurie jane anderson"
+                        },
+                        {
+                            "AuId": 2788756650,
+                            "AuN": "d banelli"
+                        }
+                    ],
+                    "title": "la commutazione di codice negli incontri tandem",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 592131304,
+                    "author": [
+                        {
+                            "AuId": 1980905800,
+                            "AuN": "birgit apfelbaum"
+                        }
+                    ],
+                    "title": "erzahlen im tandem sprachlernaktivitaten und die konstruktion eines diskursmusters in der fremdsprache zielsprachen franzosisch und deutsch",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2142354060,
+                    "author": [
+                        {
+                            "AuId": 2711865997,
+                            "AuN": "jun xu"
+                        }
+                    ],
+                    "title": "displaying overt recipiency reactive tokens in mandarin task oriented conversation",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2277842666,
+                    "author": [
+                        {
+                            "AuId": 2274078767,
+                            "AuN": "g banti"
+                        },
+                        {
+                            "AuId": 2098583291,
+                            "AuN": "antonietta marra"
+                        },
+                        {
+                            "AuId": 2286875207,
+                            "AuN": "e a cura di vineis"
+                        }
+                    ],
+                    "title": "la ricerca in linguistica applicata nuove riflessioni sul contatto e conflitto linguistico atti del 4 congresso di studi dell aitla associazione italiana di linguistica applicata aitla modena 19 20 febbraio 2004",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 827739337,
+                    "author": [
+                        {
+                            "AuId": 154801596,
+                            "AuN": "carla bazzanella"
+                        },
+                        {
+                            "AuId": 2314503628,
+                            "AuN": "margarita borreguero zuloaga"
+                        }
+                    ],
+                    "doi": "10.5617/OSLA.181",
+                    "journal": "oslo studies in language",
+                    "title": "allora e entonces problemi teorici e dati empirici",
+                    "year_mag": 1970
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2149314171,
+                    "author": [
+                        {
+                            "AuId": 2632773863,
+                            "AuN": "anna de marco"
+                        },
+                        {
+                            "AuId": 2615069819,
+                            "AuN": "paola leone"
+                        }
+                    ],
+                    "doi": "10.14705/RPNET.2013.000141",
+                    "title": "discourse markers in italian as l2 in face to face vs computer mediated settings",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1509689533,
+                    "author": [
+                        {
+                            "AuId": 2615069819,
+                            "AuN": "paola leone"
+                        }
+                    ],
+                    "title": "teletandem video recordings and usage based tasks developing a socially situated scenario for learning",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2137567131,
+                    "author": [
+                        {
+                            "AuId": 2492428317,
+                            "AuN": "atsushi iino"
+                        },
+                        {
+                            "AuId": 2718318081,
+                            "AuN": "yukiko yabuta"
+                        },
+                        {
+                            "AuId": 2492041481,
+                            "AuN": "yoichi nakamura"
+                        }
+                    ],
+                    "doi": "10.14705/RPNET.2013.000147",
+                    "title": "listeners responses in interaction through videoconferencing for presentation practices",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2594030397,
+                    "author": [
+                        {
+                            "AuId": 2594056428,
+                            "AuN": "sviatlana hohn"
+                        }
+                    ],
+                    "title": "docteur de l universite du luxembourg en informatique",
+                    "year_mag": 2016
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "22"
+            },
+            "doi": "10.14705/RPNET.2012.000029",
+            "title": "computer mediated conversation for mutual learning acknowledgement and agreement assessment signals in italian as l2",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788855704861"
+            ],
+            "cv_id": {
+                "pubbs_ind": "23"
+            },
+            "title": "insegnare la prosodia ad apprendenti di italiano l2 un percorso didattico in ambiente virtuale",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "1-4438-4247-8"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "24"
+            },
+            "title": "prosodic pragmatic interface in l2 italian learners repetitions",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "2239-6748"
+            ],
+            "cv_id": {
+                "pubbs_ind": "25"
+            },
+            "journal": "QUADERNI DI LINGUISTICA",
+            "title": "insegnare l italiano a stranieri per scopi specifici una proposta didattica in ambiente virtuale",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-3-0343-0405-4"
+            ],
+            "PId": 3107814017,
+            "cv_id": {
+                "pubbs_ind": "26"
+            },
+            "title": "gender and politeness an investigation on diminutives",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-84-694-6226-3"
+            ],
+            "cv_id": {
+                "pubbs_ind": "27"
+            },
+            "title": "teaching italian for specific purposes to foreigner students through the moodle platform",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-88-557-0447-2"
+            ],
+            "PId": 3119845909,
+            "citing": [
+                {
+                    "PId": 2277369617,
+                    "author": [
+                        {
+                            "AuId": 2278031812,
+                            "AuN": "federica del bono"
+                        },
+                        {
+                            "AuId": 2103695353,
+                            "AuN": "elena nuzzo"
+                        }
+                    ],
+                    "doi": "10.13130/2037-3597/6823",
+                    "journal": "italiano linguadue",
+                    "title": "l insegnamento della pragmatica italiana su lira come reagiscono gli utenti",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "11",
+                "pubbs_ind": "28"
+            },
+            "title": "insegnare la pragmatica complimentarsi in lingue e culture distanti dall italiano",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-88-6473-037-0"
+            ],
+            "cv_id": {
+                "pubbs": "12",
+                "pubbs_ind": "29"
+            },
+            "title": "sociopragmatica ",
+            "type": "monografia o trattato scientifico",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "1593-7178"
+            ],
+            "cv_id": {
+                "pubbs_ind": "30"
+            },
+            "journal": "BOLLETTINO FILOSOFICO",
+            "title": "diminutivi genere e cortesia linguistica un approccio sociocostruttivista",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "1593-7178"
+            ],
+            "cv_id": {
+                "pubbs_ind": "31"
+            },
+            "journal": "XXIV",
+            "title": "ontogenesi delle categorie funzionali in l1 un confronto interlinguistico bollettino filosofico vol",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "978-90-272-5303-3"
+            ],
+            "cv_id": {
+                "pubbs": "13"
+            },
+            "title": "the role of diminutives in the acquisition of italian morphology",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2007
+        },
+        {
+            "ISBN": [
+                "88-464-7027-3"
+            ],
+            "cv_id": {
+                "pubbs": "14"
+            },
+            "title": "acquisire secondo natura lo sviluppo della morfologia in italiano ",
+            "type": "monografia o trattato scientifico",
+            "year": 2005
+        },
+        {
+            "ISBN": [
+                "978-90-272-5303-3"
+            ],
+            "cv_id": {
+                "pubbs": "15"
+            },
+            "title": " the acquisition of diminutives in italian input and acquisition",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2002
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2747494046,
+            "title": "l acquisizione delle emozioni nell italiano non nativo una prospettiva longitudinale",
+            "type": "0",
+            "year_mag": 2017
+        }
+    ]
+}

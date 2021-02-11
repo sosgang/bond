@@ -1,0 +1,100 @@
+{
+    "AuIds": [
+        2037807402
+    ],
+    "fullname": [
+        "Gioffre'",
+        "Alessandro"
+    ],
+    "ind_anvur": [
+        3,
+        2,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0165-1765"
+            ],
+            "PId": 2567216860,
+            "RId": [
+                2056700716,
+                2768978272,
+                2125635807,
+                1984093725,
+                2080286264,
+                2113718256,
+                2038156956
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1016/J.ECONLET.2016.12.025",
+            "journal": "ECONOMICS LETTERS",
+            "title": "asymmetric social norms",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0304-3932"
+            ],
+            "PId": 2264667057,
+            "RId": [
+                2056700716,
+                1989442752,
+                2575211436,
+                1556267561,
+                1984093725,
+                2153604581,
+                1994003047,
+                2001126868,
+                2161401558,
+                2074764193,
+                2127284648,
+                2071373868,
+                2743262831,
+                2054944846,
+                1981900721,
+                2007914820,
+                2246127399,
+                2038156956,
+                2074425505
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1016/J.JMONECO.2014.01.001",
+            "journal": "JOURNAL OF MONETARY ECONOMICS",
+            "title": "game theoretic foundations of monetary equilibrium",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0304-4068"
+            ],
+            "PId": 2038156956,
+            "RId": [
+                2056700716,
+                1984093725,
+                1994003047,
+                2074764193,
+                2056636176,
+                2794459618
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1016/J.JMATECO.2013.07.003",
+            "journal": "JOURNAL OF MATHEMATICAL ECONOMICS",
+            "title": "a tractable analysis of contagious equilibria",
+            "type": "articolo in rivista",
+            "year": 2014
+        }
+    ]
+}

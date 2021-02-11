@@ -1,0 +1,464 @@
+{
+    "AuIds": [
+        1533868099,
+        2678313074,
+        2635172179,
+        3106406899,
+        2633857564
+    ],
+    "fullname": [
+        "Sabino",
+        "Piergiacomo"
+    ],
+    "ind_anvur": [
+        6,
+        5,
+        0,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1660-5446"
+            ],
+            "PId": 2594719772,
+            "RId": [
+                2119436275,
+                2797641211,
+                2108549195,
+                1606015693,
+                2150956140,
+                2030299719,
+                3022342581,
+                2072430699,
+                2075326173,
+                2158114082,
+                65983323,
+                2153805635,
+                1978278922,
+                1818882918,
+                2410449763,
+                2065769320,
+                1817468423
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1007/S00009-017-0847-4",
+            "journal": "MEDITERRANEAN JOURNAL OF MATHEMATICS",
+            "title": "coupling poisson processes by self decomposability",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1469-7688"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1080/14697688.2014.941913",
+            "journal": "QUANTITATIVE FINANCE",
+            "title": "enhancing least squares monte carlo with diffusion bridges an application to energy facilities",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "1756-3607"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.21314/JEM.2014.117",
+            "journal": "THE JOURNAL OF ENERGY MARKETS",
+            "title": "pricing and hedging multiasset spread options using a three dimensional fourier cosine series expansion method",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0140-9883"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1016/J.ENECO.2014.06.014",
+            "journal": "ENERGY ECONOMICS",
+            "title": "on the use of the moment matching technique for pricing and hedging multi asset spread options",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1593-8883"
+            ],
+            "PId": 3102194039,
+            "RId": [
+                1602773783,
+                187931435,
+                2095791684,
+                1980932137,
+                1913204361,
+                2076674575,
+                291811356
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1007/S10203-011-0125-Z",
+            "journal": "DECISIONS IN ECONOMICS AND FINANCE",
+            "title": "multidimensional quasi monte carlo malliavin greeks",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1387-5841"
+            ],
+            "PId": 3100732137,
+            "RId": [
+                1554577510,
+                2254488552,
+                2015616421,
+                187931435,
+                2035392372,
+                2016770622,
+                1770433555,
+                2076674575,
+                2042925520,
+                2012297898
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1007/S11009-011-9228-9",
+            "journal": "METHODOLOGY AND COMPUTING IN APPLIED PROBABILITY",
+            "title": "pricing and hedging asian basket options with quasi monte carlo simulations",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1619-697X"
+            ],
+            "PId": 2012297898,
+            "RId": [
+                2798909945,
+                1981745143,
+                1602773783,
+                2064978316,
+                2043419861,
+                1525526370,
+                2254488552,
+                1523637143,
+                39759813,
+                96632324,
+                2015616421,
+                187931435,
+                2079884250,
+                2146261346,
+                2030999551,
+                2163417850,
+                2004971474,
+                2016770622,
+                1986595758,
+                2009147603,
+                2081280387,
+                2042925520,
+                311354260,
+                1548770197,
+                596659966,
+                1967938488,
+                1993093525,
+                1705977757
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.1007/S10287-009-0104-9",
+            "journal": "COMPUTATIONAL MANAGEMENT SCIENCE",
+            "title": "implementing quasi monte carlo simulations with linear transformations",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "0219-0249"
+            ],
+            "PId": 2152957116,
+            "RId": [
+                1602773783,
+                1525526370,
+                39759813,
+                2097511294,
+                2015616421,
+                2167129367,
+                187931435,
+                1977790907,
+                2151025666,
+                3105263408,
+                2009147603,
+                1493527860,
+                2149372432,
+                2012297898,
+                1993093525
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "8"
+            },
+            "doi": "10.1142/S0219024911006772",
+            "journal": "INTERNATIONAL JOURNAL OF THEORETICAL AND APPLIED FINANCE",
+            "title": "convenient multiple directions of stratification",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1972-7356"
+            ],
+            "PId": 114504637,
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "journal": "LA MATEMATICA NELLA SOCIET\u00c0 E NELLA CULTURA",
+            "title": "metodi monte carlo e quasi monte carlo per il pricing e l hedging di opzioni",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "1593-8883"
+            ],
+            "PId": 1993093525,
+            "RId": [
+                2043419861,
+                39759813,
+                187931435,
+                2030999551,
+                2163417850,
+                1515333551,
+                2035392372,
+                2016770622,
+                1995350495,
+                2042925520,
+                2143994506,
+                2012297898,
+                1548770197,
+                1705977757,
+                17771708,
+                1588960203
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "10"
+            },
+            "doi": "10.1007/S10203-009-0084-9",
+            "journal": "DECISIONS IN ECONOMICS AND FINANCE",
+            "title": "efficient quasi monte simulations for pricing high dimensional path dependent options",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-3-540-22348-1"
+            ],
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "doi": "10.1007/978-3-540-49959-6_24",
+            "title": "parametric estimation of jump diffusions",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2164890872,
+            "RId": [
+                1602773783,
+                1554577510,
+                1525526370,
+                2151832703,
+                2254488552,
+                39759813,
+                2015616421,
+                187931435,
+                2146261346,
+                2030999551,
+                1515333551,
+                2035392372,
+                2016770622,
+                2009147603,
+                1770433555,
+                2076674575,
+                2042925520,
+                1557514394,
+                2012297898,
+                2147326957,
+                17771708
+            ],
+            "doi": "10.1007/S11009-011-9228-9",
+            "journal": "methodology and computing in applied probability",
+            "title": "pricing and hedging asian basket options with quasi monte carlo simulations",
+            "type": "1",
+            "year_mag": 2013
+        },
+        {
+            "PId": 1818882918,
+            "RId": [
+                604181985,
+                2119436275,
+                2797641211,
+                2108549195,
+                1606015693,
+                2150956140,
+                3022342581,
+                2072430699,
+                2157005274,
+                2075326173,
+                2158114082,
+                65983323,
+                2410449763,
+                1817468423
+            ],
+            "journal": "arxiv probability",
+            "title": "correlated poisson processes and self decomposable laws",
+            "type": "8",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2151898017,
+            "RId": [
+                1602773783,
+                1554577510,
+                2043419861,
+                2151832703,
+                577343477,
+                187931435,
+                2030999551,
+                2239047270,
+                2095791684,
+                2016770622,
+                1980932137,
+                1913204361,
+                1986595758,
+                2076674575,
+                2042925520,
+                2147224235,
+                2099081724,
+                2012297898,
+                1993093525,
+                2164890872,
+                2170898750,
+                2171651640
+            ],
+            "doi": "10.1007/S10203-011-0125-Z",
+            "title": "multidimensional quasi monte carlo malliavin greeks",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 1817468423,
+            "RId": [
+                2797641211,
+                2145224101,
+                2150956140,
+                2144738716,
+                3022342581,
+                1988619587,
+                2075326173,
+                65983323,
+                2402725974,
+                1818882918,
+                2284358248
+            ],
+            "journal": "arxiv pricing of securities",
+            "title": "cointegrating jumps an application to energy facilities",
+            "type": "8",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2949248104,
+            "RId": [
+                1981745143,
+                1602773783,
+                2043419861,
+                1523637143,
+                187931435,
+                2030999551,
+                311354260
+            ],
+            "journal": "arxiv probability",
+            "title": "implementing quasi monte carlo simulations with linear transformations",
+            "type": "8",
+            "year_mag": 2007
+        },
+        {
+            "PId": 1705977757,
+            "RId": [
+                1981745143,
+                1602773783,
+                2043419861,
+                2073389244,
+                1964916079,
+                39759813,
+                187931435,
+                44354168,
+                2030999551,
+                2466826444,
+                2153215853,
+                1515333551,
+                2055841872,
+                1999024885,
+                311354260,
+                1548770197,
+                596659966,
+                2146430515,
+                2624814159
+            ],
+            "doi": "10.2139/SSRN.1020151",
+            "journal": "arxiv probability",
+            "title": "monte carlo methods and path generation techniques for pricing multi asset path dependent options",
+            "type": "8",
+            "year_mag": 2007
+        },
+        {
+            "PId": 2949489998,
+            "RId": [
+                1602773783,
+                39759813,
+                2097511294,
+                187931435,
+                2151025666,
+                3105263408,
+                1493527860,
+                2012297898
+            ],
+            "journal": "arxiv computational finance",
+            "title": "convenient multiple directions of stratification",
+            "type": "8",
+            "year_mag": 2010
+        },
+        {
+            "PId": 2599970661,
+            "title": "convenient multiple directions of stratification",
+            "type": "0",
+            "year_mag": 2010
+        },
+        {
+            "PId": 2626836277,
+            "title": "new results simulation and numerical methods",
+            "type": "0",
+            "year_mag": 2010
+        }
+    ]
+}

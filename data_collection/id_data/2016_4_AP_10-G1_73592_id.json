@@ -1,0 +1,1077 @@
+{
+    "AuIds": [
+        2461395939
+    ],
+    "fullname": [
+        "Branchini",
+        "Chiara"
+    ],
+    "ind_anvur": [
+        19,
+        2,
+        2,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "978-1-5015-1570-5"
+            ],
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "title": "word order",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9789027259493"
+            ],
+            "ISSN": [
+                "0165-7763"
+            ],
+            "PId": 2970203224,
+            "RId": [
+                2122399640,
+                2103485549,
+                2134463512,
+                1984588653,
+                2032153309,
+                2025589690,
+                2123583064,
+                2039575105,
+                2002985461,
+                2032914003,
+                2167883459,
+                1558539604,
+                2484943389,
+                2161611322,
+                1550448932,
+                1978066525,
+                2796432559,
+                2478041508,
+                2271680237,
+                2495757192,
+                2290254675,
+                2103405080
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1075/SLCS.184",
+            "title": "searching for imperatives in european sign languages",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-1-5015-1570-5"
+            ],
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1515/9781501500008.157",
+            "title": "relative clauses",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-1-5015-1570-5"
+            ],
+            "cited_raw": [
+                {
+                    "@position": "1",
+                    "rawText": {
+                        "$": "Aarons, D. 1994. Aspects of the syntax of American Sign Language. PhD dissertation, Boston University."
+                    }
+                },
+                {
+                    "@position": "2",
+                    "rawText": {
+                        "$": "Geraci, C., C. Cecchetto & S. Zucchi. 2008. Sentential complementation in Italian Sign Language. In M. Grosvald & D. Soares (eds.), Proceedings of the 38th Western Conference on Linguistics, 46-58."
+                    }
+                },
+                {
+                    "@position": "3",
+                    "id": {
+                        "@confidenceLevel": "0.63895077",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::762f7fe0145f8f95947259c9011643e9"
+                    },
+                    "rawText": {
+                        "$": "Gijn, I. van. 2004. The quest for syntactic dependency. Sentential complementation in Sign Language of the Netherlands. PhD dissertation, University of Amsterdam. Utrecht: LOT."
+                    }
+                },
+                {
+                    "@position": "4",
+                    "id": {
+                        "@confidenceLevel": "0.55412745",
+                        "@type": "openaire",
+                        "@value": "doiboost____::68d85c39a8606dab5c1809b189bbfa06"
+                    },
+                    "rawText": {
+                        "$": "G\u00f6ksel, A. & M. Kelepir. 2016. Observations on clausal complementation in Turkish Sign Language. In: Pfau, R., M. Steinbach & A. Herrmann (eds.), A matter of complexity: Subordination in sign languages. Berlin: De Gruyter Mouton. 65-94."
+                    }
+                },
+                {
+                    "@position": "5",
+                    "rawText": {
+                        "$": "Liddell, S. 1980. American Sign Language syntax. The Hague: Mouton."
+                    }
+                },
+                {
+                    "@position": "6",
+                    "rawText": {
+                        "$": "Padden, C. 1988. Interaction of morphology and syntax in American Sign Language. New York: Garland."
+                    }
+                },
+                {
+                    "@position": "7",
+                    "rawText": {
+                        "$": "Pfau, R. & Quer, J. 2010. Nonmanuals: their grammatical and prosodic roles. In: Brentari, D. (ed.), Sign languages: A Cambridge language survey. Cambridge: Cambridge University Press, 381-402."
+                    }
+                },
+                {
+                    "@position": "8",
+                    "rawText": {
+                        "$": "Pfau, R. & M. Steinbach. 2016. Complex sentences in sign languages: Modality - typology - discourse. In: Pfau, R., M. Steinbach & A. Herrmann (eds.), A matter of complexity: Subordination in sign languages. Berlin: De Gruyter Mouton, 1-35."
+                    }
+                },
+                {
+                    "@position": "9",
+                    "rawText": {
+                        "$": "Pfau, R., M. Steinbach & A. Herrmann (eds.). 2016. A matter of complexity: subordination in sign languages. Berlin: De Gruyter Mouton."
+                    }
+                },
+                {
+                    "@position": "10",
+                    "rawText": {
+                        "$": "Tang, G. & P. Lau. 2012. Coordination and subordination. In: Pfau, R., M. Steinbach & B. Woll (eds.), Sign language. An international handbook Berlin: De Gruyter Mouton, 283-316."
+                    }
+                },
+                {
+                    "@position": "11",
+                    "rawText": {
+                        "$": "Dixon, R.M.W. 2008b. Complement clauses and complementation strategies in typological perspective. In: Dixon, R.M.W. & A.Y. Aikhenvald (eds.), Complementation. A crosslinguistic typology. Oxford: Oxford University Press, 1-48."
+                    }
+                },
+                {
+                    "@position": "12",
+                    "rawText": {
+                        "$": "Nikolaeva, I. (ed.). 2007. Finiteness. Theoretical and empirical foundations. Oxford: Oxford University Press."
+                    }
+                },
+                {
+                    "@position": "13",
+                    "rawText": {
+                        "$": "Noonan, M. 2005. Complementation. In: Shopen, T. (ed.), Language typology and syntactic description. Vol. 2: Complex constructions. Cambridge: Cambridge University Press, 42- 138."
+                    }
+                },
+                {
+                    "@position": "14",
+                    "rawText": {
+                        "$": "Stowell, T. 1982. The tense of infinitives. Linguistic Inquiry 13. 561-70."
+                    }
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "title": "subordination",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-1-5015-1570-5"
+            ],
+            "PId": 2774320511,
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "title": "coordination of clauses",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-1-5015-1570-5"
+            ],
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "title": "imperatives",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-1-5015-1570-5"
+            ],
+            "cited_raw": [
+                {
+                    "@position": "1",
+                    "rawText": {
+                        "$": "5.2 Cohesion 721"
+                    }
+                },
+                {
+                    "@position": "2",
+                    "rawText": {
+                        "$": "5.2.1 Manual strategies 721 5.2.2 Non-manual strategies 723 5.2.3 Strategies using signing space 5.3 Foregrounding and backgrounding Elicitation materials 724"
+                    }
+                },
+                {
+                    "@position": "3",
+                    "rawText": {
+                        "$": "References 725"
+                    }
+                },
+                {
+                    "@position": "4",
+                    "rawText": {
+                        "$": "723 724 Chapter 6\u2003Reporting and role shift 726 6.0 Definitions and challenges 726 6.0.1 Role shift 726"
+                    }
+                },
+                {
+                    "@position": "5",
+                    "rawText": {
+                        "$": "6.0.2 Terminology 727"
+                    }
+                },
+                {
+                    "@position": "6",
+                    "rawText": {
+                        "$": "6.0.3 Comparison with spoken languages 6.0.4 Role shift and context/perspective shift 6.0.5 Role shift and embodiment 730 6.1 Attitude role shift and (in)direct speech 6.2 Action role shift 733"
+                    }
+                },
+                {
+                    "@position": "7",
+                    "rawText": {
+                        "$": "Elicitation materials 734"
+                    }
+                },
+                {
+                    "@position": "8",
+                    "rawText": {
+                        "$": "References 735"
+                    }
+                },
+                {
+                    "@position": "9",
+                    "rawText": {
+                        "$": "728 729 731 Chapter 7\u2003Expressive meaning 736 7.0 Definitions and challenges 7.0.1 Expressive meaning 736 7.0.2 Analytical challenges 738 7.1 Conversational implicature 7.2 Conventional implicature 7.3 Presupposition 742 Elicitation materials 743"
+                    }
+                },
+                {
+                    "@position": "10",
+                    "rawText": {
+                        "$": "References 744"
+                    }
+                },
+                {
+                    "@position": "11",
+                    "rawText": {
+                        "$": "Chapter 8\u2003Signing space 745 8.0 Definitions and challenges 8.0.1 Signing space 745 8.0.2 Analytical challenges 8.1 Uses of signing space 8.1.1 Abstract use 747 8.1.2 Topographic use 749 8.2 Temporal expressions 8.3 Perspective 753 Elicitation materials 755 References 756"
+                    }
+                },
+                {
+                    "@position": "12",
+                    "rawText": {
+                        "$": "Part 5\u2002Syntax"
+                    }
+                },
+                {
+                    "@position": "13",
+                    "rawText": {
+                        "$": "Chapter 1 Sentence types"
+                    }
+                },
+                {
+                    "@position": "14",
+                    "rawText": {
+                        "$": "1.1 Declaratives (Klimis Antzakas, Caterina Donati)"
+                    }
+                },
+                {
+                    "@position": "15",
+                    "rawText": {
+                        "$": "1.2 Interrogatives (Carlo Cecchetto, Meltem Kelepir)"
+                    }
+                },
+                {
+                    "@position": "16",
+                    "rawText": {
+                        "$": "1.3 Imperatives (Chiara Branchini, Caterina Donati)"
+                    }
+                },
+                {
+                    "@position": "17",
+                    "rawText": {
+                        "$": "1.4 Exclamatives (Caterina Donati, Klimis Antzakas)"
+                    }
+                },
+                {
+                    "@position": "18",
+                    "rawText": {
+                        "$": "1.5 Negatives (Klimis Antzakas, Josep Quer, Caterina Donati) Chapter 2 Clause structure"
+                    }
+                },
+                {
+                    "@position": "19",
+                    "rawText": {
+                        "$": "2.1 The syntactic realization of argument structure (Josep Quer, Carlo Cecchetto) 2.2 Grammatical functions (J\u00f3hannes J\u00f3nsson, Carlo Cecchetto, Caterina Donati) 2.3 Word order (Odd-Inge Schr\u00f6der, Carlo Cecchetto, J\u00f3hannes J\u00f3nsson, Chiara Branchini)"
+                    }
+                },
+                {
+                    "@position": "20",
+                    "rawText": {
+                        "$": "2.4 Null arguments (A. Sumru \u00d6zsoy, Chiara Branchini)"
+                    }
+                },
+                {
+                    "@position": "21",
+                    "rawText": {
+                        "$": "2.5 Clausal ellipsis (Carlo Cecchetto, Caterina Donati)"
+                    }
+                },
+                {
+                    "@position": "22",
+                    "rawText": {
+                        "$": "2.6 Pronoun copying (A. Sumru \u00d6zsoy, Caterina Donati)"
+                    }
+                },
+                {
+                    "@position": "23",
+                    "rawText": {
+                        "$": "Chapter 3 Coordination and subordination"
+                    }
+                },
+                {
+                    "@position": "24",
+                    "rawText": {
+                        "$": "3.1 Coordination of clauses (Chiara Branchini, Meltem Kelepir) 3.2 Subordination (Chiara Branchini, Meltem Kelepir)"
+                    }
+                },
+                {
+                    "@position": "25",
+                    "rawText": {
+                        "$": "3.3 Argument clauses (Caterina Donati, Sumru Ozsoy, Asl\u0131 G\u00f6ksel) 3.4 Relative clauses (Chiara Branchini, Meltem Kelepir)"
+                    }
+                },
+                {
+                    "@position": "26",
+                    "rawText": {
+                        "$": "3.5 Adverbial clauses (Meltem Kelepir, Carlo Cecchetto, Markus Steinbach) 3.6 Comparative clauses (Caterina Donati)"
+                    }
+                },
+                {
+                    "@position": "27",
+                    "rawText": {
+                        "$": "3.7 Comparative correlatives (Carlo Geraci, Caterina Donati) Chapter 4 The noun phrase"
+                    }
+                },
+                {
+                    "@position": "28",
+                    "rawText": {
+                        "$": "4.1 Determiners (Lara Mantovan, A. Sumru \u00d6zsoy)"
+                    }
+                },
+                {
+                    "@position": "29",
+                    "rawText": {
+                        "$": "4.2 Possessive phrases (J\u00f3hannes J\u00f3nsson, Cristina Banfi) 4.3 Numerals (Lara Mantovan, A. Sumru \u00d6zsoy)"
+                    }
+                },
+                {
+                    "@position": "30",
+                    "rawText": {
+                        "$": "4.4 Quantifiers (J\u00f3hannes J\u00f3nsson, Cristina Banfi)"
+                    }
+                },
+                {
+                    "@position": "31",
+                    "rawText": {
+                        "$": "4.5 Adjectives (A. Sumru \u00d6zsoy, Meltem Kelepir)"
+                    }
+                },
+                {
+                    "@position": "32",
+                    "rawText": {
+                        "$": "4.6 Multiple NP Constituents (A. Sumru \u00d6zsoy, Lara Mantovan) Chapter 5 The structure of adjectival phrase (Caterina Donati, A. Sumru \u00d6zsoy) Chapter 6 The structure of adverbial phrase (Chiara Branchini, Odd-Inge Schr\u00f6der)"
+                    }
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "title": "null arguments",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-1-5015-1570-5"
+            ],
+            "PId": 2773767464,
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "title": "the structure of adverbial phrase",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9788891741486"
+            ],
+            "PId": 2561427120,
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "title": "introduzione le potenzialita della lingua dei segni",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9780914203865"
+            ],
+            "cited_raw": [
+                {
+                    "@position": "1",
+                    "rawText": {
+                        "$": "Abner, N. 2013. Classifying reduplicated nominals in ASL. Presented at Theoretical Issues in Sign Language Research 11. University College London, London, England."
+                    }
+                },
+                {
+                    "@position": "2",
+                    "rawText": {
+                        "$": "Abner, N., M Flaherty, K. Stangl, D. Brentari, & S. Goldin-Meadow. 2015. Emergent Lexical Categories: Nouns and Verbs in Homesign and Nicaraguan Sign Language."
+                    }
+                },
+                {
+                    "@position": "3",
+                    "id": {
+                        "@confidenceLevel": "0.54660815",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::a576b333dd2b7dafe2e55a2ef3ea84cb"
+                    },
+                    "rawText": {
+                        "$": "Alexiadou, A, & H. Borer. 2015. The Syntax of Roots and the Roots of Syntax. Oxford, UK: OUP."
+                    }
+                },
+                {
+                    "@position": "4",
+                    "id": {
+                        "@confidenceLevel": "0.581999",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::e6e6034e6586ae950f9b27b74dbe9b18"
+                    },
+                    "rawText": {
+                        "$": "Aronoff, M., I. Meir, & W. Sandler. (2005) The paradox of sign language morphology. Language 81.301-344."
+                    }
+                },
+                {
+                    "@position": "5",
+                    "rawText": {
+                        "$": "Aronoff, M., I. Meir, C. Padden, & W. Sandler. 2009. Instrument vs. handling in sign language lexicalization patterns, Presentation at the annual meeting of the Linguistic Society of America. San Francisco."
+                    }
+                },
+                {
+                    "@position": "6",
+                    "id": {
+                        "@confidenceLevel": "0.67774147",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::bca350f69ec7277b43aa9fc494509bad"
+                    },
+                    "rawText": {
+                        "$": "Benedicto, E., & D. Brentari. 2004. Where did all the arguments go? Argument changing properties of classifies in ASL. Natural Language and Linguistic Theory 22.743-810."
+                    }
+                },
+                {
+                    "@position": "7",
+                    "rawText": {
+                        "$": "Bierwisch, M. 1989. Event nominalizations: proposals and problems. Linguistische Studien 194.1- 73. Berlin: ZISW, Akademie der Wissenschaften."
+                    }
+                },
+                {
+                    "@position": "8",
+                    "rawText": {
+                        "$": "Borer, H. 2012. Structuring Sense. Vol. III: Taking Form. Oxford: Oxford University Press."
+                    }
+                },
+                {
+                    "@position": "9",
+                    "rawText": {
+                        "$": "Brentari, D. 1998. A Prosodic Model of Sign Language Phonology. Cambridge, MA: MIT Press."
+                    }
+                },
+                {
+                    "@position": "10",
+                    "id": {
+                        "@confidenceLevel": "0.6105339",
+                        "@type": "openaire",
+                        "@value": "doiboost____::90c9156e7b0c76c6c8a7a94db811c9ea"
+                    },
+                    "rawText": {
+                        "$": "Brentari, D. 2011. Sign language phonology. In The Handbook of Phonological Theory, Second Edition, ed. by J. Goldsmith, J. Riggle, & A. Yu, 691-721. Blackwell, New York/Oxford,"
+                    }
+                },
+                {
+                    "@position": "11",
+                    "rawText": {
+                        "$": "Brentari, D. 2012. Sign language phonology: the word and sub-lexical structure.. In Handbook of Sign Language Linguistics, ed. by R. Pfau, M. Steinbach, & B. Woll, 21-54. Berlin: Mouton."
+                    }
+                },
+                {
+                    "@position": "12",
+                    "id": {
+                        "@confidenceLevel": "0.5594599",
+                        "@type": "openaire",
+                        "@value": "doiboost____::455f94636a4cd2e406e85c668e074938"
+                    },
+                    "rawText": {
+                        "$": "Brentari, D, & C. Padden. 2001. A language with multiple origins: native and foreign vocabulary in American Sign Language. In Foreign Vocabulary in Sign Language: A Crosslinguistic Investigation of Word Formation, ed. by D. Brentari, 87-119. Mahwah, NJ: Lawrence Erlbaum."
+                    }
+                },
+                {
+                    "@position": "13",
+                    "rawText": {
+                        "$": "Brentari, D., M. Coppola, A. Jung, & S. Goldin-Meadow. 2013. Acquiring word class distinctions in American Sign Language. Language Learning and Development 9(2).130-150."
+                    }
+                },
+                {
+                    "@position": "14",
+                    "rawText": {
+                        "$": "Brentari, D., A. Di Renzo, J. Keane, & V. Volterra. 2015. Cognitive, cultural and linguistic sources of a handshape distinction expressing agentivity. TopiCS, 7(1).95-123."
+                    }
+                },
+                {
+                    "@position": "15",
+                    "rawText": {
+                        "$": "Chomsky, N. 1970. Remarks on nominalization. In Readings in Transformational Grammar, ed. by R. K. Jacobs, & P. S. Rosenbaum, 184-221. Waltham, MA: Ginn and Company."
+                    }
+                },
+                {
+                    "@position": "16",
+                    "id": {
+                        "@confidenceLevel": "0.68583834",
+                        "@type": "openaire",
+                        "@value": "od______1874::d51192dd4dc67449f5d60296c054ca07"
+                    },
+                    "rawText": {
+                        "$": "Crasborn, O., & H. Sloetjes. 2008. Enhanced ELAN functionality for sign language corpora. In Proceedings of LREC 2008, Sixth International Conference on Language Resources and Evaluation."
+                    }
+                },
+                {
+                    "@position": "17",
+                    "rawText": {
+                        "$": "Croft, W. 1991. Syntactic Categories and Grammatical Relations: The Cognitive Organization of Information. Chicago: University of Chicago Press."
+                    }
+                },
+                {
+                    "@position": "18",
+                    "rawText": {
+                        "$": "Eccarius, P. 2008. A constraint-based account of handshape contrast in sign languages. Doctoral dissertation. West Lafayette, IN: Purdue University."
+                    }
+                },
+                {
+                    "@position": "19",
+                    "rawText": {
+                        "$": "Engberg-Pedersen, E. 1993. Space in Danish Sign Language. Hamburg: SIGNUM."
+                    }
+                },
+                {
+                    "@position": "20",
+                    "rawText": {
+                        "$": "Fillmore, C. J. 1968. The case for case. In Universals in Linguistic Theory, ed. by E. W. Bach, & R. T. Harms, 1-25. NY: Holt, Rinehart and Winston."
+                    }
+                },
+                {
+                    "@position": "21",
+                    "rawText": {
+                        "$": "Flaherty, M. 2014. The emergence of argument structural devices in Nicaraguan Sign Language. Doctoral dissertation. Chicago: University of Chicago."
+                    }
+                },
+                {
+                    "@position": "22",
+                    "rawText": {
+                        "$": "Giannakidou, A., & M. Rathert, 2009. Quantification, Definiteness, and Nominalization. Oxford: Oxford University Press."
+                    }
+                },
+                {
+                    "@position": "23",
+                    "rawText": {
+                        "$": "Goldberg, A. E. 2002. Surface generalizations: an alternative to alternations. Cognitive Linguistics 13(4).327-356."
+                    }
+                },
+                {
+                    "@position": "24",
+                    "rawText": {
+                        "$": "Goldin-Meadow, S., D. Brentari, M. Coppola, L. Horton, A. Senghas. 2015. Watching language grow in the manual modality: Nominals, predicates, and handshapes. Cognition 136.381-395."
+                    }
+                },
+                {
+                    "@position": "25",
+                    "rawText": {
+                        "$": "Greenberg, J. 1966. Some universals of grammar with particular reference to the order of meaningful elements. In Universals of Language (2nd edition), 110-113. Cambridge: MIT Press,"
+                    }
+                },
+                {
+                    "@position": "26",
+                    "rawText": {
+                        "$": "Grimshaw, J. (1990). Argument Structure. Cambridge, MA: MIT Press."
+                    }
+                },
+                {
+                    "@position": "27",
+                    "rawText": {
+                        "$": "Hunsicker, D., & S. Goldin-Meadow. 2015. How handshape type can distinguish between nouns and verbs in homesign. In Where Do Nouns Come From?, ed. by J. B. Haviland, 111-133. Amsterdam: John Benjamins."
+                    }
+                },
+                {
+                    "@position": "28",
+                    "rawText": {
+                        "$": "Jackendoff, R. 1972. Semantic Interpretation in Generative Grammar. Cambridge, MA: MIT Press."
+                    }
+                },
+                {
+                    "@position": "29",
+                    "rawText": {
+                        "$": "Jackendoff, R. 1990. Semantic Structures. Cambridge, MA: MIT Press."
+                    }
+                },
+                {
+                    "@position": "30",
+                    "rawText": {
+                        "$": "Janis, W. 1992. Morphosyntax of the ASL Verb Phrase. Doctoral dissertation, State University of New York, Buffalo."
+                    }
+                },
+                {
+                    "@position": "31",
+                    "rawText": {
+                        "$": "Koenig, J.-P., Mauner, G., Bienvenue, B., & Conklin, K. 2008. What with? The Anatomy of a (proto)-role. Journal of Semantics 25(2).175-220."
+                    }
+                },
+                {
+                    "@position": "32",
+                    "rawText": {
+                        "$": "Lees, R. B. 1960. The Grammar of English Nominalizations. The Hague: Mouton de Gruyter"
+                    }
+                },
+                {
+                    "@position": "33",
+                    "rawText": {
+                        "$": "Marantz, A. 1984. On the Nature of Grammatical Relations. Cambridge, Mass.: MIT Press."
+                    }
+                },
+                {
+                    "@position": "34",
+                    "rawText": {
+                        "$": "Mathur, G., & Rathmann, C. 2011. Two types of nonconcatenative morphology in sign languages. In Deaf Around the World: The Impact of Language, ed. by D. J. Napoli, & G. Mathur, 54-82. New York/Oxford: Oxford University Press."
+                    }
+                },
+                {
+                    "@position": "35",
+                    "rawText": {
+                        "$": "Mazzoni, L. 2009. Classificatori e impersonamento nella Lingua dei Segni Italiana. Pisa: Plus."
+                    }
+                },
+                {
+                    "@position": "36",
+                    "rawText": {
+                        "$": "Meir, I. 1999. Verb classifiers as noun incorporation in Israeli Sign Language. In Yearbook of Morphology 1999, ed. by G. Booij, & J. van Marle, 295-315. Dordrecht: Kluwer."
+                    }
+                },
+                {
+                    "@position": "37",
+                    "id": {
+                        "@confidenceLevel": "0.4598441",
+                        "@type": "openaire",
+                        "@value": "doiboost____::add9dc3b365f5546dd9886fd0b17002b"
+                    },
+                    "rawText": {
+                        "$": "Mithun, M. 2008. The emergence of agentive systems. In The typology of semantic alignment systems, ed. by M. Donohue, & S. Wichmann, 297-333. Oxford, UK: Oxford University Press."
+                    }
+                },
+                {
+                    "@position": "38",
+                    "rawText": {
+                        "$": "Peirce, C. S. 1958. Collected Papers of Charles Sanders Peirce, 1931-1935. Cambridge, MA: Harvard University Press."
+                    }
+                },
+                {
+                    "@position": "39",
+                    "rawText": {
+                        "$": "Padden, C., & D. Perlmutter. 1987. American Sign Language and the architecture of phonological theory. Natural Language & Linguistic Theory 5.335-375."
+                    }
+                },
+                {
+                    "@position": "40",
+                    "id": {
+                        "@confidenceLevel": "0.6012552",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::0b1c272dd25073f45a9142f4e219a980"
+                    },
+                    "rawText": {
+                        "$": "Padden, C., I. Meir, R. Lepic., So-One Hwang, S. Seegers, & T. Sampson. 2013. Patterned iconicity in sign language lexicons. Gesture 13(3).287-308."
+                    }
+                },
+                {
+                    "@position": "41",
+                    "id": {
+                        "@confidenceLevel": "0.6829787",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::59ee247aa99bf753617ebd2741c0cf89"
+                    },
+                    "rawText": {
+                        "$": "Perlmutter, D. 1978. Impersonal passives and the unaccusative hypothesis. In Proceedings of the Fourth Annual Meeting of the Berkeley Linguistics Society, 157-189. University of California, Berkeley: Berkeley Linguistic Society."
+                    }
+                },
+                {
+                    "@position": "42",
+                    "rawText": {
+                        "$": "Quer, J. 2012. Negation. In Handbook of Sign Language Linguistics, ed. by R. Pfau, M. Steinbach, & B. Woll, 316-339. Berlin: Mouton."
+                    }
+                },
+                {
+                    "@position": "43",
+                    "rawText": {
+                        "$": "Rappaport-Hovav, M., & Levin, B. (1998). Building verb meanings. In The projection of arguments: lexical and compositional factors, ed. by M. Butt & W. Geuder, 97-134. Stanford, CA: CSLI."
+                    }
+                },
+                {
+                    "@position": "44",
+                    "rawText": {
+                        "$": "Rathert, M., & A. Alexiadou. 2010. The Syntax of Nominalization Across Languages and Frameworks. Berlin: Mouton de Gruyter."
+                    }
+                },
+                {
+                    "@position": "45",
+                    "rawText": {
+                        "$": "Rissman, L. 2013. Event participant representations and the instrumental role: A cross-linguistic study. Doctoral dissertation. Baltimore, MD: Johns Hopkins"
+                    }
+                },
+                {
+                    "@position": "46",
+                    "id": {
+                        "@confidenceLevel": "0.636329",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::740baa59777135f44c80c05c8aa1e704"
+                    },
+                    "rawText": {
+                        "$": "Rissman, L., K. Rawlins, & B. Landau. 2015. Using instruments to understand argument structure: Evidence for gradient representation. Cognition 142.266-290."
+                    }
+                },
+                {
+                    "@position": "47",
+                    "rawText": {
+                        "$": "Schlesinger, I. 1995. Cognitive Space and Linguistic Case. Cambridge, England: Cambridge University Press."
+                    }
+                },
+                {
+                    "@position": "48",
+                    "rawText": {
+                        "$": "Schick, B. 1987. The Acquisition of Classifier Predicates in American Sign Language. Doctoral dissertation, West Lafayette, IN: Purdue University."
+                    }
+                },
+                {
+                    "@position": "49",
+                    "rawText": {
+                        "$": "Shay, R., 2002. Grammaticalization and Lexicalization Analysis of Fingerspelling, Unpublished MA thesis, West Lafayette, IN: Purdue University,"
+                    }
+                },
+                {
+                    "@position": "50",
+                    "rawText": {
+                        "$": "Supalla, T. 1982. Structure and Acquisition of Verbs of Motion and Location in American Sign Language, Doctoral dissertation, University of California, San Diego."
+                    }
+                },
+                {
+                    "@position": "51",
+                    "rawText": {
+                        "$": "Supalla, T., & E. Newport. 1978. How many seats in a chair? The derivation of nouns and verbs in American Sign Language. In Understanding Language Through Sign Language Research, ed. by P. Siple, 91-132. NY: Academic Press."
+                    }
+                },
+                {
+                    "@position": "52",
+                    "id": {
+                        "@confidenceLevel": "0.6598881",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::82bd90a64585a33c348b6c69989ca8b3"
+                    },
+                    "rawText": {
+                        "$": "Talmy, L. 1976. Semantic causative types. In Syntax and Semantics, vol. 6: The Grammar of Causative Constructions, ed. by M. Shibatani, 43-116. NY: Academic Press."
+                    }
+                },
+                {
+                    "@position": "53",
+                    "rawText": {
+                        "$": "Tang, G., & J. He 2013. On the nature of instrument in the classifier predicates of Hong Kong Sign Language and Tianjin Sign Language. Paper presented at International Conference on Sign Linguistics and Deaf Education in Asia. Hong Kong: Chinese University of Hong Kong"
+                    }
+                },
+                {
+                    "@position": "54",
+                    "id": {
+                        "@confidenceLevel": "0.64975977",
+                        "@type": "openaire",
+                        "@value": "doiboost____::094fb17b2b3b1be84d5caf86c1b3b235"
+                    },
+                    "rawText": {
+                        "$": "Taub, S. 2001. Language from the Body: Iconicity and Metaphor in American Sign Language. Cambridge, UK: Cambridge University Press."
+                    }
+                },
+                {
+                    "@position": "55",
+                    "rawText": {
+                        "$": "Wilbur, R. 2010. The semantics-phonology interface. In Sign Languages: A Cambridge Language Survey, ed. by D. Brentari, 357-382.Cambridge, MA: Cambridge University Press."
+                    }
+                },
+                {
+                    "@position": "56",
+                    "id": {
+                        "@confidenceLevel": "0.63386065",
+                        "@type": "openaire",
+                        "@value": "datacite____::70dc57aaa33fd80ed70a31ba830615d8"
+                    },
+                    "rawText": {
+                        "$": "Zeshan, U. 2006. Interrogative and Negative Constructions in Sign Languages. Nijmegen: Ishara Press."
+                    }
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "10"
+            },
+            "title": "typology in sign languages can it be predictive ",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-90-27242-59-4"
+            ],
+            "cv_id": {
+                "pubbs_ind": "11"
+            },
+            "doi": "10.1075/BCT.71.03BRA",
+            "title": "wh duplication in italian sign language lis ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-9765-707-1"
+            ],
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "title": "gli enunciati misti bimodali un esperimento naturale ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-90-272-5321-7"
+            ],
+            "PId": 2405837063,
+            "RId": [
+                2129109035,
+                2074669617,
+                2007634388,
+                1986886713,
+                2172145194,
+                2131789329,
+                2113886518,
+                2095720414,
+                2054007525,
+                2079441939,
+                2121497728,
+                2160335023,
+                1971953563,
+                2030878599,
+                2135652181,
+                2071746690,
+                2106603144,
+                2162341987,
+                2067377393,
+                2100378851,
+                2160810898,
+                1983009062,
+                1984650091,
+                2040384503,
+                2138192420,
+                2158322960,
+                1482438246,
+                1940919378,
+                2342884624
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "13"
+            },
+            "doi": "10.1075/LALD.58.02GUA",
+            "title": "language disorders in children with developmental dyslexia",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9781501510373"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "14"
+            },
+            "title": "on relativization and clefting an analysis of italian sign language ",
+            "type": "monografia o trattato scientifico",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1569-996X"
+            ],
+            "PId": 2052780123,
+            "RId": [
+                1882335408,
+                2485745001,
+                2027711904,
+                2024909851,
+                1562178494,
+                2011150801,
+                2091807371,
+                2029433844,
+                2014448405,
+                1988135921,
+                2135267425,
+                2483513635,
+                2072651805,
+                2478041508
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "15"
+            },
+            "doi": "10.1075/SLL.16.2.03BRA",
+            "journal": "XII",
+            "title": "wh duplication in italian sign language sign language linguistics vol",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9788878709089"
+            ],
+            "PId": 2294479012,
+            "cv_id": {
+                "pubbs_ind": "16"
+            },
+            "title": "la lingua dei segni italiana",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9781614513100"
+            ],
+            "PId": 2285857159,
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "17"
+            },
+            "doi": "10.1515/9781614512431.93",
+            "title": "challenging linearization simultaneous mixing in the production of bimodal bilinguals",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9788860305992"
+            ],
+            "cv_id": {
+                "pubbs_ind": "18"
+            },
+            "title": "corso di italiano per chi non sente e per i suoi compagni udenti ",
+            "type": "monografia o trattato scientifico",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0035-3957"
+            ],
+            "cv_id": {
+                "pubbs_ind": "19"
+            },
+            "journal": "LVII",
+            "title": "a developmental study of subject and object relative clauses in italian revue roumaine de linguistique vol",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "0142-7164"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "20"
+            },
+            "doi": "10.1017/SO142716411000324",
+            "journal": "APPLIED PSYCHOLINGUISTICS",
+            "title": "interference in the production of italian subject and object wh questions",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "2397-1835"
+            ],
+            "PId": 2558513955,
+            "cv_id": {
+                "pubbs": "2"
+            },
+            "doi": "10.5334/GJGL.29",
+            "journal": "GLOSSA",
+            "title": "assessing lexicalism through bimodal eyes",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9789027208187"
+            ],
+            "PId": 2289549665,
+            "cv_id": {
+                "pubbs": "9"
+            },
+            "title": "relatively different italian sign language relative clauses in a typological perspective",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "9788875432362"
+            ],
+            "PId": 2220592892,
+            "RId": [
+                2383758424,
+                2029433844,
+                2073859663,
+                2289745519,
+                2112766773,
+                1542728389,
+                2094052046,
+                405165263
+            ],
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "title": "relative libere e interrogative wh in lis",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2009
+        }
+    ]
+}

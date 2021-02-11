@@ -1,0 +1,2971 @@
+{
+    "AuIds": [
+        2716713367,
+        2724074016,
+        2942311269,
+        2156746862
+    ],
+    "fullname": [
+        "Pierini",
+        "Andrea"
+    ],
+    "ind_anvur": [
+        12,
+        0,
+        1,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "PId": 2137233089,
+            "cited": [
+                {
+                    "PId": 2131733003,
+                    "author": [
+                        {
+                            "AuId": 2100570799,
+                            "AuN": "soren johansen"
+                        }
+                    ],
+                    "title": "likelihood based inference in cointegrated vector autoregressive models",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 1977480757,
+                    "author": [
+                        {
+                            "AuId": 2258818573,
+                            "AuN": "robert f engle"
+                        },
+                        {
+                            "AuId": 2092641347,
+                            "AuN": "kenneth f kroner"
+                        }
+                    ],
+                    "doi": "10.1017/S0266466600009063",
+                    "journal": "econometric theory",
+                    "title": "multivariate simultaneous generalized arch",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1998968611,
+                    "author": [
+                        {
+                            "AuId": 82914580,
+                            "AuN": "tim bollerslev"
+                        },
+                        {
+                            "AuId": 2258818573,
+                            "AuN": "robert f engle"
+                        },
+                        {
+                            "AuId": 2251732763,
+                            "AuN": "jeffrey m wooldridge"
+                        }
+                    ],
+                    "doi": "10.1086/261527",
+                    "journal": "journal of political economy",
+                    "title": "a capital asset pricing model with time varying covariances",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2091560152,
+                    "author": [
+                        {
+                            "AuId": 694173608,
+                            "AuN": "nicholas j higham"
+                        }
+                    ],
+                    "doi": "10.1093/IMANUM/22.3.329",
+                    "journal": "ima journal of numerical analysis",
+                    "title": "computing the nearest correlation matrix a problem from finance",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2023915700,
+                    "author": [
+                        {
+                            "AuId": 2397423007,
+                            "AuN": "john y campbell"
+                        },
+                        {
+                            "AuId": 2397423007,
+                            "AuN": "john y campbell"
+                        },
+                        {
+                            "AuId": 2141194175,
+                            "AuN": "yeung lewis chan"
+                        },
+                        {
+                            "AuId": 2303372735,
+                            "AuN": "luis m viceira"
+                        },
+                        {
+                            "AuId": 2303372735,
+                            "AuN": "luis m viceira"
+                        }
+                    ],
+                    "title": "a multivariate model of strategic asset allocation",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1600080087,
+                    "author": [
+                        {
+                            "AuId": 82914580,
+                            "AuN": "tim bollerslev"
+                        },
+                        {
+                            "AuId": 2258818573,
+                            "AuN": "robert f engle"
+                        },
+                        {
+                            "AuId": 2110266519,
+                            "AuN": "daniel b nelson"
+                        }
+                    ],
+                    "doi": "10.1016/S1573-4412(05)80018-2",
+                    "journal": "handbook of econometrics",
+                    "title": "chapter 49 arch models",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2159307101,
+                    "author": [
+                        {
+                            "AuId": 2139885129,
+                            "AuN": "donald goldfarb"
+                        },
+                        {
+                            "AuId": 2460186849,
+                            "AuN": "a idnani"
+                        }
+                    ],
+                    "doi": "10.1007/BF02591962",
+                    "journal": "mathematical programming",
+                    "title": "a numerically stable dual method for solving strictly convex quadratic programs",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 1536329667,
+                    "author": [
+                        {
+                            "AuId": 2102184287,
+                            "AuN": "james p boyle"
+                        },
+                        {
+                            "AuId": 2161765152,
+                            "AuN": "richard l dykstra"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4613-9940-7_3",
+                    "title": "a method for finding projections onto the intersection of convex sets in hilbert spaces",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 1934563024,
+                    "author": [
+                        {
+                            "AuId": 2143176452,
+                            "AuN": "david a goodman"
+                        },
+                        {
+                            "AuId": 2694824861,
+                            "AuN": "john w peavy"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V39.N4.60",
+                    "journal": "financial analysts journal",
+                    "title": "industry relative price earnings ratios as indicators of investment returns",
+                    "year_mag": 1983
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1007/978-3-319-27274-0_27",
+            "title": "a multivariate vec for portfolio selection",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1972-4829"
+            ],
+            "PId": 560054680,
+            "cited": [
+                {
+                    "PId": 1999190721,
+                    "author": [
+                        {
+                            "AuId": 2609839589,
+                            "AuN": "david f findley"
+                        },
+                        {
+                            "AuId": 1757832028,
+                            "AuN": "brian c monsell"
+                        },
+                        {
+                            "AuId": 2676258921,
+                            "AuN": "william r bell"
+                        },
+                        {
+                            "AuId": 2160464538,
+                            "AuN": "mark c otto"
+                        },
+                        {
+                            "AuId": 2688793020,
+                            "AuN": "borchung chen"
+                        }
+                    ],
+                    "doi": "10.1080/07350015.1998.10524743",
+                    "journal": "journal of business & economic statistics",
+                    "title": "new capabilities and methods of the x 12 arima seasonal adjustment program",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2164980531,
+                    "author": [
+                        {
+                            "AuId": 2655320242,
+                            "AuN": "william cave"
+                        },
+                        {
+                            "AuId": 2522337826,
+                            "AuN": "enrico giovannini"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-999X.2007.00279.X",
+                    "journal": "metroeconomica",
+                    "title": "the statistical measurement of services recent achievements and remaining challenges",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1486338765,
+                    "author": [
+                        {
+                            "AuId": 2129138831,
+                            "AuN": "regina kaiser"
+                        },
+                        {
+                            "AuId": 1866895614,
+                            "AuN": "agustin maravall"
+                        }
+                    ],
+                    "title": "seasonal outliers in time series",
+                    "year_mag": 1999
+                }
+            ],
+            "cited_raw": [
+                {
+                    "@position": "1",
+                    "rawText": {
+                        "$": "Farrell M.J. , (1957) \u201cThe measurement of productive efficiencJyo\u201durnal of the Royal Statistical Society"
+                    }
+                },
+                {
+                    "@position": "2",
+                    "rawText": {
+                        "$": "ISTAT La dotazione di infrastrutture e servizi nella sanit\u00e0 - Anni 2004-2005."
+                    }
+                },
+                {
+                    "@position": "3",
+                    "id": {
+                        "@confidenceLevel": "0.68908566",
+                        "@type": "openaire",
+                        "@value": "od______3535::230572917e120ec1e31478c5ffad6559"
+                    },
+                    "rawText": {
+                        "$": "Mahlberg B., Obersteiner M., (2001), Remeasuring the HDI by Data Envelopement Analysis, International Institute for Applied Systems Analysis Interim Report 01-069, Laxenburg, Austria"
+                    }
+                },
+                {
+                    "@position": "4",
+                    "id": {
+                        "@confidenceLevel": "0.508985",
+                        "@type": "openaire",
+                        "@value": "orcid_______::0fbfc303ebc7b65ec3f1aeea24bc9ddd"
+                    },
+                    "rawText": {
+                        "$": "Mazziotta C., Mazziotta M., Pareto A., Vidoli F., (2010) La sintesi di indicatori territoriali di dotazione infrastrutturale: metodi di costruzione e procedure di ponderazione a confronto Rivista di Economia e Statistica del territorio v.1, pp 7-33."
+                    }
+                },
+                {
+                    "@position": "5",
+                    "rawText": {
+                        "$": "Mazziotta M., Pareto A,. (2007) \u201cUn indicatore sintetico di dotazione infrastrutturale: il metodo delle penalit\u00e0 per coefficiente di variazione\u201d,Loins:viluppo regionale nell'Unione Europea - Obiettivi. Strategie, politiche. Atti della XXVIII Conferenza Italiana di Sciene Regionali, AISRe, Bolzano."
+                    }
+                },
+                {
+                    "@position": "6",
+                    "rawText": {
+                        "$": "Sharpe A., Andrews B., (2010), An Assessment of Weighting Methodologies Composite Indicators: The Case of The Index of Economic Well-Being, CSLS Research Report No. 10."
+                    }
+                },
+                {
+                    "@position": "7",
+                    "rawText": {
+                        "$": "Somarriba N., Pena B., (2009) , Synthetic Indicators of Quality of Life in Europe, Soc Indic Res n.94,115-133."
+                    }
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "journal": "RIVISTA DI STATISTICA UFFICIALE",
+            "title": "dea assessment of composite indicators of infrastructureendowment",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "1828-1982"
+            ],
+            "PId": 560054680,
+            "cited": [
+                {
+                    "PId": 1999190721,
+                    "author": [
+                        {
+                            "AuId": 2609839589,
+                            "AuN": "david f findley"
+                        },
+                        {
+                            "AuId": 1757832028,
+                            "AuN": "brian c monsell"
+                        },
+                        {
+                            "AuId": 2676258921,
+                            "AuN": "william r bell"
+                        },
+                        {
+                            "AuId": 2160464538,
+                            "AuN": "mark c otto"
+                        },
+                        {
+                            "AuId": 2688793020,
+                            "AuN": "borchung chen"
+                        }
+                    ],
+                    "doi": "10.1080/07350015.1998.10524743",
+                    "journal": "journal of business & economic statistics",
+                    "title": "new capabilities and methods of the x 12 arima seasonal adjustment program",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2164980531,
+                    "author": [
+                        {
+                            "AuId": 2655320242,
+                            "AuN": "william cave"
+                        },
+                        {
+                            "AuId": 2522337826,
+                            "AuN": "enrico giovannini"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-999X.2007.00279.X",
+                    "journal": "metroeconomica",
+                    "title": "the statistical measurement of services recent achievements and remaining challenges",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1486338765,
+                    "author": [
+                        {
+                            "AuId": 2129138831,
+                            "AuN": "regina kaiser"
+                        },
+                        {
+                            "AuId": 1866895614,
+                            "AuN": "agustin maravall"
+                        }
+                    ],
+                    "title": "seasonal outliers in time series",
+                    "year_mag": 1999
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "journal": "RIVISTA DI STATISTICA UFFICIALE",
+            "title": "data envelopment analysis dea assessment of composite indicators of infrastructure endowment",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-8815-250-322"
+            ],
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "title": "la natura e l incidenza dell irap approfondimenti relativi ad una proposta svimez",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "1120-9534"
+            ],
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "doi": "978-88-15-24387-4",
+            "journal": "RIVISTA ECONOMICA DEL MEZZOGIORNO",
+            "title": "le entrate tributarie dei comuni dal 2007 al 2012 crisi economica federalismo mezzoggiorno",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1810-4967"
+            ],
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "doi": "1810-4967",
+            "journal": "INVESTMENT MANAGEMENT & FINANCIAL INNOVATIONS",
+            "title": "element by element estimation of a volatility matrix an italian portfolio simulation",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "PId": 24650994,
+            "cited": [
+                {
+                    "PId": 406650945,
+                    "author": [
+                        {
+                            "AuId": 2230703740,
+                            "AuN": "christian francq"
+                        },
+                        {
+                            "AuId": 2923766235,
+                            "AuN": "jeanmichel zakoian"
+                        }
+                    ],
+                    "title": "garch models structure statistical inference and financial applications",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2046357557,
+                    "author": [
+                        {
+                            "AuId": 2656404466,
+                            "AuN": "eric jacquier"
+                        },
+                        {
+                            "AuId": 1970845504,
+                            "AuN": "nicholas g polson"
+                        },
+                        {
+                            "AuId": 2155921708,
+                            "AuN": "peter e rossi"
+                        }
+                    ],
+                    "doi": "10.1198/073500102753410408",
+                    "journal": "journal of business & economic statistics",
+                    "title": "bayesian analysis of stochastic volatility models",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2153155589,
+                    "author": [
+                        {
+                            "AuId": 2128074222,
+                            "AuN": "andrew harvey"
+                        },
+                        {
+                            "AuId": 2141591627,
+                            "AuN": "esther ruiz"
+                        },
+                        {
+                            "AuId": 1972505999,
+                            "AuN": "neil shephard"
+                        }
+                    ],
+                    "title": "multivariate stochastic variance models",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1528407481,
+                    "author": [
+                        {
+                            "AuId": 1972505999,
+                            "AuN": "neil shephard"
+                        }
+                    ],
+                    "title": "stochastic volatility selected readings",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2025262040,
+                    "author": [
+                        {
+                            "AuId": 1972505999,
+                            "AuN": "neil shephard"
+                        },
+                        {
+                            "AuId": 2342617100,
+                            "AuN": "michael k pitt"
+                        }
+                    ],
+                    "doi": "10.1093/BIOMET/84.3.653",
+                    "journal": "biometrika",
+                    "title": "likelihood analysis of non gaussian measurement time series",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2405026362,
+                    "author": [
+                        {
+                            "AuId": 2113282856,
+                            "AuN": "jan korbel"
+                        }
+                    ],
+                    "title": "modeling financial time series",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2045411880,
+                    "author": [
+                        {
+                            "AuId": 2019022158,
+                            "AuN": "manabu asai"
+                        },
+                        {
+                            "AuId": 2012629954,
+                            "AuN": "michael mcaleer"
+                        },
+                        {
+                            "AuId": 2650207429,
+                            "AuN": "jun yu"
+                        }
+                    ],
+                    "doi": "10.1080/07474930600713564",
+                    "journal": "econometric reviews",
+                    "title": "multivariate stochastic volatility a review",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1812949503,
+                    "author": [
+                        {
+                            "AuId": 2165466637,
+                            "AuN": "siddhartha chib"
+                        },
+                        {
+                            "AuId": 2068398594,
+                            "AuN": "yasuhiro omori"
+                        },
+                        {
+                            "AuId": 2019022158,
+                            "AuN": "manabu asai"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-540-71297-8_16",
+                    "title": "multivariate stochastic volatility",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1566395535,
+                    "author": [
+                        {
+                            "AuId": 2780834680,
+                            "AuN": "carmen broto"
+                        },
+                        {
+                            "AuId": 2141591627,
+                            "AuN": "esther ruiz"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-6419.2004.00232.X",
+                    "journal": "journal of economic surveys",
+                    "title": "estimation methods for stochastic volatility models a survey",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2130359604,
+                    "author": [
+                        {
+                            "AuId": 2100084259,
+                            "AuN": "gregory connor"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V51.N3.1904",
+                    "journal": "financial analysts journal",
+                    "title": "the three types of factor models a comparison of their explanatory power",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1977476697,
+                    "author": [
+                        {
+                            "AuId": 1915432900,
+                            "AuN": "roland langrock"
+                        },
+                        {
+                            "AuId": 2085390103,
+                            "AuN": "iain l macdonald"
+                        },
+                        {
+                            "AuId": 2213794972,
+                            "AuN": "walter zucchini"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEMPFIN.2011.09.003",
+                    "journal": "journal of empirical finance",
+                    "title": "some nonstandard stochastic volatility models and their estimation using structured hidden markov models",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1549260104,
+                    "author": [
+                        {
+                            "AuId": 2656404466,
+                            "AuN": "eric jacquier"
+                        },
+                        {
+                            "AuId": 1970845504,
+                            "AuN": "nicholas g polson"
+                        },
+                        {
+                            "AuId": 2155921708,
+                            "AuN": "peter e rossi"
+                        }
+                    ],
+                    "journal": "computing in economics and finance",
+                    "title": "stochastic volatility univariate and multivariate extensions",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2280053103,
+                    "author": [
+                        {
+                            "AuId": 2287793466,
+                            "AuN": "s j taylor"
+                        }
+                    ],
+                    "title": "financial returns modelled by the product of two stochastic processes a study of the daily sugar prices 1961 75",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 2799974472,
+                    "author": [
+                        {
+                            "AuId": 2499801402,
+                            "AuN": "keith d c stoodley"
+                        }
+                    ],
+                    "title": "time series analysis theory and practice i",
+                    "year_mag": 1982
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Francq",
+                            "given": "Christian",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Zako\u00efan",
+                            "given": "Jean-Michel",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1002/9780470670057",
+                    "title": "garch models",
+                    "year_oc": 2010
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "doi": "10.1007/10104_2014_17",
+            "title": "a multivariate stochastic volatility model for portfolio risk estimation",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "PId": 104808580,
+            "cited": [
+                {
+                    "PId": 2947626232,
+                    "author": [
+                        {
+                            "AuId": 2947307228,
+                            "AuN": "helmut ltkepohl"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-540-27752-1",
+                    "title": "new introduction to multiple time series analysis",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2134752891,
+                    "author": [
+                        {
+                            "AuId": 722617340,
+                            "AuN": "ruey s tsay"
+                        }
+                    ],
+                    "title": "analysis of financial time series",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1977480757,
+                    "author": [
+                        {
+                            "AuId": 2258818573,
+                            "AuN": "robert f engle"
+                        },
+                        {
+                            "AuId": 2092641347,
+                            "AuN": "kenneth f kroner"
+                        }
+                    ],
+                    "doi": "10.1017/S0266466600009063",
+                    "journal": "econometric theory",
+                    "title": "multivariate simultaneous generalized arch",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2489540272,
+                    "author": [
+                        {
+                            "AuId": 2489492747,
+                            "AuN": "ruey s tsay"
+                        }
+                    ],
+                    "doi": "10.1002/0471746193",
+                    "title": "analysis of financial time series tsay analysis of financial time series",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2023915700,
+                    "author": [
+                        {
+                            "AuId": 2397423007,
+                            "AuN": "john y campbell"
+                        },
+                        {
+                            "AuId": 2397423007,
+                            "AuN": "john y campbell"
+                        },
+                        {
+                            "AuId": 2141194175,
+                            "AuN": "yeung lewis chan"
+                        },
+                        {
+                            "AuId": 2303372735,
+                            "AuN": "luis m viceira"
+                        },
+                        {
+                            "AuId": 2303372735,
+                            "AuN": "luis m viceira"
+                        }
+                    ],
+                    "title": "a multivariate model of strategic asset allocation",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2167409026,
+                    "author": [
+                        {
+                            "AuId": 2153562108,
+                            "AuN": "michael eichler"
+                        }
+                    ],
+                    "doi": "10.1007/S00440-011-0345-8",
+                    "journal": "probability theory and related fields",
+                    "title": "graphical modelling of multivariate time series",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1999518005,
+                    "author": [
+                        {
+                            "AuId": 2896186565,
+                            "AuN": "frank k reilly"
+                        }
+                    ],
+                    "title": "investment analysis and portfolio management",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 2499036495,
+                    "author": [
+                        {
+                            "AuId": 1980685445,
+                            "AuN": "ken nyholm"
+                        }
+                    ],
+                    "title": "strategic asset allocation in fixed income markets a matlab based user s guide",
+                    "year_mag": 2008
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2939530164,
+                    "author": [
+                        {
+                            "AuId": 1919733783,
+                            "AuN": "alessia naccarato"
+                        },
+                        {
+                            "AuId": 2156746862,
+                            "AuN": "andrea pierini"
+                        },
+                        {
+                            "AuId": 2121953560,
+                            "AuN": "giovanna ferraro"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-019-03225-Y",
+                    "journal": "annals of operations research",
+                    "title": "markowitz portfolio optimization through pairs trading cointegrated strategy in long term investment",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "doi": "10.1007/978-3-319-05014-0_34",
+            "title": "bekk element by element estimation of a volatility matrix a portfolio simulation",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-88-8467-874-4"
+            ],
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "title": "chain graph for var and march parameters reduction eu index returns case",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "type": "commento scientifico",
+            "year": 2014
+        },
+        {
+            "PId": 1486593528,
+            "cited": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Francq",
+                            "given": "Christian",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Zako\u00efan",
+                            "given": "Jean-Michel",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1002/9780470670057",
+                    "title": "garch models",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Langrock",
+                            "given": "Roland",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "MacDonald",
+                            "given": "Iain L.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Zucchini",
+                            "given": "Walter",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEMPFIN.2011.09.003",
+                    "title": "some nonstandard stochastic volatility models and their estimation using structured hidden markov models",
+                    "year_oc": 2012
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "a   Faculty of Economics , Soka University ,  Tokyo ,  Japan"
+                                }
+                            ],
+                            "family": "Asai",
+                            "given": "Manabu",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "b  School of Economics and Commerce, University of Western Australia ,  Perth ,  Australia"
+                                }
+                            ],
+                            "family": "McAleer",
+                            "given": "Michael",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "c  School of Economics and Social Sciences, Singapore Management University ,  Singapore"
+                                }
+                            ],
+                            "family": "Yu",
+                            "given": "Jun",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1080/07474930600713564",
+                    "title": "multivariate stochastic volatility a review",
+                    "year_oc": 2006
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Shephard",
+                            "given": "N",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1093/BIOMET/84.3.653",
+                    "title": "likelihood analysis of non gaussian measurement time series",
+                    "year_oc": 1997
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Broto",
+                            "given": "Carmen",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Ruiz",
+                            "given": "Esther",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-6419.2004.00232.X",
+                    "title": "estimation methods for stochastic volatility models a survey",
+                    "year_oc": 2004
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Harvey",
+                            "given": "A.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Ruiz",
+                            "given": "E.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Shephard",
+                            "given": "N.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/2297980",
+                    "title": "multivariate stochastic variance models",
+                    "year_oc": 1994
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Gregory Connor is director of research, Europe, for BARRA International."
+                                }
+                            ],
+                            "family": "Connor",
+                            "given": "Gregory",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V51.N3.1904",
+                    "title": "the three types of factor models a comparison of their explanatory power",
+                    "year_oc": 1995
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "11"
+            },
+            "doi": "10.1007/10104_2014_17",
+            "journal": "advances in latent variables methods models and applications",
+            "title": "a multivariate latent stochastic volatility factor model for portfolio risk estimation",
+            "type": "contributo in atti di convegno",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "97888-6493-019-0"
+            ],
+            "PId": 1502978434,
+            "cited": [
+                {
+                    "PId": 1979575715,
+                    "author": [
+                        {
+                            "AuId": 2258818573,
+                            "AuN": "robert f engle"
+                        }
+                    ],
+                    "doi": "10.2307/1912773",
+                    "journal": "econometrica",
+                    "title": "autoregressive conditional heteroscedasticity with estimates of the variance of united kingdom inflation",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 2167409026,
+                    "author": [
+                        {
+                            "AuId": 2153562108,
+                            "AuN": "michael eichler"
+                        }
+                    ],
+                    "doi": "10.1007/S00440-011-0345-8",
+                    "journal": "probability theory and related fields",
+                    "title": "graphical modelling of multivariate time series",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2130359604,
+                    "author": [
+                        {
+                            "AuId": 2100084259,
+                            "AuN": "gregory connor"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V51.N3.1904",
+                    "journal": "financial analysts journal",
+                    "title": "the three types of factor models a comparison of their explanatory power",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1849041167,
+                    "author": [
+                        {
+                            "AuId": 2303693262,
+                            "AuN": "soren hojsgaard"
+                        },
+                        {
+                            "AuId": 2272872065,
+                            "AuN": "david edwards"
+                        },
+                        {
+                            "AuId": 2204338601,
+                            "AuN": "steffen l lauritzen"
+                        }
+                    ],
+                    "title": "graphical models with r",
+                    "year_mag": 1996
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2304947984,
+                    "author": [
+                        {
+                            "AuId": 2634067240,
+                            "AuN": "andrea pierini"
+                        }
+                    ],
+                    "title": "blue chip italian bank stocks chain graph models for var and march parameters shrinking",
+                    "year_mag": 2016
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "title": "undirected gaussian graphical models for var parameters reduction eu indexes portfolio case",
+            "type": "contributo in atti di convegno",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "978-88-6129-882-8"
+            ],
+            "cv_id": {
+                "pubbs_ind": "13"
+            },
+            "title": "a multivariate vec bekk model for portfolio selection",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        },
+        {
+            "cited": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Boyle",
+                            "given": "James P.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Dykstra",
+                            "given": "Richard L.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4613-9940-7_3",
+                    "title": "a method for finding projections onto the intersection of convex sets in hilbert spaces",
+                    "year_oc": 1986
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Goldfarb",
+                            "given": "D.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Idnani",
+                            "given": "A.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/BF02591962",
+                    "title": "a numerically stable dual method for solving strictly convex quadratic programs",
+                    "year_oc": 1983
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Campbell",
+                            "given": "John Y.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Chan",
+                            "given": "Yeung Lewis",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Viceira",
+                            "given": "Luis M.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/S0304-405X(02)00231-3",
+                    "title": "a multivariate model of strategic asset allocation",
+                    "year_oc": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Bollerslev",
+                            "given": "Tim",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Engle",
+                            "given": "Robert F.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Nelson",
+                            "given": "Daniel B.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/S1573-4412(05)80018-2",
+                    "title": "chapter 49 arch models",
+                    "year_oc": 1994
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Engle",
+                            "given": "Robert F.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Kroner",
+                            "given": "Kenneth F.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/S0266466600009063",
+                    "title": "multivariate simultaneous generalized arch",
+                    "year_oc": 1995
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Bollerslev",
+                            "given": "Tim",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Engle",
+                            "given": "Robert F.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Wooldridge",
+                            "given": "Jeffrey M.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1086/261527",
+                    "title": "a capital asset pricing model with time varying covariances",
+                    "year_oc": 1988
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Johansen",
+                            "given": "S\u00f8ren",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1093/0198774508.001.0001",
+                    "title": "likelihood based inference in cointegrated vector autoregressive models",
+                    "year_oc": 1995
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Higham",
+                            "given": "N. J.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1093/IMANUM/22.3.329",
+                    "title": "computing the nearest correlation matrix a problem from finance",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Goodman",
+                            "given": "David A.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Peavy",
+                            "given": "John W.",
+                            "sequence": "additional",
+                            "suffix": "III"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V39.N4.60",
+                    "title": "industry relative price earnings ratios as indicators of investment returns",
+                    "year_oc": 1983
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1"
+            },
+            "doi": "10.1007/978-3-319-27274-0_27",
+            "title": "amultivariate vec bekkmodel for portfolio 2 selection",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "cv_id": {
+                "pubbs": "2"
+            },
+            "type": "altro",
+            "year": 2016
+        },
+        {
+            "cv_id": {
+                "pubbs": "3"
+            },
+            "type": "altro",
+            "year": 2015
+        },
+        {
+            "cv_id": {
+                "pubbs": "4"
+            },
+            "type": "abstract in atti di convegno",
+            "year": 2014
+        },
+        {
+            "cv_id": {
+                "pubbs": "5"
+            },
+            "type": "abstract in atti di convegno",
+            "year": 2014
+        },
+        {
+            "cv_id": {
+                "pubbs": "6"
+            },
+            "type": "abstract in atti di convegno",
+            "year": 2013
+        },
+        {
+            "cv_id": {
+                "pubbs": "7"
+            },
+            "type": "abstract in atti di convegno",
+            "year": 2013
+        },
+        {
+            "cv_id": {
+                "pubbs": "8"
+            },
+            "type": "abstract in atti di convegno",
+            "year": 2012
+        },
+        {
+            "cv_id": {
+                "pubbs": "9"
+            },
+            "type": "altro",
+            "year": 2012
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2770558473,
+            "cited": [
+                {
+                    "PId": 2044503966,
+                    "author": [
+                        {
+                            "AuId": 2153855188,
+                            "AuN": "james d hamilton"
+                        }
+                    ],
+                    "title": "time series analysis",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2947626232,
+                    "author": [
+                        {
+                            "AuId": 2947307228,
+                            "AuN": "helmut ltkepohl"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-540-27752-1",
+                    "title": "new introduction to multiple time series analysis",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2134752891,
+                    "author": [
+                        {
+                            "AuId": 722617340,
+                            "AuN": "ruey s tsay"
+                        }
+                    ],
+                    "title": "analysis of financial time series",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2034707435,
+                    "author": [
+                        {
+                            "AuId": 2100570799,
+                            "AuN": "soren johansen"
+                        }
+                    ],
+                    "doi": "10.2307/2938278",
+                    "journal": "econometrica",
+                    "title": "estimation and hypothesis testing of cointegration vectors in gaussian vector autoregressive models",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2131733003,
+                    "author": [
+                        {
+                            "AuId": 2100570799,
+                            "AuN": "soren johansen"
+                        }
+                    ],
+                    "title": "likelihood based inference in cointegrated vector autoregressive models",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2102177432,
+                    "author": [
+                        {
+                            "AuId": 125896300,
+                            "AuN": "hal r varian"
+                        },
+                        {
+                            "AuId": 125896300,
+                            "AuN": "hal r varian"
+                        },
+                        {
+                            "AuId": 2169656229,
+                            "AuN": "hyunyoung choi"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1659302",
+                    "title": "predicting the present with google trends",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1979575715,
+                    "author": [
+                        {
+                            "AuId": 2258818573,
+                            "AuN": "robert f engle"
+                        }
+                    ],
+                    "doi": "10.2307/1912773",
+                    "journal": "econometrica",
+                    "title": "autoregressive conditional heteroscedasticity with estimates of the variance of united kingdom inflation",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 2142635246,
+                    "author": [
+                        {
+                            "AuId": 1455229624,
+                            "AuN": "hirotugu akaike"
+                        }
+                    ],
+                    "doi": "10.1109/TAC.1974.1100705",
+                    "journal": "ieee transactions on automatic control",
+                    "title": "a new look at the statistical model identification",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 2080630525,
+                    "author": [
+                        {
+                            "AuId": 2181707484,
+                            "AuN": "sudhakar v nuti"
+                        },
+                        {
+                            "AuId": 2207411915,
+                            "AuN": "brian wayda"
+                        },
+                        {
+                            "AuId": 1989386865,
+                            "AuN": "isuru ranasinghe"
+                        },
+                        {
+                            "AuId": 2097674093,
+                            "AuN": "sisi wang"
+                        },
+                        {
+                            "AuId": 2136593460,
+                            "AuN": "rachel p dreyer"
+                        },
+                        {
+                            "AuId": 2289029529,
+                            "AuN": "serene i chen"
+                        },
+                        {
+                            "AuId": 1825156680,
+                            "AuN": "karthik murugiah"
+                        }
+                    ],
+                    "doi": "10.1371/JOURNAL.PONE.0109583",
+                    "journal": "plos one",
+                    "title": "the use of google trends in health care research a systematic review",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2323881768,
+                    "author": [
+                        {
+                            "AuId": 2169656229,
+                            "AuN": "hyunyoung choi"
+                        },
+                        {
+                            "AuId": 125896300,
+                            "AuN": "hal r varian"
+                        }
+                    ],
+                    "doi": "10.1111/J.1475-4932.2012.00809.X",
+                    "journal": "economic record",
+                    "title": "predicting the present with google trends",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2147634746,
+                    "author": [
+                        {
+                            "AuId": 2148409872,
+                            "AuN": "sharad goel"
+                        },
+                        {
+                            "AuId": 2775877564,
+                            "AuN": "jake m hofman"
+                        },
+                        {
+                            "AuId": 1986925416,
+                            "AuN": "sebastien lahaie"
+                        },
+                        {
+                            "AuId": 2303646384,
+                            "AuN": "david m pennock"
+                        },
+                        {
+                            "AuId": 2138805444,
+                            "AuN": "duncan j watts"
+                        }
+                    ],
+                    "doi": "10.1073/PNAS.1005962107",
+                    "journal": "proceedings of the national academy of sciences of the united states of america",
+                    "title": "predicting consumer behavior with web search",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2133757074,
+                    "author": [
+                        {
+                            "AuId": 129783993,
+                            "AuN": "liran einav"
+                        },
+                        {
+                            "AuId": 129783993,
+                            "AuN": "liran einav"
+                        },
+                        {
+                            "AuId": 2526172747,
+                            "AuN": "jonathan levin"
+                        },
+                        {
+                            "AuId": 2526172747,
+                            "AuN": "jonathan levin"
+                        }
+                    ],
+                    "doi": "10.1126/SCIENCE.1243089",
+                    "journal": "science",
+                    "title": "economics in the age of big data",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2170890002,
+                    "author": [
+                        {
+                            "AuId": 2142981192,
+                            "AuN": "andrea ceron"
+                        },
+                        {
+                            "AuId": 2046258271,
+                            "AuN": "luigi curini"
+                        },
+                        {
+                            "AuId": 1971025415,
+                            "AuN": "stefano m iacus"
+                        },
+                        {
+                            "AuId": 2148759533,
+                            "AuN": "giuseppe porro"
+                        }
+                    ],
+                    "doi": "10.1177/1461444813480466",
+                    "journal": "new media & society",
+                    "title": "every tweet counts how sentiment analysis of social media can improve our knowledge of citizens political preferences with an application to italy and france",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 3021839112,
+                    "author": [
+                        {
+                            "AuId": 2068518481,
+                            "AuN": "nikos askitas"
+                        },
+                        {
+                            "AuId": 2521609087,
+                            "AuN": "klaus f zimmermann"
+                        }
+                    ],
+                    "doi": "10.3790/AEQ.55.2.107",
+                    "journal": "applied economics quarterly",
+                    "title": "google econometrics and unemployment forecasting",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2326462478,
+                    "author": [
+                        {
+                            "AuId": 2038077802,
+                            "AuN": "le t p nghiem"
+                        },
+                        {
+                            "AuId": 2526431628,
+                            "AuN": "sarah papworth"
+                        },
+                        {
+                            "AuId": 2909802476,
+                            "AuN": "felix k s lim"
+                        },
+                        {
+                            "AuId": 2305810183,
+                            "AuN": "luis r carrasco"
+                        }
+                    ],
+                    "doi": "10.1371/JOURNAL.PONE.0152802",
+                    "journal": "plos one",
+                    "title": "analysis of the capacity of google trends to measure interest in conservation topics and the role of online news",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 1524228404,
+                    "author": [
+                        {
+                            "AuId": 2657545793,
+                            "AuN": "nick mclaren"
+                        },
+                        {
+                            "AuId": 2279105699,
+                            "AuN": "rachana shanbhogue"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1865276",
+                    "title": "using internet search data as economic indicators",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2036048505,
+                    "author": [
+                        {
+                            "AuId": 2237215145,
+                            "AuN": "michael ettredge"
+                        },
+                        {
+                            "AuId": 2144944941,
+                            "AuN": "john h gerdes"
+                        },
+                        {
+                            "AuId": 324798716,
+                            "AuN": "gilbert g karuga"
+                        }
+                    ],
+                    "doi": "10.1145/1096000.1096010",
+                    "journal": "communications of the acm",
+                    "title": "using web based search data to predict macroeconomic statistics",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 3015379812,
+                    "author": [
+                        {
+                            "AuId": 2164577089,
+                            "AuN": "m g kendall"
+                        },
+                        {
+                            "AuId": 2111521723,
+                            "AuN": "george e p box"
+                        },
+                        {
+                            "AuId": 2121616191,
+                            "AuN": "gwilym m jenkins"
+                        }
+                    ],
+                    "doi": "10.2307/2344246",
+                    "title": "time series analysis forecasting and control",
+                    "year_mag": 1971
+                },
+                {
+                    "PId": 2951946244,
+                    "author": [
+                        {
+                            "AuId": 2514670559,
+                            "AuN": "yue teng"
+                        },
+                        {
+                            "AuId": 2545905655,
+                            "AuN": "dehua bi"
+                        },
+                        {
+                            "AuId": 2250007202,
+                            "AuN": "guigang xie"
+                        },
+                        {
+                            "AuId": 2652183879,
+                            "AuN": "yuan jin"
+                        },
+                        {
+                            "AuId": 2625745270,
+                            "AuN": "yong huang"
+                        },
+                        {
+                            "AuId": 2270906253,
+                            "AuN": "baihan lin"
+                        },
+                        {
+                            "AuId": 2628615363,
+                            "AuN": "xiaoping an"
+                        },
+                        {
+                            "AuId": 2525610097,
+                            "AuN": "dan feng"
+                        },
+                        {
+                            "AuId": 2157368879,
+                            "AuN": "yigang tong"
+                        }
+                    ],
+                    "doi": "10.1371/JOURNAL.PONE.0165085",
+                    "journal": "plos one",
+                    "title": "dynamic forecasting of zika epidemics using google trends",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 950197454,
+                    "author": [
+                        {
+                            "AuId": 1601178019,
+                            "AuN": "piet j h daas"
+                        },
+                        {
+                            "AuId": 2345185724,
+                            "AuN": "marco puts"
+                        },
+                        {
+                            "AuId": 1206303531,
+                            "AuN": "bart buelens"
+                        },
+                        {
+                            "AuId": 2661111031,
+                            "AuN": "paul a m van den hurk"
+                        }
+                    ],
+                    "doi": "10.1515/JOS-2015-0016",
+                    "journal": "journal of official statistics",
+                    "title": "big data as a source for official statistics",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1976239864,
+                    "author": [
+                        {
+                            "AuId": 2161141218,
+                            "AuN": "hossein hassani"
+                        },
+                        {
+                            "AuId": 2105363455,
+                            "AuN": "emmanuel sirimal silva"
+                        }
+                    ],
+                    "doi": "10.1007/S40745-015-0029-9",
+                    "journal": "annals of data science",
+                    "title": "forecasting with big data a review",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2169429597,
+                    "author": [
+                        {
+                            "AuId": 2068518481,
+                            "AuN": "nikos askitas"
+                        },
+                        {
+                            "AuId": 2521609087,
+                            "AuN": "klaus f zimmermann"
+                        }
+                    ],
+                    "doi": "10.1108/IJM-02-2015-0029",
+                    "journal": "international journal of manpower",
+                    "title": "the internet as a data source for advancement in social sciences",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1834532245,
+                    "author": [
+                        {
+                            "AuId": 2693733607,
+                            "AuN": "giselle guzman"
+                        }
+                    ],
+                    "title": "internet search behavior as an economic forecasting tool the case of inflation expectations",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1972837402,
+                    "author": [
+                        {
+                            "AuId": 2717673664,
+                            "AuN": "y fondeur"
+                        },
+                        {
+                            "AuId": 3121831842,
+                            "AuN": "f karame"
+                        }
+                    ],
+                    "doi": "10.1016/J.ECONMOD.2012.07.017",
+                    "journal": "economic modelling",
+                    "title": "can google data help predict french youth unemployment",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2169818585,
+                    "author": [
+                        {
+                            "AuId": 2619683646,
+                            "AuN": "francesco damuri"
+                        },
+                        {
+                            "AuId": 2116149499,
+                            "AuN": "juri marcucci"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2207915",
+                    "title": "the predictive power of google searches in forecasting unemployment",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1139224560,
+                    "author": [
+                        {
+                            "AuId": 2495977088,
+                            "AuN": "stefano marchetti"
+                        },
+                        {
+                            "AuId": 2518270630,
+                            "AuN": "caterina giusti"
+                        },
+                        {
+                            "AuId": 2005935474,
+                            "AuN": "monica pratesi"
+                        },
+                        {
+                            "AuId": 234972875,
+                            "AuN": "nicola salvati"
+                        },
+                        {
+                            "AuId": 1205765909,
+                            "AuN": "fosca giannotti"
+                        },
+                        {
+                            "AuId": 7769909,
+                            "AuN": "dino pedreschi"
+                        },
+                        {
+                            "AuId": 1263076414,
+                            "AuN": "salvatore rinzivillo"
+                        },
+                        {
+                            "AuId": 2004233499,
+                            "AuN": "luca pappalardo"
+                        },
+                        {
+                            "AuId": 2157886307,
+                            "AuN": "lorenzo gabrielli"
+                        }
+                    ],
+                    "doi": "10.1515/JOS-2015-0017",
+                    "journal": "journal of official statistics",
+                    "title": "small area model based estimators using big data sources",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2189237058,
+                    "author": [
+                        {
+                            "AuId": 2466105786,
+                            "AuN": "constance f citro"
+                        }
+                    ],
+                    "title": "from multiple modes for surveys to multiple data sources for estimates",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2053185287,
+                    "author": [
+                        {
+                            "AuId": 2129700259,
+                            "AuN": "maria rosalia vicente"
+                        },
+                        {
+                            "AuId": 2399558235,
+                            "AuN": "ana jesus lopezmenendez"
+                        },
+                        {
+                            "AuId": 2146183379,
+                            "AuN": "rigoberto perez"
+                        }
+                    ],
+                    "doi": "10.1016/J.TECHFORE.2014.12.005",
+                    "journal": "technological forecasting and social change",
+                    "title": "forecasting unemployment with internet search data does it help to improve predictions when job destruction is skyrocketing",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1996891675,
+                    "author": [
+                        {
+                            "AuId": 2138499690,
+                            "AuN": "aaron t porter"
+                        },
+                        {
+                            "AuId": 704464043,
+                            "AuN": "scott h holan"
+                        },
+                        {
+                            "AuId": 1257087734,
+                            "AuN": "christopher k wikle"
+                        },
+                        {
+                            "AuId": 2039163769,
+                            "AuN": "noel a cressie"
+                        },
+                        {
+                            "AuId": 2039163769,
+                            "AuN": "noel a cressie"
+                        }
+                    ],
+                    "doi": "10.1016/J.SPASTA.2014.07.001",
+                    "journal": "spatial statistics",
+                    "title": "spatial fay herriot models for small area estimation with functional covariates",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1450448994,
+                    "author": [
+                        {
+                            "AuId": 2146808011,
+                            "AuN": "barteld braaksma"
+                        },
+                        {
+                            "AuId": 2601915840,
+                            "AuN": "kees zeelenberg"
+                        }
+                    ],
+                    "doi": "10.3233/SJI-150892",
+                    "journal": "statistical journal of the iaos",
+                    "title": "re make re model should big data change the modelling paradigm in official statistics",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2609674881,
+                    "author": [
+                        {
+                            "AuId": 2073668457,
+                            "AuN": "wiwik anggraeni"
+                        },
+                        {
+                            "AuId": 2608580409,
+                            "AuN": "laras aristiani"
+                        }
+                    ],
+                    "doi": "10.1109/ICTS.2016.7910283",
+                    "title": "using google trend data in forecasting number of dengue fever cases with arimax method case study surabaya indonesia",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2554777155,
+                    "author": [
+                        {
+                            "AuId": 2556055931,
+                            "AuN": "jason parker"
+                        },
+                        {
+                            "AuId": 2320141378,
+                            "AuN": "courtney cuthbertson"
+                        },
+                        {
+                            "AuId": 2199467460,
+                            "AuN": "scott loveridge"
+                        },
+                        {
+                            "AuId": 2007909347,
+                            "AuN": "mark skidmore"
+                        },
+                        {
+                            "AuId": 2553460416,
+                            "AuN": "will dyar"
+                        }
+                    ],
+                    "doi": "10.1016/J.JAD.2016.10.038",
+                    "journal": "journal of affective disorders",
+                    "title": "forecasting state level premature deaths from alcohol drugs and suicides using google trends data",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 649511033,
+                    "author": [
+                        {
+                            "AuId": 2623349043,
+                            "AuN": "henri theil"
+                        },
+                        {
+                            "AuId": 2426720476,
+                            "AuN": "g a c beerens"
+                        },
+                        {
+                            "AuId": 2097461734,
+                            "AuN": "c g de leeuw"
+                        },
+                        {
+                            "AuId": 2668978395,
+                            "AuN": "c b tilanus"
+                        }
+                    ],
+                    "title": "applied economic forecasting",
+                    "year_mag": 1966
+                },
+                {
+                    "PId": 2054379763,
+                    "author": [
+                        {
+                            "AuId": 1903414135,
+                            "AuN": "steven c hillmer"
+                        },
+                        {
+                            "AuId": 2943486377,
+                            "AuN": "george c tiao"
+                        }
+                    ],
+                    "doi": "10.1080/01621459.1982.10477767",
+                    "journal": "journal of the american statistical association",
+                    "title": "an arima model based approach to seasonal adjustment",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 2083455980,
+                    "author": [
+                        {
+                            "AuId": 2101666314,
+                            "AuN": "graeme chamberlin"
+                        }
+                    ],
+                    "doi": "10.1057/ELMR.2010.166",
+                    "journal": "economic and labour market review",
+                    "title": "googling the present",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2047067639,
+                    "author": [
+                        {
+                            "AuId": 2336602939,
+                            "AuN": "nuno barreira"
+                        },
+                        {
+                            "AuId": 2160333667,
+                            "AuN": "pedro godinho"
+                        },
+                        {
+                            "AuId": 2148029247,
+                            "AuN": "paulo melo"
+                        }
+                    ],
+                    "doi": "10.1007/S11066-013-9082-8",
+                    "journal": "netnomics",
+                    "title": "nowcasting unemployment rate and new car sales in south western europe with google trends",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2493757016,
+                    "author": [
+                        {
+                            "AuId": 2483174663,
+                            "AuN": "christian anvik"
+                        },
+                        {
+                            "AuId": 2496496829,
+                            "AuN": "kristoffer gjelstad"
+                        }
+                    ],
+                    "title": "just google it forecasting norwegian unemployment figures with web queries",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2571537737,
+                    "author": [
+                        {
+                            "AuId": 2161141218,
+                            "AuN": "hossein hassani"
+                        },
+                        {
+                            "AuId": 2105363455,
+                            "AuN": "emmanuel sirimal silva"
+                        }
+                    ],
+                    "doi": "10.1142/S2335680416500204",
+                    "title": "forecasting energy data with a time lag into the future and google trends",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2591619995,
+                    "author": [
+                        {
+                            "AuId": 1393660461,
+                            "AuN": "gorete dinis"
+                        },
+                        {
+                            "AuId": 2236369427,
+                            "AuN": "carlos costa"
+                        },
+                        {
+                            "AuId": 2150873066,
+                            "AuN": "osvaldo pacheco"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-47732-9_32",
+                    "title": "forecasting british tourist inflows to portugal using google trends data",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 11600548,
+                    "author": [
+                        {
+                            "AuId": 2134773364,
+                            "AuN": "torsten schmidt"
+                        },
+                        {
+                            "AuId": 2168360066,
+                            "AuN": "simeon vosen"
+                        }
+                    ],
+                    "journal": "foresight the international journal of applied forecasting",
+                    "title": "forecasting consumer purchases using google trends",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2792462933,
+                    "author": [
+                        {
+                            "AuId": 2776762719,
+                            "AuN": "alan g nixon"
+                        }
+                    ],
+                    "doi": "10.4324/9781315604794-13",
+                    "title": "going with the flow indigenous non religion not atheism",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2566641577,
+                    "author": [
+                        {
+                            "AuId": 1571449934,
+                            "AuN": "michele dalo"
+                        },
+                        {
+                            "AuId": 2566883246,
+                            "AuN": "r gismondi"
+                        },
+                        {
+                            "AuId": 3062126205,
+                            "AuN": "alessia naccarato"
+                        },
+                        {
+                            "AuId": 2156349482,
+                            "AuN": "fabrizio solari"
+                        }
+                    ],
+                    "title": "estimation in repeated business surveys using preliminary sample data",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2601053752,
+                    "author": [
+                        {
+                            "AuId": 2146808011,
+                            "AuN": "barteld braaksma"
+                        },
+                        {
+                            "AuId": 2888802919,
+                            "AuN": "kees zeelenberg"
+                        },
+                        {
+                            "AuId": 3083723139,
+                            "AuN": "sofie de broe"
+                        }
+                    ],
+                    "doi": "10.1002/9781118976357.CH10",
+                    "title": "big data in official statistics",
+                    "year_mag": 2020
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2515288491,
+                    "author": [
+                        {
+                            "AuId": 2651718731,
+                            "AuN": "otto kassi"
+                        },
+                        {
+                            "AuId": 2028915831,
+                            "AuN": "vili lehdonvirta"
+                        }
+                    ],
+                    "doi": "10.1016/J.TECHFORE.2018.07.056",
+                    "journal": "technological forecasting and social change",
+                    "title": "online labour index measuring the online gig economy for policy and research",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2795287040,
+                    "author": [
+                        {
+                            "AuId": 2794551036,
+                            "AuN": "lutao zhao"
+                        },
+                        {
+                            "AuId": 2794551036,
+                            "AuN": "lutao zhao"
+                        },
+                        {
+                            "AuId": 2936856439,
+                            "AuN": "yi wang"
+                        },
+                        {
+                            "AuId": 2795134974,
+                            "AuN": "shiqiu guo"
+                        },
+                        {
+                            "AuId": 2795134974,
+                            "AuN": "shiqiu guo"
+                        },
+                        {
+                            "AuId": 2768041887,
+                            "AuN": "guanrong zeng"
+                        }
+                    ],
+                    "doi": "10.1016/J.APENERGY.2018.03.060",
+                    "journal": "technological forecasting and social change",
+                    "title": "a novel method based on numerical fitting for oil price trend forecasting",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2923838130,
+                    "author": [
+                        {
+                            "AuId": 2924963332,
+                            "AuN": "robin f niesert"
+                        },
+                        {
+                            "AuId": 2923783855,
+                            "AuN": "jochem a oorschot"
+                        },
+                        {
+                            "AuId": 2923951853,
+                            "AuN": "christian p veldhuisen"
+                        },
+                        {
+                            "AuId": 2924646751,
+                            "AuN": "kester brons"
+                        },
+                        {
+                            "AuId": 2201193213,
+                            "AuN": "rutgerjan lange"
+                        }
+                    ],
+                    "doi": "10.1016/J.IJFORECAST.2018.12.006",
+                    "journal": "technological forecasting and social change",
+                    "title": "can google search data help predict macroeconomic series",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2998531299,
+                    "author": [
+                        {
+                            "AuId": 3021811151,
+                            "AuN": "daisuke moriwaki"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-38081-6_3",
+                    "journal": "technological forecasting and social change",
+                    "title": "nowcasting unemployment rates with smartphone gps data",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3125445082,
+                    "author": [
+                        {
+                            "AuId": 2913641544,
+                            "AuN": "caterina schiavoni"
+                        },
+                        {
+                            "AuId": 253537087,
+                            "AuN": "franz c palm"
+                        },
+                        {
+                            "AuId": 706776481,
+                            "AuN": "stephan smeekes"
+                        },
+                        {
+                            "AuId": 565254630,
+                            "AuN": "jan van den brakel"
+                        }
+                    ],
+                    "doi": "10.1111/RSSA.12626",
+                    "journal": "technological forecasting and social change",
+                    "title": "a dynamic factor model approach to incorporate big data in state space models for official statistics",
+                    "year_mag": 2021
+                },
+                {
+                    "PId": 2912915296,
+                    "author": [
+                        {
+                            "AuId": 2913641544,
+                            "AuN": "caterina schiavoni"
+                        },
+                        {
+                            "AuId": 253537087,
+                            "AuN": "franz c palm"
+                        },
+                        {
+                            "AuId": 706776481,
+                            "AuN": "stephan smeekes"
+                        },
+                        {
+                            "AuId": 565254630,
+                            "AuN": "jan van den brakel"
+                        }
+                    ],
+                    "journal": "technological forecasting and social change",
+                    "title": "a dynamic factor model approach to incorporate big data in state space models for official statistics",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3116638240,
+                    "author": [
+                        {
+                            "AuId": 2787480022,
+                            "AuN": "benjamin lucas"
+                        },
+                        {
+                            "AuId": 1273428386,
+                            "AuN": "todd landman"
+                        }
+                    ],
+                    "doi": "10.1080/13669877.2020.1864009",
+                    "journal": "technological forecasting and social change",
+                    "title": "social listening modern slavery and covid 19",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3016997323,
+                    "author": [
+                        {
+                            "AuId": 2787480022,
+                            "AuN": "benjamin lucas"
+                        },
+                        {
+                            "AuId": 3016771698,
+                            "AuN": "brendan elliot"
+                        },
+                        {
+                            "AuId": 1273428386,
+                            "AuN": "todd landman"
+                        }
+                    ],
+                    "journal": "technological forecasting and social change",
+                    "title": "online information search during covid 19",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2883076657,
+                    "author": [
+                        {
+                            "AuId": 2121030092,
+                            "AuN": "pingfeng pai"
+                        },
+                        {
+                            "AuId": 2884463633,
+                            "AuN": "lingchuang hong"
+                        },
+                        {
+                            "AuId": 2116173785,
+                            "AuN": "kuoping lin"
+                        },
+                        {
+                            "AuId": 2116173785,
+                            "AuN": "kuoping lin"
+                        }
+                    ],
+                    "doi": "10.1155/2018/6305246",
+                    "journal": "technological forecasting and social change",
+                    "title": "using internet search trends and historical trading data for predicting stock markets by the least squares support vector regression model",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2911771107,
+                    "author": [
+                        {
+                            "AuId": 1796653233,
+                            "AuN": "maryam dilmaghani"
+                        }
+                    ],
+                    "doi": "10.1108/JES-11-2017-0346",
+                    "journal": "technological forecasting and social change",
+                    "title": "workopolis or the pirate bay what does google trends say about the unemployment rate",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2898037996,
+                    "author": [
+                        {
+                            "AuId": 2513571229,
+                            "AuN": "daniel duwe"
+                        },
+                        {
+                            "AuId": 2896141874,
+                            "AuN": "florian herrmann"
+                        },
+                        {
+                            "AuId": 2597424645,
+                            "AuN": "dieter spath"
+                        }
+                    ],
+                    "doi": "10.23919/PICMET.2018.8481971",
+                    "journal": "technological forecasting and social change",
+                    "title": "forecasting the diffusion of product and technology innovations using google trends as an example",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2942613666,
+                    "author": [
+                        {
+                            "AuId": 2508786507,
+                            "AuN": "saakshi jha"
+                        },
+                        {
+                            "AuId": 2724020184,
+                            "AuN": "sohini sahu"
+                        },
+                        {
+                            "AuId": 2641792633,
+                            "AuN": "siddhartha chattopadhyay"
+                        }
+                    ],
+                    "doi": "10.1007/S11403-019-00255-4",
+                    "journal": "technological forecasting and social change",
+                    "title": "epidemiology of inflation expectations and internet search an analysis for india",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3004018095,
+                    "author": [
+                        {
+                            "AuId": 2165726221,
+                            "AuN": "mihaela simionescu"
+                        },
+                        {
+                            "AuId": 2306506142,
+                            "AuN": "dalia streimikiene"
+                        },
+                        {
+                            "AuId": 1843653566,
+                            "AuN": "wadim strielkowski"
+                        }
+                    ],
+                    "doi": "10.3390/SU12031011",
+                    "journal": "technological forecasting and social change",
+                    "title": "what does google trends tell us about the impact of brexit on the unemployment rate in the uk",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2911707388,
+                    "author": [
+                        {
+                            "AuId": 1796653233,
+                            "AuN": "maryam dilmaghani"
+                        }
+                    ],
+                    "doi": "10.3233/JEM-180458",
+                    "journal": "technological forecasting and social change",
+                    "title": "the racial digital divide in the predictive power of google trends data for forecasting the unemployment rate",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3125102741,
+                    "author": [
+                        {
+                            "AuId": 2096855956,
+                            "AuN": "david coble"
+                        },
+                        {
+                            "AuId": 2841402783,
+                            "AuN": "pablo pincheira"
+                        }
+                    ],
+                    "doi": "10.1007/S00181-020-02011-1",
+                    "journal": "technological forecasting and social change",
+                    "title": "nowcasting building permits with google trends",
+                    "year_mag": 2021
+                },
+                {
+                    "PId": 3113215753,
+                    "author": [
+                        {
+                            "AuId": 2280744171,
+                            "AuN": "wouter van der wielen"
+                        },
+                        {
+                            "AuId": 2941592291,
+                            "AuN": "salvador barrios"
+                        }
+                    ],
+                    "doi": "10.1016/J.JECONBUS.2020.105970",
+                    "journal": "technological forecasting and social change",
+                    "title": "economic sentiment during the covid pandemic evidence from search behaviour in the eu",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2995178194,
+                    "author": [
+                        {
+                            "AuId": 2295884456,
+                            "AuN": "alejandro diazdominguez"
+                        }
+                    ],
+                    "doi": "10.1177/1946756719894602",
+                    "journal": "technological forecasting and social change",
+                    "title": "how futures studies and foresight could address ethical dilemmas of machine learning and artificial intelligence",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3011223437,
+                    "author": [
+                        {
+                            "AuId": 3012156746,
+                            "AuN": "simionescu mihaela"
+                        }
+                    ],
+                    "doi": "10.1016/J.TECHFORE.2020.120026",
+                    "journal": "technological forecasting and social change",
+                    "title": "improving unemployment rate forecasts at regional level in romania using google trends",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2995739176,
+                    "author": [
+                        {
+                            "AuId": 1796653233,
+                            "AuN": "maryam dilmaghani"
+                        }
+                    ],
+                    "doi": "10.1177/0008429819854353",
+                    "journal": "technological forecasting and social change",
+                    "title": "who is not afraid of richard dawkins using google trends to assess the reach of influential atheists across canadian secular groups",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2974577512,
+                    "author": [
+                        {
+                            "AuId": 3099390038,
+                            "AuN": "halim ba\u015f"
+                        }
+                    ],
+                    "doi": "10.31199/HAKISDERG.579591",
+                    "journal": "technological forecasting and social change",
+                    "title": "farkli refah rejimlerinde genc i\u015fsizli\u011fi ve neet nin gorunumu italya ingiltere ve isvec ornekleri",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2601053752,
+                    "author": [
+                        {
+                            "AuId": 2146808011,
+                            "AuN": "barteld braaksma"
+                        },
+                        {
+                            "AuId": 2888802919,
+                            "AuN": "kees zeelenberg"
+                        },
+                        {
+                            "AuId": 3083723139,
+                            "AuN": "sofie de broe"
+                        }
+                    ],
+                    "doi": "10.1002/9781118976357.CH10",
+                    "journal": "technological forecasting and social change",
+                    "title": "big data in official statistics",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2947706466,
+                    "author": [
+                        {
+                            "AuId": 2946857268,
+                            "AuN": "ewelina niedzielska"
+                        }
+                    ],
+                    "doi": "10.15611/E21.2018.3.06",
+                    "journal": "technological forecasting and social change",
+                    "title": "wykorzystanie google trends do predykcji stopy zwrotu indeksu wig20",
+                    "year_mag": 2018
+                },
+                {
+                    "author": [
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-0968-4109",
+                            "affiliation": [
+                                {
+                                    "name": "Wydzia\u0142 Nauk Spo\u0142ecznych, Katolicki Uniwersytet Lubelski Jana Paw\u0142a II"
+                                }
+                            ],
+                            "authenticated-orcid": true,
+                            "family": "Jegorow",
+                            "given": "Dorota",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.22630/MIBE.2018.19.2.13",
+                    "title": "identyfikacja zainteresowania dotacjami jako zjawiska sezonowego",
+                    "year_oc": 2018
+                }
+            ],
+            "doi": "10.1016/J.TECHFORE.2017.11.022",
+            "journal": "technological forecasting and social change",
+            "title": "combining official and google trends data to forecast the italian youth unemployment rate",
+            "type": "1",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2273229519,
+            "citing": [
+                {
+                    "PId": 3011223437,
+                    "author": [
+                        {
+                            "AuId": 3012156746,
+                            "AuN": "simionescu mihaela"
+                        }
+                    ],
+                    "doi": "10.1016/J.TECHFORE.2020.120026",
+                    "journal": "technological forecasting and social change",
+                    "title": "improving unemployment rate forecasts at regional level in romania using google trends",
+                    "year_mag": 2020
+                }
+            ],
+            "title": "using google trend data to predict the italian unemployment rate",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2567181351,
+            "journal": "investment management & financial innovations",
+            "title": "element by element estimation of a volatility matrix an italian portfolio simulation",
+            "type": "1",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2492539404,
+            "title": "forecasting italian youth unemployment rate using online search data",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2584105308,
+            "title": "multiple bi dimensional sv models for volatility matrix estimation the case of 5d italian banks return",
+            "type": "0",
+            "year_mag": 2014
+        },
+        {
+            "PId": 2581183180,
+            "title": "forecasting the italian youth unemployment rate with internet search data",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2578131905,
+            "title": "the combined use of cvar and bekk models for portfolio selection of italian stock market",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 626304483,
+            "cited": [
+                {
+                    "PId": 1587141723,
+                    "author": [
+                        {
+                            "AuId": 2100570799,
+                            "AuN": "soren johansen"
+                        },
+                        {
+                            "AuId": 1396312291,
+                            "AuN": "katarina juselius"
+                        }
+                    ],
+                    "doi": "10.1111/J.1468-0084.1990.MP52002003.X",
+                    "journal": "oxford bulletin of economics and statistics",
+                    "title": "maximum likelihood estimation and inference on cointegration with applications to the demand for money",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2044503966,
+                    "author": [
+                        {
+                            "AuId": 2153855188,
+                            "AuN": "james d hamilton"
+                        }
+                    ],
+                    "title": "time series analysis",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2947626232,
+                    "author": [
+                        {
+                            "AuId": 2947307228,
+                            "AuN": "helmut ltkepohl"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-540-27752-1",
+                    "title": "new introduction to multiple time series analysis",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2131733003,
+                    "author": [
+                        {
+                            "AuId": 2100570799,
+                            "AuN": "soren johansen"
+                        }
+                    ],
+                    "title": "likelihood based inference in cointegrated vector autoregressive models",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 1977480757,
+                    "author": [
+                        {
+                            "AuId": 2258818573,
+                            "AuN": "robert f engle"
+                        },
+                        {
+                            "AuId": 2092641347,
+                            "AuN": "kenneth f kroner"
+                        }
+                    ],
+                    "doi": "10.1017/S0266466600009063",
+                    "journal": "econometric theory",
+                    "title": "multivariate simultaneous generalized arch",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2170206178,
+                    "author": [
+                        {
+                            "AuId": 2210449200,
+                            "AuN": "darrell duffie"
+                        },
+                        {
+                            "AuId": 2168508420,
+                            "AuN": "jun pan"
+                        }
+                    ],
+                    "doi": "10.3905/JOD.1997.407971",
+                    "journal": "journal of derivatives",
+                    "title": "an overview of value at risk",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1998968611,
+                    "author": [
+                        {
+                            "AuId": 82914580,
+                            "AuN": "tim bollerslev"
+                        },
+                        {
+                            "AuId": 2258818573,
+                            "AuN": "robert f engle"
+                        },
+                        {
+                            "AuId": 2251732763,
+                            "AuN": "jeffrey m wooldridge"
+                        }
+                    ],
+                    "doi": "10.1086/261527",
+                    "journal": "journal of political economy",
+                    "title": "a capital asset pricing model with time varying covariances",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2091560152,
+                    "author": [
+                        {
+                            "AuId": 694173608,
+                            "AuN": "nicholas j higham"
+                        }
+                    ],
+                    "doi": "10.1093/IMANUM/22.3.329",
+                    "journal": "ima journal of numerical analysis",
+                    "title": "computing the nearest correlation matrix a problem from finance",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2023915700,
+                    "author": [
+                        {
+                            "AuId": 2397423007,
+                            "AuN": "john y campbell"
+                        },
+                        {
+                            "AuId": 2397423007,
+                            "AuN": "john y campbell"
+                        },
+                        {
+                            "AuId": 2141194175,
+                            "AuN": "yeung lewis chan"
+                        },
+                        {
+                            "AuId": 2303372735,
+                            "AuN": "luis m viceira"
+                        },
+                        {
+                            "AuId": 2303372735,
+                            "AuN": "luis m viceira"
+                        }
+                    ],
+                    "title": "a multivariate model of strategic asset allocation",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2159307101,
+                    "author": [
+                        {
+                            "AuId": 2139885129,
+                            "AuN": "donald goldfarb"
+                        },
+                        {
+                            "AuId": 2460186849,
+                            "AuN": "a idnani"
+                        }
+                    ],
+                    "doi": "10.1007/BF02591962",
+                    "journal": "mathematical programming",
+                    "title": "a numerically stable dual method for solving strictly convex quadratic programs",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 1999518005,
+                    "author": [
+                        {
+                            "AuId": 2896186565,
+                            "AuN": "frank k reilly"
+                        }
+                    ],
+                    "title": "investment analysis and portfolio management",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 1973241508,
+                    "author": [
+                        {
+                            "AuId": 2315769613,
+                            "AuN": "john l evans"
+                        },
+                        {
+                            "AuId": 2150149973,
+                            "AuN": "stephen h archer"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1968.TB00315.X",
+                    "journal": "journal of finance",
+                    "title": "diversification and the reduction of dispersion an empirical analysis",
+                    "year_mag": 1968
+                },
+                {
+                    "PId": 2051005826,
+                    "author": [
+                        {
+                            "AuId": 155572201,
+                            "AuN": "jaroslava hlouskova"
+                        },
+                        {
+                            "AuId": 152155033,
+                            "AuN": "kurt schmidheiny"
+                        },
+                        {
+                            "AuId": 2112192673,
+                            "AuN": "martin wagner"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEMPFIN.2008.09.002",
+                    "journal": "journal of empirical finance",
+                    "title": "multistep predictions for multivariate garch models closed form solution and the value for portfolio management",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1934563024,
+                    "author": [
+                        {
+                            "AuId": 2143176452,
+                            "AuN": "david a goodman"
+                        },
+                        {
+                            "AuId": 2694824861,
+                            "AuN": "john w peavy"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V39.N4.60",
+                    "journal": "financial analysts journal",
+                    "title": "industry relative price earnings ratios as indicators of investment returns",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2107638290,
+                    "author": [
+                        {
+                            "AuId": 2315630790,
+                            "AuN": "s francis nicholson"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V16.N4.43",
+                    "journal": "financial analysts journal",
+                    "title": "price earnings ratios",
+                    "year_mag": 1960
+                }
+            ],
+            "title": "multivariate statistical analysis for portfolio selection of italian stock market",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2977497843,
+            "title": "a multiple bi dimensional bekk model for portfolio volatility matrix estimation of the italian stock market",
+            "type": "0",
+            "year_mag": 2013
+        }
+    ]
+}

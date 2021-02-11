@@ -1,0 +1,508 @@
+{
+    "AuIds": [
+        1664767552
+    ],
+    "fullname": [
+        "Fusari",
+        "Nicola"
+    ],
+    "ind_anvur": [
+        6,
+        5,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1540-6261"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1111/jofi.12486",
+            "journal": "THE JOURNAL OF FINANCE",
+            "title": "short term market risks implied by weekly options ",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0304-405X"
+            ],
+            "PId": 2307215944,
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "journal": "JOURNAL OF FINANCIAL ECONOMICS",
+            "title": "the risk premia embedded in index options",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0012-9682"
+            ],
+            "cited_raw": [
+                {
+                    "@position": "1",
+                    "rawText": {
+                        "$": "2010. Second, the t to deep OTM short-maturity options is relatively good with the exception of 2"
+                    }
+                },
+                {
+                    "@position": "2",
+                    "rawText": {
+                        "$": "t;kj; j Jacod, J. (2008). Asymptotic Properties of Power Variations and Associated Functionals of Semimartingales. Stochastic Processes and their Applications 118, 517{559."
+                    }
+                },
+                {
+                    "@position": "3",
+                    "id": {
+                        "@confidenceLevel": "0.5394132",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::449b6dacea7749503e59a2305ae12bc4"
+                    },
+                    "rawText": {
+                        "$": "Jacod, J., Y. Li, P. Mykland, M. Podolskij, and M. Vettter (2009). Microstructure Noise in the Continuous Case: The Pre-Averaging Approach. Stochastic Processes and their Applications 119, 2249{2276."
+                    }
+                },
+                {
+                    "@position": "4",
+                    "id": {
+                        "@confidenceLevel": "0.6782151",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::a56f1da961a6d12c3457da1af6374f67"
+                    },
+                    "rawText": {
+                        "$": "Jacod, J. and A. N. Shiryaev (2003). Limit Theorems For Stochastic Processes (2nd ed.). Berlin: SpringerVerlag."
+                    }
+                },
+                {
+                    "@position": "5",
+                    "rawText": {
+                        "$": "Jacod, J. and V. Todorov (2010). Do Price and Volatility Jump Together? Annals of Applied Probability 20, 1425{1469."
+                    }
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.3982/ecta10719",
+            "journal": "ECONOMETRICA",
+            "title": "parametric inference and dynamic state recovery from option panels ",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0304-405X"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1016/j.jfineco.2012.08.015",
+            "journal": "JOURNAL OF FINANCIAL ECONOMICS",
+            "title": "realizing smiles option pricing with realized volatility",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0025-1909"
+            ],
+            "PId": 2249760442,
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1287/mnsc.1090.1070",
+            "journal": "MANAGEMENT SCIENCE",
+            "title": "valuing modularity as a real options ",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "1074-1240"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.3905/jod.2008.16.2.036",
+            "journal": "THE JOURNAL OF DERIVATIVES",
+            "title": "barrier option pricing with adjusted transition probabilities",
+            "type": "articolo in rivista",
+            "year": 2008
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2162993787,
+            "RId": [
+                2159706540,
+                2061160212,
+                2240968826,
+                2113704261,
+                2081877251,
+                2163683534,
+                2115778593,
+                2133672408,
+                2051235503,
+                1966268097,
+                2163191305,
+                2245012388,
+                2001244105,
+                2034241492,
+                2081133178,
+                2114859981,
+                2151065060,
+                3023591372,
+                2141180236,
+                2128985728,
+                1894905729,
+                2096086683,
+                2150678305,
+                2117923314,
+                2164380597,
+                1485179637,
+                2018240140,
+                2158580072,
+                2130570312,
+                2150163453,
+                2108075367,
+                2158512712,
+                2037484813,
+                2045144032,
+                2125124025,
+                2553992319,
+                2102101468,
+                2318818482,
+                2129146548,
+                2096887247,
+                2052066969,
+                2154357865,
+                2109300155,
+                3020946912,
+                1587983714,
+                2915749805,
+                2148589404,
+                2550584490,
+                2047066564,
+                2891820270,
+                2088042863,
+                2985642081,
+                2160354697,
+                1555655020
+            ],
+            "doi": "10.1016/J.JFINECO.2015.06.005",
+            "journal": "journal of financial economics",
+            "title": "the risk premia embedded in index options",
+            "type": "1",
+            "year_mag": 2015
+        },
+        {
+            "PId": 3020946912,
+            "RId": [
+                2010353172,
+                2112352537,
+                2151726729,
+                2140585983,
+                2068138154,
+                2115778593,
+                2163191305,
+                2136215272,
+                2017137572,
+                2001244105,
+                2166536772,
+                2034241492,
+                2003413166,
+                2081133178,
+                3023591372,
+                2164380597,
+                2145351609,
+                2070047061,
+                2011157928,
+                2135987917,
+                3022003474,
+                2057701372,
+                3103147850,
+                2160358053,
+                2072838328,
+                2051968669,
+                201570259,
+                2004778049,
+                2108121009
+            ],
+            "doi": "10.3982/ECTA10719",
+            "journal": "econometrica",
+            "title": "parametric inference and dynamic state recovery from option panels",
+            "type": "1",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2739807218,
+            "title": "parametric inference and dynamic state recovery from option panels",
+            "type": "0",
+            "year_mag": 2011
+        },
+        {
+            "PId": 1926814904,
+            "RId": [
+                2010353172,
+                2017170340,
+                2112352537,
+                2151726729,
+                2140585983,
+                2068138154,
+                2081877251,
+                2051235503,
+                2098612888,
+                2163191305,
+                2136215272,
+                2017137572,
+                2166536772,
+                630096583,
+                1511751337,
+                2003413166,
+                2081133178,
+                3023591372,
+                2140667952,
+                2141180236,
+                1894905729,
+                2096086683,
+                2122413893,
+                2130570312,
+                2145351609,
+                2070047061,
+                1555033159,
+                2026454108,
+                2045144032,
+                2011157928,
+                2135987917,
+                1993875222,
+                2130071199,
+                2057701372,
+                3103147850,
+                2160358053,
+                2051968669,
+                2004778049,
+                2047066564,
+                2108121009,
+                2148482557,
+                1599409560,
+                2099146293
+            ],
+            "doi": "10.3386/W18046",
+            "journal": "national bureau of economic research",
+            "title": "parametric inference and dynamic state recovery from option panels",
+            "type": "1",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2161125443,
+            "RId": [
+                2044503966,
+                1979575715,
+                1999814123,
+                2061160212,
+                2151726729,
+                3021444882,
+                2140585983,
+                2146134639,
+                2012712694,
+                2115778593,
+                2031817855,
+                1963787328,
+                2049755890,
+                2157296221,
+                2159879678,
+                2163191305,
+                2245012388,
+                2150405201,
+                2120702528,
+                3095114851,
+                2167698785,
+                1969960895,
+                2166536772,
+                2034241492,
+                2165410407,
+                2106757932,
+                2151065060,
+                2025006397,
+                3023591372,
+                2139395482,
+                1587010081,
+                2135395072,
+                2106683911,
+                2164380597,
+                2744463887,
+                2099959884,
+                2110758267,
+                2159164841,
+                3023429964,
+                2013134717,
+                3021580254,
+                2157403008,
+                2103382933,
+                2037484813,
+                1989729764,
+                2122349895,
+                2028867268,
+                2143621568,
+                2106506194,
+                2135987917,
+                2126388986,
+                1533920443,
+                2008361621,
+                2145759982,
+                2170868725,
+                2157102225,
+                2158229560,
+                2146006331,
+                2158829113,
+                1941404029,
+                2157505837,
+                1997575166,
+                2049174687,
+                2148231771,
+                2169213174,
+                2115217355,
+                1545499910,
+                1604224727,
+                2108121009,
+                2078220623,
+                2314640094,
+                2189618682,
+                2187906749,
+                2124495625,
+                2031941200
+            ],
+            "doi": "10.1016/J.JFINECO.2012.08.015",
+            "journal": "journal of financial economics",
+            "title": "realizing smiles options pricing with realized volatility",
+            "type": "1",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2129304908,
+            "RId": [
+                1995503011,
+                1602773783,
+                1575104486,
+                2126311658,
+                1540343830,
+                1548953477,
+                1542118577,
+                2146612430,
+                2138678836,
+                2159959126,
+                10259981,
+                1557238565,
+                2134579884,
+                2044298381,
+                1987312835,
+                2116421424,
+                1990664633,
+                2165201397,
+                2021451263,
+                2154955866,
+                2028565660,
+                2044613220,
+                2137925004,
+                2084748303,
+                2077461696,
+                1566062936,
+                2082813923,
+                1554166313,
+                2055759661,
+                2018921332,
+                2068942014,
+                1979661100,
+                2287487959,
+                2113947991,
+                2097445863,
+                2028393376,
+                2095577207,
+                2113962901,
+                1518567111,
+                2364472741
+            ],
+            "doi": "10.1287/MNSC.1090.1070",
+            "journal": "management science",
+            "title": "valuing modularity as a real option",
+            "type": "1",
+            "year_mag": 2009
+        },
+        {
+            "PId": 1836558600,
+            "RId": [
+                1499969990,
+                2138540172,
+                2163191305,
+                2052611462,
+                1636237932,
+                630096583,
+                1894905729,
+                2096086683,
+                2150163453,
+                2026454108,
+                2128266550,
+                2102101468,
+                2096887247,
+                2088042863,
+                1982652983,
+                2076177276
+            ],
+            "journal": "national bureau of economic research",
+            "title": "the pricing of short term market risk evidence from weekly options",
+            "type": "1",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2971456344,
+            "title": "barrier option pricing using adjusted transition probabilities",
+            "type": "0",
+            "year_mag": 2007
+        },
+        {
+            "PId": 2099988439,
+            "RId": [
+                1571438983,
+                2146612430,
+                1530688987,
+                2168954579,
+                2116153452,
+                1975761536,
+                2052619408,
+                1997753289,
+                2105347469,
+                2024746190,
+                2137007723,
+                2018351633,
+                2023970747,
+                2091268588,
+                1821415328,
+                2034029549,
+                2033396652,
+                2128786664
+            ],
+            "doi": "10.3905/JOD.2008.16.2.036",
+            "journal": "journal of derivatives",
+            "title": "barrier option pricing using adjusted transition probabilities",
+            "type": "1",
+            "year_mag": 2008
+        },
+        {
+            "PId": 2284264137,
+            "title": "options pricing with realized volatility",
+            "type": "0",
+            "year_mag": 2009
+        }
+    ]
+}

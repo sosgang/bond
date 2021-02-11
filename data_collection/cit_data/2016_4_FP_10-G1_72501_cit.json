@@ -1,0 +1,3350 @@
+{
+    "AuIds": [
+        2622116031,
+        2722318454,
+        2763954791,
+        2673108455,
+        2501156020,
+        2115697526,
+        2703306102,
+        2599397080
+    ],
+    "fullname": [
+        "Napoli",
+        "Maria"
+    ],
+    "ind_anvur": [
+        30,
+        12,
+        1,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1951-6215"
+            ],
+            "cited_raw": [
+                {
+                    "@position": "1",
+                    "id": {
+                        "@confidenceLevel": "0.473352",
+                        "@type": "openaire",
+                        "@value": "datacite____::be9e18126b0722c7ea7b1dbedac462c9"
+                    },
+                    "rawText": {
+                        "$": "[1] R. Agrawal, T. Imielinski, and A. Swami. Mining Association Rules between Sets of Items in Large Databases. In Proceedings, ACM SIGMOD Conference on Management of Data, Washington, D.C., pages 207{216, 1993."
+                    }
+                },
+                {
+                    "@position": "2",
+                    "id": {
+                        "@confidenceLevel": "0.55048245",
+                        "@type": "openaire",
+                        "@value": "doiboost____::33c9c659edb7d827d569d8abcc399793"
+                    },
+                    "rawText": {
+                        "$": "[2] R. Agrawal, H. Mannila, R. Srikant, H. Toivonen, and A. I. Verkamo. Fast Discovery of Association Rules. In U.M. Fayyad, G. Piatetsky-Shapiro, P. Smyth, and R. Uthurusamy, editors, Advances in Knowledge Discovery and Data Mining, pages 307{328, Menlo Park, California, 1996. AAAI Press / MIT Press."
+                    }
+                },
+                {
+                    "@position": "3",
+                    "rawText": {
+                        "$": "[3] R. Agrawal and R. Srikant. Fast algorithms for mining association rules in large databases. In Proceedings of the 20th Conference on Very Large Data Bases (VLDB-94), pages 478{499, 1994."
+                    }
+                },
+                {
+                    "@position": "4",
+                    "rawText": {
+                        "$": "[4] M. Barbut and B. Monjardet. Ordre et classi cation { Algebre et combinatoire (2 tomes). Hachette, Paris, 1970."
+                    }
+                },
+                {
+                    "@position": "5",
+                    "id": {
+                        "@confidenceLevel": "0.5626802",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::beb34842e81b0fde4005479885f08607"
+                    },
+                    "rawText": {
+                        "$": "[5] S. Berasaluce, C. Laurenco, A. Napoli, and G. Niel. An Experiment on Knowledge Discovery in Chemical Databases. In J.-F Boulicaut, F. Esposito, F. Giannotti, and D. Pedreschi, editors, Knowledge Discovery in Databases: PKDD 2004, Pisa, Lecture Notes in Arti cial Intelligence 3202, pages 39{51. Springer, Berlin, 2004."
+                    }
+                },
+                {
+                    "@position": "6",
+                    "id": {
+                        "@confidenceLevel": "0.58718556",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::d1b964ae881442bf3a08d3027930cb5b"
+                    },
+                    "rawText": {
+                        "$": "[6] S. Berasaluce, C. Laurenco, A. Napoli, and G. Niel. Data mining in reaction databases: extraction of knowledge on chemical functionality transformations. Technical Report A04-R-049, LORIA, Nancy, 2004."
+                    }
+                },
+                {
+                    "@position": "7",
+                    "id": {
+                        "@confidenceLevel": "0.68012476",
+                        "@type": "openaire",
+                        "@value": "scholix_____::6ae23d2bfebdd02179cbf7932c9544d9"
+                    },
+                    "rawText": {
+                        "$": "[7] B. Berendt, A. Hotho, and G. Stumme. Towards Semantic Web Mining. In I. Horrocks and J. Hendler, editors, The Semantic Web - ISWC 2002, Lecture Notes in Arti cial Intelligence 2342, pages 264{278. Springer, Berlin, 2002."
+                    }
+                },
+                {
+                    "@position": "8",
+                    "rawText": {
+                        "$": "[8] R.J. Brachman and T. Anand. The Process of Knowledge Discovery in Databases. In U.M. Fayyad, G. Piatetsky-Shapiro, P. Smyth, and R. Uthurusamy, editors, Advances in Knowledge Discovery and Data Mining, pages 37{57, Menlo Park, California, 1996. AAAI Press / MIT Press."
+                    }
+                },
+                {
+                    "@position": "9",
+                    "rawText": {
+                        "$": "[9] C. Carpineto and G. Romano. Concept Data Analysis: Theory and Applications. John Wiley & Sons, Chichester, UK, 2004."
+                    }
+                },
+                {
+                    "@position": "10",
+                    "rawText": {
+                        "$": "[10] H. Cher , A. Napoli, and Y. Toussaint. Toward a text mining methodology using frequent itemset and association rule extraction. In M. Nadif, A. Napoli, E. SanJuan, and A. Sigayret, editors, Journees de l'informatique Messine (JIM2003), Knowledge Discovery and Discrete Mathematics, Metz, pages 285{294. INRIA, 2003."
+                    }
+                },
+                {
+                    "@position": "11",
+                    "id": {
+                        "@confidenceLevel": "0.54745436",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::96aa857927ef9c2c6af8c4f1e4991d54"
+                    },
+                    "rawText": {
+                        "$": "[11] C. Creighton and S. Hanash. Mining gene expression databases for association rules. Bioinformatics, 19(1):79{86, 2003."
+                    }
+                },
+                {
+                    "@position": "12",
+                    "rawText": {
+                        "$": "[12] B.A. Davey and H.A. Priestley. Introduction to Lattices and Order. Cambridge University Press, Cambridge, UK, 1990."
+                    }
+                },
+                {
+                    "@position": "13",
+                    "id": {
+                        "@confidenceLevel": "0.6814079",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::e47673c67a8b019a5b94cb4fda1e30d2"
+                    },
+                    "rawText": {
+                        "$": "[13] L. Dehaspe and H. Toivonen. Discovery of frequent datalog patterns. Data Mining and Knowledge Discovery, 3:7{36, 1999."
+                    }
+                },
+                {
+                    "@position": "14",
+                    "rawText": {
+                        "$": "[14] M.H. Dunham. Data Mining { Introductory and Advanced Topics. Prentice Hall, Upper Saddle River, NJ, 2003."
+                    }
+                },
+                {
+                    "@position": "15",
+                    "id": {
+                        "@confidenceLevel": "0.70524883",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::b23504c0be7be00a3165c4707740a5a4"
+                    },
+                    "rawText": {
+                        "$": "[15] V. Duquenne. Latticial structures in data analysis. Theoretical Computer Science, 217:407{436, 1999."
+                    }
+                },
+                {
+                    "@position": "16",
+                    "rawText": {
+                        "$": "[16] S. Dzeroski and N. Lavrac, editors. Relational Data Mining. Springer, Berlin, 2001."
+                    }
+                },
+                {
+                    "@position": "17",
+                    "rawText": {
+                        "$": "[17] U.M. Fayyad, G. Piatetsky-Shapiro, P. Smyth, and R. Uthurusamy, editors. Advances in Knowledge Discovery and Data Mining. AAAI Press / MIT Press, Menlo Park, California, 1996."
+                    }
+                },
+                {
+                    "@position": "18",
+                    "rawText": {
+                        "$": "[18] D. Fensel, J. Hendler, H. Lieberman, and W. Wahlster, editors. Spinning the Semantic Web. The MIT Press, Cambridge, Massachusetts, 2003."
+                    }
+                },
+                {
+                    "@position": "19",
+                    "rawText": {
+                        "$": "[19] B. Ganter, P.A. Grigoriev, S.O. Kuznetsov, and M.V. Samokhin. Concept-based data mining with scaled labeled graphs. In K.E. Wol , H.D. Pfei er, and H.S. Delugach, editors, Conceptual Structures at Work: Proceedings of the 12th International Conference on Conceptual Structures, ICCS 2004, Huntsville, AL, Lecture Notes in Arti cial Intelligence 3127, pages 94{108. Springer, Berlin, 2004."
+                    }
+                },
+                {
+                    "@position": "20",
+                    "id": {
+                        "@confidenceLevel": "0.6584005",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::a52eb2b5bf87360aa2e6145db537e657"
+                    },
+                    "rawText": {
+                        "$": "[20] B. Ganter and S. Rudolph. Formal Concept Analysis Methods for Dynamic Conceptual Graphs. In H.S.Delugach and G. Stumme, editors, Conceptual Structures: Broadening the Base { 9th International Conference on Conceptual Structures, ICCS-2001, Stanford, Lecture Notes in Arti cial Intelligence 2120, pages 143{ 156. Springer, Berlin, 2001."
+                    }
+                },
+                {
+                    "@position": "21",
+                    "rawText": {
+                        "$": "[21] B. Ganter and R. Wille. Formal Concept Analysis. Springer, Berlin, 1999."
+                    }
+                },
+                {
+                    "@position": "22",
+                    "rawText": {
+                        "$": "[22] A. Guenoche. Construction du treillis de galois d'une relation binaire. Mathematiques, Informatique et Sciences Humaines, 109:41{53, 1990."
+                    }
+                },
+                {
+                    "@position": "23",
+                    "rawText": {
+                        "$": "[23] A. Guenoche and I. Van Mechelen. Galois Approach to the Induction of Concepts. In I. Van Mechelen, J. Hampton, R.S. Michalski, and P. Theuns, editors, Categories and Concepts. Theoretical Views and Inductive Data Analysis, pages 287{308. Academic Press, London, 1993."
+                    }
+                },
+                {
+                    "@position": "24",
+                    "rawText": {
+                        "$": "[24] J. Han and M. Kamber. Data Mining: Concepts and Techniques. Morgan Kaufmann Publishers, San Francisco, 2001."
+                    }
+                },
+                {
+                    "@position": "25",
+                    "rawText": {
+                        "$": "[25] D. Hand, H. Mannila, and P. Smyth. Principles of Data Mining. The MIT Press, Cambridge (MA), 2001."
+                    }
+                },
+                {
+                    "@position": "26",
+                    "id": {
+                        "@confidenceLevel": "0.6051097",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::d3acd9b4d7501e081bc2fbf83e1a7bf8"
+                    },
+                    "rawText": {
+                        "$": "[26] D. Janetzko, H. Cher , R. Kennke, A. Napoli, and Y. Toussaint. Knowledgebased selection of association rules for text mining. In R. Lopez de Mantaras and L. Saitta, editors, 16h European Conference on Arti cial Intelligence { ECAI'04, Valencia, Spain, pages 485{489, 2004."
+                    }
+                },
+                {
+                    "@position": "27",
+                    "rawText": {
+                        "$": "[27] R. Kosala and H. Blockeel. Web Mining: A Survey. SIGKDD Explorations, 2(1):1{15, 2000. http://www.acm.org/sigkdd/explorations."
+                    }
+                },
+                {
+                    "@position": "28",
+                    "rawText": {
+                        "$": "[28] S.O. Kuznetsov. Machine learning and formal concept analysis. In Peter W. Eklund, editor, Concept Lattices, Second International Conference on Formal Concept Analysis, ICFCA 2004, Sydney, Australia, Lecture Notes in Computer Science 2961, pages 287{312. Springer, 2004."
+                    }
+                },
+                {
+                    "@position": "29",
+                    "rawText": {
+                        "$": "[29] S.O. Kuznetsov and S.A. Obiedkov. Algorithms for the Construction of Concept Lattices and Their Diagram Graphs. In L. De Raedt and A. Siebes, editors, Principles of Data Mining and Knowledge Discovery: 5th European Conference, PKDD 2001, Freiburg, Germany, Lecture Notes in Computer Science 2168, pages 289{300. Springer-Verlag Heidelberg, 2001."
+                    }
+                },
+                {
+                    "@position": "30",
+                    "rawText": {
+                        "$": "[30] S.O. Kuznetsov and S.A. Obiedkov. Comparing performance of algorithms for generating concept lattices. Journal of Theoretical Arti cial Intelligence, 14(2/3):189{216, 2002."
+                    }
+                },
+                {
+                    "@position": "31",
+                    "id": {
+                        "@confidenceLevel": "0.56669706",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::ee7eaaaef3873c9a7d1bc2f1653298f9"
+                    },
+                    "rawText": {
+                        "$": "[31] N. Lavrac, P.A. Flach, and B. Zupan. Rule Evaluation Measures: A Unifying View. In S. Dzeroski and P.A. Flach, editors, Inductive Logic Programming, 9th International Workshop, ILP-99, Bled, Slovenia, Lecture Notes in Computer Science 1634, pages 174{185. Springer, 1999."
+                    }
+                },
+                {
+                    "@position": "32",
+                    "rawText": {
+                        "$": "[32] H. Mannila. Methods and problems in Data Mining. In F. Afrati and P. Kolaitis, editors, Database Theory { ICDT'97, 6th International Conference, Delphi, Greece, Lecture Notes in Arti cial Intelligence 1186, pages 41{55. Springer, Berlin, 1997."
+                    }
+                },
+                {
+                    "@position": "33",
+                    "id": {
+                        "@confidenceLevel": "0.6072741",
+                        "@type": "openaire",
+                        "@value": "doiboost____::3e735530cc89cebafafc94ff567c0be4"
+                    },
+                    "rawText": {
+                        "$": "[33] H. Mannila, H. Toivonen, and A.I. Verkamo. E cient algorithms for discovering association rules. In Proceedings of the 1994 Knowledge Discovery in Databases Workshop, KDD'94, pages 181{192. AAAI Press, 1994."
+                    }
+                },
+                {
+                    "@position": "34",
+                    "rawText": {
+                        "$": "[34] R.S. Michalski, I. Bratko, and M. Kubat, editors. Machine Learning and Data Mining. John Wiley & Sons LTD, Chichester, 1998."
+                    }
+                },
+                {
+                    "@position": "35",
+                    "rawText": {
+                        "$": "[35] T.M. Mitchell. Machine Learning. McGraw-Hill, Boston, Massachusetts, 1997."
+                    }
+                },
+                {
+                    "@position": "36",
+                    "rawText": {
+                        "$": "[36] A. Napoli, C. Laurenco, and R. Ducournau. An object-based representation system for organic synthesis planning. International Journal of Human-Computer Studies, 41(1/2):5{32, 1994."
+                    }
+                },
+                {
+                    "@position": "37",
+                    "id": {
+                        "@confidenceLevel": "0.55725056",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::5fbf121d2e97810c44eaa05b4c2d6c28"
+                    },
+                    "rawText": {
+                        "$": "[37] N. Pasquier, Y. Bastide, R. Taouil, and L. Lakhal. Discovering frequent closed itemsets for association rules. In C. Beeri and P. Buneman, editors, Database Theory - ICDT'99 Proceedings, 7th International Conference, Jerusalem, Israel, Lecture Notes in Computer Science 1540, pages 398{416. Springer, 1999."
+                    }
+                },
+                {
+                    "@position": "38",
+                    "id": {
+                        "@confidenceLevel": "0.5318656",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::27cbae82fd466e0dfb5dec3a6e90e3cc"
+                    },
+                    "rawText": {
+                        "$": "[38] N. Pasquier, Y. Bastide, R. Taouil, and L. Lakhal. Pruning closed itemset lattices for association rules. International Journal of Information Systems, 24(1):25{46, 1999."
+                    }
+                },
+                {
+                    "@position": "39",
+                    "rawText": {
+                        "$": "[39] Z. Pawlak, editor. Rough Sets. Theoretical Aspects of Reasoning about Data. Kluwer Academic Publishers, Dordrecht, The Netherlends, 1991."
+                    }
+                },
+                {
+                    "@position": "40",
+                    "id": {
+                        "@confidenceLevel": "0.66281927",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::0d498411b6a1958b86175625d3ab176b"
+                    },
+                    "rawText": {
+                        "$": "[40] G. Schreiber, H. Akkermans, A. Anjewierden, R. de Hoog, N. Shadbolt, W. van de Velde, and B. Wielinga. Knowledge Engineering and Management: the CommonKADS Methodoloy. The MIT Press, Cambridge, MA, 1999."
+                    }
+                },
+                {
+                    "@position": "41",
+                    "rawText": {
+                        "$": "[41] S. Staab and R. Studer, editors. Handbook on Ontologies. Springer, Berlin, 2004."
+                    }
+                },
+                {
+                    "@position": "42",
+                    "id": {
+                        "@confidenceLevel": "0.6892309",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::7c6d8cf623ecf6b4bf70784c159f79f2"
+                    },
+                    "rawText": {
+                        "$": "[42] G. Stumme, R. Taouil, Y. Bastide, N. Pasquier, and L. Lakhal. Computing iceberg concept lattices with titanic. Journal of Data and Knowledge Engineering, 42(2):189{222, 2002."
+                    }
+                },
+                {
+                    "@position": "43",
+                    "id": {
+                        "@confidenceLevel": "0.5679129",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::25ee89b5c4727b81143a327d7af7c6a5"
+                    },
+                    "rawText": {
+                        "$": "[43] G. Stumme, R. Wille, and U. Wille. Conceptual Knowledge Discovery in Databases Using Formal Concept Analysis Methods. In J. Zytkow and M. Quafafou, editors, Principles of Data Mining and Knowledge Discovery (Proceedings PKDD'98, Nantes), Lecture Notes in Arti cial Intelligence 1510, pages 450{458, Berlin, 1998. Springer."
+                    }
+                },
+                {
+                    "@position": "44",
+                    "rawText": {
+                        "$": "[44] P.N. Tan, V. Kumar, and J. Srivastava. Selecting the right interestingness measure for association patterns. In Proceedings of the 8th ACM International Conference on Knowledge Discovery and Data Mining (KDD'02), Edmonton, Canada, pages 183{193, 2002."
+                    }
+                },
+                {
+                    "@position": "45",
+                    "rawText": {
+                        "$": "[45] P. Valtchev, R. Missaoui, and R. Godin. Formal concept analysis for knowledge discovery and data mining: The new challenges. In Peter W. Eklund, editor, Concept Lattices, Second International Conference on Formal Concept Analysis, ICFCA 2004, Sydney, Australia, Lecture Notes in Computer Science 2961, pages 352{371. Springer, 2004."
+                    }
+                },
+                {
+                    "@position": "46",
+                    "id": {
+                        "@confidenceLevel": "0.6714773",
+                        "@type": "openaire",
+                        "@value": "doiboost____::9169a151a04431055c25ecf8429c7c3c"
+                    },
+                    "rawText": {
+                        "$": "[46] P. Vismara and C. Laurenco. An abstract representation for molecular graphs. DIMACS Series in Discrete Mathematics and Theoretical Computer Science, 51:343{ 366, 2000."
+                    }
+                },
+                {
+                    "@position": "47",
+                    "rawText": {
+                        "$": "[47] J.T.L. Wang, M.J. Zaki, H.T.T. Toivonen, and D. Shasha, editors. Data Mining in Bioinformatics. Morgan Kaufmann Publishers, Springer, Berlin, 2004."
+                    }
+                },
+                {
+                    "@position": "48",
+                    "rawText": {
+                        "$": "[48] R. Wille. Why can concept lattices support knowledge discovery in databases? Journal of Theoretical Arti cial Intelligence, 14(2/3):81{92, 2002."
+                    }
+                },
+                {
+                    "@position": "49",
+                    "rawText": {
+                        "$": "[49] I.H. Witten and E. Franck. Data Mining. Morgan Kaufmann Publishers, San Francisco, California, 2000. (Practical machine learning tools and techniques with Java implementations { Weka)."
+                    }
+                },
+                {
+                    "@position": "50",
+                    "rawText": {
+                        "$": "[50] M.J. Zaki and C.-J. Hsiao. Charm: An e cient algorithm for closed itemset mining. In R. Grossman, J. Han, V. Kumar, H. Mannila, and R. Motwani, editors, Second SIAM International Conference on Data Mining, Arlington, 2002."
+                    }
+                }
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Bresso",
+                            "given": "Emmanuel",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Grisoni",
+                            "given": "Renaud",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Marchetti",
+                            "given": "Gino",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Karaboga",
+                            "given": "Arnaud Sinan",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Souchet",
+                            "given": "Michel",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Devignes",
+                            "given": "Marie-Dominique",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Sma\u00efl-Tabbone",
+                            "given": "Malika",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1186/1471-2105-14-207",
+                    "title": "integrative relational machine learning for understanding drug side effect profiles",
+                    "year_oc": 2013
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Napoli",
+                            "given": "Amedeo",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-14274-1_2",
+                    "title": "why and how knowledge discovery can be useful for solving problems with cbr",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Lieber",
+                            "given": "Jean",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Napoli",
+                            "given": "Amedeo",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Szathmary",
+                            "given": "Laszlo",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Toussaint",
+                            "given": "Yannick",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-540-78921-5_2",
+                    "title": "first elements on knowledge discovery guided by domain knowledge kddk ",
+                    "year_oc": null
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kaytoue-Uberall",
+                            "given": "Mehdi",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Duplessis",
+                            "given": "S\u00e9bastien",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Napoli",
+                            "given": "Amedeo",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-540-87477-5_47",
+                    "title": "using formal concept analysis for the extraction of groups of co expressed genes",
+                    "year_oc": 2008
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1016/b978-008044612-7/50096-2",
+            "journal": "LEXIS",
+            "title": "introduction",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-3-902976-87-1"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "2"
+            },
+            "title": "to what extent does the greek participle participate in the passive voice system ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9789027259547"
+            ],
+            "PId": 2762389008,
+            "cited": [
+                {
+                    "PId": 2136944077,
+                    "author": [
+                        {
+                            "AuId": 2173269225,
+                            "AuN": "christopher kennedy"
+                        },
+                        {
+                            "AuId": 2145746798,
+                            "AuN": "louise mcnally"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.2005.0071",
+                    "journal": "language",
+                    "title": "scale structure degree modification and the semantics of gradable predicates",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1990235531,
+                    "author": [
+                        {
+                            "AuId": 1957300942,
+                            "AuN": "carita paradis"
+                        }
+                    ],
+                    "doi": "10.1017/S1360674308002645",
+                    "journal": "english language and linguistics",
+                    "title": "configurations construals and change expressions of degree",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2006742117,
+                    "author": [
+                        {
+                            "AuId": 2260089929,
+                            "AuN": "angeliki athanasiadou"
+                        }
+                    ],
+                    "doi": "10.1016/J.LANGSCI.2007.01.009",
+                    "journal": "language sciences",
+                    "title": "on the subjectivity of intensifiers",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2066214759,
+                    "author": [
+                        {
+                            "AuId": 2158786643,
+                            "AuN": "terttu nevalainen"
+                        },
+                        {
+                            "AuId": 2953581187,
+                            "AuN": "matti rissanen"
+                        }
+                    ],
+                    "doi": "10.1016/S0388-0001(01)00038-9",
+                    "journal": "language sciences",
+                    "title": "fairly pretty or pretty fair on the development and grammaticalization of english downtoners",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1538751740,
+                    "author": [
+                        {
+                            "AuId": 2307092181,
+                            "AuN": "peter collins"
+                        }
+                    ],
+                    "doi": "10.1080/00437956.2005.11432550",
+                    "journal": "word",
+                    "title": "exclamative clauses in english",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2731116553,
+                    "author": [
+                        {
+                            "AuId": 1219469907,
+                            "AuN": "elena castroviejo"
+                        },
+                        {
+                            "AuId": 1767865198,
+                            "AuN": "berit gehrke"
+                        }
+                    ],
+                    "title": "degree and manner modification across categories",
+                    "year_mag": 2015
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dressler",
+                            "given": "Wolfgang U.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Barbaresi",
+                            "given": "Lavinia M.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1515/9783110877052",
+                    "title": "morphopragmatics",
+                    "year_oc": 1994
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Bolinger",
+                            "given": "Dwight",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110877786",
+                    "title": "degree words",
+                    "year_oc": 1972
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2962932396,
+                    "author": [
+                        {
+                            "AuId": 2861529718,
+                            "AuN": "laura ana maria bostan"
+                        },
+                        {
+                            "AuId": 2149880524,
+                            "AuN": "roman klinger"
+                        }
+                    ],
+                    "doi": "10.18653/V1/W19-1304",
+                    "title": "exploring fine tuned embeddings that model intensifiers for emotion analysis",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1075/SLCS.189.01NAP",
+            "title": "new insights on intensification and intensifiers",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9789027259547"
+            ],
+            "cited": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Napoli",
+                            "given": "Donna Jo",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Reynolds",
+                            "given": "Bill",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-017-3714-2_6",
+                    "title": "evaluative affixes in italian",
+                    "year_oc": 1995
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Athanasiadou",
+                            "given": "Angeliki",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/J.LANGSCI.2007.01.009",
+                    "title": "on the subjectivity of intensifiers",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Traugott",
+                            "given": "Elizabeth Closs",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511554469.003",
+                    "title": "subjectification in grammaticalisation",
+                    "year_oc": 1995
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "PARADIS",
+                            "given": "CARITA",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/S1360674308002645",
+                    "title": "configurations construals and change expressions of degree",
+                    "year_oc": 2008
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "GHESQUI\u00c8RE",
+                            "given": "LOBKE",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "DAVIDSE",
+                            "given": "KRISTIN",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/S1360674311000037",
+                    "title": "the development of intensification scales in noun intensifying uses of adjectives sources paths and mechanisms of change",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Sassoon",
+                            "given": "Galit W.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/BJL.25.06SAS",
+                    "title": "adjectival vs nominal categorization processes",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Sapir",
+                            "given": "Edward",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1086/286828",
+                    "title": "grading a study in semantics",
+                    "year_oc": 1944
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kennedy",
+                            "given": "Christopher",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "McNally",
+                            "given": "Louise",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.2005.0071",
+                    "title": "scale structure degree modification and the semantics of gradable predicates",
+                    "year_oc": 2005
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Closs Traugott",
+                            "given": "Elizabeth",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110226102.1.29",
+                    "title": " inter subjectivity and inter subjectification a reassessment",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dressler",
+                            "given": "Wolfgang U.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Barbaresi",
+                            "given": "Lavinia M.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1515/9783110877052",
+                    "title": "morphopragmatics",
+                    "year_oc": 1994
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Bolinger",
+                            "given": "Dwight",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110877786",
+                    "title": "degree words",
+                    "year_oc": 1972
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Paradis",
+                            "given": "Carita",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.12.1.47",
+                    "title": "adjectives and boundedness",
+                    "year_oc": 2001
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Traugott",
+                            "given": "Elizabeth Closs",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.2307/414841",
+                    "title": "on the rise of epistemic meanings in english an example of subjectification in semantic change",
+                    "year_oc": 1989
+                },
+                {
+                    "doi": "10.1515/9783112328040",
+                    "title": "generative morphology",
+                    "year_oc": 1984
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1075/slcs.189.17nap",
+            "title": "ways to intensify types of intensified meanings in italian and german",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "979-10-91460-17-0"
+            ],
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "title": "nomi in stra in italiano intensificazione tra semantica e pragmatica",
+            "type": "contributo in atti di convegno",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0031-0387"
+            ],
+            "cited": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Siewierska",
+                            "given": "Anna",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1111/1467-968X.00122",
+                    "title": "person agreement and the determination of alignment",
+                    "year_oc": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Max Planck Institute for Evolutionary Anthropology, D-04103 Leipzig, Germany; email:"
+                                }
+                            ],
+                            "family": "Haspelmath",
+                            "given": "Martin",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1146/ANNUREV-LINGUIST-030514-125204",
+                    "title": "ditransitive constructions",
+                    "year_oc": 2015
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Haspelmath",
+                            "given": "Martin",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1349/PS1.1537-0852.A.280",
+                    "title": "argument marking in ditransitive alignment types",
+                    "year_oc": 2005
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kittil\u00e4",
+                            "given": "Seppo",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/LING.2006.019",
+                    "title": "the anomaly of the verb give explained by its high formal and semantic transitivity",
+                    "year_oc": 2006
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Colleman",
+                            "given": "Timothy",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/ZAA-2011-0408",
+                    "title": "ditransitive verbs and the ditransitive construction a diachronic perspective",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Giusti",
+                            "given": "Giuliana",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Iovino",
+                            "given": "Rossella",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.4000/PALLAS.3594",
+                    "title": "analisi comparativa del doppio accusativo latino",
+                    "year_oc": 2016
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "doi": "10.4000/pallas.3584",
+            "journal": "PALLAS",
+            "title": "verbs with double accusative and their passivization",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0004-0207"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "7"
+            },
+            "journal": "C",
+            "title": "the syntax of excess on the italian essere troppo per construction archivio glottologico italiano vol",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-7395-982-3"
+            ],
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "title": "regole ed eccezioni nel mutamento linguistico",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "2194-8739"
+            ],
+            "PId": 2324877467,
+            "citing": [
+                {
+                    "PId": 2763346352,
+                    "author": [
+                        {
+                            "AuId": 2761672274,
+                            "AuN": "chiara fedriani"
+                        }
+                    ],
+                    "title": "nulla sum nulla sum tota tota occidi repetition as a rare strategy of intensification in latin",
+                    "year_mag": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Universit\u00e0 di Genova"
+                                }
+                            ],
+                            "family": "Fedriani",
+                            "given": "Chiara",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.189.08FED",
+                    "title": "chapter 7 nulla sum nulla sum tota tota occidi",
+                    "year_oc": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "9"
+            },
+            "doi": "10.1515/JOLL-2014-0010",
+            "journal": "JOURNAL OF LATIN LINGUISTICS",
+            "title": "some remarks on intensification of nouns in latin",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "2281-6585"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "10"
+            },
+            "journal": "SEZIONE LINGUISTICA",
+            "title": "diachrony in indo european tense and aspect system from a typological perspective annali del dipartimento di studi letterari linguistici e comparati",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "11"
+            },
+            "title": "consecutio temporum et modorum",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2014
+        },
+        {
+            "cited": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dieterich",
+                            "given": "Thomas G.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Napoli",
+                            "given": "Donna Jo",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/S0022226700007283",
+                    "title": "comparative rather1",
+                    "year_oc": 1982
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Gu\u00e9ron",
+                            "given": "J.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110874167-005",
+                    "title": "4 logical operators complete constituents and extraction transformations",
+                    "year_oc": 1981
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Fiengo",
+                            "given": "Robert",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4159/HARVARD.9780674333765",
+                    "title": "surface structure",
+                    "year_oc": 2013
+                },
+                {
+                    "doi": "10.1163/9789004368866_012",
+                    "title": "reference related and role related properties of subjects",
+                    "year_oc": 1977
+                }
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Barton",
+                            "given": "Ellen",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-011-3196-4_11",
+                    "title": "nonsentential constituents and theories of phrase structure",
+                    "year_oc": 1991
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "YASUI",
+                            "given": "MIYOKO",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.9793/ELSJ1984.9.61",
+                    "title": "on the distribution of wh words in english elliptical constructions",
+                    "year_oc": 1992
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Reich",
+                            "given": "Ingo",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-476-04624-6_24",
+                    "title": "ellipsen",
+                    "year_oc": 2018
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Zucchi",
+                            "given": "Alessandro",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/BF01252884",
+                    "title": "the ingredients of definiteness and the definiteness effect",
+                    "year_oc": 1995
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "doi": "10.1017/s0022226700010288",
+            "title": "verb phrase",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2014
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "13"
+            },
+            "title": "aorist",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2014
+        },
+        {
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "14"
+            },
+            "title": "attraction",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0165-4004"
+            ],
+            "PId": 2313598670,
+            "citing": [
+                {
+                    "PId": 903198844,
+                    "author": [
+                        {
+                            "AuId": 2082485015,
+                            "AuN": "ingo hertrich"
+                        },
+                        {
+                            "AuId": 2126628513,
+                            "AuN": "mareike kirsten"
+                        },
+                        {
+                            "AuId": 1947923040,
+                            "AuN": "sonja tiemann"
+                        },
+                        {
+                            "AuId": 2115045974,
+                            "AuN": "sigrid beck"
+                        },
+                        {
+                            "AuId": 1241984649,
+                            "AuN": "anja wuhle"
+                        },
+                        {
+                            "AuId": 2117956362,
+                            "AuN": "hermann ackermann"
+                        },
+                        {
+                            "AuId": 244527014,
+                            "AuN": "bettina rolke"
+                        }
+                    ],
+                    "doi": "10.1016/J.BANDL.2015.06.005",
+                    "journal": "brain and language",
+                    "title": "context dependent impact of presuppositions on early magnetic brain responses during speech perception",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2963600752,
+                    "author": [
+                        {
+                            "AuId": 2764873813,
+                            "AuN": "susanne dietrich"
+                        },
+                        {
+                            "AuId": 2082485015,
+                            "AuN": "ingo hertrich"
+                        },
+                        {
+                            "AuId": 347406594,
+                            "AuN": "verena c seibold"
+                        },
+                        {
+                            "AuId": 244527014,
+                            "AuN": "bettina rolke"
+                        }
+                    ],
+                    "doi": "10.1016/J.NEUROIMAGE.2019.116047",
+                    "journal": "brain and language",
+                    "title": "discourse management during speech perception a functional magnetic resonance imaging fmri study",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2739323722,
+                    "author": [
+                        {
+                            "AuId": 2303802005,
+                            "AuN": "martin elsig"
+                        }
+                    ],
+                    "doi": "10.1017/S0954394517000114",
+                    "journal": "brain and language",
+                    "title": "new insights into an old form a variationist analysis of the pleonastic possessive in guatemalan spanish",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "15"
+            },
+            "doi": "10.1515/FLIN.2013.008",
+            "journal": "FOLIA LINGUISTICA",
+            "title": "when the indefinite article implies uniqueness a case study from old italian",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1594-6517"
+            ],
+            "PId": 1951350489,
+            "cited": [
+                {
+                    "PId": 2028189805,
+                    "author": [
+                        {
+                            "AuId": 2173269225,
+                            "AuN": "christopher kennedy"
+                        }
+                    ],
+                    "doi": "10.1007/S10988-006-9008-0",
+                    "journal": "linguistics and philosophy",
+                    "title": "vagueness and grammar the semantics of relative and absolute gradable adjectives",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1482796826,
+                    "author": [
+                        {
+                            "AuId": 2095367579,
+                            "AuN": "gennaro chierchia"
+                        }
+                    ],
+                    "doi": "10.1023/A:1008324218506",
+                    "journal": "natural language semantics",
+                    "title": "reference to kinds across language",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2136944077,
+                    "author": [
+                        {
+                            "AuId": 2173269225,
+                            "AuN": "christopher kennedy"
+                        },
+                        {
+                            "AuId": 2145746798,
+                            "AuN": "louise mcnally"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.2005.0071",
+                    "journal": "language",
+                    "title": "scale structure degree modification and the semantics of gradable predicates",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2038792303,
+                    "author": [
+                        {
+                            "AuId": 2622019184,
+                            "AuN": "homin sohn"
+                        }
+                    ],
+                    "title": "the korean language",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 614806104,
+                    "author": [
+                        {
+                            "AuId": 2420020367,
+                            "AuN": "mark c baker"
+                        }
+                    ],
+                    "title": "lexical categories verbs nouns and adjectives",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2026725080,
+                    "author": [
+                        {
+                            "AuId": 2173269225,
+                            "AuN": "christopher kennedy"
+                        }
+                    ],
+                    "title": "projecting the adjective the syntax and semantics of gradability and comparison",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2337762945,
+                    "author": [
+                        {
+                            "AuId": 1985423291,
+                            "AuN": "william croft"
+                        }
+                    ],
+                    "title": "radical construction grammar",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2025589690,
+                    "author": [
+                        {
+                            "AuId": 2045821906,
+                            "AuN": "terence parsons"
+                        },
+                        {
+                            "AuId": 36436092,
+                            "AuN": "david r dowty"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-009-9473-7",
+                    "journal": "the philosophical review",
+                    "title": "word meaning and montague grammar",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 2070939632,
+                    "author": [
+                        {
+                            "AuId": 1991518691,
+                            "AuN": "james pustejovsky"
+                        }
+                    ],
+                    "doi": "10.1016/0010-0277(91)90032-Y",
+                    "journal": "cognition",
+                    "title": "the syntax of event structure",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 1538130759,
+                    "author": [
+                        {
+                            "AuId": 1985423291,
+                            "AuN": "william croft"
+                        }
+                    ],
+                    "title": "verbs aspect and causal structure",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1548622009,
+                    "author": [
+                        {
+                            "AuId": 2909548691,
+                            "AuN": "terence parsons"
+                        }
+                    ],
+                    "title": "events in the semantics of english a study in subatomic semantics",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 3032342983,
+                    "author": [
+                        {
+                            "AuId": 2173269225,
+                            "AuN": "christopher kennedy"
+                        },
+                        {
+                            "AuId": 2117210897,
+                            "AuN": "beth levin"
+                        }
+                    ],
+                    "title": "measure of change the adjectival core of degree achievements",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2017429186,
+                    "author": [
+                        {
+                            "AuId": 2564637819,
+                            "AuN": "carmen rotstein"
+                        },
+                        {
+                            "AuId": 2023117810,
+                            "AuN": "yoad winter"
+                        }
+                    ],
+                    "doi": "10.1023/B:NALS.0000034517.56898.9A",
+                    "journal": "natural language semantics",
+                    "title": "total adjectives vs partial adjectives scale structure and higher order modifiers",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 172114924,
+                    "author": [
+                        {
+                            "AuId": 195617116,
+                            "AuN": "manfred krifka"
+                        }
+                    ],
+                    "doi": "10.1515/9783110877335-005",
+                    "title": "nominal reference temporal constitution and quantification in event semantics",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2046567002,
+                    "author": [
+                        {
+                            "AuId": 1957300942,
+                            "AuN": "carita paradis"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.12.1.47",
+                    "journal": "cognitive linguistics",
+                    "title": "adjectives and boundedness",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2005678272,
+                    "author": [
+                        {
+                            "AuId": 2721687062,
+                            "AuN": "veerle van geenhoven"
+                        }
+                    ],
+                    "doi": "10.1023/B:NALS.0000031389.36427.AF",
+                    "journal": "natural language semantics",
+                    "title": "for adverbials frequentative aspect and pluractionality",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1990235531,
+                    "author": [
+                        {
+                            "AuId": 1957300942,
+                            "AuN": "carita paradis"
+                        }
+                    ],
+                    "doi": "10.1017/S1360674308002645",
+                    "journal": "english language and linguistics",
+                    "title": "configurations construals and change expressions of degree",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2060457157,
+                    "author": [
+                        {
+                            "AuId": 1918446826,
+                            "AuN": "peter lauwers"
+                        },
+                        {
+                            "AuId": 2496727921,
+                            "AuN": "dominique willems"
+                        }
+                    ],
+                    "doi": "10.1515/LING.2011.034",
+                    "journal": "linguistics",
+                    "title": "coercion definition and challenges current approaches and new trends",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2031762086,
+                    "author": [
+                        {
+                            "AuId": 1985423291,
+                            "AuN": "william croft"
+                        }
+                    ],
+                    "title": "syntactic categories and grammatical relations the cognitive organization of information",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 1980953116,
+                    "author": [
+                        {
+                            "AuId": 2160635991,
+                            "AuN": "andrew garrett"
+                        }
+                    ],
+                    "doi": "10.1086/466460",
+                    "journal": "international journal of american linguistics",
+                    "title": "reduplication and infixation in yurok morphology semantics and diachrony",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1499341405,
+                    "author": [
+                        {
+                            "AuId": 113433998,
+                            "AuN": "peter lasersohn"
+                        }
+                    ],
+                    "title": "plurality conjunction and events",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2006742117,
+                    "author": [
+                        {
+                            "AuId": 2260089929,
+                            "AuN": "angeliki athanasiadou"
+                        }
+                    ],
+                    "doi": "10.1016/J.LANGSCI.2007.01.009",
+                    "journal": "language sciences",
+                    "title": "on the subjectivity of intensifiers",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 658716243,
+                    "author": [
+                        {
+                            "AuId": 2667144488,
+                            "AuN": "l t f gamut"
+                        }
+                    ],
+                    "title": "logic language and meaning",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 114935511,
+                    "author": [
+                        {
+                            "AuId": 2511245727,
+                            "AuN": "john beavers"
+                        }
+                    ],
+                    "doi": "10.1515/9783110925449.245",
+                    "title": "scalar complexity and the structure of events",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1944655850,
+                    "author": [
+                        {
+                            "AuId": 1899758578,
+                            "AuN": "pier marco bertinetto"
+                        },
+                        {
+                            "AuId": 437040006,
+                            "AuN": "alessandro lenci"
+                        }
+                    ],
+                    "doi": "10.1093/OXFORDHB/9780195381979.013.0030",
+                    "title": "habituality pluractionality and imperfectivity",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2150945838,
+                    "author": [
+                        {
+                            "AuId": 1990829728,
+                            "AuN": "ray jackendoff"
+                        }
+                    ],
+                    "title": "x syntax a study of phrase structure",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 1539137978,
+                    "author": [
+                        {
+                            "AuId": 2117210897,
+                            "AuN": "beth levin"
+                        },
+                        {
+                            "AuId": 2465938730,
+                            "AuN": "malka rappaport"
+                        }
+                    ],
+                    "journal": "linguistic inquiry",
+                    "title": "the formation of adjectival passives",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2136305973,
+                    "author": [
+                        {
+                            "AuId": 2173269225,
+                            "AuN": "christopher kennedy"
+                        },
+                        {
+                            "AuId": 2145746798,
+                            "AuN": "louise mcnally"
+                        }
+                    ],
+                    "doi": "10.3765/SALT.V9I0.2820",
+                    "journal": "semantics and linguistic theory",
+                    "title": "from event structure to scale structure degree modification in deverbal adjectives",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2481757027,
+                    "author": [
+                        {
+                            "AuId": 2069251953,
+                            "AuN": "elena anagnostopoulou"
+                        }
+                    ],
+                    "title": "participles and voice",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2069589667,
+                    "author": [
+                        {
+                            "AuId": 2286930169,
+                            "AuN": "lucia m tovena"
+                        },
+                        {
+                            "AuId": 2623405222,
+                            "AuN": "marta donazzan"
+                        }
+                    ],
+                    "doi": "10.4000/RLV.1724",
+                    "title": "on ways of repeating",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 106149094,
+                    "author": [
+                        {
+                            "AuId": 2073080169,
+                            "AuN": "gillian ramchand"
+                        }
+                    ],
+                    "title": "aspect and predication the semantics of argument structure",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 754032961,
+                    "author": [
+                        {
+                            "AuId": 769866932,
+                            "AuN": "andrej shluinskij"
+                        }
+                    ],
+                    "title": "individual level meanings in the semantic domain of pluractionality",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 3032004635,
+                    "author": [
+                        {
+                            "AuId": 2029892639,
+                            "AuN": "jenny doetjes"
+                        }
+                    ],
+                    "title": "adjectives and degree modification",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2489976860,
+                    "author": [
+                        {
+                            "AuId": 2078262493,
+                            "AuN": "geert booij"
+                        },
+                        {
+                            "AuId": 2097465800,
+                            "AuN": "christian lehmann"
+                        },
+                        {
+                            "AuId": 2486099628,
+                            "AuN": "joachim mugdan"
+                        },
+                        {
+                            "AuId": 2486693589,
+                            "AuN": "stavros skopeteas"
+                        },
+                        {
+                            "AuId": 2494721339,
+                            "AuN": "wolfgang kesselheim"
+                        }
+                    ],
+                    "doi": "10.1515/9783110172782.2.14.1212",
+                    "title": "comparison and gradation",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1549722407,
+                    "author": [
+                        {
+                            "AuId": 3001685658,
+                            "AuN": "h j verkuyl"
+                        }
+                    ],
+                    "title": "on the compositional nature of the aspects",
+                    "year_mag": 1972
+                },
+                {
+                    "PId": 757509762,
+                    "author": [
+                        {
+                            "AuId": 2284566928,
+                            "AuN": "geoffrey k pullum"
+                        },
+                        {
+                            "AuId": 2108902883,
+                            "AuN": "rodney huddleston"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511815515.007",
+                    "title": "adjectives and adverbs",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2164468709,
+                    "author": [
+                        {
+                            "AuId": 2286930169,
+                            "AuN": "lucia m tovena"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-14287-1_47",
+                    "title": "pluractionality and the unity of the event",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1964473769,
+                    "author": [
+                        {
+                            "AuId": 265740608,
+                            "AuN": "silvia cacchiani"
+                        }
+                    ],
+                    "doi": "10.2478/PSICL-2011-0038",
+                    "journal": "poznan studies in contemporary linguistics",
+                    "title": "intensifying affixes across italian and english",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2467139489,
+                    "author": [
+                        {
+                            "AuId": 2286930169,
+                            "AuN": "lucia m tovena"
+                        }
+                    ],
+                    "doi": "10.4000/LEXIS.414",
+                    "journal": "lexis",
+                    "title": "when small is many in the event domain",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 3028765791,
+                    "author": [
+                        {
+                            "AuId": 164265761,
+                            "AuN": "zeno vendler"
+                        }
+                    ],
+                    "doi": "10.2307/2182371",
+                    "journal": "the philosophical review",
+                    "title": "verbs and times",
+                    "year_mag": 1957
+                },
+                {
+                    "PId": 2181469462,
+                    "author": [
+                        {
+                            "AuId": 2286930169,
+                            "AuN": "lucia m tovena"
+                        }
+                    ],
+                    "title": "pluractional verbs that grammaticise number through the part of relation",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2226616612,
+                    "author": [
+                        {
+                            "AuId": 2792045535,
+                            "AuN": "lucia m tovena"
+                        }
+                    ],
+                    "title": "issues on the formation of verbs by evaluative suffixation",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2001203630,
+                    "author": [
+                        {
+                            "AuId": 1899979098,
+                            "AuN": "anna wierzbicka"
+                        }
+                    ],
+                    "doi": "10.1515/LING.1986.24.2.287",
+                    "journal": "linguistics",
+                    "title": "italien reduplication cross cultural pragmatics and illocutionary semantics",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 128188820,
+                    "author": [
+                        {
+                            "AuId": 2140873528,
+                            "AuN": "l pescia"
+                        },
+                        {
+                            "AuId": 2023813723,
+                            "AuN": "michele loporcaro"
+                        },
+                        {
+                            "AuId": 2658063698,
+                            "AuN": "maria ana ramos"
+                        }
+                    ],
+                    "journal": "revue de linguistique romane",
+                    "title": "costrutti dipendenti participiali e participi doppi in portoghese",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2499931837,
+                    "author": [
+                        {
+                            "AuId": 1497237579,
+                            "AuN": "monika rathert"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.68.30RAT",
+                    "title": "simple preterit and composite perfect tense the role of the adjectival passive",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1900542237,
+                    "author": [
+                        {
+                            "AuId": 2042604201,
+                            "AuN": "lorenzo renzi"
+                        }
+                    ],
+                    "doi": "10.1400/28329",
+                    "title": "il cambiamento linguistico nell italiano contemporaneo",
+                    "year_mag": 2003
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2993814970,
+                    "author": [
+                        {
+                            "AuId": 2992400108,
+                            "AuN": "malgorzata berezowska"
+                        }
+                    ],
+                    "doi": "10.24917/20837275.9.1.2",
+                    "journal": "annales universitatis paedagogicae cracoviensis studia de cultura",
+                    "title": "intensificazione del significato tramite l uso dei prefissi e dei suffissi superlativi nel linguaggio giovanile e nello stile femminile",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2760978970,
+                    "author": [
+                        {
+                            "AuId": 2762115543,
+                            "AuN": "nicola grandi"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.189.04GRA",
+                    "journal": "annales universitatis paedagogicae cracoviensis studia de cultura",
+                    "title": "chapter 3 intensification processes in italian a survey",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2763196582,
+                    "author": [
+                        {
+                            "AuId": 2763954791,
+                            "AuN": "maria napoli"
+                        },
+                        {
+                            "AuId": 2762453234,
+                            "AuN": "miriam ravetto"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.189.17NAP",
+                    "journal": "annales universitatis paedagogicae cracoviensis studia de cultura",
+                    "title": "chapter 16 ways to intensify types of intensified meanings in italian and german",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "16"
+            },
+            "doi": "10.6092/LEF_33_P85",
+            "journal": "LINGUISTICA E FILOLOGIA",
+            "title": "on italian past participles with issimo the superlative of events between intensification and pluractionality",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9789027205988"
+            ],
+            "PId": 2476837954,
+            "citing": [
+                {
+                    "PId": 2969529539,
+                    "author": [
+                        {
+                            "AuId": 2092701513,
+                            "AuN": "francesco rovai"
+                        }
+                    ],
+                    "doi": "10.1075/CILT.348.10ROV",
+                    "title": "chapter 10 impersonal passives and the suffix r in the indo european languages",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "17"
+            },
+            "doi": "10.1075/SLCS.131.14NAP",
+            "title": "semantic constraints on the latin impersonal passive on telicity and agentivity",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0390-6809"
+            ],
+            "cv_id": {
+                "pubbs_ind": "18"
+            },
+            "journal": "XLI",
+            "title": " ercules avea una sua moglie su possesso e indefinitezza studi italiani di linguistica teorica e applicata vol",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1128-6369"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "19"
+            },
+            "journal": "XIV",
+            "title": "uno stra prefisso l evoluzione di stra nella storia dell italiano rivista italiana di linguistica e di dialettologia vol",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1972-9901"
+            ],
+            "cv_id": {
+                "pubbs_ind": "20"
+            },
+            "journal": "ATTI DEL SODALIZIO GLOTTOLOGICO MILANESE",
+            "title": "lo sviluppo dell indefinitezza piccola storia di uno in italiano antico",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "0079-1636"
+            ],
+            "PId": 2098604749,
+            "cited": [
+                {
+                    "PId": 2067551521,
+                    "author": [
+                        {
+                            "AuId": 36436092,
+                            "AuN": "david r dowty"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.1991.0021",
+                    "journal": "language",
+                    "title": "thematic proto roles and argument selection",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 1497748330,
+                    "author": [
+                        {
+                            "AuId": 668015791,
+                            "AuN": "judith aissen"
+                        }
+                    ],
+                    "doi": "10.1023/A:1024109008573",
+                    "journal": "natural language and linguistic theory",
+                    "title": "differential object marking iconicity vs economy",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2075166633,
+                    "author": [
+                        {
+                            "AuId": 1384343755,
+                            "AuN": "paul j hopper"
+                        },
+                        {
+                            "AuId": 2145703555,
+                            "AuN": "sandra a thompson"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.1980.0017",
+                    "journal": "language",
+                    "title": "transitivity in grammar and discourse",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 1570679045,
+                    "author": [
+                        {
+                            "AuId": 195617116,
+                            "AuN": "manfred krifka"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-011-3969-4_9",
+                    "title": "the origins of telicity",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2971222854,
+                    "author": [
+                        {
+                            "AuId": 2270299332,
+                            "AuN": "christopher lyons"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511605789",
+                    "title": "definiteness by christopher lyons",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2118874044,
+                    "author": [
+                        {
+                            "AuId": 1504325415,
+                            "AuN": "andrej malchukov"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2007.02.005",
+                    "journal": "lingua",
+                    "title": "animacy and asymmetries in differential case marking",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2006635206,
+                    "author": [
+                        {
+                            "AuId": 1990829728,
+                            "AuN": "ray jackendoff"
+                        }
+                    ],
+                    "doi": "10.1016/0010-0277(91)90031-X",
+                    "journal": "cognition",
+                    "title": "parts and boundaries",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 435038712,
+                    "author": [
+                        {
+                            "AuId": 2158019214,
+                            "AuN": "r m w dixon"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511611896",
+                    "title": "ergativity index of languages and language families",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2973101264,
+                    "author": [
+                        {
+                            "AuId": 2172962045,
+                            "AuN": "barry j blake"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139164894",
+                    "title": "case by barry j blake",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1988645895,
+                    "author": [
+                        {
+                            "AuId": 339515781,
+                            "AuN": "ilse depraetere"
+                        }
+                    ],
+                    "doi": "10.1007/BF00984959",
+                    "journal": "linguistics and philosophy",
+                    "title": "on the necessity of distinguishing between un boundedness and a telicity",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 582890816,
+                    "author": [
+                        {
+                            "AuId": 2041938657,
+                            "AuN": "elisabeth leiss"
+                        }
+                    ],
+                    "doi": "10.1515/9783110825961",
+                    "title": "artikel und aspekt die grammatischen muster von definitheit",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 141628565,
+                    "author": [
+                        {
+                            "AuId": 2021782727,
+                            "AuN": "hana filip"
+                        }
+                    ],
+                    "doi": "10.1007/1-4020-3232-3_7",
+                    "title": "on accumulating and having it all",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2978064129,
+                    "author": [
+                        {
+                            "AuId": 2977434385,
+                            "AuN": "masayuki onishi"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.46.03ONI",
+                    "title": "introduction non canonically marked subjects and objects parameters and properties",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 562413022,
+                    "author": [
+                        {
+                            "AuId": 2119767209,
+                            "AuN": "elisabeth stark"
+                        },
+                        {
+                            "AuId": 2041938657,
+                            "AuN": "elisabeth leiss"
+                        },
+                        {
+                            "AuId": 2076496188,
+                            "AuN": "werner abraham"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.89",
+                    "title": "nominal determination typology context constraints and historical emergence",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2143124093,
+                    "author": [
+                        {
+                            "AuId": 2148236141,
+                            "AuN": "anne marie di sciullo"
+                        },
+                        {
+                            "AuId": 277873934,
+                            "AuN": "roumyana slabakova"
+                        }
+                    ],
+                    "doi": "10.1007/1-4020-3232-3_4",
+                    "title": "quantification and aspect",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2490595094,
+                    "author": [
+                        {
+                            "AuId": 2643449327,
+                            "AuN": "brigitte l m bauer"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.89.07BAU",
+                    "title": "the definite article in indo european emergence of a new grammatical category",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 3028765791,
+                    "author": [
+                        {
+                            "AuId": 164265761,
+                            "AuN": "zeno vendler"
+                        }
+                    ],
+                    "doi": "10.2307/2182371",
+                    "journal": "the philosophical review",
+                    "title": "verbs and times",
+                    "year_mag": 1957
+                },
+                {
+                    "PId": 1967315365,
+                    "author": [
+                        {
+                            "AuId": 2703306102,
+                            "AuN": "maria napoli"
+                        }
+                    ],
+                    "doi": "10.1075/SL.33.3.03NAP",
+                    "journal": "studies in language",
+                    "title": "aspects of definiteness in greek",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2486235838,
+                    "author": [
+                        {
+                            "AuId": 279653328,
+                            "AuN": "anne vainikka"
+                        },
+                        {
+                            "AuId": 1987131984,
+                            "AuN": "joan maling"
+                        },
+                        {
+                            "AuId": 2597751914,
+                            "AuN": "jacob hoeksema"
+                        }
+                    ],
+                    "doi": "10.1515/9783110908985.179",
+                    "title": "is partitive case inherent or structural",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2477219552,
+                    "author": [
+                        {
+                            "AuId": 2505488524,
+                            "AuN": "elisabeth leiss"
+                        }
+                    ],
+                    "title": "covert patterns of definiteness indefiniteness and aspectuality in old icelandic gothic and old high german",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2496202280,
+                    "author": [
+                        {
+                            "AuId": 2110397782,
+                            "AuN": "osten dahl"
+                        }
+                    ],
+                    "doi": "10.1515/9783110197099.1.227",
+                    "title": "the type referring function of the imperfective",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2496853650,
+                    "author": [
+                        {
+                            "AuId": 2076496188,
+                            "AuN": "werner abraham"
+                        }
+                    ],
+                    "title": "discourse binding dp and pronouns in german dutch and english",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2056388673,
+                    "author": [
+                        {
+                            "AuId": 58862034,
+                            "AuN": "daniel riano rufilanchas"
+                        }
+                    ],
+                    "doi": "10.3989/EMERITA.2005.V73.I2.46",
+                    "journal": "emerita",
+                    "title": "la sintaxis de los verbos comer y beber en griego antiguo un estudio sobre el genitivo partitivo",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2491368289,
+                    "author": [
+                        {
+                            "AuId": 2494598989,
+                            "AuN": "gilbert lazard"
+                        },
+                        {
+                            "AuId": 2613092278,
+                            "AuN": "giuliana fiorentino"
+                        }
+                    ],
+                    "doi": "10.1515/9783110919837.1",
+                    "title": "what is an object in a crosslinguistic perspective",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2476463796,
+                    "author": [
+                        {
+                            "AuId": 2534151173,
+                            "AuN": "kristina sands"
+                        },
+                        {
+                            "AuId": 2175084706,
+                            "AuN": "lyle campbell"
+                        }
+                    ],
+                    "title": "non canonical subjects and objects in finnish",
+                    "year_mag": 2001
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Tenny",
+                            "given": "Carol L.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-011-1150-8",
+                    "title": "aspectual roles and the syntax semantics interface",
+                    "year_oc": 1994
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Verkuyl",
+                            "given": "H. J.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-017-2478-4",
+                    "title": "on the compositional nature of the aspects",
+                    "year_oc": 1972
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Levin",
+                            "given": "Beth",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Rappaport Hovav",
+                            "given": "Malka",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511610479",
+                    "title": "argument realization",
+                    "year_oc": 2005
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "L\u00f6bel",
+                            "given": "Elisabeth",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/LA.6.10LOB",
+                    "title": "q as a functional category",
+                    "year_oc": 1989
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Abraham",
+                            "given": "Werner",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.89.14ABR",
+                    "title": "the discourse functional crystallization of dp from the original demonstrative",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Oslo"
+                                }
+                            ],
+                            "family": "N\u00e6ss",
+                            "given": "\u00c5shild",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.72",
+                    "title": "prototypical transitivity",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Anderson",
+                            "given": "John M.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780199297078.001.0001",
+                    "title": "modern grammars of case",
+                    "year_oc": 2006
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dezs\u00f6",
+                            "given": "L\u00e1szl\u00f3",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110820843",
+                    "title": "studies in syntactic typology and contrastive grammar",
+                    "year_oc": 1982
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Sapir",
+                            "given": "Edward",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.2307/522034",
+                    "title": "totality",
+                    "year_oc": 1930
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Aristotle",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4159/DLCL.ARISTOTLE-HISTORY_ANIMALS.1965",
+                    "title": "history of animals",
+                    "year_oc": 1965
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Cato",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4159/DLCL.CATO-AGRICULTURE.1934",
+                    "title": "on agriculture",
+                    "year_oc": 1934
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Herodotus",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4159/DLCL.HERODOTUS-PERSIAN_WARS.1920",
+                    "title": "the persian wars",
+                    "year_oc": 1920
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hippocrates of Cos",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4159/DLCL.HIPPOCRATES_COS-ANCIENT_MEDICINE.1923",
+                    "title": "ancient medicine",
+                    "year_oc": 1923
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Homer",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4159/DLCL.HOMER-ILIAD.1924",
+                    "title": "iliad",
+                    "year_oc": 1924
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Homer",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4159/DLCL.HOMER-ODYSSEY.1919",
+                    "title": "odyssey",
+                    "year_oc": 1919
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Plato",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4159/DLCL.PLATO_PHILOSOPHER-LAWS.1926",
+                    "title": "laws",
+                    "year_oc": 1926
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Plato",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4159/DLCL.PLATO_PHILOSOPHER-REPUBLIC.2013",
+                    "title": "republic",
+                    "year_oc": 2013
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Plato",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4159/DLCL.PLATO_PHILOSOPHER-THEAETETUS.1921",
+                    "title": "theaetetus",
+                    "year_oc": 1921
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Sophocles",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4159/DLCL.SOPHOCLES-ELECTRA.1994",
+                    "title": "electra",
+                    "year_oc": 1994
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Xenophon of Athens",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4159/DLCL.XENOPHON_ATHENS-HELLENICA.1918",
+                    "title": "hellenica",
+                    "year_oc": 1918
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2080084388,
+                    "author": [
+                        {
+                            "AuId": 2910089395,
+                            "AuN": "ilja a ser\u017eant"
+                        }
+                    ],
+                    "doi": "10.1163/19552629-00802006",
+                    "journal": "journal of language contact",
+                    "title": "the independent partitive as an eastern circum baltic isogloss",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2919359096,
+                    "author": [
+                        {
+                            "AuId": 2910089395,
+                            "AuN": "ilja a ser\u017eant"
+                        },
+                        {
+                            "AuId": 2000160950,
+                            "AuN": "bjorn wiemer"
+                        },
+                        {
+                            "AuId": 2731743017,
+                            "AuN": "benedikt szmrecsanyi"
+                        },
+                        {
+                            "AuId": 2341320813,
+                            "AuN": "natalia levshina"
+                        },
+                        {
+                            "AuId": 2910425534,
+                            "AuN": "sofija pozharickaja"
+                        },
+                        {
+                            "AuId": 2069816831,
+                            "AuN": "aksana erker"
+                        },
+                        {
+                            "AuId": 2909611810,
+                            "AuN": "nina markova"
+                        },
+                        {
+                            "AuId": 2159891283,
+                            "AuN": "james lavine"
+                        },
+                        {
+                            "AuId": 2172269018,
+                            "AuN": "hakyung jung"
+                        },
+                        {
+                            "AuId": 2153346456,
+                            "AuN": "margje post"
+                        },
+                        {
+                            "AuId": 2910946750,
+                            "AuN": "elena galinskaja"
+                        },
+                        {
+                            "AuId": 2210257281,
+                            "AuN": "miroslaw jankowiak"
+                        },
+                        {
+                            "AuId": 2276792310,
+                            "AuN": "anna \u017cebrowska"
+                        }
+                    ],
+                    "journal": "journal of language contact",
+                    "title": "the independent partitive genitive in north russian",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "11",
+                "pubbs_ind": "21"
+            },
+            "doi": "10.1111/J.1467-968X.2009.01219.X",
+            "journal": "TRANSACTIONS OF THE PHILOLOGICAL SOCIETY",
+            "title": "the case for the partitive case the contribution of ancient greek",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "1128-9066"
+            ],
+            "PId": 2021573158,
+            "cv_id": {
+                "pubbs_ind": "22"
+            },
+            "doi": "10.1515/JOLL.2010.11.1.193",
+            "journal": "PAPERS ON GRAMMAR",
+            "title": "one suffix two stories the latin development of ie verbal adjectives in to ",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "978-3-85124-723-7"
+            ],
+            "cv_id": {
+                "pubbs_ind": "23"
+            },
+            "title": "how impersonal is the latin impersonal passive ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "978-88-568-1767-6"
+            ],
+            "cv_id": {
+                "pubbs_ind": "24"
+            },
+            "title": "il morfo mo uno studio diacronico e qualche nota tipologica",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "0378-4177"
+            ],
+            "PId": 1967315365,
+            "citing": [
+                {
+                    "PId": 2313755217,
+                    "author": [
+                        {
+                            "AuId": 2104088241,
+                            "AuN": "r j allan"
+                        }
+                    ],
+                    "doi": "10.1163/1568525X-12341050",
+                    "journal": "mnemosyne",
+                    "title": "changing the topic topic position in ancient greek word order",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2481138315,
+                    "author": [
+                        {
+                            "AuId": 2052418952,
+                            "AuN": "dag t t haug"
+                        },
+                        {
+                            "AuId": 2589725350,
+                            "AuN": "hanne martine eckhoff"
+                        },
+                        {
+                            "AuId": 1214464144,
+                            "AuN": "eirik welo"
+                        }
+                    ],
+                    "journal": "mnemosyne",
+                    "title": "the theoretical foundations of givenness annotation",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2591718828,
+                    "author": [
+                        {
+                            "AuId": 1834085516,
+                            "AuN": "p karatsareas"
+                        }
+                    ],
+                    "doi": "10.1163/19552629-BJA10008",
+                    "journal": "mnemosyne",
+                    "title": "the development preservation and loss of differential case marking in inner asia minor greek",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2098604749,
+                    "author": [
+                        {
+                            "AuId": 2703306102,
+                            "AuN": "maria napoli"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-968X.2009.01219.X",
+                    "journal": "mnemosyne",
+                    "title": "the case for the partitive case the contribution of ancient greek",
+                    "year_mag": 2010
+                }
+            ],
+            "cv_id": {
+                "pubbs": "12",
+                "pubbs_ind": "25"
+            },
+            "doi": "10.1075/SL.33.3.03NAP",
+            "journal": "STUDIES IN LANGUAGE",
+            "title": "aspects of definiteness in greek",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-3-89500-598-5"
+            ],
+            "PId": 2222279807,
+            "cv_id": {
+                "pubbs": "13",
+                "pubbs_ind": "26"
+            },
+            "title": "an overview of the impersonals in proto indo european",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-3-934106-72-7"
+            ],
+            "cv_id": {
+                "pubbs_ind": "27"
+            },
+            "title": "impersonal passivization and agentivity in latin",
+            "type": "contributo in atti di convegno",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "0085-6827"
+            ],
+            "cv_id": {
+                "pubbs_ind": "28"
+            },
+            "journal": "STUDI E SAGGI LINGUISTICI",
+            "title": "una nota su ittita hark participio",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "0004-0207"
+            ],
+            "cv_id": {
+                "pubbs": "14",
+                "pubbs_ind": "29"
+            },
+            "journal": "XCII",
+            "title": "latino habeo piu participio perfetto passivo riflessioni su grammatica e lessico archivio glottologico italiano vol",
+            "type": "articolo in rivista",
+            "year": 2007
+        },
+        {
+            "ISSN": [
+                "0019-7262"
+            ],
+            "PId": 66195536,
+            "citing": [
+                {
+                    "PId": 2339433046,
+                    "author": [
+                        {
+                            "AuId": 2341894180,
+                            "AuN": "maria guadalupe erro"
+                        }
+                    ],
+                    "title": "tesis doctorado en letras",
+                    "year_mag": 2013
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "30"
+            },
+            "journal": "INDOGERMANISCHE FORSCHUNGEN",
+            "title": "telicity as a parameter of aspect in homeric greek activity and accomplishment verbs",
+            "type": "articolo in rivista",
+            "year": 2007
+        },
+        {
+            "ISBN": [
+                "88-464-7836-3"
+            ],
+            "cv_id": {
+                "pubbs": "15",
+                "pubbs_ind": "31"
+            },
+            "title": "aspect and actionality in homeric greek a contrastive analysis vol 1 ",
+            "type": "monografia o trattato scientifico",
+            "year": 2006
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2557331621,
+            "doi": "10.1515/JOLL-2016-0007",
+            "journal": "journal of latin linguistics",
+            "title": "cabrillana concepcion christian lehmann acta xiv colloquii internationalis linguisticae latinae",
+            "type": "1",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2763188444,
+            "citing": [
+                {
+                    "PId": 3035385736,
+                    "author": [
+                        {
+                            "AuId": 2106615800,
+                            "AuN": "signe oksefjell ebeling"
+                        },
+                        {
+                            "AuId": 86033726,
+                            "AuN": "hilde hasselgard"
+                        }
+                    ],
+                    "doi": "10.1075/SCL.97.18EBE",
+                    "title": "chapter 18 intensification in dialogue vs narrative in a corpus of present day english fiction",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3035483460,
+                    "author": [
+                        {
+                            "AuId": 2712736482,
+                            "AuN": "zeltia blancosuarez"
+                        }
+                    ],
+                    "doi": "10.1080/00393274.2020.1762243",
+                    "title": "mortal hurry and mortal fine on the rise of intensifying mortal",
+                    "year_mag": 2020
+                }
+            ],
+            "doi": "10.1075/SLCS.189",
+            "title": "exploring intensification synchronic diachronic and cross linguistic perspectives",
+            "type": "5",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2763196582,
+            "cited": [
+                {
+                    "PId": 2136944077,
+                    "author": [
+                        {
+                            "AuId": 2173269225,
+                            "AuN": "christopher kennedy"
+                        },
+                        {
+                            "AuId": 2145746798,
+                            "AuN": "louise mcnally"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.2005.0071",
+                    "journal": "language",
+                    "title": "scale structure degree modification and the semantics of gradable predicates",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2482200609,
+                    "author": [
+                        {
+                            "AuId": 1652441068,
+                            "AuN": "elizabeth closs traugott"
+                        }
+                    ],
+                    "doi": "10.1515/9783110226102.1.29",
+                    "title": "inter subjectivity and inter subjectification a reassessment",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2140358605,
+                    "author": [
+                        {
+                            "AuId": 2263823629,
+                            "AuN": "e closs traugott"
+                        }
+                    ],
+                    "doi": "10.2307/414841",
+                    "journal": "language",
+                    "title": "on the rise of epistemic meanings in english an example of subjectification in semantic change",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2046567002,
+                    "author": [
+                        {
+                            "AuId": 1957300942,
+                            "AuN": "carita paradis"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.12.1.47",
+                    "journal": "cognitive linguistics",
+                    "title": "adjectives and boundedness",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1556856416,
+                    "author": [
+                        {
+                            "AuId": 2686351894,
+                            "AuN": "elizabeth closs traugott"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511554469.003",
+                    "title": "subjectivity and subjectivisation subjectification in grammaticalisation",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1990235531,
+                    "author": [
+                        {
+                            "AuId": 1957300942,
+                            "AuN": "carita paradis"
+                        }
+                    ],
+                    "doi": "10.1017/S1360674308002645",
+                    "journal": "english language and linguistics",
+                    "title": "configurations construals and change expressions of degree",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2006742117,
+                    "author": [
+                        {
+                            "AuId": 2260089929,
+                            "AuN": "angeliki athanasiadou"
+                        }
+                    ],
+                    "doi": "10.1016/J.LANGSCI.2007.01.009",
+                    "journal": "language sciences",
+                    "title": "on the subjectivity of intensifiers",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2151059290,
+                    "author": [
+                        {
+                            "AuId": 2013099106,
+                            "AuN": "lobke ghesquiere"
+                        },
+                        {
+                            "AuId": 661415366,
+                            "AuN": "kristin davidse"
+                        }
+                    ],
+                    "doi": "10.1017/S1360674311000037",
+                    "journal": "english language and linguistics",
+                    "title": "the development of intensification scales in noun intensifying uses of adjectives sources paths and mechanisms of change",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2001990718,
+                    "author": [
+                        {
+                            "AuId": 2095970787,
+                            "AuN": "galit w sassoon"
+                        }
+                    ],
+                    "doi": "10.1075/BJL.25.06SAS",
+                    "journal": "belgian journal of linguistics",
+                    "title": "adjectival vs nominal categorization processes the rule vs similarity hypothesis",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2489976860,
+                    "author": [
+                        {
+                            "AuId": 2078262493,
+                            "AuN": "geert booij"
+                        },
+                        {
+                            "AuId": 2097465800,
+                            "AuN": "christian lehmann"
+                        },
+                        {
+                            "AuId": 2486099628,
+                            "AuN": "joachim mugdan"
+                        },
+                        {
+                            "AuId": 2486693589,
+                            "AuN": "stavros skopeteas"
+                        },
+                        {
+                            "AuId": 2494721339,
+                            "AuN": "wolfgang kesselheim"
+                        }
+                    ],
+                    "doi": "10.1515/9783110172782.2.14.1212",
+                    "title": "comparison and gradation",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1951350489,
+                    "author": [
+                        {
+                            "AuId": 2115697526,
+                            "AuN": "maria napoli"
+                        }
+                    ],
+                    "doi": "10.6092/LEF_33_P85",
+                    "journal": "linguistica e filologia",
+                    "title": "on italian past participles with issimo the superlative of events between intensification and pluractionality",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1964473769,
+                    "author": [
+                        {
+                            "AuId": 265740608,
+                            "AuN": "silvia cacchiani"
+                        }
+                    ],
+                    "doi": "10.2478/PSICL-2011-0038",
+                    "journal": "poznan studies in contemporary linguistics",
+                    "title": "intensifying affixes across italian and english",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2490840026,
+                    "author": [
+                        {
+                            "AuId": 2602220950,
+                            "AuN": "henk pander maat"
+                        }
+                    ],
+                    "doi": "10.1515/9783110892970.279",
+                    "title": "subjectification in gradable adjectives",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2623925678,
+                    "author": [
+                        {
+                            "AuId": 2720841157,
+                            "AuN": "maria napoli"
+                        }
+                    ],
+                    "doi": "10.1400/246325",
+                    "title": "the syntax of excess on the italian essere troppo per construction",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2475744727,
+                    "author": [
+                        {
+                            "AuId": 2778015077,
+                            "AuN": "matthias kammerer"
+                        }
+                    ],
+                    "doi": "10.1515/9783110880380.293",
+                    "title": "verstarkungsbildungen im deutschen versuch einer phanomenologischen bestimmung",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2223185161,
+                    "author": [
+                        {
+                            "AuId": 2004594713,
+                            "AuN": "claudio iacobini"
+                        }
+                    ],
+                    "doi": "10.1400/57295",
+                    "title": "i verbi italiani come base di derivazione prefissale",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2020560992,
+                    "author": [
+                        {
+                            "AuId": 2574861158,
+                            "AuN": "edward sapir"
+                        }
+                    ],
+                    "doi": "10.1086/286828",
+                    "journal": "philosophy of science",
+                    "title": "grading a study in semantics",
+                    "year_mag": 1944
+                },
+                {
+                    "PId": 69844858,
+                    "author": [
+                        {
+                            "AuId": 2106512271,
+                            "AuN": "donna jo napoli"
+                        },
+                        {
+                            "AuId": 2219076894,
+                            "AuN": "bill reynolds"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-017-3714-2_6",
+                    "title": "evaluative affixes in italian",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2494619057,
+                    "author": [
+                        {
+                            "AuId": 2496374997,
+                            "AuN": "robert austerlitz"
+                        }
+                    ],
+                    "doi": "10.1515/9783110869118.1",
+                    "title": "the european absolute superlative an orphan of grammar of the lexicon and of history",
+                    "year_mag": 1991
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dressler",
+                            "given": "Wolfgang U.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Barbaresi",
+                            "given": "Lavinia M.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1515/9783110877052",
+                    "title": "morphopragmatics",
+                    "year_oc": 1994
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Bolinger",
+                            "given": "Dwight",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110877786",
+                    "title": "degree words",
+                    "year_oc": 1972
+                },
+                {
+                    "doi": "10.1515/9783112328040",
+                    "title": "generative morphology",
+                    "year_oc": 1984
+                }
+            ],
+            "doi": "10.1075/SLCS.189.17NAP",
+            "title": "chapter 16 ways to intensify types of intensified meanings in italian and german",
+            "type": "4",
+            "year_mag": 2017
+        },
+        {
+            "PId": 1586316275,
+            "title": "una nota su ittita \u1e2bark participio",
+            "type": "0",
+            "year_mag": 2009
+        }
+    ]
+}

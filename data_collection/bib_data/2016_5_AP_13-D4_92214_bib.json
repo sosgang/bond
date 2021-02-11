@@ -1,0 +1,405 @@
+{
+    "AuIds": [
+        2097060794,
+        2762205381
+    ],
+    "fullname": [
+        "Schmeck",
+        "Maren Diane"
+    ],
+    "ind_anvur": [
+        6,
+        1,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0140-9883"
+            ],
+            "PId": 2308355857,
+            "RId": [
+                1499969990,
+                1580561995,
+                2014165366,
+                1568559004,
+                2081877251,
+                1514815886,
+                2136215272,
+                1587738345,
+                1636237932,
+                1983135873,
+                2150956140,
+                2499696415,
+                2129754216,
+                3023939952,
+                2066868731,
+                2157961354,
+                1989154823,
+                2157403008,
+                2103382933,
+                2145710900,
+                1496348181,
+                2028678259,
+                2051354157,
+                2137451767,
+                2013194680,
+                1987673124,
+                3106013558,
+                2169891779,
+                1971902718,
+                2012162388,
+                150998326,
+                2166606512,
+                2039355302,
+                1581993025,
+                1606514135,
+                2262014144,
+                2320742476,
+                2493005890,
+                2009659324
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1016/J.ENECO.2017.01.002",
+            "journal": "ENERGY ECONOMICS",
+            "title": "electricity price modeling with stochastic time change",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0219-0249"
+            ],
+            "cited_raw": [
+                {
+                    "@position": "1",
+                    "rawText": {
+                        "$": "[1] A\u00a8\u0131t-Sahalia, Y. (2004). Disentangling diffusion from jumps. Journal of Financial Economics, 74(3), pp. 487- 528."
+                    }
+                },
+                {
+                    "@position": "2",
+                    "rawText": {
+                        "$": "[2] Barlow, M.T., Gusev, Y. and Manpo, L. (2004). Calibration of multifactor models in electricity markets. International Journal of Theoretical and Applied Finance, 7, pp. 101-120."
+                    }
+                },
+                {
+                    "@position": "3",
+                    "id": {
+                        "@confidenceLevel": "0.54039335",
+                        "@type": "openaire",
+                        "@value": "datacite____::6bac0386cfb81af3765e9cc4d3c4a37f"
+                    },
+                    "rawText": {
+                        "$": "[3] Benth, F. E., S\u02c7altyte\u02d9 Benth, J., and Koekebakker, S. (2008). Stochastic Modelling of Electricity and Related Markets. World Scientific."
+                    }
+                },
+                {
+                    "@position": "4",
+                    "rawText": {
+                        "$": "[4] Benth, F.E, Kallsen, J. and Meyer-Brandis, T. (2007). A non-Gaussian Ornstein-Uhlenbeck process for electricity spot price modelling and derivatives pricing. Applied Mathematical Finance, 14 pp. 153-169."
+                    }
+                },
+                {
+                    "@position": "5",
+                    "rawText": {
+                        "$": "[5] Benth, F.E, and Schmeck, M.D. (2014). Pricing and hedging options in energy markets using Black-76. The Journal of Energy Markets, 7(2)."
+                    }
+                },
+                {
+                    "@position": "6",
+                    "id": {
+                        "@confidenceLevel": "0.51020026",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::0bfbe37f76da0a4718752957e23661b9"
+                    },
+                    "rawText": {
+                        "$": "[6] Benth, F.E, and Schmeck, M.D. (2014). Pricing futures and options in electricity markets (2015). In Sofia Ramos & Helena Veiga (ed.), The Interrelationship Between Financial and Energy Markets. Springer Publishing Company. Chapter 3 pp. 233-260"
+                    }
+                },
+                {
+                    "@position": "7",
+                    "rawText": {
+                        "$": "[7] Black, F. (1976). The pricing of commodity contracts. J. Financial Economics, 3, pp. 169-179."
+                    }
+                },
+                {
+                    "@position": "8",
+                    "rawText": {
+                        "$": "[8] Bjo\u00a8 rk, T. (2009). Arbitrage Theory in Continuous Time. Oxford University Press"
+                    }
+                },
+                {
+                    "@position": "9",
+                    "id": {
+                        "@confidenceLevel": "0.6440967",
+                        "@type": "openaire",
+                        "@value": "doiboost____::bdeba1e45ecfd1c0d8d6d900a9695bff"
+                    },
+                    "rawText": {
+                        "$": "[9] Borovkova, S. and Permana, F. J. (2006). Modelling electricity prices by the potential jump-diffusion. In Stochastic Finance, M. do Roa\u00b4rio Grossinho, A. Shiryaev, M. Esqu\u00b4\u0131vel, and P. Oliveira, eds., Springer."
+                    }
+                },
+                {
+                    "@position": "10",
+                    "rawText": {
+                        "$": "[10] Clewlow, L. and Strickland, C. (2000). Energy derivatives: pricing and risk management. Lacima Publications."
+                    }
+                },
+                {
+                    "@position": "11",
+                    "rawText": {
+                        "$": "[11] Gibson, R. and Schwartz E. S. (1990). Stochastic convenience yield and the pricing of oil contingent claims. J. Finance, 45, pp. 959-976."
+                    }
+                },
+                {
+                    "@position": "12",
+                    "rawText": {
+                        "$": "[12] Lucia, J. J., and Schwartz E. S. (2002). Electricity prices and power derivatives: evidence from the Nordic Power Exchange. Rev. Derivatives Res. 5(1), 5-50."
+                    }
+                },
+                {
+                    "@position": "13",
+                    "rawText": {
+                        "$": "[13] Meyer-Brandis, T. and Tankov, P. (2008). Multi-Factor Jump-Diffusion Models of Electricity Prices. International Journal of Theoretical and Applied Finance, 11(5), pp. 503-528."
+                    }
+                },
+                {
+                    "@position": "14",
+                    "rawText": {
+                        "$": "[14] Schwartz, E., and Smith. J. E. (2000). Short-Term Variations and Long-Term Dynamics in Commodity Prices Manag. Science 46(7), 893-911."
+                    }
+                },
+                {
+                    "@position": "15",
+                    "id": {
+                        "@confidenceLevel": "0.78668344",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::d1fba884a8121fe20ac7372db14c6193"
+                    },
+                    "rawText": {
+                        "$": "[15] Weron, R. (2014). Electricity price forecasting: A review of the state-of-the-art with a look into the future. International Journal of Forecasting, 30, pp. 1030-1081."
+                    }
+                },
+                {
+                    "@position": "16",
+                    "rawText": {
+                        "$": "[16] EEX settlement price procedure (2015), Version 3.8. Available under http://www.eex.com/blob/82600/95091d9e5675ba16203f9e71e2fcde99/settlement-pricing-procedure-data.pdf (Maren Diane Schmeck) DEPARTMENT OF MATHEMATICS UNIVERSITY OF COLOGNE WEYERTAL 86-90 50931 COLOGNE, GERMANY E-mail address: mschmeck@math.uni-koeln.de"
+                    }
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1142/s0219024916500539",
+            "journal": "INTERNATIONAL JOURNAL OF THEORETICAL AND APPLIED FINANCE",
+            "title": "pricing options on forwards in energy markets the role of mean reversion speed",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1350-486X"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "journal": "APPLIED MATHEMATICAL FINANCE",
+            "title": "pricing of spread options in bivariate jump market and stability to model risk",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "1756-3607"
+            ],
+            "PId": 2409456431,
+            "RId": [
+                2145224101,
+                2020041898,
+                1984399993,
+                2952797322
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.21314/JEM.2014.114",
+            "journal": "THE JOURNAL OF ENERGY MARKETS",
+            "title": "pricing and hedging options in energy markets using black 76",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-3-642-55381-3"
+            ],
+            "ISSN": [
+                "2195-1284"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1007/978-3-642-55382-0",
+            "title": "pricing futures and options in electricity markets",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1744-2508"
+            ],
+            "PId": 1978650085,
+            "RId": [
+                1499969990,
+                2076424721,
+                2148688139,
+                2151065060,
+                1994858552,
+                2166831536,
+                1582706191,
+                1498632315,
+                1988615517,
+                1984697146,
+                2089772788,
+                2112319103,
+                2032883248,
+                2004486733,
+                2045118704,
+                1823871536,
+                2022110236,
+                3103595839,
+                2299433756,
+                2148647101,
+                1985789445,
+                2757697067
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1080/17442508.2012.665056",
+            "journal": "STOCHASTICS",
+            "title": "stability of merton s portfolio optimization problem for levy models",
+            "type": "articolo in rivista",
+            "year": 2013
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 87785998,
+            "RId": [
+                1499969990,
+                66483636,
+                2098612888,
+                2148688139,
+                2145224101,
+                2020041898,
+                573310676,
+                2188127598,
+                2050067494,
+                2161007682,
+                1989154823,
+                2145710900,
+                2164378403,
+                3106013558,
+                2024687023,
+                2068058123,
+                1498935789
+            ],
+            "doi": "10.1007/978-3-642-55382-0_10",
+            "title": "pricing futures and options in electricity markets",
+            "type": "4",
+            "year_mag": 2014
+        },
+        {
+            "PId": 2080678875,
+            "RId": [
+                1499969990,
+                1580561995,
+                2031817855,
+                573310676,
+                2022783590,
+                2166831536,
+                2992033152,
+                2144738716,
+                2016370513,
+                2047667386,
+                1988615517,
+                2169930605,
+                1976953378,
+                2080665011,
+                2056624077,
+                2489174282,
+                2067877330,
+                2098835926,
+                3098139053,
+                2042282302,
+                1977012807,
+                2299433756,
+                2010931156,
+                2067713566
+            ],
+            "doi": "10.1080/1350486X.2014.948708",
+            "journal": "applied mathematical finance",
+            "title": "pricing of spread options on a bivariate jump market and stability to model risk",
+            "type": "1",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2751975572,
+            "title": "pricing of spread options on a bivariate jump market and stability to model risk",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2950350022,
+            "RId": [
+                1489605740,
+                1568559004,
+                2145224101,
+                2020041898,
+                2050067494,
+                2089240053,
+                150998326,
+                2116721779
+            ],
+            "journal": "arxiv mathematical finance",
+            "title": "pricing options on forwards in energy markets the role of mean reversion s speed",
+            "type": "8",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2262014144,
+            "RId": [
+                1568559004,
+                2145224101,
+                2020041898,
+                2050067494,
+                2089240053,
+                2129754216,
+                3023939952,
+                2066868731,
+                1973444515,
+                2137451767,
+                1964489504,
+                150998326,
+                87785998,
+                2116721779,
+                2409456431
+            ],
+            "doi": "10.2139/SSRN.2730691",
+            "journal": "international journal of theoretical and applied finance",
+            "title": "pricing options on forwards in energy markets the role of mean reversion s speed",
+            "type": "1",
+            "year_mag": 2016
+        }
+    ]
+}

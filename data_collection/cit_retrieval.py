@@ -18,14 +18,15 @@ def search_cited(loggr, idt):
         try:
             r = r_mag.json()
             d = dict()
-            d["PId"] = r["entities"][0]["Id"]
-            d["author"] = r["entities"][0]["AA"]
-            d["title"] = r["entities"][0]["Ti"]
-            d["year_mag"] = r["entities"][0]["Y"]
-            if "DOI" in r["entities"][0].keys():
-                d["doi"] = r["entities"][0]["DOI"]
-            if "J" in r["entities"][0].keys():
-                d["journal"] = r["entities"][0]["J"]["JN"]
+            if r["entities"]:
+                d["PId"] = r["entities"][0]["Id"]
+                d["author"] = r["entities"][0]["AA"]
+                d["title"] = r["entities"][0]["Ti"]
+                d["year_mag"] = r["entities"][0]["Y"]
+                if "DOI" in r["entities"][0].keys():
+                    d["doi"] = r["entities"][0]["DOI"]
+                if "J" in r["entities"][0].keys():
+                    d["journal"] = r["entities"][0]["J"]["JN"]
 
             return d
 
@@ -244,7 +245,10 @@ def retrieving_cit(logger, info):
 
     for pub1 in info["pubbs"]:
         if "RId" in pub1.keys():
-            pub1["cited"] = [search_cited(logger, rid) for rid in pub1["RId"]]
+            for rid in pub1["RId"]:
+                result = search_cited(logger, rid)
+                if result:
+                    pub1["cited"].append(result)
             pub1.pop("RId")
         if "PId" in pub1.keys():
             result = search_citing(logger, pub1["PId"])
@@ -265,7 +269,10 @@ def retrieving_cit(logger, info):
 
     for pub2 in info["pubbs_mag"]:
         if "RId" in pub2.keys():
-            pub2["cited"] = [search_cited(logger, rid) for rid in pub2["RId"]]
+            for rid in pub2["RId"]:
+                result = search_cited(logger, rid)
+                if result:
+                    pub2["cited"].append(result)
             pub2.pop("RId")
         if "PId" in pub2.keys():
             result = search_citing(logger, pub2["PId"])

@@ -1,0 +1,143 @@
+{
+    "AuIds": [
+        1664767552
+    ],
+    "fullname": [
+        "Fusari",
+        "Nicola"
+    ],
+    "ind_anvur": [
+        6,
+        5,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1540-6261"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1111/jofi.12486",
+            "journal": "THE JOURNAL OF FINANCE",
+            "title": "short term market risks implied by weekly options ",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0304-405X"
+            ],
+            "PId": 2307215944,
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "journal": "JOURNAL OF FINANCIAL ECONOMICS",
+            "title": "the risk premia embedded in index options",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0012-9682"
+            ],
+            "cited_raw": [
+                {
+                    "@position": "1",
+                    "rawText": {
+                        "$": "2010. Second, the t to deep OTM short-maturity options is relatively good with the exception of 2"
+                    }
+                },
+                {
+                    "@position": "2",
+                    "rawText": {
+                        "$": "t;kj; j Jacod, J. (2008). Asymptotic Properties of Power Variations and Associated Functionals of Semimartingales. Stochastic Processes and their Applications 118, 517{559."
+                    }
+                },
+                {
+                    "@position": "3",
+                    "id": {
+                        "@confidenceLevel": "0.5394132",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::449b6dacea7749503e59a2305ae12bc4"
+                    },
+                    "rawText": {
+                        "$": "Jacod, J., Y. Li, P. Mykland, M. Podolskij, and M. Vettter (2009). Microstructure Noise in the Continuous Case: The Pre-Averaging Approach. Stochastic Processes and their Applications 119, 2249{2276."
+                    }
+                },
+                {
+                    "@position": "4",
+                    "id": {
+                        "@confidenceLevel": "0.6782151",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::a56f1da961a6d12c3457da1af6374f67"
+                    },
+                    "rawText": {
+                        "$": "Jacod, J. and A. N. Shiryaev (2003). Limit Theorems For Stochastic Processes (2nd ed.). Berlin: SpringerVerlag."
+                    }
+                },
+                {
+                    "@position": "5",
+                    "rawText": {
+                        "$": "Jacod, J. and V. Todorov (2010). Do Price and Volatility Jump Together? Annals of Applied Probability 20, 1425{1469."
+                    }
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.3982/ecta10719",
+            "journal": "ECONOMETRICA",
+            "title": "parametric inference and dynamic state recovery from option panels ",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0304-405X"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1016/j.jfineco.2012.08.015",
+            "journal": "JOURNAL OF FINANCIAL ECONOMICS",
+            "title": "realizing smiles option pricing with realized volatility",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0025-1909"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1287/mnsc.1090.1070",
+            "journal": "MANAGEMENT SCIENCE",
+            "title": "valuing modularity as a real options ",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "1074-1240"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.3905/jod.2008.16.2.036",
+            "journal": "THE JOURNAL OF DERIVATIVES",
+            "title": "barrier option pricing with adjusted transition probabilities",
+            "type": "articolo in rivista",
+            "year": 2008
+        }
+    ]
+}

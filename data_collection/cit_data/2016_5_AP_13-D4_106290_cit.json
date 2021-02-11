@@ -1,0 +1,4637 @@
+{
+    "AuIds": [
+        2793612954
+    ],
+    "fullname": [
+        "Rosestolato",
+        "Mauro"
+    ],
+    "ind_anvur": [
+        3,
+        3,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0091-1798"
+            ],
+            "PId": 1560735985,
+            "citing": [
+                {
+                    "PId": 2964269922,
+                    "author": [
+                        {
+                            "AuId": 2107307921,
+                            "AuN": "erhan bayraktar"
+                        },
+                        {
+                            "AuId": 2579125014,
+                            "AuN": "christian keller"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFA.2018.07.010",
+                    "journal": "journal of functional analysis",
+                    "title": "path dependent hamilton jacobi equations in infinite dimensions",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2963406139,
+                    "author": [
+                        {
+                            "AuId": 2158019740,
+                            "AuN": "dorival leao"
+                        },
+                        {
+                            "AuId": 2102822484,
+                            "AuN": "alberto ohashi"
+                        },
+                        {
+                            "AuId": 2950122007,
+                            "AuN": "alexandre b simas"
+                        }
+                    ],
+                    "doi": "10.1016/J.BULSCI.2018.07.001",
+                    "journal": "journal of functional analysis",
+                    "title": "weak differentiability of wiener functionals and occupation times",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2963361196,
+                    "author": [
+                        {
+                            "AuId": 2793612954,
+                            "AuN": "mauro rosestolato"
+                        },
+                        {
+                            "AuId": 2126830597,
+                            "AuN": "andrzej \u015bwiech"
+                        }
+                    ],
+                    "doi": "10.1016/J.JDE.2016.10.030",
+                    "journal": "journal of functional analysis",
+                    "title": "partial regularity of viscosity solutions for a class of kolmogorov equations arising from mathematical finance",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2990126678,
+                    "author": [
+                        {
+                            "AuId": 2746108385,
+                            "AuN": "andrea cosso"
+                        },
+                        {
+                            "AuId": 2073629906,
+                            "AuN": "francesco russo"
+                        }
+                    ],
+                    "journal": "journal of functional analysis",
+                    "title": "crandall lions viscosity solutions for path dependent pdes the case of heat equation",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2747123651,
+                    "author": [
+                        {
+                            "AuId": 2103622878,
+                            "AuN": "jianfeng zhang"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4939-7256-2_11",
+                    "journal": "journal of functional analysis",
+                    "title": "path dependent pdes",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3036381511,
+                    "author": [
+                        {
+                            "AuId": 2099946941,
+                            "AuN": "jinniao qiu"
+                        }
+                    ],
+                    "journal": "journal of functional analysis",
+                    "title": "stochastic path dependent hamilton jacobi bellman equations and controlled stochastic differential equations with random path dependent coefficients",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3021448757,
+                    "author": [
+                        {
+                            "AuId": 2099946941,
+                            "AuN": "jinniao qiu"
+                        }
+                    ],
+                    "journal": "journal of functional analysis",
+                    "title": "controlled ordinary differential equations with random path dependent coefficients and stochastic path dependent hamilton jacobi equations",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3005218905,
+                    "author": [
+                        {
+                            "AuId": 1801755093,
+                            "AuN": "cristina di girolami"
+                        },
+                        {
+                            "AuId": 2073629906,
+                            "AuN": "francesco russo"
+                        }
+                    ],
+                    "doi": "10.1515/ROSE-2020-2028",
+                    "journal": "journal of functional analysis",
+                    "title": "about classical solutions of the path dependent heat equation",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2797053126,
+                    "author": [
+                        {
+                            "AuId": 1801755093,
+                            "AuN": "cristina di girolami"
+                        },
+                        {
+                            "AuId": 2073629906,
+                            "AuN": "francesco russo"
+                        }
+                    ],
+                    "journal": "journal of functional analysis",
+                    "title": "about classical solutions of the path dependent heat equation",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 3015041600,
+                    "author": [
+                        {
+                            "AuId": 3014523304,
+                            "AuN": "jianjun zhou"
+                        }
+                    ],
+                    "journal": "journal of functional analysis",
+                    "title": "viscosity solutions to first order path dependent hjb equations",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3041357806,
+                    "author": [
+                        {
+                            "AuId": 3041509464,
+                            "AuN": "jianjun zhou"
+                        }
+                    ],
+                    "journal": "journal of functional analysis",
+                    "title": "viscosity solutions to second order path dependent hamilton jacobi bellman equations in hilbert spaces",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2979673044,
+                    "author": [
+                        {
+                            "AuId": 2677196340,
+                            "AuN": "federica masiero"
+                        },
+                        {
+                            "AuId": 2518802795,
+                            "AuN": "carlo orrieri"
+                        },
+                        {
+                            "AuId": 2951468621,
+                            "AuN": "gianmario tessitore"
+                        },
+                        {
+                            "AuId": 2080353704,
+                            "AuN": "giovanni zanco"
+                        }
+                    ],
+                    "journal": "journal of functional analysis",
+                    "title": "semilinear kolmogorov equations on the space of continuous functions via bsdes",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3020011326,
+                    "author": [
+                        {
+                            "AuId": 2055002143,
+                            "AuN": "stefano bonaccorsi"
+                        },
+                        {
+                            "AuId": 2491525226,
+                            "AuN": "fulvia confortola"
+                        }
+                    ],
+                    "doi": "10.1007/S00030-020-00631-1",
+                    "journal": "journal of functional analysis",
+                    "title": "optimal control for stochastic volterra equations with multiplicative levy noise",
+                    "year_mag": 2020
+                },
+                {
+                    "author": [
+                        {
+                            "ORCID": "http://orcid.org/0000-0003-4656-4074",
+                            "affiliation": [],
+                            "authenticated-orcid": true,
+                            "family": "Ren",
+                            "given": "Zhenjie",
+                            "sequence": "first"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-0049-0092",
+                            "affiliation": [],
+                            "authenticated-orcid": true,
+                            "family": "Rosestolato",
+                            "given": "Mauro",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1137/18M122666X",
+                    "title": "viscosity solutions of path dependent pdes with randomized time",
+                    "year_oc": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1214/17-AOP1181",
+            "journal": "ANNALS OF PROBABILITY",
+            "title": "path dependent equations and viscosity solutions in infinite dimension",
+            "type": "articolo in rivista",
+            "year": 2018
+        },
+        {
+            "ISSN": [
+                "0022-0396"
+            ],
+            "PId": 2963361196,
+            "cited": [
+                {
+                    "PId": 1542004730,
+                    "author": [
+                        {
+                            "AuId": 2103390413,
+                            "AuN": "giuseppe da prato"
+                        },
+                        {
+                            "AuId": 2254218978,
+                            "AuN": "jerzy zabczyk"
+                        }
+                    ],
+                    "title": "stochastic equations in infinite dimensions",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1606157354,
+                    "author": [
+                        {
+                            "AuId": 1995197700,
+                            "AuN": "klausjochen engel"
+                        },
+                        {
+                            "AuId": 2120590085,
+                            "AuN": "rainer nagel"
+                        }
+                    ],
+                    "title": "one parameter semigroups for linear evolution equations",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2032316144,
+                    "author": [
+                        {
+                            "AuId": 2252823725,
+                            "AuN": "michael g crandall"
+                        },
+                        {
+                            "AuId": 2501295535,
+                            "AuN": "hitoshi ishii"
+                        },
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        }
+                    ],
+                    "doi": "10.1090/S0273-0979-1992-00266-5",
+                    "journal": "bulletin of the american mathematical society",
+                    "title": "user s guide to viscosity solutions of second order partial differential equations",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2072685235,
+                    "author": [
+                        {
+                            "AuId": 2915417632,
+                            "AuN": "o a ladyzhenskaia"
+                        },
+                        {
+                            "AuId": 2655889540,
+                            "AuN": "v a solonnikov"
+                        },
+                        {
+                            "AuId": 2655889540,
+                            "AuN": "v a solonnikov"
+                        },
+                        {
+                            "AuId": 2917112168,
+                            "AuN": "n n ural\u02b9tseva"
+                        }
+                    ],
+                    "title": "linear and quasi linear equations of parabolic type",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1544159280,
+                    "author": [
+                        {
+                            "AuId": 2103390413,
+                            "AuN": "giuseppe da prato"
+                        },
+                        {
+                            "AuId": 2254218978,
+                            "AuN": "jerzy zabczyk"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511543210",
+                    "title": "second order partial differential equations in hilbert spaces",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1526719111,
+                    "author": [
+                        {
+                            "AuId": 2252823725,
+                            "AuN": "michael g crandall"
+                        },
+                        {
+                            "AuId": 3065594192,
+                            "AuN": "m kocan"
+                        },
+                        {
+                            "AuId": 2126830597,
+                            "AuN": "andrzej \u015bwiech"
+                        }
+                    ],
+                    "doi": "10.1080/03605300008821576",
+                    "journal": "communications in partial differential equations",
+                    "title": "lp theory for fully nonlinear uniformly parabolic equations",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2082145278,
+                    "author": [
+                        {
+                            "AuId": 2762385092,
+                            "AuN": "szymon peszat"
+                        },
+                        {
+                            "AuId": 2254218978,
+                            "AuN": "jerzy zabczyk"
+                        }
+                    ],
+                    "doi": "10.1214/AOP/1176988381",
+                    "journal": "annals of probability",
+                    "title": "strong feller property and irreducibility for diffusions on hilbert spaces",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1984960279,
+                    "author": [
+                        {
+                            "AuId": 2098737472,
+                            "AuN": "salvatore federico"
+                        },
+                        {
+                            "AuId": 2628066002,
+                            "AuN": "ben goldys"
+                        },
+                        {
+                            "AuId": 1346390328,
+                            "AuN": "fausto gozzi"
+                        }
+                    ],
+                    "doi": "10.1137/09076742X",
+                    "journal": "siam journal on control and optimization",
+                    "title": "hjb equations for the optimal control of differential equations with delays and state constraints i regularity of viscosity solutions",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2091829906,
+                    "author": [
+                        {
+                            "AuId": 2054610864,
+                            "AuN": "jeanmichel lasry"
+                        },
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        }
+                    ],
+                    "doi": "10.1007/BF02765025",
+                    "journal": "israel journal of mathematics",
+                    "title": "a remark on regularization in hilbert spaces",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 1560735985,
+                    "author": [
+                        {
+                            "AuId": 2746108385,
+                            "AuN": "andrea cosso"
+                        },
+                        {
+                            "AuId": 2098737472,
+                            "AuN": "salvatore federico"
+                        },
+                        {
+                            "AuId": 1346390328,
+                            "AuN": "fausto gozzi"
+                        },
+                        {
+                            "AuId": 2793612954,
+                            "AuN": "mauro rosestolato"
+                        },
+                        {
+                            "AuId": 2233075758,
+                            "AuN": "nizar touzi"
+                        }
+                    ],
+                    "doi": "10.1214/17-AOP1181",
+                    "journal": "annals of probability",
+                    "title": "path dependent equations and viscosity solutions in infinite dimension",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2029313357,
+                    "author": [
+                        {
+                            "AuId": 2252823725,
+                            "AuN": "michael g crandall"
+                        },
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        }
+                    ],
+                    "doi": "10.1016/0022-1236(90)90084-X",
+                    "journal": "journal of functional analysis",
+                    "title": "viscosity solutions of hamilton jacobi equations in infinite dimensions iv hamiltonians with unbounded linear terms",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 1977895389,
+                    "author": [
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        }
+                    ],
+                    "doi": "10.1007/BF02392299",
+                    "journal": "acta mathematica",
+                    "title": "viscosity solutions of fully nonlinear second order equations and optimal stochastic control in infinite dimensions part i the case of bounded stochastic evolutions",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 1972547274,
+                    "author": [
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        }
+                    ],
+                    "doi": "10.1016/0022-1236(89)90062-1",
+                    "journal": "journal of functional analysis",
+                    "title": "viscosity solutions of fully nonlinear second order equations and optimal stochastic control in infinite dimensions iii uniqueness of viscosity solutions for general second order equations",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2066595382,
+                    "author": [
+                        {
+                            "AuId": 2379218101,
+                            "AuN": "ivar ekeland"
+                        },
+                        {
+                            "AuId": 2677674744,
+                            "AuN": "gerard lebourg"
+                        }
+                    ],
+                    "doi": "10.1090/S0002-9947-1976-0431253-2",
+                    "journal": "transactions of the american mathematical society",
+                    "title": "generic frechet differentiability and perturbed optimization problems in banach spaces",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 2041671491,
+                    "author": [
+                        {
+                            "AuId": 2556285967,
+                            "AuN": "andrzej \u015bwi\u0229ch"
+                        },
+                        {
+                            "AuId": 2132905316,
+                            "AuN": "eduardo v teixeira"
+                        }
+                    ],
+                    "doi": "10.1016/J.AIM.2008.10.007",
+                    "journal": "advances in mathematics",
+                    "title": "regularity for obstacle problems in infinite dimensional hilbert spaces",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1978169712,
+                    "author": [
+                        {
+                            "AuId": 2252823725,
+                            "AuN": "michael g crandall"
+                        },
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        }
+                    ],
+                    "doi": "10.1016/0022-1236(91)90010-3",
+                    "journal": "journal of functional analysis",
+                    "title": "viscosity solutions of hamilton jacobi equations in infinite dimensions v unbounded linear terms and b continuous solutions",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2035845388,
+                    "author": [
+                        {
+                            "AuId": 1962106093,
+                            "AuN": "charles p stegall"
+                        }
+                    ],
+                    "doi": "10.1007/BF01351389",
+                    "journal": "mathematische annalen",
+                    "title": "optimization of functions on certain subsets of banach spaces",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 2516368529,
+                    "author": [
+                        {
+                            "AuId": 2509621804,
+                            "AuN": "djivede armel kelome"
+                        }
+                    ],
+                    "title": "viscosity solutions of second order equations in a separable hilbert space and applications to stochastic optimal control",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1429593426,
+                    "author": [
+                        {
+                            "AuId": 2679458838,
+                            "AuN": "m kocan"
+                        },
+                        {
+                            "AuId": 2126830597,
+                            "AuN": "andrzej \u015bwiech"
+                        }
+                    ],
+                    "doi": "10.4064/SM-115-3-291-310",
+                    "journal": "studia mathematica",
+                    "title": "second order unbounded parabolic equations in separated form",
+                    "year_mag": 1995
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 3116840983,
+                    "author": [
+                        {
+                            "AuId": 2746108385,
+                            "AuN": "andrea cosso"
+                        },
+                        {
+                            "AuId": 1346390328,
+                            "AuN": "fausto gozzi"
+                        },
+                        {
+                            "AuId": 2951359341,
+                            "AuN": "idris kharroubi"
+                        },
+                        {
+                            "AuId": 2158643130,
+                            "AuN": "huyen pham"
+                        },
+                        {
+                            "AuId": 3116060123,
+                            "AuN": "mauro rosestolato"
+                        }
+                    ],
+                    "journal": "arxiv optimization and control",
+                    "title": "optimal control of path dependent mckean vlasov sdes in infinite dimension",
+                    "year_mag": 2020
+                },
+                {
+                    "author": [
+                        {
+                            "ORCID": "http://orcid.org/0000-0003-4656-4074",
+                            "affiliation": [],
+                            "authenticated-orcid": true,
+                            "family": "Ren",
+                            "given": "Zhenjie",
+                            "sequence": "first"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-0049-0092",
+                            "affiliation": [],
+                            "authenticated-orcid": true,
+                            "family": "Rosestolato",
+                            "given": "Mauro",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1137/18M122666X",
+                    "title": "viscosity solutions of path dependent pdes with randomized time",
+                    "year_oc": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1016/J.JDE.2016.10.030",
+            "journal": "JOURNAL OF DIFFERENTIAL EQUATIONS",
+            "title": "partial regularity of viscosity solutions for a class of kolmogorov equations arising from mathematical finance",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1593-8883"
+            ],
+            "PId": 1993592365,
+            "cited": [
+                {
+                    "PId": 1571438983,
+                    "author": [
+                        {
+                            "AuId": 2682266702,
+                            "AuN": "john c hull"
+                        }
+                    ],
+                    "title": "options futures and other derivatives",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 1995522593,
+                    "author": [
+                        {
+                            "AuId": 2036213059,
+                            "AuN": "philip protter"
+                        }
+                    ],
+                    "title": "stochastic integration and differential equations",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 1525526370,
+                    "author": [
+                        {
+                            "AuId": 2888688257,
+                            "AuN": "damien lamberton"
+                        },
+                        {
+                            "AuId": 2578305071,
+                            "AuN": "bernard lapeyre"
+                        }
+                    ],
+                    "title": "introduction to stochastic calculus applied to finance",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2603516344,
+                    "author": [
+                        {
+                            "AuId": 2503165917,
+                            "AuN": "changsong deng"
+                        },
+                        {
+                            "AuId": 2988421525,
+                            "AuN": "yanhong song"
+                        }
+                    ],
+                    "title": "statistics and probability letters",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1594563152,
+                    "author": [
+                        {
+                            "AuId": 1248357372,
+                            "AuN": "walter rudin"
+                        }
+                    ],
+                    "title": "real and complex analysis",
+                    "year_mag": 1966
+                },
+                {
+                    "PId": 1579485993,
+                    "author": [
+                        {
+                            "AuId": 2903507558,
+                            "AuN": "rafail khasminskii"
+                        }
+                    ],
+                    "title": "stochastic stability of differential equations",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 2044965965,
+                    "author": [
+                        {
+                            "AuId": 2123118229,
+                            "AuN": "david hobson"
+                        },
+                        {
+                            "AuId": 2155405900,
+                            "AuN": "l c g rogers"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9965.00043",
+                    "journal": "mathematical finance",
+                    "title": "complete models with stochastic volatility",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1607404072,
+                    "author": [
+                        {
+                            "AuId": 2215190148,
+                            "AuN": "krzysztof burdzy"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4612-0339-1_3",
+                    "title": "some path properties of iterated brownian motion",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2007137569,
+                    "author": [
+                        {
+                            "AuId": 2113453221,
+                            "AuN": "marco di francesco"
+                        },
+                        {
+                            "AuId": 1954852740,
+                            "AuN": "andrea pascucci"
+                        }
+                    ],
+                    "doi": "10.1098/RSPA.2004.1370",
+                    "journal": "proceedings of the royal society a mathematical physical and engineering sciences",
+                    "title": "on the complete model with stochastic volatility by hobson and rogers",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2289994846,
+                    "author": [
+                        {
+                            "AuId": 2290555974,
+                            "AuN": "classe di scienze"
+                        }
+                    ],
+                    "title": "scuola normale superiore pisa",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2134782785,
+                    "author": [
+                        {
+                            "AuId": 1988089434,
+                            "AuN": "paolo foschi"
+                        },
+                        {
+                            "AuId": 1954852740,
+                            "AuN": "andrea pascucci"
+                        }
+                    ],
+                    "doi": "10.1007/S10203-007-0076-6",
+                    "title": "path dependent volatility",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2024268555,
+                    "author": [
+                        {
+                            "AuId": 2677824125,
+                            "AuN": "v hallulli"
+                        },
+                        {
+                            "AuId": 2192408592,
+                            "AuN": "tiziano vargiolu"
+                        }
+                    ],
+                    "doi": "10.1142/9789812701817_0032",
+                    "title": "financial models with dependence on the past a survey",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2228363432,
+                    "author": [
+                        {
+                            "AuId": 2974580837,
+                            "AuN": "vera blaka hallulli"
+                        },
+                        {
+                            "AuId": 2192408592,
+                            "AuN": "tiziano vargiolu"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-7643-8458-6_26",
+                    "title": "robustness of the hobson rogers model with respect to the offset function",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2016063940,
+                    "author": [
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        },
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2005.02.011",
+                    "journal": "journal of banking and finance",
+                    "title": "fitting prices with a complete model",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2187455865,
+                    "author": [
+                        {
+                            "AuId": 2490367080,
+                            "AuN": "a platania"
+                        },
+                        {
+                            "AuId": 2155405900,
+                            "AuN": "l c g rogers"
+                        }
+                    ],
+                    "title": "putting the hobson rogers model to the test",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2006438692,
+                    "author": [
+                        {
+                            "AuId": 1988089434,
+                            "AuN": "paolo foschi"
+                        },
+                        {
+                            "AuId": 1954852740,
+                            "AuN": "andrea pascucci"
+                        }
+                    ],
+                    "doi": "10.1016/J.CSDA.2008.10.042",
+                    "journal": "computational statistics & data analysis",
+                    "title": "calibration of a path dependent volatility model empirical tests",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1983586328,
+                    "author": [
+                        {
+                            "AuId": 2124186439,
+                            "AuN": "jun sekine"
+                        }
+                    ],
+                    "doi": "10.1016/J.SPL.2008.01.039",
+                    "journal": "statistics & probability letters",
+                    "title": "marginal distribution of some path dependent stochastic volatility model",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2135960730,
+                    "author": [
+                        {
+                            "AuId": 2288503045,
+                            "AuN": "fabio antonelli"
+                        },
+                        {
+                            "AuId": 2683975998,
+                            "AuN": "valentina prezioso"
+                        }
+                    ],
+                    "doi": "10.1142/S021902490800507X",
+                    "journal": "international journal of theoretical and applied finance",
+                    "title": "rate of convergence of monte carlo simulations for the hobson rogers model",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 142259032,
+                    "author": [
+                        {
+                            "AuId": 727201999,
+                            "AuN": "carl chiarella"
+                        },
+                        {
+                            "AuId": 2082311077,
+                            "AuN": "oh kang kwon"
+                        }
+                    ],
+                    "doi": "10.1023/A:1010017213565",
+                    "journal": "asia pacific financial markets",
+                    "title": "a complete markovian stochastic volatility model in the hjm framework",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1993929029,
+                    "author": [
+                        {
+                            "AuId": 2114911062,
+                            "AuN": "reiichiro kawai"
+                        }
+                    ],
+                    "doi": "10.1142/S0219024909005294",
+                    "journal": "international journal of theoretical and applied finance",
+                    "title": "sensitivity analysis and density estimation for the hobson rogers stochastic volatility model",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1522836946,
+                    "author": [
+                        {
+                            "AuId": 727201999,
+                            "AuN": "carl chiarella"
+                        },
+                        {
+                            "AuId": 2082311077,
+                            "AuN": "oh kang kwon"
+                        }
+                    ],
+                    "title": "a complete stochastic volatility model in the hjm framework",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2085463535,
+                    "author": [
+                        {
+                            "AuId": 2732591268,
+                            "AuN": "giuseppe da prato"
+                        }
+                    ],
+                    "title": "introduction to differential stochastic equations",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1585926587,
+                    "author": [
+                        {
+                            "AuId": 1954852740,
+                            "AuN": "andrea pascucci"
+                        },
+                        {
+                            "AuId": 2113453221,
+                            "AuN": "marco di francesco"
+                        }
+                    ],
+                    "journal": "the finance",
+                    "title": "on the complete model with stochastic volatility by hobson and rogers",
+                    "year_mag": 2005
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2135960730,
+                    "author": [
+                        {
+                            "AuId": 2288503045,
+                            "AuN": "fabio antonelli"
+                        },
+                        {
+                            "AuId": 2683975998,
+                            "AuN": "valentina prezioso"
+                        }
+                    ],
+                    "doi": "10.1142/S021902490800507X",
+                    "journal": "international journal of theoretical and applied finance",
+                    "title": "rate of convergence of monte carlo simulations for the hobson rogers model",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1993929029,
+                    "author": [
+                        {
+                            "AuId": 2114911062,
+                            "AuN": "reiichiro kawai"
+                        }
+                    ],
+                    "doi": "10.1142/S0219024909005294",
+                    "journal": "international journal of theoretical and applied finance",
+                    "title": "sensitivity analysis and density estimation for the hobson rogers stochastic volatility model",
+                    "year_mag": 2009
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1007/S10203-012-0128-4",
+            "journal": "DECISIONS IN ECONOMICS AND FINANCE",
+            "title": "robustness for path dependent volatility models",
+            "type": "articolo in rivista",
+            "year": 2013
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2949353723,
+            "cited": [
+                {
+                    "PId": 604762380,
+                    "author": [
+                        {
+                            "AuId": 127491618,
+                            "AuN": "goran peskir"
+                        },
+                        {
+                            "AuId": 2916282713,
+                            "AuN": "al\u02b9bert nikolaevich shiriaev"
+                        }
+                    ],
+                    "title": "optimal stopping and free boundary problems",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1559997346,
+                    "author": [
+                        {
+                            "AuId": 576910950,
+                            "AuN": "luis a caffarelli"
+                        },
+                        {
+                            "AuId": 66868236,
+                            "AuN": "xavier cabre"
+                        }
+                    ],
+                    "title": "fully nonlinear elliptic equations",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2097100146,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 1857894854,
+                            "AuN": "davidantoine fournie"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFA.2010.04.017",
+                    "journal": "journal of functional analysis",
+                    "title": "change of variable formulas for non anticipative functionals on path space",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2012244785,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 1857894854,
+                            "AuN": "davidantoine fournie"
+                        }
+                    ],
+                    "doi": "10.1214/11-AOP721",
+                    "journal": "annals of probability",
+                    "title": "functional ito calculus and stochastic integral representation of martingales",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 3101566353,
+                    "author": [
+                        {
+                            "AuId": 2493102663,
+                            "AuN": "ibrahim ekren"
+                        },
+                        {
+                            "AuId": 2579125014,
+                            "AuN": "christian keller"
+                        },
+                        {
+                            "AuId": 2233075758,
+                            "AuN": "nizar touzi"
+                        },
+                        {
+                            "AuId": 2103622878,
+                            "AuN": "jianfeng zhang"
+                        }
+                    ],
+                    "doi": "10.1214/12-AOP788",
+                    "journal": "annals of probability",
+                    "title": "on viscosity solutions of path dependent pdes",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1544159280,
+                    "author": [
+                        {
+                            "AuId": 2103390413,
+                            "AuN": "giuseppe da prato"
+                        },
+                        {
+                            "AuId": 2254218978,
+                            "AuN": "jerzy zabczyk"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511543210",
+                    "title": "second order partial differential equations in hilbert spaces",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2123140996,
+                    "author": [
+                        {
+                            "AuId": 2535020814,
+                            "AuN": "bruno dupire"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1435551",
+                    "journal": "quantitative finance",
+                    "title": "functional ito calculus",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2391094043,
+                    "author": [
+                        {
+                            "AuId": 2560196209,
+                            "AuN": "m k rn"
+                        }
+                    ],
+                    "doi": "10.1049/IP-D:19880076",
+                    "title": "stochastic optimal control",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 3102177650,
+                    "author": [
+                        {
+                            "AuId": 2493102663,
+                            "AuN": "ibrahim ekren"
+                        },
+                        {
+                            "AuId": 2233075758,
+                            "AuN": "nizar touzi"
+                        },
+                        {
+                            "AuId": 2103622878,
+                            "AuN": "jianfeng zhang"
+                        }
+                    ],
+                    "doi": "10.1214/15-AOP1027",
+                    "journal": "annals of probability",
+                    "title": "viscosity solutions of fully nonlinear parabolic path dependent pdes part ii",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 3100775171,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 1857894854,
+                            "AuN": "davidantoine fournie"
+                        }
+                    ],
+                    "doi": "10.1214/11-AOP721",
+                    "journal": "arxiv probability",
+                    "title": "functional it o calculus and stochastic integral representation of martingales",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1980753586,
+                    "author": [
+                        {
+                            "AuId": 3046114527,
+                            "AuN": "erhan bayraktar"
+                        },
+                        {
+                            "AuId": 1920328985,
+                            "AuN": "mihai sirbu"
+                        }
+                    ],
+                    "doi": "10.1090/S0002-9939-2012-11336-X",
+                    "title": "stochastic perron s method and verification without smoothness using viscosity comparison the linear case",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1984581613,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 1857894854,
+                            "AuN": "davidantoine fournie"
+                        }
+                    ],
+                    "doi": "10.1016/J.CRMA.2009.11.013",
+                    "journal": "comptes rendus mathematique",
+                    "title": "a functional extension of the ito formula",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2171586580,
+                    "author": [
+                        {
+                            "AuId": 2137886925,
+                            "AuN": "marco fuhrman"
+                        },
+                        {
+                            "AuId": 2951468621,
+                            "AuN": "gianmario tessitore"
+                        }
+                    ],
+                    "doi": "10.1214/AOP/1029867132",
+                    "journal": "annals of probability",
+                    "title": "nonlinear kolmogorov equations in infinite dimensional spaces the backward stochastic differential equations approach and applications to optimal control",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2011136920,
+                    "author": [
+                        {
+                            "AuId": 2098737472,
+                            "AuN": "salvatore federico"
+                        }
+                    ],
+                    "doi": "10.1007/S00780-010-0146-4",
+                    "journal": "finance and stochastics",
+                    "title": "a stochastic control problem with delay arising in a pension fund model",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2161582152,
+                    "author": [
+                        {
+                            "AuId": 2137886925,
+                            "AuN": "marco fuhrman"
+                        },
+                        {
+                            "AuId": 2677196340,
+                            "AuN": "federica masiero"
+                        },
+                        {
+                            "AuId": 2951468621,
+                            "AuN": "gianmario tessitore"
+                        }
+                    ],
+                    "doi": "10.1137/080730354",
+                    "journal": "siam journal on control and optimization",
+                    "title": "stochastic equations with delay optimal control via bsdes and regular solutions of hamilton jacobi bellman equations",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2347187781,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-27128-6_8",
+                    "title": "functional kolmogorov equations",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2104753371,
+                    "author": [
+                        {
+                            "AuId": 2746108385,
+                            "AuN": "andrea cosso"
+                        },
+                        {
+                            "AuId": 2073629906,
+                            "AuN": "francesco russo"
+                        }
+                    ],
+                    "doi": "10.1142/S0219025716500247",
+                    "journal": "infinite dimensional analysis quantum probability and related topics",
+                    "title": "functional ito versus banach space stochastic calculus and strict solutions of semilinear path dependent equations",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2145704596,
+                    "author": [
+                        {
+                            "AuId": 2479722877,
+                            "AuN": "zhenjie ren"
+                        },
+                        {
+                            "AuId": 2233075758,
+                            "AuN": "nizar touzi"
+                        },
+                        {
+                            "AuId": 2103622878,
+                            "AuN": "jianfeng zhang"
+                        }
+                    ],
+                    "journal": "arxiv probability",
+                    "title": "comparison of viscosity solutions of semi linear path dependent pdes",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2963534593,
+                    "author": [
+                        {
+                            "AuId": 2596551815,
+                            "AuN": "shanjian tang"
+                        },
+                        {
+                            "AuId": 2549268208,
+                            "AuN": "fu zhang"
+                        }
+                    ],
+                    "doi": "10.3934/DCDS.2015.35.5521",
+                    "journal": "discrete and continuous dynamical systems",
+                    "title": "path dependent optimal stochastic control and viscosity solution of associated bellman equations",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2170064820,
+                    "author": [
+                        {
+                            "AuId": 1801755093,
+                            "AuN": "cristina di girolami"
+                        },
+                        {
+                            "AuId": 2073629906,
+                            "AuN": "francesco russo"
+                        }
+                    ],
+                    "doi": "10.1142/S0219025712500075",
+                    "journal": "infinite dimensional analysis quantum probability and related topics",
+                    "title": "generalized covariation and extended fukushima decompositions for banach valued processes application to windows of dirichlet processes",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1969176989,
+                    "author": [
+                        {
+                            "AuId": 1346390328,
+                            "AuN": "fausto gozzi"
+                        },
+                        {
+                            "AuId": 2718013598,
+                            "AuN": "elisabeth rouy"
+                        },
+                        {
+                            "AuId": 2911427043,
+                            "AuN": "andrzej swiech"
+                        }
+                    ],
+                    "doi": "10.1137/S0363012997324909",
+                    "journal": "siam journal on control and optimization",
+                    "title": "second order hamilton jacobi equations in hilbert spaces and stochastic boundary control",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1977895389,
+                    "author": [
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        }
+                    ],
+                    "doi": "10.1007/BF02392299",
+                    "journal": "acta mathematica",
+                    "title": "viscosity solutions of fully nonlinear second order equations and optimal stochastic control in infinite dimensions part i the case of bounded stochastic evolutions",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 1595850045,
+                    "author": [
+                        {
+                            "AuId": 2479722877,
+                            "AuN": "zhenjie ren"
+                        }
+                    ],
+                    "journal": "arxiv analysis of pdes",
+                    "title": "viscosity solutions of fully nonlinear elliptic path dependent pdes",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2188574748,
+                    "author": [
+                        {
+                            "AuId": 2746108385,
+                            "AuN": "andrea cosso"
+                        },
+                        {
+                            "AuId": 2073629906,
+                            "AuN": "francesco russo"
+                        }
+                    ],
+                    "journal": "arxiv probability",
+                    "title": "a regularization approach to functional ito calculus and strong viscosity solutions to path dependent pdes",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1972547274,
+                    "author": [
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        }
+                    ],
+                    "doi": "10.1016/0022-1236(89)90062-1",
+                    "journal": "journal of functional analysis",
+                    "title": "viscosity solutions of fully nonlinear second order equations and optimal stochastic control in infinite dimensions iii uniqueness of viscosity solutions for general second order equations",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2264147847,
+                    "author": [
+                        {
+                            "AuId": 2479722877,
+                            "AuN": "zhenjie ren"
+                        },
+                        {
+                            "AuId": 2233075758,
+                            "AuN": "nizar touzi"
+                        },
+                        {
+                            "AuId": 2103622878,
+                            "AuN": "jianfeng zhang"
+                        }
+                    ],
+                    "journal": "arxiv analysis of pdes",
+                    "title": "comparison of viscosity solutions of fully nonlinear degenerate parabolic path dependent pdes",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2170538890,
+                    "author": [
+                        {
+                            "AuId": 1346390328,
+                            "AuN": "fausto gozzi"
+                        },
+                        {
+                            "AuId": 3001718556,
+                            "AuN": "s s sritharan"
+                        },
+                        {
+                            "AuId": 2765727963,
+                            "AuN": "andrezej \u015bwi\u0229ch"
+                        }
+                    ],
+                    "doi": "10.1002/CPA.20077",
+                    "journal": "communications on pure and applied mathematics",
+                    "title": "bellman equations associated to the optimal feedback control of stochastic navier stokes equations",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2033502847,
+                    "author": [
+                        {
+                            "AuId": 1346390328,
+                            "AuN": "fausto gozzi"
+                        },
+                        {
+                            "AuId": 2126830597,
+                            "AuN": "andrzej \u015bwiech"
+                        }
+                    ],
+                    "doi": "10.1006/JFAN.2000.3562",
+                    "journal": "journal of functional analysis",
+                    "title": "hamilton jacobi bellman equations for the optimal control of the duncan mortensen zakai equation",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2233427088,
+                    "author": [
+                        {
+                            "AuId": 2511468692,
+                            "AuN": "p l lions"
+                        }
+                    ],
+                    "doi": "10.1007/BFB0083943",
+                    "title": "viscosity solutions of fully nonlinear second order equations and optimal stochastic control in infinite dimensions part ii optimal control of zakai s equation",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2462949487,
+                    "author": [
+                        {
+                            "AuId": 2793612954,
+                            "AuN": "mauro rosestolato"
+                        }
+                    ],
+                    "journal": "arxiv probability",
+                    "title": "path dependent sdes in hilbert spaces",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2470495536,
+                    "author": [
+                        {
+                            "AuId": 2793612954,
+                            "AuN": "mauro rosestolato"
+                        }
+                    ],
+                    "journal": "arxiv probability",
+                    "title": "functional it\u014d calculus in hilbert spaces and application to path dependent kolmogorov equations",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2012669342,
+                    "author": [
+                        {
+                            "AuId": 2077444668,
+                            "AuN": "michael renardy"
+                        }
+                    ],
+                    "doi": "10.1080/00036819508840358",
+                    "journal": "applicable analysis",
+                    "title": "polar decomposition of positive operators and a problem of crandall and lions",
+                    "year_mag": 1995
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2264147847,
+                    "author": [
+                        {
+                            "AuId": 2479722877,
+                            "AuN": "zhenjie ren"
+                        },
+                        {
+                            "AuId": 2233075758,
+                            "AuN": "nizar touzi"
+                        },
+                        {
+                            "AuId": 2103622878,
+                            "AuN": "jianfeng zhang"
+                        }
+                    ],
+                    "journal": "arxiv analysis of pdes",
+                    "title": "comparison of viscosity solutions of fully nonlinear degenerate parabolic path dependent pdes",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2775128551,
+                    "author": [
+                        {
+                            "AuId": 2158019740,
+                            "AuN": "dorival leao"
+                        },
+                        {
+                            "AuId": 2102822484,
+                            "AuN": "alberto ohashi"
+                        },
+                        {
+                            "AuId": 2950122007,
+                            "AuN": "alexandre b simas"
+                        }
+                    ],
+                    "journal": "arxiv analysis of pdes",
+                    "title": "weak differentiability of wiener functionals and occupation times",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2184590990,
+                    "author": [
+                        {
+                            "AuId": 2746108385,
+                            "AuN": "andrea cosso"
+                        },
+                        {
+                            "AuId": 2073629906,
+                            "AuN": "francesco russo"
+                        }
+                    ],
+                    "journal": "arxiv analysis of pdes",
+                    "title": "strong viscosity solutions semilinear parabolic pdes and path dependent pdes",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2276998631,
+                    "author": [
+                        {
+                            "AuId": 2793612954,
+                            "AuN": "mauro rosestolato"
+                        },
+                        {
+                            "AuId": 2126830597,
+                            "AuN": "andrzej \u015bwiech"
+                        }
+                    ],
+                    "journal": "arxiv analysis of pdes",
+                    "title": "partial regularity of viscosity solutions for a class of kolmogorov equations arising from mathematical finance",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2964256178,
+                    "author": [
+                        {
+                            "AuId": 2098737472,
+                            "AuN": "salvatore federico"
+                        },
+                        {
+                            "AuId": 1346390328,
+                            "AuN": "fausto gozzi"
+                        }
+                    ],
+                    "doi": "10.1016/J.JDE.2016.11.031",
+                    "journal": "arxiv analysis of pdes",
+                    "title": "mild solutions of semilinear elliptic equations in hilbert spaces",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2336953353,
+                    "author": [
+                        {
+                            "AuId": 2098737472,
+                            "AuN": "salvatore federico"
+                        },
+                        {
+                            "AuId": 1346390328,
+                            "AuN": "fausto gozzi"
+                        }
+                    ],
+                    "journal": "arxiv analysis of pdes",
+                    "title": "mild solutions of semilinear elliptic equations in hilbert spaces",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2470495536,
+                    "author": [
+                        {
+                            "AuId": 2793612954,
+                            "AuN": "mauro rosestolato"
+                        }
+                    ],
+                    "journal": "arxiv analysis of pdes",
+                    "title": "functional it\u014d calculus in hilbert spaces and application to path dependent kolmogorov equations",
+                    "year_mag": 2016
+                }
+            ],
+            "journal": "arxiv probability",
+            "title": "path dependent equations and viscosity solutions in infinite dimension",
+            "type": "8",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2783696468,
+            "cited": [
+                {
+                    "PId": 1580561995,
+                    "author": [
+                        {
+                            "AuId": 2253241183,
+                            "AuN": "ioannis karatzas"
+                        },
+                        {
+                            "AuId": 668268043,
+                            "AuN": "steven e shreve"
+                        }
+                    ],
+                    "title": "brownian motion and stochastic calculus",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 1855169650,
+                    "author": [
+                        {
+                            "AuId": 2097046306,
+                            "AuN": "lawrence c evans"
+                        }
+                    ],
+                    "doi": "10.1090/GSM/019",
+                    "title": "partial differential equations second edition",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1525883337,
+                    "author": [
+                        {
+                            "AuId": 2438406450,
+                            "AuN": "jiongmin yong"
+                        },
+                        {
+                            "AuId": 2139870450,
+                            "AuN": "xun yu zhou"
+                        }
+                    ],
+                    "title": "stochastic controls hamiltonian systems and hjb equations",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2076424721,
+                    "author": [
+                        {
+                            "AuId": 1975845671,
+                            "AuN": "bernt oksendal"
+                        },
+                        {
+                            "AuId": 2180369064,
+                            "AuN": "agnes sulem"
+                        }
+                    ],
+                    "title": "applied stochastic control of jump diffusions",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2033739349,
+                    "author": [
+                        {
+                            "AuId": 2110923904,
+                            "AuN": "robert l mcdonald"
+                        },
+                        {
+                            "AuId": 2154408502,
+                            "AuN": "daniel r siegel"
+                        }
+                    ],
+                    "doi": "10.2307/1884175",
+                    "journal": "quarterly journal of economics",
+                    "title": "the value of waiting to invest",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2007849171,
+                    "author": [
+                        {
+                            "AuId": 2029931000,
+                            "AuN": "bruno bouchard"
+                        },
+                        {
+                            "AuId": 2233075758,
+                            "AuN": "nizar touzi"
+                        }
+                    ],
+                    "doi": "10.1137/090752328",
+                    "journal": "siam journal on control and optimization",
+                    "title": "weak dynamic programming principle for viscosity solutions",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2890465795,
+                    "author": [
+                        {
+                            "AuId": 2105354520,
+                            "AuN": "andrew b abel"
+                        },
+                        {
+                            "AuId": 1901682854,
+                            "AuN": "janice c eberly"
+                        }
+                    ],
+                    "doi": "10.2307/2297794",
+                    "journal": "the review of economic studies",
+                    "title": "optimal investment with costly reversibility",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2147415520,
+                    "author": [
+                        {
+                            "AuId": 1988136908,
+                            "AuN": "frank riedel"
+                        },
+                        {
+                            "AuId": 2122644130,
+                            "AuN": "xia su"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.914575",
+                    "journal": "finance and stochastics",
+                    "title": "on irreversible investment",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2060564694,
+                    "author": [
+                        {
+                            "AuId": 2651369145,
+                            "AuN": "amal merhi"
+                        },
+                        {
+                            "AuId": 2190316678,
+                            "AuN": "mihail zervos"
+                        }
+                    ],
+                    "doi": "10.1137/050640758",
+                    "journal": "siam journal on control and optimization",
+                    "title": "a model for reversible investment capacity expansion",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 3103774860,
+                    "author": [
+                        {
+                            "AuId": 2169098295,
+                            "AuN": "shuangchi he"
+                        },
+                        {
+                            "AuId": 2776849403,
+                            "AuN": "dacheng yao"
+                        },
+                        {
+                            "AuId": 2101785262,
+                            "AuN": "hanqin zhang"
+                        }
+                    ],
+                    "doi": "10.1287/MOOR.2016.0833",
+                    "journal": "mathematics of operations research",
+                    "title": "optimal ordering policy for inventory systems with quantity dependent setup costs",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 1524099673,
+                    "author": [
+                        {
+                            "AuId": 1981000408,
+                            "AuN": "alain bensoussan"
+                        },
+                        {
+                            "AuId": 2049951349,
+                            "AuN": "jacqueslouis lions"
+                        }
+                    ],
+                    "title": "impulse control and quasi variational inequalities",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 2126804458,
+                    "author": [
+                        {
+                            "AuId": 2204508086,
+                            "AuN": "david c mauer"
+                        },
+                        {
+                            "AuId": 2531490907,
+                            "AuN": "alexander j triantis"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1994.TB02453.X",
+                    "journal": "journal of finance",
+                    "title": "interactions of corporate financing and investment decisions a dynamic framework",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1987427607,
+                    "author": [
+                        {
+                            "AuId": 2116598114,
+                            "AuN": "luis h r alvarez"
+                        }
+                    ],
+                    "doi": "10.1007/S00245-004-0792-Z",
+                    "journal": "applied mathematics and optimization",
+                    "title": "a class of solvable impulse control problems",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2157757184,
+                    "author": [
+                        {
+                            "AuId": 2026622375,
+                            "AuN": "xin guo"
+                        },
+                        {
+                            "AuId": 2158643130,
+                            "AuN": "huyen pham"
+                        }
+                    ],
+                    "doi": "10.1016/J.SPA.2004.12.002",
+                    "journal": "stochastic processes and their applications",
+                    "title": "optimal partially reversible investment with entry decision and general production function",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2095500572,
+                    "author": [
+                        {
+                            "AuId": 40106880,
+                            "AuN": "abel cadenillas"
+                        },
+                        {
+                            "AuId": 2152497277,
+                            "AuN": "fernando zapatero"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9965.00086",
+                    "journal": "mathematical finance",
+                    "title": "classical and impulse stochastic control of the exchange rate using interest rates and reserves",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2171320369,
+                    "author": [
+                        {
+                            "AuId": 2274187562,
+                            "AuN": "melda ormeci"
+                        },
+                        {
+                            "AuId": 2142289956,
+                            "AuN": "j g dai"
+                        },
+                        {
+                            "AuId": 2118863860,
+                            "AuN": "john h vande vate"
+                        }
+                    ],
+                    "doi": "10.1287/OPRE.1060.0380",
+                    "journal": "operations research",
+                    "title": "impulse control of brownian motion the constrained average cost case",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2410129507,
+                    "author": [
+                        {
+                            "AuId": 2951129500,
+                            "AuN": "jiawen gu"
+                        },
+                        {
+                            "AuId": 2153003810,
+                            "AuN": "mogens steffensen"
+                        },
+                        {
+                            "AuId": 2098911523,
+                            "AuN": "harry zheng"
+                        }
+                    ],
+                    "doi": "10.1287/MOOR.2017.0860",
+                    "journal": "mathematics of operations research",
+                    "title": "optimal dividend strategies of two collaborating businesses in the diffusion approximation model",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2074526884,
+                    "author": [
+                        {
+                            "AuId": 2107307921,
+                            "AuN": "erhan bayraktar"
+                        },
+                        {
+                            "AuId": 2147532194,
+                            "AuN": "thomas j emmerling"
+                        },
+                        {
+                            "AuId": 2130285068,
+                            "AuN": "jose luis menaldi"
+                        }
+                    ],
+                    "doi": "10.1137/120863836",
+                    "journal": "siam journal on control and optimization",
+                    "title": "on the impulse control of jump diffusions",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1992725139,
+                    "author": [
+                        {
+                            "AuId": 3120620813,
+                            "AuN": "luis h r alvarez"
+                        },
+                        {
+                            "AuId": 2291547685,
+                            "AuN": "jukka lempa"
+                        }
+                    ],
+                    "doi": "10.1137/060659375",
+                    "journal": "siam journal on control and optimization",
+                    "title": "on the optimal stochastic impulse control of linear diffusions",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2078391721,
+                    "author": [
+                        {
+                            "AuId": 2531490907,
+                            "AuN": "alexander j triantis"
+                        },
+                        {
+                            "AuId": 2031125157,
+                            "AuN": "james e hodder"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1990.TB03702.X",
+                    "journal": "journal of finance",
+                    "title": "valuing flexibility as a complex option",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2158969568,
+                    "author": [
+                        {
+                            "AuId": 2026622375,
+                            "AuN": "xin guo"
+                        },
+                        {
+                            "AuId": 2157254510,
+                            "AuN": "guoliang wu"
+                        }
+                    ],
+                    "doi": "10.1137/080716001",
+                    "journal": "siam journal on control and optimization",
+                    "title": "smooth fit principle for impulse control of multidimensional diffusion processes",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2081766885,
+                    "author": [
+                        {
+                            "AuId": 2121801760,
+                            "AuN": "mark h a davis"
+                        },
+                        {
+                            "AuId": 2026622375,
+                            "AuN": "xin guo"
+                        },
+                        {
+                            "AuId": 2157254510,
+                            "AuN": "guoliang wu"
+                        }
+                    ],
+                    "doi": "10.1137/090780419",
+                    "journal": "siam journal on control and optimization",
+                    "title": "impulse control of multidimensional jump diffusions",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1996327401,
+                    "author": [
+                        {
+                            "AuId": 2322561212,
+                            "AuN": "soren christensen"
+                        }
+                    ],
+                    "doi": "10.1016/J.SPA.2013.09.008",
+                    "journal": "stochastic processes and their applications",
+                    "title": "on the solution of general impulse control problems using superharmonic functions",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2005998011,
+                    "author": [
+                        {
+                            "AuId": 2088492520,
+                            "AuN": "masahiko egami"
+                        }
+                    ],
+                    "doi": "10.1137/060669905",
+                    "journal": "siam journal on control and optimization",
+                    "title": "a direct solution method for stochastic impulse control problems of one dimensional diffusions",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2049461017,
+                    "author": [
+                        {
+                            "AuId": 40106880,
+                            "AuN": "abel cadenillas"
+                        },
+                        {
+                            "AuId": 2225186261,
+                            "AuN": "peter lakner"
+                        },
+                        {
+                            "AuId": 2098907448,
+                            "AuN": "michael pinedo"
+                        }
+                    ],
+                    "doi": "10.1287/OPRE.1100.0835",
+                    "journal": "operations research",
+                    "title": "optimal control of a mean reverting inventory",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2043016139,
+                    "author": [
+                        {
+                            "AuId": 1064997088,
+                            "AuN": "monique jeanblancpicque"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9965.1993.TB00085.X",
+                    "journal": "mathematical finance",
+                    "title": "impulse control method and exchange rate",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2027874533,
+                    "author": [
+                        {
+                            "AuId": 2235359995,
+                            "AuN": "peter bank"
+                        }
+                    ],
+                    "doi": "10.1137/040616966",
+                    "journal": "siam journal on control and optimization",
+                    "title": "optimal control under a dynamic fuel constraint",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1976984865,
+                    "author": [
+                        {
+                            "AuId": 1544732458,
+                            "AuN": "fridrik m baldursson"
+                        },
+                        {
+                            "AuId": 2253241183,
+                            "AuN": "ioannis karatzas"
+                        }
+                    ],
+                    "doi": "10.1007/S007800050017",
+                    "journal": "finance and stochastics",
+                    "title": "irreversible investment and industry equilibrium",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 1974376539,
+                    "author": [
+                        {
+                            "AuId": 161496132,
+                            "AuN": "maria b chiarolla"
+                        },
+                        {
+                            "AuId": 2466022342,
+                            "AuN": "ulrich g haussmann"
+                        }
+                    ],
+                    "doi": "10.1137/070703880",
+                    "journal": "siam journal on control and optimization",
+                    "title": "on a stochastic irreversible investment problem",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2153188208,
+                    "author": [
+                        {
+                            "AuId": 2788211459,
+                            "AuN": "gabriela mundaca"
+                        },
+                        {
+                            "AuId": 1975845671,
+                            "AuN": "bernt oksendal"
+                        },
+                        {
+                            "AuId": 1975845671,
+                            "AuN": "bernt oksendal"
+                        }
+                    ],
+                    "doi": "10.1016/S0304-4068(97)00013-X",
+                    "journal": "journal of mathematical economics",
+                    "title": "optimal stochastic intervention control with application to the exchange rate",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1843140841,
+                    "author": [
+                        {
+                            "AuId": 2163627556,
+                            "AuN": "kazutoshi yamazaki"
+                        }
+                    ],
+                    "doi": "10.1287/MOOR.2016.0801",
+                    "journal": "mathematics of operations research",
+                    "title": "inventory control for spectrally positive levy demand processes",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2735588496,
+                    "author": [
+                        {
+                            "AuId": 2574220081,
+                            "AuN": "giorgio ferrari"
+                        },
+                        {
+                            "AuId": 2734900125,
+                            "AuN": "torben koch"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-018-2935-7",
+                    "journal": "annals of operations research",
+                    "title": "on a strategic model of pollution control",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2128915320,
+                    "author": [
+                        {
+                            "AuId": 2061061640,
+                            "AuN": "rene aid"
+                        },
+                        {
+                            "AuId": 2098737472,
+                            "AuN": "salvatore federico"
+                        },
+                        {
+                            "AuId": 2158643130,
+                            "AuN": "huyen pham"
+                        },
+                        {
+                            "AuId": 2101395455,
+                            "AuN": "bertrand villeneuve"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEDC.2014.10.010",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "explicit investment rules with time to build and uncertainty",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2148641457,
+                    "author": [
+                        {
+                            "AuId": 2002423247,
+                            "AuN": "kumar muthuraman"
+                        },
+                        {
+                            "AuId": 2146527301,
+                            "AuN": "sridhar seshadri"
+                        },
+                        {
+                            "AuId": 2110336157,
+                            "AuN": "qi wu"
+                        }
+                    ],
+                    "doi": "10.1287/MOOR.2014.0671",
+                    "journal": "mathematics of operations research",
+                    "title": "inventory management with stochastic lead times",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2487485184,
+                    "author": [
+                        {
+                            "AuId": 68602726,
+                            "AuN": "christoph belak"
+                        },
+                        {
+                            "AuId": 2322561212,
+                            "AuN": "soren christensen"
+                        },
+                        {
+                            "AuId": 326315190,
+                            "AuN": "frank thomas seifried"
+                        }
+                    ],
+                    "doi": "10.1137/16M1082822",
+                    "journal": "siam journal on control and optimization",
+                    "title": "a general verification result for stochastic impulse control problems",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2109595427,
+                    "author": [
+                        {
+                            "AuId": 2147740110,
+                            "AuN": "j michael harrison"
+                        },
+                        {
+                            "AuId": 1978560474,
+                            "AuN": "thomas sellke"
+                        },
+                        {
+                            "AuId": 2558651625,
+                            "AuN": "a j taylor"
+                        }
+                    ],
+                    "doi": "10.1287/MOOR.8.3.454",
+                    "journal": "mathematics of operations research",
+                    "title": "impulse control of brownian motion",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2056166085,
+                    "author": [
+                        {
+                            "AuId": 2040954126,
+                            "AuN": "tiziano de angelis"
+                        },
+                        {
+                            "AuId": 2574220081,
+                            "AuN": "giorgio ferrari"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2289963",
+                    "journal": "stochastic processes and their applications",
+                    "title": "a stochastic partially reversible investment problem on a finite time horizon free boundary analysis",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 981235990,
+                    "author": [
+                        {
+                            "AuId": 2059170047,
+                            "AuN": "kurt helmes"
+                        },
+                        {
+                            "AuId": 2620090242,
+                            "AuN": "richard h stockbridge"
+                        },
+                        {
+                            "AuId": 2104823461,
+                            "AuN": "chao zhu"
+                        }
+                    ],
+                    "doi": "10.1137/140972640",
+                    "journal": "siam journal on control and optimization",
+                    "title": "a measure approach for continuous inventory models discounted cost criterion",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2049320247,
+                    "author": [
+                        {
+                            "AuId": 2103705239,
+                            "AuN": "daniel mitchell"
+                        },
+                        {
+                            "AuId": 2676609852,
+                            "AuN": "haolin feng"
+                        },
+                        {
+                            "AuId": 2002423247,
+                            "AuN": "kumar muthuraman"
+                        }
+                    ],
+                    "doi": "10.1287/OPRE.2014.1270",
+                    "journal": "operations research",
+                    "title": "impulse control of interest rates",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2077041264,
+                    "author": [
+                        {
+                            "AuId": 2132916482,
+                            "AuN": "avner barilan"
+                        },
+                        {
+                            "AuId": 2180369064,
+                            "AuN": "agnes sulem"
+                        },
+                        {
+                            "AuId": 2685351812,
+                            "AuN": "alessandro zanello"
+                        }
+                    ],
+                    "doi": "10.1016/S0165-1889(00)00018-X",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "time to build and capacity choice",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1981917409,
+                    "author": [
+                        {
+                            "AuId": 2992460347,
+                            "AuN": "luis h r alvarez"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEDC.2011.06.006",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "optimal capital accumulation under price uncertainty and costly reversibility",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1955490230,
+                    "author": [
+                        {
+                            "AuId": 2574220081,
+                            "AuN": "giorgio ferrari"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2172308",
+                    "journal": "annals of applied probability",
+                    "title": "on an integral equation for the free boundary of stochastic irreversible investment problems",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1964827441,
+                    "author": [
+                        {
+                            "AuId": 2132916482,
+                            "AuN": "avner barilan"
+                        },
+                        {
+                            "AuId": 2180369064,
+                            "AuN": "agnes sulem"
+                        }
+                    ],
+                    "doi": "10.1287/MOOR.20.3.709",
+                    "journal": "mathematics of operations research",
+                    "title": "explicit solution of inventory problems with delivery lags",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1971306624,
+                    "author": [
+                        {
+                            "AuId": 2108369292,
+                            "AuN": "yannshin aaron chen"
+                        },
+                        {
+                            "AuId": 2026622375,
+                            "AuN": "xin guo"
+                        }
+                    ],
+                    "doi": "10.1137/110854205",
+                    "journal": "siam journal on control and optimization",
+                    "title": "impulse control of multidimensional jump diffusions in finite time horizon",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2069017184,
+                    "author": [
+                        {
+                            "AuId": 2121801760,
+                            "AuN": "mark h a davis"
+                        },
+                        {
+                            "AuId": 2789760488,
+                            "AuN": "m a h dempster"
+                        },
+                        {
+                            "AuId": 2118591370,
+                            "AuN": "suresh p sethi"
+                        },
+                        {
+                            "AuId": 2632909291,
+                            "AuN": "d vermes"
+                        }
+                    ],
+                    "doi": "10.2307/1427378",
+                    "journal": "advances in applied probability",
+                    "title": "optimal capacity expansion under uncertainty",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2156374236,
+                    "author": [
+                        {
+                            "AuId": 2315944969,
+                            "AuN": "anders oksendal"
+                        }
+                    ],
+                    "doi": "10.1007/S007800050013",
+                    "journal": "finance and stochastics",
+                    "title": "irreversible investment problems",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2018328814,
+                    "author": [
+                        {
+                            "AuId": 2180369064,
+                            "AuN": "agnes sulem"
+                        }
+                    ],
+                    "doi": "10.1287/MOOR.11.1.125",
+                    "journal": "mathematics of operations research",
+                    "title": "a solvable one dimensional model of a diffusion inventory system",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 1706880461,
+                    "author": [
+                        {
+                            "AuId": 2040954126,
+                            "AuN": "tiziano de angelis"
+                        },
+                        {
+                            "AuId": 2098737472,
+                            "AuN": "salvatore federico"
+                        },
+                        {
+                            "AuId": 2574220081,
+                            "AuN": "giorgio ferrari"
+                        }
+                    ],
+                    "doi": "10.1287/MOOR.2016.0841",
+                    "journal": "mathematics of operations research",
+                    "title": "optimal boundary surface for irreversible investment with stochastic costs",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2075675017,
+                    "author": [
+                        {
+                            "AuId": 1981000408,
+                            "AuN": "alain bensoussan"
+                        },
+                        {
+                            "AuId": 1981000408,
+                            "AuN": "alain bensoussan"
+                        },
+                        {
+                            "AuId": 2096360902,
+                            "AuN": "john j liu"
+                        },
+                        {
+                            "AuId": 2696005632,
+                            "AuN": "jiguang yuan"
+                        }
+                    ],
+                    "doi": "10.3934/DCDSB.2010.13.27",
+                    "journal": "discrete and continuous dynamical systems series b",
+                    "title": "singular control and impulse control a common approach",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1789009248,
+                    "author": [
+                        {
+                            "AuId": 294129211,
+                            "AuN": "rina dechter"
+                        },
+                        {
+                            "AuId": 2248165042,
+                            "AuN": "judea pearl"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4613-8788-6_5",
+                    "title": "the optimality of a",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2147736135,
+                    "author": [
+                        {
+                            "AuId": 1761395358,
+                            "AuN": "george m constantinides"
+                        },
+                        {
+                            "AuId": 2095766519,
+                            "AuN": "scott f richard"
+                        }
+                    ],
+                    "doi": "10.1287/OPRE.26.4.620",
+                    "journal": "operations research",
+                    "title": "existence of optimal simple policies for discounted cost inventory and cash management in continuous time",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 2022868228,
+                    "author": [
+                        {
+                            "AuId": 2992460347,
+                            "AuN": "luis h r alvarez"
+                        }
+                    ],
+                    "doi": "10.1007/S00186-010-0319-0",
+                    "journal": "mathematical methods of operations research",
+                    "title": "irreversible capital accumulation under interest rate uncertainty",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2040841604,
+                    "author": [
+                        {
+                            "AuId": 2134442550,
+                            "AuN": "andrew jack"
+                        },
+                        {
+                            "AuId": 2190316678,
+                            "AuN": "mihail zervos"
+                        }
+                    ],
+                    "doi": "10.1007/S00245-005-0853-Y",
+                    "journal": "applied mathematics and optimization",
+                    "title": "impulse control of one dimensional ito diffusions with an expected and a pathwise ergodic criterion",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2144032829,
+                    "author": [
+                        {
+                            "AuId": 42427496,
+                            "AuN": "herbert e scarf"
+                        }
+                    ],
+                    "title": "the optimality of s s policies in the dynamic inventory problem",
+                    "year_mag": 1959
+                },
+                {
+                    "PId": 3103071616,
+                    "author": [
+                        {
+                            "AuId": 2322561212,
+                            "AuN": "soren christensen"
+                        },
+                        {
+                            "AuId": 2077813483,
+                            "AuN": "paavo salminen"
+                        }
+                    ],
+                    "doi": "10.1017/APR.2016.86",
+                    "journal": "advances in applied probability",
+                    "title": "impulse control and expected suprema",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 1499749791,
+                    "author": [
+                        {
+                            "AuId": 2574220081,
+                            "AuN": "giorgio ferrari"
+                        },
+                        {
+                            "AuId": 2077813483,
+                            "AuN": "paavo salminen"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2533997",
+                    "journal": "advances in applied probability",
+                    "title": "irreversible investment under levy uncertainty an equation for the optimal boundary",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2137378220,
+                    "author": [
+                        {
+                            "AuId": 2682951832,
+                            "AuN": "hui wang"
+                        }
+                    ],
+                    "doi": "10.1080/1045112031000155696",
+                    "journal": "stochastics and stochastics reports",
+                    "title": "capacity expansion with exponential jump diffusion processes",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2127576890,
+                    "author": [
+                        {
+                            "AuId": 290705619,
+                            "AuN": "kenneth j arrow"
+                        },
+                        {
+                            "AuId": 2936191700,
+                            "AuN": "theodore edward harris"
+                        },
+                        {
+                            "AuId": 2264818998,
+                            "AuN": "jacob marschak"
+                        }
+                    ],
+                    "doi": "10.2307/1906813",
+                    "journal": "econometrica",
+                    "title": "optimal inventory policy",
+                    "year_mag": 1951
+                },
+                {
+                    "PId": 2964250226,
+                    "author": [
+                        {
+                            "AuId": 2077813483,
+                            "AuN": "paavo salminen"
+                        },
+                        {
+                            "AuId": 2478410228,
+                            "AuN": "bao quoc ta"
+                        }
+                    ],
+                    "doi": "10.4064/BC104-0-10",
+                    "journal": "banach center publications",
+                    "title": "differentiability of excessive functions of one dimensional diffusions and the principle of smooth fit",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2138376014,
+                    "author": [
+                        {
+                            "AuId": 2059844224,
+                            "AuN": "alan s manne"
+                        }
+                    ],
+                    "doi": "10.2307/1911809",
+                    "journal": "econometrica",
+                    "title": "capacity expansion and probabilistic growth",
+                    "year_mag": 1961
+                },
+                {
+                    "PId": 1964731737,
+                    "author": [
+                        {
+                            "AuId": 1975845671,
+                            "AuN": "bernt oksendal"
+                        },
+                        {
+                            "AuId": 2310596184,
+                            "AuN": "jan uboe"
+                        },
+                        {
+                            "AuId": 2684329962,
+                            "AuN": "tusheng zhang"
+                        }
+                    ],
+                    "doi": "10.1081/SAP-120014552",
+                    "journal": "stochastic analysis and applications",
+                    "title": "non robustness of some impulse control problems with respect to intervention costs",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2157003251,
+                    "author": [
+                        {
+                            "AuId": 2180369064,
+                            "AuN": "agnes sulem"
+                        }
+                    ],
+                    "doi": "10.1287/MOOR.11.1.134",
+                    "journal": "mathematics of operations research",
+                    "title": "explicit solution of a two dimensional deterministic inventory problem",
+                    "year_mag": 1986
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2964122451,
+                    "author": [
+                        {
+                            "AuId": 2112927890,
+                            "AuN": "matteo basei"
+                        }
+                    ],
+                    "doi": "10.1007/S00186-019-00665-X",
+                    "journal": "mathematical methods of operations research",
+                    "title": "optimal price management in retail energy markets an impulse control problem with asymptotic estimates",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2791207209,
+                    "author": [
+                        {
+                            "AuId": 2112927890,
+                            "AuN": "matteo basei"
+                        }
+                    ],
+                    "journal": "mathematical methods of operations research",
+                    "title": "optimal price management in retail energy markets an impulse control problem with asymptotic estimates",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2986909139,
+                    "author": [
+                        {
+                            "AuId": 2734900125,
+                            "AuN": "torben koch"
+                        },
+                        {
+                            "AuId": 2192408592,
+                            "AuN": "tiziano vargiolu"
+                        }
+                    ],
+                    "journal": "mathematical methods of operations research",
+                    "title": "optimal installation of solar panels with price impact a solvable singular stochastic control problem",
+                    "year_mag": 2019
+                }
+            ],
+            "journal": "arxiv optimization and control",
+            "title": "irreversible investment with fixed adjustment costs a stochastic impulse control approach",
+            "type": "8",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2276998631,
+            "cited": [
+                {
+                    "PId": 1606157354,
+                    "author": [
+                        {
+                            "AuId": 1995197700,
+                            "AuN": "klausjochen engel"
+                        },
+                        {
+                            "AuId": 2120590085,
+                            "AuN": "rainer nagel"
+                        }
+                    ],
+                    "title": "one parameter semigroups for linear evolution equations",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2032316144,
+                    "author": [
+                        {
+                            "AuId": 2252823725,
+                            "AuN": "michael g crandall"
+                        },
+                        {
+                            "AuId": 2501295535,
+                            "AuN": "hitoshi ishii"
+                        },
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        }
+                    ],
+                    "doi": "10.1090/S0273-0979-1992-00266-5",
+                    "journal": "bulletin of the american mathematical society",
+                    "title": "user s guide to viscosity solutions of second order partial differential equations",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2072685235,
+                    "author": [
+                        {
+                            "AuId": 2915417632,
+                            "AuN": "o a ladyzhenskaia"
+                        },
+                        {
+                            "AuId": 2655889540,
+                            "AuN": "v a solonnikov"
+                        },
+                        {
+                            "AuId": 2655889540,
+                            "AuN": "v a solonnikov"
+                        },
+                        {
+                            "AuId": 2917112168,
+                            "AuN": "n n ural\u02b9tseva"
+                        }
+                    ],
+                    "title": "linear and quasi linear equations of parabolic type",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1544159280,
+                    "author": [
+                        {
+                            "AuId": 2103390413,
+                            "AuN": "giuseppe da prato"
+                        },
+                        {
+                            "AuId": 2254218978,
+                            "AuN": "jerzy zabczyk"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511543210",
+                    "title": "second order partial differential equations in hilbert spaces",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2082145278,
+                    "author": [
+                        {
+                            "AuId": 2762385092,
+                            "AuN": "szymon peszat"
+                        },
+                        {
+                            "AuId": 2254218978,
+                            "AuN": "jerzy zabczyk"
+                        }
+                    ],
+                    "doi": "10.1214/AOP/1176988381",
+                    "journal": "annals of probability",
+                    "title": "strong feller property and irreducibility for diffusions on hilbert spaces",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1984960279,
+                    "author": [
+                        {
+                            "AuId": 2098737472,
+                            "AuN": "salvatore federico"
+                        },
+                        {
+                            "AuId": 2628066002,
+                            "AuN": "ben goldys"
+                        },
+                        {
+                            "AuId": 1346390328,
+                            "AuN": "fausto gozzi"
+                        }
+                    ],
+                    "doi": "10.1137/09076742X",
+                    "journal": "siam journal on control and optimization",
+                    "title": "hjb equations for the optimal control of differential equations with delays and state constraints i regularity of viscosity solutions",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2091829906,
+                    "author": [
+                        {
+                            "AuId": 2054610864,
+                            "AuN": "jeanmichel lasry"
+                        },
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        }
+                    ],
+                    "doi": "10.1007/BF02765025",
+                    "journal": "israel journal of mathematics",
+                    "title": "a remark on regularization in hilbert spaces",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2029313357,
+                    "author": [
+                        {
+                            "AuId": 2252823725,
+                            "AuN": "michael g crandall"
+                        },
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        }
+                    ],
+                    "doi": "10.1016/0022-1236(90)90084-X",
+                    "journal": "journal of functional analysis",
+                    "title": "viscosity solutions of hamilton jacobi equations in infinite dimensions iv hamiltonians with unbounded linear terms",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 1977895389,
+                    "author": [
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        }
+                    ],
+                    "doi": "10.1007/BF02392299",
+                    "journal": "acta mathematica",
+                    "title": "viscosity solutions of fully nonlinear second order equations and optimal stochastic control in infinite dimensions part i the case of bounded stochastic evolutions",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2949353723,
+                    "author": [
+                        {
+                            "AuId": 2746108385,
+                            "AuN": "andrea cosso"
+                        },
+                        {
+                            "AuId": 2098737472,
+                            "AuN": "salvatore federico"
+                        },
+                        {
+                            "AuId": 1346390328,
+                            "AuN": "fausto gozzi"
+                        },
+                        {
+                            "AuId": 2793612954,
+                            "AuN": "mauro rosestolato"
+                        },
+                        {
+                            "AuId": 2233075758,
+                            "AuN": "nizar touzi"
+                        }
+                    ],
+                    "journal": "arxiv probability",
+                    "title": "path dependent equations and viscosity solutions in infinite dimension",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1972547274,
+                    "author": [
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        }
+                    ],
+                    "doi": "10.1016/0022-1236(89)90062-1",
+                    "journal": "journal of functional analysis",
+                    "title": "viscosity solutions of fully nonlinear second order equations and optimal stochastic control in infinite dimensions iii uniqueness of viscosity solutions for general second order equations",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2066595382,
+                    "author": [
+                        {
+                            "AuId": 2379218101,
+                            "AuN": "ivar ekeland"
+                        },
+                        {
+                            "AuId": 2677674744,
+                            "AuN": "gerard lebourg"
+                        }
+                    ],
+                    "doi": "10.1090/S0002-9947-1976-0431253-2",
+                    "journal": "transactions of the american mathematical society",
+                    "title": "generic frechet differentiability and perturbed optimization problems in banach spaces",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 1978169712,
+                    "author": [
+                        {
+                            "AuId": 2252823725,
+                            "AuN": "michael g crandall"
+                        },
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        }
+                    ],
+                    "doi": "10.1016/0022-1236(91)90010-3",
+                    "journal": "journal of functional analysis",
+                    "title": "viscosity solutions of hamilton jacobi equations in infinite dimensions v unbounded linear terms and b continuous solutions",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2035845388,
+                    "author": [
+                        {
+                            "AuId": 1962106093,
+                            "AuN": "charles p stegall"
+                        }
+                    ],
+                    "doi": "10.1007/BF01351389",
+                    "journal": "mathematische annalen",
+                    "title": "optimization of functions on certain subsets of banach spaces",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 2516368529,
+                    "author": [
+                        {
+                            "AuId": 2509621804,
+                            "AuN": "djivede armel kelome"
+                        }
+                    ],
+                    "title": "viscosity solutions of second order equations in a separable hilbert space and applications to stochastic optimal control",
+                    "year_mag": 2002
+                }
+            ],
+            "journal": "arxiv probability",
+            "title": "partial regularity of viscosity solutions for a class of kolmogorov equations arising from mathematical finance",
+            "type": "8",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2809550677,
+            "cited": [
+                {
+                    "PId": 2032316144,
+                    "author": [
+                        {
+                            "AuId": 2252823725,
+                            "AuN": "michael g crandall"
+                        },
+                        {
+                            "AuId": 2501295535,
+                            "AuN": "hitoshi ishii"
+                        },
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        }
+                    ],
+                    "doi": "10.1090/S0273-0979-1992-00266-5",
+                    "journal": "bulletin of the american mathematical society",
+                    "title": "user s guide to viscosity solutions of second order partial differential equations",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1529558080,
+                    "author": [
+                        {
+                            "AuId": 2302225927,
+                            "AuN": "dimitri p bertsekas"
+                        },
+                        {
+                            "AuId": 668268043,
+                            "AuN": "steven e shreve"
+                        }
+                    ],
+                    "title": "stochastic optimal control the discrete time case",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2749408143,
+                    "author": [
+                        {
+                            "AuId": 2252823725,
+                            "AuN": "michael g crandall"
+                        },
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        }
+                    ],
+                    "doi": "10.1090/S0002-9947-1983-0690039-8",
+                    "journal": "transactions of the american mathematical society",
+                    "title": "viscosity solutions of hamilton jacobi equations",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 1522020530,
+                    "author": [
+                        {
+                            "AuId": 3020461670,
+                            "AuN": "herbert federer"
+                        }
+                    ],
+                    "title": "geometric measure theory",
+                    "year_mag": 1969
+                },
+                {
+                    "PId": 2012244785,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 1857894854,
+                            "AuN": "davidantoine fournie"
+                        }
+                    ],
+                    "doi": "10.1214/11-AOP721",
+                    "journal": "annals of probability",
+                    "title": "functional ito calculus and stochastic integral representation of martingales",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 3101566353,
+                    "author": [
+                        {
+                            "AuId": 2493102663,
+                            "AuN": "ibrahim ekren"
+                        },
+                        {
+                            "AuId": 2579125014,
+                            "AuN": "christian keller"
+                        },
+                        {
+                            "AuId": 2233075758,
+                            "AuN": "nizar touzi"
+                        },
+                        {
+                            "AuId": 2103622878,
+                            "AuN": "jianfeng zhang"
+                        }
+                    ],
+                    "doi": "10.1214/12-AOP788",
+                    "journal": "annals of probability",
+                    "title": "on viscosity solutions of path dependent pdes",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2123140996,
+                    "author": [
+                        {
+                            "AuId": 2535020814,
+                            "AuN": "bruno dupire"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1435551",
+                    "journal": "quantitative finance",
+                    "title": "functional ito calculus",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 108455648,
+                    "author": [
+                        {
+                            "AuId": 2762385092,
+                            "AuN": "szymon peszat"
+                        },
+                        {
+                            "AuId": 2254218978,
+                            "AuN": "jerzy zabczyk"
+                        }
+                    ],
+                    "title": "stochastic partial differential equations with levy noise an evolution equation approach",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2123244041,
+                    "author": [
+                        {
+                            "AuId": 2154432685,
+                            "AuN": "shige peng"
+                        }
+                    ],
+                    "doi": "10.1142/9789814324359_0019",
+                    "title": "backward stochastic differential equation nonlinear expectation and their applications",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1971594473,
+                    "author": [
+                        {
+                            "AuId": 2103015769,
+                            "AuN": "triet pham"
+                        },
+                        {
+                            "AuId": 2103622878,
+                            "AuN": "jianfeng zhang"
+                        }
+                    ],
+                    "doi": "10.1137/120894907",
+                    "journal": "siam journal on control and optimization",
+                    "title": "two person zero sum game in weak formulation and path dependent bellman isaacs equation",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2962917010,
+                    "author": [
+                        {
+                            "AuId": 2493102663,
+                            "AuN": "ibrahim ekren"
+                        },
+                        {
+                            "AuId": 2233075758,
+                            "AuN": "nizar touzi"
+                        },
+                        {
+                            "AuId": 2103622878,
+                            "AuN": "jianfeng zhang"
+                        }
+                    ],
+                    "doi": "10.1016/J.SPA.2014.04.006",
+                    "journal": "stochastic processes and their applications",
+                    "title": "optimal stopping under nonlinear expectation",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2962718871,
+                    "author": [
+                        {
+                            "AuId": 2479722877,
+                            "AuN": "zhenjie ren"
+                        },
+                        {
+                            "AuId": 2233075758,
+                            "AuN": "nizar touzi"
+                        },
+                        {
+                            "AuId": 2103622878,
+                            "AuN": "jianfeng zhang"
+                        }
+                    ],
+                    "doi": "10.1137/16M1090338",
+                    "journal": "siam journal on mathematical analysis",
+                    "title": "comparison of viscosity solutions of fully nonlinear degenerate parabolic path dependent pdes",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2145704596,
+                    "author": [
+                        {
+                            "AuId": 2479722877,
+                            "AuN": "zhenjie ren"
+                        },
+                        {
+                            "AuId": 2233075758,
+                            "AuN": "nizar touzi"
+                        },
+                        {
+                            "AuId": 2103622878,
+                            "AuN": "jianfeng zhang"
+                        }
+                    ],
+                    "journal": "arxiv probability",
+                    "title": "comparison of viscosity solutions of semi linear path dependent pdes",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2962853650,
+                    "author": [
+                        {
+                            "AuId": 2479722877,
+                            "AuN": "zhenjie ren"
+                        },
+                        {
+                            "AuId": 2127487073,
+                            "AuN": "xiaolu tan"
+                        }
+                    ],
+                    "doi": "10.1016/J.SPA.2016.10.002",
+                    "journal": "stochastic processes and their applications",
+                    "title": "on the convergence of monotone schemes for path dependent pdes",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2565858504,
+                    "author": [
+                        {
+                            "AuId": 2479722877,
+                            "AuN": "zhenjie ren"
+                        }
+                    ],
+                    "doi": "10.1214/16-AAP1178",
+                    "journal": "annals of applied probability",
+                    "title": "viscosity solutions of fully nonlinear elliptic path dependent partial differential equations",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2962944597,
+                    "author": [
+                        {
+                            "AuId": 2493102663,
+                            "AuN": "ibrahim ekren"
+                        }
+                    ],
+                    "doi": "10.1016/J.SPA.2017.03.016",
+                    "journal": "stochastic processes and their applications",
+                    "title": "viscosity solutions of obstacle problems for fully nonlinear path dependent pdes",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2558757482,
+                    "author": [
+                        {
+                            "AuId": 2559570634,
+                            "AuN": "alexander kalinin"
+                        },
+                        {
+                            "AuId": 12699018,
+                            "AuN": "alexander schied"
+                        }
+                    ],
+                    "journal": "arxiv probability",
+                    "title": "mild and viscosity solutions to semilinear parabolic path dependent pdes",
+                    "year_mag": 2016
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 3015206066,
+                    "author": [
+                        {
+                            "AuId": 2807753233,
+                            "AuN": "hanxiao wang"
+                        },
+                        {
+                            "AuId": 2438406450,
+                            "AuN": "jiongmin yong"
+                        },
+                        {
+                            "AuId": 2103622878,
+                            "AuN": "jianfeng zhang"
+                        }
+                    ],
+                    "journal": "arxiv probability",
+                    "title": "path dependent feynman kac formula for forward backward stochastic volterra integral equations",
+                    "year_mag": 2020
+                }
+            ],
+            "journal": "arxiv probability",
+            "title": "viscosity solutions of path dependent pdes with randomized time",
+            "type": "8",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2970501464,
+            "cited": [
+                {
+                    "PId": 1542004730,
+                    "author": [
+                        {
+                            "AuId": 2103390413,
+                            "AuN": "giuseppe da prato"
+                        },
+                        {
+                            "AuId": 2254218978,
+                            "AuN": "jerzy zabczyk"
+                        }
+                    ],
+                    "title": "stochastic equations in infinite dimensions",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2097100146,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 1857894854,
+                            "AuN": "davidantoine fournie"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFA.2010.04.017",
+                    "journal": "journal of functional analysis",
+                    "title": "change of variable formulas for non anticipative functionals on path space",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2012244785,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 1857894854,
+                            "AuN": "davidantoine fournie"
+                        }
+                    ],
+                    "doi": "10.1214/11-AOP721",
+                    "journal": "annals of probability",
+                    "title": "functional ito calculus and stochastic integral representation of martingales",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1544159280,
+                    "author": [
+                        {
+                            "AuId": 2103390413,
+                            "AuN": "giuseppe da prato"
+                        },
+                        {
+                            "AuId": 2254218978,
+                            "AuN": "jerzy zabczyk"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511543210",
+                    "title": "second order partial differential equations in hilbert spaces",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2123140996,
+                    "author": [
+                        {
+                            "AuId": 2535020814,
+                            "AuN": "bruno dupire"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1435551",
+                    "journal": "quantitative finance",
+                    "title": "functional ito calculus",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3100775171,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 1857894854,
+                            "AuN": "davidantoine fournie"
+                        }
+                    ],
+                    "doi": "10.1214/11-AOP721",
+                    "journal": "arxiv probability",
+                    "title": "functional it o calculus and stochastic integral representation of martingales",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1984581613,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 1857894854,
+                            "AuN": "davidantoine fournie"
+                        }
+                    ],
+                    "doi": "10.1016/J.CRMA.2009.11.013",
+                    "journal": "comptes rendus mathematique",
+                    "title": "a functional extension of the ito formula",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 591031131,
+                    "author": [
+                        {
+                            "AuId": 2103915256,
+                            "AuN": "leszek gawarecki"
+                        },
+                        {
+                            "AuId": 2276792477,
+                            "AuN": "v mandrekar"
+                        }
+                    ],
+                    "title": "stochastic differential equations in infinite dimensions with applications to stochastic partial differential equations",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2506637745,
+                    "author": [
+                        {
+                            "AuId": 2678082887,
+                            "AuN": "sandra cerrai"
+                        }
+                    ],
+                    "doi": "10.1007/B80743",
+                    "title": "second order pde s in finite and infinite dimension",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1505057802,
+                    "author": [
+                        {
+                            "AuId": 2149707106,
+                            "AuN": "salaheldin a mohammed"
+                        }
+                    ],
+                    "title": "stochastic functional differential equations",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 2188574748,
+                    "author": [
+                        {
+                            "AuId": 2746108385,
+                            "AuN": "andrea cosso"
+                        },
+                        {
+                            "AuId": 2073629906,
+                            "AuN": "francesco russo"
+                        }
+                    ],
+                    "journal": "arxiv probability",
+                    "title": "a regularization approach to functional ito calculus and strong viscosity solutions to path dependent pdes",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2963325554,
+                    "author": [
+                        {
+                            "AuId": 2746108385,
+                            "AuN": "andrea cosso"
+                        },
+                        {
+                            "AuId": 1801755093,
+                            "AuN": "cristina di girolami"
+                        },
+                        {
+                            "AuId": 2073629906,
+                            "AuN": "francesco russo"
+                        }
+                    ],
+                    "doi": "10.1090/CONM/668/1.3396",
+                    "journal": "contemporary mathematics",
+                    "title": "calculus via regularizations in banach spaces and kolmogorov type path dependent equations",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2461957649,
+                    "author": [
+                        {
+                            "AuId": 2793612954,
+                            "AuN": "mauro rosestolato"
+                        }
+                    ],
+                    "journal": "arxiv probability",
+                    "title": "a note on stochastic fubini s theorem and stochastic convolution",
+                    "year_mag": 2016
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Granas",
+                            "given": "Andrzej",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Dugundji",
+                            "given": "James",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/978-0-387-21593-8",
+                    "title": "fixed point theory",
+                    "year_oc": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Gawarecki",
+                            "given": "Leszek",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Mandrekar",
+                            "given": "Vidyadhar",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-16194-0",
+                    "title": "stochastic differential equations in infinite dimensions",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Da Prato",
+                            "given": "Guiseppe",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Zabczyk",
+                            "given": "Jerzy",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511666223",
+                    "title": "stochastic equations in infinite dimensions",
+                    "year_oc": 1992
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Flett",
+                            "given": "T. M.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511897191",
+                    "title": "differential analysis",
+                    "year_oc": 1980
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Cosso",
+                            "given": "Andrea",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Di Girolami",
+                            "given": "Cristina",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Russo",
+                            "given": "Francesco",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1090/CONM/668/13396",
+                    "title": "calculus via regularizations in banach spaces and kolmogorov type path dependent equations",
+                    "year_oc": 2016
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 3040885551,
+                    "author": [
+                        {
+                            "AuId": 102033585,
+                            "AuN": "enrico biffis"
+                        },
+                        {
+                            "AuId": 1346390328,
+                            "AuN": "fausto gozzi"
+                        },
+                        {
+                            "AuId": 1971420329,
+                            "AuN": "cecilia prosdocimi"
+                        }
+                    ],
+                    "journal": "arxiv optimization and control",
+                    "title": "optimal portfolio choice with path dependent labor income the infinite horizon case",
+                    "year_mag": 2020
+                }
+            ],
+            "doi": "10.1007/978-3-030-22285-7_9",
+            "title": "path dependent sdes in hilbert spaces",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2462949487,
+            "cited": [
+                {
+                    "PId": 1542004730,
+                    "author": [
+                        {
+                            "AuId": 2103390413,
+                            "AuN": "giuseppe da prato"
+                        },
+                        {
+                            "AuId": 2254218978,
+                            "AuN": "jerzy zabczyk"
+                        }
+                    ],
+                    "title": "stochastic equations in infinite dimensions",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2097100146,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 1857894854,
+                            "AuN": "davidantoine fournie"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFA.2010.04.017",
+                    "journal": "journal of functional analysis",
+                    "title": "change of variable formulas for non anticipative functionals on path space",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2012244785,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 1857894854,
+                            "AuN": "davidantoine fournie"
+                        }
+                    ],
+                    "doi": "10.1214/11-AOP721",
+                    "journal": "annals of probability",
+                    "title": "functional ito calculus and stochastic integral representation of martingales",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1544159280,
+                    "author": [
+                        {
+                            "AuId": 2103390413,
+                            "AuN": "giuseppe da prato"
+                        },
+                        {
+                            "AuId": 2254218978,
+                            "AuN": "jerzy zabczyk"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511543210",
+                    "title": "second order partial differential equations in hilbert spaces",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2123140996,
+                    "author": [
+                        {
+                            "AuId": 2535020814,
+                            "AuN": "bruno dupire"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1435551",
+                    "journal": "quantitative finance",
+                    "title": "functional ito calculus",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 1984581613,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 1857894854,
+                            "AuN": "davidantoine fournie"
+                        }
+                    ],
+                    "doi": "10.1016/J.CRMA.2009.11.013",
+                    "journal": "comptes rendus mathematique",
+                    "title": "a functional extension of the ito formula",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 591031131,
+                    "author": [
+                        {
+                            "AuId": 2103915256,
+                            "AuN": "leszek gawarecki"
+                        },
+                        {
+                            "AuId": 2276792477,
+                            "AuN": "v mandrekar"
+                        }
+                    ],
+                    "title": "stochastic differential equations in infinite dimensions with applications to stochastic partial differential equations",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2506637745,
+                    "author": [
+                        {
+                            "AuId": 2678082887,
+                            "AuN": "sandra cerrai"
+                        }
+                    ],
+                    "doi": "10.1007/B80743",
+                    "title": "second order pde s in finite and infinite dimension",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1505057802,
+                    "author": [
+                        {
+                            "AuId": 2149707106,
+                            "AuN": "salaheldin a mohammed"
+                        }
+                    ],
+                    "title": "stochastic functional differential equations",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 1629008119,
+                    "author": [
+                        {
+                            "AuId": 2096066680,
+                            "AuN": "daniel e clark"
+                        },
+                        {
+                            "AuId": 105826958,
+                            "AuN": "jeremie houssineau"
+                        }
+                    ],
+                    "journal": "arxiv functional analysis",
+                    "title": "faa di bruno s formula for chain differentials",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2188574748,
+                    "author": [
+                        {
+                            "AuId": 2746108385,
+                            "AuN": "andrea cosso"
+                        },
+                        {
+                            "AuId": 2073629906,
+                            "AuN": "francesco russo"
+                        }
+                    ],
+                    "journal": "arxiv probability",
+                    "title": "a regularization approach to functional ito calculus and strong viscosity solutions to path dependent pdes",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2963325554,
+                    "author": [
+                        {
+                            "AuId": 2746108385,
+                            "AuN": "andrea cosso"
+                        },
+                        {
+                            "AuId": 1801755093,
+                            "AuN": "cristina di girolami"
+                        },
+                        {
+                            "AuId": 2073629906,
+                            "AuN": "francesco russo"
+                        }
+                    ],
+                    "doi": "10.1090/CONM/668/1.3396",
+                    "journal": "contemporary mathematics",
+                    "title": "calculus via regularizations in banach spaces and kolmogorov type path dependent equations",
+                    "year_mag": 2014
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2949353723,
+                    "author": [
+                        {
+                            "AuId": 2746108385,
+                            "AuN": "andrea cosso"
+                        },
+                        {
+                            "AuId": 2098737472,
+                            "AuN": "salvatore federico"
+                        },
+                        {
+                            "AuId": 1346390328,
+                            "AuN": "fausto gozzi"
+                        },
+                        {
+                            "AuId": 2793612954,
+                            "AuN": "mauro rosestolato"
+                        },
+                        {
+                            "AuId": 2233075758,
+                            "AuN": "nizar touzi"
+                        }
+                    ],
+                    "journal": "arxiv probability",
+                    "title": "path dependent equations and viscosity solutions in infinite dimension",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 3041357806,
+                    "author": [
+                        {
+                            "AuId": 3041509464,
+                            "AuN": "jianjun zhou"
+                        }
+                    ],
+                    "journal": "arxiv probability",
+                    "title": "viscosity solutions to second order path dependent hamilton jacobi bellman equations in hilbert spaces",
+                    "year_mag": 2020
+                }
+            ],
+            "journal": "arxiv probability",
+            "title": "path dependent sdes in hilbert spaces",
+            "type": "8",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2461957649,
+            "cited": [
+                {
+                    "PId": 1591798773,
+                    "author": [
+                        {
+                            "AuId": 1973036121,
+                            "AuN": "david applebaum"
+                        }
+                    ],
+                    "title": "levy processes and stochastic calculus",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1606157354,
+                    "author": [
+                        {
+                            "AuId": 1995197700,
+                            "AuN": "klausjochen engel"
+                        },
+                        {
+                            "AuId": 2120590085,
+                            "AuN": "rainer nagel"
+                        }
+                    ],
+                    "title": "one parameter semigroups for linear evolution equations",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 108455648,
+                    "author": [
+                        {
+                            "AuId": 2762385092,
+                            "AuN": "szymon peszat"
+                        },
+                        {
+                            "AuId": 2254218978,
+                            "AuN": "jerzy zabczyk"
+                        }
+                    ],
+                    "title": "stochastic partial differential equations with levy noise an evolution equation approach",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1531856058,
+                    "author": [
+                        {
+                            "AuId": 1973763010,
+                            "AuN": "charles castaing"
+                        },
+                        {
+                            "AuId": 1448311764,
+                            "AuN": "michel valadier"
+                        }
+                    ],
+                    "title": "convex analysis and measurable multifunctions",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 586361596,
+                    "author": [
+                        {
+                            "AuId": 2181528078,
+                            "AuN": "paul malliavin"
+                        }
+                    ],
+                    "title": "integration and probability",
+                    "year_mag": 1995
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2970501464,
+                    "author": [
+                        {
+                            "AuId": 2793612954,
+                            "AuN": "mauro rosestolato"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-22285-7_9",
+                    "title": "path dependent sdes in hilbert spaces",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3000545022,
+                    "author": [
+                        {
+                            "AuId": 2999815475,
+                            "AuN": "huiyan zhao"
+                        },
+                        {
+                            "AuId": 2998798291,
+                            "AuN": "siyan xu"
+                        }
+                    ],
+                    "doi": "10.1016/J.SPL.2020.108700",
+                    "title": "a stochastic fubini theorem for \u03b1 stable process",
+                    "year_mag": 2020
+                }
+            ],
+            "journal": "arxiv probability",
+            "title": "a note on stochastic fubini s theorem and stochastic convolution",
+            "type": "8",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2470495536,
+            "cited": [
+                {
+                    "PId": 2097100146,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 1857894854,
+                            "AuN": "davidantoine fournie"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFA.2010.04.017",
+                    "journal": "journal of functional analysis",
+                    "title": "change of variable formulas for non anticipative functionals on path space",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2012244785,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 1857894854,
+                            "AuN": "davidantoine fournie"
+                        }
+                    ],
+                    "doi": "10.1214/11-AOP721",
+                    "journal": "annals of probability",
+                    "title": "functional ito calculus and stochastic integral representation of martingales",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1544159280,
+                    "author": [
+                        {
+                            "AuId": 2103390413,
+                            "AuN": "giuseppe da prato"
+                        },
+                        {
+                            "AuId": 2254218978,
+                            "AuN": "jerzy zabczyk"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511543210",
+                    "title": "second order partial differential equations in hilbert spaces",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2123140996,
+                    "author": [
+                        {
+                            "AuId": 2535020814,
+                            "AuN": "bruno dupire"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1435551",
+                    "journal": "quantitative finance",
+                    "title": "functional ito calculus",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 1984581613,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 1857894854,
+                            "AuN": "davidantoine fournie"
+                        }
+                    ],
+                    "doi": "10.1016/J.CRMA.2009.11.013",
+                    "journal": "comptes rendus mathematique",
+                    "title": "a functional extension of the ito formula",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1972285740,
+                    "author": [
+                        {
+                            "AuId": 1801755093,
+                            "AuN": "cristina di girolami"
+                        },
+                        {
+                            "AuId": 2092704339,
+                            "AuN": "giorgio fabbri"
+                        },
+                        {
+                            "AuId": 2073629906,
+                            "AuN": "francesco russo"
+                        }
+                    ],
+                    "doi": "10.1007/S00184-013-0472-6",
+                    "journal": "metrika",
+                    "title": "the covariation for banach space valued processes and applications",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1620511588,
+                    "author": [
+                        {
+                            "AuId": 1346390328,
+                            "AuN": "fausto gozzi"
+                        },
+                        {
+                            "AuId": 2129899480,
+                            "AuN": "carlo marinelli"
+                        }
+                    ],
+                    "title": "stochastic optimal control of delay equations arising in advertising models",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2170064820,
+                    "author": [
+                        {
+                            "AuId": 1801755093,
+                            "AuN": "cristina di girolami"
+                        },
+                        {
+                            "AuId": 2073629906,
+                            "AuN": "francesco russo"
+                        }
+                    ],
+                    "doi": "10.1142/S0219025712500075",
+                    "journal": "infinite dimensional analysis quantum probability and related topics",
+                    "title": "generalized covariation and extended fukushima decompositions for banach valued processes application to windows of dirichlet processes",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2949353723,
+                    "author": [
+                        {
+                            "AuId": 2746108385,
+                            "AuN": "andrea cosso"
+                        },
+                        {
+                            "AuId": 2098737472,
+                            "AuN": "salvatore federico"
+                        },
+                        {
+                            "AuId": 1346390328,
+                            "AuN": "fausto gozzi"
+                        },
+                        {
+                            "AuId": 2793612954,
+                            "AuN": "mauro rosestolato"
+                        },
+                        {
+                            "AuId": 2233075758,
+                            "AuN": "nizar touzi"
+                        }
+                    ],
+                    "journal": "arxiv probability",
+                    "title": "path dependent equations and viscosity solutions in infinite dimension",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2059883001,
+                    "author": [
+                        {
+                            "AuId": 2098737472,
+                            "AuN": "salvatore federico"
+                        },
+                        {
+                            "AuId": 2426023365,
+                            "AuN": "peter tankov"
+                        }
+                    ],
+                    "doi": "10.1007/S00245-014-9256-2",
+                    "journal": "applied mathematics and optimization",
+                    "title": "finite dimensional representations for controlled diffusions with delay",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1574346102,
+                    "author": [
+                        {
+                            "AuId": 163764171,
+                            "AuN": "franco flandoli"
+                        },
+                        {
+                            "AuId": 2080353704,
+                            "AuN": "giovanni zanco"
+                        }
+                    ],
+                    "doi": "10.1214/15-AOP1031",
+                    "journal": "arxiv probability",
+                    "title": "an infinite dimensional approach to path dependent kolmogorov equations",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 636361566,
+                    "author": [
+                        {
+                            "AuId": 2588964504,
+                            "AuN": "a c m van rooij"
+                        },
+                        {
+                            "AuId": 2442121279,
+                            "AuN": "wilhelmus hendricus schikhof"
+                        }
+                    ],
+                    "title": "a second course on real functions",
+                    "year_mag": 1982
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2949353723,
+                    "author": [
+                        {
+                            "AuId": 2746108385,
+                            "AuN": "andrea cosso"
+                        },
+                        {
+                            "AuId": 2098737472,
+                            "AuN": "salvatore federico"
+                        },
+                        {
+                            "AuId": 1346390328,
+                            "AuN": "fausto gozzi"
+                        },
+                        {
+                            "AuId": 2793612954,
+                            "AuN": "mauro rosestolato"
+                        },
+                        {
+                            "AuId": 2233075758,
+                            "AuN": "nizar touzi"
+                        }
+                    ],
+                    "journal": "arxiv probability",
+                    "title": "path dependent equations and viscosity solutions in infinite dimension",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2963406139,
+                    "author": [
+                        {
+                            "AuId": 2158019740,
+                            "AuN": "dorival leao"
+                        },
+                        {
+                            "AuId": 2102822484,
+                            "AuN": "alberto ohashi"
+                        },
+                        {
+                            "AuId": 2950122007,
+                            "AuN": "alexandre b simas"
+                        }
+                    ],
+                    "doi": "10.1016/J.BULSCI.2018.07.001",
+                    "journal": "arxiv probability",
+                    "title": "weak differentiability of wiener functionals and occupation times",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2775128551,
+                    "author": [
+                        {
+                            "AuId": 2158019740,
+                            "AuN": "dorival leao"
+                        },
+                        {
+                            "AuId": 2102822484,
+                            "AuN": "alberto ohashi"
+                        },
+                        {
+                            "AuId": 2950122007,
+                            "AuN": "alexandre b simas"
+                        }
+                    ],
+                    "journal": "arxiv probability",
+                    "title": "weak differentiability of wiener functionals and occupation times",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3091787528,
+                    "author": [
+                        {
+                            "AuId": 3091945715,
+                            "AuN": "christian mandler"
+                        },
+                        {
+                            "AuId": 3092325430,
+                            "AuN": "ludger overbeck"
+                        }
+                    ],
+                    "journal": "arxiv probability",
+                    "title": "a functional ito formula for dawson watanabe superprocesses",
+                    "year_mag": 2020
+                }
+            ],
+            "journal": "arxiv probability",
+            "title": "functional it\u014d calculus in hilbert spaces and application to path dependent kolmogorov equations",
+            "type": "8",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2798573426,
+            "journal": "arxiv functional analysis",
+            "title": "c_0 sequentially equicontinuous semigroups theory and applications",
+            "type": "8",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2293840881,
+            "cited": [
+                {
+                    "PId": 1527296550,
+                    "author": [
+                        {
+                            "AuId": 2674570886,
+                            "AuN": "amnon pazy"
+                        }
+                    ],
+                    "title": "semigroups of linear operators and applications to partial differential equations",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1540580484,
+                    "author": [
+                        {
+                            "AuId": 1783685629,
+                            "AuN": "alessandra lunardi"
+                        }
+                    ],
+                    "title": "analytic semigroups and optimal regularity in parabolic problems",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 3038830718,
+                    "author": [
+                        {
+                            "AuId": 3039254191,
+                            "AuN": "walter rudin"
+                        }
+                    ],
+                    "title": "functional analysis",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2163872159,
+                    "author": [
+                        {
+                            "AuId": 2637818186,
+                            "AuN": "k r parthasarathy"
+                        }
+                    ],
+                    "title": "probability measures on metric spaces",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 1223141377,
+                    "author": [
+                        {
+                            "AuId": 2334868265,
+                            "AuN": "enrico priola"
+                        }
+                    ],
+                    "doi": "10.4064/SM-136-3-271-295",
+                    "journal": "studia mathematica",
+                    "title": "on a class of markov type semigroups in spaces of uniformly continuous and bounded functions",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 1942314841,
+                    "author": [
+                        {
+                            "AuId": 2144159406,
+                            "AuN": "m scott osborne"
+                        }
+                    ],
+                    "title": "locally convex spaces",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2033430019,
+                    "author": [
+                        {
+                            "AuId": 2656349887,
+                            "AuN": "franziska kuhnemund"
+                        }
+                    ],
+                    "doi": "10.1007/S00233-002-5000-3",
+                    "journal": "semigroup forum",
+                    "title": "a hille yosida theorem for bi continuous semigroups",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2004930958,
+                    "author": [
+                        {
+                            "AuId": 2666247411,
+                            "AuN": "g daprato"
+                        },
+                        {
+                            "AuId": 1783685629,
+                            "AuN": "alessandra lunardi"
+                        }
+                    ],
+                    "doi": "10.1006/JFAN.1995.1084",
+                    "journal": "journal of functional analysis",
+                    "title": "on the ornstein uhlenbeck operator in spaces of continuous functions",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2027319662,
+                    "author": [
+                        {
+                            "AuId": 729336574,
+                            "AuN": "sandra cerrai"
+                        }
+                    ],
+                    "doi": "10.1007/BF02573496",
+                    "journal": "semigroup forum",
+                    "title": "a hille yosida theorem for weakly continuous semigroups",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 3010986076,
+                    "author": [
+                        {
+                            "AuId": 1993761689,
+                            "AuN": "beniamin goldys"
+                        },
+                        {
+                            "AuId": 2045959743,
+                            "AuN": "j m a m van neerven"
+                        }
+                    ],
+                    "doi": "10.1023/A:1023261101091",
+                    "journal": "acta applicandae mathematicae",
+                    "title": "transition semigroups of banach space valued ornstein uhlenbeck processes",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2184102435,
+                    "author": [
+                        {
+                            "AuId": 2184013912,
+                            "AuN": "eberhardkarlsuniversitat tubingen"
+                        }
+                    ],
+                    "title": "bi continuous semigroups on spaces with two topologies theory and applications",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2092549919,
+                    "author": [
+                        {
+                            "AuId": 2776281028,
+                            "AuN": "brian jefferies"
+                        }
+                    ],
+                    "doi": "10.1016/0022-1236(86)90063-7",
+                    "journal": "journal of functional analysis",
+                    "title": "weakly integrable semigroups on locally convex spaces",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2080530890,
+                    "author": [
+                        {
+                            "AuId": 2776281028,
+                            "AuN": "brian jefferies"
+                        }
+                    ],
+                    "doi": "10.1016/0022-1236(87)90065-6",
+                    "journal": "journal of functional analysis",
+                    "title": "the generation of weakly integrable semigroups",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2045877175,
+                    "author": [
+                        {
+                            "AuId": 2670072465,
+                            "AuN": "f dennis sentilles"
+                        }
+                    ],
+                    "doi": "10.1090/S0002-9947-1972-0295065-1",
+                    "journal": "transactions of the american mathematical society",
+                    "title": "bounded continuous functions on a completely regular space",
+                    "year_mag": 1972
+                },
+                {
+                    "PId": 2097091037,
+                    "author": [
+                        {
+                            "AuId": 2651146597,
+                            "AuN": "takako k\u014dmura"
+                        }
+                    ],
+                    "doi": "10.1016/0022-1236(68)90008-6",
+                    "journal": "journal of functional analysis",
+                    "title": "semigroups of operators in locally convex spaces",
+                    "year_mag": 1968
+                },
+                {
+                    "PId": 1974850250,
+                    "author": [
+                        {
+                            "AuId": 1996669212,
+                            "AuN": "young han choe"
+                        }
+                    ],
+                    "doi": "10.1016/0022-247X(85)90115-5",
+                    "journal": "journal of mathematical analysis and applications",
+                    "title": "c0 semigroups on a locally convex space",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2013050177,
+                    "author": [
+                        {
+                            "AuId": 2715549368,
+                            "AuN": "benjamin dembart"
+                        }
+                    ],
+                    "doi": "10.1016/0022-1236(74)90061-5",
+                    "journal": "journal of functional analysis",
+                    "title": "on the theory of semigroups of operators on locally convex spaces",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 768986384,
+                    "author": [
+                        {
+                            "AuId": 2482256629,
+                            "AuN": "a wiweger"
+                        }
+                    ],
+                    "doi": "10.4064/SM-20-1-47-68",
+                    "journal": "studia mathematica",
+                    "title": "linear spaces with mixed topology",
+                    "year_mag": 1961
+                }
+            ],
+            "journal": "arxiv functional analysis",
+            "title": "c_0 sequentially equicontinuous semigroups on locally convex spaces and application to markov transition semigroups",
+            "type": "8",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2208991270,
+            "journal": "arxiv functional analysis",
+            "title": "c_0 sequentially equicontinuous semigroups on locally convex spaces",
+            "type": "8",
+            "year_mag": 2015
+        }
+    ]
+}
