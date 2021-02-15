@@ -31,8 +31,8 @@ We ground our analysis on the data of the candidates and commissions that took p
  
 ### 2.2 Bibliographic and citation data
 
-- [**bib-cit_data** folder](https://github.com/sosgang/bond/tree/main/bib-cit_data): contains all the bibliographic and citation data of the candidates and the commission. Candidates' data is divided into Jsons files that are named after the term candidates applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for. Each Jsons file contains a dict of dicts. Keys are the candidates' identifiers and values are the candidates' dictionaries. Each candidate's dictionary contains:
-  - "AuIds" : list of MAG Author Ids found for the candidates
+- [**cit_data** folder](https://github.com/sosgang/bond/tree/main/cit_data): contains all the bibliographic and citation data of the candidates and the commission. Each file corresponds to one candidate or one member of the commission, and contains a dictionary with all the author's bibliographic and citation data. Candidate files are named after the ASN session they applied in, the term they applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for, and their unique Id. Commission member files are named after the ASN session they took part in, the field (e.g. "10-G1") they belong to and their unique Id. Each  dictionary contain:
+  - "AuIds" : list of MAG Author Ids found for the author
   - "pubbs" : list of publications contained in the candidate's CV as a list of dictionaries
     - Each publication is a dictionary with year, title, Paper Id, DOI, ISSN, ISBN, citing and cited publications
       - "citing" and "cited" : lists of citing and cited publications as lists of dictionaries
@@ -40,27 +40,6 @@ We ground our analysis on the data of the candidates and commissions that took p
 
 
 ### 2.3 Citation networks and citation-based metrics
-  
-- [**citmetrics** folder](https://github.com/sosgang/bond/tree/main/citmetrics): contains information on the citation network built for each candidate connecting her/his publications with those of her/his evaluating commission. Candidates' data is divided into Jsons files that are named after the term candidates applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for. Each Jsons file contains a dict of dicts. Keys are the candidates' identifiers and values are the candidates' dictionaries. Each candidate's dictionary contains:
-  - "bc" : information on the publications cited by both a publication authored by the candidate and a publication authored by at least one member of the commission.
-    - "articles": dictionary where: each key is a string with the Paper Id of the publication authored by the candidated and the Paper Id of the publication authored by at least one member of the commission;  each value is the number of publications they both cite;
-    - "number" : total number of unique publications cited by both a publication authored by the candidate and a publication authored by at least one member of the commission. 
-  - "cand_nodes" : overall number of publications authored by the candidate found in the open sources of use.
-  - "cand_paths" : dictionary with information on the paths starting from a publication authored by the candidate and ending at a publication authored by at least one member of the commission. Each key is the length of the paths (the number of edges (citations) between the two publications). Each value is a list of lists. Each list contains the Paper Ids of the starting and ending publications.
-  - "cc" : information on the publications citing both a publication authored by the candidate and a publication authored by at least one member of the commission.
-    - "articles": dictionary where: each key is a string with the Paper Id of the publication authored by the candidated and the Paper Id of the publication authored by at least one member of the commission; each value is the number of publications citing both;
-    - "number" : total number of unique publications citing both a publication authored by the candidate and a publication authored by at least one member of the commission. 
-  - "co-au" : dictionary with information about the publications authored by both the candidate and at least one member of the commission.
-    - "articles" is the list of Paper Ids of the co-authored publications.
-    - "number" is the number of co-authored publications.
-  - "comm_nodes" : overall number of publications authored by at least one member of the commission.
-  - "comm_paths" : dictionary with information on the paths starting from a publication authored by at least one member of the commission and ending at a publication authored by the candidate.Each key is the length of the paths (the number of edges (citations) between the two publications). Each value is a list of lists. Each list contains the Paper Ids of the starting and ending publications. 
-  - "other" : dictionary with information on citations from and to publications not authored by neither the candidate nor any member of the commission.
-    - "cand_other" : number of other publications cited by a publication authored by the candidate.
-    - "comm_other" : number of other publications cited by a publication authored by at least one member of the commission.
-    - "other_cand" : number of other publications citing a publication authored by the candidate.
-    - "other_comm" : number of other publications citing a publication authored by at least one member of the commission.
-  - "other_nodes" : overall number of publications not authored neither by the candidate nor by any member of the commission.
       
 - [**complete_metrics.csv**](https://github.com/sosgang/bond/blob/main/complete_metrics.csv) : contains the citation-based metrics calculated for each candidate. Each row corresponds to one candidate. The columns are the following:
   - "coverage" : level of coverage of the candidate's publications by the open sources of use.
@@ -108,12 +87,15 @@ We ground our analysis on the data of the candidates and commissions that took p
   - "combined%" : percentage of the number of publications authored by the candidate found over the total number of unique publications in the CV when the open sources of use are combined.
   - "total_CV" : total number of unique publications in the candidate's cv
  
-## 3. Reproducing the data collection
+## 3. Reproducing the data collection and the citation network analysis
 
 ### 3.1 Materials
 
 - [**cv_jsons** folder](https://github.com/sosgang/bond/tree/main/cv_jsons) : the folder containing the json files extracted from the candidates' CVs. The internal structure of the folder should remain as is at the moment: cv_jsons/asn_session name/term name/role name/field name/
+- commissions.csv : file containing initial bibliographic metadata of the members of the commissions
 - All the python files in [**data_collection** folder](https://github.com/sosgang/bond/tree/main/data_collection)
+- stopwords-it.txt : list of stopwords in italian
+- indicatoriCalcolati-ASN16-18.tsv : file containing the ANVUR metrics and outcomes for each candidate
 
 ### 3.2 Execution
 - **bond_execution.py** : executes the entire collection process by calling all the other necessary python files, and saves the results in json format and csv.
@@ -122,8 +104,6 @@ We ground our analysis on the data of the candidates and commissions that took p
 - id_search.py : searches for each candidate’s Author Ids in MAG and for each article’s DOI in OA and CR.
 - bib_retrieval.py : queries MAG for each Author Id and retrieves all the available bibliographic information for each Author Id.
 - cit_retrieval.py : retrieves the metadata of all the cited and citing publications for each candidate's publication from MAG, COCI and CR.
-
-### 3.3 Citation network analysis and metrics
 - graph_analysis.py : creates and analyzes citation networks, and calculates our citation-based metrics for each candidate.
 
 ## 4. Analyzing coverage
