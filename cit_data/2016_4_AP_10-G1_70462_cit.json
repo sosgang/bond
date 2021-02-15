@@ -1,0 +1,788 @@
+{
+    "AuIds": [
+        2804368224,
+        2802549874,
+        2758254790
+    ],
+    "fullname": [
+        "Sanfelici",
+        "Emanuela"
+    ],
+    "ind_anvur": [
+        8,
+        4,
+        1,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "1-4438-5177-9"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "title": "on german v2 relative clauses linguistic theory meets acquisition",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "PId": 2783719120,
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "title": "relative clauses in romance the factors ruling a complex system",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0004-0207"
+            ],
+            "PId": 2775746339,
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "journal": "ARCHIVIO GLOTTOLOGICO ITALIANO",
+            "title": "on the notion of raising in old irish non finite complement clauses",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788867870806"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "4"
+            },
+            "title": "on demonstratives in relative clauses",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "1-4438-7553-8"
+            ],
+            "PId": 2804272243,
+            "citing": [
+                {
+                    "PId": 2512996304,
+                    "author": [
+                        {
+                            "AuId": 2173796624,
+                            "AuN": "annemarie kocab"
+                        },
+                        {
+                            "AuId": 127629376,
+                            "AuN": "ann senghas"
+                        },
+                        {
+                            "AuId": 2013467144,
+                            "AuN": "jesse snedeker"
+                        }
+                    ],
+                    "doi": "10.1016/J.COGNITION.2016.08.005",
+                    "journal": "cognition",
+                    "title": "the emergence of temporal language in nicaraguan sign language",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2766722963,
+                    "author": [
+                        {
+                            "AuId": 2582210196,
+                            "AuN": "caitlin meyer"
+                        },
+                        {
+                            "AuId": 1340066564,
+                            "AuN": "sjef barbiers"
+                        },
+                        {
+                            "AuId": 2135208968,
+                            "AuN": "f p weerman"
+                        }
+                    ],
+                    "doi": "10.1080/10489223.2017.1391266",
+                    "journal": "cognition",
+                    "title": "ordinals are not as easy as one two three the acquisition of cardinals and ordinals in dutch",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "title": "on the acquisition of ordinal numbers in german",
+            "type": "contributo in atti di convegno",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9783862886265"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "title": "le subordinate non finite in antico e medio irlandese il tipo dp donv",
+            "type": "monografia o trattato scientifico",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "1828-2326"
+            ],
+            "PId": 2758067731,
+            "cited": [
+                {
+                    "PId": 39805860,
+                    "author": [
+                        {
+                            "AuId": 2096634528,
+                            "AuN": "marshal f folstein"
+                        },
+                        {
+                            "AuId": 23433855,
+                            "AuN": "susan e folstein"
+                        },
+                        {
+                            "AuId": 2798829976,
+                            "AuN": "f folstein"
+                        },
+                        {
+                            "AuId": 2152284147,
+                            "AuN": "paul r mchugh"
+                        }
+                    ],
+                    "title": "a practical method for grading the cognitive state of patients for the clinician",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1847168837,
+                    "author": [
+                        {
+                            "AuId": 2096634528,
+                            "AuN": "marshal f folstein"
+                        },
+                        {
+                            "AuId": 2096634528,
+                            "AuN": "marshal f folstein"
+                        },
+                        {
+                            "AuId": 2786393554,
+                            "AuN": "susan e b folstein"
+                        },
+                        {
+                            "AuId": 2786393554,
+                            "AuN": "susan e b folstein"
+                        },
+                        {
+                            "AuId": 2777218411,
+                            "AuN": "paul r mchugh"
+                        },
+                        {
+                            "AuId": 2777218411,
+                            "AuN": "paul r mchugh"
+                        }
+                    ],
+                    "doi": "10.1016/0022-3956(75)90026-6",
+                    "journal": "journal of psychiatric research",
+                    "title": "mini mental state a practical method for grading the cognitive state of patients for the clinician",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 2156220037,
+                    "author": [
+                        {
+                            "AuId": 644631265,
+                            "AuN": "guy m mckhann"
+                        },
+                        {
+                            "AuId": 2618937447,
+                            "AuN": "david a drachman"
+                        },
+                        {
+                            "AuId": 2313107163,
+                            "AuN": "marshall f folstein"
+                        },
+                        {
+                            "AuId": 2327139772,
+                            "AuN": "robert katzman"
+                        },
+                        {
+                            "AuId": 2136391868,
+                            "AuN": "donald l price"
+                        },
+                        {
+                            "AuId": 2629802579,
+                            "AuN": "emanuel m stadlan"
+                        }
+                    ],
+                    "doi": "10.1212/WNL.34.7.939",
+                    "journal": "neurology",
+                    "title": "clinical diagnosis of alzheimer s disease report of the nincds adrda work group under the auspices of department of health and human services task force on alzheimer s disease",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 1587609672,
+                    "author": [
+                        {
+                            "AuId": 2050883184,
+                            "AuN": "luigi rizzi"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-011-5420-8_7",
+                    "title": "the fine structure of the left periphery",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1597993529,
+                    "author": [
+                        {
+                            "AuId": 2186623566,
+                            "AuN": "guglielmo cinque"
+                        }
+                    ],
+                    "title": "adverbs and functional heads a cross linguistic perspective",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2120950064,
+                    "author": [
+                        {
+                            "AuId": 2139434295,
+                            "AuN": "naama friedmann"
+                        },
+                        {
+                            "AuId": 1960291052,
+                            "AuN": "adriana belletti"
+                        },
+                        {
+                            "AuId": 2050883184,
+                            "AuN": "luigi rizzi"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2008.09.002",
+                    "journal": "lingua",
+                    "title": "relativized relatives types of intervention in the acquisition of a bar dependencies",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1968415269,
+                    "author": [
+                        {
+                            "AuId": 2694043714,
+                            "AuN": "matthew j traxler"
+                        },
+                        {
+                            "AuId": 2117679645,
+                            "AuN": "robin k morris"
+                        },
+                        {
+                            "AuId": 2336448070,
+                            "AuN": "rachel e seely"
+                        }
+                    ],
+                    "doi": "10.1006/JMLA.2001.2836",
+                    "journal": "journal of memory and language",
+                    "title": "processing subject and object relative clauses evidence from eye movements",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 616096384,
+                    "author": [
+                        {
+                            "AuId": 1803190817,
+                            "AuN": "adam ledgeway"
+                        }
+                    ],
+                    "doi": "10.1515/9783484971288",
+                    "title": "grammatica diacronica del napoletano",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 94071568,
+                    "author": [
+                        {
+                            "AuId": 2589860600,
+                            "AuN": "liliane haegeman"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-011-5420-8_1",
+                    "title": "elements of grammar",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2028989998,
+                    "author": [
+                        {
+                            "AuId": 135257692,
+                            "AuN": "holger diessel"
+                        },
+                        {
+                            "AuId": 2125337108,
+                            "AuN": "michael tomasello"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.2005.0169",
+                    "journal": "language",
+                    "title": "a new look at the acquisition of relative clauses",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2005938383,
+                    "author": [
+                        {
+                            "AuId": 2312052569,
+                            "AuN": "flavia adani"
+                        },
+                        {
+                            "AuId": 2312052569,
+                            "AuN": "flavia adani"
+                        },
+                        {
+                            "AuId": 2303046903,
+                            "AuN": "heather k j van der lely"
+                        },
+                        {
+                            "AuId": 2762732303,
+                            "AuN": "matteo forgiarini"
+                        },
+                        {
+                            "AuId": 1585604266,
+                            "AuN": "maria teresa guasti"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2010.03.018",
+                    "journal": "lingua",
+                    "title": "grammatical feature dissimilarities make relative clauses easier a comprehension study with italian children",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2207778397,
+                    "author": [
+                        {
+                            "AuId": 2109020386,
+                            "AuN": "paola beninca"
+                        },
+                        {
+                            "AuId": 2666743276,
+                            "AuN": "cecilia poletto"
+                        }
+                    ],
+                    "title": "topic focus and v2 defining the cp sublayers",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2060755271,
+                    "author": [
+                        {
+                            "AuId": 2141938113,
+                            "AuN": "richard s kayne"
+                        }
+                    ],
+                    "doi": "10.1075/LIVY.8.01KAY",
+                    "journal": "linguistic variation yearbook",
+                    "title": "antisymmetry and the lexicon",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1915746009,
+                    "author": [
+                        {
+                            "AuId": 2628892623,
+                            "AuN": "de mark vries"
+                        }
+                    ],
+                    "title": "the syntax of relativization",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 421615157,
+                    "author": [
+                        {
+                            "AuId": 2050883184,
+                            "AuN": "luigi rizzi"
+                        }
+                    ],
+                    "title": "the structure of cp and ip",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2171846039,
+                    "author": [
+                        {
+                            "AuId": 1960291052,
+                            "AuN": "adriana belletti"
+                        },
+                        {
+                            "AuId": 2139434295,
+                            "AuN": "naama friedmann"
+                        },
+                        {
+                            "AuId": 1761513362,
+                            "AuN": "dominique brunato"
+                        },
+                        {
+                            "AuId": 2050883184,
+                            "AuN": "luigi rizzi"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2012.02.007",
+                    "journal": "lingua",
+                    "title": "does gender make a difference comparing the effect of gender on children s comprehension of relative clauses in hebrew and italian",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1963686517,
+                    "author": [
+                        {
+                            "AuId": 591194496,
+                            "AuN": "howard chertkow"
+                        },
+                        {
+                            "AuId": 2924995366,
+                            "AuN": "daniel bub"
+                        }
+                    ],
+                    "doi": "10.1093/BRAIN/113.2.397",
+                    "journal": "brain",
+                    "title": "semantic memory loss in dementia of alzheimer s type what do various measures measure",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2140179302,
+                    "author": [
+                        {
+                            "AuId": 2279899033,
+                            "AuN": "william ogrady"
+                        },
+                        {
+                            "AuId": 2138047492,
+                            "AuN": "miseon lee"
+                        },
+                        {
+                            "AuId": 2124274743,
+                            "AuN": "miho choo"
+                        }
+                    ],
+                    "doi": "10.1017/S0272263103000172",
+                    "journal": "studies in second language acquisition",
+                    "title": "a subject object asymmetry in the acquisition of relative clauses in korean as a second language",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2163264146,
+                    "author": [
+                        {
+                            "AuId": 106354105,
+                            "AuN": "carla contemori"
+                        },
+                        {
+                            "AuId": 1960291052,
+                            "AuN": "adriana belletti"
+                        }
+                    ],
+                    "doi": "10.1017/S0142716412000689",
+                    "journal": "applied psycholinguistics",
+                    "title": "relatives and passive object relatives in italian speaking children and adults intervention in production and comprehension",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2895300827,
+                    "author": [
+                        {
+                            "AuId": 1966707260,
+                            "AuN": "brian tomlinson"
+                        }
+                    ],
+                    "title": "language acquisition and development",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2480672680,
+                    "author": [
+                        {
+                            "AuId": 2141938113,
+                            "AuN": "richard s kayne"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780199740390.003.0007",
+                    "title": "why isn t this a complementizer",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2238291611,
+                    "author": [
+                        {
+                            "AuId": 2589860600,
+                            "AuN": "liliane haegeman"
+                        }
+                    ],
+                    "title": "argument fronting in english romance clld and the left periphery",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 189565971,
+                    "author": [
+                        {
+                            "AuId": 2635262640,
+                            "AuN": "marica de vincenzi"
+                        }
+                    ],
+                    "title": "syntactic parsing strategies in italian",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2154152810,
+                    "author": [
+                        {
+                            "AuId": 1993935744,
+                            "AuN": "peter svenonius"
+                        }
+                    ],
+                    "title": "subjects expletives and the epp",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 197642635,
+                    "author": [
+                        {
+                            "AuId": 2147869870,
+                            "AuN": "charles clifton"
+                        },
+                        {
+                            "AuId": 2099526763,
+                            "AuN": "lyn frazier"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-009-2729-2_8",
+                    "title": "comprehending sentences with long distance dependencies",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 1981715481,
+                    "author": [
+                        {
+                            "AuId": 2141844013,
+                            "AuN": "josef bayer"
+                        }
+                    ],
+                    "doi": "10.1515/TLIR.1984.3.3.209",
+                    "journal": "the linguistic review",
+                    "title": "comp in bavarian syntax",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 1966448419,
+                    "author": [
+                        {
+                            "AuId": 55838616,
+                            "AuN": "matthew walenski"
+                        },
+                        {
+                            "AuId": 1519922009,
+                            "AuN": "katiuscia sosta"
+                        },
+                        {
+                            "AuId": 2193000129,
+                            "AuN": "stefano f cappa"
+                        },
+                        {
+                            "AuId": 1246696896,
+                            "AuN": "michael t ullman"
+                        }
+                    ],
+                    "doi": "10.1016/J.NEUROPSYCHOLOGIA.2008.12.038",
+                    "journal": "neuropsychologia",
+                    "title": "deficits on irregular verbal morphology in italian speaking alzheimer s disease patients",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2061700814,
+                    "author": [
+                        {
+                            "AuId": 315384339,
+                            "AuN": "ur shlonsky"
+                        }
+                    ],
+                    "doi": "10.1515/TLIR.1994.11.3-4.351",
+                    "journal": "the linguistic review",
+                    "title": "agreement in comp",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 187570283,
+                    "author": [
+                        {
+                            "AuId": 854912369,
+                            "AuN": "brian macwhinney"
+                        }
+                    ],
+                    "title": "basic syntactic processes",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 2109209892,
+                    "author": [
+                        {
+                            "AuId": 2038521146,
+                            "AuN": "ulrich hans frauenfelder"
+                        },
+                        {
+                            "AuId": 2915733821,
+                            "AuN": "juan segui"
+                        },
+                        {
+                            "AuId": 1916644368,
+                            "AuN": "jacques mehler"
+                        }
+                    ],
+                    "doi": "10.1016/S0022-5371(80)90257-1",
+                    "journal": "journal of verbal learning and verbal behavior",
+                    "title": "monitoring around the relative clause",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 1985505725,
+                    "author": [
+                        {
+                            "AuId": 3117292220,
+                            "AuN": "de vincenzi m"
+                        }
+                    ],
+                    "doi": "10.1007/BF01708422",
+                    "journal": "journal of psycholinguistic research",
+                    "title": "syntactic analysis in sentence comprehension effects of dependency types and grammatical constraints",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2974752095,
+                    "author": [
+                        {
+                            "AuId": 1960291052,
+                            "AuN": "adriana belletti"
+                        },
+                        {
+                            "AuId": 2078799139,
+                            "AuN": "cristiano chesi"
+                        }
+                    ],
+                    "title": "relative clauses from the input syntactic considerations on a corpus based analysis of italian",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2335980763,
+                    "author": [
+                        {
+                            "AuId": 2730139970,
+                            "AuN": "michiyasu miyamae"
+                        }
+                    ],
+                    "title": "comparison and contrast",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 164155641,
+                    "author": [
+                        {
+                            "AuId": 1779359241,
+                            "AuN": "vittorio formentin"
+                        }
+                    ],
+                    "title": "flessione bicasuale del pronome relativo in antichi testi italiani centro meridionali",
+                    "year_mag": 1996
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2738000562,
+                    "author": [
+                        {
+                            "AuId": 2738400103,
+                            "AuN": "lena baunaz"
+                        },
+                        {
+                            "AuId": 2740435603,
+                            "AuN": "eric lander"
+                        }
+                    ],
+                    "doi": "10.1111/STUL.12076",
+                    "journal": "studia linguistica",
+                    "title": "syncretisms with the nominal complementizer",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "7"
+            },
+            "journal": "QUADERNI DI LAVORO ASIT",
+            "title": "subject object asymmetries in relative clauses an investigation into three new empirical domains ",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1120-2726"
+            ],
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "journal": "RIVISTA DI LINGUISTICA",
+            "title": "where is historical syntax going a review article of galves charlotte cyrino sonia lopes ruth sandalo filomena juanito avelar eds 2012 parameter theory and linguistic change oxford oxford university press ",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9780773400559"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "9"
+            },
+            "title": "thoughts on old and middle irish verbal nouns the type dp dovn ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1120-2726"
+            ],
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "journal": "RIVISTA DI LINGUISTICA",
+            "title": "syntax and morphology what can compounds tell us a review article of scalise sergio irene vogel eds 2010 cross disciplinary issues in compounding amsterdam philadelphia john benjamins publishing company ",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "0004-0207"
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "11"
+            },
+            "journal": "ARCHIVIO GLOTTOLOGICO ITALIANO",
+            "title": "hark participio il perfetto ittita ",
+            "type": "articolo in rivista",
+            "year": 2009
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2760091945,
+            "doi": "10.1515/9783110377088-022",
+            "title": "22 relative clauses",
+            "type": "4",
+            "year_mag": 2017
+        }
+    ]
+}

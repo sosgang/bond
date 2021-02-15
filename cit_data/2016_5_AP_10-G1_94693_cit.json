@@ -1,0 +1,1689 @@
+{
+    "AuIds": [
+        2099654004
+    ],
+    "fullname": [
+        "Pugliese",
+        "Rosa"
+    ],
+    "ind_anvur": [
+        8,
+        2,
+        0,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1121-5291"
+            ],
+            "PId": 3082286010,
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "journal": "LINGUA E NUOVA DIDATTICA",
+            "title": " il mio ragazzo e italiano b1 sulle competenze di scrittura formale degli studenti universitari lend",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-255-0034-9"
+            ],
+            "PId": 3049680844,
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "2"
+            },
+            "title": "la pluralita linguistica in classe come risorsa per le attivita riflessive esperienze didattiche nella scuola secondaria di i e ii grado",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-255-0349-4"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "3"
+            },
+            "title": "tradurre per la compagna di banco child language brokering e interazioni costruttive nella classe plurilingue",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9788867290444"
+            ],
+            "PId": 3080366372,
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "title": "come si impara una lingua straniera",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0163-853X"
+            ],
+            "PId": 2256078371,
+            "cited": [
+                {
+                    "PId": 2498260772,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        }
+                    ],
+                    "title": "sequence organization in interaction a primer in conversation analysis",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2162840157,
+                    "author": [
+                        {
+                            "AuId": 2030637823,
+                            "AuN": "anita pomerantz"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511665868.008",
+                    "title": "agreeing and disagreeing with assessments some features of preferred dispreferred turn shapes",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 1980298376,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        },
+                        {
+                            "AuId": 2153560426,
+                            "AuN": "gail jefferson"
+                        },
+                        {
+                            "AuId": 2121438367,
+                            "AuN": "harvey sacks"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.1977.0041",
+                    "journal": "language",
+                    "title": "the preference for self correction in the organization of repair in conversation",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 2068687198,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        },
+                        {
+                            "AuId": 2121438367,
+                            "AuN": "harvey sacks"
+                        }
+                    ],
+                    "doi": "10.1515/SEMI.1973.8.4.289",
+                    "journal": "semiotica",
+                    "title": "opening up closings",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2042834804,
+                    "author": [
+                        {
+                            "AuId": 2624760429,
+                            "AuN": "giovanni rossi"
+                        }
+                    ],
+                    "doi": "10.1080/0163853X.2012.684136",
+                    "journal": "discourse processes",
+                    "title": "bilateral and unilateral requests the use of imperatives and mi x interrogatives in italian",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2020483430,
+                    "author": [
+                        {
+                            "AuId": 2105956886,
+                            "AuN": "kobin h kendrick"
+                        },
+                        {
+                            "AuId": 2225079585,
+                            "AuN": "francisco torreira"
+                        }
+                    ],
+                    "doi": "10.1080/0163853X.2014.955997",
+                    "journal": "discourse processes",
+                    "title": "the timing and construction of preference a quantitative study",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2125846400,
+                    "author": [
+                        {
+                            "AuId": 2662960765,
+                            "AuN": "william f hanks"
+                        }
+                    ],
+                    "doi": "10.1086/427120",
+                    "journal": "current anthropology",
+                    "title": "explorations in the deictic field",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2478387074,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.33.14SCH",
+                    "title": "some practices for referring to persons in talk in interaction a partial sketch of a systematics",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2044818951,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        }
+                    ],
+                    "doi": "10.1525/AA.1968.70.6.02A00030",
+                    "journal": "american anthropologist",
+                    "title": "sequencing in conversational openings",
+                    "year_mag": 1968
+                },
+                {
+                    "PId": 2255987460,
+                    "author": [
+                        {
+                            "AuId": 2148511306,
+                            "AuN": "chase wesley raymond"
+                        }
+                    ],
+                    "doi": "10.1080/0163853X.2015.1056695",
+                    "journal": "discourse processes",
+                    "title": "are explicit apologies proportional to the offenses they address",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2051459059,
+                    "author": [
+                        {
+                            "AuId": 2112019758,
+                            "AuN": "jeffrey d robinson"
+                        }
+                    ],
+                    "doi": "10.1207/S15327973RLSI3703_2",
+                    "journal": "research on language and social interaction",
+                    "title": "the sequential organization of explicit apologies in naturally occurring english",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2070830293,
+                    "author": [
+                        {
+                            "AuId": 2126568706,
+                            "AuN": "wayne a beach"
+                        }
+                    ],
+                    "doi": "10.1016/0378-2166(93)90092-4",
+                    "journal": "journal of pragmatics",
+                    "title": "transitional regularities for casual okay usages",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2255730464,
+                    "author": [
+                        {
+                            "AuId": 2919579460,
+                            "AuN": "letizia cirillo"
+                        },
+                        {
+                            "AuId": 2138311034,
+                            "AuN": "isabel colon de carvajal"
+                        },
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        }
+                    ],
+                    "doi": "10.1080/0163853X.2015.1056691",
+                    "journal": "discourse processes",
+                    "title": "i m sorry naming the offense a format for apologizing",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2149430533,
+                    "author": [
+                        {
+                            "AuId": 2277989276,
+                            "AuN": "francis cornish"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2008.02.006",
+                    "journal": "journal of pragmatics",
+                    "title": "how indexicals function in texts discourse text and one neo gricean account of indexical reference",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2078579060,
+                    "author": [
+                        {
+                            "AuId": 234396832,
+                            "AuN": "celia kitzinger"
+                        },
+                        {
+                            "AuId": 2170585005,
+                            "AuN": "rebecca shaw"
+                        },
+                        {
+                            "AuId": 2031125182,
+                            "AuN": "merran toerien"
+                        }
+                    ],
+                    "doi": "10.1080/08351813.2012.673376",
+                    "journal": "research on language and social interaction",
+                    "title": "referring to persons without using a full form reference locally initial indexicals in action",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1968725393,
+                    "author": [
+                        {
+                            "AuId": 2479398295,
+                            "AuN": "melissa wright"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2010.09.004",
+                    "journal": "journal of pragmatics",
+                    "title": "the phonetics interaction interface in the initiation of closings in everyday english telephone calls",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1862903350,
+                    "author": [
+                        {
+                            "AuId": 2020800839,
+                            "AuN": "marilena fatigante"
+                        },
+                        {
+                            "AuId": 1320821064,
+                            "AuN": "federica biassoni"
+                        },
+                        {
+                            "AuId": 2514931294,
+                            "AuN": "francesca marazzini"
+                        },
+                        {
+                            "AuId": 2705966578,
+                            "AuN": "pierangela diadori"
+                        }
+                    ],
+                    "doi": "10.1080/0163853X.2015.1056696",
+                    "journal": "discourse processes",
+                    "title": "responsibility and culpability in apologies distinctive uses of sorry versus i m sorry in apologizing",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 1501191599,
+                    "author": [
+                        {
+                            "AuId": 2628851860,
+                            "AuN": "paul drew"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511665868.010",
+                    "title": "structures of social action speakers reportings in invitation sequences",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 171751414,
+                    "author": [
+                        {
+                            "AuId": 2671791853,
+                            "AuN": "k green"
+                        }
+                    ],
+                    "doi": "10.1016/B0-08-044854-2/00328-X",
+                    "title": "deixis and anaphora pragmatic approaches",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2026305327,
+                    "author": [
+                        {
+                            "AuId": 1797552527,
+                            "AuN": "yehoshua barhillel"
+                        }
+                    ],
+                    "doi": "10.1093/MIND/LXIII.251.359",
+                    "journal": "mind",
+                    "title": "v indexical expressions",
+                    "year_mag": 1954
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Schegloff",
+                            "given": "Emanuel A.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511791208",
+                    "title": "sequence organization in interaction",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Levinson",
+                            "given": "Stephen C.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511813313",
+                    "title": "pragmatics",
+                    "year_oc": 1983
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Drew",
+                            "given": "Paul",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Hepburn",
+                            "given": "Alexa",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1080/0163853X.2015.1056690",
+                    "title": "absent apologies",
+                    "year_oc": 2015
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Schegloff",
+                            "given": "Emanuel A.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Jefferson",
+                            "given": "Gail",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Sacks",
+                            "given": "Harvey",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/413107",
+                    "title": "the preference for self correction in the organization of repair in conversation",
+                    "year_oc": 1977
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2255987460,
+                    "author": [
+                        {
+                            "AuId": 2148511306,
+                            "AuN": "chase wesley raymond"
+                        }
+                    ],
+                    "doi": "10.1080/0163853X.2015.1056695",
+                    "journal": "discourse processes",
+                    "title": "are explicit apologies proportional to the offenses they address",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2255730464,
+                    "author": [
+                        {
+                            "AuId": 2919579460,
+                            "AuN": "letizia cirillo"
+                        },
+                        {
+                            "AuId": 2138311034,
+                            "AuN": "isabel colon de carvajal"
+                        },
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        }
+                    ],
+                    "doi": "10.1080/0163853X.2015.1056691",
+                    "journal": "discourse processes",
+                    "title": "i m sorry naming the offense a format for apologizing",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2914758241,
+                    "author": [
+                        {
+                            "AuId": 2148511306,
+                            "AuN": "chase wesley raymond"
+                        },
+                        {
+                            "AuId": 2234885905,
+                            "AuN": "paul drew"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2019.01.001",
+                    "journal": "discourse processes",
+                    "title": "constructing apologies reflexive relationships between apologies and offenses",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2765779298,
+                    "author": [
+                        {
+                            "AuId": 2018770362,
+                            "AuN": "caroline l rieger"
+                        }
+                    ],
+                    "doi": "10.1075/PRAG.27.4.04RIE",
+                    "journal": "discourse processes",
+                    "title": "i want a real apology a discursive pragmatics perspective on apologies",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2561998475,
+                    "author": [
+                        {
+                            "AuId": 101171032,
+                            "AuN": "ursula lutzky"
+                        },
+                        {
+                            "AuId": 2249194637,
+                            "AuN": "andrew kehoe"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2016.12.007",
+                    "journal": "discourse processes",
+                    "title": "oops i didn t mean to be so flippant a corpus pragmatic analysis of apologies in blog data",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2742224263,
+                    "author": [
+                        {
+                            "AuId": 2743146646,
+                            "AuN": "rose burfordrice"
+                        },
+                        {
+                            "AuId": 2002341877,
+                            "AuN": "martha augoustinos"
+                        }
+                    ],
+                    "doi": "10.1111/BJSO.12211",
+                    "journal": "discourse processes",
+                    "title": "i didn t mean that it was just a slip of the tongue racial slips and gaffes in the public arena",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1080/0163853X.2015.1056693",
+            "journal": "DISCOURSE PROCESSES",
+            "title": "i m sorry about that apologies indexicals and unnamed offenses",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-9765-715-6"
+            ],
+            "PId": 3086476289,
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "6"
+            },
+            "title": "interazioni narrate di una literacy in l2 mandorle amare tra letteratura e case study",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-548-8407-6"
+            ],
+            "PId": 3084071554,
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "7"
+            },
+            "title": " figurati tra i segnali discorsivi una prospettiva pedagogica",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "1769-7425"
+            ],
+            "PId": 3085989576,
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "journal": "GLOTTOPOL",
+            "title": "contraintes et tensions sociolinguistiques en italie pays d immigration",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9788878707221"
+            ],
+            "PId": 2921119585,
+            "cv_id": {
+                "pubbs": "7"
+            },
+            "doi": "10.1400/230688",
+            "title": "aspetti dell integrazione linguistica degli immigrati nel contesto urbano la percezione e l uso dei dialetti italiani ",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788842095224"
+            ],
+            "PId": 3099352330,
+            "cv_id": {
+                "pubbs": "8"
+            },
+            "title": "pragmatica dei numerali",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9788876673689"
+            ],
+            "cv_id": {
+                "pubbs": "9"
+            },
+            "title": " meccanismi di intensita in un dialogo tra operai italiani e bengalesi ",
+            "type": "contributo in atti di convegno",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "3484750294"
+            ],
+            "PId": 2495587648,
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "title": " constructing the other discursive processes in academic and social labelling ",
+            "type": "contributo in atti di convegno",
+            "year": 2005
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2039222807,
+            "cited": [
+                {
+                    "PId": 2170644967,
+                    "author": [
+                        {
+                            "AuId": 2102128815,
+                            "AuN": "david a kolb"
+                        }
+                    ],
+                    "title": "experiential learning experience as the source of learning and development",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2611924174,
+                    "author": [
+                        {
+                            "AuId": 2268691855,
+                            "AuN": "geert hofstede"
+                        },
+                        {
+                            "AuId": 2960331335,
+                            "AuN": "g j hofstede"
+                        },
+                        {
+                            "AuId": 2081436797,
+                            "AuN": "michael minkov"
+                        },
+                        {
+                            "AuId": 2610207171,
+                            "AuN": "mcgrawhill new"
+                        }
+                    ],
+                    "title": "cultures and organizations software of the mind 3rd ed",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 141196362,
+                    "author": [
+                        {
+                            "AuId": 2252277259,
+                            "AuN": "l s vygotsky"
+                        }
+                    ],
+                    "title": "mind in society",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 407991494,
+                    "author": [
+                        {
+                            "AuId": 2139759759,
+                            "AuN": "paul ten have"
+                        }
+                    ],
+                    "doi": "10.4135/9781849208895",
+                    "title": "doing conversation analysis",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2153190547,
+                    "author": [
+                        {
+                            "AuId": 2121438367,
+                            "AuN": "harvey sacks"
+                        },
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        },
+                        {
+                            "AuId": 2153560426,
+                            "AuN": "gail jefferson"
+                        }
+                    ],
+                    "doi": "10.2307/412243",
+                    "journal": "language",
+                    "title": "a simplest systematics for the organization of turn taking for conversation",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 644273409,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        }
+                    ],
+                    "title": "sequence organization in interaction",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2492129579,
+                    "author": [
+                        {
+                            "AuId": 2247664979,
+                            "AuN": "anthony j liddicoat"
+                        },
+                        {
+                            "AuId": 2011663961,
+                            "AuN": "angela scarino"
+                        }
+                    ],
+                    "doi": "10.1002/9781118482070",
+                    "title": "intercultural language teaching and learning liddicoat intercultural language teaching and learning",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1959712200,
+                    "author": [
+                        {
+                            "AuId": 281535982,
+                            "AuN": "paul seedhouse"
+                        }
+                    ],
+                    "title": "the interactional architecture of the language classroom a conversation analysis perspective",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1915595907,
+                    "author": [
+                        {
+                            "AuId": 2294971867,
+                            "AuN": "adrian holliday"
+                        }
+                    ],
+                    "title": "intercultural communication and ideology",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1694528682,
+                    "author": [
+                        {
+                            "AuId": 2147526943,
+                            "AuN": "ann l brown"
+                        },
+                        {
+                            "AuId": 116851593,
+                            "AuN": "joseph c campione"
+                        }
+                    ],
+                    "title": "guided discovery in a community of learners",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 344106167,
+                    "author": [
+                        {
+                            "AuId": 28486576,
+                            "AuN": "helen spenceroatey"
+                        }
+                    ],
+                    "title": "culturally speaking managing rapport through talk across cultures",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 568090317,
+                    "author": [
+                        {
+                            "AuId": 2247664979,
+                            "AuN": "anthony j liddicoat"
+                        },
+                        {
+                            "AuId": 2011663961,
+                            "AuN": "angela scarino"
+                        }
+                    ],
+                    "title": "intercultural language teaching and learning",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1513874694,
+                    "author": [
+                        {
+                            "AuId": 2499729920,
+                            "AuN": "j maxwell atkinson"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511665868",
+                    "title": "structures of social action studies in conversation analysis",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2104904739,
+                    "author": [
+                        {
+                            "AuId": 28486576,
+                            "AuN": "helen spenceroatey"
+                        },
+                        {
+                            "AuId": 2542764500,
+                            "AuN": "peter franklin"
+                        }
+                    ],
+                    "title": "intercultural interaction a multidisciplinary approach to intercultural communication",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2182639678,
+                    "author": [
+                        {
+                            "AuId": 2585316416,
+                            "AuN": "milton j bennett"
+                        }
+                    ],
+                    "title": "becoming interculturally competent",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1982414390,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        }
+                    ],
+                    "doi": "10.1086/230911",
+                    "journal": "american journal of sociology",
+                    "title": "confirming allusions toward an empirical account of action",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2068687198,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        },
+                        {
+                            "AuId": 2121438367,
+                            "AuN": "harvey sacks"
+                        }
+                    ],
+                    "doi": "10.1515/SEMI.1973.8.4.289",
+                    "journal": "semiotica",
+                    "title": "opening up closings",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 611027852,
+                    "author": [
+                        {
+                            "AuId": 2000792582,
+                            "AuN": "donal carbaugh"
+                        }
+                    ],
+                    "title": "cultures in conversation",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2078432208,
+                    "author": [
+                        {
+                            "AuId": 1985572867,
+                            "AuN": "ingrid piller"
+                        }
+                    ],
+                    "doi": "10.1111/J.1749-818X.2007.00012.X",
+                    "journal": "language and linguistics compass",
+                    "title": "linguistics and intercultural communication",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 567914034,
+                    "author": [
+                        {
+                            "AuId": 2053628524,
+                            "AuN": "michael byram"
+                        },
+                        {
+                            "AuId": 2137776240,
+                            "AuN": "martyn barrett"
+                        },
+                        {
+                            "AuId": 2422131500,
+                            "AuN": "ildiko lazar"
+                        },
+                        {
+                            "AuId": 2586339761,
+                            "AuN": "pascale mompoint gaillard"
+                        },
+                        {
+                            "AuId": 2011294795,
+                            "AuN": "stavroula philippou"
+                        }
+                    ],
+                    "title": "developing intercultural competence through education",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2465835632,
+                    "author": [
+                        {
+                            "AuId": 2160836375,
+                            "AuN": "adrienne lo"
+                        }
+                    ],
+                    "journal": "language in society",
+                    "title": "donal a carbaugh cultures in conversation mahwah nj lawrence erlbaum 2005",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2130496568,
+                    "author": [
+                        {
+                            "AuId": 2106501757,
+                            "AuN": "anne phillips"
+                        }
+                    ],
+                    "doi": "10.1080/1600910X.2010.9672755",
+                    "journal": "distinktion scandinavian journal of social theory",
+                    "title": "what s wrong with essentialism",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2055732100,
+                    "author": [
+                        {
+                            "AuId": 2676987040,
+                            "AuN": "junko mori"
+                        }
+                    ],
+                    "doi": "10.1207/S15327973RLSI3602_3",
+                    "journal": "research on language and social interaction",
+                    "title": "the construction of interculturality a study of initial encounters between japanese and american students",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2613948811,
+                    "author": [
+                        {
+                            "AuId": 2486205109,
+                            "AuN": "charles goodwin"
+                        },
+                        {
+                            "AuId": 2115990098,
+                            "AuN": "marjorie harness goodwin"
+                        }
+                    ],
+                    "title": "assessments and the construction of context",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2038062055,
+                    "author": [
+                        {
+                            "AuId": 467622467,
+                            "AuN": "jean piaget"
+                        }
+                    ],
+                    "title": "the development of thought equilibration of cognitive structures",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 3087744720,
+                    "author": [
+                        {
+                            "AuId": 2146231763,
+                            "AuN": "ana beaven"
+                        },
+                        {
+                            "AuId": 2493010438,
+                            "AuN": "claudia borghetti"
+                        }
+                    ],
+                    "title": "ierest public progress report",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1965950170,
+                    "author": [
+                        {
+                            "AuId": 2113565303,
+                            "AuN": "t j young"
+                        },
+                        {
+                            "AuId": 696644601,
+                            "AuN": "peter sercombe"
+                        }
+                    ],
+                    "doi": "10.1080/14708470903348523",
+                    "journal": "language and intercultural communication",
+                    "title": "communication discourses and interculturality",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2488850086,
+                    "author": [
+                        {
+                            "AuId": 2191477299,
+                            "AuN": "deborah cole"
+                        },
+                        {
+                            "AuId": 2100769730,
+                            "AuN": "bryan meadows"
+                        }
+                    ],
+                    "doi": "10.1075/LLLT.33.03COL",
+                    "title": "avoiding the essentialist trap in intercultural education using critical discourse analysis to read nationalist ideologies in the language classroom",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2047167889,
+                    "author": [
+                        {
+                            "AuId": 2493010438,
+                            "AuN": "claudia borghetti"
+                        }
+                    ],
+                    "doi": "10.1080/09571736.2013.836344",
+                    "journal": "language learning journal",
+                    "title": "integrating intercultural and communicative objectives in the foreign language class a proposal for the integration of two models",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2466423490,
+                    "author": [
+                        {
+                            "AuId": 1855902983,
+                            "AuN": "lesley harbon"
+                        },
+                        {
+                            "AuId": 2340586256,
+                            "AuN": "robyn moloney"
+                        }
+                    ],
+                    "title": "language teachers and learners interpreting the world identifying intercultural development in language classroom discourse",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2592098482,
+                    "author": [
+                        {
+                            "AuId": 2636049777,
+                            "AuN": "jeanfrancois de pietro"
+                        },
+                        {
+                            "AuId": 2023647061,
+                            "AuN": "marinette matthey"
+                        },
+                        {
+                            "AuId": 2594320411,
+                            "AuN": "bernard py"
+                        }
+                    ],
+                    "title": "acquisition et contrat didactique les sequences potentiellement acquisitionnelles dans la conversation exolingue",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2207281718,
+                    "author": [
+                        {
+                            "AuId": 2918403267,
+                            "AuN": "yanyan wang"
+                        },
+                        {
+                            "AuId": 1994090485,
+                            "AuN": "johanna rendleshort"
+                        }
+                    ],
+                    "title": "making the invisible visible a conversation analytic approach to intercultural teaching and learning in the chinese mandarin language classroom",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2737770421,
+                    "author": [
+                        {
+                            "AuId": 2147727418,
+                            "AuN": "dennis day"
+                        },
+                        {
+                            "AuId": 2250218034,
+                            "AuN": "susanne kjaerbeck"
+                        }
+                    ],
+                    "title": "educational practices in the international university language as a resource for intercultural distinction in a project group meeting",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2486132604,
+                    "author": [
+                        {
+                            "AuId": 43711744,
+                            "AuN": "franca orletti"
+                        }
+                    ],
+                    "title": "the conversational construction of social identity in native non native interaction",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 172985391,
+                    "author": [
+                        {
+                            "AuId": 2620345509,
+                            "AuN": "christine bozier"
+                        }
+                    ],
+                    "title": "la sollicitation dans l interaction exolingue en francais",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 3120619210,
+                    "author": [
+                        {
+                            "AuId": 3120517441,
+                            "AuN": "rosa pugliese"
+                        }
+                    ],
+                    "title": "meccanismi di intensita in un dialogo tra operai italiani e bengalesi",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2014266033,
+                    "author": [
+                        {
+                            "AuId": 2660632207,
+                            "AuN": "gisele holtzer"
+                        }
+                    ],
+                    "doi": "10.1080/07908310208666647",
+                    "journal": "language culture and curriculum",
+                    "title": "learning culture by communicating native non native speaker telephone interactions",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 236430873,
+                    "author": [
+                        {
+                            "AuId": 2661200812,
+                            "AuN": "bernard py"
+                        }
+                    ],
+                    "doi": "10.4000/CEDISCOR.402",
+                    "title": "les donnees et leur role dans l acquisition d une langue non maternelle",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 164440699,
+                    "author": [
+                        {
+                            "AuId": 2691642662,
+                            "AuN": "marinette matthey"
+                        }
+                    ],
+                    "title": "apprentissage d une langue et interaction verbale sollicitation transmission et construction de connaissances linguistiques en situation exolingue language learning and verbal interaction appeal transmission and construction of linguistic knowledge in a foreign language situation",
+                    "year_mag": 1996
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Spencer-Oatey",
+                            "given": "Helen",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Franklin",
+                            "given": "Peter",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1057/9780230244511",
+                    "title": "intercultural interaction",
+                    "year_oc": 2009
+                },
+                {
+                    "doi": "10.1086/AJS.1996.102.ISSUE-1",
+                    "year_oc": 1996
+                },
+                {
+                    "doi": "10.1111/LNCO.2007.1.ISSUE-3",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Day",
+                            "given": "D.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Kj\u00e6rbeck",
+                            "given": "S.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.21832/9781847694157-009",
+                    "title": "chapter 6 educational practices in the international university language as a resource for intercultural distinction in a project group meeting",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Holtzer",
+                            "given": "Gis\u00e8le",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.21832/9781853596728-005",
+                    "title": "learning culture by communicating native non native speaker telephone interactions",
+                    "year_oc": 2003
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2282438080,
+                    "author": [
+                        {
+                            "AuId": 2252248666,
+                            "AuN": "will baker"
+                        }
+                    ],
+                    "doi": "10.1080/14708477.2016.1168053",
+                    "journal": "language and intercultural communication",
+                    "title": "english as an academic lingua franca and intercultural awareness student mobility in the transcultural university",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2572884884,
+                    "author": [
+                        {
+                            "AuId": 2117479628,
+                            "AuN": "peta salter"
+                        },
+                        {
+                            "AuId": 2130492514,
+                            "AuN": "kelsey halbert"
+                        }
+                    ],
+                    "doi": "10.1080/14767724.2016.1264290",
+                    "journal": "language and intercultural communication",
+                    "title": "constructing the parochial global citizen",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2406470603,
+                    "author": [
+                        {
+                            "AuId": 2606634516,
+                            "AuN": "ramiro duran martinez"
+                        },
+                        {
+                            "AuId": 2663126005,
+                            "AuN": "gloria gutierrez"
+                        },
+                        {
+                            "AuId": 1953206985,
+                            "AuN": "fernando beltran llavador"
+                        },
+                        {
+                            "AuId": 2123919290,
+                            "AuN": "fernando martinez abad"
+                        }
+                    ],
+                    "doi": "10.1080/17475759.2016.1186721",
+                    "journal": "language and intercultural communication",
+                    "title": "the impact of an erasmus placement in students perception of their intercultural communicative competence",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2922568006,
+                    "author": [
+                        {
+                            "AuId": 2765175764,
+                            "AuN": "marietherese batardiere"
+                        },
+                        {
+                            "AuId": 2808528335,
+                            "AuN": "marta giralt"
+                        },
+                        {
+                            "AuId": 2421998256,
+                            "AuN": "catherine jeanneau"
+                        },
+                        {
+                            "AuId": 2924495074,
+                            "AuN": "florence lebaronearle"
+                        },
+                        {
+                            "AuId": 1084761520,
+                            "AuN": "veronica oregan"
+                        }
+                    ],
+                    "doi": "10.14705/RPNET.2019.JVE.4",
+                    "journal": "language and intercultural communication",
+                    "title": "promoting intercultural awareness among european university students via pre mobility virtual exchanges",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2767775076,
+                    "author": [
+                        {
+                            "AuId": 2583433881,
+                            "AuN": "perake rosvall"
+                        }
+                    ],
+                    "doi": "10.1080/14675986.2017.1392680",
+                    "journal": "language and intercultural communication",
+                    "title": "understanding career development amongst immigrant youth in a rural place",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2904815396,
+                    "author": [
+                        {
+                            "AuId": 316453215,
+                            "AuN": "lorena georgiadou"
+                        },
+                        {
+                            "AuId": 2135894087,
+                            "AuN": "alette willis"
+                        },
+                        {
+                            "AuId": 2796952739,
+                            "AuN": "john harries"
+                        },
+                        {
+                            "AuId": 2401110071,
+                            "AuN": "johanna holtan"
+                        }
+                    ],
+                    "journal": "language and intercultural communication",
+                    "title": "opening up a third space a pilot project to support and engage undergraduate exchange students",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2522850631,
+                    "author": [
+                        {
+                            "AuId": 2510654050,
+                            "AuN": "jan van maele"
+                        },
+                        {
+                            "AuId": 2189749305,
+                            "AuN": "basil vassilicos"
+                        }
+                    ],
+                    "journal": "language and intercultural communication",
+                    "title": "making way for the intercultural in engineering education new spaces for embracing the tensions",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2747644098,
+                    "author": [
+                        {
+                            "AuId": 1964174028,
+                            "AuN": "gloria gutierrez almarza"
+                        },
+                        {
+                            "AuId": 2606634516,
+                            "AuN": "ramiro duran martinez"
+                        },
+                        {
+                            "AuId": 1953206985,
+                            "AuN": "fernando beltran llavador"
+                        }
+                    ],
+                    "doi": "10.18172/JES.3291",
+                    "journal": "language and intercultural communication",
+                    "title": "approaching erasmus students intercultural communicative competence through their socialisation patterns",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2802520901,
+                    "author": [
+                        {
+                            "AuId": 1976563840,
+                            "AuN": "juan jose leiva olivencia"
+                        }
+                    ],
+                    "doi": "10.12795/ANDULI.2017.I16.02",
+                    "journal": "language and intercultural communication",
+                    "title": "la interculturalidad como respuesta preventiva del fracaso escolar en contextos de riesgo",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2555678265,
+                    "author": [
+                        {
+                            "AuId": 2808528335,
+                            "AuN": "marta giralt"
+                        },
+                        {
+                            "AuId": 2421998256,
+                            "AuN": "catherine jeanneau"
+                        }
+                    ],
+                    "journal": "language and intercultural communication",
+                    "title": "preparing student mobility through telecollaboration",
+                    "year_mag": 2016
+                },
+                {
+                    "author": [
+                        {
+                            "ORCID": "http://orcid.org/0000-0001-9391-1353",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "T\u016fma",
+                            "given": "Franti\u0161ek",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Nepivodov\u00e1",
+                            "given": "Linda",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Fo\u0159tov\u00e1",
+                            "given": "Nicola",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.14712/23363177.2019.12",
+                    "title": "vyzkum interakce mezi spoluzaky prehled konverzacneanalytickych studii",
+                    "year_oc": 2019
+                }
+            ],
+            "doi": "10.1080/14675986.2015.993515",
+            "journal": "intercultural education",
+            "title": "interactions among future study abroad students exploring potential intercultural learning sequences",
+            "type": "1",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2797515974,
+            "citing": [
+                {
+                    "PId": 12411054,
+                    "author": [
+                        {
+                            "AuId": 2567711404,
+                            "AuN": "daniele corradi"
+                        }
+                    ],
+                    "doi": "10.13130/2037-3597/2820",
+                    "journal": "italiano linguadue",
+                    "title": "il parlato dell insegnante nella classe di lingua",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2056659384,
+                    "author": [
+                        {
+                            "AuId": 2049193274,
+                            "AuN": "claudio baraldi"
+                        }
+                    ],
+                    "doi": "10.1177/0011392109354245",
+                    "journal": "italiano linguadue",
+                    "title": "children s citizenships limitations and possibilities of childhood sociology in italy",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2289205789,
+                    "author": [
+                        {
+                            "AuId": 2289721364,
+                            "AuN": "anna ciliberti"
+                        }
+                    ],
+                    "journal": "italiano linguadue",
+                    "title": "la nozione di competenza nella pedagogia linguistica dalla competenza linguistica alla competenza comunicativa interculturale 1",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2002484841,
+                    "author": [
+                        {
+                            "AuId": 2049193274,
+                            "AuN": "claudio baraldi"
+                        },
+                        {
+                            "AuId": 2143794225,
+                            "AuN": "elisa rossi"
+                        }
+                    ],
+                    "doi": "10.1080/03323315.2011.569083",
+                    "journal": "italiano linguadue",
+                    "title": "promotion of participation and mediation in multicultural classrooms",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2291834687,
+                    "author": [
+                        {
+                            "AuId": 2796471250,
+                            "AuN": "daria carmina coppola"
+                        }
+                    ],
+                    "journal": "italiano linguadue",
+                    "title": "dall approccio comunicativo all approccio dialogico una nuova prospettiva per l insegnamento apprendimento linguistico",
+                    "year_mag": 2009
+                }
+            ],
+            "title": "le lingue in classe discorso apprendimento socializzazione",
+            "type": "0",
+            "year_mag": 2003
+        },
+        {
+            "PId": 3088717270,
+            "citing": [
+                {
+                    "PId": 2227545287,
+                    "author": [
+                        {
+                            "AuId": 2705772885,
+                            "AuN": "giuliana fiorentino"
+                        }
+                    ],
+                    "doi": "10.5209/REV_CFIT.2015.V22.50961",
+                    "title": "aspetti problematici del discorso accademico un analisi dei riassunti delle tesi di laurea",
+                    "year_mag": 2015
+                }
+            ],
+            "title": "manuale di scrittura",
+            "type": "5",
+            "year_mag": 2006
+        },
+        {
+            "PId": 655865461,
+            "citing": [
+                {
+                    "PId": 2290859942,
+                    "author": [
+                        {
+                            "AuId": 2206933411,
+                            "AuN": "barbara jaworski"
+                        },
+                        {
+                            "AuId": 2958688353,
+                            "AuN": "maria g bartolini bussi"
+                        },
+                        {
+                            "AuId": 1714846615,
+                            "AuN": "susanne prediger"
+                        },
+                        {
+                            "AuId": 1872145676,
+                            "AuN": "edyta nowinska"
+                        }
+                    ],
+                    "title": "cultural contexts for european research and design practices in mathematics education",
+                    "year_mag": 2016
+                }
+            ],
+            "title": "numeri per parlare da quattro chiacchiere a grazie mille",
+            "type": "5",
+            "year_mag": 2011
+        },
+        {
+            "PId": 2923315646,
+            "title": "lifelong intercultural learning alliance for change lilac",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 3092816631,
+            "title": "l input linguistico nel continuum delle situazioni didattiche rivolte ad immigrati adulti apprendenti di italiano l2",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2896726073,
+            "title": "quale didattica per l italiano l2 nelle classi di volontariato risultati di una ricerca azione su lingua e cultura",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 3083486120,
+            "title": "lingua cultura cittadinanza prospettive internazionali per l educazione linguistica",
+            "type": "0",
+            "year_mag": 2009
+        },
+        {
+            "PId": 3044813457,
+            "title": "lingua cultura cittadinanza per la classe di italiano lingua seconda",
+            "type": "0",
+            "year_mag": 2009
+        },
+        {
+            "PId": 3084170531,
+            "title": "numeri parole significati",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2804561955,
+            "title": "classe multietnica o internazionale categorizzazioni e educazione linguistica",
+            "type": "4",
+            "year_mag": 2018
+        },
+        {
+            "PId": 936998104,
+            "title": "attivita riflessive e apprendimento",
+            "type": "0",
+            "year_mag": 2005
+        },
+        {
+            "PId": 2554192258,
+            "doi": "10.1400/195006",
+            "title": "tradurre numeri come quantita indeterminata",
+            "type": "0",
+            "year_mag": 2011
+        },
+        {
+            "PId": 3089137998,
+            "title": "talk show intervista e faccia a faccia il discorso politico pre elettorale",
+            "type": "4",
+            "year_mag": 2008
+        },
+        {
+            "PId": 3089664044,
+            "title": "la comunicazione interculturale nei luoghi di lavoro",
+            "type": "4",
+            "year_mag": 2007
+        },
+        {
+            "PId": 2802324131,
+            "title": "attivita riflessive e apprendimento in classe",
+            "type": "0",
+            "year_mag": 2005
+        },
+        {
+            "PId": 2792693544,
+            "title": "metacomunicazione e apprendimento in classi multilingue",
+            "type": "0",
+            "year_mag": 2005
+        },
+        {
+            "PId": 3084000326,
+            "title": "manuale di scrittura on line",
+            "type": "5",
+            "year_mag": 2006
+        },
+        {
+            "PId": 2799783215,
+            "title": "studiare in l2 e valorizzare le l1 introduzione al seminario",
+            "type": "0",
+            "year_mag": 2005
+        }
+    ]
+}

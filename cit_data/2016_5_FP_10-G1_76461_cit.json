@@ -1,0 +1,2461 @@
+{
+    "AuIds": [
+        2777624643,
+        2159924583,
+        2776210188,
+        2891670356,
+        2947431386,
+        2776871806
+    ],
+    "fullname": [
+        "Giuliano",
+        "Patrizia"
+    ],
+    "ind_anvur": [
+        17,
+        8,
+        2,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1974-2886"
+            ],
+            "PId": 2966224447,
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.14273/UNISA-1629",
+            "journal": "TESTI E LINGUAGGI",
+            "title": "assertive strategies in english and spanish a new contribution to the debate on assertion in romance and germanic languages",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-9765-714-9"
+            ],
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "title": "fenomeni di riformulazione nell interazione apprendenti immigrati dell italiano l2 e parlanti nativi dell italiano l1 a confronto",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "979-10-91460-32-3"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "3"
+            },
+            "title": "recits biographiques et recits fictifs en italien l2 une analyse des formes verbales au passe",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1615-3014"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "4"
+            },
+            "journal": "LINGUISTIK ONLINE",
+            "title": "how children add or restrict entities and temporal spans in narrations analysis of texts by italian and english native children from 4 to 10 years old",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788897657071"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "5"
+            },
+            "title": "l organizzazione del quadro spaziale in testi prodotti da adolescenti svantaggiati carenze espressive e didattica del testo",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788897657057"
+            ],
+            "cited_raw": {
+                "@position": "1",
+                "rawText": {
+                    "$": "(a cura di), (2003), Verso l8Italiano. Percorsi e strategie di acquisizio-"
+                }
+            },
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "title": "passato remoto passato prossimo e imperfetto uso biografico e fittizio delle forme al passato nelle interlingue di immigrati di area partenopea",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788854868175"
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "title": "la competenza narrativo testuale degli adolescenti soggetti emarginati e soggetti privilegiati",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788891710468"
+            ],
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "title": "l uso dei marcatori discorsivi come segnale di integrazione linguistica e sociale",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1594-6517"
+            ],
+            "PId": 2116585429,
+            "cited": [
+                {
+                    "PId": 2064115476,
+                    "author": [
+                        {
+                            "AuId": 2125337108,
+                            "AuN": "michael tomasello"
+                        }
+                    ],
+                    "doi": "10.1016/S0010-0277(99)00069-4",
+                    "journal": "cognition",
+                    "title": "do young children have adult syntactic competence",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2094249282,
+                    "author": [
+                        {
+                            "AuId": 600317853,
+                            "AuN": "steven pinker"
+                        }
+                    ],
+                    "title": "language learnability and language development",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 1565604283,
+                    "author": [
+                        {
+                            "AuId": 1585604266,
+                            "AuN": "maria teresa guasti"
+                        }
+                    ],
+                    "title": "language acquisition the growth of grammar",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2069020788,
+                    "author": [
+                        {
+                            "AuId": 3081352182,
+                            "AuN": "t givon"
+                        }
+                    ],
+                    "title": "functionalism and grammar",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2097047235,
+                    "author": [
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        }
+                    ],
+                    "title": "language and thought online cognitive consequences of linguistic relativity",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2158714449,
+                    "author": [
+                        {
+                            "AuId": 1776210903,
+                            "AuN": "christine dimroth"
+                        },
+                        {
+                            "AuId": 1776210903,
+                            "AuN": "christine dimroth"
+                        },
+                        {
+                            "AuId": 1896192373,
+                            "AuN": "c andorno"
+                        },
+                        {
+                            "AuId": 127354342,
+                            "AuN": "sandra benazzo"
+                        },
+                        {
+                            "AuId": 2179896643,
+                            "AuN": "josje verhagen"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2010.05.009",
+                    "journal": "journal of pragmatics",
+                    "title": "given claims about new topics how romance and germanic speakers link changed and maintained information in narrative discourse",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1595619794,
+                    "author": [
+                        {
+                            "AuId": 2053965317,
+                            "AuN": "melissa bowerman"
+                        }
+                    ],
+                    "title": "the origins of children s spatial semantic categories cognitive vs linguistic determinants",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2169018107,
+                    "author": [
+                        {
+                            "AuId": 2168059132,
+                            "AuN": "soonja choi"
+                        },
+                        {
+                            "AuId": 2101453395,
+                            "AuN": "laraine mcdonough"
+                        },
+                        {
+                            "AuId": 2053965317,
+                            "AuN": "melissa bowerman"
+                        },
+                        {
+                            "AuId": 1965284051,
+                            "AuN": "jean m mandler"
+                        }
+                    ],
+                    "doi": "10.1016/S0885-2014(99)00004-0",
+                    "journal": "cognitive development",
+                    "title": "early sensitivity to language specific spatial categories in english and korean",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2331909703,
+                    "author": [
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        }
+                    ],
+                    "doi": "10.1075/PRAG.1.1.01SLO",
+                    "journal": "pragmatics",
+                    "title": "learning to think for speaking native language cognition and rhetorical style",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2079611736,
+                    "author": [
+                        {
+                            "AuId": 2096763462,
+                            "AuN": "carla umbach"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/21.2.155",
+                    "journal": "journal of semantics",
+                    "title": "on the notion of contrast in information structure and discourse structure",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2112592517,
+                    "author": [
+                        {
+                            "AuId": 2408303537,
+                            "AuN": "maya hickmann"
+                        },
+                        {
+                            "AuId": 2123380424,
+                            "AuN": "henriette hendriks"
+                        },
+                        {
+                            "AuId": 2082704452,
+                            "AuN": "francoise roland"
+                        },
+                        {
+                            "AuId": 2157942806,
+                            "AuN": "james liang"
+                        }
+                    ],
+                    "doi": "10.1017/S0305000900008965",
+                    "journal": "journal of child language",
+                    "title": "the marking of new information in children s narratives a comparison of english french german and mandarin chinese",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 1982806898,
+                    "author": [
+                        {
+                            "AuId": 2408303537,
+                            "AuN": "maya hickmann"
+                        },
+                        {
+                            "AuId": 2123380424,
+                            "AuN": "henriette hendriks"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.2010.007",
+                    "journal": "cognitive linguistics",
+                    "title": "typological constraints on the acquisition of spatial language in french and english",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2074519050,
+                    "author": [
+                        {
+                            "AuId": 127354342,
+                            "AuN": "sandra benazzo"
+                        },
+                        {
+                            "AuId": 1776210903,
+                            "AuN": "christine dimroth"
+                        },
+                        {
+                            "AuId": 1903531363,
+                            "AuN": "clive perdue"
+                        },
+                        {
+                            "AuId": 927164616,
+                            "AuN": "marzena watorek"
+                        }
+                    ],
+                    "doi": "10.3406/LGGE.2004.957",
+                    "journal": "langages",
+                    "title": "le role des particules additives dans la construction de la cohesion discursive en langue maternelle et en langue etrangere",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2102550189,
+                    "author": [
+                        {
+                            "AuId": 2123380424,
+                            "AuN": "henriette hendriks"
+                        }
+                    ],
+                    "doi": "10.1017/S0272263100003041",
+                    "journal": "studies in second language acquisition",
+                    "title": "the acquisition of topic marking in l1 chinese and l1 and l2 french",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2492494454,
+                    "author": [
+                        {
+                            "AuId": 1930319363,
+                            "AuN": "caroline fery"
+                        }
+                    ],
+                    "doi": "10.1515/9783050080116.153",
+                    "title": "focus and phrasing in french",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1558488872,
+                    "author": [
+                        {
+                            "AuId": 1895822251,
+                            "AuN": "christiane von stutterheim"
+                        },
+                        {
+                            "AuId": 2164998882,
+                            "AuN": "wolfgang klein"
+                        }
+                    ],
+                    "doi": "10.1016/B978-0-444-87144-2.50005-7",
+                    "title": "referential movement in descriptive and narrative discourse",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 200729110,
+                    "author": [
+                        {
+                            "AuId": 2282958538,
+                            "AuN": "cinzia avesani"
+                        },
+                        {
+                            "AuId": 1710737983,
+                            "AuN": "mario vayra"
+                        }
+                    ],
+                    "title": "broad narrow and contrastive focus in florentine italian",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2900979681,
+                    "author": [
+                        {
+                            "AuId": 2901810193,
+                            "AuN": "patrizia giuliano"
+                        }
+                    ],
+                    "doi": "10.21832/9781847696045-021",
+                    "title": "19 discourse cohesion in narrative texts the role of additive means in italian l1 and l2",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2610535443,
+                    "author": [
+                        {
+                            "AuId": 1896192373,
+                            "AuN": "c andorno"
+                        },
+                        {
+                            "AuId": 2639708407,
+                            "AuN": "grazia interlandi"
+                        }
+                    ],
+                    "title": "topics positional and prosodic features of subjects in additive sentences in italian l1",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1502888298,
+                    "author": [
+                        {
+                            "AuId": 2164998882,
+                            "AuN": "wolfgang klein"
+                        },
+                        {
+                            "AuId": 1895822251,
+                            "AuN": "christiane von stutterheim"
+                        }
+                    ],
+                    "title": "text structure and referential movement",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2081575449,
+                    "author": [
+                        {
+                            "AuId": 2776210188,
+                            "AuN": "patrizia giuliano"
+                        }
+                    ],
+                    "doi": "10.1075/EUROSLA.12.04GIU",
+                    "journal": "eurosla yearbook",
+                    "title": "contrasted and maintained information in a narrative task analysis of texts in english and italian as l1s and l2s",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1615951593,
+                    "author": [
+                        {
+                            "AuId": 2159924583,
+                            "AuN": "patrizia giuliano"
+                        },
+                        {
+                            "AuId": 2014321089,
+                            "AuN": "luca di maio"
+                        }
+                    ],
+                    "doi": "10.6092/LEF_25_P125",
+                    "journal": "linguistica e filologia",
+                    "title": "abilita descrittiva e coesione testuale in l1 e l2 lingue romanze e lingue germaniche a confronto",
+                    "year_mag": 2007
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 1916921127,
+                    "author": [
+                        {
+                            "AuId": 2777708826,
+                            "AuN": "patrizia giuliano"
+                        }
+                    ],
+                    "doi": "10.13092/LO.71.1779",
+                    "title": "how children add or restrict entities and temporal spans in narrations evidence from italian and english native children",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "9"
+            },
+            "doi": "10.6092/LEF_32_P7",
+            "journal": "LINGUISTICA E FILOLOGIA",
+            "title": "the construction of textual cohesion in narrative texts evidence from different tasks by italian children from 4 to 10 years old",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1568-1491"
+            ],
+            "PId": 2081575449,
+            "cited": [
+                {
+                    "PId": 2097047235,
+                    "author": [
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        }
+                    ],
+                    "title": "language and thought online cognitive consequences of linguistic relativity",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2158714449,
+                    "author": [
+                        {
+                            "AuId": 1776210903,
+                            "AuN": "christine dimroth"
+                        },
+                        {
+                            "AuId": 1776210903,
+                            "AuN": "christine dimroth"
+                        },
+                        {
+                            "AuId": 1896192373,
+                            "AuN": "c andorno"
+                        },
+                        {
+                            "AuId": 127354342,
+                            "AuN": "sandra benazzo"
+                        },
+                        {
+                            "AuId": 2179896643,
+                            "AuN": "josje verhagen"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2010.05.009",
+                    "journal": "journal of pragmatics",
+                    "title": "given claims about new topics how romance and germanic speakers link changed and maintained information in narrative discourse",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 63103811,
+                    "author": [
+                        {
+                            "AuId": 2490637491,
+                            "AuN": "tilman n hohle"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-663-12176-3_5",
+                    "title": "uber verum fokus im deutschen",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2331909703,
+                    "author": [
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        }
+                    ],
+                    "doi": "10.1075/PRAG.1.1.01SLO",
+                    "journal": "pragmatics",
+                    "title": "learning to think for speaking native language cognition and rhetorical style",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2079611736,
+                    "author": [
+                        {
+                            "AuId": 2096763462,
+                            "AuN": "carla umbach"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/21.2.155",
+                    "journal": "journal of semantics",
+                    "title": "on the notion of contrast in information structure and discourse structure",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1976413017,
+                    "author": [
+                        {
+                            "AuId": 2239366513,
+                            "AuN": "mary carroll"
+                        },
+                        {
+                            "AuId": 2691265973,
+                            "AuN": "jorge murciaserra"
+                        },
+                        {
+                            "AuId": 927164616,
+                            "AuN": "marzena watorek"
+                        },
+                        {
+                            "AuId": 1595324780,
+                            "AuN": "alessandra bendiscioli"
+                        }
+                    ],
+                    "doi": "10.1017/S0272263100003065",
+                    "journal": "studies in second language acquisition",
+                    "title": "the relevance of information organization to second language acquisition studies the descriptive discourse of advanced adult learners of german",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2079644493,
+                    "author": [
+                        {
+                            "AuId": 127354342,
+                            "AuN": "sandra benazzo"
+                        },
+                        {
+                            "AuId": 1896192373,
+                            "AuN": "c andorno"
+                        }
+                    ],
+                    "doi": "10.1075/EUROSLA.10.07BEN",
+                    "journal": "eurosla yearbook",
+                    "title": "discourse cohesion and topic discontinuity in native and learner production changing topic entities on maintained predicates",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2505047130,
+                    "author": [
+                        {
+                            "AuId": 2239366513,
+                            "AuN": "mary carroll"
+                        },
+                        {
+                            "AuId": 1895822251,
+                            "AuN": "christiane von stutterheim"
+                        }
+                    ],
+                    "doi": "10.1515/9783110891249.365",
+                    "title": "typology and information organisation perspective taking and language specific effects in the construal of events",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2492494454,
+                    "author": [
+                        {
+                            "AuId": 1930319363,
+                            "AuN": "caroline fery"
+                        }
+                    ],
+                    "doi": "10.1515/9783050080116.153",
+                    "title": "focus and phrasing in french",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1558488872,
+                    "author": [
+                        {
+                            "AuId": 1895822251,
+                            "AuN": "christiane von stutterheim"
+                        },
+                        {
+                            "AuId": 2164998882,
+                            "AuN": "wolfgang klein"
+                        }
+                    ],
+                    "doi": "10.1016/B978-0-444-87144-2.50005-7",
+                    "title": "referential movement in descriptive and narrative discourse",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 200729110,
+                    "author": [
+                        {
+                            "AuId": 2282958538,
+                            "AuN": "cinzia avesani"
+                        },
+                        {
+                            "AuId": 1710737983,
+                            "AuN": "mario vayra"
+                        }
+                    ],
+                    "title": "broad narrow and contrastive focus in florentine italian",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1502888298,
+                    "author": [
+                        {
+                            "AuId": 2164998882,
+                            "AuN": "wolfgang klein"
+                        },
+                        {
+                            "AuId": 1895822251,
+                            "AuN": "christiane von stutterheim"
+                        }
+                    ],
+                    "title": "text structure and referential movement",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 405954418,
+                    "author": [
+                        {
+                            "AuId": 127354342,
+                            "AuN": "sandra benazzo"
+                        }
+                    ],
+                    "title": "l acquisition de particules de portee en francais anglais et allemand l2",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 599956251,
+                    "author": [
+                        {
+                            "AuId": 2019919120,
+                            "AuN": "patrizia giuliano"
+                        }
+                    ],
+                    "title": "la negation linguistique dans l acquisition d une langue etrangere un debat conclu",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2476827252,
+                    "author": [
+                        {
+                            "AuId": 2535344044,
+                            "AuN": "sandra benazzo"
+                        }
+                    ],
+                    "doi": "10.1075/SIBIL.26.09BEN",
+                    "title": "the interaction between the development of verb morphology and the acquisition of temporal adverbs of contrast a longitudinal study in french english and german l2",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1615951593,
+                    "author": [
+                        {
+                            "AuId": 2159924583,
+                            "AuN": "patrizia giuliano"
+                        },
+                        {
+                            "AuId": 2014321089,
+                            "AuN": "luca di maio"
+                        }
+                    ],
+                    "doi": "10.6092/LEF_25_P125",
+                    "journal": "linguistica e filologia",
+                    "title": "abilita descrittiva e coesione testuale in l1 e l2 lingue romanze e lingue germaniche a confronto",
+                    "year_mag": 2007
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 1916921127,
+                    "author": [
+                        {
+                            "AuId": 2777708826,
+                            "AuN": "patrizia giuliano"
+                        }
+                    ],
+                    "doi": "10.13092/LO.71.1779",
+                    "title": "how children add or restrict entities and temporal spans in narrations evidence from italian and english native children",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2116585429,
+                    "author": [
+                        {
+                            "AuId": 2776871806,
+                            "AuN": "patrizia giuliano"
+                        }
+                    ],
+                    "doi": "10.6092/LEF_32_P7",
+                    "title": "the construction of textual cohesion in narrative texts evidence from different tasks by italian children from 4 to 10 years old",
+                    "year_mag": 2012
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "10"
+            },
+            "doi": "10.1075/EUROSLA.12.04GIU",
+            "journal": "EUROSLA YEARBOOK",
+            "title": "contrasted and maintained information in a narrative task analysis of texts in english and italian as l1s and l2s",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9781847696038"
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Paris 8"
+                                }
+                            ],
+                            "family": "Benazzo",
+                            "given": "Sandra",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Turin"
+                                }
+                            ],
+                            "family": "Andorno",
+                            "given": "Cecilia",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1075/SIBIL.50.05BEN",
+                    "title": "is it really easier to acquire a closely related language ",
+                    "year_oc": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "11"
+            },
+            "doi": "10.21832/9781847696045-021",
+            "title": "discourse cohesion in narrative texts the role of additive means in italian l1 and l2",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788855704533"
+            ],
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "title": "continuita referenziali e contrasti nel testo narrativo bambini e adulti italofoni a confronto",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788855704861"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "13"
+            },
+            "title": "fattore eta input di esposizione e fattori socio biografici nel processo di apprendimento di una lingua seconda quale peso dare a ciascuno di essi ",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788849521870"
+            ],
+            "cv_id": {
+                "pubbs_ind": "14"
+            },
+            "title": "imparare a narrare in italiano l2 le difficolta morfologiche e discorsive dei livelli medio avanzati",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9788849519938"
+            ],
+            "cv_id": {
+                "pubbs_ind": "15"
+            },
+            "title": "abilita narrativa integrazione sociale e percorsi didattici il caso degli immigrati sudamericani ucraini e srilankesi a napoli ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "9788855703062"
+            ],
+            "cv_id": {
+                "pubbs_ind": "16"
+            },
+            "title": "l italiano degli immigrati a napoli il ruolo problematico della l1 e di eventuali lingue veicolari",
+            "type": "contributo in atti di convegno",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "9788855701013"
+            ],
+            "cv_id": {
+                "pubbs_ind": "17"
+            },
+            "title": "la coesione discorsiva in lingua prima e lingua seconda un confronto tra lingue romanze e lingue germaniche",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "1594-6517"
+            ],
+            "PId": 1615951593,
+            "citing": [
+                {
+                    "PId": 2081575449,
+                    "author": [
+                        {
+                            "AuId": 2776210188,
+                            "AuN": "patrizia giuliano"
+                        }
+                    ],
+                    "doi": "10.1075/EUROSLA.12.04GIU",
+                    "journal": "eurosla yearbook",
+                    "title": "contrasted and maintained information in a narrative task analysis of texts in english and italian as l1s and l2s",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1916921127,
+                    "author": [
+                        {
+                            "AuId": 2777708826,
+                            "AuN": "patrizia giuliano"
+                        }
+                    ],
+                    "doi": "10.13092/LO.71.1779",
+                    "journal": "eurosla yearbook",
+                    "title": "how children add or restrict entities and temporal spans in narrations evidence from italian and english native children",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2116585429,
+                    "author": [
+                        {
+                            "AuId": 2776871806,
+                            "AuN": "patrizia giuliano"
+                        }
+                    ],
+                    "doi": "10.6092/LEF_32_P7",
+                    "journal": "eurosla yearbook",
+                    "title": "the construction of textual cohesion in narrative texts evidence from different tasks by italian children from 4 to 10 years old",
+                    "year_mag": 2012
+                }
+            ],
+            "cv_id": {
+                "pubbs": "11",
+                "pubbs_ind": "18"
+            },
+            "doi": "10.6092/LEF_25_P125",
+            "journal": "LINGUISTICA E FILOLOGIA",
+            "title": " abilita descrittiva e coesione testuale in l1 e l2 lingue romanze e lingue germaniche a confronto ",
+            "type": "articolo in rivista",
+            "year": 2007
+        },
+        {
+            "ISSN": [
+                "0033-9725"
+            ],
+            "cv_id": {
+                "pubbs": "12",
+                "pubbs_ind": "19"
+            },
+            "journal": "RASSEGNA ITALIANA DI LINGUISTICA APPLICATA",
+            "title": "mappe concettuali e lingua straniera alcune sperimentazioni nella scuola elementare ",
+            "type": "articolo in rivista",
+            "year": 2006
+        },
+        {
+            "ISBN": [
+                "9788820738228"
+            ],
+            "PId": 2947350137,
+            "citing": [
+                {
+                    "PId": 2971259954,
+                    "author": [
+                        {
+                            "AuId": 2043190680,
+                            "AuN": "gabriele pallotti"
+                        },
+                        {
+                            "AuId": 2493010438,
+                            "AuN": "claudia borghetti"
+                        }
+                    ],
+                    "doi": "10.21283/2376905X.10.162",
+                    "journal": "euroamerican journal of applied linguistics and languages",
+                    "title": "the effects on monolingual and multilingual pupils of an experimental approach to writing instruction in italian primary schools",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "13",
+                "pubbs_ind": "20"
+            },
+            "title": "abilita narrativa ed emarginazione sociale bambini e adolescenti di un quartiere a rischio di napoli",
+            "type": "monografia o trattato scientifico",
+            "year": 2006
+        },
+        {
+            "ISSN": [
+                "1594-6517"
+            ],
+            "PId": 144061248,
+            "citing": [
+                {
+                    "PId": 2241155342,
+                    "author": [
+                        {
+                            "AuId": 2483730520,
+                            "AuN": "giuliano bernini"
+                        }
+                    ],
+                    "doi": "10.1007/BF03379631",
+                    "journal": "lili zeitschrift fur literaturwissenschaft und linguistik",
+                    "title": "strategie di lessicalizzazione tipologia e apprendimento il caso dei verbi di moto",
+                    "year_mag": 2006
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "21"
+            },
+            "doi": "10.6092/LEF_19_P97",
+            "journal": "LINGUISTICA E FILOLOGIA",
+            "title": "la descrizione spaziale statica in italiano lingua seconda relazioni spaziali e problemi di organizzazione testuale nelle interlingue di apprendenti americani",
+            "type": "articolo in rivista",
+            "year": 2004
+        },
+        {
+            "ISSN": [
+                "0458-726X"
+            ],
+            "PId": 2090616344,
+            "citing": [
+                {
+                    "PId": 2013250573,
+                    "author": [
+                        {
+                            "AuId": 2984763744,
+                            "AuN": "mark tutton"
+                        }
+                    ],
+                    "doi": "10.1177/0075424208329308",
+                    "journal": "journal of english linguistics",
+                    "title": "when in means into towards an understanding of boundary crossing in",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2095694729,
+                    "author": [
+                        {
+                            "AuId": 927164616,
+                            "AuN": "marzena watorek"
+                        },
+                        {
+                            "AuId": 1993585058,
+                            "AuN": "ewa lenart"
+                        },
+                        {
+                            "AuId": 2309904804,
+                            "AuN": "pascale trevisiole"
+                        }
+                    ],
+                    "doi": "10.13092/LO.63.1327",
+                    "journal": "journal of english linguistics",
+                    "title": "the impact of discourse types on the acquisition of nominal determination in l2 french",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2090973376,
+                    "author": [
+                        {
+                            "AuId": 1978163883,
+                            "AuN": "mark tutton"
+                        }
+                    ],
+                    "doi": "10.1515/LANGCOG-2013-0002",
+                    "journal": "journal of english linguistics",
+                    "title": "a new approach to analysing static locative expressions",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1482839715,
+                    "author": [
+                        {
+                            "AuId": 2570917303,
+                            "AuN": "richard m robin"
+                        }
+                    ],
+                    "doi": "10.1111/J.1944-9720.2011.01121.X",
+                    "journal": "journal of english linguistics",
+                    "title": "narration and narrative in l2 speakers of russian",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2243479606,
+                    "author": [
+                        {
+                            "AuId": 2246399439,
+                            "AuN": "gemma sanz espinar"
+                        },
+                        {
+                            "AuId": 2798510689,
+                            "AuN": "jinnam choi"
+                        }
+                    ],
+                    "journal": "journal of english linguistics",
+                    "title": "competencia lexica oral de los ninos monolingues y bilingues hispano coreanos",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2953291627,
+                    "author": [
+                        {
+                            "AuId": 2950782473,
+                            "AuN": "jadwiga cook"
+                        }
+                    ],
+                    "journal": "journal of english linguistics",
+                    "title": "comment les enfants bilingues localisent ils dans l espace exemple de jeunes bilingues polono francais",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2074788368,
+                    "author": [
+                        {
+                            "AuId": 2777624643,
+                            "AuN": "patrizia giuliano"
+                        }
+                    ],
+                    "doi": "10.3917/TL.066.0073",
+                    "journal": "journal of english linguistics",
+                    "title": "comparaison de phenomenes complexes en italien et en francais chez des adolescents bilingues et monolingues focus sur le texte narratif",
+                    "year_mag": 2013
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "22"
+            },
+            "doi": "10.3406/LGGE.2004.958",
+            "journal": "LANGAGES",
+            "title": "l expression de la localisation et du mouvement dans les descriptions et les recits en l1 et en l2",
+            "type": "articolo in rivista",
+            "year": 2004
+        },
+        {
+            "ISBN": [
+                "9783906768014"
+            ],
+            "cv_id": {
+                "pubbs": "14",
+                "pubbs_ind": "23"
+            },
+            "title": "la negation dans l acquisition d une langue etrangere un debat conclu berna p i e",
+            "type": "monografia o trattato scientifico",
+            "year": 2004
+        },
+        {
+            "ISSN": [
+                "1626-3162"
+            ],
+            "cv_id": {
+                "pubbs_ind": "24"
+            },
+            "journal": "MARGES LINGUISTIQUES",
+            "title": "l expression des relations spatiales en italien langue premiere et langue seconde",
+            "type": "articolo in rivista",
+            "year": 2003
+        },
+        {
+            "ISSN": [
+                "0999-792X"
+            ],
+            "cv_id": {
+                "pubbs": "5"
+            },
+            "journal": "ANAE",
+            "title": "la competence narrative en italien l1 une confrontation entre adolescents marginalises et adolescents issus d un milieu privilegie",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0082-6049"
+            ],
+            "PId": 2074788368,
+            "cited": [
+                {
+                    "PId": 2169184424,
+                    "author": [
+                        {
+                            "AuId": 1971930861,
+                            "AuN": "ioulia kovelman"
+                        },
+                        {
+                            "AuId": 2167607771,
+                            "AuN": "stephanie a baker"
+                        },
+                        {
+                            "AuId": 2108340829,
+                            "AuN": "laura ann petitto"
+                        },
+                        {
+                            "AuId": 2108340829,
+                            "AuN": "laura ann petitto"
+                        }
+                    ],
+                    "doi": "10.1162/JOCN.2008.20.1.153",
+                    "journal": "journal of cognitive neuroscience",
+                    "title": "bilingual and monolingual brains compared a functional magnetic resonance imaging investigation of syntactic processing and a possible neural signature of bilingualism",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2131310951,
+                    "author": [
+                        {
+                            "AuId": 2627490415,
+                            "AuN": "martha shiro"
+                        }
+                    ],
+                    "doi": "10.1017/S0305000902005500",
+                    "journal": "journal of child language",
+                    "title": "genre and evaluation in narrative development",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2046416673,
+                    "author": [
+                        {
+                            "AuId": 1738705611,
+                            "AuN": "tom trabasso"
+                        },
+                        {
+                            "AuId": 2062786331,
+                            "AuN": "linda l sperry"
+                        }
+                    ],
+                    "doi": "10.1016/0749-596X(85)90048-8",
+                    "journal": "journal of memory and language",
+                    "title": "causal relatedness and importance of story events",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2089724969,
+                    "author": [
+                        {
+                            "AuId": 1738705611,
+                            "AuN": "tom trabasso"
+                        },
+                        {
+                            "AuId": 2131807575,
+                            "AuN": "paul van den broek"
+                        },
+                        {
+                            "AuId": 2536593654,
+                            "AuN": "so young suh"
+                        }
+                    ],
+                    "doi": "10.1080/01638538909544717",
+                    "journal": "discourse processes",
+                    "title": "logical necessity and transitivity of causal relations in stories",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2011878583,
+                    "author": [
+                        {
+                            "AuId": 1849121393,
+                            "AuN": "claire martinot"
+                        }
+                    ],
+                    "doi": "10.3917/TL.061.0063",
+                    "journal": "travaux de linguistique",
+                    "title": "reformulation et acquisition de la complexite linguistique",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2102550189,
+                    "author": [
+                        {
+                            "AuId": 2123380424,
+                            "AuN": "henriette hendriks"
+                        }
+                    ],
+                    "doi": "10.1017/S0272263100003041",
+                    "journal": "studies in second language acquisition",
+                    "title": "the acquisition of topic marking in l1 chinese and l1 and l2 french",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2090616344,
+                    "author": [
+                        {
+                            "AuId": 2123380424,
+                            "AuN": "henriette hendriks"
+                        },
+                        {
+                            "AuId": 927164616,
+                            "AuN": "marzena watorek"
+                        },
+                        {
+                            "AuId": 2776871806,
+                            "AuN": "patrizia giuliano"
+                        }
+                    ],
+                    "doi": "10.3406/LGGE.2004.958",
+                    "journal": "langages",
+                    "title": "l expression de la localisation et du mouvement dans les descriptions et les recits en l1 et en l2",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2025104569,
+                    "author": [
+                        {
+                            "AuId": 2513291919,
+                            "AuN": "annieclaude demagny"
+                        },
+                        {
+                            "AuId": 2699386630,
+                            "AuN": "urszula paprockapiotrowska"
+                        }
+                    ],
+                    "doi": "10.3406/LGGE.2004.956",
+                    "journal": "langages",
+                    "title": "l acquisition du lexique verbal et des connecteurs temporels dans les recits de fiction en francais l1 et l2",
+                    "year_mag": 2004
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Dartmouth College"
+                                },
+                                {
+                                    "name": "Massachusetts Institute of Technology"
+                                }
+                            ],
+                            "family": "Kovelman",
+                            "given": "Ioulia",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Dartmouth College"
+                                }
+                            ],
+                            "family": "Baker",
+                            "given": "Stephanie A.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Dartmouth College"
+                                },
+                                {
+                                    "name": "University of Toronto Scarborough"
+                                }
+                            ],
+                            "family": "Petitto",
+                            "given": "Laura-Ann",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1162/JOCN.2008.20011",
+                    "title": "bilingual and monolingual brains compared a functional magnetic resonance imaging investigation of syntactic processing and a possible neural signature of bilingualism",
+                    "year_oc": 2008
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Demagny",
+                            "given": "Annie-Claude",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Paprocka-Piotrowska",
+                            "given": "Urszula",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3917/LANG.155.0052",
+                    "title": "l acquisition du lexique verbal et des connecteurs temporels dans les recits de fiction en francais l1 et l2",
+                    "year_oc": 2004
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hendriks",
+                            "given": "Henri\u00ebtte",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Watorek",
+                            "given": "Marzena",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Giuliano",
+                            "given": "Patrizia",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3917/LANG.155.0106",
+                    "title": "l expression de la localisation et du mouvement dans les descriptions et les recits en l1 et en l2",
+                    "year_oc": 2004
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6"
+            },
+            "doi": "10.3917/TL.066.0073",
+            "journal": "TRAVAUX DE LINGUISTIQUE",
+            "title": "comparaison de phenomenes complexes en italien et en francais chez des adolescents bilingues et monolingues focus sur le texte narratif",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9027241376"
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "SCHIMKE",
+                            "given": "SARAH",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/S0142716411000014",
+                    "title": "variable verb placement in second language german and french evidence from production and elicited imitation of finite and nonfinite negated sentences",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Electro-Communications and University of Hawai'i at M\u0101noa"
+                                }
+                            ],
+                            "family": "Hauser",
+                            "given": "Eric",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1111/LANG.12012",
+                    "title": "stability and change in one adult s second language english negation",
+                    "year_oc": 2013
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dimroth",
+                            "given": "Christine",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Lindner",
+                            "given": "Katrin",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/BF03379452",
+                    "title": "was langsame lerner uns zeigen konnen",
+                    "year_oc": 2005
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dimroth",
+                            "given": "Christine",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9922.2007.00436.X",
+                    "title": "age effects on the process of l2 acquisition evidence from the acquisition of negation and finiteness in l2 german",
+                    "year_oc": 2008
+                }
+            ],
+            "cv_id": {
+                "pubbs": "15"
+            },
+            "doi": "10.1075/sibil.26.07giu",
+            "title": "negation and relational predicates in french and english as l2s",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2003
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2889627301,
+            "doi": "10.1285/I22390359V26P235",
+            "journal": "lingue e linguaggi",
+            "title": "the construction of textual cohesion in spanish and italian as mother tongues and as second languages",
+            "type": "1",
+            "year_mag": 2018
+        },
+        {
+            "PId": 1969525647,
+            "cited": [
+                {
+                    "PId": 1568406678,
+                    "author": [
+                        {
+                            "AuId": 2164998882,
+                            "AuN": "wolfgang klein"
+                        }
+                    ],
+                    "title": "time in language",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2083846965,
+                    "author": [
+                        {
+                            "AuId": 2164998882,
+                            "AuN": "wolfgang klein"
+                        },
+                        {
+                            "AuId": 2692588435,
+                            "AuN": "clive perdue"
+                        }
+                    ],
+                    "doi": "10.1191/026765897666879396",
+                    "journal": "second language research",
+                    "title": "the basic variety or couldn t natural languages be much simpler",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 124814853,
+                    "author": [
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        }
+                    ],
+                    "title": "cognitive prerequisites for the development of grammar",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 1488314443,
+                    "author": [
+                        {
+                            "AuId": 2164998882,
+                            "AuN": "wolfgang klein"
+                        },
+                        {
+                            "AuId": 2692588435,
+                            "AuN": "clive perdue"
+                        }
+                    ],
+                    "title": "utterance structure developing grammars again",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 769084227,
+                    "author": [
+                        {
+                            "AuId": 2164998882,
+                            "AuN": "wolfgang klein"
+                        },
+                        {
+                            "AuId": 2654734018,
+                            "AuN": "c von stutterheim"
+                        }
+                    ],
+                    "title": "quaestio und referentielle bewegung in erzahlungen",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2075665770,
+                    "author": [
+                        {
+                            "AuId": 2166822629,
+                            "AuN": "eve v clark"
+                        }
+                    ],
+                    "doi": "10.1016/S0022-5371(71)80054-3",
+                    "journal": "journal of verbal learning and verbal behavior",
+                    "title": "on the acquisition of the meaning of before and after",
+                    "year_mag": 1971
+                },
+                {
+                    "PId": 2172083669,
+                    "author": [
+                        {
+                            "AuId": 1776210903,
+                            "AuN": "christine dimroth"
+                        },
+                        {
+                            "AuId": 927164616,
+                            "AuN": "marzena watorek"
+                        }
+                    ],
+                    "doi": "10.1017/S0272263100003028",
+                    "journal": "studies in second language acquisition",
+                    "title": "the scope of additive particles in basic learner languages",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2164601318,
+                    "author": [
+                        {
+                            "AuId": 1938661116,
+                            "AuN": "marianne starren"
+                        }
+                    ],
+                    "title": "the second time the acquisition of temporality in dutch and french as a second language",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2092538099,
+                    "author": [
+                        {
+                            "AuId": 2692588435,
+                            "AuN": "clive perdue"
+                        },
+                        {
+                            "AuId": 2164998882,
+                            "AuN": "wolfgang klein"
+                        }
+                    ],
+                    "doi": "10.1017/S0272263100011116",
+                    "journal": "studies in second language acquisition",
+                    "title": "why does the production of some learners not grammaticalize",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1524509298,
+                    "author": [
+                        {
+                            "AuId": 2634578291,
+                            "AuN": "josef taglicht"
+                        },
+                        {
+                            "AuId": 1965278481,
+                            "AuN": "randolph quirk"
+                        }
+                    ],
+                    "title": "message and emphasis on focus and scope in english",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 1976392860,
+                    "author": [
+                        {
+                            "AuId": 2692588435,
+                            "AuN": "clive perdue"
+                        }
+                    ],
+                    "doi": "10.1075/TTWIA.55.11PER",
+                    "title": "pre basic varieties the first stages of second language acquisition",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 153930128,
+                    "author": [
+                        {
+                            "AuId": 2667305917,
+                            "AuN": "angelika becker"
+                        },
+                        {
+                            "AuId": 2096952258,
+                            "AuN": "rainer dietrich"
+                        }
+                    ],
+                    "doi": "10.1007/BF03379053",
+                    "journal": "lili zeitschrift fur literaturwissenschaft und linguistik",
+                    "title": "the acquisition of scope in l2 german",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 1999242790,
+                    "author": [
+                        {
+                            "AuId": 927164616,
+                            "AuN": "marzena watorek"
+                        },
+                        {
+                            "AuId": 1903531363,
+                            "AuN": "clive perdue"
+                        }
+                    ],
+                    "doi": "10.1515/LING.37.2.297",
+                    "journal": "linguistics",
+                    "title": "additive particles and focus observations from learner and native speaker production",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2150081800,
+                    "author": [
+                        {
+                            "AuId": 2483730520,
+                            "AuN": "giuliano bernini"
+                        }
+                    ],
+                    "doi": "10.1017/S0272263100003053",
+                    "journal": "studies in second language acquisition",
+                    "title": "negative items and negation strategies in nonnative italian",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2002338257,
+                    "author": [
+                        {
+                            "AuId": 1903531363,
+                            "AuN": "clive perdue"
+                        }
+                    ],
+                    "doi": "10.1515/LING.1990.28.5.983",
+                    "journal": "linguistics",
+                    "title": "complexification of the simple clause in the narrative discourse of adult language learners",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 1553070988,
+                    "author": [
+                        {
+                            "AuId": 127354342,
+                            "AuN": "sandra benazzo"
+                        },
+                        {
+                            "AuId": 2776871806,
+                            "AuN": "patrizia giuliano"
+                        }
+                    ],
+                    "doi": "10.4000/AILE.1480",
+                    "title": "marqueurs de negation et particules de portee en francais l2 ou les placer",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1765897296,
+                    "author": [
+                        {
+                            "AuId": 2676538055,
+                            "AuN": "dagmar silberstein"
+                        }
+                    ],
+                    "doi": "10.4000/AILE.1434",
+                    "title": "facteurs interlingues et specifiques dans l acquisition non guidee de la negation en anglais l2",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2066035202,
+                    "author": [
+                        {
+                            "AuId": 2657384442,
+                            "AuN": "thom huebner"
+                        }
+                    ],
+                    "doi": "10.1515/LING.1989.27.1.111",
+                    "journal": "linguistics",
+                    "title": "establishing point of view the development of coding mechanisms in a second language for the expression of cognitive and perceptual organization",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 333018771,
+                    "author": [
+                        {
+                            "AuId": 1776210903,
+                            "AuN": "christine dimroth"
+                        }
+                    ],
+                    "doi": "10.4000/AILE.830",
+                    "title": "indiquer la portee en allemand l2 une etude longitudinale de l acquisition des particules de portee",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 333679405,
+                    "author": [
+                        {
+                            "AuId": 2483730520,
+                            "AuN": "giuliano bernini"
+                        }
+                    ],
+                    "doi": "10.4000/AILE.4913",
+                    "title": "au debut de l apprentissage de l italien l enonce dans une variete prebasique",
+                    "year_mag": 1995
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2170936601,
+                    "author": [
+                        {
+                            "AuId": 2292796187,
+                            "AuN": "lourdes ortega"
+                        },
+                        {
+                            "AuId": 2290820233,
+                            "AuN": "gina iberrishea"
+                        }
+                    ],
+                    "doi": "10.1017/S0267190505000024",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "longitudinal research in second language acquisition recent trends and future directions",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2074519050,
+                    "author": [
+                        {
+                            "AuId": 127354342,
+                            "AuN": "sandra benazzo"
+                        },
+                        {
+                            "AuId": 1776210903,
+                            "AuN": "christine dimroth"
+                        },
+                        {
+                            "AuId": 1903531363,
+                            "AuN": "clive perdue"
+                        },
+                        {
+                            "AuId": 927164616,
+                            "AuN": "marzena watorek"
+                        }
+                    ],
+                    "doi": "10.3406/LGGE.2004.957",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "le role des particules additives dans la construction de la cohesion discursive en langue maternelle et en langue etrangere",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2598163779,
+                    "author": [
+                        {
+                            "AuId": 2141300026,
+                            "AuN": "clare patterson"
+                        },
+                        {
+                            "AuId": 2175984734,
+                            "AuN": "yulia esaulova"
+                        },
+                        {
+                            "AuId": 38343657,
+                            "AuN": "claudia felser"
+                        }
+                    ],
+                    "doi": "10.1177/0267658317697786",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "the impact of focus on pronoun resolution in native and non native sentence comprehension",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2880160211,
+                    "author": [
+                        {
+                            "AuId": 2584412651,
+                            "AuN": "kees versteegh"
+                        }
+                    ],
+                    "doi": "10.1075/SAL.6.12VER",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "temporal adverbs of contrast in the basic variety of arabic",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 71785828,
+                    "author": [
+                        {
+                            "AuId": 2683111675,
+                            "AuN": "anna sanell"
+                        }
+                    ],
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "parcours acquisitionnel de la negation et de quelques particules de portee en francais l2",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2138914921,
+                    "author": [
+                        {
+                            "AuId": 127354342,
+                            "AuN": "sandra benazzo"
+                        },
+                        {
+                            "AuId": 1938661116,
+                            "AuN": "marianne starren"
+                        }
+                    ],
+                    "doi": "10.4000/AILE.2513",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "l emergence de moyens grammaticaux pour exprimer les relations temporelles en l2",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1732677295,
+                    "author": [
+                        {
+                            "AuId": 127354342,
+                            "AuN": "sandra benazzo"
+                        },
+                        {
+                            "AuId": 1776210903,
+                            "AuN": "christine dimroth"
+                        }
+                    ],
+                    "doi": "10.13092/LO.71.1776",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "additive particles in romance and germanic languages are they really similar",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2105407977,
+                    "author": [
+                        {
+                            "AuId": 2192194974,
+                            "AuN": "anita thomas"
+                        }
+                    ],
+                    "doi": "10.1017/S0332586510000144",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "the influence of lexical aspect and input frequency in the l2 french of adult beginners",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2461511711,
+                    "author": [
+                        {
+                            "AuId": 2203684553,
+                            "AuN": "marieeve michot"
+                        },
+                        {
+                            "AuId": 2792079328,
+                            "AuN": "michel pierrard"
+                        }
+                    ],
+                    "doi": "10.1051/SHSCONF/20162710008",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "l appariement forme fonction en fl2 le developpement de l emploi des formes verbales du passe et la primaute du marquage de l aspect",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 163719471,
+                    "author": [
+                        {
+                            "AuId": 127354342,
+                            "AuN": "sandra benazzo"
+                        }
+                    ],
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "the emergence of temporality from restricted linguistic systems to early human language",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 65310090,
+                    "author": [
+                        {
+                            "AuId": 127354342,
+                            "AuN": "sandra benazzo"
+                        }
+                    ],
+                    "doi": "10.4000/AILE.1710",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "le developpement des lectes d apprenants et l acquisition de la portee a distance en l2",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2585303613,
+                    "author": [
+                        {
+                            "AuId": 2712936778,
+                            "AuN": "s benazzo"
+                        },
+                        {
+                            "AuId": 2735973421,
+                            "AuN": "c andorno"
+                        }
+                    ],
+                    "doi": "10.1075/SIBIL.50.05BEN",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "it is really easier to acquire a closely related language a study on the expression of iteration and continuation in l2 french",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2743133698,
+                    "author": [
+                        {
+                            "AuId": 2761274314,
+                            "AuN": "sandra benazzo"
+                        },
+                        {
+                            "AuId": 2545144281,
+                            "AuN": "katia paykin"
+                        }
+                    ],
+                    "doi": "10.1075/PBNS.278.09BEN",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "additive relations in l2 french contrasting acquisitional trends of italian and russian learners",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2106163283,
+                    "author": [
+                        {
+                            "AuId": 2974439722,
+                            "AuN": "s benazzo"
+                        }
+                    ],
+                    "doi": "10.1051/CMLF08254",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "marqueurs de focus structure informationnelle et lectes dapprenants adultes dune l2",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1524789016,
+                    "author": [
+                        {
+                            "AuId": 2158919028,
+                            "AuN": "henriette de swart"
+                        }
+                    ],
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "negation in early l2 a window on language genesis",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2302228874,
+                    "author": [
+                        {
+                            "AuId": 814669797,
+                            "AuN": "cyrille granget"
+                        }
+                    ],
+                    "doi": "10.1075/LIA.6.1.04GRA",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "pourquoi le present n est il pas si simple d un point de vue psycholinguistique une perspective anglophone sur le francais l2",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2742246144,
+                    "author": [
+                        {
+                            "AuId": 2094525466,
+                            "AuN": "lutfi uredi"
+                        },
+                        {
+                            "AuId": 2464240942,
+                            "AuN": "omer gokhan ulum"
+                        }
+                    ],
+                    "doi": "10.4018/978-1-5225-3325-2.CH011",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "morpho syntactic developmental features of syrian primary school students learning turkish as a foreign language",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2792922744,
+                    "author": [
+                        {
+                            "AuId": 2094525466,
+                            "AuN": "lutfi uredi"
+                        },
+                        {
+                            "AuId": 2464240942,
+                            "AuN": "omer gokhan ulum"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-64554-4_34",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "a study on the morpho syntactic profiles of syrian children learning turkish as a second language",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2753674560,
+                    "author": [
+                        {
+                            "AuId": 2203684553,
+                            "AuN": "marieeve michot"
+                        },
+                        {
+                            "AuId": 2792079328,
+                            "AuN": "michel pierrard"
+                        }
+                    ],
+                    "doi": "10.1515/IRAL-2017-0110",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "french second language learners acquisition of the sequence aller infinitive movement aspect and tense",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2775587190,
+                    "author": [
+                        {
+                            "AuId": 2203684553,
+                            "AuN": "marieeve michot"
+                        },
+                        {
+                            "AuId": 2792079328,
+                            "AuN": "michel pierrard"
+                        }
+                    ],
+                    "doi": "10.1051/SHSCONF/20173800008",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "l appariement forme fonction en fl2 variation des combinaisons de conjugaisons dans la narration au passe",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2990422871,
+                    "author": [
+                        {
+                            "AuId": 2991379627,
+                            "AuN": "jeremi sauvage"
+                        }
+                    ],
+                    "doi": "10.4000/RDLC.7032",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "mobilite et appropriation des langues une reponse a deborah meunier",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 274323201,
+                    "author": [
+                        {
+                            "AuId": 2703453671,
+                            "AuN": "sandra benazzo"
+                        }
+                    ],
+                    "doi": "10.4000/AILE.4521",
+                    "journal": "acm sigapl apl quote quad",
+                    "title": "acquerir une langue construire un systeme communicatif le developpement de la temporalite en l2 et dans les homesigns",
+                    "year_mag": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Benazzo",
+                            "given": "Sandra",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Dimroth",
+                            "given": "Christine",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Perdue",
+                            "given": "Clive",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Watorek",
+                            "given": "Marzena",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3917/LANG.155.0076",
+                    "title": "le role des particules additives dans la construction de la cohesion discursive en langue maternelle et en langue etrangere",
+                    "year_oc": 2004
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dimroth",
+                            "given": "Christine",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1002/9781405198431.WBEAL0673",
+                    "title": "learner varieties",
+                    "year_oc": 2012
+                }
+            ],
+            "doi": "10.1515/LING.2002.032",
+            "journal": "linguistics",
+            "title": "when finiteness gets marked the relation between morphosyntactic development and use of scopal items in adult language acquisition",
+            "type": "1",
+            "year_mag": 2002
+        },
+        {
+            "PId": 1553070988,
+            "cited": [
+                {
+                    "PId": 1994381201,
+                    "author": [
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        }
+                    ],
+                    "doi": "10.2307/326492",
+                    "journal": "the modern language journal",
+                    "title": "the crosslinguistic study of language acquisition",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2151535895,
+                    "author": [
+                        {
+                            "AuId": 2292776628,
+                            "AuN": "ekkehard konig"
+                        }
+                    ],
+                    "title": "the meaning of focus particles a comparative perspective",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2005475716,
+                    "author": [
+                        {
+                            "AuId": 2607879303,
+                            "AuN": "jurgen m meisel"
+                        }
+                    ],
+                    "doi": "10.1191/026765897666180760",
+                    "journal": "second language research",
+                    "title": "the acquisition of the syntax of negation in french and german contrasting first and second language development",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 638583282,
+                    "author": [
+                        {
+                            "AuId": 2689972118,
+                            "AuN": "clive perdue"
+                        }
+                    ],
+                    "title": "adult language acquisition cross linguistic perspectives",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 153930128,
+                    "author": [
+                        {
+                            "AuId": 2667305917,
+                            "AuN": "angelika becker"
+                        },
+                        {
+                            "AuId": 2096952258,
+                            "AuN": "rainer dietrich"
+                        }
+                    ],
+                    "doi": "10.1007/BF03379053",
+                    "journal": "lili zeitschrift fur literaturwissenschaft und linguistik",
+                    "title": "the acquisition of scope in l2 german",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2054047296,
+                    "author": [
+                        {
+                            "AuId": 2630383660,
+                            "AuN": "eva koktova"
+                        }
+                    ],
+                    "doi": "10.1515/THLI.1987.14.2-3.173",
+                    "journal": "theoretical linguistics",
+                    "title": "on the scoping properties of negation focusing particles and sentence adverbials",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 1535084302,
+                    "author": [
+                        {
+                            "AuId": 1973948945,
+                            "AuN": "jacques moeschler"
+                        }
+                    ],
+                    "title": "dire et contredire pragmatique de la negation et acte de refutation dans la conversation",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 2477619275,
+                    "author": [
+                        {
+                            "AuId": 2476259234,
+                            "AuN": "c perdue"
+                        }
+                    ],
+                    "title": "comment rendre compte de la logique de l acquisition d une langue etrangere par l adulte",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 564376457,
+                    "author": [
+                        {
+                            "AuId": 2483730520,
+                            "AuN": "giuliano bernini"
+                        },
+                        {
+                            "AuId": 1968135535,
+                            "AuN": "paolo ramat"
+                        }
+                    ],
+                    "title": "la frase negativa nelle lingue d europa",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 607438124,
+                    "author": [
+                        {
+                            "AuId": 1441051141,
+                            "AuN": "benedicte de boyssonbardies"
+                        }
+                    ],
+                    "doi": "10.1515/9783110810226",
+                    "title": "negation et performance linguistique",
+                    "year_mag": 1976
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Gayraud",
+                            "given": "Fr\u00e9d\u00e9rique",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4000/AILE.1191",
+                    "title": "emergence et developpement du placement des particules de portee",
+                    "year_oc": 2004
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Slobin",
+                            "given": "Dan Isaac",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4324/9781315802541",
+                    "title": "the crosslinguistic study of language acquisition",
+                    "year_oc": 2017
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 1969525647,
+                    "author": [
+                        {
+                            "AuId": 1903531363,
+                            "AuN": "clive perdue"
+                        },
+                        {
+                            "AuId": 127354342,
+                            "AuN": "sandra benazzo"
+                        },
+                        {
+                            "AuId": 2776871806,
+                            "AuN": "patrizia giuliano"
+                        }
+                    ],
+                    "doi": "10.1515/LING.2002.032",
+                    "journal": "linguistics",
+                    "title": "when finiteness gets marked the relation between morphosyntactic development and use of scopal items in adult language acquisition",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 71785828,
+                    "author": [
+                        {
+                            "AuId": 2683111675,
+                            "AuN": "anna sanell"
+                        }
+                    ],
+                    "journal": "linguistics",
+                    "title": "parcours acquisitionnel de la negation et de quelques particules de portee en francais l2",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 65310090,
+                    "author": [
+                        {
+                            "AuId": 127354342,
+                            "AuN": "sandra benazzo"
+                        }
+                    ],
+                    "doi": "10.4000/AILE.1710",
+                    "journal": "linguistics",
+                    "title": "le developpement des lectes d apprenants et l acquisition de la portee a distance en l2",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1536869413,
+                    "author": [
+                        {
+                            "AuId": 2721955677,
+                            "AuN": "marzena watorek"
+                        }
+                    ],
+                    "doi": "10.4000/AILE.4363",
+                    "journal": "linguistics",
+                    "title": "l etude de l acquisition des particules de portee comme revelateur du travail de l appropriation d une l2 quelques implications en didactique des langues etrangeres",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1765897296,
+                    "author": [
+                        {
+                            "AuId": 2676538055,
+                            "AuN": "dagmar silberstein"
+                        }
+                    ],
+                    "doi": "10.4000/AILE.1434",
+                    "journal": "linguistics",
+                    "title": "facteurs interlingues et specifiques dans l acquisition non guidee de la negation en anglais l2",
+                    "year_mag": 2001
+                }
+            ],
+            "doi": "10.4000/AILE.1480",
+            "title": "marqueurs de negation et particules de portee en francais l2 ou les placer",
+            "type": "0",
+            "year_mag": 1998
+        },
+        {
+            "PId": 2479746783,
+            "citing": [
+                {
+                    "PId": 1683906407,
+                    "author": [
+                        {
+                            "AuId": 2161454709,
+                            "AuN": "eric hauser"
+                        }
+                    ],
+                    "doi": "10.1111/LANG.12012",
+                    "journal": "language learning",
+                    "title": "stability and change in one adult s second language english negation",
+                    "year_mag": 2013
+                }
+            ],
+            "doi": "10.1515/9783110909593.355",
+            "title": "the acquisition of negation in french l2 an analysis of moroccan arabic and spanish learner varieties",
+            "type": "4",
+            "year_mag": 2005
+        },
+        {
+            "PId": 2344821720,
+            "title": "the role of the critical period and the typological distance in the acquisition of italian as l2 by immigrant children",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2603836568,
+            "title": "il ruolo del fattore eta nell integrazione degli alunni stranieri nella scuola di base",
+            "type": "0",
+            "year_mag": 2014
+        },
+        {
+            "PId": 2342575983,
+            "title": "the acquisition of negation and other scopal items in l2 english french and german",
+            "type": "0",
+            "year_mag": 1999
+        }
+    ]
+}

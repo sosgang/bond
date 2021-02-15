@@ -1,0 +1,4760 @@
+{
+    "AuIds": [
+        2534622401,
+        1971232791
+    ],
+    "fullname": [
+        "Gusso",
+        "Riccardo"
+    ],
+    "ind_anvur": [
+        9,
+        2,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1062-9408"
+            ],
+            "PId": 2467047540,
+            "cited": [
+                {
+                    "PId": 173895910,
+                    "author": [
+                        {
+                            "AuId": 1965690711,
+                            "AuN": "salvatore greco"
+                        },
+                        {
+                            "AuId": 95379530,
+                            "AuN": "matthias ehrgott"
+                        },
+                        {
+                            "AuId": 2112348636,
+                            "AuN": "jose rui figueira"
+                        }
+                    ],
+                    "doi": "10.1007/B100605",
+                    "journal": "operations research and management science",
+                    "title": "multiple criteria decision analysis state of the art surveys",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2005294649,
+                    "author": [
+                        {
+                            "AuId": 2126249377,
+                            "AuN": "allen n berger"
+                        },
+                        {
+                            "AuId": 2126249377,
+                            "AuN": "allen n berger"
+                        },
+                        {
+                            "AuId": 307712973,
+                            "AuN": "gregory f udell"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2006.05.008",
+                    "journal": "journal of banking and finance",
+                    "title": "a more complete conceptual framework for sme finance",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1970041141,
+                    "author": [
+                        {
+                            "AuId": 2111707811,
+                            "AuN": "thorsten beck"
+                        },
+                        {
+                            "AuId": 1861620306,
+                            "AuN": "asli demirguckunt"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2006.05.009",
+                    "journal": "journal of banking and finance",
+                    "title": "small and medium size enterprises access to finance as a growth constraint",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1980770954,
+                    "author": [
+                        {
+                            "AuId": 2167058583,
+                            "AuN": "lyn c thomas"
+                        }
+                    ],
+                    "doi": "10.1016/S0169-2070(00)00034-0",
+                    "journal": "international journal of forecasting",
+                    "title": "a survey of credit and behavioural scoring forecasting financial risk of lending to consumers",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1997469425,
+                    "author": [
+                        {
+                            "AuId": 2222832735,
+                            "AuN": "edward i altman"
+                        },
+                        {
+                            "AuId": 2342889198,
+                            "AuN": "gabriele sabato"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.872336",
+                    "title": "modeling credit risk for smes evidence from the us market",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1748537427,
+                    "author": [
+                        {
+                            "AuId": 1988768151,
+                            "AuN": "jean pierre brans"
+                        },
+                        {
+                            "AuId": 2707661553,
+                            "AuN": "ph vincke"
+                        }
+                    ],
+                    "doi": "10.1287/MNSC.31.6.647",
+                    "journal": "management science",
+                    "title": "note a preference ranking organisation method the promethee method for multiple criteria decision making",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2111243492,
+                    "author": [
+                        {
+                            "AuId": 2222832735,
+                            "AuN": "edward i altman"
+                        },
+                        {
+                            "AuId": 2342889198,
+                            "AuN": "gabriele sabato"
+                        }
+                    ],
+                    "title": "effects of the new basel capital accord on bank capital requirement for smes",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2023288482,
+                    "author": [
+                        {
+                            "AuId": 2236897881,
+                            "AuN": "abdulaziz m abdulsaleh"
+                        },
+                        {
+                            "AuId": 2039372300,
+                            "AuN": "andrew c worthington"
+                        }
+                    ],
+                    "doi": "10.5539/IJBM.V8N14P36",
+                    "journal": "international journal of biometrics",
+                    "title": "small and medium sized enterprises financing a review of literature",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2151977796,
+                    "author": [
+                        {
+                            "AuId": 2126249377,
+                            "AuN": "allen n berger"
+                        },
+                        {
+                            "AuId": 2216273423,
+                            "AuN": "w scott frame"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.743230",
+                    "title": "small business credit scoring and credit availability",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2036341243,
+                    "author": [
+                        {
+                            "AuId": 2142817898,
+                            "AuN": "jens grunert"
+                        },
+                        {
+                            "AuId": 2014105365,
+                            "AuN": "lars norden"
+                        },
+                        {
+                            "AuId": 2217388719,
+                            "AuN": "martin weber"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.302689",
+                    "title": "the role of non financial factors in internal credit ratings",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1990696070,
+                    "author": [
+                        {
+                            "AuId": 2646120886,
+                            "AuN": "soner akkoc"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2012.04.009",
+                    "journal": "european journal of operational research",
+                    "title": "an empirical comparison of conventional techniques neural networks and the three stage hybrid adaptive neuro fuzzy inference system anfis model for credit scoring analysis the case of turkish credit card data",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2088990339,
+                    "author": [
+                        {
+                            "AuId": 2748250387,
+                            "AuN": "michel dietsch"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2003.10.006",
+                    "journal": "journal of banking and finance",
+                    "title": "should sme exposures be treated as retail or corporate exposures a comparative analysis of default probabilities and asset correlations in french and german smes",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1602561406,
+                    "author": [
+                        {
+                            "AuId": 2658476453,
+                            "AuN": "rudy aernoudt"
+                        }
+                    ],
+                    "doi": "10.1787/9789264034860-5-EN",
+                    "journal": "local economic and employment development",
+                    "title": "small and medium sized enterprises",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2104150964,
+                    "author": [
+                        {
+                            "AuId": 1768613729,
+                            "AuN": "chiara verbano"
+                        },
+                        {
+                            "AuId": 2059507798,
+                            "AuN": "karen venturini"
+                        }
+                    ],
+                    "doi": "10.4067/S0718-27242013000400017",
+                    "journal": "journal of technology management & innovation",
+                    "title": "managing risks in smes a literature review and research agenda",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2549740993,
+                    "author": [
+                        {
+                            "AuId": 2222832735,
+                            "AuN": "edward i altman"
+                        },
+                        {
+                            "AuId": 2342889198,
+                            "AuN": "gabriele sabato"
+                        },
+                        {
+                            "AuId": 2479421170,
+                            "AuN": "nick wilson"
+                        }
+                    ],
+                    "title": "the value of non financial information in small and medium sized enterprise risk management",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2006072957,
+                    "author": [
+                        {
+                            "AuId": 723730218,
+                            "AuN": "constantin zopounidis"
+                        },
+                        {
+                            "AuId": 165712998,
+                            "AuN": "michael doumpos"
+                        }
+                    ],
+                    "doi": "10.1002/MCDA.333",
+                    "journal": "journal of multi criteria decision analysis",
+                    "title": "multi criteria decision aid in financial decision making methodologies and literature review",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2139828556,
+                    "author": [
+                        {
+                            "AuId": 2748250387,
+                            "AuN": "michel dietsch"
+                        },
+                        {
+                            "AuId": 23276251,
+                            "AuN": "joel petey"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-4266(01)00224-2",
+                    "journal": "journal of banking and finance",
+                    "title": "the credit risk in sme loans portfolios modeling issues pricing and capital requirements",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2004722005,
+                    "author": [
+                        {
+                            "AuId": 2127814862,
+                            "AuN": "a i marques"
+                        },
+                        {
+                            "AuId": 2167959672,
+                            "AuN": "vicente garcia"
+                        },
+                        {
+                            "AuId": 2440195995,
+                            "AuN": "j s sanchez"
+                        }
+                    ],
+                    "doi": "10.1057/JORS.2012.145",
+                    "journal": "journal of the operational research society",
+                    "title": "a literature review on the application of evolutionary computing to credit scoring",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1492891195,
+                    "author": [
+                        {
+                            "AuId": 3118669111,
+                            "AuN": "tor jacobson"
+                        },
+                        {
+                            "AuId": 2148234580,
+                            "AuN": "jesper linde"
+                        },
+                        {
+                            "AuId": 245768003,
+                            "AuN": "kasper roszbach"
+                        },
+                        {
+                            "AuId": 245768003,
+                            "AuN": "kasper roszbach"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.498882",
+                    "title": "credit risk versus capital requirements under basel ii are sme loans and retail credit really different",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2085422494,
+                    "author": [
+                        {
+                            "AuId": 1176293400,
+                            "AuN": "silvia angilella"
+                        },
+                        {
+                            "AuId": 2626930332,
+                            "AuN": "sebastiano mazzu"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2015.01.033",
+                    "journal": "european journal of operational research",
+                    "title": "the financing of innovative smes a multicriteria credit rating model",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2127894279,
+                    "author": [
+                        {
+                            "AuId": 165712998,
+                            "AuN": "michael doumpos"
+                        },
+                        {
+                            "AuId": 1804617194,
+                            "AuN": "kyriaki kosmidou"
+                        },
+                        {
+                            "AuId": 1243370521,
+                            "AuN": "george baourakis"
+                        },
+                        {
+                            "AuId": 723730218,
+                            "AuN": "constantin zopounidis"
+                        }
+                    ],
+                    "doi": "10.1016/S0377-2217(01)00254-5",
+                    "journal": "european journal of operational research",
+                    "title": "credit risk assessment using a multicriteria hierarchical discrimination approach a comparative analysis",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 97529263,
+                    "author": [
+                        {
+                            "AuId": 2515353069,
+                            "AuN": "yorgos goletsis"
+                        },
+                        {
+                            "AuId": 1087370589,
+                            "AuN": "john psarras"
+                        },
+                        {
+                            "AuId": 2437743241,
+                            "AuN": "j e samouilidis"
+                        }
+                    ],
+                    "doi": "10.1023/A:1023330530111",
+                    "journal": "annals of operations research",
+                    "title": "project ranking in the armenian energy sector using a multicriteria method for groups",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1957641613,
+                    "author": [
+                        {
+                            "AuId": 165712998,
+                            "AuN": "michael doumpos"
+                        },
+                        {
+                            "AuId": 723730218,
+                            "AuN": "constantin zopounidis"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-5915.2011.00328.X",
+                    "journal": "decision sciences",
+                    "title": "a multicriteria outranking modeling approach for credit rating",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1986447699,
+                    "author": [
+                        {
+                            "AuId": 165712998,
+                            "AuN": "michael doumpos"
+                        },
+                        {
+                            "AuId": 34007697,
+                            "AuN": "fotios pasiouras"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-005-6412-4",
+                    "journal": "computing in economics and finance",
+                    "title": "developing and testing models for replicating credit ratings a multicriteria approach",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1775508784,
+                    "author": [
+                        {
+                            "AuId": 2000037395,
+                            "AuN": "jaap spronk"
+                        },
+                        {
+                            "AuId": 662084252,
+                            "AuN": "ralph e steuer"
+                        },
+                        {
+                            "AuId": 723730218,
+                            "AuN": "constantin zopounidis"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4939-3094-4_24",
+                    "title": "multicriteria decision aid analysis in finance",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1969434253,
+                    "author": [
+                        {
+                            "AuId": 2270116663,
+                            "AuN": "fernando garcia"
+                        },
+                        {
+                            "AuId": 2141459715,
+                            "AuN": "vicente blanca gimenez"
+                        },
+                        {
+                            "AuId": 2161680655,
+                            "AuN": "francisco guijarro"
+                        }
+                    ],
+                    "doi": "10.1016/J.MCM.2012.03.005",
+                    "journal": "mathematical and computer modelling",
+                    "title": "credit risk management a multicriteria approach to assess creditworthiness",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2066523057,
+                    "author": [
+                        {
+                            "AuId": 1296608019,
+                            "AuN": "robert o edmister"
+                        }
+                    ],
+                    "doi": "10.2307/2329929",
+                    "journal": "journal of financial and quantitative analysis",
+                    "title": "an empirical test of financial ratio analysis for small business failure prediction",
+                    "year_mag": 1972
+                },
+                {
+                    "PId": 1967560646,
+                    "author": [
+                        {
+                            "AuId": 1243370521,
+                            "AuN": "george baourakis"
+                        },
+                        {
+                            "AuId": 2504787022,
+                            "AuN": "m conisescu"
+                        },
+                        {
+                            "AuId": 2565009523,
+                            "AuN": "g van dijk"
+                        },
+                        {
+                            "AuId": 1979746700,
+                            "AuN": "panos m pardalos"
+                        },
+                        {
+                            "AuId": 723730218,
+                            "AuN": "constantin zopounidis"
+                        }
+                    ],
+                    "doi": "10.1007/S10287-007-0050-3",
+                    "journal": "computational management science",
+                    "title": "a multicriteria approach for rating the credit risk of financial institutions",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1595685141,
+                    "author": [
+                        {
+                            "AuId": 1430687535,
+                            "AuN": "francesco dainelli"
+                        },
+                        {
+                            "AuId": 2029989732,
+                            "AuN": "francesco giunta"
+                        },
+                        {
+                            "AuId": 1582070717,
+                            "AuN": "fabrizio cipollini"
+                        }
+                    ],
+                    "journal": "psl quarterly review",
+                    "title": "determinants of sme credit worthiness under basel rules the value of credit history information",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1591764423,
+                    "author": [
+                        {
+                            "AuId": 2963013093,
+                            "AuN": "fotini voulgaris"
+                        },
+                        {
+                            "AuId": 165712998,
+                            "AuN": "michael doumpos"
+                        },
+                        {
+                            "AuId": 723730218,
+                            "AuN": "constantin zopounidis"
+                        }
+                    ],
+                    "doi": "10.1023/A:1008159408904",
+                    "journal": "small business economics",
+                    "title": "on the evaluation of greek industrial sme s performance via multicriteria analysis of financial ratios",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2286550731,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2008405047,
+                            "AuN": "stefania funari"
+                        },
+                        {
+                            "AuId": 3122796528,
+                            "AuN": "federico siviero"
+                        }
+                    ],
+                    "journal": "banks and bank systems",
+                    "title": "a murame based technology for bank decision support in credit worthiness assessment",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1491858186,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2008405047,
+                            "AuN": "stefania funari"
+                        },
+                        {
+                            "AuId": 1971232791,
+                            "AuN": "riccardo gusso"
+                        }
+                    ],
+                    "doi": "10.1016/J.ASOC.2014.12.003",
+                    "journal": "applied soft computing",
+                    "title": "an evolutionary approach to preference disaggregation in a murame based creditworthiness problem",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2136603178,
+                    "author": [
+                        {
+                            "AuId": 1939149912,
+                            "AuN": "robert anderton"
+                        },
+                        {
+                            "AuId": 2152911919,
+                            "AuN": "valerie jarvis"
+                        },
+                        {
+                            "AuId": 112169909,
+                            "AuN": "bela szorfi"
+                        },
+                        {
+                            "AuId": 2705716042,
+                            "AuN": "mathilde perinet"
+                        },
+                        {
+                            "AuId": 2712398763,
+                            "AuN": "pavlos petroulas"
+                        },
+                        {
+                            "AuId": 329932710,
+                            "AuN": "boele bonthuis"
+                        },
+                        {
+                            "AuId": 329932710,
+                            "AuN": "boele bonthuis"
+                        },
+                        {
+                            "AuId": 2340476414,
+                            "AuN": "peter beck nelleman"
+                        },
+                        {
+                            "AuId": 1821473708,
+                            "AuN": "thomas conefrey"
+                        },
+                        {
+                            "AuId": 2209407883,
+                            "AuN": "orsolya soosaar"
+                        },
+                        {
+                            "AuId": 2944649423,
+                            "AuN": "daphne nicolitsas"
+                        },
+                        {
+                            "AuId": 2142418921,
+                            "AuN": "mario izquierdo"
+                        },
+                        {
+                            "AuId": 3040554475,
+                            "AuN": "gregory verdugo"
+                        },
+                        {
+                            "AuId": 2669948585,
+                            "AuN": "pietro tommasino"
+                        },
+                        {
+                            "AuId": 2628193671,
+                            "AuN": "roberta zizza"
+                        },
+                        {
+                            "AuId": 2603649368,
+                            "AuN": "paolo guarda"
+                        },
+                        {
+                            "AuId": 2218297860,
+                            "AuN": "cindy veiga nunes"
+                        },
+                        {
+                            "AuId": 2139268052,
+                            "AuN": "alfred stiglbauer"
+                        },
+                        {
+                            "AuId": 2345683599,
+                            "AuN": "jose r maria"
+                        },
+                        {
+                            "AuId": 2634981043,
+                            "AuN": "marek micuch"
+                        },
+                        {
+                            "AuId": 558136766,
+                            "AuN": "alexander karsay"
+                        }
+                    ],
+                    "title": "comparisons and contrasts of the impact of the crisis on euro area labour markets",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 297774234,
+                    "author": [
+                        {
+                            "AuId": 2200845831,
+                            "AuN": "bernard roy"
+                        }
+                    ],
+                    "doi": "10.1051/RO/196802V100571",
+                    "title": "classement et choix en presence de points de vue multiples",
+                    "year_mag": 1968
+                },
+                {
+                    "PId": 2052869084,
+                    "author": [
+                        {
+                            "AuId": 2945019353,
+                            "AuN": "d k sreekantha"
+                        },
+                        {
+                            "AuId": 2651713135,
+                            "AuN": "r v kulkarni"
+                        }
+                    ],
+                    "doi": "10.1111/J.1468-0394.2010.00562.X",
+                    "journal": "expert systems",
+                    "title": "expert system design for credit risk evaluation using neuro fuzzy logic",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2108046417,
+                    "author": [
+                        {
+                            "AuId": 2009209950,
+                            "AuN": "francesco campanella"
+                        }
+                    ],
+                    "journal": "review of economics and finance",
+                    "title": "assess the rating of smes by using classification and regression trees cart with qualitative variables",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2000362790,
+                    "author": [
+                        {
+                            "AuId": 2608133003,
+                            "AuN": "juan sepulveda"
+                        },
+                        {
+                            "AuId": 2120599006,
+                            "AuN": "elizardo vasquez"
+                        }
+                    ],
+                    "doi": "10.4236/AJIBM.2014.44027",
+                    "journal": "american journal of industrial and business management",
+                    "title": "multicriteria analysis for improving the innovation capability in small and medium enterprises in emerging countries",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1590523750,
+                    "author": [
+                        {
+                            "AuId": 2593676622,
+                            "AuN": "j khalil"
+                        },
+                        {
+                            "AuId": 2763255867,
+                            "AuN": "j m martel"
+                        },
+                        {
+                            "AuId": 2650930634,
+                            "AuN": "p jutras"
+                        }
+                    ],
+                    "title": "a multicriterion system fro credit risk rating",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2800190819,
+                    "author": [
+                        {
+                            "AuId": 1805971370,
+                            "AuN": "pinuccia calia"
+                        }
+                    ],
+                    "title": "estimation of economic aggregates at local level from businesses accounting data",
+                    "year_mag": 2006
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 3030823130,
+                    "author": [
+                        {
+                            "AuId": 2124998769,
+                            "AuN": "fabian eggers"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBUSRES.2020.05.025",
+                    "journal": "journal of business research",
+                    "title": "masters of disasters challenges and opportunities for smes in times of crisis",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2807102641,
+                    "author": [
+                        {
+                            "AuId": 1702208339,
+                            "AuN": "jaroslav belas"
+                        },
+                        {
+                            "AuId": 1988967892,
+                            "AuN": "lubos smrcka"
+                        },
+                        {
+                            "AuId": 1330771226,
+                            "AuN": "beata gavurova"
+                        },
+                        {
+                            "AuId": 2617639115,
+                            "AuN": "jan dvorsky"
+                        }
+                    ],
+                    "doi": "10.3846/TEDE.2018.1968",
+                    "journal": "journal of business research",
+                    "title": "the impact of social and economic factors in the credit risk management of sme",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 3028194169,
+                    "author": [
+                        {
+                            "AuId": 2297454479,
+                            "AuN": "mohammad mahdi mousavi"
+                        },
+                        {
+                            "AuId": 3028518242,
+                            "AuN": "jilei lin"
+                        }
+                    ],
+                    "doi": "10.1016/J.ESWA.2020.113438",
+                    "journal": "journal of business research",
+                    "title": "the application of promethee multi criteria decision aid in financial decision making case of distress prediction models evaluation",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2788823141,
+                    "author": [
+                        {
+                            "AuId": 1176293400,
+                            "AuN": "silvia angilella"
+                        },
+                        {
+                            "AuId": 2626930332,
+                            "AuN": "sebastiano mazzu"
+                        }
+                    ],
+                    "doi": "10.1080/01605682.2017.1411313",
+                    "journal": "journal of business research",
+                    "title": "a credit risk model with an automatic override for innovative small and medium sized enterprises",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2886117859,
+                    "author": [
+                        {
+                            "AuId": 2248583311,
+                            "AuN": "maria xavier"
+                        },
+                        {
+                            "AuId": 2132196440,
+                            "AuN": "fernando ferreira"
+                        },
+                        {
+                            "AuId": 2132196440,
+                            "AuN": "fernando ferreira"
+                        },
+                        {
+                            "AuId": 2146813186,
+                            "AuN": "jose esperanca"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-018-2995-8",
+                    "journal": "journal of business research",
+                    "title": "an intuition based evaluation framework for social credit applications",
+                    "year_mag": 2021
+                },
+                {
+                    "PId": 2964763809,
+                    "author": [
+                        {
+                            "AuId": 2132196440,
+                            "AuN": "fernando ferreira"
+                        },
+                        {
+                            "AuId": 2146813186,
+                            "AuN": "jose esperanca"
+                        },
+                        {
+                            "AuId": 2248583311,
+                            "AuN": "maria xavier"
+                        },
+                        {
+                            "AuId": 2110662484,
+                            "AuN": "renato lopes da costa"
+                        },
+                        {
+                            "AuId": 2051628889,
+                            "AuN": "blanca perezgladish"
+                        }
+                    ],
+                    "doi": "10.1080/01605682.2017.1415650",
+                    "journal": "journal of business research",
+                    "title": "a socio technical approach to the evaluation of social credit applications",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3014850797,
+                    "author": [
+                        {
+                            "AuId": 1702208339,
+                            "AuN": "jaroslav belas"
+                        },
+                        {
+                            "AuId": 1330771226,
+                            "AuN": "beata gavurova"
+                        },
+                        {
+                            "AuId": 2767012817,
+                            "AuN": "martin cepel"
+                        },
+                        {
+                            "AuId": 2072085136,
+                            "AuN": "matus kubak"
+                        }
+                    ],
+                    "doi": "10.24136/OC.2020.006",
+                    "journal": "journal of business research",
+                    "title": "evaluation of economic potential of business environment development by comparing sector differences perspective of smes in the czech republic and slovakia",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2890886760,
+                    "author": [
+                        {
+                            "AuId": 3003222539,
+                            "AuN": "diogo ferreira de lima silva"
+                        },
+                        {
+                            "AuId": 2908050505,
+                            "AuN": "julio cezar soares silva"
+                        },
+                        {
+                            "AuId": 2171690521,
+                            "AuN": "lucimario gois de oliveira silva"
+                        },
+                        {
+                            "AuId": 2342672076,
+                            "AuN": "luciano ferreira"
+                        },
+                        {
+                            "AuId": 2018518973,
+                            "AuN": "adiel teixeira de almeidafilho"
+                        }
+                    ],
+                    "doi": "10.1155/2018/8564764",
+                    "journal": "journal of business research",
+                    "title": "sovereign credit risk assessment with multiple criteria using an outranking method",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 3006881314,
+                    "author": [
+                        {
+                            "AuId": 2180849734,
+                            "AuN": "darush yazdanfar"
+                        },
+                        {
+                            "AuId": 2182282729,
+                            "AuN": "peter ohman"
+                        }
+                    ],
+                    "doi": "10.1108/JES-01-2019-0030",
+                    "journal": "journal of business research",
+                    "title": "financial distress determinants among smes empirical evidence from sweden",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2995125260,
+                    "author": [
+                        {
+                            "AuId": 2969906519,
+                            "AuN": "p\u0159emysl pisa\u0159"
+                        }
+                    ],
+                    "doi": "10.21511/IMFI.16(4).2019.24",
+                    "journal": "journal of business research",
+                    "title": "european smes value management based on controlling financial analysis and ratios empirical study",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2617954461,
+                    "author": [
+                        {
+                            "AuId": 2618885636,
+                            "AuN": "sara c r marques"
+                        },
+                        {
+                            "AuId": 2132196440,
+                            "AuN": "fernando ferreira"
+                        },
+                        {
+                            "AuId": 25284668,
+                            "AuN": "ieva meidut\u0117kavaliauskien\u0117"
+                        }
+                    ],
+                    "doi": "10.3846/CBME.2017.020",
+                    "journal": "journal of business research",
+                    "title": "classifying residential real estate based on their exposure to crime a research agenda",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3035310621,
+                    "author": [
+                        {
+                            "AuId": 1702208339,
+                            "AuN": "jaroslav belas"
+                        },
+                        {
+                            "AuId": 1330771226,
+                            "AuN": "beata gavurova"
+                        },
+                        {
+                            "AuId": 2619990928,
+                            "AuN": "jan kubalek"
+                        },
+                        {
+                            "AuId": 2072085136,
+                            "AuN": "matus kubak"
+                        }
+                    ],
+                    "doi": "10.3846/JBEM.2020.12274",
+                    "journal": "journal of business research",
+                    "title": "discrepancies in perception and evaluation of macroenvironment sectoral analysis",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2921847843,
+                    "author": [
+                        {
+                            "AuId": 2211016148,
+                            "AuN": "cinzia colapinto"
+                        },
+                        {
+                            "AuId": 1830165170,
+                            "AuN": "mariangela zenga"
+                        }
+                    ],
+                    "doi": "10.1002/9781119579465.CH7",
+                    "journal": "journal of business research",
+                    "title": "access to credit for smes after the 2008 financial crisis the northern italian perspective",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2949504955,
+                    "author": [
+                        {
+                            "AuId": 2147654939,
+                            "AuN": "ramona diana leon"
+                        },
+                        {
+                            "AuId": 2951256037,
+                            "AuN": "lauren\u021biu mihai treap\u0103t"
+                        },
+                        {
+                            "AuId": 2950083739,
+                            "AuN": "anda gheorghiu"
+                        },
+                        {
+                            "AuId": 3115162512,
+                            "AuN": "sergiu octavian stan"
+                        }
+                    ],
+                    "doi": "10.1108/K-05-2018-0250",
+                    "journal": "journal of business research",
+                    "title": "a microcredit evaluation model for non bank financial institutions",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3018752162,
+                    "author": [
+                        {
+                            "AuId": 3006421733,
+                            "AuN": "yu tumanov"
+                        }
+                    ],
+                    "doi": "10.26794/2308-944X-2020-8-1-27-33",
+                    "journal": "journal of business research",
+                    "title": "the analysis of financial stability and profitability of british petroleum bp for the period 2014 2019",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3004013006,
+                    "author": [
+                        {
+                            "AuId": 3006421733,
+                            "AuN": "yu tumanov"
+                        }
+                    ],
+                    "doi": "10.26794/2308-944X-2019-7-4-34-38",
+                    "journal": "journal of business research",
+                    "title": "the overview of the evaluation methods of the company s creditworthiness",
+                    "year_mag": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1016/J.NAJEF.2016.05.008",
+            "journal": "NORTH AMERICAN JOURNAL OF ECONOMICS AND FINANCE",
+            "title": "creditworthiness evaluation of italian smes at the beginning of the 2007 2008 crisis an mcda approach",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-3-319-41000-5"
+            ],
+            "ISSN": [
+                "0302-9743"
+            ],
+            "PId": 2476616280,
+            "cited": [
+                {
+                    "PId": 2152195021,
+                    "author": [
+                        {
+                            "AuId": 2185363493,
+                            "AuN": "james kennedy"
+                        },
+                        {
+                            "AuId": 303610751,
+                            "AuN": "russell c eberhart"
+                        }
+                    ],
+                    "doi": "10.1109/ICNN.1995.488968",
+                    "title": "particle swarm optimization",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2169245194,
+                    "author": [
+                        {
+                            "AuId": 2973484905,
+                            "AuN": "m clerc"
+                        },
+                        {
+                            "AuId": 2185363493,
+                            "AuN": "james kennedy"
+                        }
+                    ],
+                    "doi": "10.1109/4235.985692",
+                    "journal": "ieee transactions on evolutionary computation",
+                    "title": "the particle swarm explosion stability and convergence in a multidimensional complex space",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2081749411,
+                    "author": [
+                        {
+                            "AuId": 2667325619,
+                            "AuN": "ioan cristian trelea"
+                        }
+                    ],
+                    "doi": "10.1016/S0020-0190(02)00447-7",
+                    "journal": "information processing letters",
+                    "title": "the particle swarm optimization algorithm convergence analysis and parameter selection",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2111393363,
+                    "author": [
+                        {
+                            "AuId": 2108461779,
+                            "AuN": "f van den bergh"
+                        },
+                        {
+                            "AuId": 2002721718,
+                            "AuN": "andries p engelbrecht"
+                        }
+                    ],
+                    "doi": "10.1016/J.INS.2005.02.003",
+                    "journal": "information sciences",
+                    "title": "a study of particle swarm optimization particle trajectories",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1628481780,
+                    "author": [
+                        {
+                            "AuId": 2145099535,
+                            "AuN": "ender ozcan"
+                        },
+                        {
+                            "AuId": 1427388072,
+                            "AuN": "chilukuri k mohan"
+                        }
+                    ],
+                    "doi": "10.1109/CEC.1999.785510",
+                    "title": "particle swarm optimization surfing the waves",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2138273409,
+                    "author": [
+                        {
+                            "AuId": 2137673873,
+                            "AuN": "yongling zheng"
+                        },
+                        {
+                            "AuId": 2113748427,
+                            "AuN": "longhua ma"
+                        },
+                        {
+                            "AuId": 2307469542,
+                            "AuN": "liyan zhang"
+                        },
+                        {
+                            "AuId": 2130200414,
+                            "AuN": "jixin qian"
+                        }
+                    ],
+                    "doi": "10.1109/ICMLC.2003.1259789",
+                    "title": "on the convergence analysis and parameter selection in particle swarm optimization",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2080647549,
+                    "author": [
+                        {
+                            "AuId": 2106995610,
+                            "AuN": "emilio f campana"
+                        },
+                        {
+                            "AuId": 2307913282,
+                            "AuN": "giovanni fasano"
+                        },
+                        {
+                            "AuId": 2224106649,
+                            "AuN": "antonio pinto"
+                        }
+                    ],
+                    "doi": "10.1007/S10898-009-9493-0",
+                    "journal": "journal of global optimization",
+                    "title": "dynamic analysis for the selection of parameters and initial population in particle swarm optimization",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2116395530,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2307913282,
+                            "AuN": "giovanni fasano"
+                        },
+                        {
+                            "AuId": 2307913282,
+                            "AuN": "giovanni fasano"
+                        },
+                        {
+                            "AuId": 1971232791,
+                            "AuN": "riccardo gusso"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1904873",
+                    "title": "particle swarm optimization with non smooth penalty reformulation for a complex portfolio selection problem",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2146021205,
+                    "author": [
+                        {
+                            "AuId": 2030200780,
+                            "AuN": "riccardo poli"
+                        }
+                    ],
+                    "doi": "10.1145/1274000.1274075",
+                    "title": "on the moments of the sampling distribution of particle swarm optimisers",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1769447825,
+                    "author": [
+                        {
+                            "AuId": 2106995610,
+                            "AuN": "emilio f campana"
+                        },
+                        {
+                            "AuId": 2138434381,
+                            "AuN": "matteo diez"
+                        },
+                        {
+                            "AuId": 2307913282,
+                            "AuN": "giovanni fasano"
+                        },
+                        {
+                            "AuId": 2779396482,
+                            "AuN": "daniele peri"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-38703-6_13",
+                    "title": "initial particles position for pso in bound constrained optimization",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2196818912,
+                    "author": [
+                        {
+                            "AuId": 2138434381,
+                            "AuN": "matteo diez"
+                        },
+                        {
+                            "AuId": 2145955850,
+                            "AuN": "andrea serani"
+                        },
+                        {
+                            "AuId": 2343158904,
+                            "AuN": "cecilia leotardi"
+                        },
+                        {
+                            "AuId": 2106995610,
+                            "AuN": "emilio f campana"
+                        },
+                        {
+                            "AuId": 2779396482,
+                            "AuN": "daniele peri"
+                        },
+                        {
+                            "AuId": 520592288,
+                            "AuN": "umberto iemma"
+                        },
+                        {
+                            "AuId": 2307913282,
+                            "AuN": "giovanni fasano"
+                        },
+                        {
+                            "AuId": 1234920506,
+                            "AuN": "silvio giove"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-11857-4_14",
+                    "title": "a proposal of pso particles initialization for costly unconstrained optimization problems orthoinit",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1251279431,
+                    "author": [
+                        {
+                            "AuId": 2030200780,
+                            "AuN": "riccardo poli"
+                        }
+                    ],
+                    "title": "csm 465 the sampling distribution of particle swarm optimisers and their stability",
+                    "year_mag": 2007
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2766654431,
+                    "author": [
+                        {
+                            "AuId": 2766125887,
+                            "AuN": "francesco romito"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-69404-7_20",
+                    "title": "hybridization and discretization techniques to speed up genetic algorithm and solve genopt problems",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1007/978-3-319-41000-5_32",
+            "title": "dense orthogonal initialization for deterministic pso orthoinit ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-073541438-9"
+            ],
+            "ISSN": [
+                "0094-243X"
+            ],
+            "PId": 2534362914,
+            "cited": [
+                {
+                    "PId": 2316564661,
+                    "author": [
+                        {
+                            "AuId": 2404132423,
+                            "AuN": "magnus r hestenes"
+                        },
+                        {
+                            "AuId": 2251862946,
+                            "AuN": "eduard stiefel"
+                        }
+                    ],
+                    "doi": "10.6028/JRES.049.044",
+                    "journal": "journal of research of the national bureau of standards",
+                    "title": "methods of conjugate gradients for solving linear systems",
+                    "year_mag": 1952
+                },
+                {
+                    "PId": 2059125718,
+                    "author": [
+                        {
+                            "AuId": 2307913282,
+                            "AuN": "giovanni fasano"
+                        },
+                        {
+                            "AuId": 703412785,
+                            "AuN": "stefano lucidi"
+                        }
+                    ],
+                    "doi": "10.1007/S11590-009-0132-Y",
+                    "journal": "optimization letters",
+                    "title": "a nonmonotone truncated newton krylov method exploiting negative curvature directions for large scale unconstrained optimization",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2146773115,
+                    "author": [
+                        {
+                            "AuId": 2307913282,
+                            "AuN": "giovanni fasano"
+                        }
+                    ],
+                    "doi": "10.1007/S10957-006-9119-3",
+                    "journal": "journal of optimization theory and applications",
+                    "title": "lanczos conjugate gradient method and pseudoinverse computation on indefinite and singular systems",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2097703933,
+                    "author": [
+                        {
+                            "AuId": 2307913282,
+                            "AuN": "giovanni fasano"
+                        }
+                    ],
+                    "doi": "10.1007/S10957-014-0600-0",
+                    "journal": "journal of optimization theory and applications",
+                    "title": "a framework of conjugate direction methods for symmetric linear systems in optimization",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1063/1.4965395",
+            "title": "polarity for quadratic hypersurfaces and conjugate gradient method relation between degenerate and nondegenerate cases",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1568-4946"
+            ],
+            "PId": 1491858186,
+            "cited": [
+                {
+                    "PId": 2152195021,
+                    "author": [
+                        {
+                            "AuId": 2185363493,
+                            "AuN": "james kennedy"
+                        },
+                        {
+                            "AuId": 303610751,
+                            "AuN": "russell c eberhart"
+                        }
+                    ],
+                    "doi": "10.1109/ICNN.1995.488968",
+                    "title": "particle swarm optimization",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2165299997,
+                    "author": [
+                        {
+                            "AuId": 2125785102,
+                            "AuN": "yuhui shi"
+                        },
+                        {
+                            "AuId": 303610751,
+                            "AuN": "russell c eberhart"
+                        }
+                    ],
+                    "doi": "10.1109/ICEC.1998.699146",
+                    "title": "a modified particle swarm optimizer",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2126554879,
+                    "author": [
+                        {
+                            "AuId": 99815363,
+                            "AuN": "eric bonabeau"
+                        },
+                        {
+                            "AuId": 3021545478,
+                            "AuN": "marco dorigo"
+                        },
+                        {
+                            "AuId": 1815580869,
+                            "AuN": "guy theraulaz"
+                        }
+                    ],
+                    "title": "swarm intelligence from natural to artificial systems",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 173895910,
+                    "author": [
+                        {
+                            "AuId": 1965690711,
+                            "AuN": "salvatore greco"
+                        },
+                        {
+                            "AuId": 95379530,
+                            "AuN": "matthias ehrgott"
+                        },
+                        {
+                            "AuId": 2112348636,
+                            "AuN": "jose rui figueira"
+                        }
+                    ],
+                    "doi": "10.1007/B100605",
+                    "journal": "operations research and management science",
+                    "title": "multiple criteria decision analysis state of the art surveys",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2077658674,
+                    "author": [
+                        {
+                            "AuId": 2061815470,
+                            "AuN": "roger fletcher"
+                        }
+                    ],
+                    "title": "practical methods of optimization",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2008499862,
+                    "author": [
+                        {
+                            "AuId": 2061048483,
+                            "AuN": "kaisa miettinen"
+                        }
+                    ],
+                    "title": "nonlinear multiobjective optimization",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2543580944,
+                    "author": [
+                        {
+                            "AuId": 2185363493,
+                            "AuN": "james kennedy"
+                        },
+                        {
+                            "AuId": 303610751,
+                            "AuN": "russell c eberhart"
+                        }
+                    ],
+                    "doi": "10.1007/S11721-007-0002-0",
+                    "journal": "swarm intelligence",
+                    "title": "particle swarm optimization",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2797177778,
+                    "author": [
+                        {
+                            "AuId": 2557472754,
+                            "AuN": "e l lehmann"
+                        },
+                        {
+                            "AuId": 2947579103,
+                            "AuN": "h j m dabrera"
+                        }
+                    ],
+                    "title": "nonparametrics statistical methods based on ranks",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 1500644178,
+                    "author": [
+                        {
+                            "AuId": 99815363,
+                            "AuN": "eric bonabeau"
+                        },
+                        {
+                            "AuId": 3021545478,
+                            "AuN": "marco dorigo"
+                        },
+                        {
+                            "AuId": 1815580869,
+                            "AuN": "guy theraulaz"
+                        }
+                    ],
+                    "title": "from natural to artificial swarm intelligence",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 1748537427,
+                    "author": [
+                        {
+                            "AuId": 1988768151,
+                            "AuN": "jean pierre brans"
+                        },
+                        {
+                            "AuId": 2707661553,
+                            "AuN": "ph vincke"
+                        }
+                    ],
+                    "doi": "10.1287/MNSC.31.6.647",
+                    "journal": "management science",
+                    "title": "note a preference ranking organisation method the promethee method for multiple criteria decision making",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2162397932,
+                    "author": [
+                        {
+                            "AuId": 2261880625,
+                            "AuN": "tunchan cura"
+                        }
+                    ],
+                    "doi": "10.1016/J.NONRWA.2008.04.023",
+                    "journal": "nonlinear analysis real world applications",
+                    "title": "particle swarm optimization approach to portfolio optimization",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1998198857,
+                    "author": [
+                        {
+                            "AuId": 1228470815,
+                            "AuN": "eric jacquetlagreze"
+                        },
+                        {
+                            "AuId": 2175333331,
+                            "AuN": "yannis siskos"
+                        }
+                    ],
+                    "doi": "10.1016/S0377-2217(00)00035-7",
+                    "journal": "european journal of operational research",
+                    "title": "preference disaggregation 20 years of mcda experience",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2118016020,
+                    "author": [
+                        {
+                            "AuId": 2167763485,
+                            "AuN": "vincent mousseau"
+                        },
+                        {
+                            "AuId": 2112348636,
+                            "AuN": "jose rui figueira"
+                        },
+                        {
+                            "AuId": 2112348636,
+                            "AuN": "jose rui figueira"
+                        },
+                        {
+                            "AuId": 2203785923,
+                            "AuN": "j ph naux"
+                        }
+                    ],
+                    "doi": "10.1016/S0377-2217(00)00041-2",
+                    "journal": "european journal of operational research",
+                    "title": "using assignment examples to infer weights for electre tri method some experimental results",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2171436742,
+                    "author": [
+                        {
+                            "AuId": 2166802239,
+                            "AuN": "luis c dias"
+                        },
+                        {
+                            "AuId": 2167763485,
+                            "AuN": "vincent mousseau"
+                        },
+                        {
+                            "AuId": 2112348636,
+                            "AuN": "jose rui figueira"
+                        },
+                        {
+                            "AuId": 1969268481,
+                            "AuN": "joao c n climaco"
+                        }
+                    ],
+                    "doi": "10.1016/S0377-2217(01)00250-8",
+                    "journal": "european journal of operational research",
+                    "title": "an aggregation disaggregation approach to obtain robust conclusions with electre tri",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 3012317737,
+                    "author": [
+                        {
+                            "AuId": 3010856954,
+                            "AuN": "christoph witzgall"
+                        },
+                        {
+                            "AuId": 2061815470,
+                            "AuN": "roger fletcher"
+                        }
+                    ],
+                    "doi": "10.2307/2008742",
+                    "journal": "mathematics of computation",
+                    "title": "practical methods of optimization",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2123214332,
+                    "author": [
+                        {
+                            "AuId": 165712998,
+                            "AuN": "michael doumpos"
+                        },
+                        {
+                            "AuId": 2067694064,
+                            "AuN": "yannis marinakis"
+                        },
+                        {
+                            "AuId": 2041279598,
+                            "AuN": "magdalene marinaki"
+                        },
+                        {
+                            "AuId": 723730218,
+                            "AuN": "constantin zopounidis"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2008.11.035",
+                    "journal": "european journal of operational research",
+                    "title": "an evolutionary approach to construction of outranking models for multicriteria classification the case of the electre tri method",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1952851966,
+                    "author": [
+                        {
+                            "AuId": 2694516714,
+                            "AuN": "wenjun zhang"
+                        },
+                        {
+                            "AuId": 2712013150,
+                            "AuN": "xiaofeng xie"
+                        },
+                        {
+                            "AuId": 2159669773,
+                            "AuN": "dechun bi"
+                        }
+                    ],
+                    "doi": "10.1109/CEC.2004.1331185",
+                    "title": "handling boundary constraints for numerical optimization by particle swarm flying in periodic search space",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2116395530,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2307913282,
+                            "AuN": "giovanni fasano"
+                        },
+                        {
+                            "AuId": 2307913282,
+                            "AuN": "giovanni fasano"
+                        },
+                        {
+                            "AuId": 1971232791,
+                            "AuN": "riccardo gusso"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1904873",
+                    "title": "particle swarm optimization with non smooth penalty reformulation for a complex portfolio selection problem",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2002162495,
+                    "author": [
+                        {
+                            "AuId": 165712998,
+                            "AuN": "michael doumpos"
+                        },
+                        {
+                            "AuId": 723730218,
+                            "AuN": "constantin zopounidis"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2010.05.029",
+                    "journal": "european journal of operational research",
+                    "title": "preference disaggregation and statistical learning for multicriteria decision support a review",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2094725653,
+                    "author": [
+                        {
+                            "AuId": 14250771,
+                            "AuN": "nikos s thomaidis"
+                        },
+                        {
+                            "AuId": 2103557469,
+                            "AuN": "timotheos angelidis"
+                        },
+                        {
+                            "AuId": 2441202816,
+                            "AuN": "vassilios vassiliadis"
+                        },
+                        {
+                            "AuId": 370491620,
+                            "AuN": "georgios dounias"
+                        }
+                    ],
+                    "doi": "10.1142/S1793005709001519",
+                    "journal": "new mathematics and natural computation",
+                    "title": "active portfolio management with cardinality constraints an application of particle swarm optimization",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2024692910,
+                    "author": [
+                        {
+                            "AuId": 1184353500,
+                            "AuN": "nabil belacel"
+                        },
+                        {
+                            "AuId": 2278899211,
+                            "AuN": "hiral bhasker raval"
+                        },
+                        {
+                            "AuId": 147374232,
+                            "AuN": "abraham p punnen"
+                        }
+                    ],
+                    "doi": "10.1016/J.COR.2005.07.019",
+                    "journal": "computers & operations research",
+                    "title": "learning multicriteria fuzzy classification method proaftn from data",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1516082798,
+                    "author": [
+                        {
+                            "AuId": 732278140,
+                            "AuN": "stefan eppe"
+                        },
+                        {
+                            "AuId": 126617054,
+                            "AuN": "yves de smet"
+                        },
+                        {
+                            "AuId": 2072053836,
+                            "AuN": "thomas stutzle"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-24873-3_5",
+                    "title": "a bi objective optimization model to eliciting decision maker s preferences for the promethee ii method",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2039110906,
+                    "author": [
+                        {
+                            "AuId": 1907855098,
+                            "AuN": "g di pillo"
+                        },
+                        {
+                            "AuId": 1537480432,
+                            "AuN": "l grippo"
+                        }
+                    ],
+                    "doi": "10.1137/0327068",
+                    "journal": "siam journal on control and optimization",
+                    "title": "exact penalty functions in constrained optimization",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2103180510,
+                    "author": [
+                        {
+                            "AuId": 2137526480,
+                            "AuN": "sajid siraj"
+                        },
+                        {
+                            "AuId": 2137526480,
+                            "AuN": "sajid siraj"
+                        },
+                        {
+                            "AuId": 2110746436,
+                            "AuN": "l mikhailov"
+                        },
+                        {
+                            "AuId": 2136990782,
+                            "AuN": "john a keane"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2012.01.049",
+                    "journal": "european journal of operational research",
+                    "title": "preference elicitation from inconsistent judgments using multi objective optimization",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1976086748,
+                    "author": [
+                        {
+                            "AuId": 2172448856,
+                            "AuN": "willard i zangwill"
+                        }
+                    ],
+                    "doi": "10.1287/MNSC.13.5.344",
+                    "journal": "management science",
+                    "title": "non linear programming via penalty functions",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 2478303820,
+                    "author": [
+                        {
+                            "AuId": 2156731892,
+                            "AuN": "toby walsh"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-23114-3",
+                    "title": "algorithmic decision theory",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2197062234,
+                    "author": [
+                        {
+                            "AuId": 2167763485,
+                            "AuN": "vincent mousseau"
+                        },
+                        {
+                            "AuId": 2134359788,
+                            "AuN": "roman slowinski"
+                        },
+                        {
+                            "AuId": 314726109,
+                            "AuN": "piotr zielniewicz"
+                        }
+                    ],
+                    "title": "electre tri 2 0a methodological guide and user s documentation",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 89699017,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2307913282,
+                            "AuN": "giovanni fasano"
+                        },
+                        {
+                            "AuId": 1971232791,
+                            "AuN": "riccardo gusso"
+                        }
+                    ],
+                    "doi": "10.1007/978-88-470-2342-0_15",
+                    "title": "portfolio selection with an alternative measure of risk computational performances of particle swarm optimization and genetic algorithms",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1497368445,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2008405047,
+                            "AuN": "stefania funari"
+                        },
+                        {
+                            "AuId": 2171941230,
+                            "AuN": "f siviero"
+                        }
+                    ],
+                    "title": "an mcda based approach for creditworthiness assessment",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 116521920,
+                    "author": [
+                        {
+                            "AuId": 2028096276,
+                            "AuN": "pekka korhonen"
+                        },
+                        {
+                            "AuId": 2949073627,
+                            "AuN": "jyrki wallenius"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-540-92828-7_9",
+                    "title": "interactive multiple objective programming methods",
+                    "year_mag": 2010
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2783956368,
+                    "author": [
+                        {
+                            "AuId": 2610202497,
+                            "AuN": "michalis doumpos"
+                        },
+                        {
+                            "AuId": 2112348636,
+                            "AuN": "jose rui figueira"
+                        }
+                    ],
+                    "doi": "10.1016/J.OMEGA.2018.01.003",
+                    "journal": "omega international journal of management science",
+                    "title": "a multicriteria outranking approach for modeling corporate credit ratings an application of the electre tri nc method",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2467047540,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2008405047,
+                            "AuN": "stefania funari"
+                        },
+                        {
+                            "AuId": 1971232791,
+                            "AuN": "riccardo gusso"
+                        }
+                    ],
+                    "doi": "10.1016/J.NAJEF.2016.05.008",
+                    "journal": "omega international journal of management science",
+                    "title": "creditworthiness evaluation of italian smes at the beginning of the 2007 2008 crisis an mcda approach",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2788823141,
+                    "author": [
+                        {
+                            "AuId": 1176293400,
+                            "AuN": "silvia angilella"
+                        },
+                        {
+                            "AuId": 2626930332,
+                            "AuN": "sebastiano mazzu"
+                        }
+                    ],
+                    "doi": "10.1080/01605682.2017.1411313",
+                    "journal": "omega international journal of management science",
+                    "title": "a credit risk model with an automatic override for innovative small and medium sized enterprises",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2626992987,
+                    "author": [
+                        {
+                            "AuId": 2063399018,
+                            "AuN": "diego alonso gastelum chavira"
+                        },
+                        {
+                            "AuId": 2159171449,
+                            "AuN": "juan c lopez"
+                        },
+                        {
+                            "AuId": 2105607374,
+                            "AuN": "jesus jaime solano noriega"
+                        },
+                        {
+                            "AuId": 2625668669,
+                            "AuN": "omar ahumada valenzuela"
+                        },
+                        {
+                            "AuId": 2306053843,
+                            "AuN": "pavel anselmo alvarez carrillo"
+                        }
+                    ],
+                    "doi": "10.1016/J.ASOC.2017.06.021",
+                    "journal": "omega international journal of management science",
+                    "title": "a credit ranking model for a parafinancial company based on the electre iii method and a multiobjective evolutionary algorithm",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3015697390,
+                    "author": [
+                        {
+                            "AuId": 2887929902,
+                            "AuN": "pavel anselmo alvarez"
+                        },
+                        {
+                            "AuId": 2137383165,
+                            "AuN": "danielle costa morais"
+                        },
+                        {
+                            "AuId": 2159171449,
+                            "AuN": "juan c lopez"
+                        },
+                        {
+                            "AuId": 2274344548,
+                            "AuN": "adiel teixeira de almeida"
+                        }
+                    ],
+                    "doi": "10.1111/ITOR.12798",
+                    "journal": "omega international journal of management science",
+                    "title": "an electre iii based consensus reaching process to improve a collective solution",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3026554755,
+                    "author": [
+                        {
+                            "AuId": 2127814862,
+                            "AuN": "a i marques"
+                        },
+                        {
+                            "AuId": 2167959672,
+                            "AuN": "vicente garcia"
+                        },
+                        {
+                            "AuId": 2440195995,
+                            "AuN": "j s sanchez"
+                        }
+                    ],
+                    "doi": "10.1007/S13748-020-00207-1",
+                    "journal": "omega international journal of management science",
+                    "title": "ranking based mcdm models in financial management applications analysis and emerging challenges",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2775202659,
+                    "author": [
+                        {
+                            "AuId": 2235957301,
+                            "AuN": "eduardo fernandez"
+                        },
+                        {
+                            "AuId": 1272526337,
+                            "AuN": "claudia gomezsantillan"
+                        },
+                        {
+                            "AuId": 1578552008,
+                            "AuN": "laura cruzreyes"
+                        },
+                        {
+                            "AuId": 2476392720,
+                            "AuN": "nelson rangelvaldez"
+                        },
+                        {
+                            "AuId": 2773346459,
+                            "AuN": "shulamith bastiani"
+                        }
+                    ],
+                    "doi": "10.1155/2017/1083062",
+                    "journal": "omega international journal of management science",
+                    "title": "design and solution of a surrogate model for portfolio optimization based on project ranking",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2961415867,
+                    "author": [
+                        {
+                            "AuId": 2099970401,
+                            "AuN": "wojciech froelich"
+                        },
+                        {
+                            "AuId": 1946659776,
+                            "AuN": "petr hajek"
+                        }
+                    ],
+                    "doi": "10.1007/978-981-13-8311-3_9",
+                    "journal": "omega international journal of management science",
+                    "title": "ivifcm topsis for bank credit risk assessment",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2592659467,
+                    "author": [
+                        {
+                            "AuId": 2586645467,
+                            "AuN": "qingyuan xu"
+                        },
+                        {
+                            "AuId": 2332819555,
+                            "AuN": "qingyue xu"
+                        }
+                    ],
+                    "doi": "10.24251/HICSS.2017.141",
+                    "journal": "omega international journal of management science",
+                    "title": "model design and implementation of enterprise credit information based on data mining",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1016/J.ASOC.2014.12.003",
+            "journal": "APPLIED SOFT COMPUTING",
+            "title": "an evolutionary approach to preference disaggregation in a murame based creditworthiness problem",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9783319024981"
+            ],
+            "PId": 150543351,
+            "cited": [
+                {
+                    "PId": 2152195021,
+                    "author": [
+                        {
+                            "AuId": 2185363493,
+                            "AuN": "james kennedy"
+                        },
+                        {
+                            "AuId": 303610751,
+                            "AuN": "russell c eberhart"
+                        }
+                    ],
+                    "doi": "10.1109/ICNN.1995.488968",
+                    "title": "particle swarm optimization",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2165299997,
+                    "author": [
+                        {
+                            "AuId": 2125785102,
+                            "AuN": "yuhui shi"
+                        },
+                        {
+                            "AuId": 303610751,
+                            "AuN": "russell c eberhart"
+                        }
+                    ],
+                    "doi": "10.1109/ICEC.1998.699146",
+                    "title": "a modified particle swarm optimizer",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2077658674,
+                    "author": [
+                        {
+                            "AuId": 2061815470,
+                            "AuN": "roger fletcher"
+                        }
+                    ],
+                    "title": "practical methods of optimization",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2543580944,
+                    "author": [
+                        {
+                            "AuId": 2185363493,
+                            "AuN": "james kennedy"
+                        },
+                        {
+                            "AuId": 303610751,
+                            "AuN": "russell c eberhart"
+                        }
+                    ],
+                    "doi": "10.1007/S11721-007-0002-0",
+                    "journal": "swarm intelligence",
+                    "title": "particle swarm optimization",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2797177778,
+                    "author": [
+                        {
+                            "AuId": 2557472754,
+                            "AuN": "e l lehmann"
+                        },
+                        {
+                            "AuId": 2947579103,
+                            "AuN": "h j m dabrera"
+                        }
+                    ],
+                    "title": "nonparametrics statistical methods based on ranks",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 1500644178,
+                    "author": [
+                        {
+                            "AuId": 99815363,
+                            "AuN": "eric bonabeau"
+                        },
+                        {
+                            "AuId": 3021545478,
+                            "AuN": "marco dorigo"
+                        },
+                        {
+                            "AuId": 1815580869,
+                            "AuN": "guy theraulaz"
+                        }
+                    ],
+                    "title": "from natural to artificial swarm intelligence",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2162397932,
+                    "author": [
+                        {
+                            "AuId": 2261880625,
+                            "AuN": "tunchan cura"
+                        }
+                    ],
+                    "doi": "10.1016/J.NONRWA.2008.04.023",
+                    "journal": "nonlinear analysis real world applications",
+                    "title": "particle swarm optimization approach to portfolio optimization",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1998198857,
+                    "author": [
+                        {
+                            "AuId": 1228470815,
+                            "AuN": "eric jacquetlagreze"
+                        },
+                        {
+                            "AuId": 2175333331,
+                            "AuN": "yannis siskos"
+                        }
+                    ],
+                    "doi": "10.1016/S0377-2217(00)00035-7",
+                    "journal": "european journal of operational research",
+                    "title": "preference disaggregation 20 years of mcda experience",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 3012317737,
+                    "author": [
+                        {
+                            "AuId": 3010856954,
+                            "AuN": "christoph witzgall"
+                        },
+                        {
+                            "AuId": 2061815470,
+                            "AuN": "roger fletcher"
+                        }
+                    ],
+                    "doi": "10.2307/2008742",
+                    "journal": "mathematics of computation",
+                    "title": "practical methods of optimization",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2123214332,
+                    "author": [
+                        {
+                            "AuId": 165712998,
+                            "AuN": "michael doumpos"
+                        },
+                        {
+                            "AuId": 2067694064,
+                            "AuN": "yannis marinakis"
+                        },
+                        {
+                            "AuId": 2041279598,
+                            "AuN": "magdalene marinaki"
+                        },
+                        {
+                            "AuId": 723730218,
+                            "AuN": "constantin zopounidis"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2008.11.035",
+                    "journal": "european journal of operational research",
+                    "title": "an evolutionary approach to construction of outranking models for multicriteria classification the case of the electre tri method",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1952851966,
+                    "author": [
+                        {
+                            "AuId": 2694516714,
+                            "AuN": "wenjun zhang"
+                        },
+                        {
+                            "AuId": 2712013150,
+                            "AuN": "xiaofeng xie"
+                        },
+                        {
+                            "AuId": 2159669773,
+                            "AuN": "dechun bi"
+                        }
+                    ],
+                    "doi": "10.1109/CEC.2004.1331185",
+                    "title": "handling boundary constraints for numerical optimization by particle swarm flying in periodic search space",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 395961945,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2117012253,
+                            "AuN": "claudio pizzi"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-05014-0",
+                    "title": "mathematical and statistical methods for actuarial sciences and finance",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2094725653,
+                    "author": [
+                        {
+                            "AuId": 14250771,
+                            "AuN": "nikos s thomaidis"
+                        },
+                        {
+                            "AuId": 2103557469,
+                            "AuN": "timotheos angelidis"
+                        },
+                        {
+                            "AuId": 2441202816,
+                            "AuN": "vassilios vassiliadis"
+                        },
+                        {
+                            "AuId": 370491620,
+                            "AuN": "georgios dounias"
+                        }
+                    ],
+                    "doi": "10.1142/S1793005709001519",
+                    "journal": "new mathematics and natural computation",
+                    "title": "active portfolio management with cardinality constraints an application of particle swarm optimization",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2024692910,
+                    "author": [
+                        {
+                            "AuId": 1184353500,
+                            "AuN": "nabil belacel"
+                        },
+                        {
+                            "AuId": 2278899211,
+                            "AuN": "hiral bhasker raval"
+                        },
+                        {
+                            "AuId": 147374232,
+                            "AuN": "abraham p punnen"
+                        }
+                    ],
+                    "doi": "10.1016/J.COR.2005.07.019",
+                    "journal": "computers & operations research",
+                    "title": "learning multicriteria fuzzy classification method proaftn from data",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2039110906,
+                    "author": [
+                        {
+                            "AuId": 1907855098,
+                            "AuN": "g di pillo"
+                        },
+                        {
+                            "AuId": 1537480432,
+                            "AuN": "l grippo"
+                        }
+                    ],
+                    "doi": "10.1137/0327068",
+                    "journal": "siam journal on control and optimization",
+                    "title": "exact penalty functions in constrained optimization",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 1976086748,
+                    "author": [
+                        {
+                            "AuId": 2172448856,
+                            "AuN": "willard i zangwill"
+                        }
+                    ],
+                    "doi": "10.1287/MNSC.13.5.344",
+                    "journal": "management science",
+                    "title": "non linear programming via penalty functions",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 2197062234,
+                    "author": [
+                        {
+                            "AuId": 2167763485,
+                            "AuN": "vincent mousseau"
+                        },
+                        {
+                            "AuId": 2134359788,
+                            "AuN": "roman slowinski"
+                        },
+                        {
+                            "AuId": 314726109,
+                            "AuN": "piotr zielniewicz"
+                        }
+                    ],
+                    "title": "electre tri 2 0a methodological guide and user s documentation",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 89699017,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2307913282,
+                            "AuN": "giovanni fasano"
+                        },
+                        {
+                            "AuId": 1971232791,
+                            "AuN": "riccardo gusso"
+                        }
+                    ],
+                    "doi": "10.1007/978-88-470-2342-0_15",
+                    "title": "portfolio selection with an alternative measure of risk computational performances of particle swarm optimization and genetic algorithms",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1497368445,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2008405047,
+                            "AuN": "stefania funari"
+                        },
+                        {
+                            "AuId": 2171941230,
+                            "AuN": "f siviero"
+                        }
+                    ],
+                    "title": "an mcda based approach for creditworthiness assessment",
+                    "year_mag": 2008
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2516199704,
+                    "author": [
+                        {
+                            "AuId": 2996019856,
+                            "AuN": "gutha jaya krishna"
+                        },
+                        {
+                            "AuId": 2144512856,
+                            "AuN": "vadlamani ravi"
+                        }
+                    ],
+                    "doi": "10.1016/J.ENGAPPAI.2016.08.012",
+                    "journal": "engineering applications of artificial intelligence",
+                    "title": "evolutionary computing applied to customer relationship management a survey",
+                    "year_mag": 2016
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1007/978-3-319-02499-8_11",
+            "title": "particle swarm optimization for preference disaggregation in multicriteria credit scoring problems",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9783319041285"
+            ],
+            "ISSN": [
+                "2190-3018"
+            ],
+            "PId": 223960,
+            "cited": [
+                {
+                    "PId": 2152195021,
+                    "author": [
+                        {
+                            "AuId": 2185363493,
+                            "AuN": "james kennedy"
+                        },
+                        {
+                            "AuId": 303610751,
+                            "AuN": "russell c eberhart"
+                        }
+                    ],
+                    "doi": "10.1109/ICNN.1995.488968",
+                    "title": "particle swarm optimization",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2165299997,
+                    "author": [
+                        {
+                            "AuId": 2125785102,
+                            "AuN": "yuhui shi"
+                        },
+                        {
+                            "AuId": 303610751,
+                            "AuN": "russell c eberhart"
+                        }
+                    ],
+                    "doi": "10.1109/ICEC.1998.699146",
+                    "title": "a modified particle swarm optimizer",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2543580944,
+                    "author": [
+                        {
+                            "AuId": 2185363493,
+                            "AuN": "james kennedy"
+                        },
+                        {
+                            "AuId": 303610751,
+                            "AuN": "russell c eberhart"
+                        }
+                    ],
+                    "doi": "10.1007/S11721-007-0002-0",
+                    "journal": "swarm intelligence",
+                    "title": "particle swarm optimization",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1500644178,
+                    "author": [
+                        {
+                            "AuId": 99815363,
+                            "AuN": "eric bonabeau"
+                        },
+                        {
+                            "AuId": 3021545478,
+                            "AuN": "marco dorigo"
+                        },
+                        {
+                            "AuId": 1815580869,
+                            "AuN": "guy theraulaz"
+                        }
+                    ],
+                    "title": "from natural to artificial swarm intelligence",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 1748537427,
+                    "author": [
+                        {
+                            "AuId": 1988768151,
+                            "AuN": "jean pierre brans"
+                        },
+                        {
+                            "AuId": 2707661553,
+                            "AuN": "ph vincke"
+                        }
+                    ],
+                    "doi": "10.1287/MNSC.31.6.647",
+                    "journal": "management science",
+                    "title": "note a preference ranking organisation method the promethee method for multiple criteria decision making",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2162397932,
+                    "author": [
+                        {
+                            "AuId": 2261880625,
+                            "AuN": "tunchan cura"
+                        }
+                    ],
+                    "doi": "10.1016/J.NONRWA.2008.04.023",
+                    "journal": "nonlinear analysis real world applications",
+                    "title": "particle swarm optimization approach to portfolio optimization",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1998198857,
+                    "author": [
+                        {
+                            "AuId": 1228470815,
+                            "AuN": "eric jacquetlagreze"
+                        },
+                        {
+                            "AuId": 2175333331,
+                            "AuN": "yannis siskos"
+                        }
+                    ],
+                    "doi": "10.1016/S0377-2217(00)00035-7",
+                    "journal": "european journal of operational research",
+                    "title": "preference disaggregation 20 years of mcda experience",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 3012317737,
+                    "author": [
+                        {
+                            "AuId": 3010856954,
+                            "AuN": "christoph witzgall"
+                        },
+                        {
+                            "AuId": 2061815470,
+                            "AuN": "roger fletcher"
+                        }
+                    ],
+                    "doi": "10.2307/2008742",
+                    "journal": "mathematics of computation",
+                    "title": "practical methods of optimization",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2123214332,
+                    "author": [
+                        {
+                            "AuId": 165712998,
+                            "AuN": "michael doumpos"
+                        },
+                        {
+                            "AuId": 2067694064,
+                            "AuN": "yannis marinakis"
+                        },
+                        {
+                            "AuId": 2041279598,
+                            "AuN": "magdalene marinaki"
+                        },
+                        {
+                            "AuId": 723730218,
+                            "AuN": "constantin zopounidis"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2008.11.035",
+                    "journal": "european journal of operational research",
+                    "title": "an evolutionary approach to construction of outranking models for multicriteria classification the case of the electre tri method",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1952851966,
+                    "author": [
+                        {
+                            "AuId": 2694516714,
+                            "AuN": "wenjun zhang"
+                        },
+                        {
+                            "AuId": 2712013150,
+                            "AuN": "xiaofeng xie"
+                        },
+                        {
+                            "AuId": 2159669773,
+                            "AuN": "dechun bi"
+                        }
+                    ],
+                    "doi": "10.1109/CEC.2004.1331185",
+                    "title": "handling boundary constraints for numerical optimization by particle swarm flying in periodic search space",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2094725653,
+                    "author": [
+                        {
+                            "AuId": 14250771,
+                            "AuN": "nikos s thomaidis"
+                        },
+                        {
+                            "AuId": 2103557469,
+                            "AuN": "timotheos angelidis"
+                        },
+                        {
+                            "AuId": 2441202816,
+                            "AuN": "vassilios vassiliadis"
+                        },
+                        {
+                            "AuId": 370491620,
+                            "AuN": "georgios dounias"
+                        }
+                    ],
+                    "doi": "10.1142/S1793005709001519",
+                    "journal": "new mathematics and natural computation",
+                    "title": "active portfolio management with cardinality constraints an application of particle swarm optimization",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2024692910,
+                    "author": [
+                        {
+                            "AuId": 1184353500,
+                            "AuN": "nabil belacel"
+                        },
+                        {
+                            "AuId": 2278899211,
+                            "AuN": "hiral bhasker raval"
+                        },
+                        {
+                            "AuId": 147374232,
+                            "AuN": "abraham p punnen"
+                        }
+                    ],
+                    "doi": "10.1016/J.COR.2005.07.019",
+                    "journal": "computers & operations research",
+                    "title": "learning multicriteria fuzzy classification method proaftn from data",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2039110906,
+                    "author": [
+                        {
+                            "AuId": 1907855098,
+                            "AuN": "g di pillo"
+                        },
+                        {
+                            "AuId": 1537480432,
+                            "AuN": "l grippo"
+                        }
+                    ],
+                    "doi": "10.1137/0327068",
+                    "journal": "siam journal on control and optimization",
+                    "title": "exact penalty functions in constrained optimization",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 1976086748,
+                    "author": [
+                        {
+                            "AuId": 2172448856,
+                            "AuN": "willard i zangwill"
+                        }
+                    ],
+                    "doi": "10.1287/MNSC.13.5.344",
+                    "journal": "management science",
+                    "title": "non linear programming via penalty functions",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 2197062234,
+                    "author": [
+                        {
+                            "AuId": 2167763485,
+                            "AuN": "vincent mousseau"
+                        },
+                        {
+                            "AuId": 2134359788,
+                            "AuN": "roman slowinski"
+                        },
+                        {
+                            "AuId": 314726109,
+                            "AuN": "piotr zielniewicz"
+                        }
+                    ],
+                    "title": "electre tri 2 0a methodological guide and user s documentation",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 89699017,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2307913282,
+                            "AuN": "giovanni fasano"
+                        },
+                        {
+                            "AuId": 1971232791,
+                            "AuN": "riccardo gusso"
+                        }
+                    ],
+                    "doi": "10.1007/978-88-470-2342-0_15",
+                    "title": "portfolio selection with an alternative measure of risk computational performances of particle swarm optimization and genetic algorithms",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2274265471,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2008405047,
+                            "AuN": "stefania funari"
+                        },
+                        {
+                            "AuId": 1971232791,
+                            "AuN": "riccardo gusso"
+                        }
+                    ],
+                    "title": "il merito creditizio delle pmi italiane durante la crisi finanziaria l utilizzo di piu fonti informative per l analisi e lo scoring",
+                    "year_mag": 2012
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1007/978-3-319-04129-2_8",
+            "title": "a methodological proposal for an evolutionary approach to parameter inference in murame based problems",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0096-3003"
+            ],
+            "PId": 2116395530,
+            "cited": [
+                {
+                    "PId": 2152195021,
+                    "author": [
+                        {
+                            "AuId": 2185363493,
+                            "AuN": "james kennedy"
+                        },
+                        {
+                            "AuId": 303610751,
+                            "AuN": "russell c eberhart"
+                        }
+                    ],
+                    "doi": "10.1109/ICNN.1995.488968",
+                    "title": "particle swarm optimization",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2402846924,
+                    "author": [
+                        {
+                            "AuId": 2185363493,
+                            "AuN": "james kennedy"
+                        }
+                    ],
+                    "title": "particle swarm optimization",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2169245194,
+                    "author": [
+                        {
+                            "AuId": 2973484905,
+                            "AuN": "m clerc"
+                        },
+                        {
+                            "AuId": 2185363493,
+                            "AuN": "james kennedy"
+                        }
+                    ],
+                    "doi": "10.1109/4235.985692",
+                    "journal": "ieee transactions on evolutionary computation",
+                    "title": "the particle swarm explosion stability and convergence in a multidimensional complex space",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2165299997,
+                    "author": [
+                        {
+                            "AuId": 2125785102,
+                            "AuN": "yuhui shi"
+                        },
+                        {
+                            "AuId": 303610751,
+                            "AuN": "russell c eberhart"
+                        }
+                    ],
+                    "doi": "10.1109/ICEC.1998.699146",
+                    "title": "a modified particle swarm optimizer",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2019291268,
+                    "author": [
+                        {
+                            "AuId": 2148130746,
+                            "AuN": "philippe artzner"
+                        },
+                        {
+                            "AuId": 2304226911,
+                            "AuN": "freddy delbaen"
+                        },
+                        {
+                            "AuId": 1996632760,
+                            "AuN": "jeanmarc eber"
+                        },
+                        {
+                            "AuId": 2618472453,
+                            "AuN": "david heath"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9965.00068",
+                    "journal": "mathematical finance",
+                    "title": "coherent measures of risk",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2077658674,
+                    "author": [
+                        {
+                            "AuId": 2061815470,
+                            "AuN": "roger fletcher"
+                        }
+                    ],
+                    "title": "practical methods of optimization",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 1542184596,
+                    "author": [
+                        {
+                            "AuId": 1921370551,
+                            "AuN": "alexander j mcneil"
+                        },
+                        {
+                            "AuId": 2798356342,
+                            "AuN": "rdiger frey"
+                        },
+                        {
+                            "AuId": 2143469938,
+                            "AuN": "paul embrechts"
+                        }
+                    ],
+                    "title": "quantitative risk management concepts techniques and tools",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2543580944,
+                    "author": [
+                        {
+                            "AuId": 2185363493,
+                            "AuN": "james kennedy"
+                        },
+                        {
+                            "AuId": 303610751,
+                            "AuN": "russell c eberhart"
+                        }
+                    ],
+                    "doi": "10.1007/S11721-007-0002-0",
+                    "journal": "swarm intelligence",
+                    "title": "particle swarm optimization",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2170838015,
+                    "author": [
+                        {
+                            "AuId": 393004383,
+                            "AuN": "r tyrrell rockafellar"
+                        },
+                        {
+                            "AuId": 3001509686,
+                            "AuN": "stanislav uryasev"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.267256",
+                    "title": "conditional value at risk for general loss distributions",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2053913299,
+                    "author": [
+                        {
+                            "AuId": 2220829341,
+                            "AuN": "christos h papadimitriou"
+                        },
+                        {
+                            "AuId": 235792877,
+                            "AuN": "k steiglitz"
+                        }
+                    ],
+                    "title": "combinatorial optimization algorithms and complexity",
+                    "year_mag": 1981
+                },
+                {
+                    "PId": 600632748,
+                    "author": [
+                        {
+                            "AuId": 2148502203,
+                            "AuN": "vitaliy feoktistov"
+                        }
+                    ],
+                    "title": "differential evolution in search of solutions",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2111951371,
+                    "author": [
+                        {
+                            "AuId": 2807047192,
+                            "AuN": "june s park"
+                        },
+                        {
+                            "AuId": 2129715888,
+                            "AuN": "byung ha lim"
+                        },
+                        {
+                            "AuId": 2419906303,
+                            "AuN": "youngho lee"
+                        },
+                        {
+                            "AuId": 2501283631,
+                            "AuN": "martin r young"
+                        }
+                    ],
+                    "doi": "10.1287/MNSC.44.5.673",
+                    "journal": "management science",
+                    "title": "a minimax portfolio selection rule with linear programming solution",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2162397932,
+                    "author": [
+                        {
+                            "AuId": 2261880625,
+                            "AuN": "tunchan cura"
+                        }
+                    ],
+                    "doi": "10.1016/J.NONRWA.2008.04.023",
+                    "journal": "nonlinear analysis real world applications",
+                    "title": "particle swarm optimization approach to portfolio optimization",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2468811940,
+                    "author": [
+                        {
+                            "AuId": 2460475689,
+                            "AuN": "vitaliy feoktistov"
+                        }
+                    ],
+                    "title": "differential evolution in search of solutions springer optimization and its applications",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2139491749,
+                    "author": [
+                        {
+                            "AuId": 2085403699,
+                            "AuN": "svetlozar t rachev"
+                        },
+                        {
+                            "AuId": 2024915760,
+                            "AuN": "sergio ortobelli"
+                        },
+                        {
+                            "AuId": 2068117697,
+                            "AuN": "stoyan v stoyanov"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        },
+                        {
+                            "AuId": 18932325,
+                            "AuN": "almira biglova"
+                        }
+                    ],
+                    "doi": "10.1142/S0219024908004713",
+                    "journal": "international journal of theoretical and applied finance",
+                    "title": "desirable properties of an ideal risk measure in portfolio theory",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1483132876,
+                    "author": [
+                        {
+                            "AuId": 234418568,
+                            "AuN": "dietmar maringer"
+                        }
+                    ],
+                    "title": "portfolio management with heuristic optimization",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 3012317737,
+                    "author": [
+                        {
+                            "AuId": 3010856954,
+                            "AuN": "christoph witzgall"
+                        },
+                        {
+                            "AuId": 2061815470,
+                            "AuN": "roger fletcher"
+                        }
+                    ],
+                    "doi": "10.2307/2008742",
+                    "journal": "mathematics of computation",
+                    "title": "practical methods of optimization",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2991769409,
+                    "author": [
+                        {
+                            "AuId": 24617090,
+                            "AuN": "peter c fishburn"
+                        }
+                    ],
+                    "journal": "the american economic review",
+                    "title": "mean risk analysis with risk associated with below target returns",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2080647549,
+                    "author": [
+                        {
+                            "AuId": 2106995610,
+                            "AuN": "emilio f campana"
+                        },
+                        {
+                            "AuId": 2307913282,
+                            "AuN": "giovanni fasano"
+                        },
+                        {
+                            "AuId": 2224106649,
+                            "AuN": "antonio pinto"
+                        }
+                    ],
+                    "doi": "10.1007/S10898-009-9493-0",
+                    "journal": "journal of global optimization",
+                    "title": "dynamic analysis for the selection of parameters and initial population in particle swarm optimization",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1999282148,
+                    "author": [
+                        {
+                            "AuId": 2619478248,
+                            "AuN": "tom fischer"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(02)00209-3",
+                    "journal": "insurance mathematics & economics",
+                    "title": "risk capital allocation by coherent risk measures based on one sided moments",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2074051020,
+                    "author": [
+                        {
+                            "AuId": 234418568,
+                            "AuN": "dietmar maringer"
+                        },
+                        {
+                            "AuId": 2039871656,
+                            "AuN": "olufemi oyewumi"
+                        }
+                    ],
+                    "doi": "10.1002/ISAF.285",
+                    "journal": "international journal of intelligent systems in accounting finance & management",
+                    "title": "index tracking with constrained portfolios",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2164472231,
+                    "author": [
+                        {
+                            "AuId": 2175365885,
+                            "AuN": "zhiping chen"
+                        },
+                        {
+                            "AuId": 2644453417,
+                            "AuN": "yi wang"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2008.07.004",
+                    "journal": "journal of banking and finance",
+                    "title": "two sided coherent risk measures and their application in realistic portfolio optimization",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1952851966,
+                    "author": [
+                        {
+                            "AuId": 2694516714,
+                            "AuN": "wenjun zhang"
+                        },
+                        {
+                            "AuId": 2712013150,
+                            "AuN": "xiaofeng xie"
+                        },
+                        {
+                            "AuId": 2159669773,
+                            "AuN": "dechun bi"
+                        }
+                    ],
+                    "doi": "10.1109/CEC.2004.1331185",
+                    "title": "handling boundary constraints for numerical optimization by particle swarm flying in periodic search space",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2123590022,
+                    "author": [
+                        {
+                            "AuId": 2768941957,
+                            "AuN": "roel jansen"
+                        },
+                        {
+                            "AuId": 2771011165,
+                            "AuN": "ronald van dijk"
+                        }
+                    ],
+                    "doi": "10.3905/JPM.2002.319830",
+                    "journal": "the journal of portfolio management",
+                    "title": "optimal benchmark tracking with small portfolios",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2094725653,
+                    "author": [
+                        {
+                            "AuId": 14250771,
+                            "AuN": "nikos s thomaidis"
+                        },
+                        {
+                            "AuId": 2103557469,
+                            "AuN": "timotheos angelidis"
+                        },
+                        {
+                            "AuId": 2441202816,
+                            "AuN": "vassilios vassiliadis"
+                        },
+                        {
+                            "AuId": 370491620,
+                            "AuN": "georgios dounias"
+                        }
+                    ],
+                    "doi": "10.1142/S1793005709001519",
+                    "journal": "new mathematics and natural computation",
+                    "title": "active portfolio management with cardinality constraints an application of particle swarm optimization",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2039110906,
+                    "author": [
+                        {
+                            "AuId": 1907855098,
+                            "AuN": "g di pillo"
+                        },
+                        {
+                            "AuId": 1537480432,
+                            "AuN": "l grippo"
+                        }
+                    ],
+                    "doi": "10.1137/0327068",
+                    "journal": "siam journal on control and optimization",
+                    "title": "exact penalty functions in constrained optimization",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 1976086748,
+                    "author": [
+                        {
+                            "AuId": 2172448856,
+                            "AuN": "willard i zangwill"
+                        }
+                    ],
+                    "doi": "10.1287/MNSC.13.5.344",
+                    "journal": "management science",
+                    "title": "non linear programming via penalty functions",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 2055151934,
+                    "author": [
+                        {
+                            "AuId": 2719792940,
+                            "AuN": "enrique ballestero"
+                        }
+                    ],
+                    "doi": "10.1080/1350486042000254015",
+                    "journal": "applied mathematical finance",
+                    "title": "mean semivariance efficient frontier a downside risk model for portfolio selection",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2124216144,
+                    "author": [
+                        {
+                            "AuId": 2718124024,
+                            "AuN": "wei chen"
+                        },
+                        {
+                            "AuId": 2712199282,
+                            "AuN": "runtong zhang"
+                        },
+                        {
+                            "AuId": 2477498308,
+                            "AuN": "yongming cai"
+                        },
+                        {
+                            "AuId": 2714868813,
+                            "AuN": "fasheng xu"
+                        }
+                    ],
+                    "doi": "10.1109/ICMLC.2006.258773",
+                    "title": "particle swarm optimization for constrained portfolio selection problems",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2052691138,
+                    "author": [
+                        {
+                            "AuId": 2139052417,
+                            "AuN": "bernhard f j borges"
+                        },
+                        {
+                            "AuId": 188801841,
+                            "AuN": "jack l knetsch"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-2681(97)00090-5",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "tests of market outcomes with asymmetric valuations of gains and losses smaller gains fewer trades and less value",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1994126718,
+                    "author": [
+                        {
+                            "AuId": 2780947139,
+                            "AuN": "andrew r conn"
+                        }
+                    ],
+                    "doi": "10.1137/0710063",
+                    "journal": "siam journal on numerical analysis",
+                    "title": "constrained optimization using a nondifferentiable penalty function",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2053661713,
+                    "author": [
+                        {
+                            "AuId": 2693317915,
+                            "AuN": "tomasz pietrzykowski"
+                        }
+                    ],
+                    "doi": "10.1137/0706028",
+                    "journal": "siam journal on numerical analysis",
+                    "title": "an exact potential method for constrained maxima",
+                    "year_mag": 1969
+                },
+                {
+                    "PId": 2130272602,
+                    "author": [
+                        {
+                            "AuId": 2235021032,
+                            "AuN": "ronald f wippern"
+                        }
+                    ],
+                    "doi": "10.2307/2329911",
+                    "journal": "journal of financial and quantitative analysis",
+                    "title": "utility implications of portfolio selection and performance appraisal models",
+                    "year_mag": 1971
+                }
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "School of Automation Science and, Electrical Engineering, Beihang University, Beijing, China"
+                                }
+                            ],
+                            "family": "Feng",
+                            "given": "Cong",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Beijing No 101 Middle School, Beijing, China"
+                                }
+                            ],
+                            "family": "Dong",
+                            "given": "Yijiang",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "School of Automation Science and, Electrical Engineering, Beihang University, Beijing, China"
+                                }
+                            ],
+                            "family": "Jiang",
+                            "given": "Yuehan",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "School of Automation Science and, Electrical Engineering, Beihang University, Beijing, China"
+                                }
+                            ],
+                            "family": "Ran",
+                            "given": "Maopeng",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1145/3232651.3232666",
+                    "title": "dynamic search space particle swarm optimization approach for portfolio optimization",
+                    "year_oc": 2018
+                },
+                {
+                    "author": [
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-7891-9610",
+                            "affiliation": [
+                                {
+                                    "name": "University of Piraeus, Piraeus, Greece"
+                                }
+                            ],
+                            "authenticated-orcid": false,
+                            "family": "Liagkouras",
+                            "given": "Konstantinos",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Piraeus, Piraeus, Greece"
+                                }
+                            ],
+                            "family": "Metaxiotis",
+                            "given": "Konstantinos",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1057/JORS.2016.38",
+                    "title": "examining the effect of different configuration issues of the multiobjective evolutionary algorithms on the efficient frontier formulation for the constrained portfolio optimization problem",
+                    "year_oc": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-7891-9610",
+                            "affiliation": [
+                                {
+                                    "name": "Decision Support Systems Laboratory, Department of Informatics, University of Piraeus, Piraeus, Greece"
+                                }
+                            ],
+                            "authenticated-orcid": false,
+                            "family": "Liagkouras",
+                            "given": "K.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Decision Support Systems Laboratory, Department of Informatics, University of Piraeus, Piraeus, Greece"
+                                }
+                            ],
+                            "family": "Metaxiotis",
+                            "given": "K.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1057/S41274-017-0209-4",
+                    "title": "handling the complexities of the multi constrained portfolio optimization problem with the support of a novel moea",
+                    "year_oc": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Decision Support Systems Laboratory, Department of Informatics, University of Piraeus, 80, Karaoli &amp; Dimitriou Str., 18534 Piraeus, Greece"
+                                }
+                            ],
+                            "family": "Liagkouras",
+                            "given": "K.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Decision Support Systems Laboratory, Department of Informatics, University of Piraeus, 80, Karaoli &amp; Dimitriou Str., 18534 Piraeus, Greece"
+                                }
+                            ],
+                            "family": "Metaxiotis",
+                            "given": "K.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1142/S0219622015300013",
+                    "title": "efficient portfolio construction with the use of multiobjective evolutionary algorithms best practices and performance metrics",
+                    "year_oc": 2015
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Faculty of Management, University of Tehran, Tehran, Iran"
+                                }
+                            ],
+                            "family": "Moradi",
+                            "given": "Mohammad",
+                            "sequence": "first"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-7782-4126",
+                            "affiliation": [
+                                {
+                                    "name": "Young Researchers and Elites Club, Science and Research Branch, Islamic Azad University, Tehran, Iran"
+                                }
+                            ],
+                            "authenticated-orcid": false,
+                            "family": "Sadollah",
+                            "given": "Ali",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Department of Accounting, Faculty of Economics and Accounting, Central Tehran Branch, Islamic Azad University, Tehran, Iran"
+                                }
+                            ],
+                            "family": "Eskandar",
+                            "given": "Hoda",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Faculty of Mechanical Engineering, University of Semnan, Semnan, Iran"
+                                }
+                            ],
+                            "family": "Eskandar",
+                            "given": "Hadi",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1080/1331677X.2017.1355254",
+                    "title": "the application of water cycle algorithm to portfolio selection",
+                    "year_oc": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Zhang",
+                            "given": "Honghao",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Peng",
+                            "given": "Yong",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Tian",
+                            "given": "Guangdong",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Wang",
+                            "given": "Danqi",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Xie",
+                            "given": "Pengpeng",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1371/JOURNAL.PONE.0177578",
+                    "title": "green material selection for sustainability a hybrid mcdm approach",
+                    "year_oc": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Istanbul University, Turkey"
+                                }
+                            ],
+                            "family": "Mercangoz",
+                            "given": "Burcu Adiguzel",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4018/978-1-5225-8103-1.CH002",
+                    "title": "particle swarm algorithm",
+                    "year_oc": 2019
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Universitat Jaume I, Castellon de la Plana, Spain"
+                                }
+                            ],
+                            "family": "Soler-Dominguez",
+                            "given": "Amparo",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Universitat Oberta de Catalunya - IN3, Barcelona, Spain"
+                                }
+                            ],
+                            "family": "Juan",
+                            "given": "Angel A.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Portsmouth, Hampshire, United Kingdom"
+                                }
+                            ],
+                            "family": "Kizys",
+                            "given": "Renatas",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1145/3054133",
+                    "title": "a survey on financial applications of metaheuristics",
+                    "year_oc": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Liagkouras",
+                            "given": "K.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Metaxiotis",
+                            "given": "K.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-016-2377-Z",
+                    "title": "a new efficiently encoded multiobjective algorithm for the solution of the cardinality constrained portfolio optimization problem",
+                    "year_oc": 2016
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Serani",
+                            "given": "A.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Diez",
+                            "given": "M.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Campana",
+                            "given": "E. F.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Fasano",
+                            "given": "G.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Peri",
+                            "given": "D.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Iemma",
+                            "given": "U.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-13826-8_2",
+                    "title": "globally convergent hybridization of particle swarm optimization using line search based derivative free techniques",
+                    "year_oc": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "ORCID": "http://orcid.org/0000-0001-9794-294X",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Tian",
+                            "given": "Guangdong",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Zhang",
+                            "given": "Honghao",
+                            "sequence": "additional"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-5408-8752",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Zhou",
+                            "given": "MengChu",
+                            "sequence": "additional"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0003-1547-5503",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Li",
+                            "given": "Zhiwu",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1109/TSMC.2016.2640179",
+                    "title": "ahp gray correlation and topsis combined approach to green performance evaluation of design alternatives",
+                    "year_oc": 2018
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Wu",
+                            "given": "Huayao",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Nie",
+                            "given": "Changhai",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Kuo",
+                            "given": "Fei-Ching",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Leung",
+                            "given": "Hareton",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Colbourn",
+                            "given": "Charles J.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1109/TEVC.2014.2362532",
+                    "title": "a discrete particle swarm optimization for covering array generation",
+                    "year_oc": 2015
+                },
+                {
+                    "author": [
+                        {
+                            "ORCID": "http://orcid.org/0000-0003-1392-1776",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Juan",
+                            "given": "Angel Alejandro",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Corlu",
+                            "given": "Canan Gunes",
+                            "sequence": "additional"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0003-3028-1686",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Tordecilla",
+                            "given": "Rafael David",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "de la Torre",
+                            "given": "Rocio",
+                            "sequence": "additional"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-1005-9570",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Ferrer",
+                            "given": "Albert",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3390/A13010008",
+                    "title": "on the use of biased randomized algorithms for solving non smooth optimization problems",
+                    "year_oc": 2019
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "School of Sciences, Hainan University, No. 58 Renmin Avenue, Haikou 570228, China"
+                                }
+                            ],
+                            "family": "Zhai",
+                            "given": "Q. H.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "College of Management and Economy, Tianjin University, 92 Weijin Road Nankai District, Tianjin 300072, China"
+                                }
+                            ],
+                            "family": "Ye",
+                            "given": "T.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "State Key Laboratory of Marine Resource Utilization in the South China Sea, Hainan University, No. 58 Renmin Avenue, Haikou 570228, China"
+                                },
+                                {
+                                    "name": "School of Information and Communication Engineering, Hainan University, No. 58 Renmin Avenue, Haikou 570228, China"
+                                }
+                            ],
+                            "family": "Huang",
+                            "given": "M. X.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-8627-2028",
+                            "affiliation": [
+                                {
+                                    "name": "School of Information and Communication Engineering, Hainan University, No. 58 Renmin Avenue, Haikou 570228, China"
+                                }
+                            ],
+                            "authenticated-orcid": true,
+                            "family": "Feng",
+                            "given": "S. L.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "School of Information and Communication Engineering, Hainan University, No. 58 Renmin Avenue, Haikou 570228, China"
+                                }
+                            ],
+                            "family": "Li",
+                            "given": "H.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1155/2020/8834162",
+                    "title": "whale optimization algorithm for multiconstraint second order stochastic dominance portfolio optimization",
+                    "year_oc": 2020
+                },
+                {
+                    "author": [
+                        {
+                            "ORCID": "http://orcid.org/0000-0001-9767-2177",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Estrada-Moreno",
+                            "given": "Alejandro",
+                            "sequence": "first"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-1005-9570",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Ferrer",
+                            "given": "Albert",
+                            "sequence": "additional"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0003-1392-1776",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Juan",
+                            "given": "Angel A.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-3793-3328",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Panadero",
+                            "given": "Javier",
+                            "sequence": "additional"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0003-2075-1699",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Bagirov",
+                            "given": "Adil",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3390/MATH8091461",
+                    "title": "the non smooth and bi objective team orienteering problem with soft constraints",
+                    "year_oc": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.1016/J.AMC.2013.07.091",
+            "journal": "APPLIED MATHEMATICS AND COMPUTATION",
+            "title": "particle swarm optimization with non smooth penalty reformulation for a complex portfolio selection problem",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0005-4623"
+            ],
+            "PId": 2274265471,
+            "citing": [
+                {
+                    "PId": 223960,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2008405047,
+                            "AuN": "stefania funari"
+                        },
+                        {
+                            "AuId": 1971232791,
+                            "AuN": "riccardo gusso"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-04129-2_8",
+                    "title": "a methodological proposal for an evolutionary approach to parameter inference in murame based problems",
+                    "year_mag": 2014
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "8"
+            },
+            "journal": "BANCARIA",
+            "title": "il merito creditizio delle pmi italiane durante la crisi finanziaria l utilizzo di piu fonti informative per l analisi e lo scoring",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "978-884702341-3"
+            ],
+            "PId": 89699017,
+            "cited": [
+                {
+                    "PId": 1639032689,
+                    "author": [
+                        {
+                            "AuId": 2102678951,
+                            "AuN": "david e goldberg"
+                        }
+                    ],
+                    "title": "genetic algorithms in search optimization and machine learning",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2904250082,
+                    "author": [
+                        {
+                            "AuId": 2905022738,
+                            "AuN": "goldberg"
+                        }
+                    ],
+                    "title": "genetic algorithms",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2152195021,
+                    "author": [
+                        {
+                            "AuId": 2185363493,
+                            "AuN": "james kennedy"
+                        },
+                        {
+                            "AuId": 303610751,
+                            "AuN": "russell c eberhart"
+                        }
+                    ],
+                    "doi": "10.1109/ICNN.1995.488968",
+                    "title": "particle swarm optimization",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2165299997,
+                    "author": [
+                        {
+                            "AuId": 2125785102,
+                            "AuN": "yuhui shi"
+                        },
+                        {
+                            "AuId": 303610751,
+                            "AuN": "russell c eberhart"
+                        }
+                    ],
+                    "doi": "10.1109/ICEC.1998.699146",
+                    "title": "a modified particle swarm optimizer",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2019291268,
+                    "author": [
+                        {
+                            "AuId": 2148130746,
+                            "AuN": "philippe artzner"
+                        },
+                        {
+                            "AuId": 2304226911,
+                            "AuN": "freddy delbaen"
+                        },
+                        {
+                            "AuId": 1996632760,
+                            "AuN": "jeanmarc eber"
+                        },
+                        {
+                            "AuId": 2618472453,
+                            "AuN": "david heath"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9965.00068",
+                    "journal": "mathematical finance",
+                    "title": "coherent measures of risk",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2152150600,
+                    "author": [
+                        {
+                            "AuId": 2102678951,
+                            "AuN": "david e goldberg"
+                        }
+                    ],
+                    "title": "genetic algorithms in search",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2077658674,
+                    "author": [
+                        {
+                            "AuId": 2061815470,
+                            "AuN": "roger fletcher"
+                        }
+                    ],
+                    "title": "practical methods of optimization",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2543580944,
+                    "author": [
+                        {
+                            "AuId": 2185363493,
+                            "AuN": "james kennedy"
+                        },
+                        {
+                            "AuId": 303610751,
+                            "AuN": "russell c eberhart"
+                        }
+                    ],
+                    "doi": "10.1007/S11721-007-0002-0",
+                    "journal": "swarm intelligence",
+                    "title": "particle swarm optimization",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2053913299,
+                    "author": [
+                        {
+                            "AuId": 2220829341,
+                            "AuN": "christos h papadimitriou"
+                        },
+                        {
+                            "AuId": 235792877,
+                            "AuN": "k steiglitz"
+                        }
+                    ],
+                    "title": "combinatorial optimization algorithms and complexity",
+                    "year_mag": 1981
+                },
+                {
+                    "PId": 2162397932,
+                    "author": [
+                        {
+                            "AuId": 2261880625,
+                            "AuN": "tunchan cura"
+                        }
+                    ],
+                    "doi": "10.1016/J.NONRWA.2008.04.023",
+                    "journal": "nonlinear analysis real world applications",
+                    "title": "particle swarm optimization approach to portfolio optimization",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 3012317737,
+                    "author": [
+                        {
+                            "AuId": 3010856954,
+                            "AuN": "christoph witzgall"
+                        },
+                        {
+                            "AuId": 2061815470,
+                            "AuN": "roger fletcher"
+                        }
+                    ],
+                    "doi": "10.2307/2008742",
+                    "journal": "mathematics of computation",
+                    "title": "practical methods of optimization",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2080647549,
+                    "author": [
+                        {
+                            "AuId": 2106995610,
+                            "AuN": "emilio f campana"
+                        },
+                        {
+                            "AuId": 2307913282,
+                            "AuN": "giovanni fasano"
+                        },
+                        {
+                            "AuId": 2224106649,
+                            "AuN": "antonio pinto"
+                        }
+                    ],
+                    "doi": "10.1007/S10898-009-9493-0",
+                    "journal": "journal of global optimization",
+                    "title": "dynamic analysis for the selection of parameters and initial population in particle swarm optimization",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1999282148,
+                    "author": [
+                        {
+                            "AuId": 2619478248,
+                            "AuN": "tom fischer"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(02)00209-3",
+                    "journal": "insurance mathematics & economics",
+                    "title": "risk capital allocation by coherent risk measures based on one sided moments",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2164472231,
+                    "author": [
+                        {
+                            "AuId": 2175365885,
+                            "AuN": "zhiping chen"
+                        },
+                        {
+                            "AuId": 2644453417,
+                            "AuN": "yi wang"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2008.07.004",
+                    "journal": "journal of banking and finance",
+                    "title": "two sided coherent risk measures and their application in realistic portfolio optimization",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1952851966,
+                    "author": [
+                        {
+                            "AuId": 2694516714,
+                            "AuN": "wenjun zhang"
+                        },
+                        {
+                            "AuId": 2712013150,
+                            "AuN": "xiaofeng xie"
+                        },
+                        {
+                            "AuId": 2159669773,
+                            "AuN": "dechun bi"
+                        }
+                    ],
+                    "doi": "10.1109/CEC.2004.1331185",
+                    "title": "handling boundary constraints for numerical optimization by particle swarm flying in periodic search space",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2039110906,
+                    "author": [
+                        {
+                            "AuId": 1907855098,
+                            "AuN": "g di pillo"
+                        },
+                        {
+                            "AuId": 1537480432,
+                            "AuN": "l grippo"
+                        }
+                    ],
+                    "doi": "10.1137/0327068",
+                    "journal": "siam journal on control and optimization",
+                    "title": "exact penalty functions in constrained optimization",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 1976086748,
+                    "author": [
+                        {
+                            "AuId": 2172448856,
+                            "AuN": "willard i zangwill"
+                        }
+                    ],
+                    "doi": "10.1287/MNSC.13.5.344",
+                    "journal": "management science",
+                    "title": "non linear programming via penalty functions",
+                    "year_mag": 1967
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2912000148,
+                    "author": [
+                        {
+                            "AuId": 1991013543,
+                            "AuN": "can berk kalayci"
+                        },
+                        {
+                            "AuId": 2613749611,
+                            "AuN": "okkes ertenlice"
+                        },
+                        {
+                            "AuId": 2912688480,
+                            "AuN": "mehmet anil akbay"
+                        }
+                    ],
+                    "doi": "10.1016/J.ESWA.2019.02.011",
+                    "journal": "expert systems with applications",
+                    "title": "a comprehensive review of deterministic models and applications for mean variance portfolio optimization",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2791153118,
+                    "author": [
+                        {
+                            "AuId": 2613749611,
+                            "AuN": "okkes ertenlice"
+                        },
+                        {
+                            "AuId": 1991013543,
+                            "AuN": "can berk kalayci"
+                        }
+                    ],
+                    "doi": "10.1016/J.SWEVO.2018.01.009",
+                    "journal": "expert systems with applications",
+                    "title": "a survey of swarm intelligence for portfolio optimization algorithms and applications",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 1491858186,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2008405047,
+                            "AuN": "stefania funari"
+                        },
+                        {
+                            "AuId": 1971232791,
+                            "AuN": "riccardo gusso"
+                        }
+                    ],
+                    "doi": "10.1016/J.ASOC.2014.12.003",
+                    "journal": "expert systems with applications",
+                    "title": "an evolutionary approach to preference disaggregation in a murame based creditworthiness problem",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2790591938,
+                    "author": [
+                        {
+                            "AuId": 2498688351,
+                            "AuN": "joseph andria"
+                        },
+                        {
+                            "AuId": 1898075173,
+                            "AuN": "giacomo di tollo"
+                        },
+                        {
+                            "AuId": 58635592,
+                            "AuN": "arne lokketangen"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-68876-3_5",
+                    "journal": "expert systems with applications",
+                    "title": "distance measures for portfolio selection",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 3122298712,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2008405047,
+                            "AuN": "stefania funari"
+                        },
+                        {
+                            "AuId": 1971232791,
+                            "AuN": "riccardo gusso"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2051148",
+                    "journal": "expert systems with applications",
+                    "title": "an evolutionary approach to preference disaggregation in a murame based credit scoring problem",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 223960,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2008405047,
+                            "AuN": "stefania funari"
+                        },
+                        {
+                            "AuId": 1971232791,
+                            "AuN": "riccardo gusso"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-04129-2_8",
+                    "journal": "expert systems with applications",
+                    "title": "a methodological proposal for an evolutionary approach to parameter inference in murame based problems",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 150543351,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2008405047,
+                            "AuN": "stefania funari"
+                        },
+                        {
+                            "AuId": 1971232791,
+                            "AuN": "riccardo gusso"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-02499-8_11",
+                    "journal": "expert systems with applications",
+                    "title": "particle swarm optimization for preference disaggregation in multicriteria credit scoring problems",
+                    "year_mag": 2014
+                }
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "9"
+            },
+            "doi": "10.1007/978-88-470-2342-0_15",
+            "title": "portfolio selection with an alternative measure of risk computational performances of particle swarm optimization and genetic algorithms",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9780071598347"
+            ],
+            "PId": 2287903917,
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "title": "a credit contagion model for the dynamics of the rating transitions in a small and medium sized enterprises bank loan portfolio",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 3023073982,
+            "title": "a methodological proposal for an evolutionary approach to parameter inference in murame based problems",
+            "type": "3",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2606925217,
+            "doi": "10.2139/SSRN.2934929",
+            "title": "pso based tuning of murame parameters for creditworthiness evaluation of italian smes",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 1566225730,
+            "title": "creditworthiness and scoring analysis of the italian smes using multiple informative sources during the financia",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2242261932,
+            "title": "an evolutionary approach to disaggregation preference in a multicriteria credit scoring problem",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 1527718024,
+            "cited": [
+                {
+                    "PId": 2113832560,
+                    "author": [
+                        {
+                            "AuId": 2146553790,
+                            "AuN": "sanjiv ranjan das"
+                        },
+                        {
+                            "AuId": 2210449200,
+                            "AuN": "darrell duffie"
+                        },
+                        {
+                            "AuId": 2144411022,
+                            "AuN": "nikunj kapadia"
+                        },
+                        {
+                            "AuId": 2013289942,
+                            "AuN": "leandro saita"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.2007.01202.X",
+                    "journal": "journal of finance",
+                    "title": "common failings how corporate defaults are correlated",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2146895789,
+                    "author": [
+                        {
+                            "AuId": 270822780,
+                            "AuN": "robert a jarrow"
+                        },
+                        {
+                            "AuId": 2166405787,
+                            "AuN": "fan yu"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.183588",
+                    "title": "counterparty risk and the pricing of defaultable securities",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2102439862,
+                    "author": [
+                        {
+                            "AuId": 2036592102,
+                            "AuN": "david lando"
+                        },
+                        {
+                            "AuId": 2329551673,
+                            "AuN": "torben m skodeberg"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-4266(01)00228-X",
+                    "journal": "journal of banking and finance",
+                    "title": "analyzing rating transitions and rating drift with continuous observations",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2079548532,
+                    "author": [
+                        {
+                            "AuId": 2102701480,
+                            "AuN": "stefan weber"
+                        },
+                        {
+                            "AuId": 1529708699,
+                            "AuN": "kay giesecke"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.369660",
+                    "title": "cyclical correlations credit contagion and portfolio losses",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1557955808,
+                    "author": [
+                        {
+                            "AuId": 1529708699,
+                            "AuN": "kay giesecke"
+                        },
+                        {
+                            "AuId": 2102701480,
+                            "AuN": "stefan weber"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEDC.2005.01.004",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "credit contagion and aggregate losses",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1999991267,
+                    "author": [
+                        {
+                            "AuId": 2073092113,
+                            "AuN": "markus leippold"
+                        },
+                        {
+                            "AuId": 1898709873,
+                            "AuN": "daniel egloff"
+                        },
+                        {
+                            "AuId": 346277096,
+                            "AuN": "paolo vanini"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.483982",
+                    "title": "a simple model of credit contagion",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1991403641,
+                    "author": [
+                        {
+                            "AuId": 2480089717,
+                            "AuN": "peter neu"
+                        },
+                        {
+                            "AuId": 2309731387,
+                            "AuN": "reimer kuhn"
+                        }
+                    ],
+                    "doi": "10.1016/J.PHYSA.2004.05.062",
+                    "journal": "physica a statistical mechanics and its applications",
+                    "title": "credit risk enhancement in a network of interdependent firms",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1630750772,
+                    "author": [
+                        {
+                            "AuId": 2089128552,
+                            "AuN": "diana barro"
+                        },
+                        {
+                            "AuId": 2156311108,
+                            "AuN": "antonella basso"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.724887",
+                    "title": "counterparty risk a credit contagion model for a bank loan portfolio",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2115013756,
+                    "author": [
+                        {
+                            "AuId": 2660895314,
+                            "AuN": "kian esteghamat"
+                        }
+                    ],
+                    "doi": "10.1016/S0165-1889(02)00082-9",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "a boundary crossing model of counterparty risk",
+                    "year_mag": 2003
+                }
+            ],
+            "title": "a credit contagion model for the dynamics of the rating transitions in a sme bank loan portfolio",
+            "type": "0",
+            "year_mag": 2008
+        },
+        {
+            "PId": 2268766647,
+            "title": "esercizi di algebra lineare e sistemi di equazioni lineari con applicazioni all economia",
+            "type": "0",
+            "year_mag": 2006
+        },
+        {
+            "PId": 2270310125,
+            "title": "esercizi sulle funzioni di piu variabili reali con applicazioni all economia",
+            "type": "0",
+            "year_mag": 2008
+        },
+        {
+            "PId": 2474242455,
+            "title": "esercizi di matematica finanziaria su foglio elettronico excel",
+            "type": "0",
+            "year_mag": 2006
+        },
+        {
+            "PId": 2279954549,
+            "title": "esercizi sulle funzioni modelli lineari e non lineari con applicazioni all economia",
+            "type": "0",
+            "year_mag": 2006
+        },
+        {
+            "PId": 2252852664,
+            "title": "esercizi di matematica finanziaria regimi finanziari rendite e ammortamenti",
+            "type": "0",
+            "year_mag": 2006
+        }
+    ]
+}

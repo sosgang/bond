@@ -1,0 +1,833 @@
+{
+    "AuIds": [
+        2630774906,
+        1989345868
+    ],
+    "fullname": [
+        "La Grassa",
+        "Matteo"
+    ],
+    "ind_anvur": [
+        20,
+        5,
+        5,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1195-7131"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "journal": "MOSAIC",
+            "title": "il ruolo delle tecnologie educative nella didattica della grammatica in italiano l2",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "title": "toscani nel mondo rafforzare le radici e rispondere a nuovi bisogni",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "title": "un analisi dell italiano scritto da stranieri in alcuni ambienti virtuali",
+            "type": "contributo in atti di convegno",
+            "year": 2017
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "title": "grammatica avanzata",
+            "type": "monografia o trattato scientifico",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "2037-3597"
+            ],
+            "cited_raw": [
+                {
+                    "@position": "1",
+                    "rawText": {
+                        "$": "Angelini, N., Borgioli R., Folchi A., Mastromatteo M. (2013), I primi 400 segni. Piccolo dizionario della Lingua dei segni italiana per comunicare con i sordi, Carocci Faber, Roma."
+                    }
+                },
+                {
+                    "@position": "2",
+                    "rawText": {
+                        "$": "Antinoro Pizzuto E. (2009), \u201cMeccanismi di coesione testuale e Strutture di Grande Iconicit\u00e0 nella Lingua dei Segni Italiana (LIS) e altre lingue dei segni\u201d, in Bertone C., Cardinaletti A. (a cura di), Alcuni capitoli della grammatica della LIS. Atti dell'Incontro di Studio \u201cLa grammatica della Lingua dei Segni Italiana\u201d. Venezia, 16 e 17 maggio 2007, Cafoscarina, Venezia, pp. 137-158."
+                    }
+                },
+                {
+                    "@position": "3",
+                    "rawText": {
+                        "$": "Antinoro Pizzuto E., Rossini P., Sallandre M.A., Wilkinson E. (2008), \u201cLa struttura del discorso segnato: dati sulla LIS, l\u201fASL e la LSF, e nuove prospettive nel quadro di una grammatica dell\u201ficonicit\u00e0\u201d in Bagnara C., Corazza S., Fontana S., Zuccal\u00e0 A. (a cura di), I segni parlano. Prospettive di ricerca sulla Lingua dei Segni Italiana, Franco Angeli, Milano, pp. 43-53."
+                    }
+                },
+                {
+                    "@position": "4",
+                    "rawText": {
+                        "$": "Balboni P.E. (2015), Le sfide di Babele. Insegnare le lingue nelle societ\u00e0 complesse. 4a ed. ristrutturata, ampliata e aggiornata, UTET, Torino."
+                    }
+                },
+                {
+                    "@position": "5",
+                    "rawText": {
+                        "$": "Bertone C. (2011), Fondamenti di grammatica della lingua dei segni italiana, Franco Angeli, Milano."
+                    }
+                },
+                {
+                    "@position": "6",
+                    "rawText": {
+                        "$": "Bertone C. (2009), \u201cThe syntax of noun modification in Italian Sign language (LIS)\u201d, Working Papers in Linguistics, 19, pp. 7-28. Disponibile all\u201findirizzo http://goo.gl/U2LM7A (ultimo accesso: 02. 05. 2016)."
+                    }
+                },
+                {
+                    "@position": "7",
+                    "rawText": {
+                        "$": "Bertone C. (2008), \u201cEsiste un genere in LIS? Osservazioni sul tratto di forma\u201d, in Bagnara C., Corazza S., Fontana S., Zuccal\u00e0 A. (a cura di), I segni parlano. Prospettive di ricerca sulla Lingua dei Segni Italiana, Franco Angeli, Milano, pp. 76-84."
+                    }
+                },
+                {
+                    "@position": "8",
+                    "rawText": {
+                        "$": "Branchini C., Geraci C. (2011), \u201cL\u201fordine dei costituenti in LIS: risultati preliminari\u201d, in Cardinaletti A., Cecchetto C., Donati C. (a cura di), Grammatica, lessico e dimensioni di variazione della LIS, Franco Angeli, Milano, pp. 113-126."
+                    }
+                },
+                {
+                    "@position": "9",
+                    "rawText": {
+                        "$": "Cardinaletti A., Cecchetto C., Donati C. (a cura di) (2011), Grammatica, lessico e dimensioni di variazione della LIS, Franco Angeli, Milano."
+                    }
+                },
+                {
+                    "@position": "10",
+                    "rawText": {
+                        "$": "Chini M. (2005), Che cos'\u00e8 la linguistica acquisizionale, Carocci, Roma."
+                    }
+                },
+                {
+                    "@position": "11",
+                    "rawText": {
+                        "$": "Corazza S., Volterra V. (2008), \u201cLa Lingua dei Segni Italiana: nessuna, una, centomila\u201d in Bagnara C., Corazza S., Fontana S., Zuccal\u00e0 A. (a cura di), I segni parlano. Prospettive di ricerca sulla Lingua dei Segni Italiana, Franco Angeli, Milano, pp. 19-29."
+                    }
+                },
+                {
+                    "@position": "12",
+                    "rawText": {
+                        "$": "Cristilli C. (2008), \u201cEsistono i fonemi nelle lingue dei segni? Riflessioni sulla struttura del segno e sull\u201fidentit\u00e0 delle sue componenti\u201d, in Bagnara C., Corazza S., Fontana S., Zuccal\u00e0 A. (a cura di), I segni parlano. Prospettive di ricerca sulla Lingua dei Segni Italiana, Franco Angeli, Milano, pp. 30-42."
+                    }
+                },
+                {
+                    "@position": "13",
+                    "rawText": {
+                        "$": "Gallina F. (2015), Le parole degli stranieri. Il Lessico dell'Italiano Parlato degli Stranieri, Guerra, Perugia."
+                    }
+                },
+                {
+                    "@position": "14",
+                    "rawText": {
+                        "$": "Geraci C. (2002), L'ordine delle parole nella LIS, Tesi di Laurea, Universit\u00e0 degli Studi di Milano. Disponibile all\u201findirizzo https://goo.gl/3jMZZB (ultimo accesso: 02. 05. 2016)."
+                    }
+                },
+                {
+                    "@position": "15",
+                    "rawText": {
+                        "$": "Grassi R. (2008), \u201cDalla linguistica acquisizionale alla Didattica acquisizionale: una strada percorribile?\u201d, in Bozzone Costa R., Grassi R., Ghezzi R. (a cura di), Dagli studi sulle sequenze di acquisizione alla classe di italiano L2. Atti del Convegno-Seminario Bergamo, 19-21 giugno 2006, Guerra, Perugia, pp. 9-20."
+                    }
+                },
+                {
+                    "@position": "16",
+                    "rawText": {
+                        "$": "Jezek E. (2005), Il lessico. Classi di parole, strutture, combinazioni, il Mulino, Bologna."
+                    }
+                },
+                {
+                    "@position": "17",
+                    "rawText": {
+                        "$": "Krashen S. (1981), Second Language Acquisition and Second Language Learning, Pergamon, Oxford."
+                    }
+                },
+                {
+                    "@position": "18",
+                    "rawText": {
+                        "$": "La Grassa M. (2014), La Lingua dei Segni per gli udenti, l'italiano per i sordi. Riflessione per la didattica delle lingue, Aracne, Roma."
+                    }
+                },
+                {
+                    "@position": "19",
+                    "rawText": {
+                        "$": "Laudanna A. (1987), \u201cOrdine dei segni nella frase\u201d, in Volterra V. (a cura di), La Lingua Italiana dei Segni. La comunicazione visivogestuale dei sordi, il Mulino, Bologna, pp. 211- 230."
+                    }
+                },
+                {
+                    "@position": "20",
+                    "rawText": {
+                        "$": "Mazzoni L. (2008), Classificatori e impersonamento nella Lingua dei Segni Italiana, PLUS-Pisa University Press, Pisa."
+                    }
+                },
+                {
+                    "@position": "21",
+                    "rawText": {
+                        "$": "Mazzoni L. (2009), \u201cImpersonamento ed evidenzialit\u00e0 in LIS\u201d, in Bertone C., Cardinaletti A. (a cura di), Alcuni capitoli della grammatica della LIS, Cafoscarina, Venezia, pp. 61-77."
+                    }
+                },
+                {
+                    "@position": "22",
+                    "rawText": {
+                        "$": "Nicolai F. (2002), \u201cAlcuni processi di morfologia derivazionale in LIS\u201d, in Favilla M.E. (a cura di), Comunicazione e Sordit\u00e0, Edizioni Plus, Pisa, pp. 57-66."
+                    }
+                },
+                {
+                    "@position": "23",
+                    "rawText": {
+                        "$": "Palermo M. (2013), Linguistica testuale dell'italiano, il Mulino, Bologna."
+                    }
+                },
+                {
+                    "@position": "24",
+                    "rawText": {
+                        "$": "Palermo M. (a cura di) (2009), Percorsi e strategie di apprendimento dell'italiano lingua seconda: sondaggi su ADIL2, Guerra, Perugia."
+                    }
+                },
+                {
+                    "@position": "25",
+                    "rawText": {
+                        "$": "Pallotti G. (2001), La seconda lingua, Bompiani, Milano."
+                    }
+                },
+                {
+                    "@position": "26",
+                    "id": {
+                        "@confidenceLevel": "0.5411097",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::77f984ed98a92de67cd1fc79f2fd2ce1"
+                    },
+                    "rawText": {
+                        "$": "Pietrandrea P., Russo T. (2007), \u201cDiagrammatic and imagic hypoicons in signed and verbal languages\u201d in Pizzuto E., Pietrandrea P., Simone R. (eds.), Verbal and Signed Languages. Comparing Structures, Constructs, and Metholologies, Mounton de Gruyter, Berlin/New York, pp. 35-56."
+                    }
+                },
+                {
+                    "@position": "27",
+                    "rawText": {
+                        "$": "Pizzuto E. (1987), \u201cAspetti morfo-sintattici\u201d in Volterra V. (a cura di), La Lingua Italiana dei Segni. La comunicazione visivogestuale dei sordi, il Mulino, Bologna, pp. 179-209."
+                    }
+                },
+                {
+                    "@position": "28",
+                    "rawText": {
+                        "$": "Pizzuto E., Corazza S., Cameracanna E. (1997), \u201cMorfologia dei nomi e classificatori nella Lingua dei Segni Italiana (LIS)\u201d, in Caselli M.C., Corazza S. (a cura di), LIS. Studi, esperienze e ricerche sulla Lingua dei Segni in Italia. Atti del 1\u00b0 Convegno Nazionale sulla Lingua dei Segni. Trieste 13-15 ottobre 1995, Edizioni del Cerro, Tirrenia, pp. 35- 41."
+                    }
+                },
+                {
+                    "@position": "29",
+                    "rawText": {
+                        "$": "Pizzuto E., Volterra V. (2002), \u201cLa lingua dei segni italiana\u201d, in Lavinio C. (a cura di), La linguistica italiana alle soglie del 2000 (1987-1997 e oltre), Bulzoni, Roma, pp. 561-578."
+                    }
+                },
+                {
+                    "@position": "30",
+                    "rawText": {
+                        "$": "Pizzuto E., Rossini P., Russo T., Wilkinson E. (2005), \u201cFormazione di parole visivogestuali e classi grammaticali nella Lingua dei Segni Italiana (LIS): dati disponibili e questioni aperte\u201d, in Grossmann M., Thornton A. (a cura di), La Formazione delle parole. XXXVII Congresso internazionale di studi della Societ\u00e0 di Linguistica Italiana SLI, L'Aquila, 25-27 settembre 2003, Bulzoni, Roma, pp. 443-463"
+                    }
+                },
+                {
+                    "@position": "31",
+                    "rawText": {
+                        "$": "Radutzky E. (a cura di) (2009), Dizionario bilingue elementare della Lingua dei Segni Italiana LIS, Edizioni Kappa, Roma."
+                    }
+                },
+                {
+                    "@position": "32",
+                    "rawText": {
+                        "$": "Rastelli S. (2009), Che cos'\u00e8 la didattica acquisizionale, Carocci, Roma."
+                    }
+                },
+                {
+                    "@position": "33",
+                    "rawText": {
+                        "$": "Renzi L., Salvi G., Cardinaletti A. (a cura di) (2001), Grande grammatica italiana di consultazione, il Mulino, Bologna."
+                    }
+                },
+                {
+                    "@position": "34",
+                    "rawText": {
+                        "$": "Russo Cardona T.; Volterra V. (2007), Le lingue dei segni. Storia e semiotica, Carocci, Roma."
+                    }
+                },
+                {
+                    "@position": "35",
+                    "rawText": {
+                        "$": "Stokoe W. (1960), \u201cSign language structure: an outline of the visual communication system of the american deaf in studies in linguistics\u201d, in Occasional Papers, 8, University of Buffalo."
+                    }
+                },
+                {
+                    "@position": "36",
+                    "rawText": {
+                        "$": "Vedovelli M. (a cura di) (2014), La migrazione globale delle lingue. Lingue in (super-)contatto nei contesti migratori del mondo globale, Centro Studi Emigrazione di Roma."
+                    }
+                },
+                {
+                    "@position": "37",
+                    "rawText": {
+                        "$": "Vedovelli M., Villarini A. (2003), \u201cDalla linguistica acquisizionale alla didattica acquisizionale: le sequenza didattiche nei materiali di italiano L2 destinati agli immigrati stranieri\u201d, in Giacalone Ramat A. (a cura di), Verso l'italiano. Percorsi e strategie di acquisizione, Carocci, Roma, pp. 270-304."
+                    }
+                },
+                {
+                    "@position": "38",
+                    "rawText": {
+                        "$": "Villarini A. (2000), \u201cLe caratteristiche dell\u201fapprendente\u201d, in De Marco, A. (a cura di), Manuale di glottodidattica. Insegnare una lingua straniera, Carocci, Roma, pp. 71-86."
+                    }
+                },
+                {
+                    "@position": "39",
+                    "rawText": {
+                        "$": "Volterra V. (a cura di) (1987), La Lingua Italiana dei Segni. La comunicazione visivo gestuale dei sordi, il Mulino, Bologna."
+                    }
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.13130/2037-3597/7564",
+            "journal": "ITALIANO LINGUADUE",
+            "title": "il nome in lis nel segnato di adulti udenti una indagine preliminare sul corpus lisau ",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0390-6809"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "6"
+            },
+            "journal": "STUDI ITALIANI DI LINGUISTICA TEORICA E APPLICATA",
+            "title": "analisi dell input lessicale in contesti guidati di apprendimento dell italiano l2",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1790-5672"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "7"
+            },
+            "journal": "ITALIANO A STRANIERI",
+            "title": "insegnare il lessico l opinione dei docenti e le indicazioni dei sillabi ",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788898466061"
+            ],
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "title": "promuovere il dialogo e la consapevolezza interculturale in ambienti virtuali",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788898433537"
+            ],
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "title": "profilo insegnamento dell italiano a studenti universitari ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788898466061"
+            ],
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "title": "una bussola per orientare la didattica con le tecnologie digitali introduzione ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788860087065"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "11"
+            },
+            "title": "insegnare l italiano con le nuove tecnologie una proposta per apprendenti sordi segnanti ",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-7667-587-4"
+            ],
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "title": "analisi dell input fornito dal docente per lo sviluppo della competenza lessicale di apprendenti adulti e iniziali di italiano l2",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1790-5672"
+            ],
+            "cv_id": {
+                "pubbs_ind": "13"
+            },
+            "journal": "ITALIANO A STRANIERI",
+            "title": "il lessico usato dagli insegnanti dei corsi di italiano l2 rivolti a immigrati adulti ",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-905450-9-2"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "14"
+            },
+            "title": "imparare l italiano attraverso lo studio delle scienze ",
+            "type": "contributo in atti di convegno",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9781443871907"
+            ],
+            "cv_id": {
+                "pubbs_ind": "15"
+            },
+            "title": "l italiano online pubblici percorsi prospettive ",
+            "type": "contributo in atti di convegno",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "1790-5672"
+            ],
+            "cv_id": {
+                "pubbs_ind": "16"
+            },
+            "journal": "ITALIANO A STRANIERI",
+            "title": "accrescere le competenze linguistico comunicative del minore immigrato per promuovere l esercizio del diritto alla non discriminazione",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0033-9725"
+            ],
+            "PId": 2282678761,
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "17"
+            },
+            "journal": "RASSEGNA ITALIANA DI LINGUISTICA APPLICATA",
+            "title": "verso l elaborazione di un sillabo lessicale nei manuali di italiano l2 per adulti immigrati",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-84-616-8412-0"
+            ],
+            "cv_id": {
+                "pubbs_ind": "18"
+            },
+            "title": "developing intercultural competences through a social network the proposal of calcote project ",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "19"
+            },
+            "title": "comprendere le scienze attraverso i manuali scolastici ",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-88-548-7397-1"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "20"
+            },
+            "title": "la lingua dei segni per gli udenti l italiano per i sordi riflessione per la didattica delle lingue ",
+            "type": "monografia o trattato scientifico",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9789606930959"
+            ],
+            "cv_id": {
+                "pubbs_ind": "21"
+            },
+            "title": "l italiano all universita 2 guida per l insegnante",
+            "type": "monografia o trattato scientifico",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1790-5672"
+            ],
+            "cv_id": {
+                "pubbs_ind": "22"
+            },
+            "journal": "ITALIANO A STRANIERI",
+            "title": "certificazioni come strumento di promozione dell italiano l2 il ruolo della cliq certificazione lingua italiana di qualita",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "23"
+            },
+            "title": "studiare italiano nei programmi di universita americane in italia profilo degli apprendenti e proposte operative ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0021-3020"
+            ],
+            "PId": 2886753544,
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "24"
+            },
+            "journal": "ITALICA",
+            "title": "il lessico nell italiano scritto di apprendenti americani inseriti in programmi di studio in italia",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1790-5672"
+            ],
+            "cv_id": {
+                "pubbs_ind": "25"
+            },
+            "journal": "ITALIANO A STRANIERI",
+            "title": "il contributo del quadro comune europeo di riferimento nella realizzazione di materiali didattici un esempio per studenti universitari di livello elementare e indipendente",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "26"
+            },
+            "journal": "EDUCAZIONE PERMANENTE",
+            "title": "la comprensione del testo scritto da parte dei sordi i risultati di un indagine su un campione di apprendenti giovani adulti",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-88-557-0304-8"
+            ],
+            "cv_id": {
+                "pubbs_ind": "28"
+            },
+            "title": "apprendere le lingue straniere nella terza eta",
+            "type": "monografia o trattato scientifico",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "1790-5672"
+            ],
+            "cv_id": {
+                "pubbs_ind": "29"
+            },
+            "journal": "ITALIANO A STRANIERI",
+            "title": "studenti inseriti in programmi di universita americane in italia motivazione allo studio dell italiano e contesti d uso linguistico",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "1970-1861"
+            ],
+            "PId": 1628512673,
+            "cited": [
+                {
+                    "PId": 2052729098,
+                    "author": [
+                        {
+                            "AuId": 1906028136,
+                            "AuN": "edward l deci"
+                        },
+                        {
+                            "AuId": 2166335463,
+                            "AuN": "richard m ryan"
+                        }
+                    ],
+                    "title": "intrinsic motivation and self determination in human behavior",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 186447774,
+                    "author": [
+                        {
+                            "AuId": 2328510746,
+                            "AuN": "zoltan dornyei"
+                        }
+                    ],
+                    "title": "motivational strategies in the language classroom",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2029614475,
+                    "author": [
+                        {
+                            "AuId": 2328510746,
+                            "AuN": "zoltan dornyei"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-4781.1994.TB02042.X",
+                    "journal": "the modern language journal",
+                    "title": "motivation and motivating in the foreign language classroom",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1599418893,
+                    "author": [
+                        {
+                            "AuId": 2107970562,
+                            "AuN": "r c gardner"
+                        }
+                    ],
+                    "title": "social psychology and second language learning the role of attitudes and motivation",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 1995706466,
+                    "author": [
+                        {
+                            "AuId": 2028220151,
+                            "AuN": "graham crookes"
+                        },
+                        {
+                            "AuId": 2483733469,
+                            "AuN": "richard schmidt"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-1770.1991.TB00690.X",
+                    "journal": "language learning",
+                    "title": "motivation reopening the research agenda",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2058849500,
+                    "author": [
+                        {
+                            "AuId": 2328510746,
+                            "AuN": "zoltan dornyei"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-1770.1990.TB00954.X",
+                    "journal": "language learning",
+                    "title": "conceptualizing motivation in foreign language learning",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2022132965,
+                    "author": [
+                        {
+                            "AuId": 2328510746,
+                            "AuN": "zoltan dornyei"
+                        },
+                        {
+                            "AuId": 1907434241,
+                            "AuN": "kata csizer"
+                        }
+                    ],
+                    "doi": "10.1177/136216889800200303",
+                    "journal": "language teaching research",
+                    "title": "ten commandments for motivating language learners results of an empirical study",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2034199199,
+                    "author": [
+                        {
+                            "AuId": 172914971,
+                            "AuN": "kimberly a noels"
+                        },
+                        {
+                            "AuId": 2135128896,
+                            "AuN": "richard clement"
+                        },
+                        {
+                            "AuId": 2148287620,
+                            "AuN": "luc g pelletier"
+                        }
+                    ],
+                    "doi": "10.1111/0026-7902.00003",
+                    "journal": "the modern language journal",
+                    "title": "perceptions of teachers communicative style and students intrinsic and extrinsic motivation",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2060968680,
+                    "author": [
+                        {
+                            "AuId": 1830028221,
+                            "AuN": "david nunan"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139524506",
+                    "journal": "hispania",
+                    "title": "the learner centred curriculum a study in second language teaching",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2084302054,
+                    "author": [
+                        {
+                            "AuId": 2107970562,
+                            "AuN": "r c gardner"
+                        },
+                        {
+                            "AuId": 2157453393,
+                            "AuN": "wallace e lambert"
+                        }
+                    ],
+                    "title": "attitudes and motivation in second language learning",
+                    "year_mag": 1972
+                },
+                {
+                    "PId": 2939548887,
+                    "author": [
+                        {
+                            "AuId": 2043190680,
+                            "AuN": "gabriele pallotti"
+                        }
+                    ],
+                    "title": "la seconda lingua",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 616743376,
+                    "author": [
+                        {
+                            "AuId": 2343656848,
+                            "AuN": "paolo balboni"
+                        }
+                    ],
+                    "title": "didattica dell italiano a stranieri",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2802613055,
+                    "author": [
+                        {
+                            "AuId": 2802779159,
+                            "AuN": "hermann w haller"
+                        },
+                        {
+                            "AuId": 2202700080,
+                            "AuN": "tullio de mauro"
+                        },
+                        {
+                            "AuId": 2314703686,
+                            "AuN": "massimo vedovelli"
+                        },
+                        {
+                            "AuId": 2806102747,
+                            "AuN": "monica barni"
+                        },
+                        {
+                            "AuId": 2803077540,
+                            "AuN": "lorenzo miraglia"
+                        }
+                    ],
+                    "doi": "10.2307/27668959",
+                    "title": "italiano 2000 i pubblici e le motivazioni dell italiano diffuso fra stranieri",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 629498681,
+                    "author": [
+                        {
+                            "AuId": 1907385777,
+                            "AuN": "david crystal"
+                        },
+                        {
+                            "AuId": 2405413137,
+                            "AuN": "biagio forino"
+                        }
+                    ],
+                    "title": "la rivoluzione delle lingue",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 3044765015,
+                    "author": [
+                        {
+                            "AuId": 3045309036,
+                            "AuN": "carlo de rose"
+                        }
+                    ],
+                    "title": "che cos e la ricerca sociale",
+                    "year_mag": 2003
+                }
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "30"
+            },
+            "doi": "10.3299/SDG.V2I3.135-167",
+            "journal": "STUDI DI GLOTTODIDATTICA",
+            "title": "gli apprendenti over 55 e le lingue straniere",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "1790-5672"
+            ],
+            "cv_id": {
+                "pubbs_ind": "31"
+            },
+            "journal": "ITALIANO A STRANIERI",
+            "title": "nuovi pubblici delle lingue gli apprendenti senior",
+            "type": "articolo in rivista",
+            "year": 2008
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2190599885,
+            "doi": "10.1400/201094",
+            "title": "il lessico italiano in testi scritti in ambiente istituzionale argentino rilevamento catalogazione e analisi",
+            "type": "0",
+            "year_mag": 2012
+        }
+    ]
+}

@@ -1,0 +1,4650 @@
+{
+    "AuIds": [
+        2188953412,
+        2277023790
+    ],
+    "fullname": [
+        "Vitali",
+        "Sebastiano"
+    ],
+    "ind_anvur": [
+        10,
+        3,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1619-697X"
+            ],
+            "PId": 2514788327,
+            "cited": [
+                {
+                    "PId": 2999729612,
+                    "author": [
+                        {
+                            "AuId": 2098194256,
+                            "AuN": "leonard kaufman"
+                        },
+                        {
+                            "AuId": 1973885181,
+                            "AuN": "peter j rousseeuw"
+                        }
+                    ],
+                    "title": "finding groups in data an introduction to cluster analysis",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 1647779468,
+                    "author": [
+                        {
+                            "AuId": 374541994,
+                            "AuN": "r t rockafellar"
+                        },
+                        {
+                            "AuId": 2973940417,
+                            "AuN": "s uryasev"
+                        }
+                    ],
+                    "doi": "10.21314/JOR.2000.038",
+                    "journal": "journal of risk",
+                    "title": "optimization of conditional value at risk",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2170838015,
+                    "author": [
+                        {
+                            "AuId": 393004383,
+                            "AuN": "r tyrrell rockafellar"
+                        },
+                        {
+                            "AuId": 3001509686,
+                            "AuN": "stanislav uryasev"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.267256",
+                    "title": "conditional value at risk for general loss distributions",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2163969674,
+                    "author": [
+                        {
+                            "AuId": 81152896,
+                            "AuN": "victor demiguel"
+                        },
+                        {
+                            "AuId": 2537543192,
+                            "AuN": "lorenzo garlappi"
+                        },
+                        {
+                            "AuId": 2150056275,
+                            "AuN": "raman uppal"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/HHM075",
+                    "journal": "review of financial studies",
+                    "title": "optimal versus naive diversification how inefficient is the 1 n portfolio strategy",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1987971958,
+                    "author": [
+                        {
+                            "AuId": 1973885181,
+                            "AuN": "peter j rousseeuw"
+                        }
+                    ],
+                    "doi": "10.1016/0377-0427(87)90125-7",
+                    "journal": "journal of computational and applied mathematics",
+                    "title": "silhouettes a graphical aid to the interpretation and validation of cluster analysis",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2150593711,
+                    "author": [
+                        {
+                            "AuId": 3088468505,
+                            "AuN": "seth lloyd"
+                        }
+                    ],
+                    "doi": "10.1109/TIT.1982.1056489",
+                    "journal": "ieee transactions on information theory",
+                    "title": "least squares quantization in pcm",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 2076057077,
+                    "author": [
+                        {
+                            "AuId": 2007039471,
+                            "AuN": "oldrich a vasicek"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(77)90016-2",
+                    "journal": "journal of financial economics",
+                    "title": "an equilibrium characterization of the term structure",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 2193209126,
+                    "author": [
+                        {
+                            "AuId": 2108680559,
+                            "AuN": "renato cordeiro de amorim"
+                        },
+                        {
+                            "AuId": 2120281063,
+                            "AuN": "christian hennig"
+                        }
+                    ],
+                    "doi": "10.1016/J.INS.2015.06.039",
+                    "journal": "information sciences",
+                    "title": "recovering the number of clusters in data sets with noise features using feature rescaling factors",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2005158847,
+                    "author": [
+                        {
+                            "AuId": 1958827600,
+                            "AuN": "robert c merton"
+                        }
+                    ],
+                    "doi": "10.1016/0022-0531(71)90038-X",
+                    "journal": "journal of economic theory",
+                    "title": "optimum consumption and portfolio rules in a continuous time model",
+                    "year_mag": 1971
+                },
+                {
+                    "PId": 2010419690,
+                    "author": [
+                        {
+                            "AuId": 2162882582,
+                            "AuN": "francisco gomes"
+                        },
+                        {
+                            "AuId": 122795677,
+                            "AuN": "laurence j kotlikoff"
+                        },
+                        {
+                            "AuId": 2303372735,
+                            "AuN": "luis m viceira"
+                        }
+                    ],
+                    "doi": "10.1257/AER.98.2.297",
+                    "journal": "the american economic review",
+                    "title": "optimal life cycle investing with flexible labor supply a welfare analysis of life cycle funds",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2113155572,
+                    "author": [
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEDC.2005.03.009",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "stochastic lifestyling optimal dynamic asset allocation for defined contribution pension plans",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1997597349,
+                    "author": [
+                        {
+                            "AuId": 1513284391,
+                            "AuN": "roy kouwenberg"
+                        }
+                    ],
+                    "doi": "10.1016/S0377-2217(00)00261-7",
+                    "journal": "european journal of operational research",
+                    "title": "scenario generation and stochastic programming models for asset liability management",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1984697146,
+                    "author": [
+                        {
+                            "AuId": 1958827600,
+                            "AuN": "robert c merton"
+                        }
+                    ],
+                    "doi": "10.2307/1926560",
+                    "journal": "the review of economics and statistics",
+                    "title": "lifetime portfolio selection under uncertainty the continuous time case",
+                    "year_mag": 1969
+                },
+                {
+                    "PId": 2129587297,
+                    "author": [
+                        {
+                            "AuId": 2021543670,
+                            "AuN": "david r carino"
+                        },
+                        {
+                            "AuId": 2223735821,
+                            "AuN": "terry kent"
+                        },
+                        {
+                            "AuId": 2709678867,
+                            "AuN": "david h myers"
+                        },
+                        {
+                            "AuId": 2223847593,
+                            "AuN": "celine stacy"
+                        },
+                        {
+                            "AuId": 2222163856,
+                            "AuN": "mike sylvanus"
+                        },
+                        {
+                            "AuId": 2662407886,
+                            "AuN": "andrew l turner"
+                        },
+                        {
+                            "AuId": 2659901716,
+                            "AuN": "kouji watanabe"
+                        },
+                        {
+                            "AuId": 2143118402,
+                            "AuN": "william t ziemba"
+                        }
+                    ],
+                    "doi": "10.1287/INTE.24.1.29",
+                    "journal": "interfaces",
+                    "title": "the russell yasuda kasai model an asset liability model for a japanese insurance company using multistage stochastic programming",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2171185835,
+                    "author": [
+                        {
+                            "AuId": 2021543670,
+                            "AuN": "david r carino"
+                        },
+                        {
+                            "AuId": 2143118402,
+                            "AuN": "william t ziemba"
+                        }
+                    ],
+                    "doi": "10.1287/OPRE.46.4.433",
+                    "journal": "operations research",
+                    "title": "formulation of the russell yasuda kasai financial planning model",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1517678138,
+                    "author": [
+                        {
+                            "AuId": 2102465750,
+                            "AuN": "giorgio consigli"
+                        },
+                        {
+                            "AuId": 2789760488,
+                            "AuN": "m a h dempster"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.34780",
+                    "title": "dynamic stochastic programming for asset liability management",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1981854401,
+                    "author": [
+                        {
+                            "AuId": 2206937069,
+                            "AuN": "alois geyer"
+                        },
+                        {
+                            "AuId": 2143118402,
+                            "AuN": "william t ziemba"
+                        }
+                    ],
+                    "doi": "10.1287/OPRE.1080.0564",
+                    "journal": "operations research",
+                    "title": "the innovest austrian pension fund financial planning model innoalm",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1515548803,
+                    "author": [
+                        {
+                            "AuId": 620945717,
+                            "AuN": "jitka dupacova"
+                        },
+                        {
+                            "AuId": 2223810526,
+                            "AuN": "jan hurt"
+                        },
+                        {
+                            "AuId": 2633902147,
+                            "AuN": "josef st\u011bpan"
+                        }
+                    ],
+                    "title": "stochastic modeling in economics and finance",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2138959811,
+                    "author": [
+                        {
+                            "AuId": 2021543670,
+                            "AuN": "david r carino"
+                        },
+                        {
+                            "AuId": 2709678867,
+                            "AuN": "david h myers"
+                        },
+                        {
+                            "AuId": 2143118402,
+                            "AuN": "william t ziemba"
+                        }
+                    ],
+                    "doi": "10.1287/OPRE.46.4.450",
+                    "journal": "operations research",
+                    "title": "concepts technical issues and uses of the russell yasuda kasai financial planning model",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1992379481,
+                    "author": [
+                        {
+                            "AuId": 1968391796,
+                            "AuN": "elena medova"
+                        },
+                        {
+                            "AuId": 2100139056,
+                            "AuN": "james murphy"
+                        },
+                        {
+                            "AuId": 2470850799,
+                            "AuN": "a p owen"
+                        },
+                        {
+                            "AuId": 2437175019,
+                            "AuN": "k rehman"
+                        }
+                    ],
+                    "doi": "10.1080/14697680802402691",
+                    "journal": "quantitative finance",
+                    "title": "individual asset liability management",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2022569940,
+                    "author": [
+                        {
+                            "AuId": 2304209180,
+                            "AuN": "petri hilli"
+                        },
+                        {
+                            "AuId": 2053703216,
+                            "AuN": "matti koivu"
+                        },
+                        {
+                            "AuId": 2311009131,
+                            "AuN": "teemu pennanen"
+                        },
+                        {
+                            "AuId": 1955812239,
+                            "AuN": "antero ranne"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-006-0135-3",
+                    "journal": "annals of operations research",
+                    "title": "a stochastic programming model for asset liability management of a finnish pension company",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2116154425,
+                    "author": [
+                        {
+                            "AuId": 2102319059,
+                            "AuN": "john m mulvey"
+                        },
+                        {
+                            "AuId": 2591532767,
+                            "AuN": "koray d simsek"
+                        },
+                        {
+                            "AuId": 2119536754,
+                            "AuN": "zhuojuan zhang"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        },
+                        {
+                            "AuId": 95219433,
+                            "AuN": "william r pauling"
+                        }
+                    ],
+                    "doi": "10.1287/OPRE.1080.0526",
+                    "journal": "operations research",
+                    "title": "or practice assisting defined benefit pension plans",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2022107089,
+                    "author": [
+                        {
+                            "AuId": 2102465750,
+                            "AuN": "giorgio consigli"
+                        },
+                        {
+                            "AuId": 2789760488,
+                            "AuN": "m a h dempster"
+                        }
+                    ],
+                    "doi": "10.1023/A:1018992620909",
+                    "journal": "annals of operations research",
+                    "title": "dynamic stochastic programmingfor asset liability management",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1601404777,
+                    "author": [
+                        {
+                            "AuId": 2206937069,
+                            "AuN": "alois geyer"
+                        },
+                        {
+                            "AuId": 2510505377,
+                            "AuN": "michael hanke"
+                        },
+                        {
+                            "AuId": 1950107028,
+                            "AuN": "alex weissensteiner"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.952956",
+                    "title": "life cycle asset allocation and consumption using stochastic linear programming",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2008846596,
+                    "author": [
+                        {
+                            "AuId": 2102319059,
+                            "AuN": "john m mulvey"
+                        },
+                        {
+                            "AuId": 2232249683,
+                            "AuN": "cenk ural"
+                        },
+                        {
+                            "AuId": 2119536754,
+                            "AuN": "zhuojuan zhang"
+                        }
+                    ],
+                    "doi": "10.1080/14697680701198028",
+                    "journal": "quantitative finance",
+                    "title": "improving performance for long term investors wide diversification leverage and overlay strategies",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2005137490,
+                    "author": [
+                        {
+                            "AuId": 26526170,
+                            "AuN": "willem k klein haneveld"
+                        },
+                        {
+                            "AuId": 2095268770,
+                            "AuN": "m h streutker"
+                        },
+                        {
+                            "AuId": 2030566269,
+                            "AuN": "maarten h van der vlerk"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-009-0594-4",
+                    "journal": "annals of operations research",
+                    "title": "an alm model for pension funds using integrated chance constraints",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2087223814,
+                    "author": [
+                        {
+                            "AuId": 620945717,
+                            "AuN": "jitka dupacova"
+                        },
+                        {
+                            "AuId": 2269233097,
+                            "AuN": "jan polivka"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-008-0358-6",
+                    "journal": "annals of operations research",
+                    "title": "asset liability management for czech pension funds using stochastic programming",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2045096981,
+                    "author": [
+                        {
+                            "AuId": 2048129973,
+                            "AuN": "andrea consiglio"
+                        },
+                        {
+                            "AuId": 2013035318,
+                            "AuN": "flavio cocco"
+                        },
+                        {
+                            "AuId": 2702784219,
+                            "AuN": "stavros a zenios"
+                        },
+                        {
+                            "AuId": 2702784219,
+                            "AuN": "stavros a zenios"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-006-0133-5",
+                    "journal": "annals of operations research",
+                    "title": "scenario optimization asset and liability modelling for individual investors",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1984188870,
+                    "author": [
+                        {
+                            "AuId": 620945717,
+                            "AuN": "jitka dupacova"
+                        },
+                        {
+                            "AuId": 2149626959,
+                            "AuN": "marida bertocchi"
+                        },
+                        {
+                            "AuId": 407911722,
+                            "AuN": "vittorio moriggia"
+                        }
+                    ],
+                    "doi": "10.1007/S10287-008-0092-1",
+                    "journal": "computational management science",
+                    "title": "testing the structure of multistage stochastic programs",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2082079041,
+                    "author": [
+                        {
+                            "AuId": 2102319059,
+                            "AuN": "john m mulvey"
+                        },
+                        {
+                            "AuId": 2591532767,
+                            "AuN": "koray d simsek"
+                        },
+                        {
+                            "AuId": 2119536754,
+                            "AuN": "zhuojuan zhang"
+                        }
+                    ],
+                    "doi": "10.1057/PALGRAVE.JAM.2240206",
+                    "journal": "journal of asset management",
+                    "title": "improving investment performance for pension plans",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1971699995,
+                    "author": [
+                        {
+                            "AuId": 2095766519,
+                            "AuN": "scott f richard"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(75)90004-5",
+                    "journal": "journal of financial economics",
+                    "title": "optimal consumption portfolio and life insurance rules for an uncertain lived individual in a continuous time model",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 1972741829,
+                    "author": [
+                        {
+                            "AuId": 2274869265,
+                            "AuN": "jozsef abaffy"
+                        },
+                        {
+                            "AuId": 2111498438,
+                            "AuN": "maria bertocchi"
+                        },
+                        {
+                            "AuId": 620945717,
+                            "AuN": "jitka dupacova"
+                        },
+                        {
+                            "AuId": 407911722,
+                            "AuN": "vittorio moriggia"
+                        },
+                        {
+                            "AuId": 2102465750,
+                            "AuN": "giorgio consigli"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2007.02.002",
+                    "journal": "journal of banking and finance",
+                    "title": "pricing nondiversifiable credit risk in the corporate eurobond market",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1993347857,
+                    "author": [
+                        {
+                            "AuId": 2024995851,
+                            "AuN": "so\u0148a kilianova"
+                        },
+                        {
+                            "AuId": 2100393747,
+                            "AuN": "georg ch pflug"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-008-0405-3",
+                    "journal": "annals of operations research",
+                    "title": "optimal pension fund management under multi period risk minimization",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2099366258,
+                    "author": [
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        },
+                        {
+                            "AuId": 3043961763,
+                            "AuN": "sergio m focardi"
+                        },
+                        {
+                            "AuId": 2112324603,
+                            "AuN": "caroline jonas"
+                        }
+                    ],
+                    "doi": "10.1017/S1474747205002106",
+                    "journal": "journal of pension economics & finance",
+                    "title": "market experience with modeling for defined benefit pension funds evidence from four countries",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2278533772,
+                    "author": [
+                        {
+                            "AuId": 2143118402,
+                            "AuN": "william t ziemba"
+                        }
+                    ],
+                    "doi": "10.1016/B978-044453248-0.50025-3",
+                    "title": "the russell yasuda kasai innoalm and related models for pensions insurance companies and high net worth individuals",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1596255356,
+                    "author": [
+                        {
+                            "AuId": 2974701922,
+                            "AuN": "wim klein haneveld"
+                        },
+                        {
+                            "AuId": 2095268770,
+                            "AuN": "m h streutker"
+                        },
+                        {
+                            "AuId": 2518347562,
+                            "AuN": "maarten van der vlerk"
+                        }
+                    ],
+                    "journal": "som research reports",
+                    "title": "implementation of new regulatory rules in a multistage alm model for dutch pension funds",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2072633759,
+                    "author": [
+                        {
+                            "AuId": 1206658483,
+                            "AuN": "w k klein haneveld"
+                        },
+                        {
+                            "AuId": 2095268770,
+                            "AuN": "m h streutker"
+                        },
+                        {
+                            "AuId": 2620736092,
+                            "AuN": "m h van der vlerk"
+                        }
+                    ],
+                    "doi": "10.1093/IMAMAN/DPP010",
+                    "journal": "ima journal of management mathematics",
+                    "title": "indexation of dutch pension rights in multistage recourse alm models",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 163705307,
+                    "author": [
+                        {
+                            "AuId": 2149626959,
+                            "AuN": "marida bertocchi"
+                        },
+                        {
+                            "AuId": 407911722,
+                            "AuN": "vittorio moriggia"
+                        },
+                        {
+                            "AuId": 620945717,
+                            "AuN": "jitka dupacova"
+                        }
+                    ],
+                    "doi": "10.1023/A:1019227901758",
+                    "journal": "annals of operations research",
+                    "title": "sensitivity of bond portfolio s behavior with respect to random movements in yield curve a simulation study",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2914968405,
+                    "author": [
+                        {
+                            "AuId": 2048129973,
+                            "AuN": "andrea consiglio"
+                        },
+                        {
+                            "AuId": 2013035318,
+                            "AuN": "flavio cocco"
+                        },
+                        {
+                            "AuId": 2702784219,
+                            "AuN": "stavros a zenios"
+                        }
+                    ],
+                    "doi": "10.1287/INTE.1040.0087",
+                    "title": "www personal_asset_allocation",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2290884341,
+                    "author": [
+                        {
+                            "AuId": 2048129973,
+                            "AuN": "andrea consiglio"
+                        },
+                        {
+                            "AuId": 1623939393,
+                            "AuN": "michele tumminello"
+                        },
+                        {
+                            "AuId": 2702784219,
+                            "AuN": "stavros a zenios"
+                        }
+                    ],
+                    "title": "desinging guarantee options in defined contributions pension plans",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2107420829,
+                    "author": [
+                        {
+                            "AuId": 2102465750,
+                            "AuN": "giorgio consigli"
+                        },
+                        {
+                            "AuId": 2095633514,
+                            "AuN": "massimo di tria"
+                        },
+                        {
+                            "AuId": 2035686186,
+                            "AuN": "michele gaffo"
+                        },
+                        {
+                            "AuId": 303588955,
+                            "AuN": "gaetano iaquinta"
+                        },
+                        {
+                            "AuId": 407911722,
+                            "AuN": "vittorio moriggia"
+                        },
+                        {
+                            "AuId": 46415895,
+                            "AuN": "angelo uristani"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4419-9586-5_5",
+                    "journal": "operations research and management science",
+                    "title": "dynamic portfolio management for property and casualty insurance",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2067679847,
+                    "author": [
+                        {
+                            "AuId": 2102465750,
+                            "AuN": "giorgio consigli"
+                        },
+                        {
+                            "AuId": 407911722,
+                            "AuN": "vittorio moriggia"
+                        }
+                    ],
+                    "doi": "10.1080/21649502.2014.927954",
+                    "title": "applying stochastic programming to insurance portfolios stress testing",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2011004639,
+                    "author": [
+                        {
+                            "AuId": 1993935014,
+                            "AuN": "kjetil hoyland"
+                        },
+                        {
+                            "AuId": 2277026387,
+                            "AuN": "stein w wallace"
+                        }
+                    ],
+                    "doi": "10.1016/S0377-2217(00)00262-9",
+                    "journal": "european journal of operational research",
+                    "title": "analyzing legal regulations in the norwegian life insurance business using a multistage asset liability management model",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 256307281,
+                    "author": [
+                        {
+                            "AuId": 2036374693,
+                            "AuN": "gabriel dondi"
+                        },
+                        {
+                            "AuId": 2106987781,
+                            "AuN": "florian herzog"
+                        },
+                        {
+                            "AuId": 2003455777,
+                            "AuN": "l m schumann"
+                        },
+                        {
+                            "AuId": 2066026018,
+                            "AuN": "hans p geering"
+                        }
+                    ],
+                    "doi": "10.1016/B978-044453248-0.50026-5",
+                    "title": "dynamic asset and liability management for swiss pension funds",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2260442307,
+                    "author": [
+                        {
+                            "AuId": 2102465750,
+                            "AuN": "giorgio consigli"
+                        },
+                        {
+                            "AuId": 2095633514,
+                            "AuN": "massimo di tria"
+                        }
+                    ],
+                    "title": "optimal long term property and casualty alm with risk capital control",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2261374411,
+                    "author": [
+                        {
+                            "AuId": 2102465750,
+                            "AuN": "giorgio consigli"
+                        }
+                    ],
+                    "title": "individual asset liability management for individual investors",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 990186709,
+                    "author": [
+                        {
+                            "AuId": 2149626959,
+                            "AuN": "marida bertocchi"
+                        },
+                        {
+                            "AuId": 620945717,
+                            "AuN": "jitka dupacova"
+                        },
+                        {
+                            "AuId": 407911722,
+                            "AuN": "vittorio moriggia"
+                        }
+                    ],
+                    "journal": "control and cybernetics",
+                    "title": "sensitivity analysis of a bond portfolio model for the italian market",
+                    "year_mag": 2000
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Rockafellar",
+                            "given": "R.Tyrrell",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Uryasev",
+                            "given": "Stanislav",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-4266(02)00271-6",
+                    "title": "conditional value at risk for general loss distributions",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Ziemba",
+                            "given": "William T.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/S1872-0978(06)02019-9",
+                    "title": "chapter 19 the russell yasuda kasai innoalm and related models for pensions insurance companies and high net worth individuals",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Geyer",
+                            "given": "Alois",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Hanke",
+                            "given": "Michael",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Weissensteiner",
+                            "given": "Alex",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.21314/JCF.2009.203",
+                    "title": "life cycle asset allocation and consumption using stochastic linear programming",
+                    "year_oc": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Consiglio",
+                            "given": "Andrea",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Tumminello",
+                            "given": "Michele",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Zenios",
+                            "given": "Stavros A.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2563087",
+                    "title": "designing guarantee options in defined contribution pension plans",
+                    "year_oc": 2015
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Gomes",
+                            "given": "Francisco",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Kotlikoff",
+                            "given": "Laurence",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Viceira",
+                            "given": "Luis",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3386/W13966",
+                    "title": "optimal life cycle investing with flexible labor supply a welfare analysis of life cycle funds",
+                    "year_oc": 2008
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2888635117,
+                    "author": [
+                        {
+                            "AuId": 407911722,
+                            "AuN": "vittorio moriggia"
+                        },
+                        {
+                            "AuId": 2027494653,
+                            "AuN": "milos kopa"
+                        },
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        }
+                    ],
+                    "doi": "10.1016/J.OMEGA.2018.08.011",
+                    "journal": "omega international journal of management science",
+                    "title": "pension fund management with hedging derivatives stochastic dominance and nodal contamination",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2659790825,
+                    "author": [
+                        {
+                            "AuId": 2624074483,
+                            "AuN": "johan g andreasson"
+                        },
+                        {
+                            "AuId": 2624074483,
+                            "AuN": "johan g andreasson"
+                        },
+                        {
+                            "AuId": 1950597737,
+                            "AuN": "pavel v shevchenko"
+                        }
+                    ],
+                    "doi": "10.3390/RISKS5030047",
+                    "journal": "omega international journal of management science",
+                    "title": "assessment of policy changes to means tested age pension using the expected utility model implication for decisions in retirement",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2944721286,
+                    "author": [
+                        {
+                            "AuId": 2102465750,
+                            "AuN": "giorgio consigli"
+                        },
+                        {
+                            "AuId": 407911722,
+                            "AuN": "vittorio moriggia"
+                        },
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        },
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-019-03253-8",
+                    "journal": "omega international journal of management science",
+                    "title": "long term individual financial planning under stochastic dominance constraints",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3095186726,
+                    "author": [
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        },
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        },
+                        {
+                            "AuId": 2477378958,
+                            "AuN": "ruth dominguez"
+                        },
+                        {
+                            "AuId": 407911722,
+                            "AuN": "vittorio moriggia"
+                        }
+                    ],
+                    "doi": "10.1007/S10288-020-00462-X",
+                    "journal": "omega international journal of management science",
+                    "title": "comparing stage scenario with nodal formulation for multistage stochastic problems",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3048560882,
+                    "author": [
+                        {
+                            "AuId": 3048919172,
+                            "AuN": "marketa horejsova"
+                        },
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        },
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        },
+                        {
+                            "AuId": 2027494653,
+                            "AuN": "milos kopa"
+                        },
+                        {
+                            "AuId": 407911722,
+                            "AuN": "vittorio moriggia"
+                        }
+                    ],
+                    "doi": "10.1007/S10287-020-00375-4",
+                    "journal": "omega international journal of management science",
+                    "title": "evaluation of scenario reduction algorithms with nested distance",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3105398219,
+                    "author": [
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        },
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        },
+                        {
+                            "AuId": 407911722,
+                            "AuN": "vittorio moriggia"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-020-03855-7",
+                    "journal": "omega international journal of management science",
+                    "title": "pension fund management with investment certificates and stochastic dominance",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3014310786,
+                    "author": [
+                        {
+                            "AuId": 2027494653,
+                            "AuN": "milos kopa"
+                        },
+                        {
+                            "AuId": 2906983610,
+                            "AuN": "tomas rus\u00fd"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-020-03583-Y",
+                    "journal": "omega international journal of management science",
+                    "title": "a decision dependent randomness stochastic program for asset liability management model with a pricing decision",
+                    "year_mag": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1007/S10287-016-0263-4",
+            "journal": "COMPUTATIONAL MANAGEMENT SCIENCE",
+            "title": "optimal pension fund composition for an italian private pension plan sponsor",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0254-5330"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1007/S10479-016-2387-",
+            "journal": "ANNALS OF OPERATIONS RESEARCH",
+            "title": "individual optimal pension allocation under stochastic dominance constraints",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0254-5330"
+            ],
+            "PId": 2419445743,
+            "cited": [
+                {
+                    "PId": 2019291268,
+                    "author": [
+                        {
+                            "AuId": 2148130746,
+                            "AuN": "philippe artzner"
+                        },
+                        {
+                            "AuId": 2304226911,
+                            "AuN": "freddy delbaen"
+                        },
+                        {
+                            "AuId": 1996632760,
+                            "AuN": "jeanmarc eber"
+                        },
+                        {
+                            "AuId": 2618472453,
+                            "AuN": "david heath"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9965.00068",
+                    "journal": "mathematical finance",
+                    "title": "coherent measures of risk",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 1995834279,
+                    "author": [
+                        {
+                            "AuId": 2023750619,
+                            "AuN": "eugene f fama"
+                        },
+                        {
+                            "AuId": 2153576001,
+                            "AuN": "kenneth r french"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(93)90023-5",
+                    "journal": "journal of financial economics",
+                    "title": "common risk factors in the returns on stocks and bonds",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2170838015,
+                    "author": [
+                        {
+                            "AuId": 393004383,
+                            "AuN": "r tyrrell rockafellar"
+                        },
+                        {
+                            "AuId": 3001509686,
+                            "AuN": "stanislav uryasev"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.267256",
+                    "title": "conditional value at risk for general loss distributions",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1508957056,
+                    "author": [
+                        {
+                            "AuId": 2163183570,
+                            "AuN": "alfred muller"
+                        },
+                        {
+                            "AuId": 699272135,
+                            "AuN": "dietrich stoyan"
+                        }
+                    ],
+                    "title": "comparison methods for stochastic models and risks",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2153580489,
+                    "author": [
+                        {
+                            "AuId": 2162441753,
+                            "AuN": "william f sharpe"
+                        }
+                    ],
+                    "doi": "10.3905/JPM.1994.409501",
+                    "journal": "the journal of portfolio management",
+                    "title": "the sharpe ratio",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2076057077,
+                    "author": [
+                        {
+                            "AuId": 2007039471,
+                            "AuN": "oldrich a vasicek"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(77)90016-2",
+                    "journal": "journal of financial economics",
+                    "title": "an equilibrium characterization of the term structure",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 2131792690,
+                    "author": [
+                        {
+                            "AuId": 2166337557,
+                            "AuN": "russell davidson"
+                        },
+                        {
+                            "AuId": 2060767938,
+                            "AuN": "jeanyves duclos"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.70916",
+                    "title": "statistical inference for stochastic dominance and for the measurement of poverty and inequality",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1497134858,
+                    "author": [
+                        {
+                            "AuId": 1746618,
+                            "AuN": "annette vissingjorgensen"
+                        },
+                        {
+                            "AuId": 1746618,
+                            "AuN": "annette vissingjorgensen"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.417421",
+                    "title": "perspectives on behavioral finance does irrationality disappear with wealth evidence from expectations and actions",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2134919172,
+                    "author": [
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        },
+                        {
+                            "AuId": 2734332915,
+                            "AuN": "dashan huang"
+                        },
+                        {
+                            "AuId": 2208249848,
+                            "AuN": "guofu zhou"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-009-0515-6",
+                    "journal": "annals of operations research",
+                    "title": "robust portfolios contributions from operations research and finance",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2002054890,
+                    "author": [
+                        {
+                            "AuId": 18932325,
+                            "AuN": "almira biglova"
+                        },
+                        {
+                            "AuId": 2024915760,
+                            "AuN": "sergio ortobelli"
+                        },
+                        {
+                            "AuId": 2085403699,
+                            "AuN": "svetlozar t rachev"
+                        },
+                        {
+                            "AuId": 2068117697,
+                            "AuN": "stoyan v stoyanov"
+                        }
+                    ],
+                    "doi": "10.3905/JPM.2004.443328",
+                    "journal": "the journal of portfolio management",
+                    "title": "different approaches to risk estimation in portfolio theory",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2139491749,
+                    "author": [
+                        {
+                            "AuId": 2085403699,
+                            "AuN": "svetlozar t rachev"
+                        },
+                        {
+                            "AuId": 2024915760,
+                            "AuN": "sergio ortobelli"
+                        },
+                        {
+                            "AuId": 2068117697,
+                            "AuN": "stoyan v stoyanov"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        },
+                        {
+                            "AuId": 18932325,
+                            "AuN": "almira biglova"
+                        }
+                    ],
+                    "doi": "10.1142/S0219024908004713",
+                    "journal": "international journal of theoretical and applied finance",
+                    "title": "desirable properties of an ideal risk measure in portfolio theory",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2132556832,
+                    "author": [
+                        {
+                            "AuId": 3123877902,
+                            "AuN": "phelim"
+                        },
+                        {
+                            "AuId": 3123877902,
+                            "AuN": "phelim"
+                        },
+                        {
+                            "AuId": 3124252669,
+                            "AuN": "tan"
+                        },
+                        {
+                            "AuId": 3125302690,
+                            "AuN": "raman"
+                        },
+                        {
+                            "AuId": 3125302690,
+                            "AuN": "raman"
+                        },
+                        {
+                            "AuId": 3123478696,
+                            "AuN": "lorenzo"
+                        }
+                    ],
+                    "doi": "10.2307/41406387",
+                    "title": "keynes meets markowitz the trade off between familiarity and diversification",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1986220092,
+                    "author": [
+                        {
+                            "AuId": 2068117697,
+                            "AuN": "stoyan v stoyanov"
+                        },
+                        {
+                            "AuId": 2085403699,
+                            "AuN": "svetlozar t rachev"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "title": "optimal financial portfolios",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2053961053,
+                    "author": [
+                        {
+                            "AuId": 720328784,
+                            "AuN": "imre kondor"
+                        },
+                        {
+                            "AuId": 326109941,
+                            "AuN": "szilard pafka"
+                        },
+                        {
+                            "AuId": 2312083254,
+                            "AuN": "gabor nagy"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2006.12.003",
+                    "journal": "journal of banking and finance",
+                    "title": "noise sensitivity of portfolio selection under various risk measures",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2015567894,
+                    "author": [
+                        {
+                            "AuId": 2124538598,
+                            "AuN": "simone farinelli"
+                        },
+                        {
+                            "AuId": 2234634663,
+                            "AuN": "manuel ferreira"
+                        },
+                        {
+                            "AuId": 2166565877,
+                            "AuN": "damiano rossello"
+                        },
+                        {
+                            "AuId": 1420991231,
+                            "AuN": "markus thoeny"
+                        },
+                        {
+                            "AuId": 2072144952,
+                            "AuN": "luisa tibiletti"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2007.12.026",
+                    "journal": "journal of banking and finance",
+                    "title": "beyond sharpe ratio optimal asset allocation using different performance ratios",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2156803658,
+                    "author": [
+                        {
+                            "AuId": 2648926201,
+                            "AuN": "statmanmeir"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V60.N4.2636",
+                    "journal": "financial analysts journal",
+                    "title": "the diversification puzzle",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2254338027,
+                    "author": [
+                        {
+                            "AuId": 1693223753,
+                            "AuN": "philippe cogneau"
+                        },
+                        {
+                            "AuId": 2063931917,
+                            "AuN": "georges hubner"
+                        }
+                    ],
+                    "title": "the more than 100 ways to measure portfolio performance part 1 standardized risk adjusted measures",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2276228428,
+                    "author": [
+                        {
+                            "AuId": 1693223753,
+                            "AuN": "philippe cogneau"
+                        },
+                        {
+                            "AuId": 2063931917,
+                            "AuN": "georges hubner"
+                        }
+                    ],
+                    "title": "the more than 100 ways to measure portfolio performance part 2 special measures and comparison",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1507348948,
+                    "author": [
+                        {
+                            "AuId": 2081294549,
+                            "AuN": "claus munk"
+                        }
+                    ],
+                    "title": "fixed income modelling",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 138558716,
+                    "author": [
+                        {
+                            "AuId": 237385403,
+                            "AuN": "sergio ortobelli lozza"
+                        },
+                        {
+                            "AuId": 1991322593,
+                            "AuN": "enrico angelelli"
+                        }
+                    ],
+                    "title": "american and european portfolio selection strategies the markovian approach",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2076741642,
+                    "author": [
+                        {
+                            "AuId": 2722774284,
+                            "AuN": "r douglas martin"
+                        },
+                        {
+                            "AuId": 2085403699,
+                            "AuN": "svetlozar t rachev"
+                        },
+                        {
+                            "AuId": 2328019605,
+                            "AuN": "frederic siboulet"
+                        }
+                    ],
+                    "doi": "10.1002/WILM.42820030619",
+                    "journal": "wilmott",
+                    "title": "phi alpha optimal portfolios and extreme risk management",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1534995129,
+                    "author": [
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "title": "the handbook of fixed income securities",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2006486055,
+                    "author": [
+                        {
+                            "AuId": 2702784219,
+                            "AuN": "stavros a zenios"
+                        }
+                    ],
+                    "doi": "10.1007/BF02031744",
+                    "journal": "annals of operations research",
+                    "title": "asset liability management under uncertainty for fixed income securities",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2060264726,
+                    "author": [
+                        {
+                            "AuId": 2149626959,
+                            "AuN": "marida bertocchi"
+                        },
+                        {
+                            "AuId": 1999703830,
+                            "AuN": "rosella giacometti"
+                        },
+                        {
+                            "AuId": 2702784219,
+                            "AuN": "stavros a zenios"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2003.08.047",
+                    "journal": "european journal of operational research",
+                    "title": "risk factor analysis and portfolio immunization in the corporate bond market",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1987396383,
+                    "author": [
+                        {
+                            "AuId": 2181556604,
+                            "AuN": "h gifford fong"
+                        },
+                        {
+                            "AuId": 2007039471,
+                            "AuN": "oldrich a vasicek"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1984.TB04923.X",
+                    "journal": "journal of finance",
+                    "title": "a risk minimizing strategy for portfolio immunization",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 1964478211,
+                    "author": [
+                        {
+                            "AuId": 2698153495,
+                            "AuN": "lawrence fisher"
+                        },
+                        {
+                            "AuId": 2140130788,
+                            "AuN": "roman l weil"
+                        }
+                    ],
+                    "doi": "10.1086/295402",
+                    "journal": "the journal of business",
+                    "title": "coping with the risk of interest rate fluctuations returns to bondholders from naive and optimal strategies",
+                    "year_mag": 1971
+                },
+                {
+                    "PId": 1997628660,
+                    "author": [
+                        {
+                            "AuId": 2789270324,
+                            "AuN": "peter o christensen"
+                        },
+                        {
+                            "AuId": 2271415668,
+                            "AuN": "bjarne g sorensen"
+                        }
+                    ],
+                    "doi": "10.3905/JPM.1994.409472",
+                    "journal": "the journal of portfolio management",
+                    "title": "duration convexity and time value",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2125183942,
+                    "author": [
+                        {
+                            "AuId": 2014293465,
+                            "AuN": "fabio lamantia"
+                        },
+                        {
+                            "AuId": 2024915760,
+                            "AuN": "sergio ortobelli"
+                        },
+                        {
+                            "AuId": 2085403699,
+                            "AuN": "svetlozar t rachev"
+                        }
+                    ],
+                    "journal": "investment management & financial innovations",
+                    "title": "var cvar and time rules with elliptical and asymmetric stable distributed returns",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 1964335984,
+                    "author": [
+                        {
+                            "AuId": 237385403,
+                            "AuN": "sergio ortobelli lozza"
+                        },
+                        {
+                            "AuId": 1991322593,
+                            "AuN": "enrico angelelli"
+                        },
+                        {
+                            "AuId": 2700778328,
+                            "AuN": "daniele toninelli"
+                        }
+                    ],
+                    "doi": "10.2753/REE1540-496X4706S501",
+                    "journal": "emerging markets finance and trade",
+                    "title": "set portfolio selection with the use of market stochastic bounds",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2046410147,
+                    "author": [
+                        {
+                            "AuId": 2603280716,
+                            "AuN": "richard roll"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1971.TB00588.X",
+                    "journal": "journal of finance",
+                    "title": "investment diversification and bond maturity",
+                    "year_mag": 1971
+                },
+                {
+                    "PId": 2269475259,
+                    "author": [
+                        {
+                            "AuId": 2118433018,
+                            "AuN": "massimo de felice"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-57846-5_4",
+                    "title": "immunization theory an actuarial perspective on asset liability management",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2229529646,
+                    "author": [
+                        {
+                            "AuId": 18932325,
+                            "AuN": "almira biglova"
+                        },
+                        {
+                            "AuId": 2024915760,
+                            "AuN": "sergio ortobelli"
+                        },
+                        {
+                            "AuId": 2085403699,
+                            "AuN": "svetlozar t rachev"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.1016/B978-0-12-374952-9.00005-1",
+                    "title": "modeling estimation and optimization of equity portfolios with heavy tailed distributions",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2080604889,
+                    "author": [
+                        {
+                            "AuId": 2130495818,
+                            "AuN": "antonio diaz"
+                        },
+                        {
+                            "AuId": 2574475012,
+                            "AuN": "maria de la o gonzalez"
+                        },
+                        {
+                            "AuId": 2154186369,
+                            "AuN": "eliseo navarro"
+                        },
+                        {
+                            "AuId": 2114804005,
+                            "AuN": "frank s skinner"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2009.04.008",
+                    "journal": "journal of banking and finance",
+                    "title": "an evaluation of contingent immunization",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2089969212,
+                    "author": [
+                        {
+                            "AuId": 2018432775,
+                            "AuN": "alejandro balbas"
+                        },
+                        {
+                            "AuId": 2096573772,
+                            "AuN": "alfredo ibanez"
+                        },
+                        {
+                            "AuId": 2574779972,
+                            "AuN": "susana lopez"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-4266(01)00168-6",
+                    "journal": "journal of banking and finance",
+                    "title": "dispersion measures as immunization risk measures",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1974042923,
+                    "author": [
+                        {
+                            "AuId": 2244371240,
+                            "AuN": "iraj fooladi"
+                        },
+                        {
+                            "AuId": 2236753108,
+                            "AuN": "gordon s roberts"
+                        },
+                        {
+                            "AuId": 2114804005,
+                            "AuN": "frank s skinner"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-4266(96)00018-0",
+                    "journal": "journal of banking and finance",
+                    "title": "duration for bonds with default risk",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1528107910,
+                    "author": [
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "title": "duration convexity and other bond risk measures",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2055261838,
+                    "author": [
+                        {
+                            "AuId": 1311111330,
+                            "AuN": "jacob paroush"
+                        },
+                        {
+                            "AuId": 2477439520,
+                            "AuN": "eliezer z prisman"
+                        }
+                    ],
+                    "doi": "10.1287/MNSC.43.2.198",
+                    "journal": "management science",
+                    "title": "on the relative importance of duration constraints",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2052936411,
+                    "author": [
+                        {
+                            "AuId": 2140130788,
+                            "AuN": "roman l weil"
+                        }
+                    ],
+                    "doi": "10.1086/295579",
+                    "journal": "the journal of business",
+                    "title": "macaulay s duration an appreciation",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 1599528562,
+                    "author": [
+                        {
+                            "AuId": 2149626959,
+                            "AuN": "marida bertocchi"
+                        },
+                        {
+                            "AuId": 2102465750,
+                            "AuN": "giorgio consigli"
+                        },
+                        {
+                            "AuId": 2350167994,
+                            "AuN": "rita l decclesia"
+                        },
+                        {
+                            "AuId": 1999703830,
+                            "AuN": "rosella giacometti"
+                        },
+                        {
+                            "AuId": 407911722,
+                            "AuN": "vittorio moriggia"
+                        },
+                        {
+                            "AuId": 2024915760,
+                            "AuN": "sergio ortobelli"
+                        }
+                    ],
+                    "title": "euro bonds markets infrastructure and trends",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1481519737,
+                    "author": [
+                        {
+                            "AuId": 3029609035,
+                            "AuN": "marida bertocchi"
+                        },
+                        {
+                            "AuId": 2350167994,
+                            "AuN": "rita l decclesia"
+                        }
+                    ],
+                    "doi": "10.1142/8661",
+                    "title": "the market infrastructure",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2202729873,
+                    "author": [
+                        {
+                            "AuId": 3029609035,
+                            "AuN": "marida bertocchi"
+                        },
+                        {
+                            "AuId": 2350167994,
+                            "AuN": "rita l decclesia"
+                        }
+                    ],
+                    "doi": "10.1142/8661",
+                    "title": "the bond market in europe",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2261039492,
+                    "author": [
+                        {
+                            "AuId": 2097832463,
+                            "AuN": "marco cassader"
+                        },
+                        {
+                            "AuId": 2707953703,
+                            "AuN": "s caglio"
+                        },
+                        {
+                            "AuId": 2024915760,
+                            "AuN": "sergio ortobelli"
+                        },
+                        {
+                            "AuId": 154093234,
+                            "AuN": "valeria caviezel"
+                        }
+                    ],
+                    "title": "on the use of contingent claims in portfolio selection problems",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2887104448,
+                    "author": [
+                        {
+                            "AuId": 2885117609,
+                            "AuN": "f m redington"
+                        }
+                    ],
+                    "doi": "10.1017/S0020268100052811",
+                    "journal": "journal of the institute of actuaries",
+                    "title": "review of the principles of life office valuations",
+                    "year_mag": 1952
+                },
+                {
+                    "PId": 2213460717,
+                    "author": [
+                        {
+                            "AuId": 2662427255,
+                            "AuN": "giorgio consigli"
+                        }
+                    ],
+                    "title": "market bond products",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2023953675,
+                    "author": [
+                        {
+                            "AuId": 2126881716,
+                            "AuN": "pao lun cheng"
+                        }
+                    ],
+                    "doi": "10.1287/MNSC.8.4.490",
+                    "journal": "management science",
+                    "title": "optimum bond portfolio selections",
+                    "year_mag": 1962
+                },
+                {
+                    "PId": 2032834934,
+                    "author": [
+                        {
+                            "AuId": 2305762485,
+                            "AuN": "jess b yawitz"
+                        },
+                        {
+                            "AuId": 2098431093,
+                            "AuN": "william j marshall"
+                        }
+                    ],
+                    "doi": "10.3905/JPM.1977.408615",
+                    "journal": "the journal of portfolio management",
+                    "title": "risk and return in the government bond market",
+                    "year_mag": 1977
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Rockafellar",
+                            "given": "R.Tyrrell",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Uryasev",
+                            "given": "Stanislav",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-4266(02)00271-6",
+                    "title": "conditional value at risk for general loss distributions",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Davidson",
+                            "given": "Russell",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Duclos",
+                            "given": "Jean-Yves",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/1468-0262.00167",
+                    "title": "statistical inference for stochastic dominance and for the measurement of poverty and inequality",
+                    "year_oc": 2000
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "CAMPBELL",
+                            "given": "JOHN Y.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.2006.00883.X",
+                    "title": "household finance",
+                    "year_oc": 2006
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Boyle",
+                            "given": "Phelim",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Garlappi",
+                            "given": "Lorenzo",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Uppal",
+                            "given": "Raman",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Wang",
+                            "given": "Tan",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1287/MNSC.1110.1349",
+                    "title": "keynes meets markowitz the trade off between familiarity and diversification",
+                    "year_oc": 2012
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2888761543,
+                    "author": [
+                        {
+                            "AuId": 237385403,
+                            "AuN": "sergio ortobelli lozza"
+                        },
+                        {
+                            "AuId": 1991322593,
+                            "AuN": "enrico angelelli"
+                        },
+                        {
+                            "AuId": 2888263260,
+                            "AuN": "alda ndoci"
+                        }
+                    ],
+                    "doi": "10.1007/S10287-018-0332-Y",
+                    "journal": "computational management science",
+                    "title": "timing portfolio strategies with exponential levy processes",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2790436604,
+                    "author": [
+                        {
+                            "AuId": 237385403,
+                            "AuN": "sergio ortobelli lozza"
+                        },
+                        {
+                            "AuId": 2295581515,
+                            "AuN": "filomena petronio"
+                        },
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        }
+                    ],
+                    "doi": "10.21511/IMFI.15(1).2018.11",
+                    "journal": "computational management science",
+                    "title": "price and market risk reduction for bond portfolio selection in brics markets",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2963621004,
+                    "author": [
+                        {
+                            "AuId": 2809136249,
+                            "AuN": "chinnadurai kathiravan"
+                        },
+                        {
+                            "AuId": 2953417261,
+                            "AuN": "murugesan selvam"
+                        },
+                        {
+                            "AuId": 2299708792,
+                            "AuN": "sankaran venkateswar"
+                        },
+                        {
+                            "AuId": 2963571909,
+                            "AuN": "s balakrishnan"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-019-03335-7",
+                    "journal": "computational management science",
+                    "title": "investor behavior and weather factors evidences from asian region",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2902523164,
+                    "author": [
+                        {
+                            "AuId": 2902352409,
+                            "AuN": "leszek zaremba"
+                        }
+                    ],
+                    "doi": "10.5772/INTECHOPEN.78719",
+                    "journal": "computational management science",
+                    "title": "practical finance strategies in immunization",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1007/S10479-016-2182-8",
+            "journal": "ANNALS OF OPERATIONS RESEARCH",
+            "title": "portfolio selection strategy for fixed income markets with immunization on average",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0972-0871"
+            ],
+            "PId": 2464578048,
+            "cited": [
+                {
+                    "PId": 2009923109,
+                    "author": [
+                        {
+                            "AuId": 2015320213,
+                            "AuN": "farid alizadeh"
+                        },
+                        {
+                            "AuId": 2139885129,
+                            "AuN": "donald goldfarb"
+                        }
+                    ],
+                    "doi": "10.1007/S10107-002-0339-5",
+                    "journal": "mathematical programming",
+                    "title": "second order cone programming",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 10800830,
+                    "author": [
+                        {
+                            "AuId": 24567712,
+                            "AuN": "jacques faraut"
+                        },
+                        {
+                            "AuId": 2158244296,
+                            "AuN": "adam koranyi"
+                        }
+                    ],
+                    "title": "analysis on symmetric cones",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1632601927,
+                    "author": [
+                        {
+                            "AuId": 2119837755,
+                            "AuN": "yurii nesterov"
+                        },
+                        {
+                            "AuId": 2218102319,
+                            "AuN": "arkadii nemirovskii"
+                        }
+                    ],
+                    "title": "interior point polynomial algorithms in convex programming",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2117065890,
+                    "author": [
+                        {
+                            "AuId": 3080495773,
+                            "AuN": "yu nesterov"
+                        },
+                        {
+                            "AuId": 2100621769,
+                            "AuN": "michael j todd"
+                        }
+                    ],
+                    "doi": "10.1287/MOOR.22.1.1",
+                    "journal": "mathematics of operations research",
+                    "title": "self scaled barriers and interior point methods for convex programming",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2077274614,
+                    "author": [
+                        {
+                            "AuId": 2119837755,
+                            "AuN": "yurii nesterov"
+                        },
+                        {
+                            "AuId": 2100621769,
+                            "AuN": "michael j todd"
+                        }
+                    ],
+                    "doi": "10.1137/S1052623495290209",
+                    "journal": "siam journal on optimization",
+                    "title": "primal dual interior point methods for self scaled cones",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2075379600,
+                    "author": [
+                        {
+                            "AuId": 2021118249,
+                            "AuN": "masakazu kojima"
+                        },
+                        {
+                            "AuId": 2043610611,
+                            "AuN": "susumu shindoh"
+                        },
+                        {
+                            "AuId": 2119200781,
+                            "AuN": "shinji hara"
+                        }
+                    ],
+                    "doi": "10.1137/S1052623494269035",
+                    "journal": "siam journal on optimization",
+                    "title": "interior point methods for the monotone semidefinite linear complementarity problem in symmetric matrices",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2128202699,
+                    "author": [
+                        {
+                            "AuId": 136829543,
+                            "AuN": "christoph helmberg"
+                        },
+                        {
+                            "AuId": 2174028694,
+                            "AuN": "franz rendl"
+                        },
+                        {
+                            "AuId": 160571302,
+                            "AuN": "robert j vanderbei"
+                        },
+                        {
+                            "AuId": 27329145,
+                            "AuN": "henry wolkowicz"
+                        }
+                    ],
+                    "doi": "10.1137/0806020",
+                    "journal": "siam journal on optimization",
+                    "title": "an interior point method for semidefinite programming",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2025486357,
+                    "author": [
+                        {
+                            "AuId": 2141360296,
+                            "AuN": "renato d c monteiro"
+                        }
+                    ],
+                    "doi": "10.1137/S1052623495293056",
+                    "journal": "siam journal on optimization",
+                    "title": "primal dual path following algorithms for semidefinite programming",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1985984741,
+                    "author": [
+                        {
+                            "AuId": 2310370302,
+                            "AuN": "yin zhang"
+                        }
+                    ],
+                    "doi": "10.1137/S1052623495296115",
+                    "journal": "siam journal on optimization",
+                    "title": "on extending some primal dual interior point algorithms from linear programming to semidefinite programming",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2024517173,
+                    "author": [
+                        {
+                            "AuId": 1965847122,
+                            "AuN": "francesca maggioni"
+                        },
+                        {
+                            "AuId": 2277026387,
+                            "AuN": "stein w wallace"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-010-0807-X",
+                    "journal": "annals of operations research",
+                    "title": "analyzing the quality of the expected value solution in stochastic programming",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2010666676,
+                    "author": [
+                        {
+                            "AuId": 1965847122,
+                            "AuN": "francesca maggioni"
+                        },
+                        {
+                            "AuId": 3985835,
+                            "AuN": "florian a potra"
+                        },
+                        {
+                            "AuId": 2111498438,
+                            "AuN": "maria bertocchi"
+                        },
+                        {
+                            "AuId": 2463088926,
+                            "AuN": "elisabetta allevi"
+                        }
+                    ],
+                    "doi": "10.1007/S10957-009-9561-0",
+                    "journal": "journal of optimization theory and applications",
+                    "title": "stochastic second order cone programming in mobile ad hoc networks",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1976667494,
+                    "author": [
+                        {
+                            "AuId": 1965847122,
+                            "AuN": "francesca maggioni"
+                        },
+                        {
+                            "AuId": 2463088926,
+                            "AuN": "elisabetta allevi"
+                        },
+                        {
+                            "AuId": 2149626959,
+                            "AuN": "marida bertocchi"
+                        }
+                    ],
+                    "doi": "10.1007/S10957-013-0450-1",
+                    "journal": "journal of optimization theory and applications",
+                    "title": "bounds in multistage linear stochastic programming",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2097801156,
+                    "author": [
+                        {
+                            "AuId": 431891780,
+                            "AuN": "k a ariyawansa"
+                        },
+                        {
+                            "AuId": 2132964665,
+                            "AuN": "yuntao zhu"
+                        }
+                    ],
+                    "doi": "10.1007/S10288-006-0016-2",
+                    "journal": "a quarterly journal of operations research",
+                    "title": "stochastic semidefinite programming a new paradigm for stochastic optimization",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2304662403,
+                    "author": [
+                        {
+                            "AuId": 1965847122,
+                            "AuN": "francesca maggioni"
+                        },
+                        {
+                            "AuId": 2100393747,
+                            "AuN": "georg ch pflug"
+                        }
+                    ],
+                    "doi": "10.1137/140971889",
+                    "journal": "siam journal on optimization",
+                    "title": "bounds and approximations for multistage stochastic programs",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2329499105,
+                    "author": [
+                        {
+                            "AuId": 1965847122,
+                            "AuN": "francesca maggioni"
+                        },
+                        {
+                            "AuId": 2463088926,
+                            "AuN": "elisabetta allevi"
+                        },
+                        {
+                            "AuId": 2149626959,
+                            "AuN": "marida bertocchi"
+                        }
+                    ],
+                    "doi": "10.1007/S10287-016-0254-5",
+                    "journal": "computational management science",
+                    "title": "monotonic bounds in multistage mixed integer stochastic programming",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2008206749,
+                    "author": [
+                        {
+                            "AuId": 2132964665,
+                            "AuN": "yuntao zhu"
+                        },
+                        {
+                            "AuId": 431891780,
+                            "AuN": "k a ariyawansa"
+                        }
+                    ],
+                    "doi": "10.1016/J.APM.2010.11.048",
+                    "journal": "applied mathematical modelling",
+                    "title": "a preliminary set of applications leading to stochastic semidefinite programs and chance constrained semidefinite programs",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2084730144,
+                    "author": [
+                        {
+                            "AuId": 2399952170,
+                            "AuN": "baha alzalg"
+                        },
+                        {
+                            "AuId": 431891780,
+                            "AuN": "k a ariyawansa"
+                        }
+                    ],
+                    "doi": "10.1016/J.JMAA.2013.07.075",
+                    "journal": "journal of mathematical analysis and applications",
+                    "title": "logarithmic barrier decomposition based interior point methods for stochastic symmetric programming",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2051547133,
+                    "author": [
+                        {
+                            "AuId": 1965847122,
+                            "AuN": "francesca maggioni"
+                        },
+                        {
+                            "AuId": 1271202355,
+                            "AuN": "michal kaut"
+                        },
+                        {
+                            "AuId": 2250775073,
+                            "AuN": "luca bertazzi"
+                        }
+                    ],
+                    "doi": "10.1007/S10287-008-0086-Z",
+                    "journal": "computational management science",
+                    "title": "stochastic optimization models for a single sink transportation problem",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1982530547,
+                    "author": [
+                        {
+                            "AuId": 2250775073,
+                            "AuN": "luca bertazzi"
+                        },
+                        {
+                            "AuId": 1965847122,
+                            "AuN": "francesca maggioni"
+                        }
+                    ],
+                    "doi": "10.1007/S10957-014-0638-Z",
+                    "journal": "journal of optimization theory and applications",
+                    "title": "solution approaches for the stochastic capacitated traveling salesmen location problem with recourse",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2109129402,
+                    "author": [
+                        {
+                            "AuId": 2130497776,
+                            "AuN": "shengping jin"
+                        },
+                        {
+                            "AuId": 431891780,
+                            "AuN": "k a ariyawansa"
+                        },
+                        {
+                            "AuId": 2698545807,
+                            "AuN": "yuntao zhu"
+                        }
+                    ],
+                    "doi": "10.1007/S10957-012-0110-X",
+                    "journal": "journal of optimization theory and applications",
+                    "title": "homogeneous self dual algorithms for stochastic semidefinite programming",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2068286758,
+                    "author": [
+                        {
+                            "AuId": 2399952170,
+                            "AuN": "baha alzalg"
+                        }
+                    ],
+                    "doi": "10.1007/S10957-013-0428-Z",
+                    "journal": "journal of optimization theory and applications",
+                    "title": "homogeneous self dual algorithms for stochastic second order cone programming",
+                    "year_mag": 2014
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2900834319,
+                    "author": [
+                        {
+                            "AuId": 2399952170,
+                            "AuN": "baha alzalg"
+                        },
+                        {
+                            "AuId": 2399952170,
+                            "AuN": "baha alzalg"
+                        },
+                        {
+                            "AuId": 2900883616,
+                            "AuN": "khaled badarneh"
+                        },
+                        {
+                            "AuId": 2900980324,
+                            "AuN": "ayat ababneh"
+                        },
+                        {
+                            "AuId": 2900980324,
+                            "AuN": "ayat ababneh"
+                        }
+                    ],
+                    "doi": "10.1007/S10957-018-1445-8",
+                    "journal": "journal of optimization theory and applications",
+                    "title": "an infeasible interior point algorithm for stochastic second order cone optimization",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2899747881,
+                    "author": [
+                        {
+                            "AuId": 2399952170,
+                            "AuN": "baha alzalg"
+                        },
+                        {
+                            "AuId": 2399952170,
+                            "AuN": "baha alzalg"
+                        }
+                    ],
+                    "doi": "10.1007/S10589-018-0045-8",
+                    "journal": "journal of optimization theory and applications",
+                    "title": "a primal dual interior point method based on various selections of displacement step for symmetric optimization",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.17654/MS099111603",
+            "journal": "FAR EAST JOURNAL OF MATHEMATICAL SCIENCES: FJMS",
+            "title": "homogeneous self dual methods for symmetric cones under uncertainty",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1120-690X"
+            ],
+            "PId": 2563423349,
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "5"
+            },
+            "journal": "INDUZIONI",
+            "title": "l esperienza erasmus la valutazione degli studenti dell universita di bergamo",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "PId": 1712323468,
+            "cited": [
+                {
+                    "PId": 2077791698,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        },
+                        {
+                            "AuId": 2640352042,
+                            "AuN": "myron s scholes"
+                        }
+                    ],
+                    "doi": "10.1086/260062",
+                    "journal": "journal of political economy",
+                    "title": "the pricing of options and corporate liabilities",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2129220488,
+                    "author": [
+                        {
+                            "AuId": 2095955310,
+                            "AuN": "gurdip bakshi"
+                        },
+                        {
+                            "AuId": 2157096929,
+                            "AuN": "charles cao"
+                        },
+                        {
+                            "AuId": 2342934075,
+                            "AuN": "zhiwu chen"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1997.TB02749.X",
+                    "journal": "journal of finance",
+                    "title": "empirical performance of alternative option pricing models",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2106154424,
+                    "author": [
+                        {
+                            "AuId": 2609526882,
+                            "AuN": "mark rubinstein"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1994.TB00079.X",
+                    "journal": "journal of finance",
+                    "title": "implied binomial trees",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2014389988,
+                    "author": [
+                        {
+                            "AuId": 2568542118,
+                            "AuN": "shu yan"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2010.08.011",
+                    "journal": "journal of financial economics",
+                    "title": "jump risk stock returns and slope of implied volatility smile",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2071058234,
+                    "author": [
+                        {
+                            "AuId": 2973516691,
+                            "AuN": "m benko"
+                        },
+                        {
+                            "AuId": 2251157857,
+                            "AuN": "matthias r fengler"
+                        },
+                        {
+                            "AuId": 221655504,
+                            "AuN": "wolfgang karl hardle"
+                        },
+                        {
+                            "AuId": 2027494653,
+                            "AuN": "milos kopa"
+                        }
+                    ],
+                    "doi": "10.1007/S00180-007-0061-0",
+                    "journal": "computational statistics",
+                    "title": "on extracting information implied in options",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2045433169,
+                    "author": [
+                        {
+                            "AuId": 2550509494,
+                            "AuN": "j glover"
+                        },
+                        {
+                            "AuId": 2246905563,
+                            "AuN": "m montaz ali"
+                        }
+                    ],
+                    "doi": "10.1016/J.AMC.2010.10.046",
+                    "journal": "applied mathematics and computation",
+                    "title": "using radial basis functions to construct local volatility surfaces",
+                    "year_mag": 2011
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2339704905,
+                    "author": [
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        },
+                        {
+                            "AuId": 2523241713,
+                            "AuN": "tomas tich\u00fd"
+                        },
+                        {
+                            "AuId": 2027494653,
+                            "AuN": "milos kopa"
+                        }
+                    ],
+                    "title": "the arbitrage inconsistencies of implied volatility extraction in connection to calendar bandwidth",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.2991/CSIC-15.2015.111",
+            "title": "on the implied volatility extraction and the selection of suitable kernel",
+            "type": "contributo in atti di convegno",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-80-248-3865-6"
+            ],
+            "PId": 2339704905,
+            "cited": [
+                {
+                    "PId": 2077791698,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        },
+                        {
+                            "AuId": 2640352042,
+                            "AuN": "myron s scholes"
+                        }
+                    ],
+                    "doi": "10.1086/260062",
+                    "journal": "journal of political economy",
+                    "title": "the pricing of options and corporate liabilities",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2106154424,
+                    "author": [
+                        {
+                            "AuId": 2609526882,
+                            "AuN": "mark rubinstein"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1994.TB00079.X",
+                    "journal": "journal of finance",
+                    "title": "implied binomial trees",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2071058234,
+                    "author": [
+                        {
+                            "AuId": 2973516691,
+                            "AuN": "m benko"
+                        },
+                        {
+                            "AuId": 2251157857,
+                            "AuN": "matthias r fengler"
+                        },
+                        {
+                            "AuId": 221655504,
+                            "AuN": "wolfgang karl hardle"
+                        },
+                        {
+                            "AuId": 2027494653,
+                            "AuN": "milos kopa"
+                        }
+                    ],
+                    "doi": "10.1007/S00180-007-0061-0",
+                    "journal": "computational statistics",
+                    "title": "on extracting information implied in options",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2152302557,
+                    "author": [
+                        {
+                            "AuId": 2027494653,
+                            "AuN": "milos kopa"
+                        },
+                        {
+                            "AuId": 2614475822,
+                            "AuN": "tomas tichy"
+                        }
+                    ],
+                    "doi": "10.1080/09720073.2014.11891489",
+                    "journal": "the anthropologist",
+                    "title": "no arbitrage condition of option implied volatility and bandwidth selection",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2216177620,
+                    "author": [
+                        {
+                            "AuId": 2523241713,
+                            "AuN": "tomas tich\u00fd"
+                        },
+                        {
+                            "AuId": 2027494653,
+                            "AuN": "milos kopa"
+                        },
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        }
+                    ],
+                    "title": "the bandwidth selection in connection to option implied volatility extraction",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1712323468,
+                    "author": [
+                        {
+                            "AuId": 2282619843,
+                            "AuN": "kopa milos"
+                        },
+                        {
+                            "AuId": 2277023790,
+                            "AuN": "vitali sebastiano"
+                        },
+                        {
+                            "AuId": 2285746425,
+                            "AuN": "tich\u00fd tomas"
+                        }
+                    ],
+                    "doi": "10.2991/CSIC-15.2015.111",
+                    "title": "on the implied volatility extraction and the selection of suitable kernel",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "title": "the arbitrage inconsistencies of implied volatility extraction in connection to calendar bandwidth",
+            "type": "contributo in atti di convegno",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788074942259"
+            ],
+            "PId": 2216177620,
+            "cited": [
+                {
+                    "PId": 2077791698,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        },
+                        {
+                            "AuId": 2640352042,
+                            "AuN": "myron s scholes"
+                        }
+                    ],
+                    "doi": "10.1086/260062",
+                    "journal": "journal of political economy",
+                    "title": "the pricing of options and corporate liabilities",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2129220488,
+                    "author": [
+                        {
+                            "AuId": 2095955310,
+                            "AuN": "gurdip bakshi"
+                        },
+                        {
+                            "AuId": 2157096929,
+                            "AuN": "charles cao"
+                        },
+                        {
+                            "AuId": 2342934075,
+                            "AuN": "zhiwu chen"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1997.TB02749.X",
+                    "journal": "journal of finance",
+                    "title": "empirical performance of alternative option pricing models",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2106154424,
+                    "author": [
+                        {
+                            "AuId": 2609526882,
+                            "AuN": "mark rubinstein"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1994.TB00079.X",
+                    "journal": "journal of finance",
+                    "title": "implied binomial trees",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2014389988,
+                    "author": [
+                        {
+                            "AuId": 2568542118,
+                            "AuN": "shu yan"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2010.08.011",
+                    "journal": "journal of financial economics",
+                    "title": "jump risk stock returns and slope of implied volatility smile",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2071058234,
+                    "author": [
+                        {
+                            "AuId": 2973516691,
+                            "AuN": "m benko"
+                        },
+                        {
+                            "AuId": 2251157857,
+                            "AuN": "matthias r fengler"
+                        },
+                        {
+                            "AuId": 221655504,
+                            "AuN": "wolfgang karl hardle"
+                        },
+                        {
+                            "AuId": 2027494653,
+                            "AuN": "milos kopa"
+                        }
+                    ],
+                    "doi": "10.1007/S00180-007-0061-0",
+                    "journal": "computational statistics",
+                    "title": "on extracting information implied in options",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2045433169,
+                    "author": [
+                        {
+                            "AuId": 2550509494,
+                            "AuN": "j glover"
+                        },
+                        {
+                            "AuId": 2246905563,
+                            "AuN": "m montaz ali"
+                        }
+                    ],
+                    "doi": "10.1016/J.AMC.2010.10.046",
+                    "journal": "applied mathematics and computation",
+                    "title": "using radial basis functions to construct local volatility surfaces",
+                    "year_mag": 2011
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2339704905,
+                    "author": [
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        },
+                        {
+                            "AuId": 2523241713,
+                            "AuN": "tomas tich\u00fd"
+                        },
+                        {
+                            "AuId": 2027494653,
+                            "AuN": "milos kopa"
+                        }
+                    ],
+                    "title": "the arbitrage inconsistencies of implied volatility extraction in connection to calendar bandwidth",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "8"
+            },
+            "title": "the bandwidth selection in connection to option implied volatility extraction",
+            "type": "contributo in atti di convegno",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788072488926"
+            ],
+            "PId": 77962494,
+            "cited": [
+                {
+                    "PId": 2019291268,
+                    "author": [
+                        {
+                            "AuId": 2148130746,
+                            "AuN": "philippe artzner"
+                        },
+                        {
+                            "AuId": 2304226911,
+                            "AuN": "freddy delbaen"
+                        },
+                        {
+                            "AuId": 1996632760,
+                            "AuN": "jeanmarc eber"
+                        },
+                        {
+                            "AuId": 2618472453,
+                            "AuN": "david heath"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9965.00068",
+                    "journal": "mathematical finance",
+                    "title": "coherent measures of risk",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2153580489,
+                    "author": [
+                        {
+                            "AuId": 2162441753,
+                            "AuN": "william f sharpe"
+                        }
+                    ],
+                    "doi": "10.3905/JPM.1994.409501",
+                    "journal": "the journal of portfolio management",
+                    "title": "the sharpe ratio",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2076057077,
+                    "author": [
+                        {
+                            "AuId": 2007039471,
+                            "AuN": "oldrich a vasicek"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(77)90016-2",
+                    "journal": "journal of financial economics",
+                    "title": "an equilibrium characterization of the term structure",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 2127923747,
+                    "author": [
+                        {
+                            "AuId": 666228378,
+                            "AuN": "carlos m jarque"
+                        },
+                        {
+                            "AuId": 2117246865,
+                            "AuN": "anil k bera"
+                        }
+                    ],
+                    "doi": "10.2307/1403192",
+                    "journal": "international statistical review",
+                    "title": "a test for normality of observations and regression residuals",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2139491749,
+                    "author": [
+                        {
+                            "AuId": 2085403699,
+                            "AuN": "svetlozar t rachev"
+                        },
+                        {
+                            "AuId": 2024915760,
+                            "AuN": "sergio ortobelli"
+                        },
+                        {
+                            "AuId": 2068117697,
+                            "AuN": "stoyan v stoyanov"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        },
+                        {
+                            "AuId": 18932325,
+                            "AuN": "almira biglova"
+                        }
+                    ],
+                    "doi": "10.1142/S0219024908004713",
+                    "journal": "international journal of theoretical and applied finance",
+                    "title": "desirable properties of an ideal risk measure in portfolio theory",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2254338027,
+                    "author": [
+                        {
+                            "AuId": 1693223753,
+                            "AuN": "philippe cogneau"
+                        },
+                        {
+                            "AuId": 2063931917,
+                            "AuN": "georges hubner"
+                        }
+                    ],
+                    "title": "the more than 100 ways to measure portfolio performance part 1 standardized risk adjusted measures",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2276228428,
+                    "author": [
+                        {
+                            "AuId": 1693223753,
+                            "AuN": "philippe cogneau"
+                        },
+                        {
+                            "AuId": 2063931917,
+                            "AuN": "georges hubner"
+                        }
+                    ],
+                    "title": "the more than 100 ways to measure portfolio performance part 2 special measures and comparison",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2113683925,
+                    "author": [
+                        {
+                            "AuId": 166847715,
+                            "AuN": "damiano brigo"
+                        },
+                        {
+                            "AuId": 2592317080,
+                            "AuN": "antonio dalessandro"
+                        },
+                        {
+                            "AuId": 2291827067,
+                            "AuN": "matthias neugebauer"
+                        },
+                        {
+                            "AuId": 2495428074,
+                            "AuN": "fares triki"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1109160",
+                    "title": "a stochastic processes toolkit for risk management",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1507348948,
+                    "author": [
+                        {
+                            "AuId": 2081294549,
+                            "AuN": "claus munk"
+                        }
+                    ],
+                    "title": "fixed income modelling",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 138558716,
+                    "author": [
+                        {
+                            "AuId": 237385403,
+                            "AuN": "sergio ortobelli lozza"
+                        },
+                        {
+                            "AuId": 1991322593,
+                            "AuN": "enrico angelelli"
+                        }
+                    ],
+                    "title": "american and european portfolio selection strategies the markovian approach",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1987396383,
+                    "author": [
+                        {
+                            "AuId": 2181556604,
+                            "AuN": "h gifford fong"
+                        },
+                        {
+                            "AuId": 2007039471,
+                            "AuN": "oldrich a vasicek"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1984.TB04923.X",
+                    "journal": "journal of finance",
+                    "title": "a risk minimizing strategy for portfolio immunization",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 1964478211,
+                    "author": [
+                        {
+                            "AuId": 2698153495,
+                            "AuN": "lawrence fisher"
+                        },
+                        {
+                            "AuId": 2140130788,
+                            "AuN": "roman l weil"
+                        }
+                    ],
+                    "doi": "10.1086/295402",
+                    "journal": "the journal of business",
+                    "title": "coping with the risk of interest rate fluctuations returns to bondholders from naive and optimal strategies",
+                    "year_mag": 1971
+                },
+                {
+                    "PId": 2269475259,
+                    "author": [
+                        {
+                            "AuId": 2118433018,
+                            "AuN": "massimo de felice"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-57846-5_4",
+                    "title": "immunization theory an actuarial perspective on asset liability management",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2052936411,
+                    "author": [
+                        {
+                            "AuId": 2140130788,
+                            "AuN": "roman l weil"
+                        }
+                    ],
+                    "doi": "10.1086/295579",
+                    "journal": "the journal of business",
+                    "title": "macaulay s duration an appreciation",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2066439438,
+                    "author": [
+                        {
+                            "AuId": 2478819622,
+                            "AuN": "g ottaviani"
+                        }
+                    ],
+                    "title": "financial risk in insurance",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2887104448,
+                    "author": [
+                        {
+                            "AuId": 2885117609,
+                            "AuN": "f m redington"
+                        }
+                    ],
+                    "doi": "10.1017/S0020268100052811",
+                    "journal": "journal of the institute of actuaries",
+                    "title": "review of the principles of life office valuations",
+                    "year_mag": 1952
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2083462175,
+                    "author": [
+                        {
+                            "AuId": 2435897205,
+                            "AuN": "chunying huang"
+                        },
+                        {
+                            "AuId": 2680883286,
+                            "AuN": "chuangchun chiou"
+                        },
+                        {
+                            "AuId": 2697149157,
+                            "AuN": "taihsi wu"
+                        },
+                        {
+                            "AuId": 2425714520,
+                            "AuN": "shengchih yang"
+                        }
+                    ],
+                    "doi": "10.1007/S12351-014-0164-7",
+                    "journal": "operational research",
+                    "title": "an integrated dea modm methodology for portfolio optimization",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "9"
+            },
+            "title": "reward and risk in the fixed income markets",
+            "type": "contributo in atti di convegno",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "978-80-248-2835-0"
+            ],
+            "PId": 2342696287,
+            "cited": [
+                {
+                    "PId": 1503295912,
+                    "author": [
+                        {
+                            "AuId": 1958827600,
+                            "AuN": "robert c merton"
+                        }
+                    ],
+                    "title": "theory of rational option pricing",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2077791698,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        },
+                        {
+                            "AuId": 2640352042,
+                            "AuN": "myron s scholes"
+                        }
+                    ],
+                    "doi": "10.1086/260062",
+                    "journal": "journal of political economy",
+                    "title": "the pricing of options and corporate liabilities",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2008556354,
+                    "author": [
+                        {
+                            "AuId": 2502371435,
+                            "AuN": "mark b garman"
+                        },
+                        {
+                            "AuId": 1748671990,
+                            "AuN": "steven w kohlhagen"
+                        }
+                    ],
+                    "doi": "10.1016/S0261-5606(83)80001-1",
+                    "journal": "journal of international money and finance",
+                    "title": "foreign currency option values",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2071058234,
+                    "author": [
+                        {
+                            "AuId": 2973516691,
+                            "AuN": "m benko"
+                        },
+                        {
+                            "AuId": 2251157857,
+                            "AuN": "matthias r fengler"
+                        },
+                        {
+                            "AuId": 221655504,
+                            "AuN": "wolfgang karl hardle"
+                        },
+                        {
+                            "AuId": 2027494653,
+                            "AuN": "milos kopa"
+                        }
+                    ],
+                    "doi": "10.1007/S00180-007-0061-0",
+                    "journal": "computational statistics",
+                    "title": "on extracting information implied in options",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2152302557,
+                    "author": [
+                        {
+                            "AuId": 2027494653,
+                            "AuN": "milos kopa"
+                        },
+                        {
+                            "AuId": 2614475822,
+                            "AuN": "tomas tichy"
+                        }
+                    ],
+                    "doi": "10.1080/09720073.2014.11891489",
+                    "journal": "the anthropologist",
+                    "title": "no arbitrage condition of option implied volatility and bandwidth selection",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2059190247,
+                    "author": [
+                        {
+                            "AuId": 2601740807,
+                            "AuN": "robert geske"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1978.TB04871.X",
+                    "journal": "journal of finance",
+                    "title": "the pricing of options with stochastic dividend yield",
+                    "year_mag": 1978
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "title": "on the pricing of illiquid options with black scholes formula",
+            "type": "contributo in atti di convegno",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "2282-233X"
+            ],
+            "PId": 2495375342,
+            "citing": [
+                {
+                    "PId": 2528097562,
+                    "author": [
+                        {
+                            "AuId": 2115902366,
+                            "AuN": "alessandra amendola"
+                        },
+                        {
+                            "AuId": 2015182535,
+                            "AuN": "marialuisa restaino"
+                        }
+                    ],
+                    "doi": "10.1007/S11135-016-0421-3",
+                    "journal": "quality & quantity",
+                    "title": "an evaluation study on students international mobility experience",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3"
+            },
+            "journal": "STATISTICA & SOCIET\u00c0",
+            "title": "esperienza erasmus motivazioni e timori prima della partenza",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "2049-0909"
+            ],
+            "PId": 2342645024,
+            "cited": [
+                {
+                    "PId": 1571438983,
+                    "author": [
+                        {
+                            "AuId": 2682266702,
+                            "AuN": "john hull"
+                        }
+                    ],
+                    "title": "options futures and other derivatives",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2076057077,
+                    "author": [
+                        {
+                            "AuId": 2007039471,
+                            "AuN": "oldrich a vasicek"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(77)90016-2",
+                    "journal": "journal of financial economics",
+                    "title": "an equilibrium characterization of the term structure",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 1557120076,
+                    "author": [
+                        {
+                            "AuId": 2122674718,
+                            "AuN": "paul wilmott"
+                        }
+                    ],
+                    "title": "derivatives the theory and practice of financial engineering",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2118872248,
+                    "author": [
+                        {
+                            "AuId": 210335813,
+                            "AuN": "jan de spiegeleer"
+                        },
+                        {
+                            "AuId": 1897873107,
+                            "AuN": "wim schoutens"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1795092",
+                    "title": "pricing contingent convertibles a derivatives approach",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2107767584,
+                    "author": [
+                        {
+                            "AuId": 12657472,
+                            "AuN": "george pennacchi"
+                        }
+                    ],
+                    "doi": "10.26509/WP-201004",
+                    "title": "a structural model of contingent bank capital",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1770325517,
+                    "author": [
+                        {
+                            "AuId": 2588663939,
+                            "AuN": "jessica james"
+                        },
+                        {
+                            "AuId": 2609701988,
+                            "AuN": "nick webber"
+                        }
+                    ],
+                    "title": "interest rate modelling",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 646681461,
+                    "author": [
+                        {
+                            "AuId": 210335813,
+                            "AuN": "jan de spiegeleer"
+                        },
+                        {
+                            "AuId": 1897873107,
+                            "AuN": "wim schoutens"
+                        }
+                    ],
+                    "title": "contingent convertible coco notes structure and pricing",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2032301327,
+                    "author": [
+                        {
+                            "AuId": 2894109492,
+                            "AuN": "sascha wilkens"
+                        },
+                        {
+                            "AuId": 2253129669,
+                            "AuN": "nastja bethke"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2126791",
+                    "title": "contingent convertible coco bonds a first empirical assessment of selected pricing models",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2047158682,
+                    "author": [
+                        {
+                            "AuId": 2318904275,
+                            "AuN": "michael j brennan"
+                        },
+                        {
+                            "AuId": 2154760292,
+                            "AuN": "eduardo s schwartz"
+                        }
+                    ],
+                    "doi": "10.2307/2330567",
+                    "journal": "journal of financial and quantitative analysis",
+                    "title": "analyzing convertible bonds",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 651765260,
+                    "author": [
+                        {
+                            "AuId": 2098079240,
+                            "AuN": "juan ramirez"
+                        }
+                    ],
+                    "title": "handbook of corporate equity derivatives and equity capital markets",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2037218232,
+                    "author": [
+                        {
+                            "AuId": 2005424314,
+                            "AuN": "vadim khramov"
+                        }
+                    ],
+                    "title": "estimating parameters of short term real interest rate models",
+                    "year_mag": 2013
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2966550039,
+                    "author": [
+                        {
+                            "AuId": 2965473268,
+                            "AuN": "brando vigano"
+                        },
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        },
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        },
+                        {
+                            "AuId": 407911722,
+                            "AuN": "vittorio moriggia"
+                        },
+                        {
+                            "AuId": 2114529832,
+                            "AuN": "giovanna zanotti"
+                        }
+                    ],
+                    "doi": "10.1142/S2282717X19500026",
+                    "title": "the investment certificates in the italian market a comparison of quoted and estimated prices",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2469110762,
+                    "author": [
+                        {
+                            "AuId": 2488698369,
+                            "AuN": "bin zhang"
+                        },
+                        {
+                            "AuId": 2648765804,
+                            "AuN": "dianli zhao"
+                        }
+                    ],
+                    "doi": "10.4236/JAMP.2016.46117",
+                    "title": "the pricing of convertible bonds with a call provision",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2907576254,
+                    "author": [
+                        {
+                            "AuId": 2907027581,
+                            "AuN": "philippe oster"
+                        }
+                    ],
+                    "doi": "10.1057/S41261-019-00122-Z",
+                    "title": "contingent convertible bond literature review making everything and nothing possible",
+                    "year_mag": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6"
+            },
+            "doi": "10.1504/IJFERM.2015.074051",
+            "journal": "INTERNATIONAL JOURNAL OF FINANCIAL ENGINEERING AND RISK MANAGEMENT",
+            "title": "the pricing of convertible bonds in the presence of structured conversion clauses the case of cashes",
+            "type": "articolo in rivista",
+            "year": 2015
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2734134993,
+            "cited": [
+                {
+                    "PId": 1503295912,
+                    "author": [
+                        {
+                            "AuId": 1958827600,
+                            "AuN": "robert c merton"
+                        }
+                    ],
+                    "title": "theory of rational option pricing",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2077791698,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        },
+                        {
+                            "AuId": 2640352042,
+                            "AuN": "myron s scholes"
+                        }
+                    ],
+                    "doi": "10.1086/260062",
+                    "journal": "journal of political economy",
+                    "title": "the pricing of options and corporate liabilities",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2069888879,
+                    "author": [
+                        {
+                            "AuId": 221655504,
+                            "AuN": "wolfgang karl hardle"
+                        }
+                    ],
+                    "title": "applied nonparametric regression",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2146848558,
+                    "author": [
+                        {
+                            "AuId": 2516537307,
+                            "AuN": "bernard dumas"
+                        },
+                        {
+                            "AuId": 2243980171,
+                            "AuN": "jeff fleming"
+                        },
+                        {
+                            "AuId": 2158511583,
+                            "AuN": "robert e whaley"
+                        }
+                    ],
+                    "doi": "10.1111/0022-1082.00083",
+                    "journal": "journal of finance",
+                    "title": "implied volatility functions empirical tests",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2798649148,
+                    "author": [
+                        {
+                            "AuId": 2116537159,
+                            "AuN": "jianqing fan"
+                        }
+                    ],
+                    "title": "nonlinear time series",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2103975365,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        },
+                        {
+                            "AuId": 2238000425,
+                            "AuN": "jose da fonseca"
+                        }
+                    ],
+                    "doi": "10.1088/1469-7688/2/1/304",
+                    "journal": "quantitative finance",
+                    "title": "dynamics of implied volatility surfaces",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2119074269,
+                    "author": [
+                        {
+                            "AuId": 2251157857,
+                            "AuN": "matthias r fengler"
+                        }
+                    ],
+                    "doi": "10.1080/14697680802595585",
+                    "journal": "quantitative finance",
+                    "title": "arbitrage free smoothing of the implied volatility surface",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2117101638,
+                    "author": [
+                        {
+                            "AuId": 2121905313,
+                            "AuN": "marco avellaneda"
+                        },
+                        {
+                            "AuId": 2166331899,
+                            "AuN": "craig a friedman"
+                        },
+                        {
+                            "AuId": 2659819881,
+                            "AuN": "r l holmes"
+                        },
+                        {
+                            "AuId": 1523549996,
+                            "AuN": "dominick samperi"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.648",
+                    "title": "calibrating volatility surfaces via relative entropy minimization",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 602552144,
+                    "author": [
+                        {
+                            "AuId": 2251157857,
+                            "AuN": "matthias r fengler"
+                        }
+                    ],
+                    "title": "semiparametric modeling of implied volatility",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2111420975,
+                    "author": [
+                        {
+                            "AuId": 2631528067,
+                            "AuN": "cristian homescu"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1882567",
+                    "title": "implied volatility surface construction methodologies and characteristics",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2071058234,
+                    "author": [
+                        {
+                            "AuId": 2973516691,
+                            "AuN": "m benko"
+                        },
+                        {
+                            "AuId": 2251157857,
+                            "AuN": "matthias r fengler"
+                        },
+                        {
+                            "AuId": 221655504,
+                            "AuN": "wolfgang karl hardle"
+                        },
+                        {
+                            "AuId": 2027494653,
+                            "AuN": "milos kopa"
+                        }
+                    ],
+                    "doi": "10.1007/S00180-007-0061-0",
+                    "journal": "computational statistics",
+                    "title": "on extracting information implied in options",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1975600269,
+                    "author": [
+                        {
+                            "AuId": 2251157857,
+                            "AuN": "matthias r fengler"
+                        },
+                        {
+                            "AuId": 221655504,
+                            "AuN": "wolfgang karl hardle"
+                        },
+                        {
+                            "AuId": 2158912479,
+                            "AuN": "christophe villa"
+                        }
+                    ],
+                    "doi": "10.1023/B:REDR.0000004823.77464.2D",
+                    "journal": "review of derivatives research",
+                    "title": "the dynamics of implied volatilities a common principal components approach",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2889924799,
+                    "author": [
+                        {
+                            "AuId": 2116537159,
+                            "AuN": "jianqing fan"
+                        }
+                    ],
+                    "title": "local polynomial modelling and its applications monographs on statistics and applied probability 66",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2117727114,
+                    "author": [
+                        {
+                            "AuId": 2258497982,
+                            "AuN": "judith glaser"
+                        },
+                        {
+                            "AuId": 2097504100,
+                            "AuN": "pascal heider"
+                        }
+                    ],
+                    "doi": "10.1080/14697688.2010.514005",
+                    "journal": "quantitative finance",
+                    "title": "arbitrage free approximation of call price surfaces and input data risk",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2143817924,
+                    "author": [
+                        {
+                            "AuId": 2258208009,
+                            "AuN": "jens carsten jackwerth"
+                        }
+                    ],
+                    "title": "option implied risk neutral distributions and risk aversion",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2036724347,
+                    "author": [
+                        {
+                            "AuId": 2251157857,
+                            "AuN": "matthias r fengler"
+                        },
+                        {
+                            "AuId": 2777782588,
+                            "AuN": "linyee hin"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1910737",
+                    "title": "semi nonparametric estimation of the call price surface under strike and time to expiry no arbitrage constraints",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2160253167,
+                    "author": [
+                        {
+                            "AuId": 2251157857,
+                            "AuN": "matthias r fengler"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-17254-0_6",
+                    "title": "option data and modeling bsm implied volatility",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2164563659,
+                    "author": [
+                        {
+                            "AuId": 2656241105,
+                            "AuN": "markus ludwig"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2138911",
+                    "title": "robust estimation of shape constrained state price density surfaces",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2085170547,
+                    "author": [
+                        {
+                            "AuId": 2160731800,
+                            "AuN": "namhyoung kim"
+                        },
+                        {
+                            "AuId": 2308610146,
+                            "AuN": "jaewook lee"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEMPFIN.2012.12.007",
+                    "journal": "journal of empirical finance",
+                    "title": "no arbitrage implied volatility functions empirical evidence from kospi 200 index options",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1551126090,
+                    "author": [
+                        {
+                            "AuId": 2677579361,
+                            "AuN": "bernhard brunner"
+                        },
+                        {
+                            "AuId": 2132368178,
+                            "AuN": "reinhold hafner"
+                        }
+                    ],
+                    "doi": "10.21314/JCF.2003.098",
+                    "journal": "journal of computational finance",
+                    "title": "arbitrage free estimation of the risk neutral density from the implied volatility smile",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2088646154,
+                    "author": [
+                        {
+                            "AuId": 2992278451,
+                            "AuN": "d bloch"
+                        },
+                        {
+                            "AuId": 2040834078,
+                            "AuN": "carlos a coello coello"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1627645",
+                    "title": "smiling at evolution",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2034941739,
+                    "author": [
+                        {
+                            "AuId": 2059050834,
+                            "AuN": "svetlana borovkova"
+                        },
+                        {
+                            "AuId": 3117623683,
+                            "AuN": "ferry j permana"
+                        }
+                    ],
+                    "doi": "10.1016/J.CSDA.2008.02.013",
+                    "journal": "computational statistics & data analysis",
+                    "title": "implied volatility in oil markets",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2607176350,
+                    "author": [
+                        {
+                            "AuId": 2992278451,
+                            "AuN": "d bloch"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1538808",
+                    "title": "a practical guide to implied and local volatility",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 653734884,
+                    "author": [
+                        {
+                            "AuId": 2979737350,
+                            "AuN": "michael farkas"
+                        },
+                        {
+                            "AuId": 3024465929,
+                            "AuN": "oliver brockhaus"
+                        },
+                        {
+                            "AuId": 3025296757,
+                            "AuN": "andrew ferraris"
+                        }
+                    ],
+                    "title": "equity derivatives and market risk models",
+                    "year_mag": 2000
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 3043454505,
+                    "author": [
+                        {
+                            "AuId": 2217713631,
+                            "AuN": "matus maciak"
+                        },
+                        {
+                            "AuId": 2022137952,
+                            "AuN": "michal pesta"
+                        },
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-48814-7_4",
+                    "title": "implied volatility surface estimation via quantile regularization",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3118940748,
+                    "author": [
+                        {
+                            "AuId": 3118363052,
+                            "AuN": "connor j a stuart"
+                        },
+                        {
+                            "AuId": 2967533405,
+                            "AuN": "sebastian a gehricke"
+                        },
+                        {
+                            "AuId": 2203453806,
+                            "AuN": "jin e zhang"
+                        },
+                        {
+                            "AuId": 2108468929,
+                            "AuN": "xinfeng ruan"
+                        }
+                    ],
+                    "doi": "10.1111/ACFI.12741",
+                    "title": "implied volatility smirk in the australian dollar market",
+                    "year_mag": 2021
+                }
+            ],
+            "doi": "10.1007/S10287-017-0283-8",
+            "journal": "computational management science",
+            "title": "implied volatility and state price density estimation arbitrage analysis",
+            "type": "1",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2735951801,
+            "cited": [
+                {
+                    "PId": 1508957056,
+                    "author": [
+                        {
+                            "AuId": 2163183570,
+                            "AuN": "alfred muller"
+                        },
+                        {
+                            "AuId": 699272135,
+                            "AuN": "dietrich stoyan"
+                        }
+                    ],
+                    "title": "comparison methods for stochastic models and risks",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2153580489,
+                    "author": [
+                        {
+                            "AuId": 2162441753,
+                            "AuN": "william f sharpe"
+                        }
+                    ],
+                    "doi": "10.3905/JPM.1994.409501",
+                    "journal": "the journal of portfolio management",
+                    "title": "the sharpe ratio",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2131792690,
+                    "author": [
+                        {
+                            "AuId": 2166337557,
+                            "AuN": "russell davidson"
+                        },
+                        {
+                            "AuId": 2060767938,
+                            "AuN": "jeanyves duclos"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.70916",
+                    "title": "statistical inference for stochastic dominance and for the measurement of poverty and inequality",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2002054890,
+                    "author": [
+                        {
+                            "AuId": 18932325,
+                            "AuN": "almira biglova"
+                        },
+                        {
+                            "AuId": 2024915760,
+                            "AuN": "sergio ortobelli"
+                        },
+                        {
+                            "AuId": 2085403699,
+                            "AuN": "svetlozar t rachev"
+                        },
+                        {
+                            "AuId": 2068117697,
+                            "AuN": "stoyan v stoyanov"
+                        }
+                    ],
+                    "doi": "10.3905/JPM.2004.443328",
+                    "journal": "the journal of portfolio management",
+                    "title": "different approaches to risk estimation in portfolio theory",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2317980967,
+                    "author": [
+                        {
+                            "AuId": 2001841817,
+                            "AuN": "edward qian"
+                        }
+                    ],
+                    "doi": "10.3905/JOI.2011.20.1.119",
+                    "journal": "the journal of investing",
+                    "title": "risk parity and diversification",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2068841402,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        },
+                        {
+                            "AuId": 2109936706,
+                            "AuN": "andref perold"
+                        }
+                    ],
+                    "doi": "10.1016/0165-1889(92)90043-E",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "theory of constant proportion portfolio insurance",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2110393192,
+                    "author": [
+                        {
+                            "AuId": 70292665,
+                            "AuN": "andre f perold"
+                        },
+                        {
+                            "AuId": 2162441753,
+                            "AuN": "william f sharpe"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V44.N1.16",
+                    "journal": "financial analysts journal",
+                    "title": "dynamic strategies for asset allocation",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2074607499,
+                    "author": [
+                        {
+                            "AuId": 2141621783,
+                            "AuN": "srikant dash"
+                        },
+                        {
+                            "AuId": 2598888435,
+                            "AuN": "matthew t moran"
+                        }
+                    ],
+                    "doi": "10.3905/JAI.2005.608034",
+                    "journal": "the journal of alternative investments",
+                    "title": "vix as a companion for hedge fund portfolios",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2088298615,
+                    "author": [
+                        {
+                            "AuId": 2027494653,
+                            "AuN": "milos kopa"
+                        },
+                        {
+                            "AuId": 2096992363,
+                            "AuN": "thierry post"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1824174",
+                    "title": "a general test for ssd portfolio efficiency",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2567592283,
+                    "author": [
+                        {
+                            "AuId": 2027494653,
+                            "AuN": "milos kopa"
+                        },
+                        {
+                            "AuId": 407911722,
+                            "AuN": "vittorio moriggia"
+                        },
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-016-2387-X",
+                    "journal": "annals of operations research",
+                    "title": "individual optimal pension allocation under stochastic dominance constraints",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2066624871,
+                    "author": [
+                        {
+                            "AuId": 2206454948,
+                            "AuN": "sergio albeverio"
+                        },
+                        {
+                            "AuId": 693655991,
+                            "AuN": "victoria steblovskaya"
+                        },
+                        {
+                            "AuId": 1978372291,
+                            "AuN": "kai wallbaum"
+                        }
+                    ],
+                    "doi": "10.1080/14697688.2013.804943",
+                    "journal": "quantitative finance",
+                    "title": "investment instruments with volatility target mechanism",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1794401305,
+                    "author": [
+                        {
+                            "AuId": 2912783380,
+                            "AuN": "alessandro paolo luigi cipollini"
+                        },
+                        {
+                            "AuId": 2912783380,
+                            "AuN": "alessandro paolo luigi cipollini"
+                        },
+                        {
+                            "AuId": 2544368728,
+                            "AuN": "antonio manzini"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.996384",
+                    "title": "can the vix signal market s direction an asymmetric dynamic strategy",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2480974840,
+                    "author": [
+                        {
+                            "AuId": 2556419408,
+                            "AuN": "juliusz jablecki"
+                        },
+                        {
+                            "AuId": 2589234592,
+                            "AuN": "ryszard kokoszczynski"
+                        },
+                        {
+                            "AuId": 2633796085,
+                            "AuN": "pawel sakowski"
+                        }
+                    ],
+                    "doi": "10.3726/978-3-653-04787-5",
+                    "title": "volatility as an asset class",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2249430793,
+                    "author": [
+                        {
+                            "AuId": 2123141244,
+                            "AuN": "lanchih ho"
+                        },
+                        {
+                            "AuId": 2147786162,
+                            "AuN": "john cadle"
+                        },
+                        {
+                            "AuId": 2129653834,
+                            "AuN": "michael theobald"
+                        }
+                    ],
+                    "doi": "10.1007/978-0-387-77117-5_20",
+                    "title": "portfolio insurance strategies review of theory and empirical studies",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2789995066,
+                    "author": [
+                        {
+                            "AuId": 1999077369,
+                            "AuN": "ulf herold"
+                        },
+                        {
+                            "AuId": 2085056339,
+                            "AuN": "raimond maurer"
+                        },
+                        {
+                            "AuId": 2028515688,
+                            "AuN": "michael z stamos"
+                        },
+                        {
+                            "AuId": 2583716280,
+                            "AuN": "huy thanh vo"
+                        }
+                    ],
+                    "doi": "10.3905/JPM.2007.674794",
+                    "journal": "the journal of portfolio management",
+                    "title": "total return strategies for multi asset portfolios",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2204721747,
+                    "author": [
+                        {
+                            "AuId": 2478658319,
+                            "AuN": "guido giese"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1893364",
+                    "title": "optimal design of risk controlled investment strategies",
+                    "year_mag": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kopa",
+                            "given": "Milo\u0161",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Post",
+                            "given": "Thierry",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S00291-014-0373-8",
+                    "title": "a general test for ssd portfolio efficiency",
+                    "year_oc": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Davidson",
+                            "given": "Russell",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Duclos",
+                            "given": "Jean-Yves",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/1468-0262.00167",
+                    "title": "statistical inference for stochastic dominance and for the measurement of poverty and inequality",
+                    "year_oc": 2000
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Whaley",
+                            "given": "Robert E.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1296743",
+                    "title": "understanding vix",
+                    "year_oc": 2008
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2790436604,
+                    "author": [
+                        {
+                            "AuId": 237385403,
+                            "AuN": "sergio ortobelli lozza"
+                        },
+                        {
+                            "AuId": 2295581515,
+                            "AuN": "filomena petronio"
+                        },
+                        {
+                            "AuId": 2188953412,
+                            "AuN": "sebastiano vitali"
+                        }
+                    ],
+                    "doi": "10.21511/IMFI.15(1).2018.11",
+                    "journal": "investment management & financial innovations",
+                    "title": "price and market risk reduction for bond portfolio selection in brics markets",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 3047703732,
+                    "author": [
+                        {
+                            "AuId": 3047627366,
+                            "AuN": "zefeng bai"
+                        },
+                        {
+                            "AuId": 3047994103,
+                            "AuN": "kai wallbaum"
+                        }
+                    ],
+                    "doi": "10.1111/AJFS.12310",
+                    "journal": "investment management & financial innovations",
+                    "title": "optimizing pension outcomes using target driven investment strategies evidence from three asian countries with the highest old age dependency ratio",
+                    "year_mag": 2020
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kakushadze",
+                            "given": "Zura",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Serur",
+                            "given": "Juan Andr\u00e9s",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-02792-6_6",
+                    "title": "indexes",
+                    "year_oc": 2018
+                }
+            ],
+            "doi": "10.21511/IMFI.14(2-1).2017.03",
+            "journal": "investment management & financial innovations",
+            "title": "a conservative discontinuous target volatility strategy",
+            "type": "1",
+            "year_mag": 2017
+        },
+        {
+            "PId": 1018043370,
+            "cited": [
+                {
+                    "PId": 1514187077,
+                    "author": [
+                        {
+                            "AuId": 285248319,
+                            "AuN": "abraham arcavi"
+                        }
+                    ],
+                    "journal": "for the learning of mathematics",
+                    "title": "symbol sense informal sense making in formal mathematics",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2625105243,
+                    "author": [
+                        {
+                            "AuId": 2626228230,
+                            "AuN": "r zan"
+                        }
+                    ],
+                    "title": "difficolta in matematica osservare interpretare intervenire",
+                    "year_mag": 2007
+                }
+            ],
+            "title": "un esperienza di learning week per il recupero di competenze nello studio dell analisi matematica mediante l uso del software geogebra",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2805154967,
+            "title": "who studies abroad and why",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2337000073,
+            "title": "pension fund optimal allocations",
+            "type": "0",
+            "year_mag": 2015
+        }
+    ]
+}

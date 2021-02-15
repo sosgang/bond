@@ -1,0 +1,1976 @@
+{
+    "AuIds": [
+        2675410967,
+        2708693082,
+        2343588100,
+        3050089814
+    ],
+    "fullname": [
+        "Melis",
+        "Roberta"
+    ],
+    "ind_anvur": [
+        8,
+        2,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1932-6203"
+            ],
+            "PId": 1774619538,
+            "cited": [
+                {
+                    "PId": 2000042664,
+                    "author": [
+                        {
+                            "AuId": 1443137112,
+                            "AuN": "aaron clauset"
+                        },
+                        {
+                            "AuId": 1443137112,
+                            "AuN": "aaron clauset"
+                        },
+                        {
+                            "AuId": 202003005,
+                            "AuN": "cosma rohilla shalizi"
+                        },
+                        {
+                            "AuId": 2394749673,
+                            "AuN": "m e j newman"
+                        }
+                    ],
+                    "doi": "10.1137/070710111",
+                    "journal": "siam review",
+                    "title": "power law distributions in empirical data",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2031753087,
+                    "author": [
+                        {
+                            "AuId": 2130310236,
+                            "AuN": "benoit b mandelbrot"
+                        },
+                        {
+                            "AuId": 2573009539,
+                            "AuN": "john w van ness"
+                        }
+                    ],
+                    "doi": "10.1137/1010093",
+                    "journal": "siam review",
+                    "title": "fractional brownian motions fractional noises and applications",
+                    "year_mag": 1968
+                },
+                {
+                    "PId": 2026237857,
+                    "author": [
+                        {
+                            "AuId": 2176585690,
+                            "AuN": "albert benassi"
+                        },
+                        {
+                            "AuId": 2501871875,
+                            "AuN": "daniel roux"
+                        },
+                        {
+                            "AuId": 709489475,
+                            "AuN": "stephane jaffard"
+                        }
+                    ],
+                    "doi": "10.4171/RMI/217",
+                    "journal": "revista matematica iberoamericana",
+                    "title": "elliptic gaussian random processes",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2133935022,
+                    "author": [
+                        {
+                            "AuId": 1972688595,
+                            "AuN": "antoine ayache"
+                        },
+                        {
+                            "AuId": 1973004261,
+                            "AuN": "murad s taqqu"
+                        }
+                    ],
+                    "doi": "10.5565/PUBLMAT_49205_11",
+                    "journal": "publicacions matematiques",
+                    "title": "multifractional processes with random exponent",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1505006100,
+                    "author": [
+                        {
+                            "AuId": 1972688595,
+                            "AuN": "antoine ayache"
+                        },
+                        {
+                            "AuId": 2032579463,
+                            "AuN": "jacques levy vehel"
+                        }
+                    ],
+                    "doi": "10.1023/A:1009901714819",
+                    "journal": "statistical inference for stochastic processes",
+                    "title": "the generalized multifractional brownian motion",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2027966395,
+                    "author": [
+                        {
+                            "AuId": 2103281966,
+                            "AuN": "sergio bianchi"
+                        }
+                    ],
+                    "doi": "10.1142/S0219024905002937",
+                    "journal": "international journal of theoretical and applied finance",
+                    "title": "pathwise identification of the memory function of multifractional brownian motion with application to finance",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2100514852,
+                    "author": [
+                        {
+                            "AuId": 703920928,
+                            "AuN": "jeanfrancois coeurjolly"
+                        }
+                    ],
+                    "doi": "10.3150/BJ/1137421637",
+                    "journal": "bernoulli",
+                    "title": "identification of multifractional brownian motion",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2165140615,
+                    "author": [
+                        {
+                            "AuId": 506013054,
+                            "AuN": "jacques levyvehel"
+                        }
+                    ],
+                    "doi": "10.1142/S0218348X95000679",
+                    "journal": "fractals",
+                    "title": "fractal approaches in signal processing",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1715060772,
+                    "author": [
+                        {
+                            "AuId": 2103281966,
+                            "AuN": "sergio bianchi"
+                        },
+                        {
+                            "AuId": 2130089241,
+                            "AuN": "augusto pianese"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2331509",
+                    "journal": "risk and decision analysis",
+                    "title": "multifractional processes in finance",
+                    "year_mag": 2014
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2801406987,
+                    "author": [
+                        {
+                            "AuId": 2189134071,
+                            "AuN": "kaylyn mccoy"
+                        },
+                        {
+                            "AuId": 2158720828,
+                            "AuN": "ivor d williams"
+                        },
+                        {
+                            "AuId": 2166042681,
+                            "AuN": "alan m friedlander"
+                        },
+                        {
+                            "AuId": 2789635132,
+                            "AuN": "hongguang ma"
+                        },
+                        {
+                            "AuId": 2270592946,
+                            "AuN": "lida teneva"
+                        },
+                        {
+                            "AuId": 1662853162,
+                            "AuN": "john n kittinger"
+                        },
+                        {
+                            "AuId": 1662853162,
+                            "AuN": "john n kittinger"
+                        }
+                    ],
+                    "doi": "10.1371/JOURNAL.PONE.0195840",
+                    "journal": "plos one",
+                    "title": "estimating nearshore coral reef associated fisheries production from the main hawaiian islands",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2613697722,
+                    "author": [
+                        {
+                            "AuId": 2049156304,
+                            "AuN": "marinella cadoni"
+                        },
+                        {
+                            "AuId": 2343588100,
+                            "AuN": "roberta melis"
+                        },
+                        {
+                            "AuId": 208353711,
+                            "AuN": "alessandro trudda"
+                        }
+                    ],
+                    "doi": "10.1016/J.FRL.2017.05.003",
+                    "journal": "plos one",
+                    "title": "pension funds rules paradoxes in risk control",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2053970816,
+                    "author": [
+                        {
+                            "AuId": 2642864618,
+                            "AuN": "cai bo xiao"
+                        },
+                        {
+                            "AuId": 2649080430,
+                            "AuN": "hong wei liu"
+                        }
+                    ],
+                    "doi": "10.4028/WWW.SCIENTIFIC.NET/AMM.644-650.6071",
+                    "journal": "plos one",
+                    "title": "risk measure and management for pension funds assets",
+                    "year_mag": 2014
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1371/JOURNAL.PONE.0129471",
+            "journal": "PLOS ONE",
+            "title": "financial crisis a new measure for risk of pension fund portfolios",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0515-0361"
+            ],
+            "PId": 2159371486,
+            "cited": [
+                {
+                    "PId": 2010870107,
+                    "author": [
+                        {
+                            "AuId": 2211289389,
+                            "AuN": "jayasri dutta"
+                        },
+                        {
+                            "AuId": 2156041540,
+                            "AuN": "sandeep kapur"
+                        },
+                        {
+                            "AuId": 2581251797,
+                            "AuN": "j michael orszag"
+                        }
+                    ],
+                    "doi": "10.1016/S0165-1765(00)00271-8",
+                    "journal": "economics letters",
+                    "title": "a portfolio approach to the optimal funding of pensions",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2003180600,
+                    "author": [
+                        {
+                            "AuId": 1777097624,
+                            "AuN": "paul a samuelson"
+                        }
+                    ],
+                    "doi": "10.1086/258100",
+                    "journal": "journal of political economy",
+                    "title": "an exact consumption loan model of interest with or without the social contrivance of money",
+                    "year_mag": 1958
+                },
+                {
+                    "PId": 2107405535,
+                    "author": [
+                        {
+                            "AuId": 1644587220,
+                            "AuN": "egil matsen"
+                        },
+                        {
+                            "AuId": 1644587220,
+                            "AuN": "egil matsen"
+                        },
+                        {
+                            "AuId": 196365308,
+                            "AuN": "oystein thogersen"
+                        }
+                    ],
+                    "doi": "10.1016/J.EUROECOREV.2003.09.006",
+                    "journal": "european economic review",
+                    "title": "designing social security a portfolio choice approach",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2154435147,
+                    "author": [
+                        {
+                            "AuId": 1984233796,
+                            "AuN": "georges de menil"
+                        },
+                        {
+                            "AuId": 2916559645,
+                            "AuN": "fabrice murtin"
+                        },
+                        {
+                            "AuId": 1962680218,
+                            "AuN": "eytan sheshinski"
+                        }
+                    ],
+                    "doi": "10.1017/S1474747205002283",
+                    "journal": "journal of pension economics & finance",
+                    "title": "planning for the optimal mix of paygo tax and funded savings",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1546090064,
+                    "author": [
+                        {
+                            "AuId": 2798887212,
+                            "AuN": "markus knell"
+                        }
+                    ],
+                    "doi": "10.1111/J.1468-0335.2009.00797.X",
+                    "journal": "economica",
+                    "title": "the optimal mix between funded and unfunded pension systems when people care about relative consumption",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2117329221,
+                    "author": [
+                        {
+                            "AuId": 2016374192,
+                            "AuN": "jeandaniel guigou"
+                        },
+                        {
+                            "AuId": 2324276198,
+                            "AuN": "bruno lovat"
+                        },
+                        {
+                            "AuId": 2042486403,
+                            "AuN": "jang schiltz"
+                        }
+                    ],
+                    "doi": "10.1057/PM.2012.23",
+                    "journal": "pensions an international journal",
+                    "title": "optimal mix of funded and unfunded pension systems the case of luxembourg",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1961069153,
+                    "author": [
+                        {
+                            "AuId": 1958827600,
+                            "AuN": "robert c merton"
+                        },
+                        {
+                            "AuId": 1958827600,
+                            "AuN": "robert c merton"
+                        },
+                        {
+                            "AuId": 1958827600,
+                            "AuN": "robert c merton"
+                        }
+                    ],
+                    "doi": "10.3386/W0743",
+                    "journal": "national bureau of economic research",
+                    "title": "on the role of social security as a means for efficient risk bearing in an economy where human capital is not tradeable",
+                    "year_mag": 1981
+                },
+                {
+                    "PId": 1519035736,
+                    "author": [
+                        {
+                            "AuId": 2776758790,
+                            "AuN": "bernard m s van praag"
+                        },
+                        {
+                            "AuId": 2309100065,
+                            "AuN": "pedro cardoso"
+                        }
+                    ],
+                    "title": "the mix between pay as you go and funded pensions and what demography has to do with it",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1942204658,
+                    "author": [
+                        {
+                            "AuId": 1911593362,
+                            "AuN": "henry j aaron"
+                        }
+                    ],
+                    "doi": "10.2307/139995",
+                    "journal": "the canadian journal of economics and political science",
+                    "title": "the social insurance paradox",
+                    "year_mag": 1966
+                },
+                {
+                    "PId": 1576817458,
+                    "author": [
+                        {
+                            "AuId": 2956325038,
+                            "AuN": "david k miles"
+                        }
+                    ],
+                    "title": "funded and unfunded pension schemes risk return and welfare",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2002517884,
+                    "author": [
+                        {
+                            "AuId": 329817778,
+                            "AuN": "ennio bilancini"
+                        },
+                        {
+                            "AuId": 2153866967,
+                            "AuN": "massimo dantoni"
+                        }
+                    ],
+                    "doi": "10.1016/J.ECONLET.2012.06.026",
+                    "journal": "economics letters",
+                    "title": "the desirability of pay as you go pensions when relative consumption matters and returns are stochastic",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2073922365,
+                    "author": [
+                        {
+                            "AuId": 196365308,
+                            "AuN": "oystein thogersen"
+                        },
+                        {
+                            "AuId": 2530528292,
+                            "AuN": "kine bohlerengen"
+                        }
+                    ],
+                    "doi": "10.1628/001522110X524188",
+                    "journal": "finanzarchiv",
+                    "title": "alternative risk sharing mechanisms of social security",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2166750570,
+                    "author": [
+                        {
+                            "AuId": 2667550976,
+                            "AuN": "a c meijdam"
+                        },
+                        {
+                            "AuId": 9229672,
+                            "AuN": "e h m ponds"
+                        }
+                    ],
+                    "title": "on the optimal degree of funding of public sector pension plans",
+                    "year_mag": 2013
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Meijdam",
+                            "given": "A. C. (Lex)",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Ponds",
+                            "given": "Eduard H.M.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2216584",
+                    "title": "optimal degree of funding of public sector pension plans",
+                    "year_oc": 2013
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2606655179,
+                    "author": [
+                        {
+                            "AuId": 2984188275,
+                            "AuN": "erik schokkaert"
+                        },
+                        {
+                            "AuId": 2062647442,
+                            "AuN": "pierre devolder"
+                        },
+                        {
+                            "AuId": 3049044777,
+                            "AuN": "jean hindriks"
+                        },
+                        {
+                            "AuId": 2623508832,
+                            "AuN": "frank vandenbroucke"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2937576",
+                    "journal": "journal of pension economics & finance",
+                    "title": "towards an equitable and sustainable points system a proposal for pension reform in belgium",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2461595565,
+                    "author": [
+                        {
+                            "AuId": 2289022295,
+                            "AuN": "jennifer alonsogarcia"
+                        },
+                        {
+                            "AuId": 2062647442,
+                            "AuN": "pierre devolder"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2016.06.011",
+                    "journal": "journal of pension economics & finance",
+                    "title": "optimal mix between pay as you go and funding for dc pension schemes in an overlapping generations model",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 3100799885,
+                    "author": [
+                        {
+                            "AuId": 2998512777,
+                            "AuN": "m carmen boadopenas"
+                        },
+                        {
+                            "AuId": 2312255334,
+                            "AuN": "julia eisenberg"
+                        },
+                        {
+                            "AuId": 2079957925,
+                            "AuN": "ralf korn"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2020.11.005",
+                    "journal": "journal of pension economics & finance",
+                    "title": "transforming public pensions a mixed scheme with a credit granted by the state",
+                    "year_mag": 2021
+                },
+                {
+                    "PId": 2997678028,
+                    "author": [
+                        {
+                            "AuId": 2998512777,
+                            "AuN": "m carmen boadopenas"
+                        },
+                        {
+                            "AuId": 2312255334,
+                            "AuN": "julia eisenberg"
+                        },
+                        {
+                            "AuId": 2079957925,
+                            "AuN": "ralf korn"
+                        }
+                    ],
+                    "journal": "journal of pension economics & finance",
+                    "title": "transforming public pensions a mixed scheme with a credit granted by the state",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2271546780,
+                    "author": [
+                        {
+                            "AuId": 2289022295,
+                            "AuN": "jennifer alonsogarcia"
+                        },
+                        {
+                            "AuId": 2062647442,
+                            "AuN": "pierre devolder"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2698737",
+                    "journal": "journal of pension economics & finance",
+                    "title": "guarantee valuation in unfunded pension systems",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1794933187,
+                    "author": [
+                        {
+                            "AuId": 2289022295,
+                            "AuN": "jennifer alonsogarcia"
+                        },
+                        {
+                            "AuId": 2062647442,
+                            "AuN": "pierre devolder"
+                        }
+                    ],
+                    "doi": "10.1017/ASB.2016.21",
+                    "journal": "journal of pension economics & finance",
+                    "title": "guarantee valuation in notional defined contribution pension systems",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2991858956,
+                    "author": [
+                        {
+                            "AuId": 2991668741,
+                            "AuN": "lea bouhakkou"
+                        },
+                        {
+                            "AuId": 2159161192,
+                            "AuN": "alain coen"
+                        },
+                        {
+                            "AuId": 2993521698,
+                            "AuN": "didier folus"
+                        }
+                    ],
+                    "doi": "10.1080/00036846.2019.1678728",
+                    "journal": "journal of pension economics & finance",
+                    "title": "a portfolio approach to the optimal mix of funded and unfunded pensions",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3010720448,
+                    "author": [
+                        {
+                            "AuId": 2343588100,
+                            "AuN": "roberta melis"
+                        },
+                        {
+                            "AuId": 208353711,
+                            "AuN": "alessandro trudda"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-37912-4_19",
+                    "journal": "journal of pension economics & finance",
+                    "title": "critical issues of public pension system the italian case",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2946423123,
+                    "author": [
+                        {
+                            "AuId": 2945689079,
+                            "AuN": "william joseph price"
+                        }
+                    ],
+                    "journal": "journal of pension economics & finance",
+                    "title": "developing coherent pension systems design issues for private pension supplements to ndc schemes",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2946942823,
+                    "author": [
+                        {
+                            "AuId": 2947600749,
+                            "AuN": "o n yarkova"
+                        },
+                        {
+                            "AuId": 2947234672,
+                            "AuN": "a g renner"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-15577-3_50",
+                    "journal": "journal of pension economics & finance",
+                    "title": "modeling the ruin probability of a non state pension fund taking into account risky investments",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2599516712,
+                    "author": [
+                        {
+                            "AuId": 2675410967,
+                            "AuN": "roberta melis"
+                        },
+                        {
+                            "AuId": 208353711,
+                            "AuN": "alessandro trudda"
+                        }
+                    ],
+                    "journal": "journal of pension economics & finance",
+                    "title": "mixed pension systems sustainability",
+                    "year_mag": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "SCHOKKAERT",
+                            "given": "ERIK",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "DEVOLDER",
+                            "given": "PIERRE",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "HINDRIKS",
+                            "given": "JEAN",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "VANDENBROUCKE",
+                            "given": "FRANK",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/S1474747218000112",
+                    "title": "towards an equitable and sustainable points system a proposal for pension reform in belgium",
+                    "year_oc": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1017/ASB.2015.14",
+            "journal": "ASTIN BULLETIN",
+            "title": "optimal mix between pay as you go and funding for pension liabilities in a stochastic framework",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-8467-905-5"
+            ],
+            "PId": 2599516712,
+            "cited": [
+                {
+                    "PId": 2106291520,
+                    "author": [
+                        {
+                            "AuId": 2084647615,
+                            "AuN": "martin feldstein"
+                        },
+                        {
+                            "AuId": 2084647615,
+                            "AuN": "martin feldstein"
+                        }
+                    ],
+                    "doi": "10.1257/0895330054048731",
+                    "journal": "journal of economic perspectives",
+                    "title": "structural reform of social security",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2141652730,
+                    "author": [
+                        {
+                            "AuId": 2114523211,
+                            "AuN": "peter a diamond"
+                        },
+                        {
+                            "AuId": 705131041,
+                            "AuN": "peter r orszag"
+                        }
+                    ],
+                    "doi": "10.1257/0895330054048722",
+                    "journal": "journal of economic perspectives",
+                    "title": "saving social security",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2153063895,
+                    "author": [
+                        {
+                            "AuId": 2583786937,
+                            "AuN": "robert holzmann"
+                        }
+                    ],
+                    "doi": "10.1111/ISSR.12007",
+                    "journal": "international social security review",
+                    "title": "global pension systems and their reform worldwide drivers trends and challenges",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2107661806,
+                    "author": [
+                        {
+                            "AuId": 2163996973,
+                            "AuN": "hanswerner sinn"
+                        },
+                        {
+                            "AuId": 2163996973,
+                            "AuN": "hanswerner sinn"
+                        },
+                        {
+                            "AuId": 2163996973,
+                            "AuN": "hanswerner sinn"
+                        }
+                    ],
+                    "doi": "10.3386/W7592",
+                    "journal": "international tax and public finance",
+                    "title": "why a funded pension system is useful and why it is not useful",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2157111784,
+                    "author": [
+                        {
+                            "AuId": 2315225425,
+                            "AuN": "richard disney"
+                        }
+                    ],
+                    "doi": "10.1111/1468-0297.00505",
+                    "journal": "the economic journal",
+                    "title": "crises in public pension programmes in oecd what are the reform options",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2186656898,
+                    "author": [
+                        {
+                            "AuId": 2717345130,
+                            "AuN": "ole settergren"
+                        }
+                    ],
+                    "title": "the automatic balance mechanism of the swedish pension system",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2073236404,
+                    "author": [
+                        {
+                            "AuId": 74692080,
+                            "AuN": "emilio bisetti"
+                        },
+                        {
+                            "AuId": 2006114771,
+                            "AuN": "carlo a favero"
+                        }
+                    ],
+                    "doi": "10.1080/10920277.2013.852463",
+                    "journal": "the north american actuarial journal",
+                    "title": "measuring the impact of longevity risk on pension systems the case of italy",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2119437399,
+                    "author": [
+                        {
+                            "AuId": 2705057399,
+                            "AuN": "aaron george grech"
+                        }
+                    ],
+                    "doi": "10.1080/21699763.2013.836980",
+                    "title": "assessing the sustainability of pension reforms in europe",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2605659396,
+                    "author": [
+                        {
+                            "AuId": 2003976690,
+                            "AuN": "massimo angrisani"
+                        }
+                    ],
+                    "journal": "pure mathematics and applications",
+                    "title": "the logical sustainability of the pension system",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2086947844,
+                    "author": [
+                        {
+                            "AuId": 2238479230,
+                            "AuN": "michele belloni"
+                        },
+                        {
+                            "AuId": 2799118106,
+                            "AuN": "carlo maccheroni"
+                        }
+                    ],
+                    "doi": "10.1057/GPP.2013.27",
+                    "journal": "geneva papers on risk and insurance issues and practice",
+                    "title": "actuarial fairness when longevity increases an evaluation of the italian pension system",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2159371486,
+                    "author": [
+                        {
+                            "AuId": 2062647442,
+                            "AuN": "pierre devolder"
+                        },
+                        {
+                            "AuId": 2708693082,
+                            "AuN": "roberta melis"
+                        }
+                    ],
+                    "doi": "10.1017/ASB.2015.14",
+                    "journal": "astin bulletin",
+                    "title": "optimal mix between pay as you go and funding for pension liabilities in a stochastic framework",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2139453286,
+                    "author": [
+                        {
+                            "AuId": 2306993704,
+                            "AuN": "assia billig"
+                        },
+                        {
+                            "AuId": 2302664742,
+                            "AuN": "jeanclaude menard"
+                        }
+                    ],
+                    "doi": "10.1111/ISSR.12008",
+                    "journal": "international social security review",
+                    "title": "actuarial balance sheets as a tool to assess the sustainability of social security pension systems",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2056354838,
+                    "author": [
+                        {
+                            "AuId": 2147055417,
+                            "AuN": "hans fehr"
+                        },
+                        {
+                            "AuId": 2076818842,
+                            "AuN": "johannes uhde"
+                        }
+                    ],
+                    "doi": "10.1007/S10663-013-9214-2",
+                    "journal": "empirica",
+                    "title": "on the optimal design of pension systems",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2055821226,
+                    "author": [
+                        {
+                            "AuId": 1984640064,
+                            "AuN": "emanuele baldacci"
+                        },
+                        {
+                            "AuId": 2660094952,
+                            "AuN": "donatella tuzi"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9914.17.SPECIALISSUE.8",
+                    "journal": "labour",
+                    "title": "demographic trends and pension system in italy an assessment of 1990s reforms",
+                    "year_mag": 2003
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "title": "mixed pension systems sustainability",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1545-2921"
+            ],
+            "PId": 130098912,
+            "cited": [
+                {
+                    "PId": 2152518298,
+                    "author": [
+                        {
+                            "AuId": 1621232835,
+                            "AuN": "sandro gronchi"
+                        },
+                        {
+                            "AuId": 2020551439,
+                            "AuN": "sergio nistico"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-999X.2008.00296.X",
+                    "journal": "metroeconomica",
+                    "title": "theoretical foundations of pay as you go defined contribution pension schemes",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 3104455113,
+                    "author": [
+                        {
+                            "AuId": 2134001002,
+                            "AuN": "jeffrey r brown"
+                        },
+                        {
+                            "AuId": 1886859365,
+                            "AuN": "jeffrey b liebman"
+                        },
+                        {
+                            "AuId": 2004392722,
+                            "AuN": "david a wise"
+                        }
+                    ],
+                    "doi": "10.7208/CHICAGO/9780226076508.001.0001",
+                    "title": "social security policy in a changing environment",
+                    "year_mag": 2009
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "4"
+            },
+            "journal": "ECONOMICS BULLETIN",
+            "title": "financial and demographic risks in payg pension funds",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1810-4967"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "5"
+            },
+            "journal": "INVESTMENT MANAGEMENT & FINANCIAL INNOVATIONS",
+            "title": "solvency indicators for partially unfunded pension funds",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "978-88-470-2341-3"
+            ],
+            "PId": 116869913,
+            "cited": [
+                {
+                    "PId": 2076057077,
+                    "author": [
+                        {
+                            "AuId": 2007039471,
+                            "AuN": "oldrich a vasicek"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(77)90016-2",
+                    "journal": "journal of financial economics",
+                    "title": "an equilibrium characterization of the term structure",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 1994824962,
+                    "author": [
+                        {
+                            "AuId": 180313079,
+                            "AuN": "carlos vidalmelia"
+                        },
+                        {
+                            "AuId": 2079468325,
+                            "AuN": "maria del carmen boadopenas"
+                        },
+                        {
+                            "AuId": 16686053,
+                            "AuN": "ole settergren"
+                        }
+                    ],
+                    "doi": "10.1057/GPP.2009.2",
+                    "journal": "geneva papers on risk and insurance issues and practice",
+                    "title": "automatic balance mechanisms in pay as you go pension systems",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2605659396,
+                    "author": [
+                        {
+                            "AuId": 2003976690,
+                            "AuN": "massimo angrisani"
+                        }
+                    ],
+                    "journal": "pure mathematics and applications",
+                    "title": "the logical sustainability of the pension system",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1558638033,
+                    "author": [
+                        {
+                            "AuId": 2171985463,
+                            "AuN": "albina orlando"
+                        },
+                        {
+                            "AuId": 2635059236,
+                            "AuN": "alessandro trudda"
+                        }
+                    ],
+                    "journal": "investment management & financial innovations",
+                    "title": "some remarks on first and second order stochastic processes choice",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2055821226,
+                    "author": [
+                        {
+                            "AuId": 1984640064,
+                            "AuN": "emanuele baldacci"
+                        },
+                        {
+                            "AuId": 2660094952,
+                            "AuN": "donatella tuzi"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9914.17.SPECIALISSUE.8",
+                    "journal": "labour",
+                    "title": "demographic trends and pension system in italy an assessment of 1990s reforms",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1168397254,
+                    "author": [
+                        {
+                            "AuId": 2343588100,
+                            "AuN": "roberta melis"
+                        },
+                        {
+                            "AuId": 208353711,
+                            "AuN": "alessandro trudda"
+                        }
+                    ],
+                    "journal": "problems and perspectives in management",
+                    "title": "demographic risk indicators in pay as you go pension funds",
+                    "year_mag": 2010
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.1007/978-88-470-2342-0_36",
+            "title": "financial and demographic risks impact on a pay as you go pension fund",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "978-88-8467-780-8"
+            ],
+            "PId": 1570699489,
+            "cited": [
+                {
+                    "PId": 2027966395,
+                    "author": [
+                        {
+                            "AuId": 2103281966,
+                            "AuN": "sergio bianchi"
+                        }
+                    ],
+                    "doi": "10.1142/S0219024905002937",
+                    "journal": "international journal of theoretical and applied finance",
+                    "title": "pathwise identification of the memory function of multifractional brownian motion with application to finance",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2118735508,
+                    "author": [
+                        {
+                            "AuId": 2103281966,
+                            "AuN": "sergio bianchi"
+                        },
+                        {
+                            "AuId": 2690954909,
+                            "AuN": "alessandro trudda"
+                        }
+                    ],
+                    "title": "global asset return in pension funds a dynamical risk analysis",
+                    "year_mag": 2011
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "title": "financial crisis a new measure for risk of pension funds assets",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "cv_id": {
+                "pubbs": "6"
+            },
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1727-7051"
+            ],
+            "PId": 1168397254,
+            "cited": [
+                {
+                    "PId": 2076057077,
+                    "author": [
+                        {
+                            "AuId": 2007039471,
+                            "AuN": "oldrich a vasicek"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(77)90016-2",
+                    "journal": "journal of financial economics",
+                    "title": "an equilibrium characterization of the term structure",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 2106291520,
+                    "author": [
+                        {
+                            "AuId": 2084647615,
+                            "AuN": "martin feldstein"
+                        },
+                        {
+                            "AuId": 2084647615,
+                            "AuN": "martin feldstein"
+                        }
+                    ],
+                    "doi": "10.1257/0895330054048731",
+                    "journal": "journal of economic perspectives",
+                    "title": "structural reform of social security",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2124861173,
+                    "author": [
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(03)00141-0",
+                    "journal": "insurance mathematics & economics",
+                    "title": "pensionmetrics 2 stochastic pension plan design during the distribution phase",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2107661806,
+                    "author": [
+                        {
+                            "AuId": 2163996973,
+                            "AuN": "hanswerner sinn"
+                        },
+                        {
+                            "AuId": 2163996973,
+                            "AuN": "hanswerner sinn"
+                        },
+                        {
+                            "AuId": 2163996973,
+                            "AuN": "hanswerner sinn"
+                        }
+                    ],
+                    "doi": "10.3386/W7592",
+                    "journal": "international tax and public finance",
+                    "title": "why a funded pension system is useful and why it is not useful",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2152518298,
+                    "author": [
+                        {
+                            "AuId": 1621232835,
+                            "AuN": "sandro gronchi"
+                        },
+                        {
+                            "AuId": 2020551439,
+                            "AuN": "sergio nistico"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-999X.2008.00296.X",
+                    "journal": "metroeconomica",
+                    "title": "theoretical foundations of pay as you go defined contribution pension schemes",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2605659396,
+                    "author": [
+                        {
+                            "AuId": 2003976690,
+                            "AuN": "massimo angrisani"
+                        }
+                    ],
+                    "journal": "pure mathematics and applications",
+                    "title": "the logical sustainability of the pension system",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2059828372,
+                    "author": [
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        }
+                    ],
+                    "doi": "10.1016/0167-6687(94)90779-X",
+                    "journal": "insurance mathematics & economics",
+                    "title": "autoregressive rates of return and the variability of pension contributions and fund levels for a defined benefit pension scheme",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2031710658,
+                    "author": [
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2496022878,
+                            "AuN": "gary parker"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(97)00018-8",
+                    "journal": "insurance mathematics & economics",
+                    "title": "stochastic pension fund modelling",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2035004611,
+                    "author": [
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(96)00019-4",
+                    "journal": "insurance mathematics & economics",
+                    "title": "stochastic investment returns and contribution rate risk in a defined benefit pension scheme",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2007838325,
+                    "author": [
+                        {
+                            "AuId": 2565758962,
+                            "AuN": "luigi colombo"
+                        },
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2005.02.011",
+                    "journal": "insurance mathematics & economics",
+                    "title": "optimal contributions in a defined benefit pension scheme with stochastic new entrants",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2018416944,
+                    "author": [
+                        {
+                            "AuId": 2664971811,
+                            "AuN": "shihchieh chang"
+                        },
+                        {
+                            "AuId": 2664145742,
+                            "AuN": "hsinyi cheng"
+                        }
+                    ],
+                    "doi": "10.1111/1539-6975.00013",
+                    "journal": "journal of risk and insurance",
+                    "title": "pension valuation under uncertainties implementation of a stochastic and dynamic monitoring system",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2063534252,
+                    "author": [
+                        {
+                            "AuId": 2232459317,
+                            "AuN": "francesco menoncin"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2005.04.001",
+                    "journal": "insurance mathematics & economics",
+                    "title": "cyclical risk exposure of pension funds a theoretical framework",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1558638033,
+                    "author": [
+                        {
+                            "AuId": 2171985463,
+                            "AuN": "albina orlando"
+                        },
+                        {
+                            "AuId": 2635059236,
+                            "AuN": "alessandro trudda"
+                        }
+                    ],
+                    "journal": "investment management & financial innovations",
+                    "title": "some remarks on first and second order stochastic processes choice",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 104931056,
+                    "author": [
+                        {
+                            "AuId": 2154958470,
+                            "AuN": "s iyer"
+                        }
+                    ],
+                    "title": "application of stochastic methods in the valuation of social security pension schemes",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2205301166,
+                    "author": [
+                        {
+                            "AuId": 2343588100,
+                            "AuN": "roberta melis"
+                        },
+                        {
+                            "AuId": 208353711,
+                            "AuN": "alessandro trudda"
+                        }
+                    ],
+                    "title": "demographic risk in pay as you go pension funds",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2079385078,
+                    "author": [
+                        {
+                            "AuId": 2592447605,
+                            "AuN": "petr mandl"
+                        },
+                        {
+                            "AuId": 1705177204,
+                            "AuN": "lucie mazurova"
+                        }
+                    ],
+                    "doi": "10.1016/0167-6687(96)90000-1",
+                    "journal": "insurance mathematics & economics",
+                    "title": "harmonic analysis of pension funding methods",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 158781151,
+                    "author": [
+                        {
+                            "AuId": 2165473290,
+                            "AuN": "cinzia ferrara"
+                        }
+                    ],
+                    "title": "pay as you go financing the volatility of the financial equilibrium of the pension funds",
+                    "year_mag": 2001
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 1531523033,
+                    "author": [
+                        {
+                            "AuId": 2343588100,
+                            "AuN": "roberta melis"
+                        },
+                        {
+                            "AuId": 208353711,
+                            "AuN": "alessandro trudda"
+                        }
+                    ],
+                    "title": "financial and demographic risk impact on private pay as you go pension system the italian case",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 3010720448,
+                    "author": [
+                        {
+                            "AuId": 2343588100,
+                            "AuN": "roberta melis"
+                        },
+                        {
+                            "AuId": 208353711,
+                            "AuN": "alessandro trudda"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-37912-4_19",
+                    "title": "critical issues of public pension system the italian case",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 116869913,
+                    "author": [
+                        {
+                            "AuId": 2343588100,
+                            "AuN": "roberta melis"
+                        },
+                        {
+                            "AuId": 208353711,
+                            "AuN": "alessandro trudda"
+                        }
+                    ],
+                    "doi": "10.1007/978-88-470-2342-0_36",
+                    "title": "financial and demographic risks impact on a pay as you go pension fund",
+                    "year_mag": 2012
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8"
+            },
+            "journal": "PROBLEMS & PERSPECTIVES IN MANAGEMENT",
+            "title": "demographic risk indicators in pay as you go pension funds",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "9788875644192"
+            ],
+            "PId": 2404906133,
+            "cited": [
+                {
+                    "PId": 2076057077,
+                    "author": [
+                        {
+                            "AuId": 2007039471,
+                            "AuN": "oldrich a vasicek"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(77)90016-2",
+                    "journal": "journal of financial economics",
+                    "title": "an equilibrium characterization of the term structure",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 2018416944,
+                    "author": [
+                        {
+                            "AuId": 2664971811,
+                            "AuN": "shihchieh chang"
+                        },
+                        {
+                            "AuId": 2664145742,
+                            "AuN": "hsinyi cheng"
+                        }
+                    ],
+                    "doi": "10.1111/1539-6975.00013",
+                    "journal": "journal of risk and insurance",
+                    "title": "pension valuation under uncertainties implementation of a stochastic and dynamic monitoring system",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2063534252,
+                    "author": [
+                        {
+                            "AuId": 2232459317,
+                            "AuN": "francesco menoncin"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2005.04.001",
+                    "journal": "insurance mathematics & economics",
+                    "title": "cyclical risk exposure of pension funds a theoretical framework",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1558638033,
+                    "author": [
+                        {
+                            "AuId": 2171985463,
+                            "AuN": "albina orlando"
+                        },
+                        {
+                            "AuId": 2635059236,
+                            "AuN": "alessandro trudda"
+                        }
+                    ],
+                    "journal": "investment management & financial innovations",
+                    "title": "some remarks on first and second order stochastic processes choice",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2205301166,
+                    "author": [
+                        {
+                            "AuId": 2343588100,
+                            "AuN": "roberta melis"
+                        },
+                        {
+                            "AuId": 208353711,
+                            "AuN": "alessandro trudda"
+                        }
+                    ],
+                    "title": "demographic risk in pay as you go pension funds",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2079385078,
+                    "author": [
+                        {
+                            "AuId": 2592447605,
+                            "AuN": "petr mandl"
+                        },
+                        {
+                            "AuId": 1705177204,
+                            "AuN": "lucie mazurova"
+                        }
+                    ],
+                    "doi": "10.1016/0167-6687(96)90000-1",
+                    "journal": "insurance mathematics & economics",
+                    "title": "harmonic analysis of pension funding methods",
+                    "year_mag": 1996
+                }
+            ],
+            "cv_id": {
+                "pubbs": "9"
+            },
+            "title": "demographic risk in pay as you go pension funds a solvency index",
+            "type": "contributo in atti di convegno",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "978-88-386-6061-0"
+            ],
+            "PId": 2205301166,
+            "citing": [
+                {
+                    "PId": 1168397254,
+                    "author": [
+                        {
+                            "AuId": 2343588100,
+                            "AuN": "roberta melis"
+                        },
+                        {
+                            "AuId": 208353711,
+                            "AuN": "alessandro trudda"
+                        }
+                    ],
+                    "journal": "problems and perspectives in management",
+                    "title": "demographic risk indicators in pay as you go pension funds",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2404906133,
+                    "author": [
+                        {
+                            "AuId": 2343588100,
+                            "AuN": "roberta melis"
+                        },
+                        {
+                            "AuId": 208353711,
+                            "AuN": "alessandro trudda"
+                        }
+                    ],
+                    "journal": "problems and perspectives in management",
+                    "title": "demographic risk in pay as you go pension funds a solvency index",
+                    "year_mag": 2010
+                }
+            ],
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "title": "demographic risk in pay as you go pension funds",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2009
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 1531523033,
+            "cited": [
+                {
+                    "PId": 2046786678,
+                    "author": [
+                        {
+                            "AuId": 174019291,
+                            "AuN": "ermanno pitacco"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2004.04.001",
+                    "journal": "insurance mathematics & economics",
+                    "title": "survival models in a dynamic context a survey",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2120691036,
+                    "author": [
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(01)00082-8",
+                    "journal": "insurance mathematics & economics",
+                    "title": "pensionmetrics stochastic pension plan design and value at risk during the accumulation phase",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2124861173,
+                    "author": [
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(03)00141-0",
+                    "journal": "insurance mathematics & economics",
+                    "title": "pensionmetrics 2 stochastic pension plan design during the distribution phase",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2020608809,
+                    "author": [
+                        {
+                            "AuId": 2006126841,
+                            "AuN": "daniel dufresne"
+                        }
+                    ],
+                    "doi": "10.1017/S0020268100042815",
+                    "journal": "journal of the institute of actuaries",
+                    "title": "movements of pension contributions and fund levels when rates of return are random",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 1548936257,
+                    "author": [
+                        {
+                            "AuId": 2099338345,
+                            "AuN": "howard e winklevoss"
+                        }
+                    ],
+                    "title": "pension mathematics with numerical illustrations",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 2059828372,
+                    "author": [
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        }
+                    ],
+                    "doi": "10.1016/0167-6687(94)90779-X",
+                    "journal": "insurance mathematics & economics",
+                    "title": "autoregressive rates of return and the variability of pension contributions and fund levels for a defined benefit pension scheme",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2031710658,
+                    "author": [
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2496022878,
+                            "AuN": "gary parker"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(97)00018-8",
+                    "journal": "insurance mathematics & economics",
+                    "title": "stochastic pension fund modelling",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2007838325,
+                    "author": [
+                        {
+                            "AuId": 2565758962,
+                            "AuN": "luigi colombo"
+                        },
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2005.02.011",
+                    "journal": "insurance mathematics & economics",
+                    "title": "optimal contributions in a defined benefit pension scheme with stochastic new entrants",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2063534252,
+                    "author": [
+                        {
+                            "AuId": 2232459317,
+                            "AuN": "francesco menoncin"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2005.04.001",
+                    "journal": "insurance mathematics & economics",
+                    "title": "cyclical risk exposure of pension funds a theoretical framework",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1558638033,
+                    "author": [
+                        {
+                            "AuId": 2171985463,
+                            "AuN": "albina orlando"
+                        },
+                        {
+                            "AuId": 2635059236,
+                            "AuN": "alessandro trudda"
+                        }
+                    ],
+                    "journal": "investment management & financial innovations",
+                    "title": "some remarks on first and second order stochastic processes choice",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1168397254,
+                    "author": [
+                        {
+                            "AuId": 2343588100,
+                            "AuN": "roberta melis"
+                        },
+                        {
+                            "AuId": 208353711,
+                            "AuN": "alessandro trudda"
+                        }
+                    ],
+                    "journal": "problems and perspectives in management",
+                    "title": "demographic risk indicators in pay as you go pension funds",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 104931056,
+                    "author": [
+                        {
+                            "AuId": 2154958470,
+                            "AuN": "s iyer"
+                        }
+                    ],
+                    "title": "application of stochastic methods in the valuation of social security pension schemes",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2079385078,
+                    "author": [
+                        {
+                            "AuId": 2592447605,
+                            "AuN": "petr mandl"
+                        },
+                        {
+                            "AuId": 1705177204,
+                            "AuN": "lucie mazurova"
+                        }
+                    ],
+                    "doi": "10.1016/0167-6687(96)90000-1",
+                    "journal": "insurance mathematics & economics",
+                    "title": "harmonic analysis of pension funding methods",
+                    "year_mag": 1996
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2526358479,
+                    "author": [
+                        {
+                            "AuId": 2141249197,
+                            "AuN": "ozcan mutlu"
+                        },
+                        {
+                            "AuId": 2659768332,
+                            "AuN": "muhammed ordu"
+                        },
+                        {
+                            "AuId": 2274287582,
+                            "AuN": "olcay polat"
+                        }
+                    ],
+                    "doi": "10.17093/AJ.2016.4.2.5000191707",
+                    "title": "comparison of individual pension system and bank s deposit system for low risk investors",
+                    "year_mag": 2016
+                }
+            ],
+            "title": "financial and demographic risk impact on private pay as you go pension system the italian case",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2213401222,
+            "cited": [
+                {
+                    "PId": 2122283787,
+                    "author": [
+                        {
+                            "AuId": 2004531954,
+                            "AuN": "alan j auerbach"
+                        },
+                        {
+                            "AuId": 2441013466,
+                            "AuN": "ronald lee"
+                        }
+                    ],
+                    "doi": "10.3386/W12805",
+                    "journal": "national bureau of economic research",
+                    "title": "notional defined contribution pension systems in a stochastic context design and stability",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1999527132,
+                    "author": [
+                        {
+                            "AuId": 180313079,
+                            "AuN": "carlos vidalmelia"
+                        },
+                        {
+                            "AuId": 2079468325,
+                            "AuN": "maria del carmen boadopenas"
+                        }
+                    ],
+                    "doi": "10.1080/00036846.2011.615733",
+                    "journal": "applied economics",
+                    "title": "compiling the actuarial balance for pay as you go pension systems is it better to use the hidden asset or the contribution asset",
+                    "year_mag": 2013
+                }
+            ],
+            "title": "stochastic risk indicators for public pension systems",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2613762717,
+            "title": "financial crisis pension funds asset allocation strategies",
+            "type": "0",
+            "year_mag": 2012
+        }
+    ]
+}

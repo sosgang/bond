@@ -1,0 +1,4767 @@
+{
+    "AuIds": [
+        2121008568
+    ],
+    "fullname": [
+        "Fabretti",
+        "Annalisa"
+    ],
+    "ind_anvur": [
+        10,
+        2,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1460-7425"
+            ],
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "doi": "10.18564/jasss.3246",
+            "journal": "JASSS",
+            "title": "an agent based model for a double auction with convex incentives ",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1593-8883"
+            ],
+            "PId": 250464690,
+            "cited": [
+                {
+                    "PId": 3023446773,
+                    "author": [
+                        {
+                            "AuId": 2197419791,
+                            "AuN": "michael c jensen"
+                        },
+                        {
+                            "AuId": 2272118559,
+                            "AuN": "william h meckling"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(76)90026-X",
+                    "journal": "journal of financial economics",
+                    "title": "theory of the firm managerial behavior agency costs and ownership structure",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 1986362596,
+                    "author": [
+                        {
+                            "AuId": 2115804623,
+                            "AuN": "charles a holt"
+                        },
+                        {
+                            "AuId": 2135529230,
+                            "AuN": "susan k laury"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.893797",
+                    "journal": "the american economic review",
+                    "title": "risk aversion and incentive effects",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2106098322,
+                    "author": [
+                        {
+                            "AuId": 2071544674,
+                            "AuN": "thomas j dohmen"
+                        },
+                        {
+                            "AuId": 2093276620,
+                            "AuN": "armin falk"
+                        },
+                        {
+                            "AuId": 2253858077,
+                            "AuN": "david huffman"
+                        },
+                        {
+                            "AuId": 285127975,
+                            "AuN": "uwe sunde"
+                        },
+                        {
+                            "AuId": 2113893762,
+                            "AuN": "jurgen schupp"
+                        },
+                        {
+                            "AuId": 2306572861,
+                            "AuN": "gert g wagner"
+                        }
+                    ],
+                    "doi": "10.1111/J.1542-4774.2011.01015.X",
+                    "journal": "journal of the european economic association",
+                    "title": "individual risk attitudes measurement determinants and behavioral consequences",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1501219137,
+                    "author": [
+                        {
+                            "AuId": 2063544226,
+                            "AuN": "robert axelrod"
+                        }
+                    ],
+                    "doi": "10.2307/20048800",
+                    "journal": "foreign affairs",
+                    "title": "the complexity of cooperation agent based models of competition and collaboration",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2136513790,
+                    "author": [
+                        {
+                            "AuId": 2163021063,
+                            "AuN": "raghuram g rajan"
+                        },
+                        {
+                            "AuId": 2163021063,
+                            "AuN": "raghuram g rajan"
+                        },
+                        {
+                            "AuId": 2163021063,
+                            "AuN": "raghuram g rajan"
+                        }
+                    ],
+                    "doi": "10.3386/W11728",
+                    "journal": "national bureau of economic research",
+                    "title": "has financial development made the world riskier",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2076712453,
+                    "author": [
+                        {
+                            "AuId": 1984363219,
+                            "AuN": "terrance odean"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.94143",
+                    "journal": "the american economic review",
+                    "title": "do investors trade too much",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2166822681,
+                    "author": [
+                        {
+                            "AuId": 207048797,
+                            "AuN": "nicola gennaioli"
+                        },
+                        {
+                            "AuId": 727612727,
+                            "AuN": "andrei shleifer"
+                        },
+                        {
+                            "AuId": 727612727,
+                            "AuN": "andrei shleifer"
+                        },
+                        {
+                            "AuId": 198900819,
+                            "AuN": "robert w vishny"
+                        },
+                        {
+                            "AuId": 198900819,
+                            "AuN": "robert w vishny"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2011.05.005",
+                    "journal": "journal of financial economics",
+                    "title": "neglected risks financial innovation and financial fragility",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1916722811,
+                    "author": [
+                        {
+                            "AuId": 2147876126,
+                            "AuN": "cars hommes"
+                        },
+                        {
+                            "AuId": 2147876126,
+                            "AuN": "cars hommes"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.742384",
+                    "journal": "handbook of computational economics",
+                    "title": "heterogeneous agent models in economics and finance",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2135050178,
+                    "author": [
+                        {
+                            "AuId": 1984363219,
+                            "AuN": "terrance odean"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.94141",
+                    "journal": "journal of finance",
+                    "title": "volume volatility price and profit when all traders are above average",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2018567859,
+                    "author": [
+                        {
+                            "AuId": 2309387577,
+                            "AuN": "dhananjay k gode"
+                        },
+                        {
+                            "AuId": 2271108941,
+                            "AuN": "shyam sunder"
+                        }
+                    ],
+                    "doi": "10.1086/261868",
+                    "journal": "journal of political economy",
+                    "title": "allocative efficiency of markets with zero intelligence traders market as a partial substitute for individual rationality",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2109301602,
+                    "author": [
+                        {
+                            "AuId": 2153576001,
+                            "AuN": "kenneth r french"
+                        },
+                        {
+                            "AuId": 2491699887,
+                            "AuN": "martin neil baily"
+                        },
+                        {
+                            "AuId": 2397423007,
+                            "AuN": "john y campbell"
+                        }
+                    ],
+                    "title": "the squam lake report fixing the financial system",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2483014731,
+                    "author": [
+                        {
+                            "AuId": 2482240692,
+                            "AuN": "robert axelrod"
+                        }
+                    ],
+                    "doi": "10.1515/9781400822300",
+                    "title": "the complexity of cooperation agent based models of competition and collaboration agent based models of competition and collaboration",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2133907450,
+                    "author": [
+                        {
+                            "AuId": 2461966362,
+                            "AuN": "jennifer n carpenter"
+                        }
+                    ],
+                    "doi": "10.1111/0022-1082.00288",
+                    "journal": "journal of finance",
+                    "title": "does option compensation increase managerial risk appetite",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2034309299,
+                    "author": [
+                        {
+                            "AuId": 2163021063,
+                            "AuN": "raghuram g rajan"
+                        }
+                    ],
+                    "doi": "10.1111/J.1468-036X.2006.00330.X",
+                    "journal": "european financial management",
+                    "title": "has finance made the world riskier",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2124087300,
+                    "author": [
+                        {
+                            "AuId": 5238968,
+                            "AuN": "william n goetzmann"
+                        },
+                        {
+                            "AuId": 2051703268,
+                            "AuN": "jonathan e ingersoll"
+                        },
+                        {
+                            "AuId": 2163419371,
+                            "AuN": "stephen a ross"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.57933",
+                    "journal": "journal of finance",
+                    "title": "high water marks and hedge fund management contracts",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2607495951,
+                    "author": [
+                        {
+                            "AuId": 2003981994,
+                            "AuN": "lucian arye bebchuk"
+                        },
+                        {
+                            "AuId": 2003981994,
+                            "AuN": "lucian arye bebchuk"
+                        },
+                        {
+                            "AuId": 331602282,
+                            "AuN": "holger spamann"
+                        }
+                    ],
+                    "journal": "georgetown law journal",
+                    "title": "regulating bankers pay",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1598532867,
+                    "author": [
+                        {
+                            "AuId": 1911960599,
+                            "AuN": "stefan palan"
+                        }
+                    ],
+                    "doi": "10.1111/JOES.12023",
+                    "journal": "journal of economic surveys",
+                    "title": "a review of bubbles and crashes in experimental asset markets",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2098872553,
+                    "author": [
+                        {
+                            "AuId": 2071832468,
+                            "AuN": "domenico cuoco"
+                        },
+                        {
+                            "AuId": 2148739677,
+                            "AuN": "ron kaniel"
+                        },
+                        {
+                            "AuId": 2148739677,
+                            "AuN": "ron kaniel"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.249971",
+                    "journal": "journal of financial economics",
+                    "title": "equilibrium prices in the presence of delegated portfolio management",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2161636141,
+                    "author": [
+                        {
+                            "AuId": 2672373046,
+                            "AuN": "e samanidou"
+                        },
+                        {
+                            "AuId": 2935880363,
+                            "AuN": "elmar zschischang"
+                        },
+                        {
+                            "AuId": 2144467611,
+                            "AuN": "dietrich stauffer"
+                        },
+                        {
+                            "AuId": 2191878223,
+                            "AuN": "thomas lux"
+                        }
+                    ],
+                    "doi": "10.1088/0034-4885/70/3/R03",
+                    "journal": "reports on progress in physics",
+                    "title": "agent based models of financial markets",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 651240020,
+                    "author": [
+                        {
+                            "AuId": 704790548,
+                            "AuN": "mathias dewatripont"
+                        },
+                        {
+                            "AuId": 2201352716,
+                            "AuN": "jeancharles rochet"
+                        },
+                        {
+                            "AuId": 695037722,
+                            "AuN": "jean tirole"
+                        }
+                    ],
+                    "title": "balancing the banks global lessons from the financial crisis",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2081998430,
+                    "author": [
+                        {
+                            "AuId": 2196341490,
+                            "AuN": "ernan haruvy"
+                        },
+                        {
+                            "AuId": 2092525447,
+                            "AuN": "yaron lahav"
+                        },
+                        {
+                            "AuId": 702632140,
+                            "AuN": "charles n noussair"
+                        }
+                    ],
+                    "doi": "10.1257/AER.97.5.1901",
+                    "journal": "the american economic review",
+                    "title": "traders expectations in asset markets experimental evidence",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2133953136,
+                    "author": [
+                        {
+                            "AuId": 2127790681,
+                            "AuN": "franklin allen"
+                        }
+                    ],
+                    "doi": "10.1111/0022-1082.00361",
+                    "journal": "journal of finance",
+                    "title": "do financial institutions matter",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2043244557,
+                    "author": [
+                        {
+                            "AuId": 429809575,
+                            "AuN": "graham loomes"
+                        },
+                        {
+                            "AuId": 1799068347,
+                            "AuN": "chris starmer"
+                        },
+                        {
+                            "AuId": 1997953091,
+                            "AuN": "robert sugden"
+                        }
+                    ],
+                    "doi": "10.1111/1468-0297.00108",
+                    "journal": "the economic journal",
+                    "title": "do anomalies disappear in repeated markets",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1873535865,
+                    "author": [
+                        {
+                            "AuId": 702632140,
+                            "AuN": "charles n noussair"
+                        },
+                        {
+                            "AuId": 2209354098,
+                            "AuN": "steven tucker"
+                        }
+                    ],
+                    "doi": "10.1111/JOES.12019",
+                    "journal": "journal of economic surveys",
+                    "title": "experimental research on asset pricing",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2028243094,
+                    "author": [
+                        {
+                            "AuId": 286529056,
+                            "AuN": "gerlinde fellnerrohling"
+                        },
+                        {
+                            "AuId": 2251740808,
+                            "AuN": "sebastian krugel"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEBO.2014.04.016",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "judgmental overconfidence and trading activity",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1984609658,
+                    "author": [
+                        {
+                            "AuId": 2218347074,
+                            "AuN": "martin holmen"
+                        },
+                        {
+                            "AuId": 2218347074,
+                            "AuN": "martin holmen"
+                        },
+                        {
+                            "AuId": 42702121,
+                            "AuN": "michael kirchler"
+                        },
+                        {
+                            "AuId": 42702121,
+                            "AuN": "michael kirchler"
+                        },
+                        {
+                            "AuId": 243116450,
+                            "AuN": "daniel kleinlercher"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2205587",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "do option like incentives induce overvaluation evidence from experimental asset markets",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2193390410,
+                    "author": [
+                        {
+                            "AuId": 2508749204,
+                            "AuN": "joao da gama batista"
+                        },
+                        {
+                            "AuId": 1966627697,
+                            "AuN": "domenico massaro"
+                        },
+                        {
+                            "AuId": 2032789665,
+                            "AuN": "jeanphilippe bouchaud"
+                        },
+                        {
+                            "AuId": 2183598400,
+                            "AuN": "damien challet"
+                        },
+                        {
+                            "AuId": 2147876126,
+                            "AuN": "cars hommes"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEBO.2017.05.013",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "do investors trade too much a laboratory experiment",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 1991247669,
+                    "author": [
+                        {
+                            "AuId": 243116450,
+                            "AuN": "daniel kleinlercher"
+                        },
+                        {
+                            "AuId": 2108023417,
+                            "AuN": "jurgen huber"
+                        },
+                        {
+                            "AuId": 42702121,
+                            "AuN": "michael kirchler"
+                        },
+                        {
+                            "AuId": 42702121,
+                            "AuN": "michael kirchler"
+                        }
+                    ],
+                    "doi": "10.1016/J.EUROECOREV.2014.02.010",
+                    "journal": "european economic review",
+                    "title": "the impact of different incentive schemes on asset prices",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2137514812,
+                    "author": [
+                        {
+                            "AuId": 1491868135,
+                            "AuN": "juan m sotespaladino"
+                        },
+                        {
+                            "AuId": 2152497277,
+                            "AuN": "fernando zapatero"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/HHY074",
+                    "journal": "review of financial studies",
+                    "title": "riding the bubble with convex incentives",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2108216331,
+                    "author": [
+                        {
+                            "AuId": 2254498705,
+                            "AuN": "sascha baghestanian"
+                        },
+                        {
+                            "AuId": 2171529856,
+                            "AuN": "todd b walker"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2456941",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "anchoring in experimental asset markets",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2111540620,
+                    "author": [
+                        {
+                            "AuId": 115542842,
+                            "AuN": "marco licalzi"
+                        },
+                        {
+                            "AuId": 2080185406,
+                            "AuN": "paolo pellizzari"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-540-70556-7_1",
+                    "title": "zero intelligence trading without resampling",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2164268832,
+                    "author": [
+                        {
+                            "AuId": 2025338330,
+                            "AuN": "tiziana assenza"
+                        },
+                        {
+                            "AuId": 2025338330,
+                            "AuN": "tiziana assenza"
+                        },
+                        {
+                            "AuId": 1921030147,
+                            "AuN": "jakob grazzini"
+                        },
+                        {
+                            "AuId": 2147876126,
+                            "AuN": "cars hommes"
+                        },
+                        {
+                            "AuId": 2147876126,
+                            "AuN": "cars hommes"
+                        },
+                        {
+                            "AuId": 1966627697,
+                            "AuN": "domenico massaro"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEDC.2014.08.017",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "pq strategies in monopolistic competition some insights from the lab",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2073040142,
+                    "author": [
+                        {
+                            "AuId": 2108023417,
+                            "AuN": "jurgen huber"
+                        },
+                        {
+                            "AuId": 42702121,
+                            "AuN": "michael kirchler"
+                        },
+                        {
+                            "AuId": 42702121,
+                            "AuN": "michael kirchler"
+                        },
+                        {
+                            "AuId": 2571828570,
+                            "AuN": "matthias stefan"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEBO.2014.04.004",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "experimental evidence on varying uncertainty and skewness in laboratory double auction markets",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 641026271,
+                    "author": [
+                        {
+                            "AuId": 2068287637,
+                            "AuN": "klaus schredelseker"
+                        },
+                        {
+                            "AuId": 2164614409,
+                            "AuN": "florian hauser"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-540-70556-7",
+                    "title": "complexity and artificial markets",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1853315466,
+                    "author": [
+                        {
+                            "AuId": 1829806501,
+                            "AuN": "semyon malamud"
+                        },
+                        {
+                            "AuId": 2900846155,
+                            "AuN": "evgeny petrov"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2397891",
+                    "title": "portfolio delegation and market efficiency",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1861495489,
+                    "author": [
+                        {
+                            "AuId": 2103628301,
+                            "AuN": "mark kritzman"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V43.N1.21",
+                    "journal": "financial analysts journal",
+                    "title": "incentive fees some problems and some solutions",
+                    "year_mag": 1987
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Baghestanian",
+                            "given": "Sascha",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Walker",
+                            "given": "Todd B.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEBO.2015.03.010",
+                    "title": "anchoring in experimental asset markets",
+                    "year_oc": 2015
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Holmen",
+                            "given": "Martin",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Kirchler",
+                            "given": "Michael",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Kleinlercher",
+                            "given": "Daniel",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEDC.2014.01.002",
+                    "title": "do option like incentives induce overvaluation evidence from experimental asset markets",
+                    "year_oc": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Cuoco",
+                            "given": "Domenico",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Kaniel",
+                            "given": "Ron",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2011.02.012",
+                    "title": "equilibrium prices in the presence of delegated portfolio management",
+                    "year_oc": 2011
+                },
+                {
+                    "doi": "10.1108/S0193-2306201417",
+                    "title": "experiments in macroeconomics",
+                    "year_oc": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of California; Davis"
+                                }
+                            ],
+                            "family": "Odean",
+                            "given": "Terrance",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1111/0022-1082.00078",
+                    "title": "volume volatility price and profit when all traders are above average",
+                    "year_oc": 1998
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Goetzmann",
+                            "given": "William N.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Ingersoll",
+                            "given": "Jonathan E.",
+                            "sequence": "additional",
+                            "suffix": "Jr."
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Ross",
+                            "given": "Stephen A.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/1540-6261.00581",
+                    "title": "high water marks and hedge fund management contracts",
+                    "year_oc": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Merage School of Business, University of California, Irvine, California 92697; email:"
+                                }
+                            ],
+                            "family": "Hirshleifer",
+                            "given": "David",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1146/ANNUREV-FINANCIAL-092214-043752",
+                    "title": "behavioral finance",
+                    "year_oc": 2015
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Department of Economics, University of Virginia, Charlottesville, VA 22903."
+                                }
+                            ],
+                            "family": "Holt",
+                            "given": "Charles A",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Department of Economics, Andrew Young School of Policy Studies, Georgia State University, Atlanta, GA 30303."
+                                }
+                            ],
+                            "family": "Laury",
+                            "given": "Susan K",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1257/000282802762024700",
+                    "title": "risk aversion and incentive effects",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Graduate School of Management, University of California, Davis, CA 95616."
+                                }
+                            ],
+                            "family": "Odean",
+                            "given": "Terrance",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1257/AER.89.5.1279",
+                    "title": "do investors trade too much ",
+                    "year_oc": 1999
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Allen",
+                            "given": "F.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Gorton",
+                            "given": "G.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/2298101",
+                    "title": "churning bubbles",
+                    "year_oc": 1993
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Sotes-Paladino",
+                            "given": "Juan M.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Zapatero",
+                            "given": "Fernando",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2471082",
+                    "title": "riding the bubble with convex incentives",
+                    "year_oc": 2014
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 3018952930,
+                    "author": [
+                        {
+                            "AuId": 2251512374,
+                            "AuN": "tommy garling"
+                        },
+                        {
+                            "AuId": 2342244938,
+                            "AuN": "dawei fang"
+                        },
+                        {
+                            "AuId": 2218347074,
+                            "AuN": "martin holmen"
+                        },
+                        {
+                            "AuId": 2921833788,
+                            "AuN": "patrik michaelsen"
+                        }
+                    ],
+                    "doi": "10.1080/15427560.2020.1747071",
+                    "journal": "journal of behavioral finance",
+                    "title": "fast and slow investments in asset markets influences on risk taking",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2586114212,
+                    "author": [
+                        {
+                            "AuId": 2251512374,
+                            "AuN": "tommy garling"
+                        },
+                        {
+                            "AuId": 2894253899,
+                            "AuN": "maria andersson"
+                        },
+                        {
+                            "AuId": 18631812,
+                            "AuN": "martin hedesstrom"
+                        },
+                        {
+                            "AuId": 2088270799,
+                            "AuN": "anders biel"
+                        }
+                    ],
+                    "doi": "10.1080/15427560.2017.1276065",
+                    "journal": "journal of behavioral finance",
+                    "title": "an experimental study of influences of performance related payments on timing of delegated stock purchases",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1007/S10203-017-0200-1",
+            "journal": "DECISIONS IN ECONOMICS AND FINANCE",
+            "title": "convex incentives in financial markets an agent based analysis",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "2194-5357"
+            ],
+            "PId": 2500092278,
+            "cited": [
+                {
+                    "PId": 2136513790,
+                    "author": [
+                        {
+                            "AuId": 2163021063,
+                            "AuN": "raghuram g rajan"
+                        },
+                        {
+                            "AuId": 2163021063,
+                            "AuN": "raghuram g rajan"
+                        },
+                        {
+                            "AuId": 2163021063,
+                            "AuN": "raghuram g rajan"
+                        }
+                    ],
+                    "doi": "10.3386/W11728",
+                    "journal": "national bureau of economic research",
+                    "title": "has financial development made the world riskier",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2166822681,
+                    "author": [
+                        {
+                            "AuId": 207048797,
+                            "AuN": "nicola gennaioli"
+                        },
+                        {
+                            "AuId": 727612727,
+                            "AuN": "andrei shleifer"
+                        },
+                        {
+                            "AuId": 727612727,
+                            "AuN": "andrei shleifer"
+                        },
+                        {
+                            "AuId": 198900819,
+                            "AuN": "robert w vishny"
+                        },
+                        {
+                            "AuId": 198900819,
+                            "AuN": "robert w vishny"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2011.05.005",
+                    "journal": "journal of financial economics",
+                    "title": "neglected risks financial innovation and financial fragility",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2109301602,
+                    "author": [
+                        {
+                            "AuId": 2153576001,
+                            "AuN": "kenneth r french"
+                        },
+                        {
+                            "AuId": 2491699887,
+                            "AuN": "martin neil baily"
+                        },
+                        {
+                            "AuId": 2397423007,
+                            "AuN": "john y campbell"
+                        }
+                    ],
+                    "title": "the squam lake report fixing the financial system",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2034309299,
+                    "author": [
+                        {
+                            "AuId": 2163021063,
+                            "AuN": "raghuram g rajan"
+                        }
+                    ],
+                    "doi": "10.1111/J.1468-036X.2006.00330.X",
+                    "journal": "european financial management",
+                    "title": "has finance made the world riskier",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2124087300,
+                    "author": [
+                        {
+                            "AuId": 5238968,
+                            "AuN": "william n goetzmann"
+                        },
+                        {
+                            "AuId": 2051703268,
+                            "AuN": "jonathan e ingersoll"
+                        },
+                        {
+                            "AuId": 2163419371,
+                            "AuN": "stephen a ross"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.57933",
+                    "journal": "journal of finance",
+                    "title": "high water marks and hedge fund management contracts",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2607495951,
+                    "author": [
+                        {
+                            "AuId": 2003981994,
+                            "AuN": "lucian arye bebchuk"
+                        },
+                        {
+                            "AuId": 2003981994,
+                            "AuN": "lucian arye bebchuk"
+                        },
+                        {
+                            "AuId": 331602282,
+                            "AuN": "holger spamann"
+                        }
+                    ],
+                    "journal": "georgetown law journal",
+                    "title": "regulating bankers pay",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1598532867,
+                    "author": [
+                        {
+                            "AuId": 1911960599,
+                            "AuN": "stefan palan"
+                        }
+                    ],
+                    "doi": "10.1111/JOES.12023",
+                    "journal": "journal of economic surveys",
+                    "title": "a review of bubbles and crashes in experimental asset markets",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2098872553,
+                    "author": [
+                        {
+                            "AuId": 2071832468,
+                            "AuN": "domenico cuoco"
+                        },
+                        {
+                            "AuId": 2148739677,
+                            "AuN": "ron kaniel"
+                        },
+                        {
+                            "AuId": 2148739677,
+                            "AuN": "ron kaniel"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.249971",
+                    "journal": "journal of financial economics",
+                    "title": "equilibrium prices in the presence of delegated portfolio management",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 651240020,
+                    "author": [
+                        {
+                            "AuId": 704790548,
+                            "AuN": "mathias dewatripont"
+                        },
+                        {
+                            "AuId": 2201352716,
+                            "AuN": "jeancharles rochet"
+                        },
+                        {
+                            "AuId": 695037722,
+                            "AuN": "jean tirole"
+                        }
+                    ],
+                    "title": "balancing the banks global lessons from the financial crisis",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2081998430,
+                    "author": [
+                        {
+                            "AuId": 2196341490,
+                            "AuN": "ernan haruvy"
+                        },
+                        {
+                            "AuId": 2092525447,
+                            "AuN": "yaron lahav"
+                        },
+                        {
+                            "AuId": 702632140,
+                            "AuN": "charles n noussair"
+                        }
+                    ],
+                    "doi": "10.1257/AER.97.5.1901",
+                    "journal": "the american economic review",
+                    "title": "traders expectations in asset markets experimental evidence",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2133953136,
+                    "author": [
+                        {
+                            "AuId": 2127790681,
+                            "AuN": "franklin allen"
+                        }
+                    ],
+                    "doi": "10.1111/0022-1082.00361",
+                    "journal": "journal of finance",
+                    "title": "do financial institutions matter",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2043244557,
+                    "author": [
+                        {
+                            "AuId": 429809575,
+                            "AuN": "graham loomes"
+                        },
+                        {
+                            "AuId": 1799068347,
+                            "AuN": "chris starmer"
+                        },
+                        {
+                            "AuId": 1997953091,
+                            "AuN": "robert sugden"
+                        }
+                    ],
+                    "doi": "10.1111/1468-0297.00108",
+                    "journal": "the economic journal",
+                    "title": "do anomalies disappear in repeated markets",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1873535865,
+                    "author": [
+                        {
+                            "AuId": 702632140,
+                            "AuN": "charles n noussair"
+                        },
+                        {
+                            "AuId": 2209354098,
+                            "AuN": "steven tucker"
+                        }
+                    ],
+                    "doi": "10.1111/JOES.12019",
+                    "journal": "journal of economic surveys",
+                    "title": "experimental research on asset pricing",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1984609658,
+                    "author": [
+                        {
+                            "AuId": 2218347074,
+                            "AuN": "martin holmen"
+                        },
+                        {
+                            "AuId": 2218347074,
+                            "AuN": "martin holmen"
+                        },
+                        {
+                            "AuId": 42702121,
+                            "AuN": "michael kirchler"
+                        },
+                        {
+                            "AuId": 42702121,
+                            "AuN": "michael kirchler"
+                        },
+                        {
+                            "AuId": 243116450,
+                            "AuN": "daniel kleinlercher"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2205587",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "do option like incentives induce overvaluation evidence from experimental asset markets",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2137514812,
+                    "author": [
+                        {
+                            "AuId": 1491868135,
+                            "AuN": "juan m sotespaladino"
+                        },
+                        {
+                            "AuId": 2152497277,
+                            "AuN": "fernando zapatero"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/HHY074",
+                    "journal": "review of financial studies",
+                    "title": "riding the bubble with convex incentives",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2073040142,
+                    "author": [
+                        {
+                            "AuId": 2108023417,
+                            "AuN": "jurgen huber"
+                        },
+                        {
+                            "AuId": 42702121,
+                            "AuN": "michael kirchler"
+                        },
+                        {
+                            "AuId": 42702121,
+                            "AuN": "michael kirchler"
+                        },
+                        {
+                            "AuId": 2571828570,
+                            "AuN": "matthias stefan"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEBO.2014.04.004",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "experimental evidence on varying uncertainty and skewness in laboratory double auction markets",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1861495489,
+                    "author": [
+                        {
+                            "AuId": 2103628301,
+                            "AuN": "mark kritzman"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V43.N1.21",
+                    "journal": "financial analysts journal",
+                    "title": "incentive fees some problems and some solutions",
+                    "year_mag": 1987
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Holmen",
+                            "given": "Martin",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Kirchler",
+                            "given": "Michael",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Kleinlercher",
+                            "given": "Daniel",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEDC.2014.01.002",
+                    "title": "do option like incentives induce overvaluation evidence from experimental asset markets",
+                    "year_oc": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Cuoco",
+                            "given": "Domenico",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Kaniel",
+                            "given": "Ron",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2011.02.012",
+                    "title": "equilibrium prices in the presence of delegated portfolio management",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Goetzmann",
+                            "given": "William N.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Ingersoll",
+                            "given": "Jonathan E.",
+                            "sequence": "additional",
+                            "suffix": "Jr."
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Ross",
+                            "given": "Stephen A.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/1540-6261.00581",
+                    "title": "high water marks and hedge fund management contracts",
+                    "year_oc": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dewatripont",
+                            "given": "Mathias",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Rochet",
+                            "given": "Jean-Charles",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Tirole",
+                            "given": "Jean",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Tribe",
+                            "given": "Keith",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1515/9781400834648",
+                    "title": "balancing the banks",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Sotes-Paladino",
+                            "given": "Juan M.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Zapatero",
+                            "given": "Fernando",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2471082",
+                    "title": "riding the bubble with convex incentives",
+                    "year_oc": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Allen",
+                            "given": "F.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Gorton",
+                            "given": "G.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/2298101",
+                    "title": "churning bubbles",
+                    "year_oc": 1993
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2604174423,
+                    "author": [
+                        {
+                            "AuId": 2604534056,
+                            "AuN": "bogdan okresa \u00f0uric"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-54325-3_10",
+                    "title": "a novel approach to modelling distributed systems using large scale multi agent systems",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1007/978-3-319-40159-1_1",
+            "title": "an agent based model to study the impact of convex incentives on financial markets",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "title": "social responsibility and responsible investments in italy an overview",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0167-6377"
+            ],
+            "PId": 2074862948,
+            "cited": [
+                {
+                    "PId": 2118578357,
+                    "author": [
+                        {
+                            "AuId": 430121905,
+                            "AuN": "dimitris bertsimas"
+                        },
+                        {
+                            "AuId": 2133196785,
+                            "AuN": "melvyn sim"
+                        }
+                    ],
+                    "doi": "10.1287/OPRE.1030.0065",
+                    "journal": "operations research",
+                    "title": "the price of robustness",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2112440119,
+                    "author": [
+                        {
+                            "AuId": 2441160431,
+                            "AuN": "richard a johnson"
+                        },
+                        {
+                            "AuId": 2082365655,
+                            "AuN": "dean w wichern"
+                        }
+                    ],
+                    "title": "applied multivariate statistical analysis",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 2089105401,
+                    "author": [
+                        {
+                            "AuId": 284171264,
+                            "AuN": "aharon bental"
+                        },
+                        {
+                            "AuId": 395389946,
+                            "AuN": "arkadi nemirovski"
+                        }
+                    ],
+                    "doi": "10.1287/MOOR.23.4.769",
+                    "journal": "mathematics of operations research",
+                    "title": "robust convex optimization",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1968355947,
+                    "author": [
+                        {
+                            "AuId": 2309890877,
+                            "AuN": "erick delage"
+                        },
+                        {
+                            "AuId": 2097765390,
+                            "AuN": "yinyu ye"
+                        }
+                    ],
+                    "doi": "10.1287/OPRE.1090.0741",
+                    "journal": "operations research",
+                    "title": "distributionally robust optimization under moment uncertainty with application to data driven problems",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1995285162,
+                    "author": [
+                        {
+                            "AuId": 284171264,
+                            "AuN": "aharon bental"
+                        },
+                        {
+                            "AuId": 395389946,
+                            "AuN": "arkadi nemirovski"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6377(99)00016-4",
+                    "journal": "operations research letters",
+                    "title": "robust solutions of uncertain linear programs",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2069099760,
+                    "author": [
+                        {
+                            "AuId": 2139885129,
+                            "AuN": "donald goldfarb"
+                        },
+                        {
+                            "AuId": 1991057361,
+                            "AuN": "garud iyengar"
+                        }
+                    ],
+                    "doi": "10.1287/MOOR.28.1.1.14260",
+                    "journal": "mathematics of operations research",
+                    "title": "robust portfolio selection problems",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2102426156,
+                    "author": [
+                        {
+                            "AuId": 430121905,
+                            "AuN": "dimitris bertsimas"
+                        },
+                        {
+                            "AuId": 2014485144,
+                            "AuN": "dessislava a pachamanova"
+                        },
+                        {
+                            "AuId": 2133196785,
+                            "AuN": "melvyn sim"
+                        }
+                    ],
+                    "doi": "10.1016/J.ORL.2003.12.007",
+                    "journal": "operations research letters",
+                    "title": "robust linear optimization under general norms",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2021472931,
+                    "author": [
+                        {
+                            "AuId": 2221004268,
+                            "AuN": "laurent el ghaoui"
+                        },
+                        {
+                            "AuId": 2336736642,
+                            "AuN": "maksim oks"
+                        },
+                        {
+                            "AuId": 2041888922,
+                            "AuN": "francois oustry"
+                        }
+                    ],
+                    "doi": "10.1287/OPRE.51.4.543.16101",
+                    "journal": "operations research",
+                    "title": "worst case value at risk and robust portfolio optimization a conic programming approach",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2101898852,
+                    "author": [
+                        {
+                            "AuId": 2537543192,
+                            "AuN": "lorenzo garlappi"
+                        },
+                        {
+                            "AuId": 2150056275,
+                            "AuN": "raman uppal"
+                        },
+                        {
+                            "AuId": 2715953234,
+                            "AuN": "tan wang"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.671981",
+                    "journal": "review of financial studies",
+                    "title": "portfolio selection with parameter and model uncertainty a multi prior approach",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2138490239,
+                    "author": [
+                        {
+                            "AuId": 2665937737,
+                            "AuN": "blackfischer"
+                        },
+                        {
+                            "AuId": 2578133489,
+                            "AuN": "littermanrobert"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V48.N5.28",
+                    "journal": "financial analysts journal",
+                    "title": "global portfolio optimization",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 28519790,
+                    "author": [
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "title": "robust portfolio optimization and management",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2033500977,
+                    "author": [
+                        {
+                            "AuId": 2496426081,
+                            "AuN": "reha tutuncu"
+                        },
+                        {
+                            "AuId": 2285428161,
+                            "AuN": "m koenig"
+                        }
+                    ],
+                    "doi": "10.1023/B:ANOR.0000045281.41041.ED",
+                    "journal": "annals of operations research",
+                    "title": "robust asset allocation",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2157289352,
+                    "author": [
+                        {
+                            "AuId": 81152896,
+                            "AuN": "victor demiguel"
+                        },
+                        {
+                            "AuId": 2178737522,
+                            "AuN": "francisco j nogales"
+                        }
+                    ],
+                    "doi": "10.1287/OPRE.1080.0566",
+                    "journal": "operations research",
+                    "title": "portfolio selection with robust estimation",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2151704366,
+                    "author": [
+                        {
+                            "AuId": 220604210,
+                            "AuN": "sebastian ceria"
+                        },
+                        {
+                            "AuId": 2134299007,
+                            "AuN": "robert a stubbs"
+                        }
+                    ],
+                    "doi": "10.1057/PALGRAVE.JAM.2240207",
+                    "journal": "journal of asset management",
+                    "title": "incorporating estimation errors into portfolio selection robust portfolio construction",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2134919172,
+                    "author": [
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        },
+                        {
+                            "AuId": 2734332915,
+                            "AuN": "dashan huang"
+                        },
+                        {
+                            "AuId": 2208249848,
+                            "AuN": "guofu zhou"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-009-0515-6",
+                    "journal": "annals of operations research",
+                    "title": "robust portfolios contributions from operations research and finance",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2131868098,
+                    "author": [
+                        {
+                            "AuId": 1971608171,
+                            "AuN": "michael j best"
+                        },
+                        {
+                            "AuId": 373119599,
+                            "AuN": "robert r grauer"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/4.2.315",
+                    "journal": "review of financial studies",
+                    "title": "on the sensitivity of mean variance efficient portfolios to changes in asset means some analytical and computational results",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 1984657403,
+                    "author": [
+                        {
+                            "AuId": 2432381192,
+                            "AuN": "li chen"
+                        },
+                        {
+                            "AuId": 2111488806,
+                            "AuN": "simai he"
+                        },
+                        {
+                            "AuId": 2311956667,
+                            "AuN": "shuzhong zhang"
+                        }
+                    ],
+                    "doi": "10.1287/OPRE.1110.0950",
+                    "journal": "operations research",
+                    "title": "tight bounds for some risk measures with applications to robust portfolio selection",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1993599556,
+                    "author": [
+                        {
+                            "AuId": 1782601054,
+                            "AuN": "ioana popescu"
+                        }
+                    ],
+                    "doi": "10.1287/OPRE.1060.0353",
+                    "journal": "operations research",
+                    "title": "robust mean covariance solutions for stochastic optimization",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 3021970279,
+                    "author": [
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        },
+                        {
+                            "AuId": 2031429470,
+                            "AuN": "petter n kolm"
+                        },
+                        {
+                            "AuId": 2014485144,
+                            "AuN": "dessislava a pachamanova"
+                        },
+                        {
+                            "AuId": 3043961763,
+                            "AuN": "sergio m focardi"
+                        }
+                    ],
+                    "doi": "10.3905/JPM.2007.684751",
+                    "journal": "the journal of portfolio management",
+                    "title": "robust portfolio optimization",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2136914524,
+                    "author": [
+                        {
+                            "AuId": 2166753682,
+                            "AuN": "karthik natarajan"
+                        },
+                        {
+                            "AuId": 2133196785,
+                            "AuN": "melvyn sim"
+                        },
+                        {
+                            "AuId": 2247807801,
+                            "AuN": "joline uichanco"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9965.2010.00417.X",
+                    "journal": "mathematical finance",
+                    "title": "tractable robust expected utility and risk models for portfolio optimization",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2156844203,
+                    "author": [
+                        {
+                            "AuId": 2166753682,
+                            "AuN": "karthik natarajan"
+                        },
+                        {
+                            "AuId": 2014485144,
+                            "AuN": "dessislava a pachamanova"
+                        },
+                        {
+                            "AuId": 2133196785,
+                            "AuN": "melvyn sim"
+                        }
+                    ],
+                    "doi": "10.1287/MNSC.1070.0769",
+                    "journal": "management science",
+                    "title": "incorporating asymmetric distributional information in robust value at risk optimization",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2239636253,
+                    "author": [
+                        {
+                            "AuId": 198555141,
+                            "AuN": "livio stracca"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-6419.2006.00271.X",
+                    "journal": "journal of economic surveys",
+                    "title": "delegated portfolio management a survey of the theoretical literature",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1966927913,
+                    "author": [
+                        {
+                            "AuId": 2790153052,
+                            "AuN": "sudipto bhattacharya"
+                        },
+                        {
+                            "AuId": 2012260433,
+                            "AuN": "paul pfleiderer"
+                        }
+                    ],
+                    "doi": "10.1016/0022-0531(85)90076-6",
+                    "journal": "journal of economic theory",
+                    "title": "delegated portfolio management",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2094182730,
+                    "author": [
+                        {
+                            "AuId": 793586459,
+                            "AuN": "mustafa c pinar"
+                        },
+                        {
+                            "AuId": 2496426081,
+                            "AuN": "reha tutuncu"
+                        }
+                    ],
+                    "doi": "10.1016/J.ORL.2004.08.005",
+                    "journal": "operations research letters",
+                    "title": "robust profit opportunities in risky financial portfolios",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1983235195,
+                    "author": [
+                        {
+                            "AuId": 1974307011,
+                            "AuN": "leonardo becchetti"
+                        },
+                        {
+                            "AuId": 2950160241,
+                            "AuN": "rocco ciciretti"
+                        },
+                        {
+                            "AuId": 2984964397,
+                            "AuN": "alessandro giovannelli"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2013.05.026",
+                    "journal": "journal of banking and finance",
+                    "title": "corporate social responsibility and earnings forecasting unbiasedness",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2021944927,
+                    "author": [
+                        {
+                            "AuId": 1971608171,
+                            "AuN": "michael j best"
+                        },
+                        {
+                            "AuId": 373119599,
+                            "AuN": "robert r grauer"
+                        }
+                    ],
+                    "doi": "10.1287/MNSC.37.8.980",
+                    "journal": "management science",
+                    "title": "sensitivity analysis for mean variance portfolio problems",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2100889016,
+                    "author": [
+                        {
+                            "AuId": 2121008568,
+                            "AuN": "annalisa fabretti"
+                        },
+                        {
+                            "AuId": 2043450111,
+                            "AuN": "stefano herzel"
+                        }
+                    ],
+                    "doi": "10.1080/1351847X.2011.579746",
+                    "journal": "european journal of finance",
+                    "title": "delegated portfolio management with socially responsible investment constraints",
+                    "year_mag": 2012
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 72386360,
+                    "author": [
+                        {
+                            "AuId": 2304733096,
+                            "AuN": "sara biagini"
+                        },
+                        {
+                            "AuId": 793586459,
+                            "AuN": "mustafa c pinar"
+                        }
+                    ],
+                    "doi": "10.1007/S11579-016-0168-6",
+                    "journal": "mathematics and financial economics",
+                    "title": "the robust merton problem of an ambiguity averse investor",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2761152713,
+                    "author": [
+                        {
+                            "AuId": 2761555006,
+                            "AuN": "zhilin kang"
+                        },
+                        {
+                            "AuId": 2761555006,
+                            "AuN": "zhilin kang"
+                        },
+                        {
+                            "AuId": 2437531742,
+                            "AuN": "zhongfei li"
+                        }
+                    ],
+                    "doi": "10.1007/S00186-017-0614-0",
+                    "journal": "mathematics and financial economics",
+                    "title": "an exact solution to a robust portfolio choice problem with multiple risk measures under ambiguous distribution",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2100889016,
+                    "author": [
+                        {
+                            "AuId": 2121008568,
+                            "AuN": "annalisa fabretti"
+                        },
+                        {
+                            "AuId": 2043450111,
+                            "AuN": "stefano herzel"
+                        }
+                    ],
+                    "doi": "10.1080/1351847X.2011.579746",
+                    "journal": "mathematics and financial economics",
+                    "title": "delegated portfolio management with socially responsible investment constraints",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2942563804,
+                    "author": [
+                        {
+                            "AuId": 2943186628,
+                            "AuN": "sandra cacador"
+                        },
+                        {
+                            "AuId": 2943186628,
+                            "AuN": "sandra cacador"
+                        },
+                        {
+                            "AuId": 2096966095,
+                            "AuN": "joana dias"
+                        },
+                        {
+                            "AuId": 2160333667,
+                            "AuN": "pedro godinho"
+                        }
+                    ],
+                    "doi": "10.1111/ITOR.12674",
+                    "journal": "mathematics and financial economics",
+                    "title": "portfolio selection under uncertainty a new methodology for computing relative robust solutions",
+                    "year_mag": 2021
+                },
+                {
+                    "PId": 3114787822,
+                    "author": [
+                        {
+                            "AuId": 3118118956,
+                            "AuN": "rui guo"
+                        },
+                        {
+                            "AuId": 3116643606,
+                            "AuN": "ying jiang"
+                        },
+                        {
+                            "AuId": 3113534962,
+                            "AuN": "ao li"
+                        },
+                        {
+                            "AuId": 3113776496,
+                            "AuN": "zhigang qiu"
+                        },
+                        {
+                            "AuId": 3116544823,
+                            "AuN": "hefei wang"
+                        }
+                    ],
+                    "doi": "10.1016/J.FRL.2020.101895",
+                    "journal": "mathematics and financial economics",
+                    "title": "a model of delegation with a var constraint",
+                    "year_mag": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1016/J.ORL.2014.02.002",
+            "journal": "OPERATIONS RESEARCH LETTERS",
+            "title": "delegated portfolio management under ambiguity aversion",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1860-711X"
+            ],
+            "PId": 2040254201,
+            "cited": [
+                {
+                    "PId": 1639032689,
+                    "author": [
+                        {
+                            "AuId": 2102678951,
+                            "AuN": "david e goldberg"
+                        }
+                    ],
+                    "title": "genetic algorithms in search optimization and machine learning",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 1497256448,
+                    "author": [
+                        {
+                            "AuId": 2112870757,
+                            "AuN": "john h holland"
+                        }
+                    ],
+                    "title": "adaptation in natural and artificial systems",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2100011707,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        }
+                    ],
+                    "doi": "10.1080/713665670",
+                    "journal": "quantitative finance",
+                    "title": "empirical properties of asset returns stylized facts and statistical issues",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2017821362,
+                    "author": [
+                        {
+                            "AuId": 2110611655,
+                            "AuN": "chungkang peng"
+                        },
+                        {
+                            "AuId": 2110611655,
+                            "AuN": "chungkang peng"
+                        },
+                        {
+                            "AuId": 2110611655,
+                            "AuN": "chungkang peng"
+                        },
+                        {
+                            "AuId": 60142663,
+                            "AuN": "sergey v buldyrev"
+                        },
+                        {
+                            "AuId": 60142663,
+                            "AuN": "sergey v buldyrev"
+                        },
+                        {
+                            "AuId": 60142663,
+                            "AuN": "sergey v buldyrev"
+                        },
+                        {
+                            "AuId": 630663198,
+                            "AuN": "shlomo havlin"
+                        },
+                        {
+                            "AuId": 630663198,
+                            "AuN": "shlomo havlin"
+                        },
+                        {
+                            "AuId": 630663198,
+                            "AuN": "shlomo havlin"
+                        },
+                        {
+                            "AuId": 2275735392,
+                            "AuN": "michael simons"
+                        },
+                        {
+                            "AuId": 2275735392,
+                            "AuN": "michael simons"
+                        },
+                        {
+                            "AuId": 2275735392,
+                            "AuN": "michael simons"
+                        },
+                        {
+                            "AuId": 2830810872,
+                            "AuN": "h e stanley"
+                        },
+                        {
+                            "AuId": 2830810872,
+                            "AuN": "h e stanley"
+                        },
+                        {
+                            "AuId": 2830810872,
+                            "AuN": "h e stanley"
+                        },
+                        {
+                            "AuId": 2109444309,
+                            "AuN": "ary l goldberger"
+                        },
+                        {
+                            "AuId": 2109444309,
+                            "AuN": "ary l goldberger"
+                        },
+                        {
+                            "AuId": 2109444309,
+                            "AuN": "ary l goldberger"
+                        }
+                    ],
+                    "doi": "10.1103/PHYSREVE.49.1685",
+                    "journal": "physical review e",
+                    "title": "mosaic organization of dna nucleotides",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2047094503,
+                    "author": [
+                        {
+                            "AuId": 2652552312,
+                            "AuN": "darrell whitley"
+                        }
+                    ],
+                    "doi": "10.1007/BF00175354",
+                    "journal": "statistics and computing",
+                    "title": "a genetic algorithm tutorial",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2171074980,
+                    "author": [
+                        {
+                            "AuId": 2034063289,
+                            "AuN": "j a nelder"
+                        },
+                        {
+                            "AuId": 2480517110,
+                            "AuN": "r mead"
+                        }
+                    ],
+                    "doi": "10.1093/COMJNL/7.4.308",
+                    "journal": "the computer journal",
+                    "title": "a simplex method for function minimization",
+                    "year_mag": 1965
+                },
+                {
+                    "PId": 1537415400,
+                    "author": [
+                        {
+                            "AuId": 2191878223,
+                            "AuN": "thomas lux"
+                        },
+                        {
+                            "AuId": 2036846023,
+                            "AuN": "michele marchesi"
+                        }
+                    ],
+                    "doi": "10.1038/17290",
+                    "journal": "nature",
+                    "title": "scaling and criticality in a stochastic multi agent model of a financial market",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 1916722811,
+                    "author": [
+                        {
+                            "AuId": 2147876126,
+                            "AuN": "cars hommes"
+                        },
+                        {
+                            "AuId": 2147876126,
+                            "AuN": "cars hommes"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.742384",
+                    "journal": "handbook of computational economics",
+                    "title": "heterogeneous agent models in economics and finance",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1514048016,
+                    "author": [
+                        {
+                            "AuId": 2720524592,
+                            "AuN": "larry eshelman"
+                        }
+                    ],
+                    "doi": "10.1016/B978-0-08-050684-5.50020-3",
+                    "title": "the chc adaptive search algorithm how to have safe search when engaging in nontraditional genetic recombination",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 1538160166,
+                    "author": [
+                        {
+                            "AuId": 2293517936,
+                            "AuN": "christian gourieroux"
+                        },
+                        {
+                            "AuId": 2131419872,
+                            "AuN": "alain monfort"
+                        }
+                    ],
+                    "title": "simulation based econometric methods",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2005711429,
+                    "author": [
+                        {
+                            "AuId": 1966018987,
+                            "AuN": "blake lebaron"
+                        }
+                    ],
+                    "doi": "10.1016/S0165-1889(99)00022-6",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "agent based computational finance suggested readings and early research",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2154531764,
+                    "author": [
+                        {
+                            "AuId": 727321868,
+                            "AuN": "paul windrum"
+                        },
+                        {
+                            "AuId": 335333855,
+                            "AuN": "giorgio fagiolo"
+                        },
+                        {
+                            "AuId": 1848953626,
+                            "AuN": "alessio moneta"
+                        }
+                    ],
+                    "journal": "journal of artificial societies and social simulation",
+                    "title": "empirical validation of agent based models alternatives and prospects",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2067178671,
+                    "author": [
+                        {
+                            "AuId": 2030530664,
+                            "AuN": "szabolcs mike"
+                        },
+                        {
+                            "AuId": 2138291554,
+                            "AuN": "j doyne farmer"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEDC.2007.01.025",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "an empirical behavioral model of liquidity and volatility",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1974765950,
+                    "author": [
+                        {
+                            "AuId": 2661370303,
+                            "AuN": "simone alfarano"
+                        },
+                        {
+                            "AuId": 2191878223,
+                            "AuN": "thomas lux"
+                        },
+                        {
+                            "AuId": 2098734810,
+                            "AuN": "friedrich wagner"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-005-6415-1",
+                    "journal": "computing in economics and finance",
+                    "title": "estimation of agent based models the case of an asymmetric herding model",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2152627601,
+                    "author": [
+                        {
+                            "AuId": 2164204011,
+                            "AuN": "t di matteo"
+                        }
+                    ],
+                    "doi": "10.1080/14697680600969727",
+                    "journal": "quantitative finance",
+                    "title": "multi scaling in finance",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1559920903,
+                    "author": [
+                        {
+                            "AuId": 2074689623,
+                            "AuN": "matteo richiardi"
+                        },
+                        {
+                            "AuId": 2600942171,
+                            "AuN": "roberto leombruni"
+                        },
+                        {
+                            "AuId": 2712208256,
+                            "AuN": "nicole j saam"
+                        },
+                        {
+                            "AuId": 2963347299,
+                            "AuN": "michele sonnessa"
+                        }
+                    ],
+                    "journal": "journal of artificial societies and social simulation",
+                    "title": "a common protocol for agent based social simulation",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2171220845,
+                    "author": [
+                        {
+                            "AuId": 2138291554,
+                            "AuN": "j doyne farmer"
+                        },
+                        {
+                            "AuId": 2124033807,
+                            "AuN": "shareen joshi"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-2681(02)00065-3",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "the price dynamics of common trading strategies",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1964610230,
+                    "author": [
+                        {
+                            "AuId": 2157483772,
+                            "AuN": "robert e marks"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-007-9101-7",
+                    "journal": "computing in economics and finance",
+                    "title": "validating simulation models a general framework and four applied examples",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2115844007,
+                    "author": [
+                        {
+                            "AuId": 2164204011,
+                            "AuN": "t di matteo"
+                        },
+                        {
+                            "AuId": 2137894986,
+                            "AuN": "tomaso aste"
+                        },
+                        {
+                            "AuId": 2965880160,
+                            "AuN": "michel m dacorogna"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-4371(02)01996-9",
+                    "journal": "physica a statistical mechanics and its applications",
+                    "title": "scaling behaviors in differently developed markets",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2112519077,
+                    "author": [
+                        {
+                            "AuId": 1979063082,
+                            "AuN": "thomas brenner"
+                        },
+                        {
+                            "AuId": 2199248056,
+                            "AuN": "claudia werker"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-007-9102-6",
+                    "journal": "computing in economics and finance",
+                    "title": "a taxonomy of inference in simulation models",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 39937779,
+                    "author": [
+                        {
+                            "AuId": 2091206018,
+                            "AuN": "domenico delli gatti"
+                        },
+                        {
+                            "AuId": 2582193569,
+                            "AuN": "saul desiderio"
+                        },
+                        {
+                            "AuId": 1999374583,
+                            "AuN": "edoardo gaffeo"
+                        },
+                        {
+                            "AuId": 2232183361,
+                            "AuN": "pasquale cirillo"
+                        },
+                        {
+                            "AuId": 433801252,
+                            "AuN": "mauro gallegati"
+                        }
+                    ],
+                    "title": "macroeconomics from the bottom up",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2128903520,
+                    "author": [
+                        {
+                            "AuId": 335333855,
+                            "AuN": "giorgio fagiolo"
+                        },
+                        {
+                            "AuId": 1848953626,
+                            "AuN": "alessio moneta"
+                        },
+                        {
+                            "AuId": 727321868,
+                            "AuN": "paul windrum"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-007-9104-4",
+                    "journal": "computing in economics and finance",
+                    "title": "a critical guide to empirical validation of agent based models in economics methodologies procedures and open problems",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1986502331,
+                    "author": [
+                        {
+                            "AuId": 294191850,
+                            "AuN": "marco raberto"
+                        },
+                        {
+                            "AuId": 75700234,
+                            "AuN": "andrea teglio"
+                        },
+                        {
+                            "AuId": 1754423149,
+                            "AuN": "silvano cincotti"
+                        }
+                    ],
+                    "doi": "10.5018/ECONOMICS-EJOURNAL.JA.2012-27",
+                    "journal": "economics the open access open assessment e journal",
+                    "title": "debt deleveraging and business cycles an agent based perspective",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1970495888,
+                    "author": [
+                        {
+                            "AuId": 2504299524,
+                            "AuN": "richard h day"
+                        },
+                        {
+                            "AuId": 2250792221,
+                            "AuN": "weihong huang"
+                        }
+                    ],
+                    "doi": "10.1016/0167-2681(90)90061-H",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "bulls bears and market sheep",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2079940549,
+                    "author": [
+                        {
+                            "AuId": 2002865053,
+                            "AuN": "manfred gilli"
+                        },
+                        {
+                            "AuId": 302563693,
+                            "AuN": "peter winker"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-9473(02)00214-1",
+                    "journal": "computational statistics & data analysis",
+                    "title": "a global optimization heuristic for estimating agent based models",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 285272166,
+                    "author": [
+                        {
+                            "AuId": 302563693,
+                            "AuN": "peter winker"
+                        }
+                    ],
+                    "title": "optimization heuristics in econometrics applications of threshold accepting",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1987483064,
+                    "author": [
+                        {
+                            "AuId": 2600942171,
+                            "AuN": "roberto leombruni"
+                        },
+                        {
+                            "AuId": 2074689623,
+                            "AuN": "matteo richiardi"
+                        }
+                    ],
+                    "doi": "10.1016/J.PHYSA.2005.02.072",
+                    "journal": "physica a statistical mechanics and its applications",
+                    "title": "why are economists sceptical about agent based simulations",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 9730082,
+                    "author": [
+                        {
+                            "AuId": 2052494809,
+                            "AuN": "benoit calvez"
+                        },
+                        {
+                            "AuId": 150338285,
+                            "AuN": "guillaume hutzler"
+                        }
+                    ],
+                    "doi": "10.1007/11734680_4",
+                    "title": "automatic tuning of agent based models using genetic algorithms",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2018203351,
+                    "author": [
+                        {
+                            "AuId": 302563693,
+                            "AuN": "peter winker"
+                        },
+                        {
+                            "AuId": 2002865053,
+                            "AuN": "manfred gilli"
+                        },
+                        {
+                            "AuId": 2233672274,
+                            "AuN": "vahidin jeleskovic"
+                        }
+                    ],
+                    "doi": "10.1007/S11403-007-0020-4",
+                    "journal": "journal of economic interaction and coordination",
+                    "title": "an objective function for simulation based inference on exchange rate data",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2476690353,
+                    "author": [
+                        {
+                            "AuId": 2175001495,
+                            "AuN": "jaime simao sichman"
+                        },
+                        {
+                            "AuId": 2320253462,
+                            "AuN": "luis antunes"
+                        }
+                    ],
+                    "doi": "10.1007/11734680",
+                    "title": "multi agent based simulation vi",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2062831891,
+                    "author": [
+                        {
+                            "AuId": 2295900239,
+                            "AuN": "carlo bianchi"
+                        },
+                        {
+                            "AuId": 2311373262,
+                            "AuN": "pasquale cirillo"
+                        },
+                        {
+                            "AuId": 433801252,
+                            "AuN": "mauro gallegati"
+                        },
+                        {
+                            "AuId": 2308482707,
+                            "AuN": "pietro a vagliasindi"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-007-9097-Z",
+                    "journal": "computing in economics and finance",
+                    "title": "validating and calibrating agent based models a case study",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1998829022,
+                    "author": [
+                        {
+                            "AuId": 2091206018,
+                            "AuN": "domenico delli gatti"
+                        },
+                        {
+                            "AuId": 433801252,
+                            "AuN": "mauro gallegati"
+                        },
+                        {
+                            "AuId": 2037474712,
+                            "AuN": "gianfranco giulioni"
+                        },
+                        {
+                            "AuId": 2147947159,
+                            "AuN": "antonio palestrini"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-2681(02)00138-5",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "financial fragility patterns of firms entry and exit and aggregate dynamics",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1675349284,
+                    "author": [
+                        {
+                            "AuId": 2950826511,
+                            "AuN": "iryna veryzhenko"
+                        },
+                        {
+                            "AuId": 1899711990,
+                            "AuN": "olivier brandouy"
+                        },
+                        {
+                            "AuId": 2118405351,
+                            "AuN": "philippe mathieu"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-13947-5_1",
+                    "title": "agent s minimal intelligence calibration for realistic market dynamics",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1995018414,
+                    "author": [
+                        {
+                            "AuId": 2232183361,
+                            "AuN": "pasquale cirillo"
+                        },
+                        {
+                            "AuId": 433801252,
+                            "AuN": "mauro gallegati"
+                        }
+                    ],
+                    "doi": "10.1057/EEJ.2011.34",
+                    "journal": "eastern economic journal",
+                    "title": "the empirical validation of an agent based model",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2085456574,
+                    "author": [
+                        {
+                            "AuId": 2295900239,
+                            "AuN": "carlo bianchi"
+                        },
+                        {
+                            "AuId": 2311373262,
+                            "AuN": "pasquale cirillo"
+                        },
+                        {
+                            "AuId": 433801252,
+                            "AuN": "mauro gallegati"
+                        },
+                        {
+                            "AuId": 2308482707,
+                            "AuN": "pietro a vagliasindi"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEBO.2007.08.008",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "validation in agent based models an investigation on the cats model",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2281856485,
+                    "author": [
+                        {
+                            "AuId": 2207143301,
+                            "AuN": "alex rogers"
+                        },
+                        {
+                            "AuId": 2649638025,
+                            "AuN": "peter von tessin"
+                        }
+                    ],
+                    "title": "multi objective calibration for agent based models",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1991168780,
+                    "author": [
+                        {
+                            "AuId": 2080185406,
+                            "AuN": "paolo pellizzari"
+                        },
+                        {
+                            "AuId": 2165046933,
+                            "AuN": "arianna dal forno"
+                        }
+                    ],
+                    "doi": "10.1007/S11403-006-0016-5",
+                    "journal": "journal of economic interaction and coordination",
+                    "title": "a comparison of different trading protocols in an agent based market",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2281013117,
+                    "author": [
+                        {
+                            "AuId": 2787915813,
+                            "AuN": "marco li calzi"
+                        },
+                        {
+                            "AuId": 2100284340,
+                            "AuN": "lucia milone"
+                        },
+                        {
+                            "AuId": 2080185406,
+                            "AuN": "paolo pellizzari"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-13947-5",
+                    "title": "progress in artificial economics",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2078136197,
+                    "author": [
+                        {
+                            "AuId": 2716731053,
+                            "AuN": "d a darling"
+                        }
+                    ],
+                    "doi": "10.1214/AOMS/1177706788",
+                    "journal": "annals of mathematical statistics",
+                    "title": "the kolmogorov smirnov cramer von mises tests",
+                    "year_mag": 1957
+                },
+                {
+                    "PId": 1875293200,
+                    "author": [
+                        {
+                            "AuId": 2121008568,
+                            "AuN": "annalisa fabretti"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-19917-2_1",
+                    "title": "calibration of an agent based model for financial markets",
+                    "year_mag": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Raberto",
+                            "given": "Marco",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Teglio",
+                            "given": "Andrea",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Cincotti",
+                            "given": "Silvano",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1973855",
+                    "title": "debt deleveraging and business cycles an agent based perspective",
+                    "year_oc": 2011
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2604765399,
+                    "author": [
+                        {
+                            "AuId": 1469503772,
+                            "AuN": "francesco lamperti"
+                        },
+                        {
+                            "AuId": 1988567452,
+                            "AuN": "andrea roventini"
+                        },
+                        {
+                            "AuId": 2171376102,
+                            "AuN": "amir sani"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEDC.2018.03.011",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "agent based model calibration using machine learning surrogates",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2337524925,
+                    "author": [
+                        {
+                            "AuId": 335333855,
+                            "AuN": "giorgio fagiolo"
+                        },
+                        {
+                            "AuId": 1988567452,
+                            "AuN": "andrea roventini"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2763735",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "macroeconomic policy in dsge and agent based models redux new developments and challenges ahead",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2044678804,
+                    "author": [
+                        {
+                            "AuId": 1921030147,
+                            "AuN": "jakob grazzini"
+                        },
+                        {
+                            "AuId": 2074689623,
+                            "AuN": "matteo richiardi"
+                        },
+                        {
+                            "AuId": 2074689623,
+                            "AuN": "matteo richiardi"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEDC.2014.10.006",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "estimation of ergodic agent based models by simulated minimum distance",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2603590941,
+                    "author": [
+                        {
+                            "AuId": 1921030147,
+                            "AuN": "jakob grazzini"
+                        },
+                        {
+                            "AuId": 2074689623,
+                            "AuN": "matteo richiardi"
+                        },
+                        {
+                            "AuId": 2235722523,
+                            "AuN": "mike g tsionas"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEDC.2017.01.014",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "bayesian estimation of agent based models",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3005564061,
+                    "author": [
+                        {
+                            "AuId": 2977999582,
+                            "AuN": "donovan platt"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEDC.2020.103859",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "a comparison of economic agent based model calibration methods",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2914607278,
+                    "author": [
+                        {
+                            "AuId": 2977999582,
+                            "AuN": "donovan platt"
+                        }
+                    ],
+                    "journal": "journal of economic dynamics and control",
+                    "title": "a comparison of economic agent based model calibration methods",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2291217553,
+                    "author": [
+                        {
+                            "AuId": 1877103077,
+                            "AuN": "parastu kasaie"
+                        },
+                        {
+                            "AuId": 1483206779,
+                            "AuN": "w david kelton"
+                        }
+                    ],
+                    "doi": "10.1109/WSC.2015.7408163",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "guidelines for design and analysis in agent based simulation studies",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2782541394,
+                    "author": [
+                        {
+                            "AuId": 335333855,
+                            "AuN": "giorgio fagiolo"
+                        },
+                        {
+                            "AuId": 2301789395,
+                            "AuN": "mattia guerini"
+                        },
+                        {
+                            "AuId": 2301789395,
+                            "AuN": "mattia guerini"
+                        },
+                        {
+                            "AuId": 1469503772,
+                            "AuN": "francesco lamperti"
+                        },
+                        {
+                            "AuId": 1848953626,
+                            "AuN": "alessio moneta"
+                        },
+                        {
+                            "AuId": 1988567452,
+                            "AuN": "andrea roventini"
+                        },
+                        {
+                            "AuId": 1988567452,
+                            "AuN": "andrea roventini"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-70766-2_31",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "validation of agent based models in economics and finance",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 72683299,
+                    "author": [
+                        {
+                            "AuId": 1469503772,
+                            "AuN": "francesco lamperti"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2570828",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "an information theoretic criterion for empirical validation of time series models",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2952890647,
+                    "author": [
+                        {
+                            "AuId": 2977999582,
+                            "AuN": "donovan platt"
+                        }
+                    ],
+                    "journal": "journal of economic dynamics and control",
+                    "title": "bayesian estimation of economic simulation models using neural networks",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2507245649,
+                    "author": [
+                        {
+                            "AuId": 2163456890,
+                            "AuN": "mark read"
+                        },
+                        {
+                            "AuId": 2487214093,
+                            "AuN": "jacqueline bailey"
+                        },
+                        {
+                            "AuId": 2135857762,
+                            "AuN": "jon timmis"
+                        },
+                        {
+                            "AuId": 2617342839,
+                            "AuN": "tatyana chtanova"
+                        },
+                        {
+                            "AuId": 2617342839,
+                            "AuN": "tatyana chtanova"
+                        }
+                    ],
+                    "doi": "10.1371/JOURNAL.PCBI.1005082",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "leukocyte motility models assessed through simulation and multi objective optimization based model selection",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2750674792,
+                    "author": [
+                        {
+                            "AuId": 71046039,
+                            "AuN": "barbara llacay"
+                        },
+                        {
+                            "AuId": 2005790005,
+                            "AuN": "gilbert peffer"
+                        }
+                    ],
+                    "doi": "10.1007/S10588-017-9258-0",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "using realistic trading strategies in an agent based stock market model",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2036304850,
+                    "author": [
+                        {
+                            "AuId": 2118460571,
+                            "AuN": "peter j haas"
+                        }
+                    ],
+                    "doi": "10.1145/2594538.2594562",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "model data ecosystems challenges tools and trends",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2520514472,
+                    "author": [
+                        {
+                            "AuId": 2163456890,
+                            "AuN": "mark read"
+                        },
+                        {
+                            "AuId": 2122592526,
+                            "AuN": "kieran alden"
+                        },
+                        {
+                            "AuId": 3004828779,
+                            "AuN": "lois m rose"
+                        },
+                        {
+                            "AuId": 2570074626,
+                            "AuN": "jonathan timmis"
+                        }
+                    ],
+                    "doi": "10.1098/RSIF.2016.0543",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "automated multi objective calibration of biological agent based simulations",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2889964088,
+                    "author": [
+                        {
+                            "AuId": 2163456890,
+                            "AuN": "mark read"
+                        },
+                        {
+                            "AuId": 2122592526,
+                            "AuN": "kieran alden"
+                        },
+                        {
+                            "AuId": 2135857762,
+                            "AuN": "jon timmis"
+                        },
+                        {
+                            "AuId": 2136581860,
+                            "AuN": "paul s andrews"
+                        }
+                    ],
+                    "doi": "10.1093/BIB/BBY092",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "strategies for calibrating models of biology",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 3048099662,
+                    "author": [
+                        {
+                            "AuId": 3068207167,
+                            "AuN": "johann lussange"
+                        },
+                        {
+                            "AuId": 2635970546,
+                            "AuN": "alexis belianin"
+                        },
+                        {
+                            "AuId": 304028527,
+                            "AuN": "sacha bourgeoisgironde"
+                        },
+                        {
+                            "AuId": 304028527,
+                            "AuN": "sacha bourgeoisgironde"
+                        },
+                        {
+                            "AuId": 1601277938,
+                            "AuN": "boris gutkin"
+                        },
+                        {
+                            "AuId": 1601277938,
+                            "AuN": "boris gutkin"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-55190-2_19",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "learning and cognition in financial markets a paradigm shift for agent based models",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2299412299,
+                    "author": [
+                        {
+                            "AuId": 2274241480,
+                            "AuN": "alexandru mandes"
+                        },
+                        {
+                            "AuId": 302563693,
+                            "AuN": "peter winker"
+                        }
+                    ],
+                    "doi": "10.1007/S11403-016-0173-0",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "complexity and model comparison in agent based modeling of financial markets",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 1510917059,
+                    "author": [
+                        {
+                            "AuId": 1921030147,
+                            "AuN": "jakob grazzini"
+                        },
+                        {
+                            "AuId": 2074689623,
+                            "AuN": "matteo richiardi"
+                        }
+                    ],
+                    "journal": "journal of economic dynamics and control",
+                    "title": "consistent estimation of agent based models by simulated minimum distance",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2434802258,
+                    "author": [
+                        {
+                            "AuId": 1469503772,
+                            "AuN": "francesco lamperti"
+                        }
+                    ],
+                    "doi": "10.1007/S11403-017-0206-3",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "empirical validation of simulated models through the gsl div an illustrative application",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2562878792,
+                    "author": [
+                        {
+                            "AuId": 1966018987,
+                            "AuN": "blake lebaron"
+                        }
+                    ],
+                    "doi": "10.1140/EPJST/E2016-60123-4",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "financial price dynamics and agent based models as inspired by benoit mandelbrot",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 3007004752,
+                    "author": [
+                        {
+                            "AuId": 3012520271,
+                            "AuN": "raffaello seri"
+                        },
+                        {
+                            "AuId": 3007146064,
+                            "AuN": "mario martinoli"
+                        },
+                        {
+                            "AuId": 2597205013,
+                            "AuN": "davide secchi"
+                        },
+                        {
+                            "AuId": 1909799870,
+                            "AuN": "samuele centorrino"
+                        }
+                    ],
+                    "doi": "10.1016/J.ECOSTA.2020.01.001",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "model calibration and validation via confidence sets",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2559529379,
+                    "author": [
+                        {
+                            "AuId": 2914370641,
+                            "AuN": "donovan platt"
+                        },
+                        {
+                            "AuId": 2016093613,
+                            "AuN": "tim gebbie"
+                        }
+                    ],
+                    "doi": "10.1016/J.PHYSA.2018.08.055",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "can agent based models probe market microstructure",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2745416426,
+                    "author": [
+                        {
+                            "AuId": 2261099186,
+                            "AuN": "paola dorazio"
+                        }
+                    ],
+                    "doi": "10.1080/1350178X.2017.1362151",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "big data and complexity is macroeconomics heading toward a new paradigm",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2892057044,
+                    "author": [
+                        {
+                            "AuId": 2121008568,
+                            "AuN": "annalisa fabretti"
+                        }
+                    ],
+                    "doi": "10.1007/S10115-018-1258-Y",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "markov chain analysis in agent based model calibration by classical and simulated minimum distance",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3091079486,
+                    "author": [
+                        {
+                            "AuId": 3090854701,
+                            "AuN": "g rigatos"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-020-10048-8",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "statistical validation of multi agent financial models using the h infinity kalman filter",
+                    "year_mag": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1007/S11403-012-0096-3",
+            "journal": "JOURNAL OF ECONOMIC INTERACTION AND COORDINATION",
+            "title": "on the problem of calibrating an agent based model for financial markets",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "978-94-007-3867-6"
+            ],
+            "PId": 36411675,
+            "cited": [
+                {
+                    "PId": 2015152948,
+                    "author": [
+                        {
+                            "AuId": 2114740010,
+                            "AuN": "harrison g hong"
+                        },
+                        {
+                            "AuId": 94648829,
+                            "AuN": "marcin t kacperczyk"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.766465",
+                    "journal": "journal of financial economics",
+                    "title": "the price of sin the effects of social norms on markets",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2072656291,
+                    "author": [
+                        {
+                            "AuId": 1972019807,
+                            "AuN": "alexander kempf"
+                        },
+                        {
+                            "AuId": 664333658,
+                            "AuN": "peer osthoff"
+                        }
+                    ],
+                    "doi": "10.1111/J.1468-036X.2007.00402.X",
+                    "journal": "european financial management",
+                    "title": "the effect of socially responsible investing on portfolio performance",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2130295822,
+                    "author": [
+                        {
+                            "AuId": 2102648708,
+                            "AuN": "christopher c geczy"
+                        },
+                        {
+                            "AuId": 2159456736,
+                            "AuN": "robert f stambaugh"
+                        },
+                        {
+                            "AuId": 2159456736,
+                            "AuN": "robert f stambaugh"
+                        },
+                        {
+                            "AuId": 2570109944,
+                            "AuN": "david levin"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.416380",
+                    "title": "investing in socially responsible mutual funds",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2101623803,
+                    "author": [
+                        {
+                            "AuId": 698303772,
+                            "AuN": "robert heinkel"
+                        },
+                        {
+                            "AuId": 2113099500,
+                            "AuN": "alan kraus"
+                        },
+                        {
+                            "AuId": 1784664299,
+                            "AuN": "josef zechner"
+                        }
+                    ],
+                    "doi": "10.2307/2676219",
+                    "journal": "journal of financial and quantitative analysis",
+                    "title": "the effect of green investment on corporate behavior",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2115451547,
+                    "author": [
+                        {
+                            "AuId": 1997599556,
+                            "AuN": "rob bauer"
+                        },
+                        {
+                            "AuId": 2056292442,
+                            "AuN": "jeroen derwall"
+                        },
+                        {
+                            "AuId": 2056292442,
+                            "AuN": "jeroen derwall"
+                        },
+                        {
+                            "AuId": 2997758059,
+                            "AuN": "roga r otten"
+                        }
+                    ],
+                    "doi": "10.1007/S10551-006-9099-0",
+                    "journal": "journal of business ethics",
+                    "title": "the ethical mutual fund performance debate new evidence from canada",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1485843107,
+                    "author": [
+                        {
+                            "AuId": 175544710,
+                            "AuN": "david m kreps"
+                        }
+                    ],
+                    "journal": "the american economic review",
+                    "title": "intrinsic motivation and extrinsic incentives",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2127999994,
+                    "author": [
+                        {
+                            "AuId": 2965439137,
+                            "AuN": "sally hamilton"
+                        },
+                        {
+                            "AuId": 2145928563,
+                            "AuN": "hoje jo"
+                        },
+                        {
+                            "AuId": 729289891,
+                            "AuN": "meir statman"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V49.N6.62",
+                    "journal": "financial analysts journal",
+                    "title": "doing well while doing good the investment performance of socially responsible mutual funds",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 9958981,
+                    "author": [
+                        {
+                            "AuId": 2165014643,
+                            "AuN": "franklin r edwards"
+                        },
+                        {
+                            "AuId": 2305507664,
+                            "AuN": "mustafa onur caglayan"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.281524",
+                    "journal": "journal of futures markets",
+                    "title": "hedge fund performance and manager skill",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2118475506,
+                    "author": [
+                        {
+                            "AuId": 2197419791,
+                            "AuN": "michael c jensen"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.244153",
+                    "journal": "journal of finance",
+                    "title": "the performance of mutual funds in the period 1945 1964",
+                    "year_mag": 1968
+                },
+                {
+                    "PId": 1996473235,
+                    "author": [
+                        {
+                            "AuId": 66970793,
+                            "AuN": "anat r admati"
+                        },
+                        {
+                            "AuId": 2012260433,
+                            "AuN": "paul pfleiderer"
+                        }
+                    ],
+                    "doi": "10.1086/209721",
+                    "journal": "the journal of business",
+                    "title": "does it all add up benchmarks and the compensation of active portfolio managers",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2039901356,
+                    "author": [
+                        {
+                            "AuId": 2715170678,
+                            "AuN": "t daniel coggin"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        },
+                        {
+                            "AuId": 2647736894,
+                            "AuN": "shafiqur rahman"
+                        }
+                    ],
+                    "title": "the investment performance of u s equity pension fund managers an empirical investigation",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2239636253,
+                    "author": [
+                        {
+                            "AuId": 198555141,
+                            "AuN": "livio stracca"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-6419.2006.00271.X",
+                    "journal": "journal of economic surveys",
+                    "title": "delegated portfolio management a survey of the theoretical literature",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2094269132,
+                    "author": [
+                        {
+                            "AuId": 698303772,
+                            "AuN": "robert heinkel"
+                        },
+                        {
+                            "AuId": 2620633635,
+                            "AuN": "neal m stoughton"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/7.2.351",
+                    "journal": "review of financial studies",
+                    "title": "the dynamics of portfolio management contracts",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1990732230,
+                    "author": [
+                        {
+                            "AuId": 2134114546,
+                            "AuN": "greig a mill"
+                        }
+                    ],
+                    "doi": "10.1007/S10551-005-2410-7",
+                    "journal": "journal of business ethics",
+                    "title": "the financial performance of a socially responsible investment over time and a possible link with corporate social responsibility",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1966927913,
+                    "author": [
+                        {
+                            "AuId": 2790153052,
+                            "AuN": "sudipto bhattacharya"
+                        },
+                        {
+                            "AuId": 2012260433,
+                            "AuN": "paul pfleiderer"
+                        }
+                    ],
+                    "doi": "10.1016/0022-0531(85)90076-6",
+                    "journal": "journal of economic theory",
+                    "title": "delegated portfolio management",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2010844077,
+                    "author": [
+                        {
+                            "AuId": 2599165657,
+                            "AuN": "lloyd kurtz"
+                        }
+                    ],
+                    "doi": "10.3905/JOI.1997.37",
+                    "journal": "the journal of investing",
+                    "title": "no effect or no net effect studies on socially responsible investing",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2000878854,
+                    "author": [
+                        {
+                            "AuId": 2620633635,
+                            "AuN": "neal m stoughton"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1993.TB05140.X",
+                    "journal": "journal of finance",
+                    "title": "moral hazard and the portfolio management problem",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1969457341,
+                    "author": [
+                        {
+                            "AuId": 1967221115,
+                            "AuN": "ian tonks"
+                        }
+                    ],
+                    "doi": "10.1086/JB.2005.78.ISSUE-5",
+                    "journal": "the journal of business",
+                    "title": "performance persistence of pension fund managers",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2024861287,
+                    "author": [
+                        {
+                            "AuId": 2734484015,
+                            "AuN": "c wei li"
+                        },
+                        {
+                            "AuId": 2180116096,
+                            "AuN": "ashish tiwari"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/HHP013",
+                    "journal": "review of financial studies",
+                    "title": "incentive contracts in delegated portfolio management",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2012985532,
+                    "author": [
+                        {
+                            "AuId": 2043450111,
+                            "AuN": "stefano herzel"
+                        },
+                        {
+                            "AuId": 2010047010,
+                            "AuN": "marco nicolosi"
+                        },
+                        {
+                            "AuId": 2024530036,
+                            "AuN": "catalin starica"
+                        }
+                    ],
+                    "doi": "10.1080/1351847X.2011.587521",
+                    "journal": "european journal of finance",
+                    "title": "the cost of sustainability in optimal portfolio decisions",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2100889016,
+                    "author": [
+                        {
+                            "AuId": 2121008568,
+                            "AuN": "annalisa fabretti"
+                        },
+                        {
+                            "AuId": 2043450111,
+                            "AuN": "stefano herzel"
+                        }
+                    ],
+                    "doi": "10.1080/1351847X.2011.579746",
+                    "journal": "european journal of finance",
+                    "title": "delegated portfolio management with socially responsible investment constraints",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1559722797,
+                    "author": [
+                        {
+                            "AuId": 2043450111,
+                            "AuN": "stefano herzel"
+                        },
+                        {
+                            "AuId": 2010047010,
+                            "AuN": "marco nicolosi"
+                        },
+                        {
+                            "AuId": 2024530036,
+                            "AuN": "catalin starica"
+                        }
+                    ],
+                    "title": "the cost of sustainability on optimal portfolio choices",
+                    "year_mag": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Edwards",
+                            "given": "Franklin R.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Caglayan",
+                            "given": "Mustafa Onur",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1002/FUT.2102",
+                    "title": "hedge fund performance and manager skill",
+                    "year_oc": 2001
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hong",
+                            "given": "Harrison",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Kacperczyk",
+                            "given": "Marcin",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2008.09.001",
+                    "title": "the price of sin the effects of social norms on markets",
+                    "year_oc": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Tonks",
+                            "given": "Ian",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1086/431447",
+                    "title": "performance persistence of pension fund managers ",
+                    "year_oc": 2005
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Rochester College of Business; United States"
+                                }
+                            ],
+                            "family": "Jensen",
+                            "given": "Michael C.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1968.TB00815.X",
+                    "title": "the performance of mutual funds in the period 1945 1964",
+                    "year_oc": 1968
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "COGGIN",
+                            "given": "T. DANIEL",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "FABOZZI",
+                            "given": "FRANK J.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "RAHMAN",
+                            "given": "SHAFIQUR",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1993.TB04029.X",
+                    "title": "the investment performance of u s equity pension fund managers an empirical investigation",
+                    "year_oc": 1993
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2907495267,
+                    "author": [
+                        {
+                            "AuId": 2647510061,
+                            "AuN": "alberto burchi"
+                        },
+                        {
+                            "AuId": 2763207933,
+                            "AuN": "duccio martelli"
+                        },
+                        {
+                            "AuId": 1991708113,
+                            "AuN": "paola musile tanzi"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-05014-6_6",
+                    "title": "sustainable and responsible investments same sea different fishes",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 981575595,
+                    "author": [
+                        {
+                            "AuId": 2272706787,
+                            "AuN": "daniel f just"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-658-04426-8_23",
+                    "title": "bayerische versicherungskammer wir mischen uns ein",
+                    "year_mag": 2014
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "doi": "10.1007/978-94-007-3867-6_9",
+            "title": "active management of socially responsible portfolios",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1351-847X"
+            ],
+            "PId": 2100889016,
+            "cited": [
+                {
+                    "PId": 2166215547,
+                    "author": [
+                        {
+                            "AuId": 2023750619,
+                            "AuN": "eugene f fama"
+                        },
+                        {
+                            "AuId": 2153576001,
+                            "AuN": "kenneth r french"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1992.TB04398.X",
+                    "journal": "journal of finance",
+                    "title": "the cross section of expected stock returns",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2138490239,
+                    "author": [
+                        {
+                            "AuId": 2665937737,
+                            "AuN": "blackfischer"
+                        },
+                        {
+                            "AuId": 2578133489,
+                            "AuN": "littermanrobert"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V48.N5.28",
+                    "journal": "financial analysts journal",
+                    "title": "global portfolio optimization",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2072656291,
+                    "author": [
+                        {
+                            "AuId": 1972019807,
+                            "AuN": "alexander kempf"
+                        },
+                        {
+                            "AuId": 664333658,
+                            "AuN": "peer osthoff"
+                        }
+                    ],
+                    "doi": "10.1111/J.1468-036X.2007.00402.X",
+                    "journal": "european financial management",
+                    "title": "the effect of socially responsible investing on portfolio performance",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2128023144,
+                    "author": [
+                        {
+                            "AuId": 2304749309,
+                            "AuN": "andres almazan"
+                        },
+                        {
+                            "AuId": 2476350930,
+                            "AuN": "keith c brown"
+                        },
+                        {
+                            "AuId": 2152952569,
+                            "AuN": "murray carlson"
+                        },
+                        {
+                            "AuId": 2192836549,
+                            "AuN": "david a chapman"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2003.05.007",
+                    "journal": "journal of financial economics",
+                    "title": "why constrain your mutual fund manager",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1527412032,
+                    "author": [
+                        {
+                            "AuId": 2163419371,
+                            "AuN": "stephen a ross"
+                        }
+                    ],
+                    "journal": "the american economic review",
+                    "title": "the economic theory of agency the principal s problem",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2115451547,
+                    "author": [
+                        {
+                            "AuId": 1997599556,
+                            "AuN": "rob bauer"
+                        },
+                        {
+                            "AuId": 2056292442,
+                            "AuN": "jeroen derwall"
+                        },
+                        {
+                            "AuId": 2056292442,
+                            "AuN": "jeroen derwall"
+                        },
+                        {
+                            "AuId": 2997758059,
+                            "AuN": "roga r otten"
+                        }
+                    ],
+                    "doi": "10.1007/S10551-006-9099-0",
+                    "journal": "journal of business ethics",
+                    "title": "the ethical mutual fund performance debate new evidence from canada",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1485843107,
+                    "author": [
+                        {
+                            "AuId": 175544710,
+                            "AuN": "david m kreps"
+                        }
+                    ],
+                    "journal": "the american economic review",
+                    "title": "intrinsic motivation and extrinsic incentives",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2102789007,
+                    "author": [
+                        {
+                            "AuId": 2159148822,
+                            "AuN": "s p kothari"
+                        },
+                        {
+                            "AuId": 2130812939,
+                            "AuN": "jerold b warner"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.75871",
+                    "journal": "journal of finance",
+                    "title": "evaluating mutual fund performance",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1996473235,
+                    "author": [
+                        {
+                            "AuId": 66970793,
+                            "AuN": "anat r admati"
+                        },
+                        {
+                            "AuId": 2012260433,
+                            "AuN": "paul pfleiderer"
+                        }
+                    ],
+                    "doi": "10.1086/209721",
+                    "journal": "the journal of business",
+                    "title": "does it all add up benchmarks and the compensation of active portfolio managers",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2130931348,
+                    "author": [
+                        {
+                            "AuId": 2900040652,
+                            "AuN": "shmuel kandel"
+                        },
+                        {
+                            "AuId": 2159456736,
+                            "AuN": "robert f stambaugh"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1995.TB05170.X",
+                    "journal": "journal of finance",
+                    "title": "portfolio inefficiency and the cross section of expected returns",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2239636253,
+                    "author": [
+                        {
+                            "AuId": 198555141,
+                            "AuN": "livio stracca"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-6419.2006.00271.X",
+                    "journal": "journal of economic surveys",
+                    "title": "delegated portfolio management a survey of the theoretical literature",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2094269132,
+                    "author": [
+                        {
+                            "AuId": 698303772,
+                            "AuN": "robert heinkel"
+                        },
+                        {
+                            "AuId": 2620633635,
+                            "AuN": "neal m stoughton"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/7.2.351",
+                    "journal": "review of financial studies",
+                    "title": "the dynamics of portfolio management contracts",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1973563023,
+                    "author": [
+                        {
+                            "AuId": 2617496028,
+                            "AuN": "robert wilson"
+                        }
+                    ],
+                    "doi": "10.2307/1909607",
+                    "journal": "econometrica",
+                    "title": "the theory of syndicates",
+                    "year_mag": 1968
+                },
+                {
+                    "PId": 1990732230,
+                    "author": [
+                        {
+                            "AuId": 2134114546,
+                            "AuN": "greig a mill"
+                        }
+                    ],
+                    "doi": "10.1007/S10551-005-2410-7",
+                    "journal": "journal of business ethics",
+                    "title": "the financial performance of a socially responsible investment over time and a possible link with corporate social responsibility",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1966927913,
+                    "author": [
+                        {
+                            "AuId": 2790153052,
+                            "AuN": "sudipto bhattacharya"
+                        },
+                        {
+                            "AuId": 2012260433,
+                            "AuN": "paul pfleiderer"
+                        }
+                    ],
+                    "doi": "10.1016/0022-0531(85)90076-6",
+                    "journal": "journal of economic theory",
+                    "title": "delegated portfolio management",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2000878854,
+                    "author": [
+                        {
+                            "AuId": 2620633635,
+                            "AuN": "neal m stoughton"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1993.TB05140.X",
+                    "journal": "journal of finance",
+                    "title": "moral hazard and the portfolio management problem",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2024861287,
+                    "author": [
+                        {
+                            "AuId": 2734484015,
+                            "AuN": "c wei li"
+                        },
+                        {
+                            "AuId": 2180116096,
+                            "AuN": "ashish tiwari"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/HHP013",
+                    "journal": "review of financial studies",
+                    "title": "incentive contracts in delegated portfolio management",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2121412112,
+                    "author": [
+                        {
+                            "AuId": 2304275211,
+                            "AuN": "juanpedro gomez"
+                        },
+                        {
+                            "AuId": 2192962789,
+                            "AuN": "tridib sharma"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.433846",
+                    "journal": "economic theory",
+                    "title": "portfolio delegation under short selling constraints",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1559722797,
+                    "author": [
+                        {
+                            "AuId": 2043450111,
+                            "AuN": "stefano herzel"
+                        },
+                        {
+                            "AuId": 2010047010,
+                            "AuN": "marco nicolosi"
+                        },
+                        {
+                            "AuId": 2024530036,
+                            "AuN": "catalin starica"
+                        }
+                    ],
+                    "title": "the cost of sustainability on optimal portfolio choices",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2074862948,
+                    "author": [
+                        {
+                            "AuId": 2121008568,
+                            "AuN": "annalisa fabretti"
+                        },
+                        {
+                            "AuId": 2043450111,
+                            "AuN": "stefano herzel"
+                        },
+                        {
+                            "AuId": 793586459,
+                            "AuN": "mustafa c pinar"
+                        }
+                    ],
+                    "doi": "10.1016/J.ORL.2014.02.002",
+                    "journal": "operations research letters",
+                    "title": "delegated portfolio management under ambiguity aversion",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2362050118,
+                    "author": [
+                        {
+                            "AuId": 2129040527,
+                            "AuN": "jiliang sheng"
+                        },
+                        {
+                            "AuId": 2117997112,
+                            "AuN": "xiaoting wang"
+                        },
+                        {
+                            "AuId": 2300194274,
+                            "AuN": "jun yang"
+                        }
+                    ],
+                    "doi": "10.1016/J.ECONMOD.2012.05.003",
+                    "journal": "economic modelling",
+                    "title": "incentive contracts in delegated portfolio management under var constraint",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2150855929,
+                    "author": [
+                        {
+                            "AuId": 2053591505,
+                            "AuN": "evalotta sundblad"
+                        },
+                        {
+                            "AuId": 2251512374,
+                            "AuN": "tommy garling"
+                        },
+                        {
+                            "AuId": 2088270799,
+                            "AuN": "anders biel"
+                        },
+                        {
+                            "AuId": 18631812,
+                            "AuN": "martin hedesstrom"
+                        }
+                    ],
+                    "title": "portfolio managers attitudes towards policy regulations of environmental reporting",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2414146263,
+                    "author": [
+                        {
+                            "AuId": 2255830907,
+                            "AuN": "dina leifer"
+                        }
+                    ],
+                    "journal": "nursing standard",
+                    "title": "does it all add up",
+                    "year_mag": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "G\u00f3mez",
+                            "given": "Juan-Pedro",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Sharma",
+                            "given": "Tridib",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S00199-004-0615-0",
+                    "title": "portfolio delegation under short selling constraints",
+                    "year_oc": 2006
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kothari",
+                            "given": "S. P.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Warner",
+                            "given": "Jerold B.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/0022-1082.00397",
+                    "title": "evaluating mutual fund performance",
+                    "year_oc": 2001
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2908862881,
+                    "author": [
+                        {
+                            "AuId": 2653648589,
+                            "AuN": "gaurav talan"
+                        },
+                        {
+                            "AuId": 2224188844,
+                            "AuN": "gagan deep sharma"
+                        }
+                    ],
+                    "doi": "10.3390/SU11020353",
+                    "journal": "sustainability",
+                    "title": "doing well by doing good a systematic review and research agenda for sustainable investment",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 36411675,
+                    "author": [
+                        {
+                            "AuId": 2121008568,
+                            "AuN": "annalisa fabretti"
+                        },
+                        {
+                            "AuId": 2043450111,
+                            "AuN": "stefano herzel"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-007-3867-6_9",
+                    "journal": "sustainability",
+                    "title": "active management of socially responsible portfolios",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2074862948,
+                    "author": [
+                        {
+                            "AuId": 2121008568,
+                            "AuN": "annalisa fabretti"
+                        },
+                        {
+                            "AuId": 2043450111,
+                            "AuN": "stefano herzel"
+                        },
+                        {
+                            "AuId": 793586459,
+                            "AuN": "mustafa c pinar"
+                        }
+                    ],
+                    "doi": "10.1016/J.ORL.2014.02.002",
+                    "journal": "sustainability",
+                    "title": "delegated portfolio management under ambiguity aversion",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1975610191,
+                    "author": [
+                        {
+                            "AuId": 793586459,
+                            "AuN": "mustafa c pinar"
+                        }
+                    ],
+                    "doi": "10.1080/02331934.2013.854785",
+                    "journal": "sustainability",
+                    "title": "static and dynamic var constrained portfolios with application to delegated portfolio management",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2362050118,
+                    "author": [
+                        {
+                            "AuId": 2129040527,
+                            "AuN": "jiliang sheng"
+                        },
+                        {
+                            "AuId": 2117997112,
+                            "AuN": "xiaoting wang"
+                        },
+                        {
+                            "AuId": 2300194274,
+                            "AuN": "jun yang"
+                        }
+                    ],
+                    "doi": "10.1016/J.ECONMOD.2012.05.003",
+                    "journal": "sustainability",
+                    "title": "incentive contracts in delegated portfolio management under var constraint",
+                    "year_mag": 2012
+                },
+                {
+                    "doi": "10.1111/1467-9698.5062",
+                    "title": "a financial institutions",
+                    "year_oc": 2012
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "doi": "10.1080/1351847X.2011.579746",
+            "journal": "EUROPEAN JOURNAL OF FINANCE",
+            "title": "delegated portfolio management with socially responsible investment constraints",
+            "type": "articolo in rivista",
+            "year": 2012
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 3021485190,
+            "title": "convex incentives in financial markets an agent based analysis",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2252626071,
+            "title": "delegated portfolio management under ambiguity aversion",
+            "type": "0",
+            "year_mag": 2014
+        },
+        {
+            "PId": 1875293200,
+            "cited": [
+                {
+                    "PId": 2100011707,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        }
+                    ],
+                    "doi": "10.1080/713665670",
+                    "journal": "quantitative finance",
+                    "title": "empirical properties of asset returns stylized facts and statistical issues",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1537415400,
+                    "author": [
+                        {
+                            "AuId": 2191878223,
+                            "AuN": "thomas lux"
+                        },
+                        {
+                            "AuId": 2036846023,
+                            "AuN": "michele marchesi"
+                        }
+                    ],
+                    "doi": "10.1038/17290",
+                    "journal": "nature",
+                    "title": "scaling and criticality in a stochastic multi agent model of a financial market",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 1916722811,
+                    "author": [
+                        {
+                            "AuId": 2147876126,
+                            "AuN": "cars hommes"
+                        },
+                        {
+                            "AuId": 2147876126,
+                            "AuN": "cars hommes"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.742384",
+                    "journal": "handbook of computational economics",
+                    "title": "heterogeneous agent models in economics and finance",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2005711429,
+                    "author": [
+                        {
+                            "AuId": 1966018987,
+                            "AuN": "blake lebaron"
+                        }
+                    ],
+                    "doi": "10.1016/S0165-1889(99)00022-6",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "agent based computational finance suggested readings and early research",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2154531764,
+                    "author": [
+                        {
+                            "AuId": 727321868,
+                            "AuN": "paul windrum"
+                        },
+                        {
+                            "AuId": 335333855,
+                            "AuN": "giorgio fagiolo"
+                        },
+                        {
+                            "AuId": 1848953626,
+                            "AuN": "alessio moneta"
+                        }
+                    ],
+                    "journal": "journal of artificial societies and social simulation",
+                    "title": "empirical validation of agent based models alternatives and prospects",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1974765950,
+                    "author": [
+                        {
+                            "AuId": 2661370303,
+                            "AuN": "simone alfarano"
+                        },
+                        {
+                            "AuId": 2191878223,
+                            "AuN": "thomas lux"
+                        },
+                        {
+                            "AuId": 2098734810,
+                            "AuN": "friedrich wagner"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-005-6415-1",
+                    "journal": "computing in economics and finance",
+                    "title": "estimation of agent based models the case of an asymmetric herding model",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2171220845,
+                    "author": [
+                        {
+                            "AuId": 2138291554,
+                            "AuN": "j doyne farmer"
+                        },
+                        {
+                            "AuId": 2124033807,
+                            "AuN": "shareen joshi"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-2681(02)00065-3",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "the price dynamics of common trading strategies",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1970495888,
+                    "author": [
+                        {
+                            "AuId": 2504299524,
+                            "AuN": "richard h day"
+                        },
+                        {
+                            "AuId": 2250792221,
+                            "AuN": "weihong huang"
+                        }
+                    ],
+                    "doi": "10.1016/0167-2681(90)90061-H",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "bulls bears and market sheep",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2079940549,
+                    "author": [
+                        {
+                            "AuId": 2002865053,
+                            "AuN": "manfred gilli"
+                        },
+                        {
+                            "AuId": 302563693,
+                            "AuN": "peter winker"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-9473(02)00214-1",
+                    "journal": "computational statistics & data analysis",
+                    "title": "a global optimization heuristic for estimating agent based models",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2018203351,
+                    "author": [
+                        {
+                            "AuId": 302563693,
+                            "AuN": "peter winker"
+                        },
+                        {
+                            "AuId": 2002865053,
+                            "AuN": "manfred gilli"
+                        },
+                        {
+                            "AuId": 2233672274,
+                            "AuN": "vahidin jeleskovic"
+                        }
+                    ],
+                    "doi": "10.1007/S11403-007-0020-4",
+                    "journal": "journal of economic interaction and coordination",
+                    "title": "an objective function for simulation based inference on exchange rate data",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1675349284,
+                    "author": [
+                        {
+                            "AuId": 2950826511,
+                            "AuN": "iryna veryzhenko"
+                        },
+                        {
+                            "AuId": 1899711990,
+                            "AuN": "olivier brandouy"
+                        },
+                        {
+                            "AuId": 2118405351,
+                            "AuN": "philippe mathieu"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-13947-5_1",
+                    "title": "agent s minimal intelligence calibration for realistic market dynamics",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2281856485,
+                    "author": [
+                        {
+                            "AuId": 2207143301,
+                            "AuN": "alex rogers"
+                        },
+                        {
+                            "AuId": 2649638025,
+                            "AuN": "peter von tessin"
+                        }
+                    ],
+                    "title": "multi objective calibration for agent based models",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1991168780,
+                    "author": [
+                        {
+                            "AuId": 2080185406,
+                            "AuN": "paolo pellizzari"
+                        },
+                        {
+                            "AuId": 2165046933,
+                            "AuN": "arianna dal forno"
+                        }
+                    ],
+                    "doi": "10.1007/S11403-006-0016-5",
+                    "journal": "journal of economic interaction and coordination",
+                    "title": "a comparison of different trading protocols in an agent based market",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2281013117,
+                    "author": [
+                        {
+                            "AuId": 2787915813,
+                            "AuN": "marco li calzi"
+                        },
+                        {
+                            "AuId": 2100284340,
+                            "AuN": "lucia milone"
+                        },
+                        {
+                            "AuId": 2080185406,
+                            "AuN": "paolo pellizzari"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-13947-5",
+                    "title": "progress in artificial economics",
+                    "year_mag": 2010
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 3098410993,
+                    "author": [
+                        {
+                            "AuId": 8432206,
+                            "AuN": "didier sornette"
+                        }
+                    ],
+                    "doi": "10.1088/0034-4885/77/6/062001",
+                    "journal": "arxiv general finance",
+                    "title": "physics and financial economics 1776 2014 puzzles ising and agent based models",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2128716449,
+                    "author": [
+                        {
+                            "AuId": 8432206,
+                            "AuN": "didier sornette"
+                        }
+                    ],
+                    "doi": "10.1088/0034-4885/77/6/062001",
+                    "journal": "arxiv general finance",
+                    "title": "physics and financial economics 1776 2014 puzzles ising and agent based models",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2040254201,
+                    "author": [
+                        {
+                            "AuId": 2121008568,
+                            "AuN": "annalisa fabretti"
+                        }
+                    ],
+                    "doi": "10.1007/S11403-012-0096-3",
+                    "journal": "arxiv general finance",
+                    "title": "on the problem of calibrating an agent based model for financial markets",
+                    "year_mag": 2013
+                }
+            ],
+            "doi": "10.1007/978-3-642-19917-2_1",
+            "title": "calibration of an agent based model for financial markets",
+            "type": "3",
+            "year_mag": 2011
+        },
+        {
+            "PId": 2584902286,
+            "doi": "10.18564/JASSS.3246",
+            "journal": "journal of artificial societies and social simulation",
+            "title": "an agent based model for a double auction with convex incentives",
+            "type": "1",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2238303616,
+            "title": "delegated portfolio management with ambiguity aversion",
+            "type": "0",
+            "year_mag": 2012
+        }
+    ]
+}

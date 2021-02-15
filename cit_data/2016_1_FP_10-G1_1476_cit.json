@@ -1,0 +1,2134 @@
+{
+    "AuIds": [
+        1984140747,
+        2577124851
+    ],
+    "fullname": [
+        "Mezzadri",
+        "Marco"
+    ],
+    "ind_anvur": [
+        "",
+        "",
+        "",
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0033-9725"
+            ],
+            "PId": 2591095665,
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "journal": "RASSEGNA ITALIANA DI LINGUISTICA APPLICATA",
+            "title": "testare la lingua per fini di studio spunti di riflessione",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788860087065"
+            ],
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "title": "apprendere insegnare e valutare l italiano per fini di studio di tipo generale un ponte tra la lingua per scopi comunicativi di base e le microlingue",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788869690730"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "3"
+            },
+            "title": "le politiche linguistiche europee tra continuita e cambiamento",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788820137953"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "4"
+            },
+            "title": "studiare in italiano all universita prospettive e strumenti ",
+            "type": "monografia o trattato scientifico",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788896582138"
+            ],
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "title": "lerni per vehikla linguo prikonsideroj rilate al clil",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "PId": 2256915213,
+            "cited": [
+                {
+                    "PId": 2150375089,
+                    "author": [
+                        {
+                            "AuId": 554564871,
+                            "AuN": "lawrence w barsalou"
+                        }
+                    ],
+                    "doi": "10.1017/S0140525X99002149",
+                    "journal": "behavioral and brain sciences",
+                    "title": "perceptual symbol systems",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2116146623,
+                    "author": [
+                        {
+                            "AuId": 2170709592,
+                            "AuN": "tania singer"
+                        },
+                        {
+                            "AuId": 2117357434,
+                            "AuN": "ben seymour"
+                        },
+                        {
+                            "AuId": 1784694816,
+                            "AuN": "john p odoherty"
+                        },
+                        {
+                            "AuId": 2679979864,
+                            "AuN": "holger kaube"
+                        },
+                        {
+                            "AuId": 2150100073,
+                            "AuN": "raymond j dolan"
+                        },
+                        {
+                            "AuId": 2263289388,
+                            "AuN": "c d frith"
+                        }
+                    ],
+                    "doi": "10.1126/SCIENCE.1093535",
+                    "journal": "science",
+                    "title": "empathy for pain involves the affective but not sensory components of pain",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1970287153,
+                    "author": [
+                        {
+                            "AuId": 2210954662,
+                            "AuN": "giovanni buccino"
+                        },
+                        {
+                            "AuId": 2044894804,
+                            "AuN": "ferdinand binkofski"
+                        },
+                        {
+                            "AuId": 2090761694,
+                            "AuN": "gereon r fink"
+                        },
+                        {
+                            "AuId": 74444541,
+                            "AuN": "luciano fadiga"
+                        },
+                        {
+                            "AuId": 2179611568,
+                            "AuN": "leonardo fogassi"
+                        },
+                        {
+                            "AuId": 36486834,
+                            "AuN": "vittorio gallese"
+                        },
+                        {
+                            "AuId": 2577838264,
+                            "AuN": "r j seitz"
+                        },
+                        {
+                            "AuId": 2842507946,
+                            "AuN": "karl zilles"
+                        },
+                        {
+                            "AuId": 2700312461,
+                            "AuN": "giacomo rizzolatti"
+                        },
+                        {
+                            "AuId": 2236132921,
+                            "AuN": "h j freund"
+                        }
+                    ],
+                    "doi": "10.1046/J.1460-9568.2001.01385.X",
+                    "journal": "european journal of neuroscience",
+                    "title": "action observation activates premotor and parietal areas in a somatotopic manner an fmri study",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2157853130,
+                    "author": [
+                        {
+                            "AuId": 36486834,
+                            "AuN": "vittorio gallese"
+                        },
+                        {
+                            "AuId": 194655116,
+                            "AuN": "george lakoff"
+                        }
+                    ],
+                    "doi": "10.1080/02643290442000310",
+                    "journal": "cognitive neuropsychology",
+                    "title": "the brain s concepts the role of the sensory motor system in conceptual knowledge",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2110475150,
+                    "author": [
+                        {
+                            "AuId": 2715961282,
+                            "AuN": "laurie carr"
+                        },
+                        {
+                            "AuId": 250068784,
+                            "AuN": "marco iacoboni"
+                        },
+                        {
+                            "AuId": 2034662171,
+                            "AuN": "mariecharlotte dubeau"
+                        },
+                        {
+                            "AuId": 1902330302,
+                            "AuN": "john c mazziotta"
+                        },
+                        {
+                            "AuId": 2168235175,
+                            "AuN": "gian luigi lenzi"
+                        }
+                    ],
+                    "doi": "10.1073/PNAS.0935845100",
+                    "journal": "proceedings of the national academy of sciences of the united states of america",
+                    "title": "neural mechanisms of empathy in humans a relay from neural systems for imitation to limbic areas",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2019924339,
+                    "author": [
+                        {
+                            "AuId": 2422108225,
+                            "AuN": "bruno wicker"
+                        },
+                        {
+                            "AuId": 2025082831,
+                            "AuN": "christian keysers"
+                        },
+                        {
+                            "AuId": 2025082831,
+                            "AuN": "christian keysers"
+                        },
+                        {
+                            "AuId": 339928418,
+                            "AuN": "jane plailly"
+                        },
+                        {
+                            "AuId": 2796674758,
+                            "AuN": "jean pierre royet"
+                        },
+                        {
+                            "AuId": 36486834,
+                            "AuN": "vittorio gallese"
+                        },
+                        {
+                            "AuId": 2700312461,
+                            "AuN": "giacomo rizzolatti"
+                        }
+                    ],
+                    "doi": "10.1016/S0896-6273(03)00679-2",
+                    "journal": "neuron",
+                    "title": "both of us disgusted in my insula the common neural basis of seeing and feeling disgust",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2167293745,
+                    "author": [
+                        {
+                            "AuId": 1797360221,
+                            "AuN": "arthur m glenberg"
+                        },
+                        {
+                            "AuId": 148951416,
+                            "AuN": "michael p kaschak"
+                        }
+                    ],
+                    "doi": "10.3758/BF03196313",
+                    "journal": "psychonomic bulletin & review",
+                    "title": "grounding language in action",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1975909437,
+                    "author": [
+                        {
+                            "AuId": 22565996,
+                            "AuN": "olaf hauk"
+                        },
+                        {
+                            "AuId": 293497841,
+                            "AuN": "ingrid s johnsrude"
+                        },
+                        {
+                            "AuId": 720043134,
+                            "AuN": "friedemann pulvermuller"
+                        }
+                    ],
+                    "doi": "10.1016/S0896-6273(03)00838-9",
+                    "journal": "neuron",
+                    "title": "somatotopic representation of action words in human motor and premotor cortex",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2136205836,
+                    "author": [
+                        {
+                            "AuId": 2153452855,
+                            "AuN": "marco tettamanti"
+                        },
+                        {
+                            "AuId": 2210954662,
+                            "AuN": "giovanni buccino"
+                        },
+                        {
+                            "AuId": 2308316592,
+                            "AuN": "maria cristina saccuman"
+                        },
+                        {
+                            "AuId": 36486834,
+                            "AuN": "vittorio gallese"
+                        },
+                        {
+                            "AuId": 2037082612,
+                            "AuN": "massimo danna"
+                        },
+                        {
+                            "AuId": 2046722508,
+                            "AuN": "paola scifo"
+                        },
+                        {
+                            "AuId": 2172420872,
+                            "AuN": "ferruccio fazio"
+                        },
+                        {
+                            "AuId": 2700312461,
+                            "AuN": "giacomo rizzolatti"
+                        },
+                        {
+                            "AuId": 2193000129,
+                            "AuN": "stefano f cappa"
+                        },
+                        {
+                            "AuId": 167268055,
+                            "AuN": "daniela perani"
+                        }
+                    ],
+                    "doi": "10.1162/0898929053124965",
+                    "journal": "journal of cognitive neuroscience",
+                    "title": "listening to action related sentences activates fronto parietal motor circuits",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2143740992,
+                    "author": [
+                        {
+                            "AuId": 1797360221,
+                            "AuN": "arthur m glenberg"
+                        }
+                    ],
+                    "doi": "10.1017/S0140525X97000010",
+                    "journal": "behavioral and brain sciences",
+                    "title": "what memory is for",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1965735313,
+                    "author": [
+                        {
+                            "AuId": 2672670595,
+                            "AuN": "m jeannerod"
+                        },
+                        {
+                            "AuId": 302460137,
+                            "AuN": "michael a arbib"
+                        },
+                        {
+                            "AuId": 2700312461,
+                            "AuN": "giacomo rizzolatti"
+                        },
+                        {
+                            "AuId": 2976797894,
+                            "AuN": "h sakata"
+                        }
+                    ],
+                    "doi": "10.1016/0166-2236(95)93921-J",
+                    "journal": "trends in neurosciences",
+                    "title": "grasping objects the cortical mechanisms of visuomotor transformation",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1967933442,
+                    "author": [
+                        {
+                            "AuId": 2127060853,
+                            "AuN": "martin h fischer"
+                        },
+                        {
+                            "AuId": 2569114698,
+                            "AuN": "rolf a zwaan"
+                        }
+                    ],
+                    "doi": "10.1080/17470210701623605",
+                    "journal": "quarterly journal of experimental psychology",
+                    "title": "embodied language a review of the role of the motor system in language comprehension",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2122254869,
+                    "author": [
+                        {
+                            "AuId": 2035844285,
+                            "AuN": "riitta hari"
+                        },
+                        {
+                            "AuId": 2898156910,
+                            "AuN": "miiamaaria v kujala"
+                        }
+                    ],
+                    "doi": "10.1152/PHYSREV.00041.2007",
+                    "journal": "physical review",
+                    "title": "brain basis of human social interaction from concepts to brain imaging",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1988082972,
+                    "author": [
+                        {
+                            "AuId": 1186446493,
+                            "AuN": "julie grezes"
+                        },
+                        {
+                            "AuId": 2659480767,
+                            "AuN": "jorge armony"
+                        },
+                        {
+                            "AuId": 2138502075,
+                            "AuN": "james b rowe"
+                        },
+                        {
+                            "AuId": 2460675117,
+                            "AuN": "r e passingham"
+                        },
+                        {
+                            "AuId": 2460675117,
+                            "AuN": "r e passingham"
+                        }
+                    ],
+                    "doi": "10.1016/S1053-8119(03)00042-9",
+                    "journal": "neuroimage",
+                    "title": "activations related to mirror and canonical neurones in the human brain an fmri study",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2883524685,
+                    "author": [
+                        {
+                            "AuId": 2700312461,
+                            "AuN": "giacomo rizzolatti"
+                        },
+                        {
+                            "AuId": 2429383963,
+                            "AuN": "r camarda"
+                        },
+                        {
+                            "AuId": 2179611568,
+                            "AuN": "leonardo fogassi"
+                        },
+                        {
+                            "AuId": 2255025698,
+                            "AuN": "maurizio gentilucci"
+                        },
+                        {
+                            "AuId": 2073732409,
+                            "AuN": "giuseppe luppino"
+                        },
+                        {
+                            "AuId": 1920470326,
+                            "AuN": "m matelli"
+                        }
+                    ],
+                    "doi": "10.1007/BF00248742",
+                    "journal": "experimental brain research",
+                    "title": "functional organization of inferior area 6 in the macaque monkey ii area f5 and the control of distal movements",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2106780544,
+                    "author": [
+                        {
+                            "AuId": 2210954662,
+                            "AuN": "giovanni buccino"
+                        },
+                        {
+                            "AuId": 2461105959,
+                            "AuN": "lucia riggio"
+                        },
+                        {
+                            "AuId": 2647074074,
+                            "AuN": "g melli"
+                        },
+                        {
+                            "AuId": 2044894804,
+                            "AuN": "ferdinand binkofski"
+                        },
+                        {
+                            "AuId": 36486834,
+                            "AuN": "vittorio gallese"
+                        },
+                        {
+                            "AuId": 2700312461,
+                            "AuN": "giacomo rizzolatti"
+                        }
+                    ],
+                    "doi": "10.1016/J.COGBRAINRES.2005.02.020",
+                    "journal": "cognitive brain research",
+                    "title": "listening to action related sentences modulates the activity of the motor system a combined tms and behavioral study",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1983261403,
+                    "author": [
+                        {
+                            "AuId": 2044894804,
+                            "AuN": "ferdinand binkofski"
+                        },
+                        {
+                            "AuId": 2210954662,
+                            "AuN": "giovanni buccino"
+                        },
+                        {
+                            "AuId": 1843200176,
+                            "AuN": "stefan posse"
+                        },
+                        {
+                            "AuId": 2577838264,
+                            "AuN": "r j seitz"
+                        },
+                        {
+                            "AuId": 2700312461,
+                            "AuN": "giacomo rizzolatti"
+                        },
+                        {
+                            "AuId": 2236132921,
+                            "AuN": "h j freund"
+                        }
+                    ],
+                    "doi": "10.1046/J.1460-9568.1999.00753.X",
+                    "journal": "european journal of neuroscience",
+                    "title": "a fronto parietal circuit for object manipulation in man evidence from an fmri study",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2108015428,
+                    "author": [
+                        {
+                            "AuId": 720043134,
+                            "AuN": "friedemann pulvermuller"
+                        },
+                        {
+                            "AuId": 22565996,
+                            "AuN": "olaf hauk"
+                        },
+                        {
+                            "AuId": 2174541427,
+                            "AuN": "vadim v nikulin"
+                        },
+                        {
+                            "AuId": 1982015165,
+                            "AuN": "risto j ilmoniemi"
+                        }
+                    ],
+                    "doi": "10.1111/J.1460-9568.2005.03900.X",
+                    "journal": "european journal of neuroscience",
+                    "title": "functional links between motor and language systems",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2110259656,
+                    "author": [
+                        {
+                            "AuId": 71917633,
+                            "AuN": "gabriella vigliocco"
+                        },
+                        {
+                            "AuId": 1723390182,
+                            "AuN": "david p vinson"
+                        },
+                        {
+                            "AuId": 1966645170,
+                            "AuN": "judit druks"
+                        },
+                        {
+                            "AuId": 2557723064,
+                            "AuN": "horacio a barber"
+                        },
+                        {
+                            "AuId": 2193000129,
+                            "AuN": "stefano f cappa"
+                        }
+                    ],
+                    "doi": "10.1016/J.NEUBIOREV.2010.04.007",
+                    "journal": "neuroscience & biobehavioral reviews",
+                    "title": "nouns and verbs in the brain a review of behavioural electrophysiological neuropsychological and imaging studies",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2105810319,
+                    "author": [
+                        {
+                            "AuId": 2162356264,
+                            "AuN": "usha goswami"
+                        }
+                    ],
+                    "doi": "10.1348/000709904322848798",
+                    "journal": "british journal of educational psychology",
+                    "title": "neuroscience and education",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2143919010,
+                    "author": [
+                        {
+                            "AuId": 2161695034,
+                            "AuN": "william d hutchison"
+                        },
+                        {
+                            "AuId": 2137015431,
+                            "AuN": "karen d davis"
+                        },
+                        {
+                            "AuId": 2160236129,
+                            "AuN": "andres m lozano"
+                        },
+                        {
+                            "AuId": 2155781414,
+                            "AuN": "ronald r tasker"
+                        },
+                        {
+                            "AuId": 2573558040,
+                            "AuN": "j o dostrovsky"
+                        }
+                    ],
+                    "doi": "10.1038/8065",
+                    "journal": "nature neuroscience",
+                    "title": "pain related neurons in the human cingulate cortex",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2031049446,
+                    "author": [
+                        {
+                            "AuId": 2041613703,
+                            "AuN": "francesca m m citron"
+                        }
+                    ],
+                    "doi": "10.1016/J.BANDL.2011.12.007",
+                    "journal": "brain and language",
+                    "title": "neural correlates of written emotion word processing a review of recent electrophysiological and hemodynamic neuroimaging studies",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2030392591,
+                    "author": [
+                        {
+                            "AuId": 2013191751,
+                            "AuN": "maddalena fabbridestro"
+                        },
+                        {
+                            "AuId": 2013191751,
+                            "AuN": "maddalena fabbridestro"
+                        },
+                        {
+                            "AuId": 2700312461,
+                            "AuN": "giacomo rizzolatti"
+                        }
+                    ],
+                    "doi": "10.1152/PHYSIOL.00004.2008",
+                    "journal": "physiology",
+                    "title": "mirror neurons and mirror systems in monkeys and humans",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1821561312,
+                    "author": [
+                        {
+                            "AuId": 2780923200,
+                            "AuN": "akira murata"
+                        },
+                        {
+                            "AuId": 74444541,
+                            "AuN": "luciano fadiga"
+                        },
+                        {
+                            "AuId": 2179611568,
+                            "AuN": "leonardo fogassi"
+                        },
+                        {
+                            "AuId": 36486834,
+                            "AuN": "vittorio gallese"
+                        },
+                        {
+                            "AuId": 2170783558,
+                            "AuN": "vassilis raos"
+                        },
+                        {
+                            "AuId": 2700312461,
+                            "AuN": "giacomo rizzolatti"
+                        }
+                    ],
+                    "doi": "10.1152/JN.1997.78.4.2226",
+                    "journal": "journal of neurophysiology",
+                    "title": "object representation in the ventral premotor cortex area f5 of the monkey",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1968024137,
+                    "author": [
+                        {
+                            "AuId": 3030848323,
+                            "AuN": "ronald r peeters"
+                        },
+                        {
+                            "AuId": 2335041139,
+                            "AuN": "luciano simone"
+                        },
+                        {
+                            "AuId": 2042517003,
+                            "AuN": "koen nelissen"
+                        },
+                        {
+                            "AuId": 2013191751,
+                            "AuN": "maddalena fabbridestro"
+                        },
+                        {
+                            "AuId": 2056072434,
+                            "AuN": "wim vanduffel"
+                        },
+                        {
+                            "AuId": 2700312461,
+                            "AuN": "giacomo rizzolatti"
+                        },
+                        {
+                            "AuId": 719060747,
+                            "AuN": "guy orban"
+                        }
+                    ],
+                    "doi": "10.1523/JNEUROSCI.2040-09.2009",
+                    "journal": "the journal of neuroscience",
+                    "title": "the representation of tool use in humans and monkeys common and uniquely human features",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2148707512,
+                    "author": [
+                        {
+                            "AuId": 560698743,
+                            "AuN": "veronique boulenger"
+                        },
+                        {
+                            "AuId": 2224291533,
+                            "AuN": "alice c roy"
+                        },
+                        {
+                            "AuId": 2256067487,
+                            "AuN": "yves paulignan"
+                        },
+                        {
+                            "AuId": 2250216099,
+                            "AuN": "viviane deprez"
+                        },
+                        {
+                            "AuId": 2324337081,
+                            "AuN": "marc jeannerod"
+                        },
+                        {
+                            "AuId": 704727122,
+                            "AuN": "tatjana a nazir"
+                        }
+                    ],
+                    "doi": "10.1162/JOCN.2006.18.10.1607",
+                    "journal": "journal of cognitive neuroscience",
+                    "title": "cross talk between language processes and overt motor behavior in the first 200 msec of processing",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2158575718,
+                    "author": [
+                        {
+                            "AuId": 78901868,
+                            "AuN": "daniel n bub"
+                        },
+                        {
+                            "AuId": 2151054786,
+                            "AuN": "michael e j masson"
+                        },
+                        {
+                            "AuId": 2130698382,
+                            "AuN": "george s cree"
+                        }
+                    ],
+                    "doi": "10.1016/J.COGNITION.2006.12.010",
+                    "journal": "cognition",
+                    "title": "evocation of functional and volumetric gestural knowledge by objects and words",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2146674540,
+                    "author": [
+                        {
+                            "AuId": 2135574693,
+                            "AuN": "mike tucker"
+                        },
+                        {
+                            "AuId": 2892973403,
+                            "AuN": "rob ellis"
+                        }
+                    ],
+                    "doi": "10.1016/J.ACTPSY.2004.01.004",
+                    "journal": "acta psychologica",
+                    "title": "action priming by briefly presented objects",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2159825486,
+                    "author": [
+                        {
+                            "AuId": 2170783558,
+                            "AuN": "vassilis raos"
+                        },
+                        {
+                            "AuId": 2963203591,
+                            "AuN": "mariaalessandra umilta"
+                        },
+                        {
+                            "AuId": 2780923200,
+                            "AuN": "akira murata"
+                        },
+                        {
+                            "AuId": 2179611568,
+                            "AuN": "leonardo fogassi"
+                        },
+                        {
+                            "AuId": 36486834,
+                            "AuN": "vittorio gallese"
+                        }
+                    ],
+                    "doi": "10.1152/JN.00463.2005",
+                    "journal": "journal of neurophysiology",
+                    "title": "functional properties of grasping related neurons in the ventral premotor area f5 of the macaque monkey",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2060631517,
+                    "author": [
+                        {
+                            "AuId": 720043134,
+                            "AuN": "friedemann pulvermuller"
+                        },
+                        {
+                            "AuId": 2029653146,
+                            "AuN": "markus harle"
+                        },
+                        {
+                            "AuId": 2125732302,
+                            "AuN": "friedhelm c hummel"
+                        }
+                    ],
+                    "doi": "10.1006/BRLN.2000.2390",
+                    "journal": "brain and language",
+                    "title": "walking or talking behavioral and neurophysiological correlates of action verb processing",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1972198437,
+                    "author": [
+                        {
+                            "AuId": 1186446493,
+                            "AuN": "julie grezes"
+                        },
+                        {
+                            "AuId": 2135574693,
+                            "AuN": "mike tucker"
+                        },
+                        {
+                            "AuId": 2659480767,
+                            "AuN": "jorge armony"
+                        },
+                        {
+                            "AuId": 2892973403,
+                            "AuN": "rob ellis"
+                        },
+                        {
+                            "AuId": 2460675117,
+                            "AuN": "r e passingham"
+                        },
+                        {
+                            "AuId": 2460675117,
+                            "AuN": "r e passingham"
+                        }
+                    ],
+                    "doi": "10.1046/J.1460-9568.2003.02695.X",
+                    "journal": "european journal of neuroscience",
+                    "title": "objects automatically potentiate action an fmri study of implicit processing",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2128134362,
+                    "author": [
+                        {
+                            "AuId": 720043134,
+                            "AuN": "friedemann pulvermuller"
+                        },
+                        {
+                            "AuId": 2170864728,
+                            "AuN": "yury shtyrov"
+                        },
+                        {
+                            "AuId": 22565996,
+                            "AuN": "olaf hauk"
+                        }
+                    ],
+                    "doi": "10.1016/J.BANDL.2008.12.001",
+                    "journal": "brain and language",
+                    "title": "understanding in an instant neurophysiological evidence for mechanistic language circuits in the brain",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2116968622,
+                    "author": [
+                        {
+                            "AuId": 1955938932,
+                            "AuN": "bradford z mahon"
+                        },
+                        {
+                            "AuId": 1773508393,
+                            "AuN": "alfonso caramazza"
+                        }
+                    ],
+                    "doi": "10.1080/02643290442000446",
+                    "journal": "cognitive neuropsychology",
+                    "title": "the orchestration of the sensory motor systems clues from neuropsychology",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1985228181,
+                    "author": [
+                        {
+                            "AuId": 2140717451,
+                            "AuN": "marc sato"
+                        },
+                        {
+                            "AuId": 2126986624,
+                            "AuN": "marisa mengarelli"
+                        },
+                        {
+                            "AuId": 2461105959,
+                            "AuN": "lucia riggio"
+                        },
+                        {
+                            "AuId": 36486834,
+                            "AuN": "vittorio gallese"
+                        },
+                        {
+                            "AuId": 2210954662,
+                            "AuN": "giovanni buccino"
+                        }
+                    ],
+                    "doi": "10.1016/J.BANDL.2007.10.001",
+                    "journal": "brain and language",
+                    "title": "task related modulation of the motor system during language processing",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2032984424,
+                    "author": [
+                        {
+                            "AuId": 1882157479,
+                            "AuN": "klaus hoenig"
+                        },
+                        {
+                            "AuId": 2214389824,
+                            "AuN": "eunjin sim"
+                        },
+                        {
+                            "AuId": 2397888260,
+                            "AuN": "viktor bochev"
+                        },
+                        {
+                            "AuId": 109542809,
+                            "AuN": "barbel herrnberger"
+                        },
+                        {
+                            "AuId": 2103265411,
+                            "AuN": "markus kiefer"
+                        }
+                    ],
+                    "doi": "10.1162/JOCN.2008.20123",
+                    "journal": "journal of cognitive neuroscience",
+                    "title": "conceptual flexibility in the human brain dynamic recruitment of semantic maps from visual motor and motion related areas",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2138791398,
+                    "author": [
+                        {
+                            "AuId": 2004872446,
+                            "AuN": "kylie j wheaton"
+                        },
+                        {
+                            "AuId": 2170284086,
+                            "AuN": "james c thompson"
+                        },
+                        {
+                            "AuId": 2286142040,
+                            "AuN": "ari syngeniotis"
+                        },
+                        {
+                            "AuId": 2118835446,
+                            "AuN": "david f abbott"
+                        },
+                        {
+                            "AuId": 2950475945,
+                            "AuN": "aina puce"
+                        }
+                    ],
+                    "doi": "10.1016/J.NEUROIMAGE.2003.12.043",
+                    "journal": "neuroimage",
+                    "title": "viewing the motion of human body parts activates different regions of premotor temporal and parietal cortex",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2126878633,
+                    "author": [
+                        {
+                            "AuId": 2135529596,
+                            "AuN": "lawrence j taylor"
+                        },
+                        {
+                            "AuId": 2569114698,
+                            "AuN": "rolf a zwaan"
+                        }
+                    ],
+                    "doi": "10.1080/17470210701625519",
+                    "journal": "quarterly journal of experimental psychology",
+                    "title": "motor resonance and linguistic focus",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2070979994,
+                    "author": [
+                        {
+                            "AuId": 2210954662,
+                            "AuN": "giovanni buccino"
+                        },
+                        {
+                            "AuId": 2140717451,
+                            "AuN": "marc sato"
+                        },
+                        {
+                            "AuId": 2156151229,
+                            "AuN": "luigi cattaneo"
+                        },
+                        {
+                            "AuId": 2783158888,
+                            "AuN": "francesca roda"
+                        },
+                        {
+                            "AuId": 2461105959,
+                            "AuN": "lucia riggio"
+                        }
+                    ],
+                    "doi": "10.1016/J.NEUROPSYCHOLOGIA.2009.07.003",
+                    "journal": "neuropsychologia",
+                    "title": "broken affordances broken objects a tms study",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2115534188,
+                    "author": [
+                        {
+                            "AuId": 2214222250,
+                            "AuN": "jongyoon myung"
+                        },
+                        {
+                            "AuId": 108750933,
+                            "AuN": "sheila e blumstein"
+                        },
+                        {
+                            "AuId": 2141781279,
+                            "AuN": "julie c sedivy"
+                        }
+                    ],
+                    "doi": "10.1016/J.COGNITION.2004.11.010",
+                    "journal": "cognition",
+                    "title": "playing on the typewriter typing on the piano manipulation knowledge of objects",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2001553306,
+                    "author": [
+                        {
+                            "AuId": 2037136797,
+                            "AuN": "doreen jirak"
+                        },
+                        {
+                            "AuId": 2773548730,
+                            "AuN": "mareike m menz"
+                        },
+                        {
+                            "AuId": 2210954662,
+                            "AuN": "giovanni buccino"
+                        },
+                        {
+                            "AuId": 2120502545,
+                            "AuN": "anna m borghi"
+                        },
+                        {
+                            "AuId": 2953888408,
+                            "AuN": "ferdinand binkofski"
+                        },
+                        {
+                            "AuId": 2953888408,
+                            "AuN": "ferdinand binkofski"
+                        }
+                    ],
+                    "doi": "10.1016/J.CONCOG.2010.06.020",
+                    "journal": "consciousness and cognition",
+                    "title": "grasping language a short story on embodiment",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2029366614,
+                    "author": [
+                        {
+                            "AuId": 1627258391,
+                            "AuN": "katrin sakreida"
+                        },
+                        {
+                            "AuId": 715436965,
+                            "AuN": "ricarda ines schubotz"
+                        },
+                        {
+                            "AuId": 2788969328,
+                            "AuN": "uta wolfensteller"
+                        },
+                        {
+                            "AuId": 436345154,
+                            "AuN": "d yves von cramon"
+                        }
+                    ],
+                    "doi": "10.1523/JNEUROSCI.4170-04.2005",
+                    "journal": "the journal of neuroscience",
+                    "title": "motion class dependency in observers motor areas revealed by functional magnetic resonance imaging",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2026373782,
+                    "author": [
+                        {
+                            "AuId": 2037960171,
+                            "AuN": "oliver lindemann"
+                        },
+                        {
+                            "AuId": 149092770,
+                            "AuN": "prisca stenneken"
+                        },
+                        {
+                            "AuId": 2965889269,
+                            "AuN": "hein t van schie"
+                        },
+                        {
+                            "AuId": 2022353108,
+                            "AuN": "harold bekkering"
+                        }
+                    ],
+                    "doi": "10.1037/0096-1523.32.3.633",
+                    "journal": "journal of experimental psychology human perception and performance",
+                    "title": "semantic activation in action planning",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2100895691,
+                    "author": [
+                        {
+                            "AuId": 36486834,
+                            "AuN": "vittorio gallese"
+                        }
+                    ],
+                    "doi": "10.1098/RSTB.2003.1315",
+                    "journal": "philosophical transactions of the royal society b",
+                    "title": "a neuroscientific grasp of concepts from control to representation",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2467997928,
+                    "author": [
+                        {
+                            "AuId": 1695601983,
+                            "AuN": "eric h lenneberg"
+                        }
+                    ],
+                    "doi": "10.1080/21548331.1967.11707799",
+                    "journal": "hospital practice",
+                    "title": "the biological foundations of language",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 2131697587,
+                    "author": [
+                        {
+                            "AuId": 107050587,
+                            "AuN": "kenneth f valyear"
+                        },
+                        {
+                            "AuId": 1230455809,
+                            "AuN": "cristiana cavinapratesi"
+                        },
+                        {
+                            "AuId": 2235305876,
+                            "AuN": "amanda j stiglick"
+                        },
+                        {
+                            "AuId": 2142260686,
+                            "AuN": "jody c culham"
+                        }
+                    ],
+                    "doi": "10.1016/J.NEUROIMAGE.2007.03.031",
+                    "journal": "neuroimage",
+                    "title": "does tool related fmri activity within the intraparietal sulcus reflect the plan to grasp",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2122111639,
+                    "author": [
+                        {
+                            "AuId": 2419827956,
+                            "AuN": "kenneth s goodman"
+                        }
+                    ],
+                    "doi": "10.1080/19388076709556976",
+                    "journal": "literacy research and instruction",
+                    "title": "reading a psycholinguistic guessing game",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 1970838624,
+                    "author": [
+                        {
+                            "AuId": 2628125933,
+                            "AuN": "b marino"
+                        },
+                        {
+                            "AuId": 1999454872,
+                            "AuN": "patricia m gough"
+                        },
+                        {
+                            "AuId": 36486834,
+                            "AuN": "vittorio gallese"
+                        },
+                        {
+                            "AuId": 2461105959,
+                            "AuN": "lucia riggio"
+                        },
+                        {
+                            "AuId": 2210954662,
+                            "AuN": "giovanni buccino"
+                        }
+                    ],
+                    "doi": "10.1007/S00426-011-0371-2",
+                    "journal": "psychological research psychologische forschung",
+                    "title": "how the motor system handles nouns a behavioral study",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2004827134,
+                    "author": [
+                        {
+                            "AuId": 27909605,
+                            "AuN": "zaira cattaneo"
+                        },
+                        {
+                            "AuId": 2947103984,
+                            "AuN": "joseph t devlin"
+                        },
+                        {
+                            "AuId": 2313363730,
+                            "AuN": "francesca salvini"
+                        },
+                        {
+                            "AuId": 2025293775,
+                            "AuN": "tomaso vecchi"
+                        },
+                        {
+                            "AuId": 255901845,
+                            "AuN": "juha silvanto"
+                        }
+                    ],
+                    "doi": "10.1016/J.NEUROIMAGE.2009.10.048",
+                    "journal": "neuroimage",
+                    "title": "the causal role of category specific neuronal representations in the left ventral premotor cortex pmv in semantic processing",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1691196719,
+                    "author": [
+                        {
+                            "AuId": 1730189421,
+                            "AuN": "annette baumgaertner"
+                        },
+                        {
+                            "AuId": 2210954662,
+                            "AuN": "giovanni buccino"
+                        },
+                        {
+                            "AuId": 2693931115,
+                            "AuN": "ruediger lange"
+                        },
+                        {
+                            "AuId": 2123119050,
+                            "AuN": "adam mcnamara"
+                        },
+                        {
+                            "AuId": 2953888408,
+                            "AuN": "ferdinand binkofski"
+                        }
+                    ],
+                    "doi": "10.1111/J.1460-9568.2007.05346.X",
+                    "journal": "european journal of neuroscience",
+                    "title": "polymodal conceptual processing of human biological actions in the left inferior frontal lobe",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1971796333,
+                    "author": [
+                        {
+                            "AuId": 148951416,
+                            "AuN": "michael p kaschak"
+                        },
+                        {
+                            "AuId": 2089027414,
+                            "AuN": "kristin l borreggine"
+                        }
+                    ],
+                    "doi": "10.1080/17470210701623852",
+                    "journal": "quarterly journal of experimental psychology",
+                    "title": "temporal dynamics of the action sentence compatibility effect",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2033555491,
+                    "author": [
+                        {
+                            "AuId": 2168114631,
+                            "AuN": "pascale tremblay"
+                        },
+                        {
+                            "AuId": 2140717451,
+                            "AuN": "marc sato"
+                        },
+                        {
+                            "AuId": 1964017511,
+                            "AuN": "steven l small"
+                        }
+                    ],
+                    "doi": "10.1016/J.NEUROPSYCHOLOGIA.2011.12.002",
+                    "journal": "neuropsychologia",
+                    "title": "tms induced modulation of action sentence priming in the ventral premotor cortex",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2085952025,
+                    "author": [
+                        {
+                            "AuId": 2301666516,
+                            "AuN": "riccardo dalla volta"
+                        },
+                        {
+                            "AuId": 2140944129,
+                            "AuN": "claudia gianelli"
+                        },
+                        {
+                            "AuId": 1992971372,
+                            "AuN": "giovanna cristina campione"
+                        },
+                        {
+                            "AuId": 2255025698,
+                            "AuN": "maurizio gentilucci"
+                        }
+                    ],
+                    "doi": "10.1007/S00221-009-1864-8",
+                    "journal": "experimental brain research",
+                    "title": "action word understanding and overt motor behavior",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2044334913,
+                    "author": [
+                        {
+                            "AuId": 720043134,
+                            "AuN": "friedemann pulvermuller"
+                        },
+                        {
+                            "AuId": 2094515550,
+                            "AuN": "john h schumann"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-1770.1994.TB00635.X",
+                    "journal": "language learning",
+                    "title": "neurobiological mechanisms of language acquisition",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2114589397,
+                    "author": [
+                        {
+                            "AuId": 2094515550,
+                            "AuN": "john h schumann"
+                        }
+                    ],
+                    "doi": "10.1017/S0272263100012894",
+                    "journal": "studies in second language acquisition",
+                    "title": "where is cognition emotion and cognition in second language acquisition",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2084752761,
+                    "author": [
+                        {
+                            "AuId": 1999454872,
+                            "AuN": "patricia m gough"
+                        },
+                        {
+                            "AuId": 2461105959,
+                            "AuN": "lucia riggio"
+                        },
+                        {
+                            "AuId": 2408525169,
+                            "AuN": "fabian chersi"
+                        },
+                        {
+                            "AuId": 2916177229,
+                            "AuN": "marc sato"
+                        },
+                        {
+                            "AuId": 2179611568,
+                            "AuN": "leonardo fogassi"
+                        },
+                        {
+                            "AuId": 2179611568,
+                            "AuN": "leonardo fogassi"
+                        },
+                        {
+                            "AuId": 2210954662,
+                            "AuN": "giovanni buccino"
+                        }
+                    ],
+                    "doi": "10.1016/J.NEUROPSYCHOLOGIA.2011.10.017",
+                    "journal": "neuropsychologia",
+                    "title": "nouns referring to tools and natural objects differentially modulate the motor system",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1987165979,
+                    "author": [
+                        {
+                            "AuId": 2170006888,
+                            "AuN": "david a havas"
+                        },
+                        {
+                            "AuId": 2501648238,
+                            "AuN": "james matheson"
+                        }
+                    ],
+                    "doi": "10.3389/FPSYG.2013.00294",
+                    "journal": "frontiers in psychology",
+                    "title": "the functional role of the periphery in emotional language comprehension",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2104258461,
+                    "author": [
+                        {
+                            "AuId": 2179660974,
+                            "AuN": "bob jacobs"
+                        },
+                        {
+                            "AuId": 2694591634,
+                            "AuN": "john schumann"
+                        }
+                    ],
+                    "doi": "10.1093/APPLIN/13.3.282",
+                    "journal": "applied linguistics",
+                    "title": "language acquisition and the neurosciences towards a more integrative perspective",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2150212859,
+                    "author": [
+                        {
+                            "AuId": 2107624049,
+                            "AuN": "marcel danesi"
+                        }
+                    ],
+                    "doi": "10.1017/S0272263100006938",
+                    "journal": "studies in second language acquisition",
+                    "title": "neurological bimodality and theories of language teaching",
+                    "year_mag": 1988
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Bialystok",
+                            "given": "Ellen",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511605963",
+                    "title": "bilingualism in development",
+                    "year_oc": 2001
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Niedenthal",
+                            "given": "P. M.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1126/SCIENCE.1136930",
+                    "title": "embodying emotion",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Chatterjee",
+                            "given": "Anjan",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/LANGCOG.2010.004",
+                    "title": "disembodying cognition",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Lakoff",
+                            "given": "George",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.7208/CHICAGO/9780226471013.001.0001",
+                    "title": "women fire and dangerous things",
+                    "year_oc": 1987
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2738969584,
+                    "author": [
+                        {
+                            "AuId": 2210954662,
+                            "AuN": "giovanni buccino"
+                        },
+                        {
+                            "AuId": 2628125933,
+                            "AuN": "b marino"
+                        },
+                        {
+                            "AuId": 2737835156,
+                            "AuN": "chiara bulgarelli"
+                        },
+                        {
+                            "AuId": 2674722900,
+                            "AuN": "marco mezzadri"
+                        }
+                    ],
+                    "doi": "10.3389/FPSYG.2017.01306",
+                    "journal": "frontiers in psychology",
+                    "title": "fluent speakers of a second language process graspable nouns expressed in l2 like in their native language",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2927194437,
+                    "author": [
+                        {
+                            "AuId": 2931571005,
+                            "AuN": "elisa monaco"
+                        },
+                        {
+                            "AuId": 2624241247,
+                            "AuN": "lea b jost"
+                        },
+                        {
+                            "AuId": 2079105273,
+                            "AuN": "pascal gygax"
+                        },
+                        {
+                            "AuId": 2043748199,
+                            "AuN": "jeanmarie annoni"
+                        }
+                    ],
+                    "doi": "10.3389/FNHUM.2019.00110",
+                    "journal": "frontiers in psychology",
+                    "title": "embodied semantics in a second language critical review and clinical implications",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2891476013,
+                    "author": [
+                        {
+                            "AuId": 2763636628,
+                            "AuN": "jose antonio jodarsanchez"
+                        },
+                        {
+                            "AuId": 2763636628,
+                            "AuN": "jose antonio jodarsanchez"
+                        }
+                    ],
+                    "doi": "10.1007/978-981-13-1358-5_7",
+                    "journal": "frontiers in psychology",
+                    "title": "framenet as a resource to teach spanish as a foreign language",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2915196932,
+                    "author": [
+                        {
+                            "AuId": 2000823289,
+                            "AuN": "karina lemmer"
+                        },
+                        {
+                            "AuId": 2125853252,
+                            "AuN": "marth munro"
+                        }
+                    ],
+                    "doi": "10.1080/10137548.2018.1562960",
+                    "journal": "frontiers in psychology",
+                    "title": "the l1 l2 tension in performance towards prosodic explorations to facilitate intent",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2900380679,
+                    "author": [
+                        {
+                            "AuId": 2125853252,
+                            "AuN": "marth munro"
+                        },
+                        {
+                            "AuId": 2000823289,
+                            "AuN": "karina lemmer"
+                        }
+                    ],
+                    "doi": "10.1080/23268263.2018.1537221",
+                    "journal": "frontiers in psychology",
+                    "title": "multilingual theatre voice training in south africa our translingual attempt employing lessac kinesensics",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1075/CEB.10.10BUC",
+            "title": "embodied language and the process of language learning and teaching",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788876675379"
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "title": "glottodidattica e neuroscienze verso modelli traslazionali ",
+            "type": "monografia o trattato scientifico",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788820128616"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "8"
+            },
+            "doi": "10.13130/2037-3597/5034",
+            "title": "i nuovi ferri del mestiere ",
+            "type": "monografia o trattato scientifico",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0033-9725"
+            ],
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "journal": "RASSEGNA ITALIANA DI LINGUISTICA APPLICATA",
+            "title": "tra la glottodidattica e le neuroscienze ponti in costruzione",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788867051663"
+            ],
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "title": "embodiment e linguaggio insegnare apprendere alla luce delle neuroscienze",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788876674723"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "11"
+            },
+            "title": "lingua come fine o come mezzo il rapporto tra la metalingua e lo sviluppo di competenze non linguistiche in alcuni manuali di italiano come ls",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788820137281"
+            ],
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "title": "certificare l italiano dello studio di studenti migranti",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788820137298"
+            ],
+            "cv_id": {
+                "pubbs_ind": "13"
+            },
+            "title": "il clil e le tecnologie dell informazione e della comunicazione",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788858311110"
+            ],
+            "cv_id": {
+                "pubbs_ind": "14"
+            },
+            "title": "la gramamtica in mente vol",
+            "type": "monografia o trattato scientifico",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "2037-2426"
+            ],
+            "cv_id": {
+                "pubbs_ind": "15"
+            },
+            "journal": "VIII",
+            "title": "la teoria dell embodiment e il processo di apprendimento e insegnamento di una lingua enthymema vol",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "2280-6792"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "16"
+            },
+            "journal": "EDUCAZIONE LINGUISTICA LANGUAGE EDUCATION",
+            "title": "si puo osare studio sull accessibilita della forma passiva e del passato remoto per apprendenti non italofoni in contesto scolastico",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9788878474338"
+            ],
+            "cv_id": {
+                "pubbs_ind": "17"
+            },
+            "title": "l italiano nel mondo scenari attuali e prospettive future",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "2036-4482"
+            ],
+            "cv_id": {
+                "pubbs_ind": "18"
+            },
+            "journal": "MULTILINGUISMO E SOCIET\u00c0",
+            "title": "l apprendimento e l insegnamento delle lingue straniere come strumenti per la costruzione di una coscienza democratica la sfida del quadro comune europeo di riferimento per le lingue ",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "0033-9725"
+            ],
+            "PId": 1912522306,
+            "cv_id": {
+                "pubbs_ind": "19"
+            },
+            "doi": "10.1400/202055",
+            "journal": "RASSEGNA ITALIANA DI LINGUISTICA APPLICATA",
+            "title": "sviluppare valutare e certificare l italiano per lo studio",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "2037-4550"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "20"
+            },
+            "doi": "10.6092/2037-4550/1832",
+            "journal": "INKOJ",
+            "title": "la lernado kaj la instruado de la fremdaj lingvoj kiel iloj por la konstruo de demokrata konscienco la defio de la komuna e uropa referenckadro por lingvoj",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "2280-6792"
+            ],
+            "cv_id": {
+                "pubbs_ind": "21"
+            },
+            "doi": "10.7361/ELLE-124",
+            "journal": "EDUCAZIONE LINGUISTICA LANGUAGE EDUCATION",
+            "title": "addomesticare la comunicazione accademica e quella istituzionale attraverso un video per il web la disseminazione del progetto interventi a supporto dell integrazione nelle scuole superiori parmensi",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788882328405"
+            ],
+            "cv_id": {
+                "pubbs_ind": "22"
+            },
+            "title": "le tecnologie dell informazione e della comunicazione nella nuova formazione iniziale degli insegnanti di lingue",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9788861840850"
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "23"
+            },
+            "title": "studiare in italiano certificare l italiano l2 per fini di studio ",
+            "type": "monografia o trattato scientifico",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9788855703062"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "24"
+            },
+            "title": "italiano l2 e integrazione scolastica una ricerca sulle competenze linguistiche degli studenti stranieri a parma e reggio emilia",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "9788855702782"
+            ],
+            "cv_id": {
+                "pubbs_ind": "25"
+            },
+            "title": "italiano l2 per lo studio promuovere la qualita per uscire dall emergenza",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "cv_id": {
+                "pubbs": "11",
+                "pubbs_ind": "26"
+            },
+            "title": "motivare a comprendere riflessioni sullo sviluppo dei meccanismi e delle abilita di comprensione",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "9788855703147"
+            ],
+            "cv_id": {
+                "pubbs_ind": "27"
+            },
+            "title": "l italiano essenziale in lingua cinese ",
+            "type": "monografia o trattato scientifico",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "9788855702713"
+            ],
+            "cv_id": {
+                "pubbs": "12",
+                "pubbs_ind": "28"
+            },
+            "title": "clil courses and quality management at university level",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "9788856807349"
+            ],
+            "cv_id": {
+                "pubbs_ind": "29"
+            },
+            "title": "il quadro comune europeo e la valutazione dell italiano l2 un occasione di riflessione non una panacea",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2009
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "30"
+            },
+            "title": "il quadro comune europeo e il portfolio",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "9788861592476"
+            ],
+            "cv_id": {
+                "pubbs_ind": "31"
+            },
+            "title": "l italiano l2 per lo studio prospettive di valutazione e certificazione",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "9788860081995"
+            ],
+            "cv_id": {
+                "pubbs_ind": "32"
+            },
+            "title": "l autoformazione on line la lista discutiamone insieme e il progetto lingweb ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "9788863190052"
+            ],
+            "cv_id": {
+                "pubbs_ind": "33"
+            },
+            "title": "italiano l2 progetti per il territorio ",
+            "type": "monografia o trattato scientifico",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "9788855700238"
+            ],
+            "cv_id": {
+                "pubbs_ind": "34"
+            },
+            "title": "insegnare a comprendere vol 1 ",
+            "type": "monografia o trattato scientifico",
+            "year": 2007
+        },
+        {
+            "ISSN": [
+                "2281-5953"
+            ],
+            "cv_id": {
+                "pubbs_ind": "35"
+            },
+            "journal": "SCUOLA E LINGUE MODERNE",
+            "title": "il saper apprendere nel quadro comune europeo di riferimento per le lingue",
+            "type": "articolo in rivista",
+            "year": 2006
+        },
+        {
+            "ISBN": [
+                "9788877158345"
+            ],
+            "PId": 1484826677,
+            "cv_id": {
+                "pubbs": "14",
+                "pubbs_ind": "36"
+            },
+            "title": "la qualita nell insegnamento delle lingue straniere vol 1 ",
+            "type": "monografia o trattato scientifico",
+            "year": 2005
+        },
+        {
+            "ISSN": [
+                "2281-5953"
+            ],
+            "cv_id": {
+                "pubbs_ind": "37"
+            },
+            "journal": "SCUOLA E LINGUE MODERNE",
+            "title": "i livelli comuni di riferimento",
+            "type": "articolo in rivista",
+            "year": 2004
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "38"
+            },
+            "journal": "ITALS",
+            "title": "per una didattica integrata della lingua comune e della microlingua",
+            "type": "articolo in rivista",
+            "year": 2004
+        },
+        {
+            "ISBN": [
+                "9788877156501"
+            ],
+            "cv_id": {
+                "pubbs_ind": "39"
+            },
+            "title": "i ferri del mestiere auto formazione per insegnanti di lingua vol 1 ",
+            "type": "monografia o trattato scientifico",
+            "year": 2003
+        },
+        {
+            "ISBN": [
+                "9788877156914"
+            ],
+            "cv_id": {
+                "pubbs_ind": "40"
+            },
+            "title": "l italiano essenziale ",
+            "type": "monografia o trattato scientifico",
+            "year": 2003
+        },
+        {
+            "ISSN": [
+                "2281-5953"
+            ],
+            "cv_id": {
+                "pubbs_ind": "41"
+            },
+            "journal": "SCUOLA E LINGUE MODERNE",
+            "title": "l autonomia dello studente dall analisi dei bisogni alle strategie di apprendimento",
+            "type": "articolo in rivista",
+            "year": 2002
+        },
+        {
+            "ISSN": [
+                "2281-5953"
+            ],
+            "cv_id": {
+                "pubbs_ind": "42"
+            },
+            "journal": "SCUOLA E LINGUE MODERNE",
+            "title": "le nuove tecnologie ed educazione plurilingue in prospettiva europea",
+            "type": "articolo in rivista",
+            "year": 2001
+        },
+        {
+            "ISSN": [
+                "2281-5953"
+            ],
+            "cv_id": {
+                "pubbs_ind": "43"
+            },
+            "journal": "SCUOLA E LINGUE MODERNE",
+            "title": "cyberstudenti bilingui",
+            "type": "articolo in rivista",
+            "year": 2001
+        },
+        {
+            "ISBN": [
+                "9788877155153"
+            ],
+            "cv_id": {
+                "pubbs_ind": "44"
+            },
+            "title": "internet nella didattica dell italiano la frontiera presente vol 1 ",
+            "type": "monografia o trattato scientifico",
+            "year": 2001
+        },
+        {
+            "ISBN": [
+                "9788876675379"
+            ],
+            "cv_id": {
+                "pubbs": "3"
+            },
+            "title": "l embodiment un occasione di incontro tra la glottodidattica e le neuroscienze",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "cv_id": {
+                "pubbs": "13"
+            },
+            "type": "curatela",
+            "year": 2006
+        },
+        {
+            "ISBN": [
+                "9788877157096"
+            ],
+            "cv_id": {
+                "pubbs": "15"
+            },
+            "title": "il quadro comune europeo a disposizione della classe un percorso verso l eccellenza vol 1 ",
+            "type": "monografia o trattato scientifico",
+            "year": 2004
+        }
+    ],
+    "pubbs_mag": []
+}

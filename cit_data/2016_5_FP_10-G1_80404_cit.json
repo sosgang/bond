@@ -1,0 +1,2085 @@
+{
+    "AuIds": [
+        2902572604
+    ],
+    "fullname": [
+        "Bartolotta",
+        "Annamaria"
+    ],
+    "ind_anvur": [
+        13,
+        9,
+        1,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0936-5907"
+            ],
+            "PId": 2786604700,
+            "cited": [
+                {
+                    "PId": 1968060331,
+                    "author": [
+                        {
+                            "AuId": 194655116,
+                            "AuN": "george lakoff"
+                        },
+                        {
+                            "AuId": 2111261108,
+                            "AuN": "mark h johnson"
+                        }
+                    ],
+                    "title": "philosophy in the flesh the embodied mind and its challenge to western thought",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2052417512,
+                    "author": [
+                        {
+                            "AuId": 194655116,
+                            "AuN": "george lakoff"
+                        },
+                        {
+                            "AuId": 2111261108,
+                            "AuN": "mark h johnson"
+                        }
+                    ],
+                    "title": "metaphors we live by",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 2133171318,
+                    "author": [
+                        {
+                            "AuId": 2143660701,
+                            "AuN": "ana b chica"
+                        },
+                        {
+                            "AuId": 506605503,
+                            "AuN": "paolo bartolomeo"
+                        }
+                    ],
+                    "doi": "10.3389/FPSYG.2012.00001",
+                    "journal": "frontiers in psychology",
+                    "title": "attentional routes to conscious perception",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2164442644,
+                    "author": [
+                        {
+                            "AuId": 2137768542,
+                            "AuN": "rafael nunez"
+                        },
+                        {
+                            "AuId": 2086050604,
+                            "AuN": "eve sweetser"
+                        }
+                    ],
+                    "doi": "10.1207/S15516709COG0000_62",
+                    "journal": "cognitive science",
+                    "title": "with the future behind them convergent evidence from aymara language and gesture in the crosslinguistic comparison of spatial construals of time",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1530190859,
+                    "author": [
+                        {
+                            "AuId": 2119070337,
+                            "AuN": "vyvyan evans"
+                        },
+                        {
+                            "AuId": 2250934339,
+                            "AuN": "melanie green"
+                        }
+                    ],
+                    "title": "cognitive linguistics an introduction",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2790993688,
+                    "author": [
+                        {
+                            "AuId": 2476126748,
+                            "AuN": "robert s p beekes"
+                        },
+                        {
+                            "AuId": 2943177853,
+                            "AuN": "lucien van beek"
+                        }
+                    ],
+                    "title": "etymological dictionary of greek",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1517744545,
+                    "author": [
+                        {
+                            "AuId": 2086050604,
+                            "AuN": "eve sweetser"
+                        }
+                    ],
+                    "title": "from etymology to pragmatics metaphorical and cultural aspects of semantic structure",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 1605655352,
+                    "author": [
+                        {
+                            "AuId": 1981623995,
+                            "AuN": "stephen c levinson"
+                        }
+                    ],
+                    "title": "space in language and cognition",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2134968220,
+                    "author": [
+                        {
+                            "AuId": 2239589570,
+                            "AuN": "lera boroditsky"
+                        },
+                        {
+                            "AuId": 1964918158,
+                            "AuN": "michael ramscar"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9280.00434",
+                    "journal": "psychological science",
+                    "title": "the roles of body and mind in abstract thought",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2112818819,
+                    "author": [
+                        {
+                            "AuId": 1400462203,
+                            "AuN": "yuval rottenstreich"
+                        },
+                        {
+                            "AuId": 189603297,
+                            "AuN": "christopher k hsee"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9280.00334",
+                    "journal": "psychological science",
+                    "title": "money kisses and electric shocks on the affective psychology of risk",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2075497143,
+                    "author": [
+                        {
+                            "AuId": 2137768542,
+                            "AuN": "rafael nunez"
+                        },
+                        {
+                            "AuId": 2285159328,
+                            "AuN": "kensy cooperrider"
+                        }
+                    ],
+                    "doi": "10.1016/J.TICS.2013.03.008",
+                    "journal": "trends in cognitive sciences",
+                    "title": "the tangle of space and time in human cognition",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2040935017,
+                    "author": [
+                        {
+                            "AuId": 2155131678,
+                            "AuN": "julio santiago"
+                        },
+                        {
+                            "AuId": 1968074217,
+                            "AuN": "juan lupianez"
+                        },
+                        {
+                            "AuId": 2294426992,
+                            "AuN": "elvira perez"
+                        },
+                        {
+                            "AuId": 2115035407,
+                            "AuN": "maria jesus funes"
+                        }
+                    ],
+                    "doi": "10.3758/BF03194099",
+                    "journal": "psychonomic bulletin & review",
+                    "title": "time also flies from left to right",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1758541174,
+                    "author": [
+                        {
+                            "AuId": 2119070337,
+                            "AuN": "vyvyan evans"
+                        }
+                    ],
+                    "title": "the structure of time",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1989705277,
+                    "author": [
+                        {
+                            "AuId": 428638125,
+                            "AuN": "daniel casasanto"
+                        },
+                        {
+                            "AuId": 2029346549,
+                            "AuN": "kyle jasmin"
+                        }
+                    ],
+                    "doi": "10.1515/COG-2012-0020",
+                    "journal": "cognitive linguistics",
+                    "title": "the hands of time temporal gestures in english speakers",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2047712852,
+                    "author": [
+                        {
+                            "AuId": 2137768542,
+                            "AuN": "rafael nunez"
+                        },
+                        {
+                            "AuId": 773932333,
+                            "AuN": "benjamin motz"
+                        },
+                        {
+                            "AuId": 2078876839,
+                            "AuN": "ursina teuscher"
+                        }
+                    ],
+                    "doi": "10.1207/S15327868MS2103_1",
+                    "journal": "metaphor and symbol",
+                    "title": "time after time the psychological reality of the ego and time reference point distinction in metaphorical construals of time",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1983568720,
+                    "author": [
+                        {
+                            "AuId": 2137868876,
+                            "AuN": "andrea bender"
+                        },
+                        {
+                            "AuId": 2051124053,
+                            "AuN": "sieghard beller"
+                        }
+                    ],
+                    "doi": "10.1016/J.COGNITION.2014.03.016",
+                    "journal": "cognition",
+                    "title": "mapping spatial frames of reference onto time a review of theoretical accounts and empirical findings",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1592855228,
+                    "author": [
+                        {
+                            "AuId": 95979212,
+                            "AuN": "martin haspelmath"
+                        }
+                    ],
+                    "title": "from space to time temporal adverbials in the world s languages",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 654874084,
+                    "author": [
+                        {
+                            "AuId": 2776500394,
+                            "AuN": "harry a hoffner"
+                        },
+                        {
+                            "AuId": 2294416828,
+                            "AuN": "h craig melchert"
+                        }
+                    ],
+                    "title": "a grammar of the hittite language",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 85017489,
+                    "author": [
+                        {
+                            "AuId": 2174392141,
+                            "AuN": "tore nesset"
+                        },
+                        {
+                            "AuId": 2588175333,
+                            "AuN": "anna endresen"
+                        },
+                        {
+                            "AuId": 1973684557,
+                            "AuN": "laura a janda"
+                        },
+                        {
+                            "AuId": 2463422850,
+                            "AuN": "anastasia makarova"
+                        },
+                        {
+                            "AuId": 2557283148,
+                            "AuN": "francis f steen"
+                        },
+                        {
+                            "AuId": 2128789290,
+                            "AuN": "mark b turner"
+                        }
+                    ],
+                    "doi": "10.1007/S11185-013-9114-X",
+                    "journal": "russian linguistics",
+                    "title": "how here and now in russian and english establish joint attention in tv news broadcasts",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2232016039,
+                    "author": [
+                        {
+                            "AuId": 1886896209,
+                            "AuN": "gunter radden"
+                        }
+                    ],
+                    "journal": "zeitschrift fur interkulturellen fremdsprachenunterricht",
+                    "title": "the metaphor time as space across languages",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2034226055,
+                    "author": [
+                        {
+                            "AuId": 2138524998,
+                            "AuN": "alun salt"
+                        }
+                    ],
+                    "doi": "10.1371/JOURNAL.PONE.0007903",
+                    "journal": "plos one",
+                    "title": "the astronomical orientation of ancient greek temples",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2040995617,
+                    "author": [
+                        {
+                            "AuId": 2137768542,
+                            "AuN": "rafael nunez"
+                        },
+                        {
+                            "AuId": 2115947958,
+                            "AuN": "carlos cornejo"
+                        }
+                    ],
+                    "doi": "10.1111/J.1551-6709.2012.01237.X",
+                    "journal": "cognitive science",
+                    "title": "facing the sunrise cultural worldview underlying intrinsic based encoding of absolute frames of reference in aymara",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2053805959,
+                    "author": [
+                        {
+                            "AuId": 2146224829,
+                            "AuN": "kevin ezra moore"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2010.07.003",
+                    "journal": "journal of pragmatics",
+                    "title": "ego perspective and field based frames of reference temporal meanings of front in japanese wolof and aymara",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1997759189,
+                    "author": [
+                        {
+                            "AuId": 1933409522,
+                            "AuN": "ning yu"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2012.06.002",
+                    "journal": "journal of pragmatics",
+                    "title": "the metaphorical orientation of time in chinese",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1520020354,
+                    "author": [
+                        {
+                            "AuId": 2122093311,
+                            "AuN": "herbert h clark"
+                        }
+                    ],
+                    "doi": "10.1016/B978-0-12-505850-6.50008-6",
+                    "title": "space time semantics and the child",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 1510762419,
+                    "author": [
+                        {
+                            "AuId": 428638125,
+                            "AuN": "daniel casasanto"
+                        },
+                        {
+                            "AuId": 2746907254,
+                            "AuN": "roberto bottini"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-14749-4_28",
+                    "title": "can mirror reading reverse the flow of time",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2039785504,
+                    "author": [
+                        {
+                            "AuId": 50181230,
+                            "AuN": "alexander kranjec"
+                        },
+                        {
+                            "AuId": 2101453395,
+                            "AuN": "laraine mcdonough"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2010.07.004",
+                    "journal": "journal of pragmatics",
+                    "title": "the implicit and explicit embodiment of time",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2014221948,
+                    "author": [
+                        {
+                            "AuId": 2156362174,
+                            "AuN": "kazuko shinohara"
+                        },
+                        {
+                            "AuId": 2722906796,
+                            "AuN": "prashant pardeshi"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2010.07.001",
+                    "journal": "journal of pragmatics",
+                    "title": "the more in front the later the role of positional terms in time metaphors",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2033876892,
+                    "author": [
+                        {
+                            "AuId": 2113453202,
+                            "AuN": "john r underhill"
+                        }
+                    ],
+                    "doi": "10.1038/NGEO562",
+                    "journal": "nature geoscience",
+                    "title": "relocating odysseus homeland",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2063939585,
+                    "author": [
+                        {
+                            "AuId": 2137868876,
+                            "AuN": "andrea bender"
+                        },
+                        {
+                            "AuId": 2137868876,
+                            "AuN": "andrea bender"
+                        },
+                        {
+                            "AuId": 63544443,
+                            "AuN": "annelie rothewulf"
+                        },
+                        {
+                            "AuId": 2124756001,
+                            "AuN": "lisa huther"
+                        },
+                        {
+                            "AuId": 2051124053,
+                            "AuN": "sieghard beller"
+                        },
+                        {
+                            "AuId": 2051124053,
+                            "AuN": "sieghard beller"
+                        },
+                        {
+                            "AuId": 2051124053,
+                            "AuN": "sieghard beller"
+                        }
+                    ],
+                    "doi": "10.3389/FPSYG.2012.00486",
+                    "journal": "frontiers in psychology",
+                    "title": "moving forward in space and time how strong is the conceptual link between spatial and temporal frames of reference",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2315106327,
+                    "author": [
+                        {
+                            "AuId": 2137704385,
+                            "AuN": "karen a sullivan"
+                        },
+                        {
+                            "AuId": 2140100121,
+                            "AuN": "linh thuy bui"
+                        }
+                    ],
+                    "doi": "10.1515/COG-2015-0066",
+                    "journal": "cognitive linguistics",
+                    "title": "with the future coming up behind them evidence that time approaches from behind in vietnamese",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2399589095,
+                    "author": [
+                        {
+                            "AuId": 2166170354,
+                            "AuN": "esther walker"
+                        },
+                        {
+                            "AuId": 2115683131,
+                            "AuN": "benjamin k bergen"
+                        },
+                        {
+                            "AuId": 2137768542,
+                            "AuN": "rafael nunez"
+                        }
+                    ],
+                    "journal": "cognitive science",
+                    "title": "later events lie behind her but not behind you compatibility effects for temporal sequences along the sagittal axis depend on perspective",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 573648308,
+                    "author": [
+                        {
+                            "AuId": 2146224829,
+                            "AuN": "kevin ezra moore"
+                        }
+                    ],
+                    "title": "the spatial language of time metaphor metonymy and frames of reference",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2077922609,
+                    "author": [
+                        {
+                            "AuId": 1829965108,
+                            "AuN": "mira ariel"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.1998.9.3.189",
+                    "journal": "cognitive linguistics",
+                    "title": "the linguistic status of the here and now",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2346629010,
+                    "author": [
+                        {
+                            "AuId": 2146224829,
+                            "AuN": "kevin ezra moore"
+                        }
+                    ],
+                    "doi": "10.1017/LANGCOG.2016.6",
+                    "journal": "language and cognition",
+                    "title": "elaborating time in space the structure and function of space motion metaphors of time",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2070985281,
+                    "author": [
+                        {
+                            "AuId": 2634871286,
+                            "AuN": "w h newtonsmith"
+                        }
+                    ],
+                    "title": "the structure of time",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 2025231500,
+                    "author": [
+                        {
+                            "AuId": 2331567001,
+                            "AuN": "oyvind dahl"
+                        }
+                    ],
+                    "doi": "10.1016/0147-1767(95)00004-U",
+                    "journal": "international journal of intercultural relations",
+                    "title": "when the future comes from behind malagasy and other time concepts and some consequences for communication",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1207780246,
+                    "author": [
+                        {
+                            "AuId": 2153762309,
+                            "AuN": "jenny strauss clay"
+                        }
+                    ],
+                    "title": "homer s trojan theater space vision and memory in the iliad",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 624297032,
+                    "author": [
+                        {
+                            "AuId": 2989480943,
+                            "AuN": "charles j fillmore"
+                        }
+                    ],
+                    "title": "santa cruz lectures on deixis 1971",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 1601206884,
+                    "author": [
+                        {
+                            "AuId": 1909527040,
+                            "AuN": "theodor aufrecht"
+                        }
+                    ],
+                    "title": "die hymnen des rigveda",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2531757063,
+                    "author": [
+                        {
+                            "AuId": 2531105881,
+                            "AuN": "c h brown"
+                        }
+                    ],
+                    "title": "where do cardinal direction terms come from",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2060725401,
+                    "author": [
+                        {
+                            "AuId": 1906770115,
+                            "AuN": "robert b dewell"
+                        }
+                    ],
+                    "doi": "10.2989/16073610709486464",
+                    "journal": "southern african linguistics and applied language studies",
+                    "title": "why monday comes before tuesday the role of a non deictic conceptualiser",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2314314408,
+                    "author": [
+                        {
+                            "AuId": 2990485766,
+                            "AuN": "arthur l frothingham"
+                        }
+                    ],
+                    "title": "ancient orientation unveiled",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2073380846,
+                    "author": [
+                        {
+                            "AuId": 2232736079,
+                            "AuN": "julius pokorny"
+                        }
+                    ],
+                    "doi": "10.2307/410542",
+                    "journal": "language",
+                    "title": "indogermanisches etymologisches worterbuch",
+                    "year_mag": 1955
+                },
+                {
+                    "PId": 851515367,
+                    "author": [
+                        {
+                            "AuId": 2188929125,
+                            "AuN": "clifford alden hill"
+                        }
+                    ],
+                    "doi": "10.3765/BLS.V4I0.2202",
+                    "title": "linguistic representation of spatial and temporal orientation",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 2756452670,
+                    "author": [
+                        {
+                            "AuId": 2902572604,
+                            "AuN": "annamaria bartolotta"
+                        }
+                    ],
+                    "doi": "10.1400/239169",
+                    "title": "inherent telicity and proto indo european verbal paradigms",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2006970417,
+                    "author": [
+                        {
+                            "AuId": 2316166281,
+                            "AuN": "carl d buck"
+                        }
+                    ],
+                    "title": "a dictionary of selected synonyms in the principal indo european languages",
+                    "year_mag": 1949
+                },
+                {
+                    "PId": 2746664920,
+                    "author": [
+                        {
+                            "AuId": 2902572604,
+                            "AuN": "annamaria bartolotta"
+                        }
+                    ],
+                    "title": "towards a reconstruction of indo european culture semantic functions of ie men",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 422655011,
+                    "author": [
+                        {
+                            "AuId": 2432809727,
+                            "AuN": "karl hoffmann"
+                        }
+                    ],
+                    "title": "der injunktiv im veda eine synchronische funktionsuntersuchung",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 1588478170,
+                    "author": [
+                        {
+                            "AuId": 1971618153,
+                            "AuN": "max treu"
+                        }
+                    ],
+                    "doi": "10.2307/291847",
+                    "journal": "american journal of philology",
+                    "title": "von homer zur lyrik wandlungen des griechischen weltbildes im spiegel der sprache",
+                    "year_mag": 1958
+                },
+                {
+                    "PId": 1555220082,
+                    "author": [
+                        {
+                            "AuId": 47155966,
+                            "AuN": "louis hjelmslev"
+                        },
+                        {
+                            "AuId": 2500330078,
+                            "AuN": "eli fischerjorgensen"
+                        }
+                    ],
+                    "title": "la categorie des cas etude de grammaire generale",
+                    "year_mag": 1935
+                },
+                {
+                    "PId": 1987235752,
+                    "author": [
+                        {
+                            "AuId": 2161558217,
+                            "AuN": "hermann grassmann"
+                        }
+                    ],
+                    "title": "worterbuch zum rig veda",
+                    "year_mag": 1873
+                },
+                {
+                    "PId": 2334886995,
+                    "author": [
+                        {
+                            "AuId": 2314410313,
+                            "AuN": "john avery"
+                        }
+                    ],
+                    "doi": "10.2307/592196",
+                    "journal": "journal of the american oriental society",
+                    "title": "the unaugmented verb forms of the rig and atharva vedas",
+                    "year_mag": 1882
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Frothingham",
+                            "given": "A. L.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.2307/497158",
+                    "title": "ancient orientation unveiled i",
+                    "year_oc": 1917
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Frothingham",
+                            "given": "A. L.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.2307/497329",
+                    "title": "ancient orientation unveiled iv",
+                    "year_oc": 1917
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1515/COG-2017-0023",
+            "journal": "COGNITIVE LINGUISTICS",
+            "title": "spatio temporal deixis and cognitive models in early indo european",
+            "type": "articolo in rivista",
+            "year": 2018
+        },
+        {
+            "ISSN": [
+                "0390-2412"
+            ],
+            "PId": 2751193931,
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.19272/201700801003",
+            "journal": "INCONTRI LINGUISTICI",
+            "title": "on syntactic diagnostics as tests for telicity in ancient indo european languages evidence from vedic and greek",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0004-0207"
+            ],
+            "PId": 2903360745,
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "journal": "ARCHIVIO GLOTTOLOGICO ITALIANO",
+            "title": "sulla codifica degli eventi di moto in greco omerico il ruolo dell aspetto lessicale",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "2279-8978"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "4"
+            },
+            "journal": "INVERBIS",
+            "title": "the homeric compound \u03c5\u03c0\u03b5\u03c1\u03b9\u03c9\u03bd and the sun in the indo european culture",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-3-11-054806-8"
+            ],
+            "PId": 2784183623,
+            "citing": [
+                {
+                    "PId": 3021643342,
+                    "author": [
+                        {
+                            "AuId": 2327382527,
+                            "AuN": "thanasis georgakopoulos"
+                        },
+                        {
+                            "AuId": 2327382527,
+                            "AuN": "thanasis georgakopoulos"
+                        },
+                        {
+                            "AuId": 2981916283,
+                            "AuN": "eliesesophia lincke"
+                        },
+                        {
+                            "AuId": 2342840717,
+                            "AuN": "kiki nikiforidou"
+                        },
+                        {
+                            "AuId": 2767967865,
+                            "AuN": "anna piata"
+                        }
+                    ],
+                    "doi": "10.1075/SL.18047.GEO",
+                    "journal": "studies in language",
+                    "title": "on the polysemy of motion verbs in ancient greek and coptic why lexical constructions are important",
+                    "year_mag": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "title": "on deictic motion verbs in homeric greek",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1128-6369"
+            ],
+            "PId": 2756452670,
+            "citing": [
+                {
+                    "PId": 2786604700,
+                    "author": [
+                        {
+                            "AuId": 2902572604,
+                            "AuN": "annamaria bartolotta"
+                        }
+                    ],
+                    "doi": "10.1515/COG-2017-0023",
+                    "journal": "cognitive linguistics",
+                    "title": "spatio temporal deixis and cognitive models in early indo european",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1400/239169",
+            "journal": "RIVISTA ITALIANA DI LINGUISTICA E DI DIALETTOLOGIA",
+            "title": "inherent telicity and proto indo european verbal paradigms",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788898640188"
+            ],
+            "PId": 2590668166,
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "7"
+            },
+            "title": "deissi spaziale e verbi di movimento in vedico",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "2279-8978"
+            ],
+            "PId": 2283919581,
+            "citing": [
+                {
+                    "PId": 2965822314,
+                    "author": [
+                        {
+                            "AuId": 2771015686,
+                            "AuN": "andreas t zanker"
+                        }
+                    ],
+                    "title": "metaphor in homer time speech and thought",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "8"
+            },
+            "doi": "10.7368/80637",
+            "journal": "INVERBIS",
+            "title": "spatial representations of future in homeric greek",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "2279-8978"
+            ],
+            "PId": 2753834738,
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "journal": "INVERBIS",
+            "title": "linguistic analysis and ancient indo european languages",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "88-89837-98-5"
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "10"
+            },
+            "title": "sulle origini della telicita \u03ba\u03b9\u03bd\u03b7\u03c3\u03b9\u03c2 ed \u03b5\u03bd\u03b5\u03c1\u03b3\u03b5\u03b9\u03b1 in aristotele",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-88-6485-066-5"
+            ],
+            "cv_id": {
+                "pubbs": "11",
+                "pubbs_ind": "11"
+            },
+            "title": "l occhio della mente un eredita indoeuropea nei poemi omerici vol",
+            "type": "monografia o trattato scientifico",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1614-5291"
+            ],
+            "PId": 2911384114,
+            "citing": [
+                {
+                    "PId": 2331919738,
+                    "author": [
+                        {
+                            "AuId": 1899758578,
+                            "AuN": "pier marco bertinetto"
+                        },
+                        {
+                            "AuId": 2022220712,
+                            "AuN": "luca ciucci"
+                        }
+                    ],
+                    "doi": "10.1349/PS1.1537-0852.A.404",
+                    "journal": "linguistic discovery",
+                    "title": "parataxis hypotaxis and para hypotaxis in the zamucoan languages",
+                    "year_mag": 2012
+                }
+            ],
+            "cv_id": {
+                "pubbs": "12",
+                "pubbs_ind": "12"
+            },
+            "journal": "IJDL-INTERNATIONAL JOURNAL OF DIACHRONIC LINGUISTICS AND LINGUISTIC RECONSTRUCTION",
+            "title": "wh relative clauses and left periphery from latin to some romance languages",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "0022-2267"
+            ],
+            "PId": 2109325279,
+            "cited": [
+                {
+                    "PId": 620256024,
+                    "author": [
+                        {
+                            "AuId": 716619668,
+                            "AuN": "joan l bybee"
+                        },
+                        {
+                            "AuId": 2161684233,
+                            "AuN": "revere d perkins"
+                        },
+                        {
+                            "AuId": 1817706359,
+                            "AuN": "william pagliuca"
+                        }
+                    ],
+                    "title": "the evolution of grammar tense aspect and modality in the languages of the world",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2069020788,
+                    "author": [
+                        {
+                            "AuId": 3081352182,
+                            "AuN": "t givon"
+                        }
+                    ],
+                    "title": "functionalism and grammar",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2060667324,
+                    "author": [
+                        {
+                            "AuId": 716619668,
+                            "AuN": "joan l bybee"
+                        }
+                    ],
+                    "title": "morphology a study of the relation between meaning and form",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 1480829554,
+                    "author": [
+                        {
+                            "AuId": 2176884481,
+                            "AuN": "alison wray"
+                        }
+                    ],
+                    "title": "the transition to language",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 237075927,
+                    "author": [
+                        {
+                            "AuId": 1310578991,
+                            "AuN": "james clackson"
+                        }
+                    ],
+                    "title": "indo european linguistics an introduction",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1553854850,
+                    "author": [
+                        {
+                            "AuId": 2171258268,
+                            "AuN": "henk j verkuyl"
+                        }
+                    ],
+                    "title": "a theory of aspectuality the interaction between temporal and atemporal structure",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 1537346816,
+                    "author": [
+                        {
+                            "AuId": 1899979098,
+                            "AuN": "anna wierzbicka"
+                        }
+                    ],
+                    "title": "the semantics of grammar",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 1229162338,
+                    "author": [
+                        {
+                            "AuId": 2091010154,
+                            "AuN": "miles beckwith"
+                        },
+                        {
+                            "AuId": 2969417878,
+                            "AuN": "roger d woodard"
+                        }
+                    ],
+                    "doi": "10.2307/4353089",
+                    "journal": "classical world",
+                    "title": "the cambridge encyclopedia of the world s ancient languages",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2092069396,
+                    "author": [
+                        {
+                            "AuId": 2149975632,
+                            "AuN": "yasuhiro shirai"
+                        },
+                        {
+                            "AuId": 2629374564,
+                            "AuN": "roger w andersen"
+                        }
+                    ],
+                    "doi": "10.2307/415743",
+                    "journal": "language",
+                    "title": "the acquisition of tense aspect morphology a prototype account",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1579846763,
+                    "author": [
+                        {
+                            "AuId": 3027748326,
+                            "AuN": "w i v benjamin fortson"
+                        }
+                    ],
+                    "title": "indo european language and culture an introduction",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 435046839,
+                    "author": [
+                        {
+                            "AuId": 2139083616,
+                            "AuN": "susan rothstein"
+                        }
+                    ],
+                    "doi": "10.1075/LA.110",
+                    "title": "theoretical and crosslinguistic approaches to the semantics of aspect",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1584859531,
+                    "author": [
+                        {
+                            "AuId": 2529448313,
+                            "AuN": "ping li"
+                        },
+                        {
+                            "AuId": 2149975632,
+                            "AuN": "yasuhiro shirai"
+                        }
+                    ],
+                    "title": "the acquisition of lexical and grammatical aspect",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2097983280,
+                    "author": [
+                        {
+                            "AuId": 36436092,
+                            "AuN": "david r dowty"
+                        }
+                    ],
+                    "doi": "10.1007/BF00627434",
+                    "journal": "linguistics and philosophy",
+                    "title": "the effects of aspectual class on the temporal structure of discourse semantics or pragmatics",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2036235809,
+                    "author": [
+                        {
+                            "AuId": 2476126748,
+                            "AuN": "robert s p beekes"
+                        },
+                        {
+                            "AuId": 3106891106,
+                            "AuN": "paul gabriner"
+                        }
+                    ],
+                    "title": "comparative indo european linguistics an introduction",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2502683889,
+                    "author": [
+                        {
+                            "AuId": 2252014175,
+                            "AuN": "james r hurford"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780199244843.003.0003",
+                    "title": "the language mosaic and its evolution",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1965982021,
+                    "author": [
+                        {
+                            "AuId": 2720355478,
+                            "AuN": "francesco antinucci"
+                        },
+                        {
+                            "AuId": 2646629995,
+                            "AuN": "ruth miller"
+                        }
+                    ],
+                    "doi": "10.1017/S0305000900001434",
+                    "journal": "journal of child language",
+                    "title": "how children talk about what happened",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 1534139539,
+                    "author": [
+                        {
+                            "AuId": 277873934,
+                            "AuN": "roumyana slabakova"
+                        }
+                    ],
+                    "title": "telicity in the second language",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2154066475,
+                    "author": [
+                        {
+                            "AuId": 2919636098,
+                            "AuN": "richard m weist"
+                        },
+                        {
+                            "AuId": 272837043,
+                            "AuN": "hanna wysocka"
+                        },
+                        {
+                            "AuId": 68113504,
+                            "AuN": "katarzyna witkowskastadnik"
+                        },
+                        {
+                            "AuId": 29717715,
+                            "AuN": "ewa buczowska"
+                        },
+                        {
+                            "AuId": 2253882838,
+                            "AuN": "emilia konieczna"
+                        }
+                    ],
+                    "doi": "10.1017/S030500090000581X",
+                    "journal": "journal of child language",
+                    "title": "the defective tense hypothesis on the emergence of tense and aspect in child polish",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 1549722407,
+                    "author": [
+                        {
+                            "AuId": 3001685658,
+                            "AuN": "h j verkuyl"
+                        }
+                    ],
+                    "title": "on the compositional nature of the aspects",
+                    "year_mag": 1972
+                },
+                {
+                    "PId": 569280451,
+                    "author": [
+                        {
+                            "AuId": 2979882549,
+                            "AuN": "michael meierbrugger"
+                        }
+                    ],
+                    "title": "indo european linguistics",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 587329320,
+                    "author": [
+                        {
+                            "AuId": 173143137,
+                            "AuN": "dalila ayoun"
+                        },
+                        {
+                            "AuId": 357782394,
+                            "AuN": "m rafael salaberry"
+                        }
+                    ],
+                    "doi": "10.1075/SIBIL.29",
+                    "title": "tense and aspect in romance languages theoretical and applied perspectives",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1978476354,
+                    "author": [
+                        {
+                            "AuId": 1515343806,
+                            "AuN": "jeanpaul bronckart"
+                        },
+                        {
+                            "AuId": 2119071574,
+                            "AuN": "hermine sinclair"
+                        }
+                    ],
+                    "doi": "10.1016/0010-0277(72)90032-7",
+                    "journal": "cognition",
+                    "title": "time tense and aspect",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2011017071,
+                    "author": [
+                        {
+                            "AuId": 2723922036,
+                            "AuN": "debra ziegeler"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.1997.8.3.207",
+                    "journal": "cognitive linguistics",
+                    "title": "retention in ontogenetic and diachronic grammaticalization",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2493034935,
+                    "author": [
+                        {
+                            "AuId": 357782394,
+                            "AuN": "m rafael salaberry"
+                        },
+                        {
+                            "AuId": 173143137,
+                            "AuN": "dalila ayoun"
+                        }
+                    ],
+                    "title": "the development of l2 tense aspect in the romance languages",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2597817798,
+                    "author": [
+                        {
+                            "AuId": 2132271864,
+                            "AuN": "calvert watkins"
+                        }
+                    ],
+                    "doi": "10.4324/9780203880647.CH2",
+                    "title": "proto indo european comparison and reconstruction",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 385884594,
+                    "author": [
+                        {
+                            "AuId": 2626840734,
+                            "AuN": "anna giacalone ramat"
+                        },
+                        {
+                            "AuId": 1968135535,
+                            "AuN": "paolo ramat"
+                        }
+                    ],
+                    "doi": "10.4324/9780203880647",
+                    "title": "the indo european languages",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2032576496,
+                    "author": [
+                        {
+                            "AuId": 2485501647,
+                            "AuN": "kenneth shields"
+                        }
+                    ],
+                    "title": "a history of indo european verb morphology",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2073380846,
+                    "author": [
+                        {
+                            "AuId": 2232736079,
+                            "AuN": "julius pokorny"
+                        }
+                    ],
+                    "doi": "10.2307/410542",
+                    "journal": "language",
+                    "title": "indogermanisches etymologisches worterbuch",
+                    "year_mag": 1955
+                },
+                {
+                    "PId": 33072680,
+                    "author": [
+                        {
+                            "AuId": 2703045334,
+                            "AuN": "reinhard stempel"
+                        }
+                    ],
+                    "doi": "10.1515/9783110243451.23",
+                    "journal": "indogermanische forschungen",
+                    "title": "aspekt und aktionsart tempus und modus zur strukturierung von verbalsystemen",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 89160650,
+                    "author": [
+                        {
+                            "AuId": 2650404224,
+                            "AuN": "domenica romagno"
+                        }
+                    ],
+                    "title": "diatesi indoeuropea e verbi di movimento greci alcune considerazioni sull intransitivita",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2487725039,
+                    "author": [
+                        {
+                            "AuId": 2902572604,
+                            "AuN": "annamaria bartolotta"
+                        }
+                    ],
+                    "title": "ie weid as a root with dual subcategorization features in the homeric poems",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2484471445,
+                    "author": [
+                        {
+                            "AuId": 2709262058,
+                            "AuN": "k strunk"
+                        }
+                    ],
+                    "journal": "journal of indo european studies",
+                    "title": "relative chronology and indo european verb system the case of present and aorist system",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1544544963,
+                    "author": [
+                        {
+                            "AuId": 2663076020,
+                            "AuN": "stuart james"
+                        }
+                    ],
+                    "doi": "10.1108/09504120410559654",
+                    "title": "the cambridge encyclopedia of the world s ancient languages",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2744878044,
+                    "author": [
+                        {
+                            "AuId": 2742467202,
+                            "AuN": "lucio melazzo"
+                        },
+                        {
+                            "AuId": 2744005203,
+                            "AuN": "l melazzo"
+                        }
+                    ],
+                    "title": "grammatica in prospettiva teorica e storica",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2499380289,
+                    "author": [
+                        {
+                            "AuId": 1278281055,
+                            "AuN": "bridget drinka"
+                        }
+                    ],
+                    "doi": "10.1075/CILT.124.12DRI",
+                    "title": "areal linguistics in prehistory evidence from indo european aspect",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 587735456,
+                    "author": [
+                        {
+                            "AuId": 2810195437,
+                            "AuN": "a m lubotsky"
+                        }
+                    ],
+                    "title": "a \u1e5bgvedic word concordance",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 422655011,
+                    "author": [
+                        {
+                            "AuId": 2432809727,
+                            "AuN": "karl hoffmann"
+                        }
+                    ],
+                    "title": "der injunktiv im veda eine synchronische funktionsuntersuchung",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 2883662645,
+                    "author": [
+                        {
+                            "AuId": 2883228451,
+                            "AuN": "h j blumenthal"
+                        }
+                    ],
+                    "doi": "10.1515/9783110243215.67",
+                    "title": "some homeric evidence for the history of the augment",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 2796215738,
+                    "author": [
+                        {
+                            "AuId": 2313818800,
+                            "AuN": "roland g kent"
+                        },
+                        {
+                            "AuId": 2587146725,
+                            "AuN": "pierre chantraine"
+                        }
+                    ],
+                    "doi": "10.2307/291071",
+                    "journal": "american journal of philology",
+                    "title": "grammaire homerique phonetique et morphologie",
+                    "year_mag": 1947
+                },
+                {
+                    "PId": 2063673016,
+                    "author": [
+                        {
+                            "AuId": 2096853651,
+                            "AuN": "vittore pisani"
+                        }
+                    ],
+                    "doi": "10.2307/409945",
+                    "journal": "language",
+                    "title": "introduzione alla linguistica indeuropea",
+                    "year_mag": 1949
+                },
+                {
+                    "PId": 1987235752,
+                    "author": [
+                        {
+                            "AuId": 2161558217,
+                            "AuN": "hermann grassmann"
+                        }
+                    ],
+                    "title": "worterbuch zum rig veda",
+                    "year_mag": 1873
+                },
+                {
+                    "PId": 2334886995,
+                    "author": [
+                        {
+                            "AuId": 2314410313,
+                            "AuN": "john avery"
+                        }
+                    ],
+                    "doi": "10.2307/592196",
+                    "journal": "journal of the american oriental society",
+                    "title": "the unaugmented verb forms of the rig and atharva vedas",
+                    "year_mag": 1882
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Verkuyl",
+                            "given": "Henk J.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511597848",
+                    "title": "a theory of aspectuality",
+                    "year_oc": 1993
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Clackson",
+                            "given": "James",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511808616",
+                    "title": "indo european linguistics",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "SUNY, Buffalo"
+                                }
+                            ],
+                            "family": "Bybee",
+                            "given": "Joan L.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.9",
+                    "title": "morphology",
+                    "year_oc": 1985
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Leiden"
+                                }
+                            ],
+                            "family": "Beekes",
+                            "given": "Robert S.P.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/Z.72",
+                    "title": "comparative indo european linguistics",
+                    "year_oc": 1995
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Macdonell",
+                            "given": "A. A.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783111577081",
+                    "title": "vedic grammar",
+                    "year_oc": 1910
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2923200838,
+                    "author": [
+                        {
+                            "AuId": 2810558185,
+                            "AuN": "filip de decker"
+                        }
+                    ],
+                    "doi": "10.1080/00397679.2019.1586133",
+                    "journal": "symbolae osloenses",
+                    "title": "the augment use of ee\u03b9\u03c0e and e\u03b9\u03c0e in early epic greek an evidential marker",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2949867275,
+                    "author": [
+                        {
+                            "AuId": 2951837745,
+                            "AuN": "ian hollenbaugh"
+                        }
+                    ],
+                    "doi": "10.1163/22125892-00601002",
+                    "journal": "symbolae osloenses",
+                    "title": "aspects of the indo european aorist and imperfect re evaluating the evidence of the rgveda and homer and its implications for pie",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2476985622,
+                    "author": [
+                        {
+                            "AuId": 2485749731,
+                            "AuN": "departamento de filologia moderna"
+                        }
+                    ],
+                    "journal": "symbolae osloenses",
+                    "title": "analisis del tiempo y la concordancia verbales en lengua inglesa en el proceso de interlengua",
+                    "year_mag": 2013
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Van de Velde",
+                            "given": "Freek",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-74394-3_18",
+                    "title": "iterated exaptation",
+                    "year_oc": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "13",
+                "pubbs_ind": "13"
+            },
+            "doi": "10.1017/S0022226709990016",
+            "journal": "JOURNAL OF LINGUISTICS",
+            "title": "root lexical features and inflectional marking of tense in proto indo european",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-90-429-2722-3"
+            ],
+            "ISSN": [
+                "0779-1666"
+            ],
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "journal": "BCILL",
+            "title": "introduction in benedetti m bertrand n blankenborg r bruno c citraro c crespo e de angelis a eco conti s faure r garcia ramon jl kavcic j lazzeroni r melazzo l poccett x semantics proceedings of the 8th international meeting on greek linguistics agrigento october 1 3 2009",
+            "type": "breve introduzione",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-3-11-090222-8"
+            ],
+            "PId": 2487725039,
+            "citing": [
+                {
+                    "PId": 2109325279,
+                    "author": [
+                        {
+                            "AuId": 2902572604,
+                            "AuN": "annamaria bartolotta"
+                        }
+                    ],
+                    "doi": "10.1017/S0022226709990016",
+                    "journal": "journal of linguistics",
+                    "title": "root lexical features and inflectional marking of tense in proto indo european",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2343348560,
+                    "author": [
+                        {
+                            "AuId": 2343070665,
+                            "AuN": "j sanmartin"
+                        }
+                    ],
+                    "journal": "journal of linguistics",
+                    "title": "defining semitic words syntactically zur inneren sublexematischen syntax bei der semit ischen wortbildung",
+                    "year_mag": 2008
+                }
+            ],
+            "cv_id": {
+                "pubbs": "14"
+            },
+            "doi": "10.1515/9783110902228.265",
+            "title": "ie weid as a root with dual subcategorization features in the homeric poems",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2005
+        },
+        {
+            "ISBN": [
+                "0-941694-87-9"
+            ],
+            "ISSN": [
+                "0895-7258"
+            ],
+            "PId": 2746664920,
+            "cited": [
+                {
+                    "PId": 3039210294,
+                    "author": [
+                        {
+                            "AuId": 2049461923,
+                            "AuN": "noam chomsky"
+                        }
+                    ],
+                    "title": "language and problems of knowledge the managua lectures",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2150560978,
+                    "author": [
+                        {
+                            "AuId": 2049461923,
+                            "AuN": "noam chomsky"
+                        }
+                    ],
+                    "title": "language and problems of knowledge",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2079851423,
+                    "author": [
+                        {
+                            "AuId": 3092989873,
+                            "AuN": "robbins burling"
+                        },
+                        {
+                            "AuId": 2197547385,
+                            "AuN": "merritt ruhlen"
+                        }
+                    ],
+                    "doi": "10.2307/3034989",
+                    "journal": "journal of the royal anthropological institute",
+                    "title": "on the origin of languages studies in linguistic taxonomy",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 3093341096,
+                    "author": [
+                        {
+                            "AuId": 2197547385,
+                            "AuN": "merritt ruhlen"
+                        }
+                    ],
+                    "title": "on the origin of languages",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2073380846,
+                    "author": [
+                        {
+                            "AuId": 2232736079,
+                            "AuN": "julius pokorny"
+                        }
+                    ],
+                    "doi": "10.2307/410542",
+                    "journal": "language",
+                    "title": "indogermanisches etymologisches worterbuch",
+                    "year_mag": 1955
+                },
+                {
+                    "PId": 595935074,
+                    "author": [
+                        {
+                            "AuId": 1969514994,
+                            "AuN": "allan r bomhard"
+                        }
+                    ],
+                    "title": "toward proto nostratic a new approach to the comparison of proto indo european and proto afroasiatic",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 1580841902,
+                    "author": [
+                        {
+                            "AuId": 2573555536,
+                            "AuN": "edgar c polome"
+                        },
+                        {
+                            "AuId": 2244937732,
+                            "AuN": "john a c greppin"
+                        }
+                    ],
+                    "title": "mythology and religion",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2084644088,
+                    "author": [
+                        {
+                            "AuId": 2564558289,
+                            "AuN": "saul levin"
+                        }
+                    ],
+                    "doi": "10.1075/DIA.2.1.09LEV",
+                    "journal": "diachronica",
+                    "title": "toward proto nostratic a new approach to the comparison of proto indo european and proto afroasiatic by allan r bomhard",
+                    "year_mag": 1985
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2786604700,
+                    "author": [
+                        {
+                            "AuId": 2902572604,
+                            "AuN": "annamaria bartolotta"
+                        }
+                    ],
+                    "doi": "10.1515/COG-2017-0023",
+                    "journal": "cognitive linguistics",
+                    "title": "spatio temporal deixis and cognitive models in early indo european",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "15"
+            },
+            "title": "towards a reconstruction of indo european culture semantic functions of ie men ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2003
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2724676307,
+            "title": "homeric greek compounds project",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2927635148,
+            "title": "modality and injunctive in homeric greek the case of counterfactual and epistemic constructions",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2921703369,
+            "title": "spatial cognition and frames of reference in indo european",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2786261839,
+            "doi": "10.7368/89078",
+            "title": "the homeric compound \u1f51\u03c0e\u03c1\u03af\u03c9\u03bd and the sun in the indo european culture",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2745318231,
+            "title": "the tense aspect system between ontogeny and phylogeny evidence from the proto indo european injunctive",
+            "type": "0",
+            "year_mag": 2006
+        },
+        {
+            "PId": 2955269742,
+            "citing": [
+                {
+                    "PId": 2896771481,
+                    "author": [
+                        {
+                            "AuId": 2656301387,
+                            "AuN": "tine scheijnen"
+                        }
+                    ],
+                    "title": "quintus of smyrna s posthomerica a study of heroic characterization and heroism",
+                    "year_mag": 2018
+                }
+            ],
+            "title": "un isoglossa indoeuropea per mantis in g rocca a cura di dialetti dialettismi generi letterari e funzioni sociali atti del v convegno internazionale di linguistica greca milano 12 13 settembre 2002",
+            "type": "0",
+            "year_mag": 2004
+        },
+        {
+            "PId": 2959133800,
+            "title": "spatial representations of the future in homeric greek",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2941277703,
+            "title": "alle origini della deissi indoeuropea un approccio linguistico cognitivo",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2921240919,
+            "title": "embodiment e percezione dello spazio alle origini della cultura indoeuropea",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2743805215,
+            "title": "attivita affezione diatesi",
+            "type": "0",
+            "year_mag": 2014
+        },
+        {
+            "PId": 2963197280,
+            "title": "the role of lexical aspect in constructing proto indo european verbal paradigms",
+            "type": "0",
+            "year_mag": 2009
+        },
+        {
+            "PId": 2934254763,
+            "title": "aspectual suppletion and paradigm defectiveness in the proto indo european verbal system",
+            "type": "0",
+            "year_mag": 2009
+        },
+        {
+            "PId": 2752435604,
+            "title": "proto indo european verbal suppletion and emerging paradigms",
+            "type": "0",
+            "year_mag": 2008
+        },
+        {
+            "PId": 2752316042,
+            "title": "coincidenze compositive tra la iv ode romana di orazio e la i pitica di pindaro",
+            "type": "0",
+            "year_mag": 2000
+        },
+        {
+            "PId": 2750711571,
+            "title": "il tempo tra protomorfologia e rappresentazione sintattica",
+            "type": "0",
+            "year_mag": 2006
+        },
+        {
+            "PId": 2911454222,
+            "title": "l occhio della mente un eredita indoeuropea nei poemi omerici",
+            "type": "0",
+            "year_mag": 2002
+        },
+        {
+            "PId": 2753456856,
+            "title": "generativismo e cognitivismo teorie grammaticali a confronto",
+            "type": "0",
+            "year_mag": 2002
+        }
+    ]
+}
