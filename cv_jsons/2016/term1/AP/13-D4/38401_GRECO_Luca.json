@@ -1,0 +1,605 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Empirical Likelihood-Based ANOVA for Trimmed Means",
+        "ISSN": [
+          "1660-4601"
+        ],
+        "journal": "INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH",
+        "csp": "vol. 13, ISSN: 1660-4601",
+        "anno": "2016",
+        "autori": "Velina M, Janis V, Greco L, Luta G"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Velina M, Janis V, Greco L, Luta G (2016). Empirical Likelihood-Based",
+        "ANOVA for Trimmed Means. INTERNATIONAL JOURNAL OF",
+        "ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH, vol. 13, ISSN:",
+        "1660-4601"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "A plug in approach to sparse and robust principal component analysis",
+        "ISSN": [
+          "1133-0686"
+        ],
+        "journal": "TEST",
+        "csp": "ISSN: 1133-0686",
+        "anno": "2016",
+        "autori": "Greco L, Farcomeni A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Greco L, Farcomeni A (2016). A plug in approach to sparse and robust",
+        "principal component analysis. TEST, ISSN: 1133-0686"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/03610918.2016.1252396"
+        ],
+        "titolo": "Weighted Likelihood based inference for P(X<Y). COMMUNICATIONS IN STATISTICS",
+        "ISSN": [
+          "0361-0918"
+        ],
+        "journal": "SIMULATION AND COMPUTATION",
+        "csp": "ISSN: 0361-0918, doi: 10.1080/03610918.2016.1252396",
+        "anno": "2016",
+        "autori": "Greco L"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Greco L (2016). Weighted Likelihood based inference for P(X<Y).",
+        "COMMUNICATIONS IN STATISTICS. SIMULATION AND",
+        "COMPUTATION, ISSN: 0361-0918, doi: 10.1080/03610918.2016.1252396"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "4",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "ISBN: 9788861970618",
+        "titolo": "Variable Selection through Multinomial LASSO for Principal Component Multinomial Regression",
+        "csp": "salerno, 2016",
+        "opera": "SIS2016 Proceedings",
+        "anno": "2016",
+        "autori": "Greco L, Lucadamao A."
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Greco L, Lucadamao A. (2016). Variable Selection through Multinomial",
+        "LASSO for Principal Component Multinomial Regression. In: SIS2016",
+        "Proceedings. ISBN: 9788861970618, salerno, 2016"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "S-estimation of Hidden Markov Models",
+        "ISSN": [
+          "0943-4062"
+        ],
+        "journal": "COMPUTATIONAL STATISTICS",
+        "csp": "vol. 50, p. 57 -80, ISSN: 0943-4062",
+        "anno": "2015",
+        "autori": "Greco L, Farcomeni A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Greco L, Farcomeni A (2015). S-estimation of Hidden Markov Models.",
+        "COMPUTATIONAL STATISTICS, vol. 50, p. 57 -80, ISSN: 0943-4062"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "6",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "Boca Raton",
+        "titolo": "Robust Methods for Data Reduction",
+        "ISBN": [
+          "9781466590625"
+        ],
+        "csp": "FL (USA):CRC Press, ISBN: 9781466590625",
+        "anno": "2015",
+        "autori": "Farcomeni A, Greco L"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Farcomeni A, Greco L (2015). Robust Methods for Data Reduction. Boca",
+        "Raton, FL (USA):CRC Press, ISBN: 9781466590625"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s00180-011-0301-1"
+        ],
+        "titolo": "A weighted strategy to handle likelihood uncertainty in Bayesian inference",
+        "ISSN": [
+          "0943-4062"
+        ],
+        "journal": "COMPUTATIONAL STATISTICS",
+        "csp": "ISSN: 0943-4062, doi: 10.1007/s00180-011-0301-1",
+        "anno": "2013",
+        "autori": "AGOSTINELLI C, GRECO L"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "AGOSTINELLI C, GRECO L (2013). A weighted strategy to handle",
+        "likelihood uncertainty in Bayesian inference. COMPUTATIONAL",
+        "STATISTICS, ISSN: 0943-4062, doi: 10.1007/s00180-011-0301-1"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Robust inference for the stress-strength reliability",
+        "ISSN": [
+          "0932-5026"
+        ],
+        "journal": "STATISTICAL PAPERS",
+        "csp": "vol. 52, p. 773-788, ISSN: 0932-5026",
+        "anno": "2011",
+        "autori": "GRECO L, VENTURA L"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GRECO L, VENTURA L (2011). Robust inference for the stress-strength",
+        "reliability. STATISTICAL PAPERS, vol. 52, p. 773-788, ISSN: 0932-5026"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Minimum Hellinger based inference for scalar skew-normal and skew-t distribution",
+        "ISSN": [
+          "1133-0686"
+        ],
+        "journal": "TEST",
+        "csp": "vol. 20, p. 120-137, ISSN: 1133-0686",
+        "anno": "2011",
+        "autori": "GRECO L"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GRECO L (2011). Minimum Hellinger based inference for scalar",
+        "skew-normal and skew-t distribution. TEST, vol. 20, p. 120-137, ISSN:",
+        "1133-0686"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "10",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "ISBN: 9788861297531",
+        "titolo": "Pairwise robust estimation of multivariate location and scatter,",
+        "csp": "Padova, Italy, 21-23 September 2011",
+        "opera": "S.Co 2011",
+        "anno": "2011",
+        "autori": "Greco L, Lunardon N, Venuta L"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Greco L, Lunardon N, Venuta L (2011). Pairwise robust estimation of",
+        "multivariate location and scatter,. In: S.Co 2011. ISBN: 9788861297531,",
+        "Padova, Italy, 21-23 September 2011"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "11",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Robust inference in composite transformation models",
+        "ISSN": [
+          "0026-1424"
+        ],
+        "journal": "METRON",
+        "csp": "vol. 47, p. 17-30, ISSN: 0026-1424",
+        "anno": "2009",
+        "autori": "GRECO L, VENTURA L"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GRECO L, VENTURA L (2009). Robust inference in composite",
+        "transformation models. METRON, vol. 47, p. 17-30, ISSN: 0026-1424"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "12",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Robust likelihood functions in Bayesian inference",
+        "ISSN": [
+          "0378-3758"
+        ],
+        "journal": "JOURNAL OF STATISTICAL PLANNING AND INFERENCE",
+        "csp": "vol. 138, p. 1258-1270, ISSN: 0378-3758",
+        "anno": "2008",
+        "autori": "GRECO L, RACUGNO W, VENTURA L"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GRECO L, RACUGNO W, VENTURA L (2008). Robust likelihood functions",
+        "in Bayesian inference. JOURNAL OF STATISTICAL PLANNING AND",
+        "INFERENCE, vol. 138, p. 1258-1270, ISSN: 0378-3758"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "13",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Modified quasi-profile likelihoods from estimating functions",
+        "ISSN": [
+          "0378-3758"
+        ],
+        "journal": "JOURNAL OF STATISTICAL PLANNING AND INFERENCE",
+        "csp": "vol. 138, p. 3059-3068, ISSN: 0378-3758",
+        "anno": "2008",
+        "autori": "BELLIO R, GRECO L, VENTURA L"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "BELLIO R, GRECO L, VENTURA L (2008). Modified quasi-profile",
+        "likelihoods from estimating functions. JOURNAL OF STATISTICAL",
+        "PLANNING AND INFERENCE, vol. 138, p. 3059-3068, ISSN: 0378-3758"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "14",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Bounded estimation in the presence of nuisance parameters",
+        "ISSN": [
+          "1618-2510"
+        ],
+        "journal": "STATISTICAL METHODS & APPLICATIONS",
+        "csp": "vol. 15, p. 27-36, ISSN: 1618-2510",
+        "anno": "2006",
+        "autori": "GRECO L, VENTURA L"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GRECO L, VENTURA L (2006). Bounded estimation in the presence of",
+        "nuisance parameters. STATISTICAL METHODS & APPLICATIONS, vol.",
+        "15, p. 27-36, ISSN: 1618-2510"
+      ],
+      "anno": "2006"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/03610918.2016.1252396"
+        ],
+        "titolo": "Weighted Likelihood based inference for P(X<Y). COMMUNICATIONS IN STATISTICS",
+        "ISSN": [
+          "1532-4141"
+        ],
+        "journal": "SIMULATION AND COMPUTATION",
+        "csp": "ISSN: 1532-4141, doi: 10.1080/03610918.2016.1252396",
+        "anno": "2016",
+        "autori": "Greco L"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Greco L (2016). Weighted Likelihood based inference for P(X<Y).",
+        "COMMUNICATIONS IN STATISTICS. SIMULATION AND",
+        "COMPUTATION, ISSN: 1532-4141, doi: 10.1080/03610918.2016.1252396"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "A plug in approach to sparse and robust principal component analysis",
+        "ISSN": [
+          "1133-0686"
+        ],
+        "journal": "TEST",
+        "csp": "ISSN: 1133-0686",
+        "anno": "2016",
+        "autori": "Greco L, Farcomeni A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Greco L, Farcomeni A (2016). A plug in approach to sparse and robust",
+        "principal component analysis. TEST, ISSN: 1133-0686"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "S-estimation of Hidden Markov Models",
+        "ISSN": [
+          "0943-4062"
+        ],
+        "journal": "COMPUTATIONAL STATISTICS",
+        "csp": "vol. 50, p. 57 -80, ISSN: 0943-4062",
+        "anno": "2015",
+        "autori": "Greco L, Farcomeni A"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Greco L, Farcomeni A (2015). S-estimation of Hidden Markov Models.",
+        "COMPUTATIONAL STATISTICS, vol. 50, p. 57 -80, ISSN: 0943-4062"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "4",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "Boca Raton",
+        "csp": "FL (USA):CRC Press",
+        "titolo": "Robust Methods for Data Reduction",
+        "anno": "2015",
+        "autori": "Farcomeni A, Greco L"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Farcomeni A, Greco L (2015). Robust Methods for Data Reduction. Boca",
+        "Raton, FL (USA):CRC Press"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s00180-011-0301-1"
+        ],
+        "titolo": "A weighted strategy to handle likelihood uncertainty in Bayesian inference",
+        "ISSN": [
+          "0943-4062"
+        ],
+        "journal": "COMPUTATIONAL STATISTICS",
+        "csp": "ISSN: 0943-4062, doi: 10.1007/s00180-011-0301-1",
+        "anno": "2013",
+        "autori": "AGOSTINELLI C, GRECO L"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "AGOSTINELLI C, GRECO L (2013). A weighted strategy to handle",
+        "likelihood uncertainty in Bayesian inference. COMPUTATIONAL",
+        "STATISTICS, ISSN: 0943-4062, doi: 10.1007/s00180-011-0301-1"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Robust inference for the stress-strength reliability",
+        "ISSN": [
+          "0932-5026"
+        ],
+        "journal": "STATISTICAL PAPERS",
+        "csp": "vol. 52, p. 773-788, ISSN: 0932-5026",
+        "anno": "2011",
+        "autori": "GRECO L, VENTURA L"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GRECO L, VENTURA L (2011). Robust inference for the stress-strength",
+        "reliability. STATISTICAL PAPERS, vol. 52, p. 773-788, ISSN: 0932-5026"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Minimum Hellinger based inference for scalar skew-normal and skew-t distribution",
+        "ISSN": [
+          "1133-0686"
+        ],
+        "journal": "TEST",
+        "csp": "vol. 20, p. 120-137, ISSN: 1133-0686",
+        "anno": "2011",
+        "autori": "GRECO L"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GRECO L (2011). Minimum Hellinger based inference for scalar",
+        "skew-normal and skew-t distribution. TEST, vol. 20, p. 120-137, ISSN:",
+        "1133-0686"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Robust likelihood functions in Bayesian inference",
+        "ISSN": [
+          "0378-3758"
+        ],
+        "journal": "JOURNAL OF STATISTICAL PLANNING AND INFERENCE",
+        "csp": "vol. 138, p. 1258-1270, ISSN: 0378-3758",
+        "anno": "2008",
+        "autori": "GRECO L, RACUGNO W, VENTURA L"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GRECO L, RACUGNO W, VENTURA L (2008). Robust likelihood functions",
+        "in Bayesian inference. JOURNAL OF STATISTICAL PLANNING AND",
+        "INFERENCE, vol. 138, p. 1258-1270, ISSN: 0378-3758"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Modified quasi-profile likelihoods from estimating functions",
+        "ISSN": [
+          "0378-3758"
+        ],
+        "journal": "JOURNAL OF STATISTICAL PLANNING AND INFERENCE",
+        "csp": "vol. 138, p. 3059-3068, ISSN: 0378-3758",
+        "anno": "2008",
+        "autori": "BELLIO R, GRECO L, VENTURA L"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "BELLIO R, GRECO L, VENTURA L (2008). Modified quasi-profile",
+        "likelihoods from estimating functions. JOURNAL OF STATISTICAL",
+        "PLANNING AND INFERENCE, vol. 138, p. 3059-3068, ISSN: 0378-3758"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Bounded estimation in the presence of nuisance parameters",
+        "ISSN": [
+          "1618-2510"
+        ],
+        "journal": "STATISTICAL METHODS & APPLICATIONS",
+        "csp": "vol. 15, p. 27-36, ISSN: 1618-2510",
+        "anno": "2006",
+        "autori": "GRECO L, VENTURA L"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GRECO L, VENTURA L (2006). Bounded estimation in the presence of",
+        "nuisance parameters. STATISTICAL METHODS & APPLICATIONS, vol.",
+        "15, p. 27-36, ISSN: 1618-2510"
+      ],
+      "anno": "2006"
+    }
+  ],
+  "general": {
+    "settore": "13/D4",
+    "progr": "38401",
+    "nome": "GRECO Luca",
+    "fascia": "Seconda"
+  },
+  "titoli": {
+    "Formale attribuzione di incarichi di insegnamento o di ricerca (fellowship) presso": [
+      {
+        "content": "Ciclo di lezioni dal titolo Statistics in reliability studies, presso il Dipartimento di Meccanica Industriale dell\u2019Universit\u00e0 Politecnica di Madrid.",
+        "periodo": "dal 07-05-2012 al 16-05-2012"
+      },
+      {
+        "content": "Ciclo di lezioni dal titolo Statistics in reliability studies, presso il Dipartimento di Ingegneria e Disegno Industriale dell\u2019Universit\u00e0 Politecnica di Madrid.",
+        "periodo": "dal 13-05-2015 al 18-05-2015"
+      },
+      {
+        "content": "Docente della XXIII Scuola Estiva in Inferenza Statistica in Biologia e Scienze Umane, Scuola di Alta Formazione Statistica, Polo Universitario Asti Studi Superiori, 20 giugno\u20139 luglio.",
+        "periodo": "dal 28-06-2016 al 08-07-2016"
+      },
+      {
+        "content": "Visiting Professor, Dipartimento di Biostatistica, Bioinformatica e Biomathematica, Georgetown University Medical Center, Washington D.C..",
+        "periodo": "dal 01-09-2016 al 14-09-2016"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "ICORS, International Workshop on Robust Statistics, Parma, 14-19 giugno. Partecipa con il contributo Pseudo-Likelihood methods from bounded estimating functions. Relazione invitata",
+        "periodo": "dal 14-06-2008 al 19-06-2008"
+      },
+      {
+        "content": "ICORS, International Workshop on Robust Statistics, Praga, 28 giugno - 2 luglio. Partecipa con il contributo Weighted MCMC for robust Poisson regression (in collaborazione con C. Agostinelli). Comunicazione spontanea alla sessione poster.",
+        "periodo": "dal 28-06-2009 al 02-07-2009"
+      },
+      {
+        "content": "ERCIM, 3rd International Conference of the Working Group on Computing & Statistics, Londra, 10-12 dicembre. Partecipa con il contributo S-estimation of mixtures (in collaborazione con A. Farcomeni). Comunicazione spontanea.",
+        "periodo": "dal 10-12-2010 al 12-12-2010"
+      },
+      {
+        "content": "ERCIM, 4th International Conference of the Working Group on Computing & Statistics, Londra, 16-19 dicembre. Partecipa con il contributo Pairwise robu- st estimation of multivariate location and scatter (in collaborazione con N. Lunardon e L. Ventura). Comunicazione spontanea alla sessione poster.",
+        "periodo": "dal 16-12-2011 al 19-12-2011"
+      },
+      {
+        "content": "XLVI Riunione Scientifica della Societ\u00e0 Italiana di Statistica, Roma, 20-22 giugno. Partecipa con il contributo Weighted likelihood in Bayesian inference (in collaborazione con C. Agostinelli). Relazione invitata.",
+        "periodo": "dal 20-06-2012 al 22-06-2014"
+      },
+      {
+        "content": "ERCIM, 7th International Conference of the Working Group on Computing & Statistics, Pisa, 6-8 dicembre. Partecipa con il contributo A plug-in approach to sparse and robust Principal Component analysis (in collaborazione con A. Farcomeni). Relazione invitata.",
+        "periodo": "dal 06-12-2014 al 08-12-2014"
+      },
+      {
+        "content": "Joint Meeting of the International Biometric Society (IBS) Austro-Swiss and Italian Regions, Milano 15-19 giugno. Partecipa con il contributo A tutorial on the Weighted Likelihood. Relazione invitata.",
+        "periodo": "dal 15-06-2015 al 19-06-2015"
+      },
+      {
+        "content": "ERCIM, 8th International Conference of the Working Group on Computing & Statistics, London, 12-14 dicembre. Partecipa con il contributo Weighted likeli- hood conference for the stress strength reliability parameter. Comunicazione spontanea.",
+        "periodo": "dal 12-12-2015 al 14-12-2015"
+      },
+      {
+        "content": "ERCIM, 8th International Conference of the Working Group on Computing & Statistics, London, 12-14 dicembre. Partecipa con il contributo Variable selection through sparse principal component analysis for a multinomial logit model (in collaborazione con A. Lucadamo). Comunicazione spontanea.",
+        "periodo": "dal 12-12-2015 al 14-12-2015"
+      },
+      {
+        "content": "XLVIII Riunione Scientifica della Societ\u00e0 Italiana di Statistica, Salerno, 8\u201310 giugno. Partecipa con il contributo Variable selection through Multinomial LASSO for PCMR (in collaborazione con A. Lucadamo). Comunicazione spontanea.",
+        "periodo": "dal 08-06-2016 al 10-06-2016"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Partecipa all\u2019attivit\u00e0 di ricerca sul progetto PRIN Nuove metodologie robuste per l\u2019analisi di dati complessi. Responsabile nazionale Prof. Marco Riani. Responsabile unit\u00e0 di ricerca di Benevento Prof.ssa Anna Clara Monti.",
+        "periodo": "dal 01-01-2008 al 31-12-2010"
+      },
+      {
+        "content": "Partecipa all\u2019attivit\u00e0 di ricerca sul progetto PRIN Classi flessibili di distribuzioni ottenute mediante perturbazione della simmetria: aspetti probabilistici, statistici e applicativi. Responsabile nazionale Prof. Adelchi Azzalini. Responsabile unit\u00e0 di ricerca di Benevento Prof.ssa Anna Clara Monti.",
+        "periodo": "dal 01-01-2008 al 31-12-2010"
+      },
+      {
+        "content": "Coordinatore dell\u2019attivit\u00e0 di ricerca sul progetto Problemi di robustezza in strutture complesse di dati, F.R.A. 2012, Dipartimento DEMM (ex SEGIS), Universit\u00e0 degli Studi del Sannio.",
+        "periodo": "dal 01-01-2012 al 31-12-2013"
+      },
+      {
+        "content": "Membro dell\u2019ERCIM Working Group on Computational and Methodological Statistics",
+        "periodo": "dal 01-01-2013 a oggi"
+      }
+    ],
+    "Conseguimento di premi e riconoscimenti per l'attivit\u00e0 scientifica, inclusa l\u2019affiliazione ad": [
+      {
+        "content": "Poster competition Honorable Mention, ICORS, International Workshop on Robust Statistics, Praga, 28 giugno - 2 luglio.",
+        "periodo": "dal 28-06-2010 al 02-07-2010"
+      }
+    ],
+    "Partecipazione al collegio dei docenti ovvero attribuzione di incarichi di insegnamento,": [
+      {
+        "content": "Membro del collegio dei docenti del dottorato in Management and Local Development, Dipartimento DEMM, Universit\u00e0 degli Studi del Sannio",
+        "periodo": "dal 01-01-2012 a oggi"
+      }
+    ]
+  }
+}

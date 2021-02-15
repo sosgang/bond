@@ -88,5 +88,5 @@ Need outcomes data for all candidates
 How can we get commission data?
 '''
 
-BoND("C:\\Users\\Federica\\PycharmProjects\\assegno\\dataset", "commissions.csv", "indicatoriCalcolati-ASN16-18.tsv",
+BoND("C:\\Users\\Federica\\PycharmProjects\\assegno\\cv_jsons", "commissions.csv", "indicatoriCalcolati-ASN16-18.tsv",
      "complete_metrics.csv")

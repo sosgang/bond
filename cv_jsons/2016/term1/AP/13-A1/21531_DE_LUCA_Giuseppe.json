@@ -1,0 +1,620 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1111/joes.12094"
+        ],
+        "titolo": "Weighted-average least squares (WALS): A survey",
+        "ISSN": [
+          "0950-0804"
+        ],
+        "journal": "JOURNAL OF ECONOMIC SURVEYS",
+        "csp": "vol. 30, p. 117-148, ISSN: 0950-0804, doi: 10.1111/joes.12094",
+        "anno": "2016",
+        "autori": "Magnus JR, De Luca G"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Magnus JR, De Luca G (2016). Weighted-average least squares (WALS): A",
+        "survey. JOURNAL OF ECONOMIC SURVEYS, vol. 30, p. 117-148, ISSN:",
+        "0950-0804, doi: 10.1111/joes.12094"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.jeconom.2014.06.002"
+        ],
+        "titolo": "Model averaging estimation of generalized linear models with imputed covariates",
+        "ISSN": [
+          "0304-4076"
+        ],
+        "journal": "JOURNAL OF ECONOMETRICS",
+        "csp": "vol. 184, p. 452-463, ISSN: 0304-4076, doi: 10.1016/j.jeconom.2014.06.002",
+        "anno": "2015",
+        "autori": "Dardanoni V, De Luca G, Modica S, Peracchi F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Dardanoni V, De Luca G, Modica S, Peracchi F (2015). Model averaging",
+        "estimation of generalized linear models with imputed covariates. JOURNAL",
+        "OF ECONOMETRICS, vol. 184, p. 452-463, ISSN: 0304-4076, doi:",
+        "10.1016/j.jeconom.2014.06.002"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "3",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "B\u00f6rsch-Supan",
+        "titolo": "Sample design and weighting strategies in SHARE Wave 5",
+        "ISBN": [
+          "978-3-00-049309-6"
+        ],
+        "csp": "ISBN: 978-3-00-049309-6",
+        "opera": "SHARE Wave 5: Innovations & Metodology. p. 75-84, Munich:Malter, F. and A",
+        "anno": "2015",
+        "autori": "De Luca G., Rossetti C., Malter F."
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "De Luca G., Rossetti C., Malter F. (2015). Sample design and weighting",
+        "strategies in SHARE Wave 5. In: SHARE Wave 5: Innovations &",
+        "Metodology. p. 75-84, Munich:Malter, F. and A. B\u00f6rsch-Supan, ISBN:",
+        "978-3-00-049309-6"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "4",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "B\u00f6rsch-Supan",
+        "titolo": "Item nonresponse and imputation strategies in SHARE Wave 5",
+        "ISBN": [
+          "978-3-00-049309-6"
+        ],
+        "csp": "ISBN: 978-3-00-049309-6",
+        "opera": "SHARE Wave 5: Innovations & Metodology. p. 85-100, Munich:Malter, F. and A",
+        "anno": "2015",
+        "autori": "De Luca G., Celidoni M., Trevisan E."
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "De Luca G., Celidoni M., Trevisan E. (2015). Item nonresponse and",
+        "imputation strategies in SHARE Wave 5. In: SHARE Wave 5: Innovations &",
+        "Metodology. p. 85-100, Munich:Malter, F. and A. B\u00f6rsch-Supan, ISBN:",
+        "978-3-00-049309-6"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "5",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "74-123",
+        "titolo": "Sample Design in SHARE Wave Four",
+        "ISBN": [
+          "978-3-00-040802-1"
+        ],
+        "csp": "M\u00fcnchen -- DEU:Munich Center for the Economics of Aging (MEA), ISBN: 978-3-00-040802-1",
+        "opera": "SHARE Wave 4. Innovations & Methodology. p",
+        "anno": "2013",
+        "autori": "Lynn P, De Luca G, Ganninger M, H\u00e4der S"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Lynn P, De Luca G, Ganninger M, H\u00e4der S (2013). Sample Design in",
+        "SHARE Wave Four. In: SHARE Wave 4. Innovations & Methodology. p.",
+        "74-123, M\u00fcnchen -- DEU:Munich Center for the Economics of Aging (MEA),",
+        "ISBN: 978-3-00-040802-1"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "A Generalized Missing-indicator Approach to Regression with Imputed Covariates",
+        "ISSN": [
+          "1536-867X"
+        ],
+        "journal": "THE STATA JOURNAL",
+        "csp": "vol. 12, p. 575-604, ISSN: 1536-867X",
+        "anno": "2012",
+        "autori": "Dardanoni V, De Luca G, Modica S, Peracchi F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Dardanoni V, De Luca G, Modica S, Peracchi F (2012). A Generalized",
+        "Missing-indicator Approach to Regression with Imputed Covariates. THE",
+        "STATA JOURNAL, vol. 12, p. 575-604, ISSN: 1536-867X"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1002/jae.1232"
+        ],
+        "titolo": "Estimating Engel curves under unit and item nonresponse",
+        "ISSN": [
+          "0883-7252"
+        ],
+        "journal": "JOURNAL OF APPLIED ECONOMETRICS",
+        "csp": "vol. 27, p. 1076-1099, ISSN: 0883-7252, doi: 10.1002/jae.1232",
+        "anno": "2012",
+        "autori": "De Luca G, Peracchi F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Luca G, Peracchi F (2012). Estimating Engel curves under unit and item",
+        "nonresponse. JOURNAL OF APPLIED ECONOMETRICS, vol. 27, p.",
+        "1076-1099, ISSN: 0883-7252, doi: 10.1002/jae.1232"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Estimation of ordered response models with sample selection",
+        "ISSN": [
+          "1536-867X"
+        ],
+        "journal": "THE STATA JOURNAL",
+        "csp": "vol. 11, p. 213-239, ISSN: 1536-867X",
+        "anno": "2011",
+        "autori": "De Luca G, Perotti V"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Luca G, Perotti V (2011). Estimation of ordered response models with",
+        "sample selection. THE STATA JOURNAL, vol. 11, p. 213-239, ISSN:",
+        "1536-867X"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Bayesian model averaging and weighted-average least squares: equivariance, stability, and numerical issues",
+        "ISSN": [
+          "1536-867X"
+        ],
+        "journal": "THE STATA JOURNAL",
+        "csp": "vol. 11, p. 518-544, ISSN: 1536-867X",
+        "anno": "2011",
+        "autori": "De Luca G, Magnus JR"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Luca G, Magnus JR (2011). Bayesian model averaging and",
+        "weighted-average least squares: equivariance, stability, and numerical",
+        "issues. THE STATA JOURNAL, vol. 11, p. 518-544, ISSN: 1536-867X"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "SNP and SML estimation of univariate and bivariate binary\u2013choice models",
+        "ISSN": [
+          "1536-867X"
+        ],
+        "journal": "THE STATA JOURNAL",
+        "csp": "vol. 8, p. 190-220, ISSN: 1536-867X",
+        "anno": "2008",
+        "autori": "De Luca G"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Luca G (2008). SNP and SML estimation of univariate and bivariate",
+        "binary\u2013choice models. THE STATA JOURNAL, vol. 8, p. 190-220, ISSN:",
+        "1536-867X"
+      ],
+      "anno": "2008"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1111/joes.12094"
+        ],
+        "titolo": "Weighted-average least squares (WALS): A survey",
+        "ISSN": [
+          "0950-0804"
+        ],
+        "journal": "JOURNAL OF ECONOMIC SURVEYS",
+        "csp": "vol. 30, p. 117-148, ISSN: 0950-0804, doi: 10.1111/joes.12094",
+        "anno": "2016",
+        "autori": "Magnus JR, De Luca G"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Magnus JR, De Luca G (2016). Weighted-average least squares (WALS): A",
+        "survey. JOURNAL OF ECONOMIC SURVEYS, vol. 30, p. 117-148, ISSN:",
+        "0950-0804, doi: 10.1111/joes.12094"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.jeconom.2014.06.002"
+        ],
+        "titolo": "Model averaging estimation of generalized linear models with imputed covariates",
+        "ISSN": [
+          "0304-4076"
+        ],
+        "journal": "JOURNAL OF ECONOMETRICS",
+        "csp": "vol. 184, p. 452-463, ISSN: 0304-4076, doi: 10.1016/j.jeconom.2014.06.002",
+        "anno": "2015",
+        "autori": "Dardanoni V, De Luca G, Modica S, Peracchi F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Dardanoni V, De Luca G, Modica S, Peracchi F (2015). Model averaging",
+        "estimation of generalized linear models with imputed covariates. JOURNAL",
+        "OF ECONOMETRICS, vol. 184, p. 452-463, ISSN: 0304-4076, doi:",
+        "10.1016/j.jeconom.2014.06.002"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "3",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "B\u00f6rsch-Supan",
+        "titolo": "Item nonresponse and imputation strategies in SHARE Wave 5",
+        "ISBN": [
+          "978-3-00-049309-6"
+        ],
+        "csp": "ISBN: 978-3-00-049309-6",
+        "opera": "SHARE Wave 5: Innovations & Metodology. p. 85-100, Munich:Malter, F. and A",
+        "anno": "2015",
+        "autori": "De Luca G., Celidoni M., Trevisan E."
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "De Luca G., Celidoni M., Trevisan E. (2015). Item nonresponse and",
+        "imputation strategies in SHARE Wave 5. In: SHARE Wave 5: Innovations &",
+        "Metodology. p. 85-100, Munich:Malter, F. and A. B\u00f6rsch-Supan, ISBN:",
+        "978-3-00-049309-6"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1186/2193-9004-3-23"
+        ],
+        "titolo": "In-Work Benefits for Married Couples: an Ex-Ante Evaluation of EITC and WTC Policies in Italy",
+        "ISSN": [
+          "2193-9004"
+        ],
+        "journal": "IZA JOURNAL OF LABOR POLICY",
+        "csp": "vol. 3, ISSN: 2193-9004, doi: 10.1186/2193-9004-3-23",
+        "anno": "2014",
+        "autori": "De Luca G, Rossetti C, Vuri D"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Luca G, Rossetti C, Vuri D (2014). In-Work Benefits for Married",
+        "Couples: an Ex-Ante Evaluation of EITC and WTC Policies in Italy. IZA",
+        "JOURNAL OF LABOR POLICY, vol. 3, ISSN: 2193-9004, doi:",
+        "10.1186/2193-9004-3-23"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "5",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "74-123",
+        "titolo": "Sample Design in SHARE Wave Four",
+        "ISBN": [
+          "978-3-00-040802-1"
+        ],
+        "csp": "M\u00fcnchen -- DEU:Munich Center for the Economics of Aging (MEA), ISBN: 978-3-00-040802-1",
+        "opera": "SHARE Wave 4. Innovations & Methodology. p",
+        "anno": "2013",
+        "autori": "Lynn P, De Luca G, Ganninger M, H\u00e4der S"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Lynn P, De Luca G, Ganninger M, H\u00e4der S (2013). Sample Design in",
+        "SHARE Wave Four. In: SHARE Wave 4. Innovations & Methodology. p.",
+        "74-123, M\u00fcnchen -- DEU:Munich Center for the Economics of Aging (MEA),",
+        "ISBN: 978-3-00-040802-1"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1002/jae.1232"
+        ],
+        "titolo": "Estimating Engel curves under unit and item nonresponse",
+        "ISSN": [
+          "0883-7252"
+        ],
+        "journal": "JOURNAL OF APPLIED ECONOMETRICS",
+        "csp": "vol. 27, p. 1076-1099, ISSN: 0883-7252, doi: 10.1002/jae.1232",
+        "anno": "2012",
+        "autori": "De Luca G, Peracchi F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Luca G, Peracchi F (2012). Estimating Engel curves under unit and item",
+        "nonresponse. JOURNAL OF APPLIED ECONOMETRICS, vol. 27, p.",
+        "1076-1099, ISSN: 0883-7252, doi: 10.1002/jae.1232"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "A Generalized Missing-indicator Approach to Regression with Imputed Covariates",
+        "ISSN": [
+          "1536-867X"
+        ],
+        "journal": "THE STATA JOURNAL",
+        "csp": "vol. 12, p. 575-604, ISSN: 1536-867X",
+        "anno": "2012",
+        "autori": "Dardanoni V, De Luca G, Modica S, Peracchi F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Dardanoni V, De Luca G, Modica S, Peracchi F (2012). A Generalized",
+        "Missing-indicator Approach to Regression with Imputed Covariates. THE",
+        "STATA JOURNAL, vol. 12, p. 575-604, ISSN: 1536-867X"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Estimation of ordered response models with sample selection",
+        "ISSN": [
+          "1536-867X"
+        ],
+        "journal": "THE STATA JOURNAL",
+        "csp": "vol. 11, p. 213-239, ISSN: 1536-867X",
+        "anno": "2011",
+        "autori": "De Luca G, Perotti V"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Luca G, Perotti V (2011). Estimation of ordered response models with",
+        "sample selection. THE STATA JOURNAL, vol. 11, p. 213-239, ISSN:",
+        "1536-867X"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Bayesian model averaging and weighted-average least squares: equivariance, stability, and numerical issues",
+        "ISSN": [
+          "1536-867X"
+        ],
+        "journal": "THE STATA JOURNAL",
+        "csp": "vol. 11, p. 518-544, ISSN: 1536-867X",
+        "anno": "2011",
+        "autori": "De Luca G, Magnus JR"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Luca G, Magnus JR (2011). Bayesian model averaging and",
+        "weighted-average least squares: equivariance, stability, and numerical",
+        "issues. THE STATA JOURNAL, vol. 11, p. 518-544, ISSN: 1536-867X"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "SNP and SML estimation of univariate and bivariate binary\u2013choice models",
+        "ISSN": [
+          "1536-867X"
+        ],
+        "journal": "THE STATA JOURNAL",
+        "csp": "vol. 8, p. 190-220, ISSN: 1536-867X",
+        "anno": "2008",
+        "autori": "De Luca G"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "De Luca G (2008). SNP and SML estimation of univariate and bivariate",
+        "binary\u2013choice models. THE STATA JOURNAL, vol. 8, p. 190-220, ISSN:",
+        "1536-867X"
+      ],
+      "anno": "2008"
+    }
+  ],
+  "general": {
+    "settore": "13/A1",
+    "progr": "21531",
+    "nome": "DE LUCA Giuseppe",
+    "fascia": "Seconda"
+  },
+  "titoli": {
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "Contratto di collaborazione: \"Definizione e sviluppo di un modello di microsimulazione del sistema di imposte e benefici pubblici\", ISFOL, Roma, Italia.",
+        "periodo": "dal 01-03-2006 al 31-12-2006"
+      },
+      {
+        "content": "Incarico di docenza: \"Corso di Formazione sul Software Stata (19 Ore)\", Ministero della Pubblica Istruzione, Roma, Italia.",
+        "periodo": "dal 24-10-2006 al 19-12-2006"
+      },
+      {
+        "content": "Contratto di collaborazione: \"Elaborazione di pesi campionari - design weights - nella seconda wave dell'indagine campionaria SHARE (Survey of Health, Ageing and Retirement in Europe)\", Universit\u00e0 C\u00e0 Foscari di Venezia, Venezia, Italia.",
+        "periodo": "dal 08-01-2007 al 28-07-2008"
+      },
+      {
+        "content": "Contratto di collaborazione: \"Definizione e sviluppo di un modello di microsimulazione del sistema di imposte e benefici pubblici\", ISFOL, Roma, Italia.",
+        "periodo": "dal 09-02-2007 al 31-12-2007"
+      },
+      {
+        "content": "Incarico di docenza: \"Econometria - 5 CFU (40 ore)\", Universit\u00e0 degli Studi del Sannio, Facolt\u00e0 di Economia, Corso di Laurea Specialistica in Scienze Statistiche ed Attuariali, A.A. 2007/2008, Benevento, Italia.",
+        "periodo": "dal 24-09-2007 al 23-09-2008"
+      },
+      {
+        "content": "Contratto di collaborazione: \"Definizione e sviluppo di un modello di microsimulazione del sistema di imposte e benefici pubblici\", ISFOL, Roma, Italia.",
+        "periodo": "dal 01-02-2008 al 29-02-2008"
+      },
+      {
+        "content": "Contratto di consulenza: \"Initiative on Soaring Food Prices Project\", FAO, Roma, Italia.",
+        "periodo": "dal 17-03-2008 al 31-05-2008"
+      },
+      {
+        "content": "Contratto di collaborazione: \"Construction of the gross sample database in the third wave of SHARE (Survey of Health, Ageing and Retirement in Europe)\", University of Mannheim, Mannheim, Germania.",
+        "periodo": "dal 01-08-2008 al 30-11-2008"
+      },
+      {
+        "content": "Incarico di docenza: \"Econometria - 5 CFU (40 ore)\", Universit\u00e0 degli Studi di Salerno, Facolt\u00e0 di Economia, Corso di Laurea Magistrale in Economia, A.A. 2008/2009, Fisciano (Salerno), Italia.",
+        "periodo": "dal 30-04-2009 al 30-09-2009"
+      },
+      {
+        "content": "Contratto di collaborazione: \"Innovative datasets and models for improving welfare policies\", Fondazione Giacomo Brodolini, Roma, Italia.",
+        "periodo": "dal 15-03-2010 al 30-10-2011"
+      },
+      {
+        "content": "Incarico di docenza: \"Econometria - 5 CFU (40 ore)\", Universit\u00e0 degli Studi di Salerno, Facolt\u00e0 di Economia, Corso di Laurea Magistrale in Economia, A.A. 2009/2010, Fisciano (Salerno), Italia.",
+        "periodo": "dal 15-03-2010 al 30-09-2010"
+      },
+      {
+        "content": "Contratto di collaborazione: \"Computation of design weights in the third wave of SHARE (Survey of Health, Ageing and Retirement in Europe)\", University of Mannheim, Mannheim, Germania.",
+        "periodo": "dal 01-05-2010 al 31-07-2010"
+      },
+      {
+        "content": "Contratto di collaborazione: \"Sampling design expert of Sweden, Spain, Czech Republic and Portugal in the fourth wave of SHARE (Survey of Health, Ageing and Retirement in Europe)\", University of Mannheim, Mannheim, Germania.",
+        "periodo": "dal 01-10-2010 al 01-08-2011"
+      },
+      {
+        "content": "Contratto di collaborazione: \"Computation of design and calibrated weights and multiple imputations in the fourth wave of SHARE (Survey of Health, Ageing and Retirement in Europe)\", Max Planck Institute for Social Law and Social Policy, Monaco, Germania.",
+        "periodo": "dal 15-06-2012 al 30-11-2012"
+      },
+      {
+        "content": "Incarico di collaborazione: \"Determinants of tourist expenditure: theory and microeconometric models\", Libera Uniniversit\u00e0 di Bolzano, Bolzano, Italia.",
+        "periodo": "dal 12-12-2013 al 21-12-2013"
+      },
+      {
+        "content": "Contratto di collaborazione: \"Computation of survey weights and imputations in the second wave of SHARE (Survey of Health, Ageing and Retirement in Europe)\", Max Planck Institute for Social Law and Social Policy, Monaco, Germania.",
+        "periodo": "dal 01-06-2014 al 15-12-2014"
+      },
+      {
+        "content": "Contratto di collaborazione: \"Computation of survey weights and imputations in the fifth wave of SHARE (Survey of Health, Ageing and Retirement in Europe)\", Max Planck Institute for Social Law and Social Policy, Monaco, Germania.",
+        "periodo": "dal 01-01-2015 al 15-12-2015"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Partecipazione come relatore al convegno \"Econometric Society European Meeting (EEA-ESEM 2006)\", Vienna, Austria. Titolo della presentazione \"A SAMPLE SELECTION MODEL FOR UNIT AND ITEM NONRESPONSE IN CROSS-SECTIONAL SURVEYS\".",
+        "periodo": "dal 24-08-2006 al 28-08-2006"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno \"Third Italian Stata Users Group meeting\", Roma, Italia. Titolo della presentazione \"SEMINONPARAMETRIC ESTIMATION OF UNIVARIATE AND BIVARIATE BINARY-CHOICE MODELS\".",
+        "periodo": "dal 09-10-2006 al 10-10-2006"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno \"Second Italian Congress of Econometrics and Empirical Economics\", Rimini, Italia. Titolo della presentazione \"A SAMPLE SELECTION MODEL FOR UNIT AND ITEM NONRESPONSE\".",
+        "periodo": "dal 25-01-2007 al 26-01-2007"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno \"1st General Conference of the International Microsimulation Association\", Vienna, Austria. Titolo della presentazione \"THE ITALIAN MICRO-SIMULATION MODEL ECONLAV\".",
+        "periodo": "dal 20-08-2007 al 22-08-2007"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno \"2008 Italian Stata Users Group Meeting\", Milano, Italia. Titolo della presentazione \"PARAMETRIC AND SEMIPARAMETRIC ESTIMATION OF ORDERED RESPONSE MODELS WITH SAMPLE SELECTION AND INDIVIDUAL-SPECIFIC THRESHOLDS\".",
+        "periodo": "dal 20-10-2008 al 21-10-2008"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno \"Brown Bag Lunch Meeting - Dipartimento del Tesoro MEF\", Roma, Italia. Titolo della presentazione \"IN-WORK BENEFITS FOR MARRIED COUPLES: AN EX-ANTE EVALUATION OF EITC AND WTC POLICIES IN ITALY\".",
+        "periodo": "dal 12-06-2012 al 12-06-2012"
+      },
+      {
+        "content": "Partecipazione come relatore al ciclo di seminari organizzati dal Dipartimento di Economia Politica e Statistica, Universit\u00e0 degli Studi di Siena, Siena, Italia. Titolo della presentazione \"IN-WORK BENEFITS FOR MARRIED COUPLES: AN EX-ANTE EVALUATION OF EITC AND WTC POLICIES IN ITALY\".",
+        "periodo": "dal 12-12-2012 al 12-12-2012"
+      },
+      {
+        "content": "Partecipazione come relatore al ciclo di conferenze \"Luncheon Research Seminars\" organizzate dalla Facolt\u00e0 di Economia della Libera Universit\u00e0 di Bolzano, Bolzano, Italia. Titolo della presentazione \"BAYESIAN MODEL AVERAGING FOR GENERALIZED LINEAR MODELS WITH MISSING COVARIATES\".",
+        "periodo": "dal 30-04-2013 al 30-04-2013"
+      },
+      {
+        "content": "Partecipazione come relatore al convegno \"Methodological workshop: Managing and analysing data from the Survey of Health, Aging and Retirement in Europe\", Swiss National Centre of Competence in Research (NCCR LIVES), University of Lausanne, Losanna, Svizzera. Titolo della presentazione \"HOW TO DEAL WITH WEIGHTS AND IMPUTATIONS?\".",
+        "periodo": "dal 05-09-2016 al 06-09-2016"
+      }
+    ],
+    "Responsabilita' di studi e ricerche scientifiche affidati da qualificate istituzioni pubbliche o": [
+      {
+        "content": "Capo progetto del \"MODELLO DI MICROSIMULAZIONE ECONLAV\", Istituto per la Formazione Professionale dei Lavoratori (ISFOL), Roma, Italia.",
+        "periodo": "dal 25-06-2009 al 15-09-2012"
+      }
+    ],
+    "Partecipazione al collegio dei docenti ovvero attribuzione di incarichi di insegnamento,": [
+      {
+        "content": "Partecipazione al collegio docenti del dottorato \"SCIENZE ECONOMICHE - DOT1314289\". Ateneo proponente: Universit\u00e0 degli Studi di Messina. Coordinatore responsabile: DARDANONI Valentino. Anno accademico di inizio 2013. Ciclo: XXIX.",
+        "periodo": "dal 06-09-2013 al 06-09-2014"
+      },
+      {
+        "content": "Partecipazione al collegio docenti del dottorato \"ECONOMICS, MANAGEMENT AND STATISTICS - DOT1314289\". Ateneo proponente: Universit\u00e0 degli Studi di Messina. Coordinatore responsabile: Dardanoni Valentino. Anno Accademico di inizio 2014/15. Ciclo: XXX.",
+        "periodo": "dal 22-05-2014 al 22-05-2015"
+      },
+      {
+        "content": "Partecipazione al collegio docenti del dottorato \"ECONOMICS, MANAGEMENT AND STATISTICS - DOT1314289\". Ateneo proponente: Universit\u00e0 degli Studi di Messina. Coordinatore responsabile: Luca Corazzini. Anno accademico di inizio 2015/16. Ciclo: XXXI.",
+        "periodo": "dal 07-05-2015 al 07-05-2016"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Partecipazione al progetto di ricerca: \"ADVANCED MULTIDISCIPLINARY ANALYSIS OF NEW DATA ON AGEING - AMANDA\". Progetto finanziato dalla Commissione Europea. Numero di contratto: QLRT-2002-002426. Universit\u00e0 Ca' Foscari di Venezia, Venezia, Italia.",
+        "periodo": "dal 01-03-2003 al 01-03-2005"
+      },
+      {
+        "content": "Responsabile scientifico dell'unit\u00e0 di ricerca per il progetto: \"DISEGNO OTTTIMALE DEI MECCANISMI DI SOSTEGNO DEL REDDITO IN ITALIA. UN APPROCCIO MICROECONOMETRICO - COMPUTAZIONALE\". Cordinatore scientifico: Ugo Colombino. Progetto presentato al bando PRIN 2012. Il Progetto ha superato la fase di preselezione, ma non \u00e8 stato ammesso al finanziamento.",
+        "periodo": "dal 08-11-2013 al 08-11-2013"
+      },
+      {
+        "content": "Partecipazione al progetto di ricerca: \"THE ECONOMICS OF OLD AGE RISKS\". Coordinatore: Jappelli Tullio. Responsabile di unit\u00e0 di ricerca: Dardanoni Valentino. Progetto finanziato con il bando PRIN 2015.",
+        "periodo": "dal 03-12-2015 a oggi"
+      }
+    ],
+    "Formale attribuzione di incarichi di insegnamento o di ricerca (fellowship) presso": [
+      {
+        "content": "Incarico di ricerca nell'ambito del progetto \"AGE - Economics of Aging in Europe\", progetto finanziato dall'Unione Europea all'interno del RTN Network, Numero di contratto HPRN-CT-2002-00235. University of Mannheim, Mannheim, Germania.",
+        "periodo": "dal 01-05-2004 al 31-10-2004"
+      },
+      {
+        "content": "Incarico di Insegnamento: \"Introduction to Stata (8 hours)\", Universitat Aut\u00f2noma de Barcellona, Barcellona, Spain.",
+        "periodo": "dal 01-10-2009 al 02-10-2009"
+      }
+    ]
+  }
+}

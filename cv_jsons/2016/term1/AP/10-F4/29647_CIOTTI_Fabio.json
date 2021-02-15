@@ -1,0 +1,751 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.4000/jtei.1480"
+        ],
+        "titolo": "Formal Ontologies, Linked Data, and TEI Semantics",
+        "ISSN": [
+          "2162-5603"
+        ],
+        "journal": "JOURNAL OF THE TEXT ENCODING INITIATIVE",
+        "csp": "vol. 9, ISSN: 2162-5603, doi: 10.4000/jtei.1480",
+        "anno": "2016",
+        "autori": "Ciotti F, Francesca Tomasi"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Ciotti F, Francesca Tomasi (2016). Formal Ontologies, Linked Data, and",
+        "TEI Semantics. JOURNAL OF THE TEXT ENCODING INITIATIVE, vol. 9,",
+        "ISSN: 2162-5603, doi: 10.4000/jtei.1480"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "TEI, ontologies, linked open data: Geolat and beyond",
+        "ISSN": [
+          "2162-5603"
+        ],
+        "journal": "JOURNAL OF THE TEXT ENCODING INITIATIVE",
+        "csp": "vol. 8, ISSN: 2162-5603",
+        "anno": "2015",
+        "autori": "Ciotti F, Lana M, Tomasi F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Ciotti F, Lana M, Tomasi F (2015). TEI, ontologies, linked open data:",
+        "Geolat and beyond. JOURNAL OF THE TEXT ENCODING INITIATIVE,",
+        "vol. 8, ISSN: 2162-5603"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "A landscape of Digital Humanities in Italy: backgrounds, institutions and infrastructures",
+        "ISSN": [
+          "2036-2293"
+        ],
+        "journal": "TESTO & SENSO",
+        "csp": "vol. 16, ISSN: 2036-2293",
+        "anno": "2015",
+        "autori": "Ciotti F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Ciotti F (2015). A landscape of Digital Humanities in Italy: backgrounds,",
+        "institutions and infrastructures. TESTO & SENSO, vol. 16, ISSN:",
+        "2036-2293"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Editorial Introduction to Issue 8 of the Journal of the Text Encoding Initiative",
+        "ISSN": [
+          "2162-5603"
+        ],
+        "journal": "JOURNAL OF THE TEXT ENCODING INITIATIVE",
+        "csp": "vol. 8, ISSN: 2162-5603",
+        "anno": "2015",
+        "autori": "Ciotti F, Arianna Ciula"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Ciotti F, Arianna Ciula (2015). Editorial Introduction to Issue 8 of the Journal",
+        "of the Text Encoding Initiative. JOURNAL OF THE TEXT ENCODING",
+        "INITIATIVE, vol. 8, ISSN: 2162-5603"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Sul distant reading: una visione critica. SEMICERCHIO, vol",
+        "ISSN": [
+          "1123-4075"
+        ],
+        "journal": "LIII",
+        "csp": "ISSN: 1123-4075",
+        "anno": "2015",
+        "autori": "Ciotti F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Ciotti F (2015). Sul distant reading: una visione critica. SEMICERCHIO, vol.",
+        "LIII, ISSN: 1123-4075"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Esplorare semanticamente collezioni culturali: uno studio di fattibilit\u00e0",
+        "ISSN": [
+          "1121-0095"
+        ],
+        "journal": "AIDA INFORMAZIONI",
+        "csp": "vol. 3-4, p. 125-143, ISSN: 1121-0095",
+        "anno": "2015",
+        "autori": "Ciotti f, Tomasi Francesca, Lana Maurizio, Daquino Marilena"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Ciotti f, Tomasi Francesca, Lana Maurizio, Daquino Marilena (2015).",
+        "Esplorare semanticamente collezioni culturali: uno studio di fattibilit\u00e0. AIDA",
+        "INFORMAZIONI, vol. 3-4, p. 125-143, ISSN: 1121-0095"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Digital Literary and Cultural Studies: State of the Art and Perspectives",
+        "ISSN": [
+          "2039-6597"
+        ],
+        "journal": "BETWEEN",
+        "csp": "vol. 4, ISSN: 2039-6597",
+        "anno": "2014",
+        "autori": "Ciotti F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Ciotti F (2014). Digital Literary and Cultural Studies: State of the Art and",
+        "Perspectives. BETWEEN, vol. 4, ISSN: 2039-6597"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "8",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "Roma:Adi editore",
+        "titolo": "Tematologia e metodi digitali: dal markup alle ontologie",
+        "ISBN": [
+          "9788890790546"
+        ],
+        "csp": "ISBN: 9788890790546",
+        "opera": "(a cura di): B. Alfonzetti G. Baldassarri e F. Tomasi, I cantieri dell'Italianistica. Ricerca, didattica e organizzazione agli inizi del XXI secolo. Atti del XVII congresso dell'ADI \u2013 Associazione degli Italianisti (Roma Sapienza, 18-21 settembre 2013)",
+        "anno": "2014",
+        "autori": "Ciotti F"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Ciotti F (2014). Tematologia e metodi digitali: dal markup alle ontologie. In:",
+        "(a cura di): B. Alfonzetti G. Baldassarri e F. Tomasi, I cantieri",
+        "dell'Italianistica. Ricerca, didattica e organizzazione agli inizi del XXI",
+        "secolo. Atti del XVII congresso dell'ADI \u2013 Associazione degli Italianisti",
+        "(Roma Sapienza, 18-21 settembre 2013). Roma:Adi editore, ISBN:",
+        "9788890790546"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "9",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "243-276",
+        "doi": [
+          "10.7357/DigiLab-27"
+        ],
+        "titolo": "Web semantico, linked data e studi letterari: verso una nuova convergenza",
+        "ISBN": [
+          "978-88-95814-82-7"
+        ],
+        "csp": "Sapienza Universit\u00e0 Editrice, ISBN: 978-88-95814-82-7, doi: 10.7357/DigiLab-27",
+        "opera": "(a cura di): Ciotti F Crupi G, Dall'Informatica umanistica alle culture digitali. p",
+        "anno": "2012",
+        "autori": "Ciotti F"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Ciotti F (2012). Web semantico, linked data e studi letterari: verso una",
+        "nuova convergenza. In: (a cura di): Ciotti F Crupi G, Dall'Informatica",
+        "umanistica alle culture digitali. p. 243-276, Sapienza Universit\u00e0 Editrice,",
+        "ISBN: 978-88-95814-82-7, doi: 10.7357/DigiLab-27"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "10",
+      "type": "Prefazione/Postfazione",
+      "parsed": {
+        "precsp": "9-17",
+        "titolo": "Prefazione",
+        "ISBN": [
+          "978-88-95814-82-7"
+        ],
+        "csp": "ROMA:Casa Editrice Universit\u00e0 La Sapienza, ISBN: 978-88-95814-82-7",
+        "opera": "(a cura di): Ciotti Fabio; Crupi Gianfranco, Dall'Informatica umanistica alle culture digitali. p",
+        "anno": "2012",
+        "autori": "Ciotti F, Crupi G"
+      },
+      "rawcontent": [
+        "Prefazione/Postfazione",
+        "Ciotti F, Crupi G (2012). Prefazione. In: (a cura di): Ciotti Fabio; Crupi",
+        "Gianfranco, Dall'Informatica umanistica alle culture digitali. p. 9-17,",
+        "ROMA:Casa Editrice Universit\u00e0 La Sapienza, ISBN: 978-88-95814-82-7"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "11",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Fan fiction, letteratura arcontica e mondi possibili finzionali",
+        "ISSN": [
+          "2036-2293"
+        ],
+        "journal": "TESTO & SENSO",
+        "csp": "vol. 12, ISSN: 2036-2293",
+        "anno": "2011",
+        "autori": "Ciotti F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Ciotti F (2011). Fan fiction, letteratura arcontica e mondi possibili finzionali.",
+        "TESTO & SENSO, vol. 12, ISSN: 2036-2293"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "12",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "FIRENZE:Le Lettere",
+        "titolo": "La rappresentazione digitale del testo: il paradigma del markup e i suoi sviluppi",
+        "ISBN": [
+          "8860875234"
+        ],
+        "csp": "ISBN: 8860875234",
+        "opera": "La Macchina nel Tempo: Studi di informatica umanistica in onore di Tito Orlandi",
+        "anno": "2011",
+        "autori": "Ciotti F"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Ciotti F (2011). La rappresentazione digitale del testo: il paradigma del",
+        "markup e i suoi sviluppi. In: La Macchina nel Tempo: Studi di informatica",
+        "umanistica in onore di Tito Orlandi. FIRENZE:Le Lettere, ISBN:",
+        "8860875234"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "13",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "ROMA:Aracne",
+        "titolo": "Il testo e l'automa : Saggi di teoria e critica computazionale dei testi letterari",
+        "ISBN": [
+          "978-88-548-1129-4"
+        ],
+        "csp": "ISBN: 978-88-548-1129-4",
+        "anno": "2007",
+        "autori": "Ciotti F"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Ciotti F (2007). Il testo e l'automa : Saggi di teoria e critica computazionale",
+        "dei testi letterari. ROMA:Aracne, ISBN: 978-88-548-1129-4"
+      ],
+      "anno": "2007"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.4000/jtei.1480"
+        ],
+        "titolo": "Formal Ontologies, Linked Data, and TEI Semantics",
+        "ISSN": [
+          "2162-5603"
+        ],
+        "journal": "JOURNAL OF THE TEXT ENCODING INITIATIVE",
+        "csp": "vol. 9, ISSN: 2162-5603, doi: 10.4000/jtei.1480",
+        "anno": "2016",
+        "autori": "Ciotti F, Francesca Tomasi"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Ciotti F, Francesca Tomasi (2016). Formal Ontologies, Linked Data, and",
+        "TEI Semantics. JOURNAL OF THE TEXT ENCODING INITIATIVE, vol. 9,",
+        "ISSN: 2162-5603, doi: 10.4000/jtei.1480"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.14195/2182-8830_4-1_2"
+        ],
+        "titolo": "Toward a formal ontology for narrative",
+        "ISSN": [
+          "2182-8830"
+        ],
+        "journal": "MATLIT",
+        "csp": "vol. 4, ISSN: 2182-8830, doi: 10.14195/2182-8830_4-1_2",
+        "anno": "2016",
+        "autori": "Ciotti F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Ciotti F (2016). Toward a formal ontology for narrative. MATLIT, vol. 4,",
+        "ISSN: 2182-8830, doi: 10.14195/2182-8830_4-1_2"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Sul distant reading: una visione critica. SEMICERCHIO, vol",
+        "ISSN": [
+          "1123-4075"
+        ],
+        "journal": "LIII",
+        "csp": "ISSN: 1123-4075",
+        "anno": "2015",
+        "autori": "Ciotti F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Ciotti F (2015). Sul distant reading: una visione critica. SEMICERCHIO, vol.",
+        "LIII, ISSN: 1123-4075"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Digital Literary and Cultural Studies: State of the Art and Perspectives",
+        "ISSN": [
+          "2039-6597"
+        ],
+        "journal": "BETWEEN",
+        "csp": "vol. 4, ISSN: 2039-6597",
+        "anno": "2014",
+        "autori": "Ciotti F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Ciotti F (2014). Digital Literary and Cultural Studies: State of the Art and",
+        "Perspectives. BETWEEN, vol. 4, ISSN: 2039-6597"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "5",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "Roma:Adi editore",
+        "titolo": "Tematologia e metodi digitali: dal markup alle ontologie",
+        "ISBN": [
+          "9788890790546"
+        ],
+        "csp": "ISBN: 9788890790546",
+        "opera": "(a cura di): B. Alfonzetti G. Baldassarri e F. Tomasi, I cantieri dell'Italianistica. Ricerca, didattica e organizzazione agli inizi del XXI secolo. Atti del XVII congresso dell'ADI \u2013 Associazione degli Italianisti (Roma Sapienza, 18-21 settembre 2013)",
+        "anno": "2014",
+        "autori": "Ciotti F"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Ciotti F (2014). Tematologia e metodi digitali: dal markup alle ontologie. In:",
+        "(a cura di): B. Alfonzetti G. Baldassarri e F. Tomasi, I cantieri",
+        "dell'Italianistica. Ricerca, didattica e organizzazione agli inizi del XXI",
+        "secolo. Atti del XVII congresso dell'ADI \u2013 Associazione degli Italianisti",
+        "(Roma Sapienza, 18-21 settembre 2013). Roma:Adi editore, ISBN:",
+        "9788890790546"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Fan fiction, letteratura arcontica e mondi possibili finzionali",
+        "ISSN": [
+          "2036-2293"
+        ],
+        "journal": "TESTO & SENSO",
+        "csp": "vol. 12, ISSN: 2036-2293",
+        "anno": "2011",
+        "autori": "Ciotti F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Ciotti F (2011). Fan fiction, letteratura arcontica e mondi possibili finzionali.",
+        "TESTO & SENSO, vol. 12, ISSN: 2036-2293"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "7",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "FIRENZE:Le Lettere",
+        "titolo": "La rappresentazione digitale del testo: il paradigma del markup e i suoi sviluppi",
+        "ISBN": [
+          "8860875234"
+        ],
+        "csp": "ISBN: 8860875234",
+        "opera": "La Macchina nel Tempo: Studi di informatica umanistica in onore di Tito Orlandi",
+        "anno": "2011",
+        "autori": "Ciotti F"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Ciotti F (2011). La rappresentazione digitale del testo: il paradigma del",
+        "markup e i suoi sviluppi. In: La Macchina nel Tempo: Studi di informatica",
+        "umanistica in onore di Tito Orlandi. FIRENZE:Le Lettere, ISBN:",
+        "8860875234"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "8",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "ROMA:Aracne",
+        "titolo": "Il testo e l'automa : Saggi di teoria e critica computazionale dei testi letterari",
+        "ISBN": [
+          "978-88-548-1129-4"
+        ],
+        "csp": "ISBN: 978-88-548-1129-4",
+        "anno": "2007",
+        "autori": "Ciotti F"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Ciotti F (2007). Il testo e l'automa : Saggi di teoria e critica computazionale",
+        "dei testi letterari. ROMA:Aracne, ISBN: 978-88-548-1129-4"
+      ],
+      "anno": "2007"
+    },
+    {
+      "id": "9",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "MILANO:Edizioni Sylvestre Bonnard",
+        "titolo": "Il manuale TEI Lite. Introduzione alla codifica elettronica dei testi letterari",
+        "ISBN": [
+          "88-89609-00-1"
+        ],
+        "csp": "ISBN: 88-89609-00-1",
+        "anno": "2005",
+        "autori": "Ciotti F, Lou Burnard, C.M. Sperberg-McQueen"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Ciotti F, Lou Burnard, C.M. Sperberg-McQueen (2005). Il manuale TEI Lite.",
+        "Introduzione alla codifica elettronica dei testi letterari. MILANO:Edizioni",
+        "Sylvestre Bonnard, ISBN: 88-89609-00-1"
+      ],
+      "anno": "2005"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Le sperimentazioni verbo-visive nella neo-avanguardia italiana degli anni Sessanta",
+        "ISSN": [
+          "1128-2452"
+        ],
+        "journal": "AVANGUARDIA",
+        "csp": "vol. 7, p. 65-81, ISSN: 1128-2452",
+        "anno": "2002",
+        "autori": "CIOTTI F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "CIOTTI F (2002). Le sperimentazioni verbo-visive nella neo-avanguardia",
+        "italiana degli anni Sessanta. AVANGUARDIA, vol. 7, p. 65-81, ISSN:",
+        "1128-2452"
+      ],
+      "anno": "2002"
+    }
+  ],
+  "general": {
+    "settore": "10/F4",
+    "progr": "29647",
+    "nome": "CIOTTI Fabio",
+    "fascia": "Seconda"
+  },
+  "titoli": {
+    "Direzione o partecipazione a comitati editoriali di riviste, collane editoriali, enciclopedie e": [
+      {
+        "content": "Membro del Comitato di redazione della rivista \u201cTesto e Senso\". Studi sui linguaggi e sul paragone delle arti\u201d (ISSN: 2036-2293), http://ww.testoesenso.it.",
+        "periodo": "dal 01-01-2010 a oggi"
+      },
+      {
+        "content": "Membro della Scientific Committee - Library and Information science della rivista \u201cJLIS.it. Italian Journal of Library and Information Science\u201d (ISSN: 2038-1026), http://leo.cilea.it/index.php/jlis",
+        "periodo": "dal 01-01-2010 a oggi"
+      },
+      {
+        "content": "Membro dello Scientific Board della collana \"Quaderni Digilab\", collana digitale del Digilab Sapienza, Sapienza Universit\u00e0 Editrice, http://digilab-epub.uniroma1.it/index.php/Quaderni_DigiLab/",
+        "periodo": "dal 01-01-2012 a oggi"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Gli studi storico-filologici e le nuove tecnologie. Ricerche in corso, Pavia. Paper invitato: Biblioteca italiana. Un progetto per testi, dati bibliografici e metadati",
+        "periodo": "dal 27-01-2005 al 28-01-2005"
+      },
+      {
+        "content": "Medieval Texts-Contemporary Media: The Art and Science of Editing in the Digital Age, Pavia. Paper invitato: Humanities Computing and Computational Philology: some reflections on the state of the art and future perspectives.",
+        "periodo": "dal 19-06-2008 al 20-06-2008"
+      },
+      {
+        "content": "II Incontro di Filologia Digitale, Universit\u00e0 di Verona, Verona. Paper invitato: Biblioteche digitali e web semantico.",
+        "periodo": "dal 15-01-2009 al 16-01-2009"
+      },
+      {
+        "content": "Architetture della conoscenza. Progettare e costruire digital libraries, Scuola Normale Superiore, Pisa. Paper invitato: La biblioteca digitale: da document repository a knowledge repository",
+        "periodo": "dal 25-05-2011 al 25-05-2011"
+      },
+      {
+        "content": "Dall\u2019Informatica umanistica alle culture digitali: convegno di studi in memoria di Giuseppe Gigliozzi, Universit\u00e0 di Roma La Sapienza/Universit\u00e0 di Roma Tor Vergata, Roma. Paper invitato: \u201cLinked Data e Web Semantico: il prossimo gioco per le Digital Humanities?\u201d. Co-chair del comitato organizzatore con Gianfranco Crupi. http://digilab.uniroma1.it/archivionotiz ie/dallinformatica-umanistica-alle-cultu re-digitali",
+        "periodo": "dal 27-10-2011 al 28-10-2011"
+      },
+      {
+        "content": "From Text(s) to Book(s)\u201d, Nancy. Peer reviewed paper: From Codices to Books to E-books: the Case of Late Latin Texts, con Maurizio Lana. https://idea-udl.org/from-texts-to-books/",
+        "periodo": "dal 21-06-2012 al 23-06-2012"
+      },
+      {
+        "content": "I cantieri dell'Italianistica. Ricerca, didattica e organizzazione agli inizi del XXI secolo. XVII Congresso dell'Associazione degli Italianisti (Adi), Sapienza Universit\u00e0 Roma. Peer reviewed paper: Analisi tematica del testo letterario e metodi digitali: dal markup alle ontologie.",
+        "periodo": "dal 18-09-2013 al 21-09-2013"
+      },
+      {
+        "content": "TEI Conference 2013, Roma. Peer reviewed paper: \u201cDialogue and linking between TEI and other semantic models\u201d, con Maurizio Lana. Chair della Local Organizing Committee. Membro della Program Committee. http://digilab2.let.uniroma1.it/teiconf2013/",
+        "periodo": "dal 02-10-2013 al 05-10-2013"
+      },
+      {
+        "content": "LOD2014 - Linked Open Data: where are we?, Roma, 20-21 February 2014. Peer reviewed paper: \u201cMethods and experiences in cultural heritage enhancement\u201d, con Francesca Tomasi, Maurizio Lana, Diego Magro, Silvio Peroni e Fabio Vitali. http://www.w3c.it/events/2014/lod2014/",
+        "periodo": "dal 20-02-2014 al 21-02-2014"
+      },
+      {
+        "content": "DARIAH-EU\u2019s 4th General Virtual Competency Centre (VCC) meeting, Roma. Keynote speech: Digital Humanities in Italy and their role in DARIAH research infrastructure. http://dariah.eu/activities/dariah-annual-meeting/4th-general-vcc-meeting.html",
+        "periodo": "dal 17-09-2014 al 19-09-2014"
+      },
+      {
+        "content": "TEI Conference 2014, Evanston (IL), October 22-24 2014. Peer reviewed paper: Formal ontologies, Linked Data and TEI semantics, con Francesca Tomasi. Membro della Program Committee. http://www.tei-c.org/Vault/MembersMeetings/2014/index.html",
+        "periodo": "dal 22-10-2014 al 24-10-2014"
+      },
+      {
+        "content": "Fostering Transatlantic Dialogue on Digital Heritage and EU Research Infrastructures: Initiatives and Solutions in the USA and in Italy, Washington (US). Paper invitato: Digital Infrastructures for Literary and Cultural Studies: State of the Art and Perspectives.",
+        "periodo": "dal 01-12-2014 al 03-12-2014"
+      },
+      {
+        "content": "11th Italian Research Conference on Digital Libraries - IRCDL 2015, Bozen-Bolzano. Peer reviewed paper: Text Encoding Initiative semantic modeling. A conceptual workflow proposal, con Francesca Tomasi, e Marilena Daquino. http://ircdl2015.unibz.it/ircdl2015-program.html",
+        "periodo": "dal 29-01-2015 al 30-01-2015"
+      },
+      {
+        "content": "From Ink and Paper to the Cloud, Final Conference of ERC Project \u201cThe European Correspondence to Jacob Burckhardt\u201d, Scuola Normale Superiore di Pisa,Cortona. Peer reviewed paper: Digital Humanities: models, methods and infrastructures. http://www.sns.it/eventi/ink-and-paper-cloud",
+        "periodo": "dal 09-04-2015 al 11-04-2015"
+      },
+      {
+        "content": "2015 Cultural literacy londra. Peer reviewed paper: Towards a new approach to cultural literacy, con Maurizio Lana e Francesca Tomasi. http://cleurope.eu/events/cle-london-2015/programme/",
+        "periodo": "dal 16-04-2015 al 18-04-2015"
+      },
+      {
+        "content": "Scholarly Networks Colloquium, Brown University, Providence (US). Paper invitato: The hermeneutic machine: ontology driven annotation and interpretative cooperation. http://library.brown.edu/create/dh/conference-scholarly-networks/",
+        "periodo": "dal 16-04-2015 al 18-04-2015"
+      },
+      {
+        "content": "Digital Literary Studies, Coimbra. Peer reviewed paper: A Formal Ontology for Narrative. https://eld2015.wordpress.com/programme/",
+        "periodo": "dal 14-05-2015 al 15-05-2015"
+      },
+      {
+        "content": "The Mechanic Reader. Digital Methods for Literary Criticism, Siena. Tavola rotonda su \"About Franco Moretti\u2019s \u201cDistant reading\u201d, Closing Address. Membro del Board. http://tdtc.bytenet.it/centroideugsu/centrostudi_pag.asp?id=482",
+        "periodo": "dal 12-06-2015 al 13-06-2015"
+      },
+      {
+        "content": "Digital Humanities and Antiquity / Humanit\u00e9s Num\u00e9riques et Antiquit\u00e9s, Universit\u00e9 Stendhal Grenoble 3, Universit\u00e9 Pierre Mend\u00e8s-France Grenoble 2. Peer reviewed paper: Thematic annotation of literary text: the case for ontology, con Raul Mordenti e Daniele Silvi. https://dhant.sciencesconf.org/resource/page/id/12",
+        "periodo": "dal 02-09-2015 al 04-09-2015"
+      },
+      {
+        "content": "L'italianistica oggi: ricerca e didattica, XIX Congresso dell\u2019ADI - Associazione degli Italianisti - Universit\u00e0 di Roma Sapienza e di Roma Tor Vergata. Invited paper: Modelli e metodi computazionali per la critica letteraria: lo stato dell'arte. http://italianisti.it/Congressi-Adi?pg=cms&ext=p&cms_codsec=12&cms_codcms=635",
+        "periodo": "dal 09-09-2015 al 12-09-2015"
+      },
+      {
+        "content": "Intelligent Techniques At LIbraries and Archives 2015. Peer reviewed paper: Using Ontologies as a Faceted Browsing for Heterogeneous Cultural Heritage Collections Francesca Tomasi, Fabio Ciotti, Marilena Daquino, Maurizio Lana Ferrara, Italy, September 22, 2015. http://italia2015.dei.unipd.it/",
+        "periodo": "dal 22-09-2015 al 22-09-2015"
+      },
+      {
+        "content": "TEI conference 2015, Lyon. Peer reviewed paper: An ontology for the TEI (Simple): one step beyond. http://tei2015.huma-num.fr/en/papers.",
+        "periodo": "dal 28-10-2015 al 31-10-2015"
+      },
+      {
+        "content": "Digital Humanities e beni culturali: quale relazione?, AIUCD 2015 Conference. Peer reviewed paper: Digital Heritage/Digital Humanities: una linea di faglia?",
+        "periodo": "dal 17-12-2015 al 19-12-2015"
+      },
+      {
+        "content": "Academia, Cultural Heritage, Society, DiXiT Convention 2, Colonia. Organizzazione del Workshop: Digital Editing Beyond XML. http://dixit.uni-koeln.de/convention-2-abstracts/#workshop-beyond-xml",
+        "periodo": "dal 15-03-2016 al 15-03-2016"
+      },
+      {
+        "content": "Digital Humanities 2016, Cracow. Peer reviewed paper: An OWL 2 Formal Ontology for the Text Encoding Initiative. With Silvio Peroni, Francesca Tomasi, Fabio Vitali. https://www.conftool.pro/dh2016/sessions.php",
+        "periodo": "dal 11-06-2016 al 16-06-2016"
+      },
+      {
+        "content": "Digital Humanities 2016, Cracow. Peer reviwed paper: What's in a Topic Model? https://www.conftool.pro/dh2016/sessions.php",
+        "periodo": "dal 11-07-2016 al 16-07-2016"
+      },
+      {
+        "content": "Edizioni digitali: rappresentazione, interoperabilit\u00e0, analisi del testo e infrastrutture. AIUCD 2016 Conference, Venezia. Peer reviewed paper: Formal ontologies for narrative text analysis.",
+        "periodo": "dal 07-09-2016 al 09-09-2016"
+      },
+      {
+        "content": "TEI conference 2016, Vienna. Peer reviewed paper: We are TEI. You will be assimilated!",
+        "periodo": "dal 26-09-2016 al 30-09-2016"
+      },
+      {
+        "content": "Digital Scholarly Editing: Theory, Practice, Methods. 13 annual conference of the European Society for Textual Scholarship (ESTS), Antwerp. Peer reviewed paper: Toward a New Realism for Digital Textuality. http://uahost.uantwerpen.be /estsdixit2016/index.php/programme/paper -session-d-thursday-6-oct-1400-1530/",
+        "periodo": "dal 05-10-2016 al 07-10-2016"
+      }
+    ],
+    "Responsabilita' di studi e ricerche scientifiche affidati da qualificate istituzioni pubbliche o": [
+      {
+        "content": "Consulente tecnico-scientifico del progetto \u201cBiblioteca Italiana\u201d (http://www.bibliotecaitaliana.it), presso il Dipartimento di Italianistica e Spettacolo, Universit\u00e0 di Roma La Sapienza.",
+        "periodo": "dal 01-01-2003 al 31-12-2011"
+      },
+      {
+        "content": "Consulente scientifico per la progettazione del sistema informativo presso il Dipartimento di Studi Storico-Geografici, Universit\u00e0 di Pavia, nell'ambito del PRIN 2005 \u201cEditoria cattolica del Novecento in Italia\u201d, coordinatore Annibale Zambarbieri.",
+        "periodo": "dal 01-01-2006 al 31-01-2007"
+      },
+      {
+        "content": "Consulente del Dipartimento di Italianistica e Spettacolo, Universit\u00e0 di Roma \u201cLa Sapienza\u201d come membro del gruppo di lavoro sul riassetto, la riorganizzazione e la nuova prospettazione dei contenuti del portale \u201cInternet Culturale\u201d del Ministero per i Beni e le Attivit\u00e0 Culturali, finanziato nell'ambito del programma \"Biblioteca Digitale Italiana\"",
+        "periodo": "dal 01-01-2007 al 31-12-2008"
+      },
+      {
+        "content": "Consulente scientifico del progetto di ricerca \u201cdigilibLT \u2013 Digital Library of Late-Antique Latin Text\u201d (finanziato dalla Regione Piemonte a valere sul \u201cBando regionale in materia di Scienze Umane e Sociali per l\u2019anno 2008\u201d). In questo contesto Fabio Ciotti ha avuto l\u2019incarico di progettare, sviluppare e gestire gli aspetti tecnico-informatici della biblioteca digitale digilibLT (http://www.digiliblt.uniupo.it)",
+        "periodo": "dal 01-01-2009 a oggi"
+      },
+      {
+        "content": "Associatura all'Istituto per il Lessico Intellettuale Europeo e Storia delle Idee (ILIESI) del Consiglio Nazionale delle Ricerche per la partecipazione alle attivit\u00e0 dell'Istituto nell'ambito del progetto Parthenos (Pooling Activities, Resources and Tools for Heritage E-research Networking, Optimization and Synergies), finanziato dalla EU nell'ambito del programma quadro H2020",
+        "periodo": "dal 10-07-2016 a oggi"
+      }
+    ],
+    "Conseguimento di premi e riconoscimenti per l'attivit\u00e0 scientifica, inclusa l\u2019affiliazione ad": [
+      {
+        "content": "Socio fondatore e membro eletto nel Consiglio Direttivo dell\u2019Associazione per l\u2019Informatica Umanistica e la Cultura digitale. Dal settembre 2014 eletto Presidente del Consiglio Direttivo (http://www.aiucd.it)",
+        "periodo": "dal 25-03-2011 a oggi"
+      },
+      {
+        "content": "Membro del Text Encoding Initiative Consortium (TEI) Technical Council (http://ww.tei-c.org)",
+        "periodo": "dal 01-01-2014 al 31-12-2016"
+      },
+      {
+        "content": "Membro della Executive Committee della European Association for Digital Humanities (http://eadh.org)",
+        "periodo": "dal 01-07-2014 a oggi"
+      },
+      {
+        "content": "Membro del Comitato di indirizzo, monitoraggio e valutazione della Scuola \u201ca rete\u201d DiCultHer (Digital Cultural Heritage, Arts and Humanities - www.diculther.eu)",
+        "periodo": "dal 09-11-2015 a oggi"
+      }
+    ],
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "Consulente scientifico della direzione di RAI Educational per la formazione a distanza e le iniziative editoriali on-line",
+        "periodo": "dal 01-01-2001 al 31-12-2002"
+      },
+      {
+        "content": "Consulente della Fondazione BEIC come Capo Progetto delle iniziative di pubblicazione delle collezioni digitali",
+        "periodo": "dal 01-01-2008 al 31-12-2009"
+      },
+      {
+        "content": "Attivit\u00e0 di valutazione e referaggio progetti di ricerca per le seguenti istituzioni: MIUR, valutazione (ex-ante ed ex-post) di progetti di ricerca FIRB; Swiss National Science Foundation; Universit\u00e0 degli studi di Verona.",
+        "periodo": "dal 01-01-2010 a oggi"
+      },
+      {
+        "content": "External Peer Reviewer per la valutazione di progetti di ricerca proposti alle call ERC della European Commission",
+        "periodo": "dal 06-04-2016 a oggi"
+      },
+      {
+        "content": "Membro del panel internazionale di reviewer del programma di finanziamento \"Mixed Methods\u2019 in the Humanities? \u2013 Support for Projects Combining and Synergizing Qualitative-Hermeneutical and Digital Approaches\u201d, della VolkswagenStiftung.",
+        "periodo": "dal 18-07-2016 al 06-09-2016"
+      }
+    ],
+    "Formale attribuzione di incarichi di insegnamento o di ricerca (fellowship) presso": [
+      {
+        "content": "Docente come \u201cProfessor visitant\u201d al corso estivo \u201cLe biblioteche digitali\u201d, Universit\u00e0 di Girona (Barcellona, ES), 3-5 luglio 2002",
+        "periodo": "dal 03-07-2002 al 05-07-2002"
+      },
+      {
+        "content": "Docente alla Trier Digital Humanities Autumn School 2015 \"Methodological Intersections\"",
+        "periodo": "dal 28-09-2015 al 01-10-2015"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Membro e co-fondatore insieme al prof. Giuseppe Gigliozzi del Centro Ricerche Informatica e Letteratura (CRILet) presso il Dipartimento di Studi Filologici, Linguistici e Letterari, Universit\u00e0 di Roma \u201cLa Sapienza\u201d. Dal dicembre 2001, con la trasformazione del Centro in sezione del Dipartimento, membro del Comitato scientifico.",
+        "periodo": "dal 01-01-1993 al 31-12-2003"
+      },
+      {
+        "content": "Membro del progetto \"Digital Atlas With Geographical Ontology For Classical Texts (DAGOClaT)\", coordinatore Dott. Maurizio Lana, Dipartimento di Studi Umanistici, Vercelli, finanziato dalla Fondazione Fondazione Compagnia di San Paolo (panel ESF).",
+        "periodo": "dal 01-01-2013 al 31-12-2015"
+      },
+      {
+        "content": "Membro della unit\u00e0 locale di Roma Tor vergata del Progetto PRIN 2010/11 \"Memoria poetica e poesia della memoria. Ricorrenze lessicali e tematiche nella versificazione epigrafica e nel sistema letterario\" (coordinatore nazionale Paolo Mastandrea).",
+        "periodo": "dal 01-02-2013 al 01-02-2016"
+      },
+      {
+        "content": "Membro della Steering Committee della infrastruttura di ricerca DARIAH-IT (capitolo nazionale della ESFRI DARIAH-EU, www.dariah.eu)",
+        "periodo": "dal 01-09-2013 a oggi"
+      },
+      {
+        "content": "Co-Head del Virtual Competence Center (VCC) 4 (Advocacy, Impact and Outreach) e membro della Joint Research Committee (JRC) della infrastruttura di ricerca europea DARIAH ERIC (http://www.dariah.eu)",
+        "periodo": "dal 01-05-2016 a oggi"
+      }
+    ],
+    "Responsabilita' scientifica per progetti di ricerca internazionali e nazionali, ammessi al": [
+      {
+        "content": "Scientist-in-charge e supervisor per l'unit\u00e0 di Sapienza Universit\u00e0 nel progetto DiXiT (Digital Scholarly Editions Initial Training Network) finanziato come Marie Curie Actions nell'ambito del 7th Framework Programme della Commissione Europea (http://dixit.uni-koeln.de)",
+        "periodo": "dal 01-09-2013 a oggi"
+      },
+      {
+        "content": "Principal Investigator del progetto \"Mining Nineteenth-century Italian Narrative\" finanziato dopo procedura comparativa internazionale nell'ambito del programma di finanziamento alla ricerca \"Consolidate the Foundations 2015\" dell'Universit\u00e0 di Roma Tor Vergata",
+        "periodo": "dal 01-09-2016 a oggi"
+      }
+    ]
+  }
+}

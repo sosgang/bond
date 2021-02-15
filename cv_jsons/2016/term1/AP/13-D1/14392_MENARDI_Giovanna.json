@@ -1,0 +1,845 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s00180-016-0644-8"
+        ],
+        "titolo": "Density-based clustering with non-continuous data",
+        "ISSN": [
+          "0943-4062"
+        ],
+        "journal": "COMPUTATIONAL STATISTICS",
+        "csp": "vol. 31, p. 771-798, ISSN: 0943-4062, doi: 10.1007/s00180-016-0644-8",
+        "anno": "2016",
+        "autori": "Azzalini Adelchi, Menardi Giovanna"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Azzalini Adelchi, Menardi Giovanna (2016). Density-based clustering with",
+        "non-continuous data. COMPUTATIONAL STATISTICS, vol. 31, p. 771-798,",
+        "ISSN: 0943-4062, doi: 10.1007/s00180-016-0644-8"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10. 1111/insr12109"
+        ],
+        "titolo": "A review on modal clustering",
+        "ISSN": [
+          "0306-7734"
+        ],
+        "journal": "INTERNATIONAL STATISTICAL REVIEW",
+        "csp": "vol. 84, p. 413-433, ISSN: 0306-7734, doi: 10. 1111/insr12109",
+        "anno": "2016",
+        "autori": "Menardi G"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Menardi G (2016). A review on modal clustering. INTERNATIONAL",
+        "STATISTICAL REVIEW, vol. 84, p. 413-433, ISSN: 0306-7734, doi: 10.",
+        "1111/insr12109"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "ISBN: 978-88-619-7061-8",
+        "titolo": "Stability-based model selection in nonparametric clustering",
+        "csp": "Salerno",
+        "opera": "Proceedings of the 48th Scientific Meeting of the Italian Statistical Society.",
+        "anno": "2016",
+        "autori": "Menardi G"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Menardi G (2016). Stability-based model selection in nonparametric",
+        "clustering. In: Proceedings of the 48th Scientific Meeting of the Italian",
+        "Statistical Society.. ISBN: 978-88-619-7061-8, Salerno"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1285/i20705948v8n1p44"
+        ],
+        "titolo": "Double clustering for rating mutual funds",
+        "ISSN": [
+          "2070-5948"
+        ],
+        "journal": "ELECTRONIC JOURNAL OF APPLIED STATISTICAL ANALYSIS",
+        "csp": "vol. 8, p. 44-56, ISSN: 2070-5948, doi: 10.1285/i20705948v8n1p44",
+        "anno": "2015",
+        "autori": "Francesco Lisi, Giovanna Menardi"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Francesco Lisi, Giovanna Menardi (2015). Double clustering for rating",
+        "mutual funds. ELECTRONIC JOURNAL OF APPLIED STATISTICAL",
+        "ANALYSIS, vol. 8, p. 44-56, ISSN: 2070-5948, doi:",
+        "10.1285/i20705948v8n1p44"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "5",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "csp": "Santa Margherita di Pula (Cagliari)",
+        "titolo": "A Nonparametric Clustering Method for Image Segmentation.",
+        "opera": "Proceedings of the 10th Scientific Meeting of the Classification and Data Analysis Group of the Italian Statistical Society",
+        "anno": "2015",
+        "autori": "Menardi G."
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "Menardi G. (2015). A Nonparametric Clustering Method for Image",
+        "Segmentation.. In: Proceedings of the 10th Scientific Meeting of the",
+        "Classification and Data Analysis Group of the Italian Statistical Society.",
+        "Santa Margherita di Pula (Cagliari)"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Clustering via Nonparametric Density Estimation: the R Package pdfCluster. ",
+        "ISSN": [
+          "1548-7660"
+        ],
+        "journal": "JOURNAL OF STATISTICAL SOFTWARE",
+        "csp": "vol. 57 , p. 1-26, ISSN: 1548-7660",
+        "anno": "2014",
+        "autori": "A. Azzalini, G. Menardi"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "A. Azzalini, G. Menardi (2014). Clustering via Nonparametric Density",
+        "Estimation: the R Package pdfCluster. . JOURNAL OF STATISTICAL",
+        "SOFTWARE, vol. 57 , p. 1-26, ISSN: 1548-7660"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "ROSE: a package for class imbalance learning",
+        "ISSN": [
+          "1609-3631"
+        ],
+        "journal": "R NEWS",
+        "csp": "vol. 6, p. 79-89, ISSN: 1609-3631",
+        "anno": "2014",
+        "autori": "Lunardon N., Menardi G., Torelli N."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Lunardon N., Menardi G., Torelli N. (2014). ROSE: a package for class",
+        "imbalance learning. R NEWS, vol. 6, p. 79-89, ISSN: 1609-3631"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s11222-013-9400-x"
+        ],
+        "titolo": "An advancement in clustering via nonparametric density estimation",
+        "ISSN": [
+          "0960-3174"
+        ],
+        "journal": "STATISTICS AND COMPUTING",
+        "csp": "vol. 24, p. 753-767, ISSN: 0960-3174, doi: 10.1007/s11222-013-9400-x",
+        "anno": "2014",
+        "autori": "Giovanna Menardi, Adelchi Azzalini"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Giovanna Menardi, Adelchi Azzalini (2014). An advancement in clustering",
+        "via nonparametric density estimation. STATISTICS AND COMPUTING, vol.",
+        "24, p. 753-767, ISSN: 0960-3174, doi: 10.1007/s11222-013-9400-x"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10618-012-0295-5"
+        ],
+        "titolo": "Training and assessing classification rules with imbalanced data",
+        "ISSN": [
+          "1384-5810"
+        ],
+        "journal": "DATA MINING AND KNOWLEDGE DISCOVERY",
+        "csp": "vol. 28, p. 92-122, ISSN: 1384-5810, doi: 10.1007/s10618-012-0295-5",
+        "anno": "2014",
+        "autori": "G. Menardi, N. Torelli"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "G. Menardi, N. Torelli (2014). Training and assessing classification rules",
+        "with imbalanced data. DATA MINING AND KNOWLEDGE DISCOVERY,",
+        "vol. 28, p. 92-122, ISSN: 1384-5810, doi: 10.1007/s10618-012-0295-5"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "10",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "ISBN: 9788884678744",
+        "titolo": "Modal Clustering of Social Networks",
+        "csp": "Cagliari, June 10-14, 2014.",
+        "opera": "47th Scientific Meeting of the Italian Statistical Society PROCEEDINGS",
+        "anno": "2014",
+        "autori": "G. Menardi, D. De Stefano"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "G. Menardi, D. De Stefano (2014). Modal Clustering of Social Networks. In:",
+        "47th Scientific Meeting of the Italian Statistical Society PROCEEDINGS.",
+        "ISBN: 9788884678744, Cagliari, June 10-14, 2014."
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "11",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Effect of training set selection when predicting defaulting small and medium sized enterprises with unbalanced data",
+        "ISSN": [
+          "1744-6619"
+        ],
+        "journal": "THE JOURNAL OF CREDIT RISK",
+        "csp": "vol. 9, p. 47-62, ISSN: 1744-6619",
+        "anno": "2013",
+        "autori": "G. Menardi, N. Torelli"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "G. Menardi, N. Torelli (2013). Effect of training set selection when",
+        "predicting defaulting small and medium sized enterprises with unbalanced",
+        "data. THE JOURNAL OF CREDIT RISK, vol. 9, p. 47-62, ISSN: 1744-6619"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "12",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/00949655.2012.679032"
+        ],
+        "titolo": "Reducing data dimension for cluster detection",
+        "ISSN": [
+          "0094-9655"
+        ],
+        "journal": "JOURNAL OF STATISTICAL COMPUTATION AND SIMULATION",
+        "csp": "vol. 83, p. -2047-2063, ISSN: 0094-9655, doi: 10.1080/00949655.2012.679032",
+        "anno": "2013",
+        "autori": "G. Menardi, N. Torelli"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "G. Menardi, N. Torelli (2013). Reducing data dimension for cluster",
+        "detection. JOURNAL OF STATISTICAL COMPUTATION AND",
+        "SIMULATION, vol. 83, p. -2047-2063, ISSN: 0094-9655, doi:",
+        "10.1080/00949655.2012.679032"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "13",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "175-186",
+        "doi": [
+          "10.1007/978-88-470-2871-5_14"
+        ],
+        "titolo": "Multidimensional connected set detection in clustering based on nonparametric density estimation",
+        "ISBN": [
+          "9788847028708"
+        ],
+        "ISSN": [
+          "1431-1968"
+        ],
+        "csp": "Phisica-Verlag , ISBN: 9788847028708, ISSN: 1431-1968, doi: 10.1007/978-88-470-2871-5_14",
+        "opera": "(a cura di): M. Grigoletto, F. Lisi, S. Petrone, Complex Models and Computational Methods in Statistics. CONTRIBUTIONS TO STATISTICS, p",
+        "anno": "2013",
+        "autori": "G. Menardi"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "G. Menardi (2013). Multidimensional connected set detection in clustering",
+        "based on nonparametric density estimation. In: (a cura di): M. Grigoletto, F.",
+        "Lisi, S. Petrone, Complex Models and Computational Methods in Statistics.",
+        "CONTRIBUTIONS TO STATISTICS, p. 175-186, Phisica-Verlag , ISBN:",
+        "9788847028708, ISSN: 1431-1968, doi: 10.1007/978-88-470-2871-5_14"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "14",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10436-012-0189-y"
+        ],
+        "titolo": "Are performance measures equally stable?",
+        "ISSN": [
+          "1614-2446"
+        ],
+        "journal": "ANNALS OF FINANCE",
+        "csp": "vol. 4, p. 553-570, ISSN: 1614-2446, doi: 10.1007/s10436-012-0189-y",
+        "anno": "2012",
+        "autori": "MENARDI G., LISI F."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "MENARDI G., LISI F. (2012). Are performance measures equally stable?.",
+        "ANNALS OF FINANCE, vol. 4, p. 553-570, ISSN: 1614-2446, doi:",
+        "10.1007/s10436-012-0189-y"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "15",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "On the stability of performance measures over time: an empirical study",
+        "ISSN": [
+          "1522-8746"
+        ],
+        "journal": "THE JOURNAL OF PERFORMANCE MEASUREMENT",
+        "csp": "vol. winter 2011/2012, p. 36-45, ISSN: 1522-8746",
+        "anno": "2012",
+        "autori": "G. MENARDI, F. LISI"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "G. MENARDI, F. LISI (2012). On the stability of performance measures",
+        "over time: an empirical study. THE JOURNAL OF PERFORMANCE",
+        "MEASUREMENT, vol. winter 2011/2012, p. 36-45, ISSN: 1522-8746"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "16",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s11222-010-9169-0"
+        ],
+        "titolo": "Density-based silhouette diagnostics for clustering methods",
+        "ISSN": [
+          "0960-3174"
+        ],
+        "journal": "STATISTICS AND COMPUTING",
+        "csp": "vol. 21, p. 295-308, ISSN: 0960-3174, doi: 10.1007/s11222-010-9169-0",
+        "anno": "2011",
+        "autori": "G. Menardi"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "G. Menardi (2011). Density-based silhouette diagnostics for clustering",
+        "methods. STATISTICS AND COMPUTING, vol. 21, p. 295-308, ISSN:",
+        "0960-3174, doi: 10.1007/s11222-010-9169-0"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "17",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "211-218",
+        "titolo": "On the use of boosting procedures to predict the risk of default",
+        "ISBN": [
+          "9783642133114"
+        ],
+        "csp": "Springer Verlag, ISBN: 9783642133114",
+        "opera": "Fichet, B., Piccolo, D., Verde, R., Vichi, M.. Classification and Multivariate Analysis for Complex Data Structures. p",
+        "anno": "2011",
+        "autori": "G. Menardi, F. Tedeschi, N. Torelli"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "G. Menardi, F. Tedeschi, N. Torelli (2011). On the use of boosting",
+        "procedures to predict the risk of default. In: Fichet, B., Piccolo, D., Verde,",
+        "R., Vichi, M.. Classification and Multivariate Analysis for Complex Data",
+        "Structures. p. 211-218, Springer Verlag, ISBN: 9783642133114"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "18",
+      "type": "Contributo in Atti di convegno",
+      "parsed": {
+        "precsp": "ISBN: 9788861297531",
+        "titolo": "A procedure for detecting high density connected regions in clustering methods",
+        "csp": "Padova",
+        "opera": "7th Conference on Statistical Computation and Complex Systems",
+        "anno": "2011",
+        "autori": "A. Azzalini, G. Menardi"
+      },
+      "rawcontent": [
+        "Contributo in Atti di convegno",
+        "A. Azzalini, G. Menardi (2011). A procedure for detecting high density",
+        "connected regions in clustering methods. In: 7th Conference on Statistical",
+        "Computation and Complex Systems. ISBN: 9788861297531, Padova"
+      ],
+      "anno": "2011"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s00180-016-0644-8"
+        ],
+        "titolo": "Density-based clustering with non-continuous data",
+        "ISSN": [
+          "0943-4062"
+        ],
+        "journal": "COMPUTATIONAL STATISTICS",
+        "csp": "vol. 31, p. 771-798, ISSN: 0943-4062, doi: 10.1007/s00180-016-0644-8",
+        "anno": "2016",
+        "autori": "Azzalini Adelchi, Menardi Giovanna"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Azzalini Adelchi, Menardi Giovanna (2016). Density-based clustering with",
+        "non-continuous data. COMPUTATIONAL STATISTICS, vol. 31, p. 771-798,",
+        "ISSN: 0943-4062, doi: 10.1007/s00180-016-0644-8"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10. 1111/insr12109"
+        ],
+        "titolo": "A review on modal clustering",
+        "ISSN": [
+          "0306-7734"
+        ],
+        "journal": "INTERNATIONAL STATISTICAL REVIEW",
+        "csp": "vol. 84, p. 413-433, ISSN: 0306-7734, doi: 10. 1111/insr12109",
+        "anno": "2016",
+        "autori": "Menardi G"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Menardi G (2016). A review on modal clustering. INTERNATIONAL",
+        "STATISTICAL REVIEW, vol. 84, p. 413-433, ISSN: 0306-7734, doi: 10.",
+        "1111/insr12109"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "ROSE: a package for class imbalance learning",
+        "ISSN": [
+          "1609-3631"
+        ],
+        "journal": "R NEWS",
+        "csp": "vol. 6, p. 79-89, ISSN: 1609-3631",
+        "anno": "2014",
+        "autori": "Lunardon N., Menardi G., Torelli N."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Lunardon N., Menardi G., Torelli N. (2014). ROSE: a package for class",
+        "imbalance learning. R NEWS, vol. 6, p. 79-89, ISSN: 1609-3631"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10618-012-0295-5"
+        ],
+        "titolo": "Training and assessing classification rules with imbalanced data",
+        "ISSN": [
+          "1384-5810"
+        ],
+        "journal": "DATA MINING AND KNOWLEDGE DISCOVERY",
+        "csp": "vol. 28, p. 92-122, ISSN: 1384-5810, doi: 10.1007/s10618-012-0295-5",
+        "anno": "2014",
+        "autori": "G. Menardi, N. Torelli"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "G. Menardi, N. Torelli (2014). Training and assessing classification rules",
+        "with imbalanced data. DATA MINING AND KNOWLEDGE DISCOVERY,",
+        "vol. 28, p. 92-122, ISSN: 1384-5810, doi: 10.1007/s10618-012-0295-5"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Clustering via Nonparametric Density Estimation: the R Package pdfCluster. ",
+        "ISSN": [
+          "1548-7660"
+        ],
+        "journal": "JOURNAL OF STATISTICAL SOFTWARE",
+        "csp": "vol. 57 , p. 1-26, ISSN: 1548-7660",
+        "anno": "2014",
+        "autori": "A. Azzalini, G. Menardi"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "A. Azzalini, G. Menardi (2014). Clustering via Nonparametric Density",
+        "Estimation: the R Package pdfCluster. . JOURNAL OF STATISTICAL",
+        "SOFTWARE, vol. 57 , p. 1-26, ISSN: 1548-7660"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s11222-013-9400-x"
+        ],
+        "titolo": "An advancement in clustering via nonparametric density estimation",
+        "ISSN": [
+          "0960-3174"
+        ],
+        "journal": "STATISTICS AND COMPUTING",
+        "csp": "vol. 24, p. 753-767, ISSN: 0960-3174, doi: 10.1007/s11222-013-9400-x",
+        "anno": "2014",
+        "autori": "Giovanna Menardi, Adelchi Azzalini"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Giovanna Menardi, Adelchi Azzalini (2014). An advancement in clustering",
+        "via nonparametric density estimation. STATISTICS AND COMPUTING, vol.",
+        "24, p. 753-767, ISSN: 0960-3174, doi: 10.1007/s11222-013-9400-x"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/00949655.2012.679032"
+        ],
+        "titolo": "Reducing data dimension for cluster detection",
+        "ISSN": [
+          "0094-9655"
+        ],
+        "journal": "JOURNAL OF STATISTICAL COMPUTATION AND SIMULATION",
+        "csp": "vol. 83, p. -2047-2063, ISSN: 0094-9655, doi: 10.1080/00949655.2012.679032",
+        "anno": "2013",
+        "autori": "G. Menardi, N. Torelli"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "G. Menardi, N. Torelli (2013). Reducing data dimension for cluster",
+        "detection. JOURNAL OF STATISTICAL COMPUTATION AND",
+        "SIMULATION, vol. 83, p. -2047-2063, ISSN: 0094-9655, doi:",
+        "10.1080/00949655.2012.679032"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Effect of training set selection when predicting defaulting small and medium sized enterprises with unbalanced data",
+        "ISSN": [
+          "1744-6619"
+        ],
+        "journal": "THE JOURNAL OF CREDIT RISK",
+        "csp": "vol. 9, p. 47-62, ISSN: 1744-6619",
+        "anno": "2013",
+        "autori": "G. Menardi, N. Torelli"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "G. Menardi, N. Torelli (2013). Effect of training set selection when",
+        "predicting defaulting small and medium sized enterprises with unbalanced",
+        "data. THE JOURNAL OF CREDIT RISK, vol. 9, p. 47-62, ISSN: 1744-6619"
+      ],
+      "anno": "2013"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10436-012-0189-y"
+        ],
+        "titolo": "Are performance measures equally stable?",
+        "ISSN": [
+          "1614-2446"
+        ],
+        "journal": "ANNALS OF FINANCE",
+        "csp": "vol. 4, p. 553-570, ISSN: 1614-2446, doi: 10.1007/s10436-012-0189-y",
+        "anno": "2012",
+        "autori": "MENARDI G., LISI F."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "MENARDI G., LISI F. (2012). Are performance measures equally stable?.",
+        "ANNALS OF FINANCE, vol. 4, p. 553-570, ISSN: 1614-2446, doi:",
+        "10.1007/s10436-012-0189-y"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s11222-010-9169-0"
+        ],
+        "titolo": "Density-based silhouette diagnostics for clustering methods",
+        "ISSN": [
+          "0960-3174"
+        ],
+        "journal": "STATISTICS AND COMPUTING",
+        "csp": "vol. 21, p. 295-308, ISSN: 0960-3174, doi: 10.1007/s11222-010-9169-0",
+        "anno": "2011",
+        "autori": "G. Menardi"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "G. Menardi (2011). Density-based silhouette diagnostics for clustering",
+        "methods. STATISTICS AND COMPUTING, vol. 21, p. 295-308, ISSN:",
+        "0960-3174, doi: 10.1007/s11222-010-9169-0"
+      ],
+      "anno": "2011"
+    }
+  ],
+  "general": {
+    "settore": "13/D1",
+    "progr": "14392",
+    "nome": "MENARDI Giovanna",
+    "fascia": "Seconda"
+  },
+  "titoli": {
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "Contratto di collaborazione al progetto di ricerca PRIN 2002- Metodi statistici per l'integrazione di dati da fonti diverse presso il Dipartimento di Scienze Economiche e Statistiche, Universit\u00e0 degli Studi di Trieste",
+        "periodo": "dal 01-06-2003 al 31-08-2003"
+      },
+      {
+        "content": "Dottorato di ricerca in Statistica applicata alle Scienze Economiche e Sociali, Dipartimento di Scienze Statistiche, Universit\u00e0 degli Studi di Padova.",
+        "periodo": "dal 01-01-2004 al 31-12-2006"
+      },
+      {
+        "content": "Titolare di un contratto di collaborazione coordinata e continuativa con finalit\u00e0 di ricerca, nell'ambito di un progetto FIRB, Dipartimento di Scienze Economiche e Statistiche, Universit\u00e0 degli Studi di Trieste.",
+        "periodo": "dal 01-11-2006 al 31-10-2007"
+      },
+      {
+        "content": "Titolare di assegni di ricerca presso il Dipartimento di Scienze Economiche e Statistiche, Universit\u00e0 degli Studi di Trieste.",
+        "periodo": "dal 01-11-2007 al 31-03-2010"
+      },
+      {
+        "content": "Titolare di una borsa di ricerca, Dipartimento di Scienze Statistiche, Universit\u00e0 degli Studi di Padova",
+        "periodo": "dal 15-04-2010 al 31-12-2010"
+      },
+      {
+        "content": "Titolare di un assegno di ricerca, Dipartimento di Scienze Statistiche, Universit\u00e0 degli Studi di Padova.",
+        "periodo": "dal 01-01-2011 al 15-06-2012"
+      },
+      {
+        "content": "Socio ordinario della Societ\u00e0 Italiana di Statistica",
+        "periodo": "dal 01-06-2016 a oggi"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "XLIII Riunione Scientifica della Societ\u00e0 Italiana di Statistica; Torino (presentazione di un contributo)",
+        "periodo": "dal 14-06-2006 al 16-06-2006"
+      },
+      {
+        "content": "56th Coference of the ISI WORLD STATISTICS, Lisbon (presentazione di un contributo)",
+        "periodo": "dal 22-08-2007 al 29-08-2007"
+      },
+      {
+        "content": "Quinta Riunione Scientifica S.co. Venezia (presentazione di un contributo)",
+        "periodo": "dal 06-09-2007 al 08-09-2007"
+      },
+      {
+        "content": "Sesta riunione scientifica del Classification and Data Analysis Group, Macerata (presentazione di un contributo)",
+        "periodo": "dal 12-09-2007 al 14-09-2007"
+      },
+      {
+        "content": "International Conference on Mathematical and Statistical Methods for Actuarial Sciences and Finance, Venezia (presentazione di un contributo)",
+        "periodo": "dal 28-03-2008 al 29-03-2008"
+      },
+      {
+        "content": "First Joint Meeting of the Soci\u00e9t\u00e9 Francophon\u00e9 de Classification and the Classification and Data Analysis Group of the Italian Statistical Society, Caserta (presentazione di un contributo)",
+        "periodo": "dal 11-06-2008 al 13-06-2008"
+      },
+      {
+        "content": "XLIV Riunione scientifica della Societ\u00e0 Italiana di Statistica, Arcavacata di Rende, Cosenza (presentazione di un contributo)",
+        "periodo": "dal 25-06-2008 al 27-06-2008"
+      },
+      {
+        "content": "XVI European Young Statistician Meeting, Bucharest (relazione invitata)",
+        "periodo": "dal 24-08-2009 al 28-08-2009"
+      },
+      {
+        "content": "7th Meeting of the Classification and data Analysis Group of the Italian Statistical Society, Catania (relazione invitata)",
+        "periodo": "dal 09-09-2009 al 11-09-2009"
+      },
+      {
+        "content": "Sixth Conference S.co, Milano (relazione invitata)",
+        "periodo": "dal 14-09-2009 al 16-09-2009"
+      },
+      {
+        "content": "International Symposium on Business and Industrial Statistics, ISBIS, Portoroz, Slovenia (presentazione di un contributo)",
+        "periodo": "dal 06-07-2010 al 09-07-2010"
+      },
+      {
+        "content": "Computational and Financial Econometrics (CFE 2010), London, UK (presentazione di un contributo)",
+        "periodo": "dal 10-12-2010 al 12-12-2010"
+      },
+      {
+        "content": "7th Conference on Statistical Computation and Complex Systems, Sco, Padova (presentazione di un contributo)",
+        "periodo": "dal 19-09-2011 al 21-09-2011"
+      },
+      {
+        "content": "4th International Conference of the Ercim WG on Computing & Statistics, (ERCIM 2011), London, UK (presentazione di un contributo)",
+        "periodo": "dal 17-12-2011 al 19-12-2011"
+      },
+      {
+        "content": "Conference of the International Federation of Classification Society, (IFCS 2013), Tilburgh, NL (relazione invitata)",
+        "periodo": "dal 14-07-2013 al 17-07-2013"
+      },
+      {
+        "content": "47th SIS Scientific Meeting of the Italian Statistical Society (SIS). Cagliari (presentazione di un contributo)",
+        "periodo": "dal 11-06-2014 al 13-06-2014"
+      },
+      {
+        "content": "Conference of the International Federation of Classification Society (IFCS 2015), Bologna (relazione invitata)",
+        "periodo": "dal 06-07-2015 al 08-07-2015"
+      },
+      {
+        "content": "10th Scientific Meeting of the Classification and Data Analysis Group of the Italian Statistical Society, Santa Margherita di Pula, Cagliari. (relazione invitata)",
+        "periodo": "dal 08-10-2015 al 10-10-2015"
+      },
+      {
+        "content": "48th Scientific Meeting of the Italian Statistical Society, Salerno (presentazione di un contributo)",
+        "periodo": "dal 08-06-2016 al 10-06-2016"
+      }
+    ],
+    "Responsabilita' di studi e ricerche scientifiche affidati da qualificate istituzioni pubbliche o": [
+      {
+        "content": "Responsabile del progetto \"Alcuni sviluppi nelle tecniche di raggruppamento basate sulla stima non parametrica della densit\u00e0: questioni metodologiche e aspetti computazionali\" risultato vincitore di un assegno di ricerca biennale presso il Dipartimento di Scienze Statistiche dell'Universit\u00e0 degli Studi di Padova.",
+        "periodo": "dal 01-01-2011 al 15-06-2012"
+      },
+      {
+        "content": "Responsabile scientifico del work package 4 ``New statistical learning tools for HEP analysis' ', nell'ambito del progetto Advanced Multivariate Analysis for New Physic Searches at the Large Hadron Collider, progetto Marie Curie ITN finanziato dall'Unione Europea.",
+        "periodo": "dal 01-09-2015 a oggi"
+      },
+      {
+        "content": "Supervisore scientifico dell'attivit\u00e0 dottorale di Grzegorz Kotkowski, studente di dottorato in \"Statistical Sciences\" presso l'Universit\u00e0 degli studi di Padova,",
+        "periodo": "dal 01-10-2016 a oggi"
+      }
+    ],
+    "Conseguimento di premi e riconoscimenti per l'attivit\u00e0 scientifica, inclusa l\u2019affiliazione ad": [
+      {
+        "content": "Vincitrice di assegno di ricerca senior presso il Dipartimento di Scienze Statistiche dell'Universit\u00e0 degli Studi di Padova, a seguito della presentazione di un progetto di ricerca e del curriculum dell'attivit\u00e0 scientifica. Titolo del progetto: Alcuni sviluppi nelle tecniche di raggruppamento basate sulla stima non parametrica della densit\u00e0: questioni metodologiche e aspetti computazionali.",
+        "periodo": "dal 01-12-2010 al 30-12-2010"
+      },
+      {
+        "content": "Premio alla ricerca finanziato dal Dipartimento di Scienze Statistiche dell'Universit\u00e0 degli Studi di Padova e conferito per la seguente pubblicazione: Menardi, G., Azzalini. A. (2014). An advancement in clustering via nonparametric density estimation. Statistics and Computing, 24(5): 753-767.",
+        "periodo": "dal 01-01-2014 al 31-12-2014"
+      },
+      {
+        "content": "Premio alla ricerca finanziato dal Dipartimento di Scienze Statistiche dell'Universit\u00e0 degli Studi di Padova e conferito per la seguente pubblicazione: Menardi, G., Torelli, N. (2014). Training and assessing classification rules with imbalanced data. Data Mining and Knowledge Discovery. 28(1): 92-122.",
+        "periodo": "dal 01-01-2015 al 31-12-2015"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Partecipazione come membro dell'unit\u00e0 locale di Trieste al progetto di ricerca PRIN 2002: Metodi statistici per l\u2019integrazione di dati da fonti diverse (coordinatore nazionale: prof. Alberto Zuliani, Universit\u00e0 di Roma \u201cLa Sapienza\u201d).",
+        "periodo": "dal 01-01-2002 al 01-01-2002"
+      },
+      {
+        "content": "Partecipazione come membro dell'unit\u00e0 locale di Trieste al progetto di ricerca FIRB 2003: Modelli di data mining e knowledge management per le piccole e medie imprese (coordinatore nazionale: prof. Paolo Giudici, Universit\u00e0 di Pavia)",
+        "periodo": "dal 01-01-2003 al 01-01-2003"
+      },
+      {
+        "content": "Partecipazione alle attivit\u00e0 di un gruppo di ricerca la cui attivit\u00e0 si \u00e8 concentrata sullo studio di metodi di classificazione in presenza di classi sbilanciate. La composizione del gruppo si \u00e8 evoluta nel tempo ma, nel suo complesso, \u00e8 stata la seguente: Giovanna Menardi, Nicola Torelli (Universit\u00e0 di Trieste), Nicola Lunardon (Universit\u00e0 di Milano Bicocca), Federico Tedeschi (Universit\u00e0 di Verona). La collaborazione ha dato luogo ad alcune pubblicazioni tra quelle presentate ai fini degli indicatori.",
+        "periodo": "dal 01-01-2004 a oggi"
+      },
+      {
+        "content": "Partecipazione come membro dell'unit\u00e0 locale di Trieste al progetto di ricerca Prin 2005:\u00a0L'informazione statistica in agricoltura: necessita' attuali e sviluppi futuri.(coordinatore nazionale: prof. Giommi, Universit\u00e0 di Firenze)",
+        "periodo": "dal 01-01-2005 al 01-01-2005"
+      },
+      {
+        "content": "Partecipazione come membro dell'unit\u00e0 locale di Trieste al Progetto di ricerca Prin 2007:\u00a0Uso efficiente di informazioni ausiliarie per il disegno e l\u2019analisi di indagini campionarie complesse: aspetti teorici ed applicativi per la produzione di statistiche ufficiali (coordinatore nazionale: prof. Giorgio E. Montanari, Universit\u00e0 di Perugia).",
+        "periodo": "dal 01-01-2007 al 01-01-2007"
+      },
+      {
+        "content": "Partecipazione al gruppo di ricerca formato da: Giovanna Menardi, Francesco Lisi (Universit\u00e0 di Padova) e la cui attivit\u00e0 si \u00e8 concentrata sull'uso di metodi statistici per l'analisi di dati finanziari. La collaborazione ha dato luogo ad alcune pubblicazioni tra quelle presentate ai fini degli indicatori.",
+        "periodo": "dal 15-04-2010 a oggi"
+      },
+      {
+        "content": "Partecipazione alle attivit\u00e0 del gruppo di ricerca formato da: Giovanna Menardi, Adelchi Azzalini (Universit\u00e0 di Padova). La collaborazione ha dato luogo ad alcune pubblicazioni tra quelle presentate ai fini degli indicatori.",
+        "periodo": "dal 01-01-2011 a oggi"
+      },
+      {
+        "content": "Partecipazione al gruppo di ricerca formato da: Giovanna Menardi, Domenico De Stefano (Universit\u00e0 di Trieste) e la cui attivit\u00e0 si \u00e8 concentrata sull\u2019uso di metodi di clustering per l\u2019analisi delle reti sociali. La collaborazione ha dato luogo ad alcune pubblicazioni tra quelle presentate ai fini degli indicatori.",
+        "periodo": "dal 01-01-2013 a oggi"
+      },
+      {
+        "content": "Partecipazione al gruppo di ricerca AMVA4NewPhysics, un consorzio tra le seguenti istituzioni beneficiarie INFN - Sezione di Padova, (Italy); University of Oxford (England); Universit\u00e9 Blaise Pascal, Clermont-Ferrand (France); Universit\u00e9 Catholique de Louvain (Belgium); Laborat\u00f3rio de Instrumenta\u00e7\u00e3o e F\u00edsica Experimental de Part\u00edculas, Lisboa (Portugal); Institute of Accelerating Systems and Applications (IASA), Athens (Greece); Universit\u00e0 degli Studi di Padova, (Italy); CERN - Centre Europeen pour la Recherche Nucleaire, Geneva, (Switzerland); Technische Universit\u00e4t M\u00fcnchen, Garching (Germany); partecipanti non beneficiari: University of California, Irvine - Center for Machine Learning and Intelligent Systems, California (USA); Ecole Polytechnique Federale de Lausanne - Institute of Mathematics for Analysis and Applications, Lausanne (Switzerland); Universidad de Oviedo (Spain); National and Kapodistrian University of Athens, (Greece); B12 Consulting, Brussels (Belgium); SDG Consulting S.p.A., Milano (Italy); Yandex, Moscow (Russia); MathWorks (USA). Il gruppo di ricerca si occupa dello sviluppo di metodi statistici multivariati per l'analisi di dati nell'ambito della fisica delle particelle.",
+        "periodo": "dal 01-09-2015 a oggi"
+      }
+    ],
+    "Formale attribuzione di incarichi di insegnamento o di ricerca (fellowship) presso": [
+      {
+        "content": "Ciclo di seminari di Analisi statistiche di dati sperimentali con R. Consorzio Area Science Park, Trieste",
+        "periodo": "dal 01-01-2005 al 31-01-2005"
+      },
+      {
+        "content": "Ciclo di seminari di Analisi statistiche di dati sperimentali con R. Consorzio Area Science Park, Trieste",
+        "periodo": "dal 01-03-2006 al 31-03-2006"
+      },
+      {
+        "content": "Research fellowship - Department of Statistics, University of Glasgow, UK svolto nell'ambito del dottorato di ricerca (responsabile scientifico: prof. Adrian Bowman)",
+        "periodo": "dal 15-06-2006 al 01-09-2006"
+      }
+    ],
+    "Responsabilita' scientifica per progetti di ricerca internazionali e nazionali, ammessi al": [
+      {
+        "content": "Responsabile scientifi co dell'unit\u00e0 di Padova nel progetto europeo \"Advanced Multivariate Analysis for New Physics Searches at the Large Hadron Collider\" iniziativa Marie Sklodowska Curie - Innovative Training Network (Horizon 2020). Coordinatore scienti co del progetto: dott. Tommaso Dorigo, Istituto Nazionale di Fisica Nucleare.",
+        "periodo": "dal 01-09-2015 a oggi"
+      }
+    ]
+  }
+}

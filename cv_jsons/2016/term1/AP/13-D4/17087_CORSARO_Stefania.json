@@ -1,0 +1,822 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/14697688.2014.935465"
+        ],
+        "titolo": "A parallel wavelet-based pricing procedure for Asian options",
+        "ISSN": [
+          "1469-7696"
+        ],
+        "journal": "QUANTITATIVE FINANCE",
+        "csp": "vol. 15, p. 101-113, ISSN: 1469-7696, doi: 10.1080/14697688.2014.935465",
+        "anno": "2015",
+        "autori": "Corsaro Stefania, Marazzina Daniele, Marino Zelda"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Corsaro Stefania, Marazzina Daniele, Marino Zelda (2015). A parallel",
+        "wavelet-based pricing procedure for Asian options. QUANTITATIVE",
+        "FINANCE, vol. 15, p. 101-113, ISSN: 1469-7696, doi:",
+        "10.1080/14697688.2014.935465"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "2",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "281-319",
+        "doi": [
+          "10.1007/978-1-4614-3773-4_11"
+        ],
+        "titolo": "Financial evaluation of life insurance policies in high performance computing environments",
+        "ISBN": [
+          "978-1-4614-3772-7"
+        ],
+        "csp": "New York:Springer US, ISBN: 978-1-4614-3772-7, doi: 10.1007/978-1-4614-3773-4_11",
+        "opera": "Doumpos M Zopounidis C Pardalos P.M. (a cura di): Doumpos M Zopounidis C Pardalos P.M, Financial Decision Making Using Computational Intelligence. vol. 70, p",
+        "anno": "2012",
+        "autori": "Corsaro S, De Angelis P L, Marino Z, Zanetti P"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Corsaro S, De Angelis P L, Marino Z, Zanetti P (2012). Financial evaluation",
+        "of life insurance policies in high performance computing environments. In:",
+        "Doumpos M Zopounidis C Pardalos P.M. (a cura di): Doumpos M",
+        "Zopounidis C Pardalos P.M, Financial Decision Making Using",
+        "Computational Intelligence. vol. 70, p. 281-319, New York:Springer US,",
+        "ISBN: 978-1-4614-3772-7, doi: 10.1007/978-1-4614-3773-4_11"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "3",
+      "type": "Prefazione/Postfazione",
+      "parsed": {
+        "precsp": "293-294",
+        "doi": [
+          "10.1007/978-3-642-29737-3_33"
+        ],
+        "titolo": "Algorithms and Programming Tools for Next-Generation High-Performance Scientific Software HPSS 2011",
+        "ISBN": [
+          "978-3-642-29736-6"
+        ],
+        "csp": "BERLIN HEIDELBERG:Springer-Verlag, ISBN: 978-3-642-29736-6, doi: 10.1007/978-3-642-29737-3_33",
+        "opera": "M. Alexander P. D\u2019Ambra A. Belloum G. Bosilca M. Cannatar [...] Geoffroy Vall\u00e9e J. Weidendorfer, Euro-Par 2011: Parallel Processing Workshops. vol. LNCS 7155, p",
+        "anno": "2012",
+        "autori": "Corsaro S, D'Ambra P, Perla F"
+      },
+      "rawcontent": [
+        "Prefazione/Postfazione",
+        "Corsaro S, D'Ambra P, Perla F (2012). Algorithms and Programming Tools",
+        "for Next-Generation High-Performance Scientific Software HPSS 2011. In:",
+        "M. Alexander P. D\u2019Ambra A. Belloum G. Bosilca M. Cannatar [...] Geoffroy",
+        "Vall\u00e9e J. Weidendorfer, Euro-Par 2011: Parallel Processing Workshops.",
+        "vol. LNCS 7155, p. 293-294, BERLIN HEIDELBERG:Springer-Verlag,",
+        "ISBN: 978-3-642-29736-6, doi: 10.1007/978-3-642-29737-3_33"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10287-009-0100-0"
+        ],
+        "titolo": "Participating life insurance policies: an accurate and efficient parallel software for COTS clusters",
+        "ISSN": [
+          "1619-697X"
+        ],
+        "journal": "COMPUTATIONAL MANAGEMENT SCIENCE",
+        "csp": "vol. 8, p. 219-236, ISSN: 1619-697X, doi: 10.1007/s10287-009-0100-0",
+        "anno": "2011",
+        "autori": "Corsaro S., De Angelis P.., Marino Z., Perla F."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Corsaro S., De Angelis P.., Marino Z., Perla F. (2011). Participating life",
+        "insurance policies: an accurate and efficient parallel software for COTS",
+        "clusters. COMPUTATIONAL MANAGEMENT SCIENCE, vol. 8, p. 219-236,",
+        "ISSN: 1619-697X, doi: 10.1007/s10287-009-0100-0"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "5",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "447-454",
+        "doi": [
+          "10.1007/978-3-642-21878-1_55"
+        ],
+        "titolo": "Wavelet Techniques for Option Pricing on Advanced Architectures",
+        "ISBN": [
+          "978-3-642-21877-4"
+        ],
+        "csp": "BERLIN, HEIDELBERG:Springer, ISBN: 978-3-642-21877-4, doi: 10.1007/978-3-642-21878-1_55",
+        "opera": "Guarracino M.R;Vivien F;Traff J.L;Cannataro M;Danelutto M;Hast A;Perla F; [...] ;Perla F;Kn\u00fcpfer A;Di Martino B;Alexander M, Euro-Par 2010 Parallel Processing Workshops. vol. 6586, p",
+        "anno": "2011",
+        "autori": "Corsaro Stefania, Marazzina Daniele, Marino Zelda"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Corsaro Stefania, Marazzina Daniele, Marino Zelda (2011). Wavelet",
+        "Techniques for Option Pricing on Advanced Architectures. In: Guarracino",
+        "M.R;Vivien F;Traff J.L;Cannataro M;Danelutto M;Hast A;Perla F; [...] ;Perla",
+        "F;Kn\u00fcpfer A;Di Martino B;Alexander M, Euro-Par 2010 Parallel Processing",
+        "Workshops. vol. 6586, p. 447-454, BERLIN, HEIDELBERG:Springer, ISBN:",
+        "978-3-642-21877-4, doi: 10.1007/978-3-642-21878-1_55"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "6",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "471-478",
+        "doi": [
+          "10.1007/978-3-642-21878-1_58"
+        ],
+        "titolo": "Measuring Default Risk in a Parallel ALM Software for Life Insurance Portfolios",
+        "ISBN": [
+          "978-3-642-21877-4"
+        ],
+        "csp": "ISBN: 978-3-642-21877-4, doi: 10.1007/978-3-642-21878-1_58",
+        "opera": "Guarracino M.R;Vivien F;Traff J.L;Cannataro [...] annataro M;Danelutto M;Hast A;Perla F;Kn\u00fcpfer A;Di Martino B;Alexander M, Euro-Par 2010 Parallel Processing Workshops. vol. 6586, p",
+        "anno": "2011",
+        "autori": "Corsaro STEFANIA, Marino ZELDA, Perla Francesca, Zanetti Paolo"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Corsaro STEFANIA, Marino ZELDA, Perla Francesca, Zanetti Paolo",
+        "(2011). Measuring Default Risk in a Parallel ALM Software for Life",
+        "Insurance Portfolios. In: Guarracino M.R;Vivien F;Traff J.L;Cannataro [...]",
+        "annataro M;Danelutto M;Hast A;Perla F;Kn\u00fcpfer A;Di Martino B;Alexander",
+        "M, Euro-Par 2010 Parallel Processing Workshops. vol. 6586, p. 471-478,",
+        "ISBN: 978-3-642-21877-4, doi: 10.1007/978-3-642-21878-1_58"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.parco.2009.10.002"
+        ],
+        "titolo": "On parallel asset-liability management in life insurance: a forward risk-neutral approach",
+        "ISSN": [
+          "0167-8191"
+        ],
+        "journal": "PARALLEL COMPUTING",
+        "csp": "p. 390-402, ISSN: 0167-8191, doi: 10.1016/j.parco.2009.10.002",
+        "anno": "2010",
+        "autori": "CORSARO S., DE ANGELIS P.L., MARINO Z., PERLA F., ZANETTI P"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "CORSARO S., DE ANGELIS P.L., MARINO Z., PERLA F., ZANETTI P",
+        "(2010). On parallel asset-liability management in life insurance: a forward",
+        "risk-neutral approach. PARALLEL COMPUTING, p. 390-402, ISSN:",
+        "0167-8191, doi: 10.1016/j.parco.2009.10.002"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Archetypal analysis of interval data",
+        "ISSN": [
+          "1385-3139"
+        ],
+        "journal": "RELIABLE COMPUTING",
+        "csp": "vol. 14, p. 105-116, ISSN: 1385-3139",
+        "anno": "2010",
+        "autori": "CORSARO S, MARINO M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "CORSARO S, MARINO M (2010). Archetypal analysis of interval data.",
+        "RELIABLE COMPUTING, vol. 14, p. 105-116, ISSN: 1385-3139"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Computational issues in internal models: the case of profit-sharing life insurance policies",
+        "ISSN": [
+          "0390-5780"
+        ],
+        "journal": "GIORNALE DELL'ISTITUTO ITALIANO DEGLI ATTUARI",
+        "csp": "vol. 72, p. 243-262, ISSN: 0390-5780",
+        "anno": "2009",
+        "autori": "CORSARO Stefania, DE ANGELIS Pasquale Luigi, MARINO Zelda, PERLA Francesca, ZANETTI Paolo"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "CORSARO Stefania, DE ANGELIS Pasquale Luigi, MARINO Zelda,",
+        "PERLA Francesca, ZANETTI Paolo (2009). Computational issues in",
+        "internal models: the case of profit-sharing life insurance policies.",
+        "GIORNALE DELL'ISTITUTO ITALIANO DEGLI ATTUARI, vol. 72, p.",
+        "243-262, ISSN: 0390-5780"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "KREMM: an e-learning system for mathematical models applied to Economics and Finance. JE-LKS",
+        "ISSN": [
+          "1971-8829"
+        ],
+        "journal": "JOURNAL OF E-LEARNING AND KNOWLEDGE SOCIETY",
+        "csp": "vol. 5, p. 221-230, ISSN: 1971-8829",
+        "anno": "2009",
+        "autori": "CORSARO S, DE ANGELIS P L, GUARRACINO M R, MARINO Z, MONETTI V, PERLA F, ZANETTI P"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "CORSARO S, DE ANGELIS P L, GUARRACINO M R, MARINO Z,",
+        "MONETTI V, PERLA F, ZANETTI P (2009). KREMM: an e-learning system",
+        "for mathematical models applied to Economics and Finance. JE-LKS.",
+        "JOURNAL OF E-LEARNING AND KNOWLEDGE SOCIETY, vol. 5, p.",
+        "221-230, ISSN: 1971-8829"
+      ],
+      "anno": "2009"
+    },
+    {
+      "id": "11",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1685/CSC06057"
+        ],
+        "titolo": "On Software Development for Financial Evaluation of Participating Life Insurance Policies",
+        "ISSN": [
+          "1827-9015"
+        ],
+        "journal": "COMMUNICATIONS TO SIMAI CONGRESS",
+        "csp": "vol. 2, ISSN: 1827-9015, doi: 10.1685/CSC06057",
+        "anno": "2007",
+        "autori": "CORSARO S, PASQUALE DE ANGELIS P.L, MARINO Z, PERLA F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "CORSARO S, PASQUALE DE ANGELIS P.L, MARINO Z, PERLA F",
+        "(2007). On Software Development for Financial Evaluation of Participating",
+        "Life Insurance Policies. COMMUNICATIONS TO SIMAI CONGRESS, vol.",
+        "2, ISSN: 1827-9015, doi: 10.1685/CSC06057"
+      ],
+      "anno": "2007"
+    },
+    {
+      "id": "12",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s00180-006-0268-5"
+        ],
+        "titolo": "Interval Linear Systems: the State of the Art",
+        "ISSN": [
+          "0943-4062"
+        ],
+        "journal": "COMPUTATIONAL STATISTICS",
+        "csp": "vol. 21, p. 365-384, ISSN: 0943-4062, doi: 10.1007/s00180-006-0268-5",
+        "anno": "2006",
+        "autori": "CORSARO S, MARINO M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "CORSARO S, MARINO M (2006). Interval Linear Systems: the State of the",
+        "Art. COMPUTATIONAL STATISTICS, vol. 21, p. 365-384, ISSN:",
+        "0943-4062, doi: 10.1007/s00180-006-0268-5"
+      ],
+      "anno": "2006"
+    },
+    {
+      "id": "13",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1137/060651203"
+        ],
+        "titolo": "Semi-implicit covolume method in 3D image segmentation",
+        "ISSN": [
+          "1064-8275"
+        ],
+        "journal": "SIAM JOURNAL ON SCIENTIFIC COMPUTING",
+        "csp": "vol. 28, p. 2248-2265, ISSN: 1064-8275, doi: 10.1137/060651203",
+        "anno": "2006",
+        "autori": "CORSARO S, MIKULA K, SARTI A, SGALLARI F"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "CORSARO S, MIKULA K, SARTI A, SGALLARI F (2006). Semi-implicit",
+        "covolume method in 3D image segmentation. SIAM JOURNAL ON",
+        "SCIENTIFIC COMPUTING, vol. 28, p. 2248-2265, ISSN: 1064-8275, doi:",
+        "10.1137/060651203"
+      ],
+      "anno": "2006"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1080/14697688.2014.935465"
+        ],
+        "titolo": "A parallel wavelet-based pricing procedure for Asian options",
+        "ISSN": [
+          "1469-7696"
+        ],
+        "journal": "QUANTITATIVE FINANCE",
+        "csp": "vol. 15, p. 101-113, ISSN: 1469-7696, doi: 10.1080/14697688.2014.935465",
+        "anno": "2015",
+        "autori": "Corsaro Stefania, Marazzina Daniele, Marino Zelda"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Corsaro Stefania, Marazzina Daniele, Marino Zelda (2015). A parallel",
+        "wavelet-based pricing procedure for Asian options. QUANTITATIVE",
+        "FINANCE, vol. 15, p. 101-113, ISSN: 1469-7696, doi:",
+        "10.1080/14697688.2014.935465"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1145/2616909"
+        ],
+        "titolo": "Algorithm 944: Talbot Suite: parallel implementations of Talbot's method for the numerical inversion of Laplace transforms",
+        "ISSN": [
+          "0098-3500"
+        ],
+        "journal": "ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE",
+        "csp": "vol. 40, p. 1-18, ISSN: 0098-3500, doi: 10.1145/2616909",
+        "anno": "2014",
+        "autori": "Antonelli L., Corsaro S, Marino Z., Rizzardi M."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Antonelli L., Corsaro S, Marino Z., Rizzardi M. (2014). Algorithm 944:",
+        "Talbot Suite: parallel implementations of Talbot's method for the numerical",
+        "inversion of Laplace transforms. ACM TRANSACTIONS ON",
+        "MATHEMATICAL SOFTWARE, vol. 40, p. 1-18, ISSN: 0098-3500, doi:",
+        "10.1145/2616909"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "3",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "281-319",
+        "doi": [
+          "10.1007/978-1-4614-3773-4_11"
+        ],
+        "titolo": "Financial evaluation of life insurance policies in high performance computing environments",
+        "ISBN": [
+          "978-1-4614-3772-7"
+        ],
+        "csp": "New York:Springer US, ISBN: 978-1-4614-3772-7, doi: 10.1007/978-1-4614-3773-4_11",
+        "opera": "Doumpos M Zopounidis C Pardalos P.M. (a cura di): Doumpos M Zopounidis C Pardalos P.M, Financial Decision Making Using Computational Intelligence. vol. 70, p",
+        "anno": "2012",
+        "autori": "Corsaro S, De Angelis P L, Marino Z, Zanetti P"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Corsaro S, De Angelis P L, Marino Z, Zanetti P (2012). Financial evaluation",
+        "of life insurance policies in high performance computing environments. In:",
+        "Doumpos M Zopounidis C Pardalos P.M. (a cura di): Doumpos M",
+        "Zopounidis C Pardalos P.M, Financial Decision Making Using",
+        "Computational Intelligence. vol. 70, p. 281-319, New York:Springer US,",
+        "ISBN: 978-1-4614-3772-7, doi: 10.1007/978-1-4614-3773-4_11"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10287-009-0100-0"
+        ],
+        "titolo": "Participating life insurance policies: an accurate and efficient parallel software for COTS clusters",
+        "ISSN": [
+          "1619-697X"
+        ],
+        "journal": "COMPUTATIONAL MANAGEMENT SCIENCE",
+        "csp": "vol. 8, p. 219-236, ISSN: 1619-697X, doi: 10.1007/s10287-009-0100-0",
+        "anno": "2011",
+        "autori": "Corsaro S., De Angelis P.., Marino Z., Perla F."
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Corsaro S., De Angelis P.., Marino Z., Perla F. (2011). Participating life",
+        "insurance policies: an accurate and efficient parallel software for COTS",
+        "clusters. COMPUTATIONAL MANAGEMENT SCIENCE, vol. 8, p. 219-236,",
+        "ISSN: 1619-697X, doi: 10.1007/s10287-009-0100-0"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "5",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "471-478",
+        "doi": [
+          "10.1007/978-3-642-21878-1_58"
+        ],
+        "titolo": "Measuring Default Risk in a Parallel ALM Software for Life Insurance Portfolios",
+        "ISBN": [
+          "978-3-642-21877-4"
+        ],
+        "csp": "ISBN: 978-3-642-21877-4, doi: 10.1007/978-3-642-21878-1_58",
+        "opera": "Guarracino M.R;Vivien F;Traff J.L;Cannataro [...] annataro M;Danelutto M;Hast A;Perla F;Kn\u00fcpfer A;Di Martino B;Alexander M, Euro-Par 2010 Parallel Processing Workshops. vol. 6586, p",
+        "anno": "2011",
+        "autori": "Corsaro STEFANIA, Marino ZELDA, Perla Francesca, Zanetti Paolo"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Corsaro STEFANIA, Marino ZELDA, Perla Francesca, Zanetti Paolo",
+        "(2011). Measuring Default Risk in a Parallel ALM Software for Life",
+        "Insurance Portfolios. In: Guarracino M.R;Vivien F;Traff J.L;Cannataro [...]",
+        "annataro M;Danelutto M;Hast A;Perla F;Kn\u00fcpfer A;Di Martino B;Alexander",
+        "M, Euro-Par 2010 Parallel Processing Workshops. vol. 6586, p. 471-478,",
+        "ISBN: 978-3-642-21877-4, doi: 10.1007/978-3-642-21878-1_58"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "6",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "447-454",
+        "doi": [
+          "10.1007/978-3-642-21878-1_55"
+        ],
+        "titolo": "Wavelet Techniques for Option Pricing on Advanced Architectures",
+        "ISBN": [
+          "978-3-642-21877-4"
+        ],
+        "csp": "BERLIN, HEIDELBERG:Springer, ISBN: 978-3-642-21877-4, doi: 10.1007/978-3-642-21878-1_55",
+        "opera": "Guarracino M.R;Vivien F;Traff J.L;Cannataro M;Danelutto M;Hast A;Perla F; [...] ;Perla F;Kn\u00fcpfer A;Di Martino B;Alexander M, Euro-Par 2010 Parallel Processing Workshops. vol. 6586, p",
+        "anno": "2011",
+        "autori": "Corsaro Stefania, Marazzina Daniele, Marino Zelda"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Corsaro Stefania, Marazzina Daniele, Marino Zelda (2011). Wavelet",
+        "Techniques for Option Pricing on Advanced Architectures. In: Guarracino",
+        "M.R;Vivien F;Traff J.L;Cannataro M;Danelutto M;Hast A;Perla F; [...] ;Perla",
+        "F;Kn\u00fcpfer A;Di Martino B;Alexander M, Euro-Par 2010 Parallel Processing",
+        "Workshops. vol. 6586, p. 447-454, BERLIN, HEIDELBERG:Springer, ISBN:",
+        "978-3-642-21877-4, doi: 10.1007/978-3-642-21878-1_55"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Archetypal analysis of interval data",
+        "ISSN": [
+          "1385-3139"
+        ],
+        "journal": "RELIABLE COMPUTING",
+        "csp": "vol. 14, p. 105-116, ISSN: 1385-3139",
+        "anno": "2010",
+        "autori": "CORSARO S, MARINO M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "CORSARO S, MARINO M (2010). Archetypal analysis of interval data.",
+        "RELIABLE COMPUTING, vol. 14, p. 105-116, ISSN: 1385-3139"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1016/j.parco.2009.10.002"
+        ],
+        "titolo": "On parallel asset-liability management in life insurance: a forward risk-neutral approach",
+        "ISSN": [
+          "0167-8191"
+        ],
+        "journal": "PARALLEL COMPUTING",
+        "csp": "p. 390-402, ISSN: 0167-8191, doi: 10.1016/j.parco.2009.10.002",
+        "anno": "2010",
+        "autori": "CORSARO S., DE ANGELIS P.L., MARINO Z., PERLA F., ZANETTI P"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "CORSARO S., DE ANGELIS P.L., MARINO Z., PERLA F., ZANETTI P",
+        "(2010). On parallel asset-liability management in life insurance: a forward",
+        "risk-neutral approach. PARALLEL COMPUTING, p. 390-402, ISSN:",
+        "0167-8191, doi: 10.1016/j.parco.2009.10.002"
+      ],
+      "anno": "2010"
+    },
+    {
+      "id": "9",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "87-111",
+        "titolo": "On high performance software development for the numerical simulation of life insurance policies",
+        "ISBN": [
+          "9781584889250"
+        ],
+        "csp": "Chapman & Hall/CRC Financial Mathematics Series, ISBN: 9781584889250",
+        "opera": "Numerical Methods for Finance. vol. 8, p",
+        "anno": "2007",
+        "autori": "CORSARO S, DE ANGELIS P.L, MARINO Z, PERLA F"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "CORSARO S, DE ANGELIS P.L, MARINO Z, PERLA F (2007). On high",
+        "performance software development for the numerical simulation of life",
+        "insurance policies. In: Numerical Methods for Finance. vol. 8, p. 87-111,",
+        "Chapman & Hall/CRC Financial Mathematics Series, ISBN:",
+        "9781584889250"
+      ],
+      "anno": "2007"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s00180-006-0268-5"
+        ],
+        "titolo": "Interval Linear Systems: the State of the Art",
+        "ISSN": [
+          "0943-4062"
+        ],
+        "journal": "COMPUTATIONAL STATISTICS",
+        "csp": "vol. 21, p. 365-384, ISSN: 0943-4062, doi: 10.1007/s00180-006-0268-5",
+        "anno": "2006",
+        "autori": "CORSARO S, MARINO M"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "CORSARO S, MARINO M (2006). Interval Linear Systems: the State of the",
+        "Art. COMPUTATIONAL STATISTICS, vol. 21, p. 365-384, ISSN:",
+        "0943-4062, doi: 10.1007/s00180-006-0268-5"
+      ],
+      "anno": "2006"
+    }
+  ],
+  "general": {
+    "settore": "13/D4",
+    "progr": "17087",
+    "nome": "CORSARO Stefania",
+    "fascia": "Seconda"
+  },
+  "titoli": {
+    "Direzione o partecipazione a comitati editoriali di riviste, collane editoriali, enciclopedie e": [
+      {
+        "content": "Membro del comitato editoriale della rivista \"British Journal of Mathematics &Computer Science\", SCIENCEDOMAIN international, ISSN: 2231-0851",
+        "periodo": "dal 01-05-2005 a oggi"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Relatore al IV Convegno Nazionale della Societ\u00e0 italiana di matematica applicata all'industria (SIMAI), tenutosi a Messina nel 1998. Titolo della relazione: \"Basic linear algebra operations based on the fast wavelet transform in a parallel distributed environment\".",
+        "periodo": "dal 01-06-1998 al 05-06-1998"
+      },
+      {
+        "content": "Relatore alla conferenza \"International conference on inverse problems\", tenutasi a Vietri, Salerno, nel 1998. Titolo della relazione: \"On the parallel implementation of the fast wavelet packet transform on MIMD distributed memory environments\".",
+        "periodo": "dal 28-09-1998 al 02-10-1998"
+      },
+      {
+        "content": "Relatore alla conferenza \"The 4th International Conference on Parallel Computation ACPC99\", tenutasi a Salisburgo, Austria, nel 1999. Titolo della relazione: \"On the parallel implementation of the fast wavelet packet transform on MIMD distributed memory environments\".",
+        "periodo": "dal 16-02-1999 al 18-02-1999"
+      },
+      {
+        "content": "Membro del comitato organizzatore della conferenza \"the 4th European conference on numerical mathematics and advanced applications (ENUMATH) 2001\", tenutasi a Ischia, Napoli, nel 2001. Ha curato l'edizione del volume dei proceedings della conferenza suddetta: \"Brezzi F., Buff a A., Corsaro S., and Murli A., (Eds), Numerical Mathematics and Advanced Applications\". Springer-Verlag Italia, Milano, 2003.",
+        "periodo": "dal 01-01-2001 al 20-12-2001"
+      },
+      {
+        "content": "Relatore alla conferenza \"The 2005 International Conference on High Performance Computing and Communications HPCC2005\", tenutasi a Sorrento, Napoli, nel 2005. Titolo della relazione: \"The impact of different stiff ODE solvers in parallel simulation of diesel combustion\".",
+        "periodo": "dal 21-09-2005 al 23-09-2005"
+      },
+      {
+        "content": "Relatore al XXX Convegno nazionale AMASES, tenutosi a Trieste nel 2006. Titolo della relazione: \"KREMM: a web-based tool to learn mathematics for economic and fi nancial applications\".",
+        "periodo": "dal 04-09-2006 al 07-09-2006"
+      },
+      {
+        "content": "Relatore alla conferenza \"The 2006 International Conference on High Performance Computing and Communications HPCC06\", tenutasi a Monaco, Germania, nel 2006. Titolo della relazione: \"Introducing combustion-turbulence interaction in parallel simulation of diesel engines\".",
+        "periodo": "dal 13-09-2006 al 15-09-2006"
+      },
+      {
+        "content": "Membro del comitato di programma della conferenza \"The Fifteen Euromicro Conference on Parallel, Distributed and Network-based Processing\", tenutasi a Napoli nel 2007. Ha partecipato alla selezione di articoli scientifici, pubblicati successivamente nel numero speciale \"Special issue on parallel, distributed and network-based processing: real world scientific and technical applications\" della rivista \"International Journal of Computational Science and Engineering\", Inderscience Publishers.",
+        "periodo": "dal 01-01-2007 al 20-12-2007"
+      },
+      {
+        "content": "Relatore al \"The First Workshop on Parallel and Distributed Computing in Finance (Computational Finance), PDCoF-08\", satellite della conferenza \"The 22nd IEEE International Symposium on Parallel and Distributed Processing, IPDPS 2008\", tenutasi a Miami, Florida, nel 2008. Titolo della relazione: \"Financial evaluation of participating life insurance policies in distributed environments\".",
+        "periodo": "dal 18-04-2008 al 18-04-2008"
+      },
+      {
+        "content": "Membro del comitato di programma della conferenza Euro-par 2009, tenutasi a Delft, Olanda, nel 2009.",
+        "periodo": "dal 25-08-2009 al 28-08-2009"
+      },
+      {
+        "content": "Membro del comitato organizzatore del \"Workshop on high-performance computing applied to finance\", satellite della conferenza Euro-Par 2010, tenutasi a Ischia, Napoli, nel 2010.",
+        "periodo": "dal 01-01-2010 al 30-08-2010"
+      },
+      {
+        "content": "Relatore al \"Workshop on high-performance computing applied to finance\", satellite della conferenza Euro-Par 2010, Ischia, Napoli, 2010. Titolo della relazione: \"Measuring default risk in a parallel ALM software for life insurance portfolios\".",
+        "periodo": "dal 30-08-2010 al 30-08-2010"
+      },
+      {
+        "content": "Membro del comitato organizzatore del \"Workshop on Algorithms and Programming Tools for Next-Generation High-Performance Scienti fic Software\", satellite della Conferenza Euro-Par 2011, tenutasi a Bordeaux, Francia, nel 2011.",
+        "periodo": "dal 01-01-2011 al 29-08-2011"
+      }
+    ],
+    "Responsabilita' di studi e ricerche scientifiche affidati da qualificate istituzioni pubbliche o": [
+      {
+        "content": "Associato di ricerca presso l'Istituto di calcolo e reti ad alte prestazioni del Consiglio nazionale delle ricerche (ICAR-CNR) per partecipare allo svolgimento di attivit\u00e0 di ricerca all'interno della commessa strategica \"ICT.P05.003/Griglie computazionali pervasive per il calcolo scientifico ad alte prestazioni\".",
+        "periodo": "dal 01-07-2006 al 31-12-2006"
+      },
+      {
+        "content": "Associato di ricerca presso l'ICAR-CNR per partecipare allo svolgimento di attivit\u00e0 di ricerca all'interno della commessa strategica \"ICT.P09.002/Griglie computazionali pervasive per il calcolo scientifico ad alte prestazioni\".",
+        "periodo": "dal 01-01-2007 al 31-12-2007"
+      },
+      {
+        "content": "Associato di ricerca presso l'ICAR-CNR per partecipare allo svolgimento di attivit\u00e0 di ricerca all'interno della commessa strategica \"ICT.P09.002/Griglie computazionali pervasive per il calcolo scientifico ad alte prestazioni\" .",
+        "periodo": "dal 28-12-2009 al 31-12-2010"
+      },
+      {
+        "content": "Associato di ricerca presso l'ICAR-CNR per partecipare allo svolgimento di attivit\u00e0 di ricerca all'interno della commessa strategica \"ICT.P09.002/Griglie computazionali pervasive per il calcolo scientifico ad alte prestazioni\".",
+        "periodo": "dal 01-01-2011 al 30-06-2011"
+      },
+      {
+        "content": "Associato di ricerca presso l'ICAR-CNR per partecipare allo svolgimento di attivit\u00e0 di ricerca all'interno della commessa strategica \"ICT.P09.002/Griglie computazionali pervasive per il calcolo scientifico ad alte prestazioni\".",
+        "periodo": "dal 03-10-2011 al 31-12-2013"
+      },
+      {
+        "content": "Associato di ricerca presso l'ICAR-CNR per partecipare allo svolgimento di attivit\u00e0 di ricerca all'interno della commessa strategica \"ICT.P09.002/Metodi, Algoritmi e Software Innovativi per le Scienze Computazionali\".",
+        "periodo": "dal 01-01-2014 al 30-06-2014"
+      }
+    ],
+    "Conseguimento di premi e riconoscimenti per l'attivit\u00e0 scientifica, inclusa l\u2019affiliazione ad": [
+      {
+        "content": "Referee per la rivista International Journal of Computational Science and Engineering, Inderscience Publishers, ISSN: 1742-7185.",
+        "periodo": "dal 01-05-2006 al 31-05-2006"
+      },
+      {
+        "content": "Referee per la rivista Applied Mathematics and Computation, Elsevier, ISSN: 0096-3003.",
+        "periodo": "dal 01-05-2012 al 31-05-2012"
+      },
+      {
+        "content": "Referee per la rivista Quantitative Finance, Taylor & Francis, ISSN: 1469-7688.",
+        "periodo": "dal 01-10-2013 al 31-10-2013"
+      },
+      {
+        "content": "Referee per la rivista Applied Soft Computing, Elsevier, ISSN: 1568-4946.",
+        "periodo": "dal 01-12-2016 al 31-12-2016"
+      }
+    ],
+    "Partecipazione al collegio dei docenti ovvero attribuzione di incarichi di insegnamento,": [
+      {
+        "content": "Membro del collegio dei docenti del XXIX ciclo del corso di dottorato in ''Economia quantitativa ed eurolinguaggi per la sostenibilit\u00e0 del benessere'' - DOT1341008, durata triennale. Universit\u00e0 di Napoli ''Parthenope''.",
+        "periodo": "dal 01-01-2014 al 31-12-2016"
+      },
+      {
+        "content": "Incarico di insegnamento per il XXIX ciclo del corso di dottorato in ''Economia quantitativa ed eurolinguaggi per la sostenibilit\u00e0 del benessere'' - DOT1341008, Universit\u00e0 di Napoli ''Parthenope''. Denominazione del corso: \"Algebra Lineare e introduzione a MatLab\".",
+        "periodo": "dal 02-01-2014 al 31-12-2014"
+      },
+      {
+        "content": "Membro del collegio dei docenti del XXX ciclo del corso di dottorato in ''Economia, statistica e sostenibilit\u00e0'' - DOT1341008, durata triennale. Universit\u00e0 di Napoli ''Parthenope''.",
+        "periodo": "dal 01-01-2015 a oggi"
+      },
+      {
+        "content": "Incarico di insegnamento per il XXX ciclo del corso di dottorato in '''Economia, statistica e sostenibilit\u00e0'' - DOT1341008, Universit\u00e0 di Napoli \"Parthenope\". Denominazione del corso: \"Algebra lineare avanzata\".",
+        "periodo": "dal 02-01-2015 al 31-12-2015"
+      },
+      {
+        "content": "Membro del collegio dei docenti del XXXI ciclo del corso di dottorato in ''Economia, statistica e sostenibilit\u00e0'' - DOT1341008, durata triennale. Universit\u00e0 di Napoli ''Parthenope''.",
+        "periodo": "dal 01-11-2015 a oggi"
+      },
+      {
+        "content": "Incarico di insegnamento per il XXXI ciclo del corso di dottorato in 'Economia, statistica e sostenibilit\u00e0'' - DOT1341008, Universit\u00e0 di Napoli ''Parthenope''. Denominazione del corso: \"Algebra lineare avanzata\".",
+        "periodo": "dal 02-11-2015 al 31-10-2016"
+      }
+    ],
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "Ricercatrice presso l'Istituto di calcolo e reti ad alte prestazioni del Consiglio nazionale delle ricerche (ICAR-CNR), inquadrata nel s.s.d MAT/08 (Analisi numerica).",
+        "periodo": "dal 21-12-2001 al 12-01-2005"
+      },
+      {
+        "content": "Attivit\u00e0 di docenza presso l'Universit\u00e0 di Napoli \"Parthenope\": Matematica generale (3 cfu), Corso di laurea di I livello in management delle imprese turistiche.",
+        "periodo": "dal 01-10-2004 al 30-09-2008"
+      },
+      {
+        "content": "Attivit\u00e0 di docenza presso l'Universit\u00e0 di Napoli \"Parthenope\": Matematica generale (6 cfu), corso di laurea di I livello in Economia aziendale, percorso sperimentale in Business management.",
+        "periodo": "dal 01-10-2005 al 30-09-2008"
+      },
+      {
+        "content": "Attivit\u00e0 di docenza presso l'Universit\u00e0 di Napoli \"Parthenope\": Informatica (6 cfu), corso di laurea di I livello in statistica e informatica per la gestione delle imprese.",
+        "periodo": "dal 01-10-2005 al 30-09-2008"
+      },
+      {
+        "content": "Attivit\u00e0 di docenza nell'ambito della Scuola Interdisciplinare Campana di Specializzazione per l'Insegnamento (SICSI), classe A048 (Matematica applicata): Metodi matematici per le decisioni (30 ore).",
+        "periodo": "dal 01-10-2005 al 30-09-2009"
+      },
+      {
+        "content": "Attivit\u00e0 di docenza presso l'Universit\u00e0 di Napoli \"Parthenope\": Metodi di matematica applicata (9 cfu), corso di laurea di I livello in Economia aziendale.",
+        "periodo": "dal 01-10-2008 a oggi"
+      },
+      {
+        "content": "Attivit\u00e0 di docenza presso l'Universit\u00e0 di Napoli Federico II: Matematica (7 cfu), corso di laurea in Medicina veterinaria.",
+        "periodo": "dal 01-10-2010 al 30-09-2011"
+      },
+      {
+        "content": "Attivit\u00e0 di docenza presso l'Universit\u00e0 di Napoli \"Parthenope\": Ricerca operativa (9 cfu), corso di laurea di II livello in Management delle aziende marittime.",
+        "periodo": "dal 01-10-2010 al 30-09-2014"
+      },
+      {
+        "content": "Attivit\u00e0 di docenza nell'ambito dei corsi di Tirocino Formativo Attivo (TFA), classe A048, presso l'Universit\u00e0 di Napoli \"Parthenope\": Didattica della matematica applicata (12 ore).",
+        "periodo": "dal 01-10-2011 al 30-09-2015"
+      },
+      {
+        "content": "Attivit\u00e0 di docenza nell'ambito dei Percorsi Abilitanti Speciali (PAS), classe A048: Didattica della Matematica applicata (18 ore).",
+        "periodo": "dal 01-10-2013 al 30-09-2014"
+      },
+      {
+        "content": "Attivit\u00e0 di docenza presso l'Universit\u00e0 di Napoli \"Parthenope\": Modelli matematici per i mercati finanziari (6 cfu), corso di laurea di I livello in Economia aziendale.",
+        "periodo": "dal 01-10-2014 a oggi"
+      },
+      {
+        "content": "Contratto d'opera con l\u2019Universit\u00e0 di Napoli \"Parthenope\" nell\u2019ambito della realizzazione del Progetto \"Sapere Vedere la Matematica: realizzazione di un itinerario didattico basato sull\u2019approccio Problem Solving\", operazione finanziata dal Piano di Azione e Coesione III Riprogrammazione, Linea II, Decreto Dirigenziale n. 765 della Regione Campania del 03/10/2014. Oggetto del contratto: attivit\u00e0 di ricerca in ambito didattico-pedagocico, finalizzata alla definizione di un itinerario didattico di contenuto matematico-statistico rivolto a studenti della scuola secondaria superiore. L'obiettivo del progetto era migliorare il livello di alfabetizzazione matematica degli studenti, intesa come capacit\u00e0 di formulare problemi reali legati al mondo dell'economia e della finanza in termini matematici, riconoscere e applicare gli strumenti matematici pertinenti per la loro risoluzione e interpretare la soluzione in termini reali. Allo scopo si \u00e8 scelto un approccio pedagogico costruttivista, in base al quale l'apprendimento \u00e8 inteso come costruzione dinamica della conoscenza, che avviene a partire dall\u2019esperienza in maniera graduale. Prodotto dell'attivit\u00e0 \u00e8 stato un laboratorio didattico di contenuto matematico-statistico orientato al problema, ispirato dagli studi in tale ambito di George Polya. Ogni unit\u00e0 didattica \u00e8 stata sviluppata intorno a uno specifico argomento curricolare, individuato come modello matematico per la risoluzione di un set di problemi reali proposti. A partire proprio dai problemi, l'obiettivo era stimolare gli studenti a individuare e applicare gli strumenti matematici richiesti per la risoluzione. Al fine di verificare l'impatto del progetto, sono state sviluppate anche tre prove di verifica, una in ingresso, una in itinere e una in uscita.",
+        "periodo": "dal 01-11-2015 al 31-03-2016"
+      },
+      {
+        "content": "Contratto d'opera con l\u2019Universit\u00e0 di Napoli \"Parthenope\" nell\u2019ambito della realizzazione del Progetto \"Sapere Vedere la Matematica: realizzazione di un itinerario didattico basato sull\u2019approccio Problem Solving\", operazione finanziata dal Piano di Azione e Coesione III Riprogrammazione, Linea II, Decreto Dirigenziale n. 765 della Regione Campania del 03/10/2014. Oggetto del contratto: docenza presso una delle scuole secondarie superiori coinvolte nel progetto. L'attivit\u00e0 didattica consisteva nell'erogazione del materiale didattico sviluppato nell'ambito del progetto. Sono state utilizzate diverse componenti strumentali al processo educativo, quali diapositive, applicazioni interattive (in Ms Excel e Geogebra), dispense didattiche per gli allievi, casi di studio. Sono stati inoltre somministrati esercizi singoli e di gruppo, simulazione di prove PISA e test per la valutazione delle competenze acquisite.",
+        "periodo": "dal 01-02-2016 al 31-03-2016"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Gruppo di ricerca sulle funzioni wavelets. Il gruppo, del quale la sottoscritta ha fatto parte durante il dottorato di ricerca, era formato da ricercatori della Universit\u00e0 di Napoli Federico II e del Centro per il calcolo parallelo e i supercalcolatori del Consiglio nazionale della ricerche (CPS-CNR), oggi Istituto di calcolo e reti ad alte prestazioni (ICAR-CNR). In tale contesto, l'attivit\u00e0 ha riguardato la progettazione di algoritmi e software basati sulla Trasformata wavelet discreta in ambienti di calcolo parallelo. L'attivit\u00e0 \u00e8 stata finanziata durante il periodo di redazione della tesi di laurea con una borsa di studio per laureandi del CNR nell'a.a. 1995/96. Il gruppo ha poi lavorato nell'ambito dei progetti: - Analisi Numerica: metodi e software matematico, Progetto nazionale di ricerca MIUR PRIN 1997-99. - Problemi inversi nell'imaging medico, Progetto nazionale di ricerca MIUR PRIN 2000-02. L'attivit\u00e0 \u00e8 stata anche finanziata con un contratto di collaborazione scientifica di durata semestrale con il CPS-CNR nell'ambito del Progetto CNR-Regione Campania \"Sistemi per Applicazioni Generali a Parallelismo Massiccio: Supporto a Tempo di Esecuzione e Ambienti a Basso Livello per Applicazioni di Calcolo Tecnico-Scientifico ad Alte Prestazioni\", dal mese di settembre del 2000 al mese di febbraio del 2001. I risultati sono stati oggetto di relazioni ai seguenti congressi nazionali e internazionali: - IV Convegno Nazionale della Societ\u00e0 italiana di matematica applicata all'industria (SIMAI), Messina, 1998; - International conference on inverse problems, Vietri, Salerno, 1998; - the 4th International Conference on Parallel Computation, ACPC99, Salisburgo, Austria, 1999; e pubblicati in (una selezione): S. Corsaro, L. D'Amore, A. Murli. On the parallel implementation of the fast wavelet packet transform on mimd distributed memory environments. In Peter Zinterhof, Marian Vajtersic, and Andreas Uhl, editors, Parallel Computation, volume 1557 of Lecture Notes in Computer Science, pages 357-366. Springer Berlin-Heidelberg, 1999.",
+        "periodo": "dal 01-11-1995 al 31-03-2001"
+      },
+      {
+        "content": "Gruppo di ricerca sulla risoluzione numerica di equazioni differenziali alle derivate parziali. Il gruppo, del quale la sottoscritta ha fatto parte durante il triennio in cui \u00e8 stata ricercatrice presso l'ICAR-CNR (da dicembre 2001 a gennaio 2005), era formato da ricercatori dell'ICAR e delle Universit\u00e0 di Napoli Federico II, di Bologna e di Bratislava. L'attivit\u00e0 di ricerca riguardava la risoluzione numerica di equazioni differenziali alle derivate parziali in problemi di analisi di immagini. Il gruppo ha lavorato nell'ambito dei progetti: - Problemi inversi nell'imaging medico, Progetto nazionale di ricerca MIUR PRIN 2000-02. - Piattaforme abilitanti per griglie computazionali a elevate prestazioni orientate a organizzazioni virtuali scalabili, Progetto FIRB Grid.it 2003-2005. - Efficient and robust computational methods for biomedical image analysis, Collaborative linkage grant, NATO science programme, 2003-2005. In quest'ultimo, la sottoscritta \u00e8 stata responsabile dell'Unit\u00e0 Operativa di Napoli. I risultati sono stati oggetto di relazioni al seguente congresso: - VI Convegno Nazionale SIMAI, Chia Laguna, Cagliari, 2002; e pubblicati in (una selezione): - S. Corsaro, K. Mikula, A. Sarti, F. Sgallari. Semi-implicit covolume method in 3d image segmentation. Siam journal on scientific computing, n. 28(6), pg. 2248-2265, 2006.",
+        "periodo": "dal 01-04-2001 al 30-11-2006"
+      },
+      {
+        "content": "Gruppo di ricerca sulla risoluzione numerica di equazioni differenziali ordinarie. Il gruppo, del quale la sottoscritta ha fatto parte durante il triennio in cui \u00e8 stata ricercatrice presso l'ICAR-CNR (da dicembre 2001 a gennaio 2005), era formato da ricercatori dell'ICAR e dell'Istituto motori del CNR. L'attivit\u00e0 di ricerca riguardava la risoluzione numerica di equazioni differenziali ordinarie, nel contesto della simulazione della combustione nei motori diesel. Il gruppo ha lavorato nell'ambito del progetto: - Sviluppo di pi\u00f9 efficaci algoritmi di calcolo e software in ambiente parallelo per la modellistica termifluidodinamica della combustione dei motori a combustione interna e loro integrazione in codici di largo utilizzo in ambiente motoristico (Kiva-3V), Progetto di Ricerca Scientifica della Regione Campania L.R. N.5, annualit\u00e0 2002. I risultati della ricerca sono stati oggetto di relazioni ai seguenti congressi internazionali: - The 2005 International Conference on High Performance Computing and Communications Conference, Sorrento, Napoli, 2005; - The 2006 International Conference on High Performance Computing and Communications HPCC06, Monaco, Germania, 2006; - SIAM Conference on parallel processing for scientific computing, San Francisco, USA, 2006; - The 31st FISITA 2006 World Automotive Congress, Yokohama, Giappone, 2006; e pubblicati nei lavori (una selezione): - P. Belardini, C. Bertoli, S. Corsaro, P. D'Ambra. Multidimensional Modeling of Advanced Diesel Combustion System by Parallel Chemistry, Society for Automotive Engineers (SAE) SAE Technical Paper 2005-01-0201, 2005. - P. Belardini, C. Bertoli, S. Corsaro, P. D'Ambra. The impact of different stiff ode solvers in parallel simulation of diesel combustion. In: Laurence Yang, Omer Rana, Beniamino Di Martino, and Jack Dongarra, editors, High Performance Computing and Communications, volume 3726 of Lecture Notes in Computer Science, pg. 958-968. Springer Berlin - Heidelberg, 2005. - P. Belardini, C. Bertoli, S. Corsaro, P. D'Ambra. Introducing combustion-turbulence interaction in parallel simulation of diesel engines. In: Michael Gerndt and Dieter Kranzlmuller, editors, High Performance Computing and Communications, volume 4208 of Lecture Notes in Computer Science, pg. 1-10. Springer Berlin-Heidelberg, 2006.",
+        "periodo": "dal 01-01-2003 al 31-10-2006"
+      },
+      {
+        "content": "Gruppo di ricerca su dati a intervallo. Il gruppo era formato da ricercatori dell'Universit\u00e0 di Napoli Federico II e dalla sottoscritta. L'attivit\u00e0 riguardava lo sviluppo e l'applicazione di tecniche basate sull'aritmetica dei dati a intervallo. I risultati della ricerca sono stati oggetto di una relazione al congresso: - Joint Meeting of the Classification and Data Analysis Group of the Italian Statistical Society (CLADAG) and the German Classification Society (GfKl), Firenze, 2010; e pubblicati nei lavori: - S. Corsaro, M. Marino. Interval linear systems: the state of the art. Computational statistics, 21, pg. 365-384, 2006. - S. Corsaro, M. Marino. Archetypal analysis of interval data. Reliable computing, n. 14, pg. 105-116, 2010.",
+        "periodo": "dal 10-01-2005 al 20-12-2010"
+      },
+      {
+        "content": "Gruppo di ricerca sulla valutazione di portafogli di polizze vita. Il gruppo \u00e8 formato da ricercatori dell'Universit\u00e0 di Napoli \"Parthenope\". L'attivit\u00e0 riguarda lo sviluppo di algoritmi paralleli per la risoluzione di alcuni nuclei computazionali dei modelli interni delle imprese di assicurazione. Il gruppo ha lavorato nell'ambito dei progetti: - Aspetti numerici nella risoluzione dei nuclei computazionali per la valutazione di portafogli di polizze vita. Progetto di Ricerca Scientifica della Regione Campania L.R. N.5, annualit\u00e0 2006 (finanziato nell'anno 2009). - Aspetti computazionali nei modelli interni delle imprese di assicurazione: il caso delle gestioni separate. Progetto di Ricerca Scientifica della Regione Campania L.R. N.5, annualit\u00e0 2009 (finanziato nell'anno 2015). I risultati sono stati oggetto di relazioni ai seguenti congressi nazionali e internazionali: - XXIX Convegno nazionale AMASES, Trieste, 2005; - VIII Convegno nazionale SIMAI, Ragusa, 2006; - International Conference on Numerical Methods for Finance, Dublino, Irlanda, 2006; - The 2nd International Conference on Numerical Methods for Finance, Dublino, Irlanda, 2008; - The 18th International AFIR Colloquium, Roma, 2008; - The First Workshop on Parallel and Distributed Computing in Finance (Computational Finance), PDCoF-08, satellite della Conferenza ''The 22nd IEEE International Symposium on Parallel and Distributed Processing, IPDPS 2008, Miami, USA, 2008; - Workshop on High performance computing applied to finance, satellite della conferenza Euro-Par 2010, Ischia, Napoli, 2010; e pubblicati nei lavori (una selezione): - S. Corsaro, P.L. De Angelis, Z. Marino, F. Perla. On high performance software development for the numerical simulation of life insurance policies. In: Numerical Methods for Finance, volume 8, pg. 87-111. Chapman and Hall/CRC Financial Mathematics Series, GBR, 2007. - S. Corsaro, P.L. De Angelis, Z. Marino, F. Perla, P. Zanetti. Computational issues in internal models: the case of profit-sharing life insurance policies. Giornale dell'Istituto Italiano degli Attuari, volume LXXII, p. 237-256, 2009. - S. Corsaro, P.L. De Angelis, Z. Marino, F. Perla, P. Zanetti. On parallel asset-liability management in life insurance: a forward risk-neutral approach. Parallel computing, n. 36, pg. 390-402, 2010. - S. Corsaro, P.L. De Angelis, Z. Marino, F. Perla. Participating life insurance policies: an accurate and efficient parallel software for cots clusters. Computational management science n. 8(3) pg. 219-236, 2011. - S. Corsaro, P.L. De Angelis, Z. Marino, P. Zanetti. Financial evaluation of life insurance policies in high performance computing environments. In: Financial Decision Making Using Computational Intelligence, volume 70, pg. 273-310, Springer, 2012.",
+        "periodo": "dal 12-01-2005 a oggi"
+      },
+      {
+        "content": "Gruppo di ricerca su elearning. Il gruppo era formato da ricercatori delle Universit\u00e0 di Napoli \"Parthenope\" e Federico II insieme a ricercatori dell'ICAR-CNR. L'attivit\u00e0 ha riguardato la progettazione e lo sviluppo di KREMM, un ambiente multimediale interattivo per lo studio della Matematica per le applicazioni economiche e finanziarie. KREMM \u00e8 un sistema orientato al problema: a partire da un set di problemi economici e finanziari predisposti, lo studente \u00e8 guidato nello studio degli strumenti matematici richiesti per la risoluzione. Il gruppo ha lavorato nell'ambito dei progetti: - KREMM: una base di conoscenza per modelli matematici. Progetto di Ricerca Scientifica della Regione Campania L.R. N.5, annualit\u00e0 2003 (finanziato nell'anno 2005). - PROMETEO Nuove tecnologie per il monitoraggio e la modellistica ambientale, il trasferimento tecnologico e per l\u2019integrazione dei saperi a sostegno della ricerca giovane. Progetto di Ricerca Scientifica della Regione Campania L.R. N. 13/04 del 20.12.2004, annualit\u00e0 2009. I risultati sono stati oggetto di relazioni ai seguenti congressi nazionali e internazionali: - XXX Convegno nazionale AMASES, Trieste, 2006; - IADIS International Conference e-Learning 2007, Lisbona, Portogallo, 2007; e pubblicati nel lavoro: - S. Corsaro, P.L. De Angelis, M. Guarracino, Z. Marino, V. Monetti, F. Perla, p. Zanetti. Kremm: an e-learning system for mathematical models applied to economics and finance. Journal of e-learning and knowledge society, n. 5, pg. 221-230, 2009.",
+        "periodo": "dal 12-01-2005 al 20-12-2009"
+      },
+      {
+        "content": "Gruppo sulla valutazione di opzioni finanziarie. Il gruppo \u00e8 attualmente costituito da ricercatori dell'Universit\u00e0 di Napoli ''Parthenope'', del Politecnico di Milano e della Cass Business School di Londra. L'attivit\u00e0 riguarda lo sviluppo di modelli e algoritmi paralleli per la valutazione di opzioni asiatiche con date di monitoraggio discrete. In una prima fase, che ha visto coinvolti i ricercatori di Napoli e Milano, la ricerca ha riguardato l'uso di tecniche wavelet per lo sviluppo di procedure di valutazione efficienti. Il gruppo ha lavorato nell'ambito del progetto: - Valutazione numerica di opzioni su un paniere titoli. Progetto di Ricerca Scientifica della Regione Campania L.R. N.5, annualit\u00e0 2007 (finanziato nell'anno 2016). I risultati finora ottenuti sono stati oggetto di relazioni ai seguenti congressi nazionali e internazionali: - Workshop on high performance computing applied to finance, satellite della conferenza Euro-Par 2010, Ischia, Napoli, 2010; - International Conference on Applied and Computational Mathematics (ICACM), Ankara, Turchia, 2012; e pubblicati nei lavori: - S. Corsaro, D. Marazzina, Z. Marino. Wavelet techniques for option opricing on advanced architectures, LNCS, n. 6586, pg. 447-454. - S. Corsaro, D. Marazzina, Z. Marino. A parallel wavelet-based pricing procedure for Asian options, Quantitative Finance, n. 15(1), pg. 101-113, 2015. Attualmente il gruppo si occupa dello sviluppo di modelli di valutazione con volatilit\u00e0 stocastica e dei relativi algoritmi paralleli per la risoluzione.",
+        "periodo": "dal 10-01-2010 a oggi"
+      },
+      {
+        "content": "Gruppo di ricerca sulla Trasformata di Laplace. Il gruppo \u00e8 formato da ricercatori dell'Universit\u00e0 di Napoli \"Parthenope\" e dell'ICAR-CNR. Obiettivo dell'attivit\u00e0 \u00e8 stato, in una prima fase, lo sviluppo di una libreria di software parallelo per l'inversione numerica della Trasformata di Laplace. I risultati ottenuti finora sono stati pubblicati nel lavoro: - L. Antonelli, S. Corsaro, M. Rizzardi, Z. Marino. Algorithm 944: Talbot Suite: Parallel Implementations of Talbot's Method for the Numerical Inversion of Laplace Transforms, ACM Transactions on Mathematical Software (TOMS), n. 40(4), articolo n. 29, 2014. Attualmente il gruppo si occupa sia dell'integrazione di ulteriori metodi di inversione nella libreria, sia della sua sperimentazione nell'ambito della valutazione di strumenti finanziari.",
+        "periodo": "dal 10-01-2012 a oggi"
+      },
+      {
+        "content": "Gruppo di ricerca su ottimizzazione di portafoglio. Il gruppo \u00e8 costituito da ricercatori dell'Universit\u00e0 di Napoli \"Parthenope\" e della Seconda Universit\u00e0 di Napoli. Obiettivo della ricerca \u00e8 lo sviluppo di algoritmi di ottimizzazione per la selezione di portafoglio. Il modello di riferimento \u00e8 il modello media-varianza di Markowitz, corretto con un termine di regolarizzazione in norma l1, che migliora la stabilit\u00e0 e permette di costruire portafogli sparsi. I risultati finora ottenuti sono descritti in un lavoro sottoposto per pubblicazione e sono stati presentati nella relazione: - S. Corsaro, V. De Simone. An iterative regularization method for portfolio selection. Workshop ''Advances in Regularization Methods for Applied Inverse Problems'', satellite del congresso nazionale SIMAI2016, Milano, 2016.",
+        "periodo": "dal 10-01-2015 a oggi"
+      }
+    ],
+    "Responsabilita' scientifica per progetti di ricerca internazionali e nazionali, ammessi al": [
+      {
+        "content": "Responsabile scientifico dell'unit\u00e0 di Napoli nel progetto \"Efficient and Robust Computational Methods for Biomedical Image Analysis\". NATO Science Programme, Cooperative Science and Technology Sub-Programme, Collaborative Linkage grant PST.CLG.979123, 2003-2004.",
+        "periodo": "dal 01-01-2003 al 31-12-2004"
+      }
+    ]
+  }
+}

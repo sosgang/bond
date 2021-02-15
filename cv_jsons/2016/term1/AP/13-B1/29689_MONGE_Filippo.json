@@ -1,0 +1,723 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "1-234",
+        "titolo": "Le fondazioni bancarie: cultura, valore, innovazione. p",
+        "ISBN": [
+          "978-88-917-1088-8"
+        ],
+        "csp": "Milano:Franco Angeli, ISBN: 978-88-917-1088-8",
+        "anno": "2016",
+        "autori": "Monge Filippo"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Monge Filippo (2016). Le fondazioni bancarie: cultura, valore, innovazione.",
+        "p. 1-234, Milano:Franco Angeli, ISBN: 978-88-917-1088-8"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "1-154",
+        "titolo": "Entrepreneurship. p",
+        "ISBN": [
+          "9-788834-859223"
+        ],
+        "csp": "TORINO:G.Giappichelli Editore, ISBN: 9-788834-859223",
+        "anno": "2016",
+        "autori": "Monge Filippo"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Monge Filippo (2016). Entrepreneurship. p. 1-154, TORINO:G.Giappichelli",
+        "Editore, ISBN: 9-788834-859223"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "The widespread hotel: New hotel model for business tourist",
+        "ISSN": [
+          "2328-7721"
+        ],
+        "journal": "JOURNAL OF INVESTMENT AND MANAGEMENT",
+        "csp": "vol. 4, p. 69-76, ISSN: 2328-7721",
+        "anno": "2015",
+        "autori": "F.Monge, D.Cattaneo, A.Scilla"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "F.Monge, D.Cattaneo, A.Scilla (2015). The widespread hotel: New hotel",
+        "model for business tourist. JOURNAL OF INVESTMENT AND",
+        "MANAGEMENT, vol. 4, p. 69-76, ISSN: 2328-7721"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "4",
+      "type": "Prefazione/Postfazione",
+      "parsed": {
+        "precsp": "9-10",
+        "titolo": "Prefazione",
+        "ISBN": [
+          "9-788834-858721"
+        ],
+        "csp": "TORINO:G.Giappichelli Editore, ISBN: 9-788834-858721",
+        "opera": "P.Gerbaldo. Compagnia Italiana Grandi Alberghi. p",
+        "anno": "2015",
+        "autori": "Monge F."
+      },
+      "rawcontent": [
+        "Prefazione/Postfazione",
+        "Monge F. (2015). Prefazione. In: P.Gerbaldo. Compagnia Italiana Grandi",
+        "Alberghi. p. 9-10, TORINO:G.Giappichelli Editore, ISBN: 9-788834-858721"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "5",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "199-204",
+        "titolo": "Conclusioni e prospettive",
+        "ISBN": [
+          "9-788823-844407"
+        ],
+        "csp": "MILANO:EGEA, ISBN: 9-788823-844407",
+        "opera": "(a cura di): F.Monge G.Provvisiero, Il settore delle costruzioni in Piemonte e Valle d'Aosta, Mercati, dinamiche e strutture. p",
+        "anno": "2014",
+        "autori": "Monge F."
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Monge F. (2014). Conclusioni e prospettive. In: (a cura di): F.Monge",
+        "G.Provvisiero, Il settore delle costruzioni in Piemonte e Valle d'Aosta,",
+        "Mercati, dinamiche e strutture. p. 199-204, MILANO:EGEA, ISBN:",
+        "9-788823-844407"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "6",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "154-173",
+        "titolo": "Ritardi nei pagamenti:impatto ed effetti sul settore",
+        "ISBN": [
+          "9-788823-844407"
+        ],
+        "csp": "MILANO:EGEA, ISBN: 9-788823-844407",
+        "opera": "(a cura di): F.Monge G.Provvisiero, Il settore delle costruzioni in Piemonte e Valle d'Aosta, Mercati, dinamiche e strutture. p",
+        "anno": "2014",
+        "autori": "Monge F."
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Monge F. (2014). Ritardi nei pagamenti:impatto ed effetti sul settore. In: (a",
+        "cura di): F.Monge G.Provvisiero, Il settore delle costruzioni in Piemonte e",
+        "Valle d'Aosta, Mercati, dinamiche e strutture. p. 154-173, MILANO:EGEA,",
+        "ISBN: 9-788823-844407"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "7",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "23-54",
+        "titolo": "L'analisi economica del settore delle costruzioni",
+        "ISBN": [
+          "978-88-238-4440-7"
+        ],
+        "csp": "MILANO:EGEA, ISBN: 978-88-238-4440-7",
+        "opera": "(a cura di): F.Monge G.Provvisiero, Il settore delle costruzioni in Piemonte e Valle d'Aosta. p",
+        "anno": "2014",
+        "autori": "Monge Filippo"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Monge Filippo (2014). L'analisi economica del settore delle costruzioni. In:",
+        "(a cura di): F.Monge G.Provvisiero, Il settore delle costruzioni in Piemonte e",
+        "Valle d'Aosta. p. 23-54, MILANO:EGEA, ISBN: 978-88-238-4440-7"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "8",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "91-107",
+        "titolo": "Il mercato immobiliare",
+        "ISBN": [
+          "9-788823-844407"
+        ],
+        "csp": "MILANO:EGEA, ISBN: 9-788823-844407",
+        "opera": "(a cura di): F.Monge G.Provvisiero, Il settore delle costruzioni in Piemonte e Valle d'Aosta, Mercati, dinamiche e strutture. p",
+        "anno": "2014",
+        "autori": "Monge F."
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Monge F. (2014). Il mercato immobiliare. In: (a cura di): F.Monge",
+        "G.Provvisiero, Il settore delle costruzioni in Piemonte e Valle d'Aosta,",
+        "Mercati, dinamiche e strutture. p. 91-107, MILANO:EGEA, ISBN:",
+        "9-788823-844407"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "9",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "109-120",
+        "titolo": "Dinamiche demografiche e politiche urbane",
+        "csp": "MILANO:EGEA",
+        "opera": "(a cura di): F.Monge G.Provvisiero, Il settore delle costruzioni in Piemonte e Valle d'Aosta, Mercati, dinamiche e strutture. p",
+        "anno": "2014",
+        "autori": "Monge F."
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Monge F. (2014). Dinamiche demografiche e politiche urbane. In: (a cura",
+        "di): F.Monge G.Provvisiero, Il settore delle costruzioni in Piemonte e Valle",
+        "d'Aosta, Mercati, dinamiche e strutture. p. 109-120, MILANO:EGEA"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "10",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "67-90",
+        "titolo": "L'occupazione nel settore delle costruzioni",
+        "ISBN": [
+          "9-788823-844407"
+        ],
+        "csp": "MILANO:EGEA, ISBN: 9-788823-844407",
+        "opera": "(a cura di): F.Monge G.Provvisiero, Il settore delle costruzioni in Piemonte e Valle d'Aosta, Mercati, dinamiche e strutture. p",
+        "anno": "2014",
+        "autori": "Monge F."
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Monge F. (2014). L'occupazione nel settore delle costruzioni. In: (a cura di):",
+        "F.Monge G.Provvisiero, Il settore delle costruzioni in Piemonte e Valle",
+        "d'Aosta, Mercati, dinamiche e strutture. p. 67-90, MILANO:EGEA, ISBN:",
+        "9-788823-844407"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "11",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "70-79",
+        "titolo": "Turismo e customer satisfaction in Piemonte",
+        "ISBN": [
+          "9788897940043"
+        ],
+        "csp": "Morgex:Conti Editore, ISBN: 9788897940043",
+        "opera": "C.Bergonzo P. Bondonio C. Emanuel C.Guala M. Manente V. Minghetti F.Monge M.E.Rossi G. Spinetti. Impatto economico, ricadute e redditivit\u00e0 del turismo in Piemonte. p",
+        "anno": "2012",
+        "autori": "F.MONGE"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "F.MONGE (2012). Turismo e customer satisfaction in Piemonte. In:",
+        "C.Bergonzo P. Bondonio C. Emanuel C.Guala M. Manente V. Minghetti",
+        "F.Monge M.E.Rossi G. Spinetti. Impatto economico, ricadute e redditivit\u00e0",
+        "del turismo in Piemonte. p. 70-79, Morgex:Conti Editore, ISBN:",
+        "9788897940043"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "12",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "Milano:Franco Angeli Editore",
+        "titolo": "Sistema Impresa Cultura, Valore, Innovazione (terza edizione)",
+        "ISBN": [
+          "9788820401740"
+        ],
+        "csp": "ISBN: 9788820401740",
+        "anno": "2012",
+        "autori": "F.Monge"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "F.Monge (2012). Sistema Impresa Cultura, Valore, Innovazione (terza",
+        "edizione). Milano:Franco Angeli Editore, ISBN: 9788820401740"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "13",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Mice Tourism in Piedmont:economic perspective and quantitative analysis of customer satisfaction",
+        "ISSN": [
+          "1790-8418"
+        ],
+        "journal": "TOURISMOS",
+        "csp": "vol. 6, p. 213-220, ISSN: 1790-8418",
+        "anno": "2011",
+        "autori": "F.Monge, P.Brandimarte"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "F.Monge, P.Brandimarte (2011). Mice Tourism in Piedmont:economic",
+        "perspective and quantitative analysis of customer satisfaction.",
+        "TOURISMOS, vol. 6, p. 213-220, ISSN: 1790-8418"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "14",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "1-276",
+        "titolo": "Strategie di marketing del territorio. p",
+        "ISBN": [
+          "9788834883853"
+        ],
+        "csp": "TORINO:Giappichelli, ISBN: 9788834883853",
+        "anno": "2008",
+        "autori": "F. Monge"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "F. Monge (2008). Strategie di marketing del territorio. p. 1-276,",
+        "TORINO:Giappichelli, ISBN: 9788834883853"
+      ],
+      "anno": "2008"
+    },
+    {
+      "id": "15",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "1-260",
+        "titolo": "Impresa e territorio: programmazione negoziata in Provincia di Torino. p",
+        "ISBN": [
+          "9788846486615"
+        ],
+        "csp": "Milano:Franco Angeli, ISBN: 9788846486615",
+        "anno": "2007",
+        "autori": "F. Monge"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "F. Monge (2007). Impresa e territorio: programmazione negoziata in",
+        "Provincia di Torino. p. 1-260, Milano:Franco Angeli, ISBN: 9788846486615"
+      ],
+      "anno": "2007"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "1-234",
+        "titolo": "Le fondazioni bancarie: cultura, valore, innovazione. p",
+        "ISBN": [
+          "978-88-917-1088-8"
+        ],
+        "csp": "Milano:Franco Angeli, ISBN: 978-88-917-1088-8",
+        "anno": "2016",
+        "autori": "Monge Filippo"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Monge Filippo (2016). Le fondazioni bancarie: cultura, valore, innovazione.",
+        "p. 1-234, Milano:Franco Angeli, ISBN: 978-88-917-1088-8"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "1-154",
+        "titolo": "Entrepreneurship. p",
+        "ISBN": [
+          "9-788834-859223"
+        ],
+        "csp": "TORINO:G.Giappichelli Editore, ISBN: 9-788834-859223",
+        "anno": "2016",
+        "autori": "Monge Filippo"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "Monge Filippo (2016). Entrepreneurship. p. 1-154, TORINO:G.Giappichelli",
+        "Editore, ISBN: 9-788834-859223"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "The widespread hotel: New hotel model for business tourist",
+        "ISSN": [
+          "2328-7721"
+        ],
+        "journal": "JOURNAL OF INVESTMENT AND MANAGEMENT",
+        "csp": "vol. 4, p. 69-76, ISSN: 2328-7721",
+        "anno": "2015",
+        "autori": "F.Monge, D.Cattaneo, A.Scilla"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "F.Monge, D.Cattaneo, A.Scilla (2015). The widespread hotel: New hotel",
+        "model for business tourist. JOURNAL OF INVESTMENT AND",
+        "MANAGEMENT, vol. 4, p. 69-76, ISSN: 2328-7721"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "4",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "67-90",
+        "titolo": "L'occupazione nel settore delle costruzioni",
+        "ISBN": [
+          "9-788823-844407"
+        ],
+        "csp": "MILANO:EGEA, ISBN: 9-788823-844407",
+        "opera": "(a cura di): F.Monge G.Provvisiero, Il settore delle costruzioni in Piemonte e Valle d'Aosta, Mercati, dinamiche e strutture. p",
+        "anno": "2014",
+        "autori": "Monge F."
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Monge F. (2014). L'occupazione nel settore delle costruzioni. In: (a cura di):",
+        "F.Monge G.Provvisiero, Il settore delle costruzioni in Piemonte e Valle",
+        "d'Aosta, Mercati, dinamiche e strutture. p. 67-90, MILANO:EGEA, ISBN:",
+        "9-788823-844407"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "5",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "23-54",
+        "titolo": "L'analisi economica del settore delle costruzioni",
+        "ISBN": [
+          "978-88-238-4440-7"
+        ],
+        "csp": "MILANO:EGEA, ISBN: 978-88-238-4440-7",
+        "opera": "(a cura di): F.Monge G.Provvisiero, Il settore delle costruzioni in Piemonte e Valle d'Aosta. p",
+        "anno": "2014",
+        "autori": "Monge Filippo"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Monge Filippo (2014). L'analisi economica del settore delle costruzioni. In:",
+        "(a cura di): F.Monge G.Provvisiero, Il settore delle costruzioni in Piemonte e",
+        "Valle d'Aosta. p. 23-54, MILANO:EGEA, ISBN: 978-88-238-4440-7"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "6",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "154-173",
+        "titolo": "Ritardi nei pagamenti:impatto ed effetti sul settore",
+        "ISBN": [
+          "9-788823-844407"
+        ],
+        "csp": "MILANO:EGEA, ISBN: 9-788823-844407",
+        "opera": "(a cura di): F.Monge G.Provvisiero, Il settore delle costruzioni in Piemonte e Valle d'Aosta, Mercati, dinamiche e strutture. p",
+        "anno": "2014",
+        "autori": "Monge F."
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Monge F. (2014). Ritardi nei pagamenti:impatto ed effetti sul settore. In: (a",
+        "cura di): F.Monge G.Provvisiero, Il settore delle costruzioni in Piemonte e",
+        "Valle d'Aosta, Mercati, dinamiche e strutture. p. 154-173, MILANO:EGEA,",
+        "ISBN: 9-788823-844407"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "7",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "91-107",
+        "titolo": "Il mercato immobiliare",
+        "ISBN": [
+          "9-788823-844407"
+        ],
+        "csp": "MILANO:EGEA, ISBN: 9-788823-844407",
+        "opera": "(a cura di): F.Monge G.Provvisiero, Il settore delle costruzioni in Piemonte e Valle d'Aosta, Mercati, dinamiche e strutture. p",
+        "anno": "2014",
+        "autori": "Monge F."
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Monge F. (2014). Il mercato immobiliare. In: (a cura di): F.Monge",
+        "G.Provvisiero, Il settore delle costruzioni in Piemonte e Valle d'Aosta,",
+        "Mercati, dinamiche e strutture. p. 91-107, MILANO:EGEA, ISBN:",
+        "9-788823-844407"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "8",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "70-79",
+        "titolo": "Turismo e customer satisfaction in Piemonte",
+        "ISBN": [
+          "9788897940043"
+        ],
+        "csp": "Morgex:Conti Editore, ISBN: 9788897940043",
+        "opera": "C.Bergonzo P. Bondonio C. Emanuel C.Guala M. Manente V. Minghetti F.Monge M.E.Rossi G. Spinetti. Impatto economico, ricadute e redditivit\u00e0 del turismo in Piemonte. p",
+        "anno": "2012",
+        "autori": "F.MONGE"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "F.MONGE (2012). Turismo e customer satisfaction in Piemonte. In:",
+        "C.Bergonzo P. Bondonio C. Emanuel C.Guala M. Manente V. Minghetti",
+        "F.Monge M.E.Rossi G. Spinetti. Impatto economico, ricadute e redditivit\u00e0",
+        "del turismo in Piemonte. p. 70-79, Morgex:Conti Editore, ISBN:",
+        "9788897940043"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "titolo": "Mice Tourism in Piedmont:economic perspective and quantitative analysis of customer satisfaction",
+        "ISSN": [
+          "1790-8418"
+        ],
+        "journal": "TOURISMOS",
+        "csp": "vol. 6, p. 213-220, ISSN: 1790-8418",
+        "anno": "2011",
+        "autori": "F.Monge, P.Brandimarte"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "F.Monge, P.Brandimarte (2011). Mice Tourism in Piedmont:economic",
+        "perspective and quantitative analysis of customer satisfaction.",
+        "TOURISMOS, vol. 6, p. 213-220, ISSN: 1790-8418"
+      ],
+      "anno": "2011"
+    },
+    {
+      "id": "10",
+      "type": "Monografia o trattato scientifico",
+      "parsed": {
+        "precsp": "1-260",
+        "titolo": "Impresa e territorio: programmazione negoziata in Provincia di Torino. p",
+        "ISBN": [
+          "9788846486615"
+        ],
+        "csp": "Milano:Franco Angeli, ISBN: 9788846486615",
+        "anno": "2007",
+        "autori": "F. Monge"
+      },
+      "rawcontent": [
+        "Monografia o trattato scientifico",
+        "F. Monge (2007). Impresa e territorio: programmazione negoziata in",
+        "Provincia di Torino. p. 1-260, Milano:Franco Angeli, ISBN: 9788846486615"
+      ],
+      "anno": "2007"
+    }
+  ],
+  "general": {
+    "settore": "13/B1",
+    "progr": "29689",
+    "nome": "MONGE Filippo",
+    "fascia": "Seconda"
+  },
+  "titoli": {
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "Socio della Fondazione Cassa di Risparmio di Saluzzo",
+        "periodo": "dal 20-07-1992 al 19-07-2002"
+      },
+      {
+        "content": "Membro del Consiglio di Amministrazione e dei relativi gruppi di lavoro, ricerca e studio del Consorzio dei Servizi Socio-Assistenziali del Monregalese (C.S.S.M.), ente autonomo tra 28 comuni dell'area monregalese (Mondov\u00ec-Cuneo) con personalit\u00e0 giuridica avente come finalit\u00e0 il riordino, lo sviluppo e la gestione associata dei servizi sociali e assistenziali (Legge Regione Piemonte 1/2004 art.9)",
+        "periodo": "dal 07-12-1997 al 31-12-2000"
+      },
+      {
+        "content": "Membro del consiglio di amministrazione e dei relativi gruppi di lavoro, ricerca e studio di Allione Ricerca Agroalimentare Spa, centro ricerche a capitale misto pubblico-privato (su designazione di FinPiemonte Spa, finanziaria di partecipazioni della Regione Piemonte)",
+        "periodo": "dal 30-04-1998 al 30-04-2001"
+      },
+      {
+        "content": "Membro del consiglio di amministrazione della societ\u00e0 autostrada Albenga-Garessio-Ceva, societ\u00e0 a capitale misto pubblico-privato (su designazione della Provincia di Torino)",
+        "periodo": "dal 23-03-1999 al 27-04-2004"
+      },
+      {
+        "content": "Membro del consiglio di indirizzo della Fondazione Cassa di Risparmio di Savigliano",
+        "periodo": "dal 11-01-2001 al 31-12-2005"
+      },
+      {
+        "content": "Membro del consiglio di amministrazione e dei relativi gruppi di lavoro, ricerca e studio della Fondazione \"C. Feyles\" - Torino (centro studi, ricerche e formazione in ambito socio-educativo e socio-sanitario)",
+        "periodo": "dal 16-04-2004 a oggi"
+      },
+      {
+        "content": "PROGETTO GEO - Unione Europea - Province di Massa Carrara, Lucca e La Spezia : attivit\u00e0 di studio, animazione territoriale e coordinamento gruppi pilota",
+        "periodo": "dal 21-04-2004 al 16-12-2004"
+      },
+      {
+        "content": "Responsabile e direttore scientifico Centro Studi ANCE PIEMONTE e VALLE D'AOSTA",
+        "periodo": "dal 01-08-2008 al 19-09-2016"
+      },
+      {
+        "content": "Membro del consiglio di amministrazione della Fondazione Istituto G. Tagliacarne per la Promozione della Cultura Economica - Roma (su designazione del Ministero dello Sviluppo Economico)",
+        "periodo": "dal 14-01-2014 al 06-12-2014"
+      },
+      {
+        "content": "Membro del consiglio di amministrazione e dei relativi gruppi di lavoro, ricerca e studio di BENE BANCA",
+        "periodo": "dal 31-05-2014 a oggi"
+      },
+      {
+        "content": "Membro del consiglio di amministrazione di IMI Investimenti SPA - Gruppo Intesa San Paolo",
+        "periodo": "dal 29-06-2016 a oggi"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Co-organizzatore e portavoce di FOOD-ING: 1st International Convention Food Ingredients: new technologies (in collaborazione con United Nations Industrial Development Organization - ONU)",
+        "periodo": "dal 15-09-1997 al 17-09-1997"
+      },
+      {
+        "content": "Co-organizzatore e relatore al Salone Sviluppo Locale di Torino",
+        "periodo": "dal 27-11-2003 al 28-11-2003"
+      },
+      {
+        "content": "Organizzatore e relatore al convegno internazionale della Regione Piemonte- Comune di Ciri\u00e8/Patto territoriale della Stura- Universit\u00e0 di Torino \"Strategie per il territorio: esperienze, progetti, valore, innovazione\"",
+        "periodo": "dal 19-05-2007 al 19-05-2007"
+      },
+      {
+        "content": "Organizzatore e relatore al convegno : \"Aspetti e opportunit\u00e0 internazionali delle imprese edili\" (in collaborazione con ANCE Piemonte e Valle d'Aosta, Confindustria Cuneo, Unicredit Consiglio di Territorio Nord Ovest, Centro Estero per l'Internazionalizzazione del Piemonte)",
+        "periodo": "dal 05-03-2013 al 05-03-2013"
+      }
+    ],
+    "Responsabilita' di studi e ricerche scientifiche affidati da qualificate istituzioni pubbliche o": [
+      {
+        "content": "Ricerche: marketing territoriale e pianificazione strategica (riconversione) territorio di Casale Monferrato (AL).",
+        "periodo": "dal 01-06-2001 al 07-03-2009"
+      },
+      {
+        "content": "Ricerca Centro Ricerche Economiche, Sociali, Aziendali, Manageriali (CRESAM, ente partecipato dal Consorzio Universitario di Economia Industriale e Manageriale) - Unicredit :\" La Facolt\u00e0 di Economia a Cuneo. Impatto sul territorio e sinergie con gli enti locali\".",
+        "periodo": "dal 10-11-2004 al 05-05-2005"
+      },
+      {
+        "content": "Ricerca Centro Ricerche Economiche, Sociali, Aziendali, Manageriali (CRESAM, ente partecipato dal Consorzio Universitario di Economia Industriale e Manageriale) - AcqueGranda spa- Provincia di Cuneo :\" Progetti di sviluppo socio-economico e territoriale dell'ipotetico invaso in Valle Stura (CN)\".",
+        "periodo": "dal 10-11-2004 al 05-05-2005"
+      },
+      {
+        "content": "Ricerca: iniziative sperimentali di marketing del territorio e creazione d'impresa area Patto Territoriale dello Stura (convenzione Facolt\u00e0 di Lingue e Letterature Straniere, Universit\u00e0 degli Studi di Torino e Comune di Ciri\u00e8)",
+        "periodo": "dal 01-03-2006 al 30-05-2007"
+      },
+      {
+        "content": "Ricerca dell'Osservatorio Regionale del Turismo: \"L'analisi della customer satisfaction dei partecipanti ai congressi, convention e meeting in Piemonte e lo studio per il miglioramento della soddisfazione dei congressisti in Piemonte\"",
+        "periodo": "dal 07-05-2007 al 29-02-2008"
+      },
+      {
+        "content": "Ricerca di Sviluppo Piemonte Turismo, societ\u00e0 in-house della Regione Piemonte -Facolt\u00e0 di Lingue, Universit\u00e0 degli Studi di Torino. \"L'analisi, lo studio e il miglioramento della soddisfazione del turista/utente in Piemonte nell'ambito del settore M.I.C.E.\"",
+        "periodo": "dal 09-06-2008 al 30-03-2009"
+      },
+      {
+        "content": "Progetto di ateneo \"Meeting, Incentives, Conferences, Exhibition (MICE) nel sistema UNITO\"- Universit\u00e0 degli Studi di Torino",
+        "periodo": "dal 26-07-2016 a oggi"
+      }
+    ],
+    "Conseguimento di premi e riconoscimenti per l'attivit\u00e0 scientifica, inclusa l\u2019affiliazione ad": [
+      {
+        "content": "Socio della Societ\u00e0 Italiana di Management (S.I.M.A.)",
+        "periodo": "dal 30-05-2013 a oggi"
+      },
+      {
+        "content": "Ambasciatore in Italia e nel mondo della rivista del settore edile \"Costruttori Romani\", periodico edito dall'ACER di Roma (Associazione Costruttori Edili di Roma e Provincia)",
+        "periodo": "dal 05-08-2015 a oggi"
+      },
+      {
+        "content": "Socio della Societ\u00e0 Italiana di Economia e Politica Industriale (S.I.E.P.I.)",
+        "periodo": "dal 22-03-2016 a oggi"
+      },
+      {
+        "content": "Medaglia d'oro ANCE Cuneo, sezione costruttori edili di Confindustria Cuneo",
+        "periodo": "dal 28-06-2016 al 28-06-2016"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Componente gruppo di ricerca sullo Sportello Unico per le Attivit\u00e0 produttive della P.A./ progetto PASS/Dipartimento Funzione Pubblica della Presidenza del Consiglio dei Ministri/Ancitel Spa (Associazione Nazionale Comuni Italiani)",
+        "periodo": "dal 01-03-2000 al 28-02-2002"
+      },
+      {
+        "content": "Componente gruppo di ricerca sullo Sportello Unico per le Attivit\u00e0 Produttive della P.A./progetto ACTION PLAN/Dipartimento Funzione Pubblica della Presidenza del Consiglio dei Ministri/Ancitel Spa (Associazione Nazionale Comuni Italiani)",
+        "periodo": "dal 01-03-2000 al 28-02-2002"
+      },
+      {
+        "content": "Direttore e coordinatore gruppo di ricerca sul marketing territoriale - Provincia di Torino",
+        "periodo": "dal 15-01-2002 al 30-05-2004"
+      },
+      {
+        "content": "Componente gruppo di ricerca per il coordinamento scientifico e metodologico Piano Strategico per il Turismo della Regione Piemonte",
+        "periodo": "dal 18-06-2006 a oggi"
+      },
+      {
+        "content": "Componente il Centro Studi di ANCE (Associazione Nazionale Costruttori Edili) aderente e Confindustria",
+        "periodo": "dal 29-09-2009 a oggi"
+      },
+      {
+        "content": "Membro del Consiglio Nazionale dell'Economia e del Lavoro (CNEL) della Repubblica Italiana (su designazione di ANCE e Confindustria)",
+        "periodo": "dal 28-07-2010 al 20-01-2012"
+      },
+      {
+        "content": "Direttore e coordinatore del programma di ricerca internazionale sulla promozione del REAL ESTATE piemontese, in collaborazione con MIPIM, The World's Leading Property Market di Cannes",
+        "periodo": "dal 01-01-2011 al 19-09-2016"
+      },
+      {
+        "content": "Membro dell'Olympic, Mega Events, Research Observatory dell'Universit\u00e0 degli Studi di Torino",
+        "periodo": "dal 16-10-2012 a oggi"
+      },
+      {
+        "content": "Membro del Consiglio di Territorio del Nord-Ovest di Unicredit Group (organo consultivo di studio e di ricerca)",
+        "periodo": "dal 30-01-2013 al 31-03-2015"
+      },
+      {
+        "content": "Direttore e coordinatore del programma di ricerca sull\u2019internazionalizzazione delle imprese edili piemontesi in UAE (Emirati Arabi). Cfr. Missione ANCE-ITA TRADE AGENCY- Ambasciata d\u2019Italia, febbraio 2015",
+        "periodo": "dal 02-02-2015 a oggi"
+      }
+    ],
+    "Formale attribuzione di incarichi di insegnamento o di ricerca (fellowship) presso": [
+      {
+        "content": "Visiting professor MEDAC (Mediterranean Academy of Diplomatic Studies) dell'Universit\u00e0 di Malta",
+        "periodo": "dal 01-05-2005 al 15-05-2007"
+      }
+    ],
+    "Responsabilita' scientifica per progetti di ricerca internazionali e nazionali, ammessi al": [
+      {
+        "content": "ALCOTRA- STRATTOUR (FSER) - Co-responsabile scientifico del progetto di ricerca (Regione Piemonte - Sviluppo Piemonte Turismo) sulla spesa turistica e soddisfazione dei turisti provenienti da Liguria, Valle d'Aosta, Rhone Alpes, Paca (cfr. contributo in volume)",
+        "periodo": "dal 02-09-2011 al 16-07-2012"
+      }
+    ],
+    "Risultati ottenuti nel trasferimento tecnologico in termini di partecipazione alla creazione": [
+      {
+        "content": "Partecipazione al processo di creazione di nuova impresa ATC SI S.r.l., societ\u00e0 a capitale misto pubblico-privato (spin off dell'Agenzia Territoriale per la Casa- Cuneo gi\u00e0 Istituto Autonomo Case Popolari della Provincia di Cuneo) avente come scopo l'incremento dell' efficienza energetica attraverso la gestione calore del patrimonio immobiliare ATC Cuneo",
+        "periodo": "dal 30-04-2003 al 30-03-2009"
+      }
+    ]
+  }
+}

@@ -63,7 +63,7 @@ def adding_name_outcome(dd, outpath):
 
     print("adding name outcome")
 
-    with open(outpath, 'r') as tsv_file:
+    with open(outpath, 'r', encoding='utf-8') as tsv_file:
         ind_anvur_tsv = csv.reader(tsv_file, delimiter="\t")
         for row in ind_anvur_tsv:
             if row[2] == "10-G1" or row[2] == "13-D4":

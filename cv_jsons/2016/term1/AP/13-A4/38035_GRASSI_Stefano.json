@@ -1,0 +1,567 @@
+{
+  "pubbs_ind": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "In press"
+        ],
+        "titolo": "The R package MitISEM: Efficient and Robust Simulation Procedures for Bayesian Inference",
+        "ISSN": [
+          "1548-7660"
+        ],
+        "journal": "JOURNAL OF STATISTICAL SOFTWARE",
+        "csp": "p. 1-42, ISSN: 1548-7660, doi: In press",
+        "anno": "2016",
+        "autori": "Basturk N, Grassi S, Hoogerheide, L, Opschoor A, van Dijk H K"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Basturk N, Grassi S, Hoogerheide, L, Opschoor A, van Dijk H K (2016). The",
+        "R package MitISEM: Efficient and Robust Simulation Procedures for",
+        "Bayesian Inference. JOURNAL OF STATISTICAL SOFTWARE, p. 1-42,",
+        "ISSN: 1548-7660, doi: In press"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1002/jae.2522"
+        ],
+        "titolo": "Forecasting With the Standardized Self-Perturbed Kalman Filter",
+        "ISSN": [
+          "0883-7252"
+        ],
+        "journal": "JOURNAL OF APPLIED ECONOMETRICS",
+        "csp": "p. 1-24, ISSN: 0883-7252, doi: 10.1002/jae.2522",
+        "anno": "2016",
+        "autori": "Grassi S, Nima N, Santucci De Magistris P"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Grassi S, Nima N, Santucci De Magistris P (2016). Forecasting With the",
+        "Standardized Self-Perturbed Kalman Filter. JOURNAL OF APPLIED",
+        "ECONOMETRICS, p. 1-24, ISSN: 0883-7252, doi: 10.1002/jae.2522"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.3390/econometrics4010011"
+        ],
+        "titolo": "Parallelization Experience with Four Canonical Econometric Models Using ParMitISEM",
+        "ISSN": [
+          "2225-1146"
+        ],
+        "journal": "ECONOMETRICS",
+        "csp": "vol. 4, p. 1-20, ISSN: 2225-1146, doi: 10.3390/econometrics4010011",
+        "anno": "2016",
+        "autori": "Bast\u00fcrk N, Grassi S, Hoogerheide L, van Dijk H K"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Bast\u00fcrk N, Grassi S, Hoogerheide L, van Dijk H K (2016). Parallelization",
+        "Experience with Four Canonical Econometric Models Using ParMitISEM.",
+        "ECONOMETRICS, vol. 4, p. 1-20, ISSN: 2225-1146, doi:",
+        "10.3390/econometrics4010011"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.18637/jss.v068.i03"
+        ],
+        "titolo": "Parallel Sequential Monte Carlo for Efficient Density Combination: The DeCo MATLAB Toolbox ",
+        "ISSN": [
+          "1548-7660"
+        ],
+        "journal": "JOURNAL OF STATISTICAL SOFTWARE",
+        "csp": "vol. 68, p. 1-30, ISSN: 1548-7660, doi: 10.18637/jss.v068.i03",
+        "anno": "2015",
+        "autori": "Casarin R, Grassi S, Ravazzolo F, van Dijk H K"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Casarin R, Grassi S, Ravazzolo F, van Dijk H K (2015). Parallel Sequential",
+        "Monte Carlo for Efficient Density Combination: The DeCo MATLAB Toolbox",
+        ". JOURNAL OF STATISTICAL SOFTWARE, vol. 68, p. 1-30, ISSN:",
+        "1548-7660, doi: 10.18637/jss.v068.i03"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "http://dx.doi.org/10.1016/j.ijforecast.2014.08.015"
+        ],
+        "titolo": "EuroMInd-C: a Disaggregate Monthly Indicator of Economic Activity for the Euro Area and member countries",
+        "ISSN": [
+          "0169-2070"
+        ],
+        "journal": "INTERNATIONAL JOURNAL OF FORECASTING",
+        "csp": "vol. 31, p. 712-738, ISSN: 0169-2070, doi: http://dx.doi.org/10.1016/j.ijforecast.2014.08.015",
+        "anno": "2015",
+        "autori": "Frale C, Grassi S, Marcellino M, Mazzi G, Proietti T"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Frale C, Grassi S, Marcellino M, Mazzi G, Proietti T (2015). EuroMInd-C: a",
+        "Disaggregate Monthly Indicator of Economic Activity for the Euro Area and",
+        "member countries. INTERNATIONAL JOURNAL OF FORECASTING, vol.",
+        "31, p. 712-738, ISSN: 0169-2070, doi:",
+        "http://dx.doi.org/10.1016/j.ijforecast.2014.08.015"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "http://dx.doi.org/10.1016/j.jempfin.2014.11.007"
+        ],
+        "titolo": "Its all about volatility (of volatility): Evidence from a two-factor stochastic volatility model",
+        "ISSN": [
+          "0927-5398"
+        ],
+        "journal": "JOURNAL OF EMPIRICAL FINANCE",
+        "csp": "vol. 30, p. 62-78, ISSN: 0927-5398, doi: http://dx.doi.org/10.1016/j.jempfin.2014.11.007",
+        "anno": "2015",
+        "autori": "Grassi S, Santucci de Magistris P"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Grassi S, Santucci de Magistris P (2015). Its all about volatility (of volatility):",
+        "Evidence from a two-factor stochastic volatility model. JOURNAL OF",
+        "EMPIRICAL FINANCE, vol. 30, p. 62-78, ISSN: 0927-5398, doi:",
+        "http://dx.doi.org/10.1016/j.jempfin.2014.11.007"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "7",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s00181-014-0821-y"
+        ],
+        "titolo": "Stochastic trends and seasonality in economic time series: new evidence from Bayesian stochastic model specification search",
+        "ISSN": [
+          "0377-7332"
+        ],
+        "journal": "EMPIRICAL ECONOMICS",
+        "csp": "vol. 48, p. 983-1011, ISSN: 0377-7332, doi: 10.1007/s00181-014-0821-y",
+        "anno": "2015",
+        "autori": "Grassi S, Proietti T"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Grassi S, Proietti T (2015). Stochastic trends and seasonality in economic",
+        "time series: new evidence from Bayesian stochastic model specification",
+        "search. EMPIRICAL ECONOMICS, vol. 48, p. 983-1011, ISSN: 0377-7332,",
+        "doi: 10.1007/s00181-014-0821-y"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "8",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "http://dx.doi.org/10.1016/j.csda.2012.10.018"
+        ],
+        "titolo": "When Long Memory Meets the Kalman Filter: A Comparative Study",
+        "ISSN": [
+          "0167-9473"
+        ],
+        "journal": "COMPUTATIONAL STATISTICS & DATA ANALYSIS",
+        "csp": "vol. 76, p. 301-319, ISSN: 0167-9473, doi: http://dx.doi.org/10.1016/j.csda.2012.10.018",
+        "anno": "2014",
+        "autori": "Grassi S, Santucci de Magistris P"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Grassi S, Santucci de Magistris P (2014). When Long Memory Meets the",
+        "Kalman Filter: A Comparative Study. COMPUTATIONAL STATISTICS &",
+        "DATA ANALYSIS, vol. 76, p. 301-319, ISSN: 0167-9473, doi:",
+        "http://dx.doi.org/10.1016/j.csda.2012.10.018"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "9",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "http://dx.doi.org/10.1016/j.csda.2013.02.024"
+        ],
+        "titolo": "Characterizing Economic Trends by Bayesian Stochastic Model Specification Search",
+        "ISSN": [
+          "0167-9473"
+        ],
+        "journal": "COMPUTATIONAL STATISTICS & DATA ANALYSIS",
+        "csp": "vol. 71, p. 359-374, ISSN: 0167-9473, doi: http://dx.doi.org/10.1016/j.csda.2013.02.024",
+        "anno": "2014",
+        "autori": "Grassi S, Proietti T"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Grassi S, Proietti T (2014). Characterizing Economic Trends by Bayesian",
+        "Stochastic Model Specification Search. COMPUTATIONAL STATISTICS &",
+        "DATA ANALYSIS, vol. 71, p. 359-374, ISSN: 0167-9473, doi:",
+        "http://dx.doi.org/10.1016/j.csda.2013.02.024"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "10",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1007/s10614-013-9362-2"
+        ],
+        "titolo": "Heterogeneous Computing in Economics: A Simplified Approach",
+        "ISSN": [
+          "0927-7099"
+        ],
+        "journal": "COMPUTATIONAL ECONOMICS",
+        "csp": "vol. 43, p. 485-495, ISSN: 0927-7099, doi: 10.1007/s10614-013-9362-2",
+        "anno": "2014",
+        "autori": "Dziubinski M P, Grassi S"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Dziubinski M P, Grassi S (2014). Heterogeneous Computing in Economics:",
+        "A Simplified Approach. COMPUTATIONAL ECONOMICS, vol. 43, p.",
+        "485-495, ISSN: 0927-7099, doi: 10.1007/s10614-013-9362-2"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "11",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "http://dx.doi.org/10.1080/09603107.2014.925070"
+        ],
+        "titolo": "Item response models to measure corporate social responsibility",
+        "ISSN": [
+          "0960-3107"
+        ],
+        "journal": "APPLIED FINANCIAL ECONOMICS",
+        "csp": "vol. 24, p. 1449-1464, ISSN: 0960-3107, doi: http://dx.doi.org/10.1080/09603107.2014.925070",
+        "anno": "2014",
+        "autori": "Nicolosi M, Grassi S, Stanghellini E"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Nicolosi M, Grassi S, Stanghellini E (2014). Item response models to",
+        "measure corporate social responsibility. APPLIED FINANCIAL",
+        "ECONOMICS, vol. 24, p. 1449-1464, ISSN: 0960-3107, doi:",
+        "http://dx.doi.org/10.1080/09603107.2014.925070"
+      ],
+      "anno": "2014"
+    },
+    {
+      "id": "12",
+      "type": "Contributo in volume (Capitolo o Saggio)",
+      "parsed": {
+        "precsp": "CHAPMAN & HALL/CRC RESEARCH NOTES IN MATHEMATICS SERIES",
+        "titolo": "Bayesian Stochastic Model Specification Search for Seasonal and Calendar Effects",
+        "ISBN": [
+          "978-1-4398-4657-5"
+        ],
+        "csp": "BOCA RATON:TAYLOR AND FRANCIS, ISBN: 978-1-4398-4657-5",
+        "opera": "(a cura di): Bell W R; Holan S H; McElroy T S , Economic Time Series: Modeling and Seasonality",
+        "anno": "2012",
+        "autori": "Grassi S, Proietti T"
+      },
+      "rawcontent": [
+        "Contributo in volume (Capitolo o Saggio)",
+        "Grassi S, Proietti T (2012). Bayesian Stochastic Model Specification Search",
+        "for Seasonal and Calendar Effects. In: (a cura di): Bell W R; Holan S H;",
+        "McElroy T S , Economic Time Series: Modeling and Seasonality.",
+        "CHAPMAN & HALL/CRC RESEARCH NOTES IN MATHEMATICS",
+        "SERIES, BOCA RATON:TAYLOR AND FRANCIS, ISBN:",
+        "978-1-4398-4657-5"
+      ],
+      "anno": "2012"
+    },
+    {
+      "id": "13",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.2202/1941-1928.1050"
+        ],
+        "titolo": "\"Has the Volatility of U.S. Inflation Changed and How?\"",
+        "ISSN": [
+          "1941-1928"
+        ],
+        "journal": "JOURNAL OF TIME SERIES ECONOMETRICS",
+        "csp": "vol. 2, p. 1-22, ISSN: 1941-1928, doi: 10.2202/1941-1928.1050",
+        "anno": "2010",
+        "autori": "GRASSI S, PROIETTI T"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "GRASSI S, PROIETTI T (2010). \"Has the Volatility of U.S. Inflation",
+        "Changed and How?\". JOURNAL OF TIME SERIES ECONOMETRICS, vol.",
+        "2, p. 1-22, ISSN: 1941-1928, doi: 10.2202/1941-1928.1050"
+      ],
+      "anno": "2010"
+    }
+  ],
+  "pubbs": [
+    {
+      "id": "1",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.1002/jae.2522"
+        ],
+        "titolo": "Forecasting With the Standardized Self-Perturbed Kalman Filter",
+        "ISSN": [
+          "0883-7252"
+        ],
+        "journal": "JOURNAL OF APPLIED ECONOMETRICS",
+        "csp": "p. 1-24, ISSN: 0883-7252, doi: 10.1002/jae.2522",
+        "anno": "2016",
+        "autori": "Grassi S, Nima N, Santucci De Magistris P"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Grassi S, Nima N, Santucci De Magistris P (2016). Forecasting With the",
+        "Standardized Self-Perturbed Kalman Filter. JOURNAL OF APPLIED",
+        "ECONOMETRICS, p. 1-24, ISSN: 0883-7252, doi: 10.1002/jae.2522"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "2",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "In press"
+        ],
+        "titolo": "The R package MitISEM: Efficient and Robust Simulation Procedures for Bayesian Inference",
+        "ISSN": [
+          "1548-7660"
+        ],
+        "journal": "JOURNAL OF STATISTICAL SOFTWARE",
+        "csp": "p. 1-42, ISSN: 1548-7660, doi: In press",
+        "anno": "2016",
+        "autori": "Basturk N, Grassi S, Hoogerheide, L, Opschoor A, van Dijk H K"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Basturk N, Grassi S, Hoogerheide, L, Opschoor A, van Dijk H K (2016). The",
+        "R package MitISEM: Efficient and Robust Simulation Procedures for",
+        "Bayesian Inference. JOURNAL OF STATISTICAL SOFTWARE, p. 1-42,",
+        "ISSN: 1548-7660, doi: In press"
+      ],
+      "anno": "2016"
+    },
+    {
+      "id": "3",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "http://dx.doi.org/10.1016/j.jempfin.2014.11.007"
+        ],
+        "titolo": "Its all about volatility (of volatility): Evidence from a two-factor stochastic volatility model",
+        "ISSN": [
+          "0927-5398"
+        ],
+        "journal": "JOURNAL OF EMPIRICAL FINANCE",
+        "csp": "vol. 30, p. 62-78, ISSN: 0927-5398, doi: http://dx.doi.org/10.1016/j.jempfin.2014.11.007",
+        "anno": "2015",
+        "autori": "Grassi S, Santucci de Magistris P"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Grassi S, Santucci de Magistris P (2015). Its all about volatility (of volatility):",
+        "Evidence from a two-factor stochastic volatility model. JOURNAL OF",
+        "EMPIRICAL FINANCE, vol. 30, p. 62-78, ISSN: 0927-5398, doi:",
+        "http://dx.doi.org/10.1016/j.jempfin.2014.11.007"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "4",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "10.18637/jss.v068.i03"
+        ],
+        "titolo": "Parallel Sequential Monte Carlo for Efficient Density Combination: The DeCo MATLAB Toolbox ",
+        "ISSN": [
+          "1548-7660"
+        ],
+        "journal": "JOURNAL OF STATISTICAL SOFTWARE",
+        "csp": "vol. 68, p. 1-30, ISSN: 1548-7660, doi: 10.18637/jss.v068.i03",
+        "anno": "2015",
+        "autori": "Casarin R, Grassi S, Ravazzolo F, van Dijk H K"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Casarin R, Grassi S, Ravazzolo F, van Dijk H K (2015). Parallel Sequential",
+        "Monte Carlo for Efficient Density Combination: The DeCo MATLAB Toolbox .",
+        "JOURNAL OF STATISTICAL SOFTWARE, vol. 68, p. 1-30, ISSN:",
+        "1548-7660, doi: 10.18637/jss.v068.i03"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "5",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "http://dx.doi.org/10.1016/j.ijforecast.2014.08.015"
+        ],
+        "titolo": "EuroMInd-C: a Disaggregate Monthly Indicator of Economic Activity for the Euro Area and member countries",
+        "ISSN": [
+          "0169-2070"
+        ],
+        "journal": "INTERNATIONAL JOURNAL OF FORECASTING",
+        "csp": "vol. 31, p. 712-738, ISSN: 0169-2070, doi: http://dx.doi.org/10.1016/j.ijforecast.2014.08.015",
+        "anno": "2015",
+        "autori": "Frale C, Grassi S, Marcellino M, Mazzi G, Proietti T"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Frale C, Grassi S, Marcellino M, Mazzi G, Proietti T (2015). EuroMInd-C: a",
+        "Disaggregate Monthly Indicator of Economic Activity for the Euro Area and",
+        "member countries. INTERNATIONAL JOURNAL OF FORECASTING, vol.",
+        "31, p. 712-738, ISSN: 0169-2070, doi:",
+        "http://dx.doi.org/10.1016/j.ijforecast.2014.08.015"
+      ],
+      "anno": "2015"
+    },
+    {
+      "id": "6",
+      "type": "Articolo in rivista",
+      "parsed": {
+        "doi": [
+          "http://dx.doi.org/10.1080/09603107.2014.925070"
+        ],
+        "titolo": "Item response models to measure corporate social responsibility",
+        "ISSN": [
+          "0960-3107"
+        ],
+        "journal": "APPLIED FINANCIAL ECONOMICS",
+        "csp": "vol. 24, p. 1449-1464, ISSN: 0960-3107, doi: http://dx.doi.org/10.1080/09603107.2014.925070",
+        "anno": "2014",
+        "autori": "Nicolosi M, Grassi S, Stanghellini E"
+      },
+      "rawcontent": [
+        "Articolo in rivista",
+        "Nicolosi M, Grassi S, Stanghellini E (2014). Item response models to",
+        "measure corporate social responsibility. APPLIED FINANCIAL",
+        "ECONOMICS, vol. 24, p. 1449-1464, ISSN: 0960-3107, doi:",
+        "http://dx.doi.org/10.1080/09603107.2014.925070"
+      ],
+      "anno": "2014"
+    }
+  ],
+  "general": {
+    "settore": "13/A4",
+    "progr": "38035",
+    "nome": "GRASSI Stefano",
+    "fascia": "Seconda"
+  },
+  "titoli": {
+    "Specifiche esperienze professionali caratterizzate da attivita' di ricerca attinenti al settore": [
+      {
+        "content": "Assegnista di ricerca presso l'Universit\u00e0 degli Studi di Perugia, Dipartimento di Economia.",
+        "periodo": "dal 01-04-2010 al 31-12-2010"
+      },
+      {
+        "content": "PostDoc researcher at CREATES, Department of Economics and Business, Aarhus University.",
+        "periodo": "dal 01-01-2011 al 31-07-2013"
+      },
+      {
+        "content": "Lecturer in Economics at the School of Economics, University of Kent, Canterbury, UK.",
+        "periodo": "dal 01-08-2013 al 08-11-2016"
+      }
+    ],
+    "Organizzazione o partecipazione come relatore a convegni di carattere scientifico in Italia": [
+      {
+        "content": "Ho partecipato come relatore a molti convegni, workshop e seminari universitari. Riporto qui alcuni di loro: - 6th and 7th Annual ESOBE Meeting. (http://www.szgerzensee.ch/research/conferences/esobe2015/, http://virgo.unive.it/esobe2016/) - The IAAE 2014 and 2016 Annual conference (http://www.iaae2014.org/, http://iaae2016.info/) - CFE 2009-2010-2011-2013 conferences (http://www.cfenetwork.org/CFE2016/conferences.php) - 2013 Econometric Institute Erasmus University Rotterdam (https://www.erim.eur.nl/research/events /all-events/?tx_erimevents_list%5Bfilter s%5D%5Bpresenter%5D=11796&tx_erimevents_ list%5Baction%5D=list&tx_erimevents_list %5Bcontroller%5D=Event&cHash=3262831bdeb 41b57b72e3f022e35d09e) [invited speaker, cost cover] - GSBE/EFME econometric seminar, Maastricht 2016 [invited speaker, cost cover] - SNDE Conferences 2012 and 2013, (http://www.sndeecon.org/conferences/conference.html) - The 34th International Symposium of Forecasting, Rotterdam, The Netherlands, 2014 (https://forecasters.org/wp-content/uplo ads/ISF2014_Program-Book_06232014.pdf) - Econometric Society, European Meeting, Barcelona, Spain, 2009 (https://www.econometricsociety.org/cont ent/european-meeting-barcelona-spain-aug ust-23-272009) - RCEA 9rd Rimini Bayesian Workshop, Rimini, Italy, 2015 (http://rcfea.org/wp-content/uploads/BW_Programme_web.pdf)",
+        "periodo": "dal 01-10-2009 a oggi"
+      }
+    ],
+    "Responsabilita' di studi e ricerche scientifiche affidati da qualificate istituzioni pubbliche o": [
+      {
+        "content": "European Commission/Eurostat progetto \"Euromind-C: Monthly production of euro area and Members States monthly indicators of economic activity\". Lot 1 Action 2 Task 3",
+        "periodo": "dal 01-01-2009 al 31-12-2012"
+      },
+      {
+        "content": "European Commission/Eurostat progetto, \"Design and implementation of fully unobserved components based methods for pre-treatment and seasonal adjustment\" Lot2 Action1 Task5.",
+        "periodo": "dal 01-03-2010 al 31-12-2011"
+      }
+    ],
+    "Conseguimento di premi e riconoscimenti per l'attivit\u00e0 scientifica, inclusa l\u2019affiliazione ad": [
+      {
+        "content": "International Research Fellow of CREATES, Center for Research in Econometric Analysis of Time Series, Aarhus, Denmark.",
+        "periodo": "dal 01-08-2013 a oggi"
+      },
+      {
+        "content": "Membro dell'Econometric Society",
+        "periodo": "dal 10-05-2016 a oggi"
+      },
+      {
+        "content": "NVIDIA Corporation Academic Hardware Grant",
+        "periodo": "dal 13-09-2016 a oggi"
+      }
+    ],
+    "Partecipazione al collegio dei docenti ovvero attribuzione di incarichi di insegnamento,": [
+      {
+        "content": "Incarico di insegnamento del modulo 'Macroeconometrics' per il PhD in Economics dell'Universit\u00e0 del Kent, Canterbury, United Kingdom.",
+        "periodo": "dal 01-01-2016 al 08-11-2016"
+      }
+    ],
+    "Formale attribuzione di incarichi di insegnamento o di ricerca (fellowship) presso": [
+      {
+        "content": "Insegnante del corso 'Time series econometrics'. Aarhus University, Aarhus.",
+        "periodo": "dal 01-02-2011 al 31-07-2013"
+      },
+      {
+        "content": "Insegnante del corso 'Empirical economics'. Aarhus University, Aarhus.",
+        "periodo": "dal 12-01-2012 al 31-07-2013"
+      },
+      {
+        "content": "Insegnante del corso EC511 \u2018Quantitative Economics\u2019 , University of Kent, Canterbury, United Kingdom",
+        "periodo": "dal 01-01-2014 al 08-11-2016"
+      },
+      {
+        "content": "Insegnante del corso EC837 \u2018Applied Econometrics for Business and Economic Development\u2019 per il MSc in Applied Economics and International Development e del MSc in International Business and Economic Development. University of Kent, Canterbury, United Kingdom",
+        "periodo": "dal 01-01-2015 al 08-11-2016"
+      }
+    ],
+    "Direzione o partecipazione alle attivit\u00e0 di un gruppo di ricerca caratterizzato da": [
+      {
+        "content": "Sono Research Associates del gruppo di ricerca MaGHiC (Macroeconomics, Growth and History Centre), University of Kent, Canterbury, United Kingdom. Vedi https://www.kent.ac.uk/economics/research/MaGHiC/",
+        "periodo": "dal 01-06-2014 a oggi"
+      }
+    ],
+    "Responsabilita' scientifica per progetti di ricerca internazionali e nazionali, ammessi al": [
+      {
+        "content": "PRIN (Progetto di ricerca di interesse nazionale) Grant 2010-2011, Ministero dell'Istruzione dell'Universit\u00e0 e della Ricerca. Nome del progetto \"Modelling and Forecasting Structural Change in Economic and Financial Time Series\". Durante il progetto sono stato il responsabile per l'unit\u00e0 locale estera CREATES.",
+        "periodo": "dal 01-01-2010 al 31-12-2011"
+      }
+    ]
+  }
+}
