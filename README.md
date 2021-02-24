@@ -92,10 +92,10 @@ We ground our analysis on the data of the candidates and commissions that took p
 ### 3.1 Materials
 
 - [**cv_jsons** folder](https://github.com/sosgang/bond/tree/main/cv_jsons): the folder containing the json files extracted from the candidates' CVs. The internal structure of the folder should remain as is at the moment: cv_jsons/asn_session name/term name/role name/field name/
-- commissions.csv : file containing initial bibliographic metadata of the members of the commissions
+- [commissions.csv](https://github.com/sosgang/bond/blob/main/commissions.csv) : file containing initial bibliographic metadata of the members of the commissions
 - All the python files in [**data_collection** folder](https://github.com/sosgang/bond/tree/main/data_collection)
-- stopwords-it.txt : list of stopwords in italian
-- indicatoriCalcolati-ASN16-18.tsv : file containing the ANVUR metrics and outcomes for each candidate
+- [stopwords-it.txt](https://github.com/sosgang/bond/blob/main/stopwords-it.txt) : list of stopwords in italian
+- [indicatoriCalcolati-ASN16-18.tsv](https://github.com/sosgang/bond/blob/main/indicatoriCalcolati-ASN16-18.tsv) : file containing the ANVUR metrics and outcomes for each candidate
 
 ### 3.2 Execution
 - [**bond_execution.py**](https://github.com/sosgang/bond/blob/main/data_collection/bond_execution.py): executes the entire collection process by calling all the other necessary python files, and saves the results in json format and csv.
