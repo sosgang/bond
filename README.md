@@ -91,14 +91,14 @@ We ground our analysis on the data of the candidates and commissions that took p
 
 ### 3.1 Materials
 
-- [**cv_jsons** folder](https://github.com/sosgang/bond/tree/main/cv_jsons) : the folder containing the json files extracted from the candidates' CVs. The internal structure of the folder should remain as is at the moment: cv_jsons/asn_session name/term name/role name/field name/
+- [**cv_jsons** folder](https://github.com/sosgang/bond/tree/main/cv_jsons): the folder containing the json files extracted from the candidates' CVs. The internal structure of the folder should remain as is at the moment: cv_jsons/asn_session name/term name/role name/field name/
 - commissions.csv : file containing initial bibliographic metadata of the members of the commissions
 - All the python files in [**data_collection** folder](https://github.com/sosgang/bond/tree/main/data_collection)
 - stopwords-it.txt : list of stopwords in italian
 - indicatoriCalcolati-ASN16-18.tsv : file containing the ANVUR metrics and outcomes for each candidate
 
 ### 3.2 Execution
-- **bond_execution.py** : executes the entire collection process by calling all the other necessary python files, and saves the results in json format and csv.
+- [**bond_execution.py**](https://github.com/sosgang/bond/blob/main/data_collection/bond_execution.py): executes the entire collection process by calling all the other necessary python files, and saves the results in json format and csv.
 - meta_extraction.py : extracts the publications' metadata from the CV json files, disambiguating duplicate publications, and stores it in a dictionary.
 - add_info.py : adds other types of information to the dictionary: the full name of the candidate, the ANVUR metrics, the outcome of the NSQ and the coverage of the candidate's publications.
 - id_search.py : searches for each candidate’s Author Ids in MAG and for each article’s DOI in OA and CR.
@@ -115,7 +115,7 @@ We ground our analysis on the data of the candidates and commissions that took p
 
 ### 4.2 Execution
 
-- **coverage.py** : executes the functions for calculating the coverage of the CV publications of each candidate and stores the results in a CSV file.
+- [**coverage.py**](https://github.com/sosgang/bond/blob/main/coverage/coverage.py): executes the functions for calculating the coverage of the CV publications of each candidate and stores the results in a CSV file.
 - search_OA_CR.py : searches for each publication in OpenAIRE and Crossref
 
 ## 5. Machine learning experiment
