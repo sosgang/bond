@@ -9,7 +9,7 @@ from graph_analysis import *
 
 def BoND(cand_jsons_path, comm_csv_path, outcomes_path, final_path):
 
-    logging.basicConfig(filename='my_log.log', level=logging.ERROR,
+    logging.basicConfig(filename='data_collection.log', level=logging.ERROR,
                         format='%(asctime)s %(levelname)s %(name)s %(message)s')
     logger = logging.getLogger(__name__)
 
