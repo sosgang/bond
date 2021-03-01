@@ -6,7 +6,8 @@ Repository containing code and data for our **"Do open citations inform the qual
 2. [Resulting data](#2-resulting-data)
 3. [Reproducing the data collection](#3-reproducing-the-data-collection)
 4. [Analyzing coverage](#4-analyzing-coverage)
-5. [Machine learning experiment](#5-machine-learning-experiment)
+5. [Reproducing the citation network visualization](#3-reproducing-the-citation-network-visualization)
+6. [Machine learning experiment](#6-machine-learning-experiment)
 
 ## 1. Introduction
 
@@ -33,6 +34,10 @@ We ground our analysis on the data of the candidates and commissions that took p
 
 - [**complete_data** folder](https://github.com/sosgang/bond/tree/main/complete_data): contains all the bibliographic and citation data of the candidates and the commission. Files ending in "complete" are candidates' files. Whereas, files ending in "cit" are commission members' files. Each file contains a dictionary with all the bibliographic and citation data of one candidate or one member of the commission. Candidate files are named after the ASN session they applied in, the term they applied in (e.g. "1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for, and their unique Id. Commission member files are named after the ASN session they took part in, the field (e.g. "10-G1") they belong to, and their unique Id. Each  dictionary contain:
   - "AuIds" : list of MAG Author Ids found for the author
+  - "citmetrics" : the citation-based and non-citation-based metrics resulting from the citation network analysis
+  - "coverage" : information on the coverage of the candidate's publications
+  - "fullname" : list of the candidate's name and family name
+  - "ind_anvur" : list of the ANVUR non-citation-based metrics and outcome of the NSQ
   - "pubbs" : list of publications contained in the candidate's CV as a list of dictionaries
     - Each publication is a dictionary with year, title, Paper Id, DOI, ISSN, ISBN, citing and cited publications
       - "citing" and "cited" : lists of citing and cited publications as lists of dictionaries
@@ -132,7 +137,7 @@ We ground our analysis on the data of the candidates and commissions that took p
 
 ### 5.2 Execution
 
-- [**visualization.py**](https://github.com/sosgang/bond/blob/main/coverage/visualization.py): executes the functions for creating a graph and a diagram representing the citation network of one candidate. Before running this code, it is necessary to make sure that the folder path at the end of this python file correspond to the appropriate ones, and to specify the correct information that identify the candidate.
+- [**visualization.py**](https://github.com/sosgang/bond/blob/main/visualization/visualization.py): executes the functions for creating a graph and a diagram representing the citation network of one candidate. Before running this code, it is necessary to make sure that the folder path at the end of this python file correspond to the appropriate ones, and to specify the correct information that identify the candidate.
 
 ## 6. Machine learning experiment
 
