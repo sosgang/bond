@@ -31,12 +31,13 @@ We ground our analysis on the data of the candidates and commissions that took p
  
 ### 2.2 Bibliographic and citation data
 
-- [**cit_data** folder](https://github.com/sosgang/bond/tree/main/cit_data): contains all the bibliographic and citation data of the candidates and the commission. Each file corresponds to one candidate or one member of the commission, and contains a dictionary with all the author's bibliographic and citation data. Candidate files are named after the ASN session they applied in, the term they applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for, and their unique Id. Commission member files are named after the ASN session they took part in, the field (e.g. "10-G1") they belong to and their unique Id. Each  dictionary contain:
+- [**complete_data** folder](https://github.com/sosgang/bond/tree/main/complete_data): contains all the bibliographic and citation data of the candidates and the commission. Files ending in "complete" are candidates' files. Whereas, files ending in "cit" are commission members' files. Each file contains a dictionary with all the bibliographic and citation data of one candidate or one member of the commission. Candidate files are named after the ASN session they applied in, the term they applied in (e.g. "1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for, and their unique Id. Commission member files are named after the ASN session they took part in, the field (e.g. "10-G1") they belong to, and their unique Id. Each  dictionary contain:
   - "AuIds" : list of MAG Author Ids found for the author
   - "pubbs" : list of publications contained in the candidate's CV as a list of dictionaries
     - Each publication is a dictionary with year, title, Paper Id, DOI, ISSN, ISBN, citing and cited publications
       - "citing" and "cited" : lists of citing and cited publications as lists of dictionaries
   - "pubbs_MAG" : structured as "pubbs", contains the list of publications found in MAG that the candidate did not included in her/his CV
+  - 
 
 
 ### 2.3 Citation networks and citation-based metrics
@@ -91,36 +92,51 @@ We ground our analysis on the data of the candidates and commissions that took p
 
 ### 3.1 Materials
 
-- [**cv_jsons** folder](https://github.com/sosgang/bond/tree/main/cv_jsons): the folder containing the json files extracted from the candidates' CVs. The internal structure of the folder should remain as is at the moment: cv_jsons/asn_session name/term name/role name/field name/
-- [commissions.csv](https://github.com/sosgang/bond/blob/main/commissions.csv) : file containing initial bibliographic metadata of the members of the commissions
-- All the python files in [**data_collection** folder](https://github.com/sosgang/bond/tree/main/data_collection)
-- [stopwords-it.txt](https://github.com/sosgang/bond/blob/main/stopwords-it.txt) : list of stopwords in italian
-- [indicatoriCalcolati-ASN16-18.tsv](https://github.com/sosgang/bond/blob/main/indicatoriCalcolati-ASN16-18.tsv) : file containing the ANVUR metrics and outcomes for each candidate
+- [**cv_jsons** folder](https://github.com/sosgang/bond/tree/main/cv_jsons)
+- All the files in [**data_collection** folder](https://github.com/sosgang/bond/tree/main/data_collection)
+ - [stopwords-it.txt](https://github.com/sosgang/bond/blob/main/stopwords-it.txt) : list of stopwords in italian
+ - [indicatoriCalcolati-ASN16-18.tsv](https://github.com/sosgang/bond/blob/main/indicatoriCalcolati-ASN16-18.tsv) : file containing the ANVUR metrics and outcomes for each candidate
+ - [commissions.csv](https://github.com/sosgang/bond/blob/main/commissions.csv) : file containing initial bibliographic metadata of the members of the commissions
+ - bond_execution.py : executes the entire collection process by calling all the other necessary python files, saving the bibliographic and citation data in jsons in separate folders at numerous steps throughout the process, and storing the final metrics in a csv file. This ensures that no information is lost if the computation suddenly shuts down.
+ - meta_extraction.py : extracts the publications' metadata from the CV json files, disambiguating duplicate publications, and stores it in a dictionary.
+ - add_info.py : adds other types of information to the dictionary: the full name of the candidate, the ANVUR metrics, the outcome of the NSQ and the coverage of the candidate's publications.
+ - id_search.py : searches for each candidate’s Author Ids in MAG and for each article’s DOI in OA and CR.
+ - bib_retrieval.py : queries MAG for each Author Id and retrieves all the available bibliographic information for each Author Id.
+ - cit_retrieval.py : retrieves the metadata of all the cited and citing publications for each candidate's publication from MAG, COCI and CR.
+ - graph_analysis.py : creates and analyzes citation networks, and calculates our citation-based metrics for each candidate.
 
 ### 3.2 Execution
-- [**bond_execution.py**](https://github.com/sosgang/bond/blob/main/data_collection/bond_execution.py): executes the entire collection process by calling all the other necessary python files, and saves the results in json format and csv.
-- meta_extraction.py : extracts the publications' metadata from the CV json files, disambiguating duplicate publications, and stores it in a dictionary.
-- add_info.py : adds other types of information to the dictionary: the full name of the candidate, the ANVUR metrics, the outcome of the NSQ and the coverage of the candidate's publications.
-- id_search.py : searches for each candidate’s Author Ids in MAG and for each article’s DOI in OA and CR.
-- bib_retrieval.py : queries MAG for each Author Id and retrieves all the available bibliographic information for each Author Id.
-- cit_retrieval.py : retrieves the metadata of all the cited and citing publications for each candidate's publication from MAG, COCI and CR.
-- graph_analysis.py : creates and analyzes citation networks, and calculates our citation-based metrics for each candidate.
+- [**bond_execution.py**](https://github.com/sosgang/bond/blob/main/data_collection/bond_execution.py): executes the entire collection process. Before running this code, it is necessary to make sure that the folder and file paths at the end of this python file correspond to the appropriate ones. If, for whatever reason, the execution is stopped, it is sufficient to run this python file again.
 
 ## 4. Analyzing coverage
 
 ### 4.1 Materials
 
-- [**bib-cit_data** folder](https://github.com/sosgang/bond/tree/main/bib-cit_data) containing all the bibliographic and citation data of the candidates and the commission. Candidates' data is divided into Jsons files that are named after the term candidates applied in (e.g. "t1" for first term), the role (e.g. "AP" for Associate Professorship) and the field (e.g. "10-G1") they applied for.
-- The python files contained in [**coverage** folder](https://github.com/sosgang/bond/blob/main/coverage)
+- [**complete_data** folder](https://github.com/sosgang/bond/tree/main/complete_data)
+- The python files contained in [**coverage** folder](https://github.com/sosgang/bond/blob/main/coverage):
+ - coverage.py : executes the functions for calculating the coverage of the CV publications of each candidate and stores the results in a CSV file.
+ - search_OA_CR.py : searches for each publication in OpenAIRE and Crossref.
 
 ### 4.2 Execution
 
-- [**coverage.py**](https://github.com/sosgang/bond/blob/main/coverage/coverage.py): executes the functions for calculating the coverage of the CV publications of each candidate and stores the results in a CSV file.
-- search_OA_CR.py : searches for each publication in OpenAIRE and Crossref
+- [**coverage.py**](https://github.com/sosgang/bond/blob/main/coverage/coverage.py): executes the functions for calculating the coverage. Before running this code, it is necessary to make sure that the folder and file paths at the end of this python file correspond to the appropriate ones.
 
-## 5. Machine learning experiment
+## 5. Reproducing the citation network visualization
 
 ### 5.1 Materials
+
+- [**complete_data** folder](https://github.com/sosgang/bond/tree/main/complete_data)
+- The python files contained in [**visualization** folder](https://github.com/sosgang/bond/blob/main/visualization):
+ - visualization.py : executes the functions for creating a graph and a diagram representing the citation network of one candidate.
+ - venn.svg : diagram mold which is modified to represent the candidate's information
+
+### 5.2 Execution
+
+- [**visualization.py**](https://github.com/sosgang/bond/blob/main/coverage/visualization.py): executes the functions for creating a graph and a diagram representing the citation network of one candidate. Before running this code, it is necessary to make sure that the folder path at the end of this python file correspond to the appropriate ones, and to specify the correct information that identify the candidate.
+
+## 6. Machine learning experiment
+
+### 6.1 Materials
 
 - [**ml_experiment/data** folder](https://github.com/sosgang/bond/tree/main/ml_experiment/data): contains both the input file (i.e. results.csv) for the python scripts that perform the analysis, and the output produced by the scripts.
   - [**results.csv**](https://github.com/sosgang/bond/tree/main/ml_experiment/data/results.csv): the citation-based metrics calculated for each candidate. Each row corresponds to one candidate. This file is the input of the python scripts.
@@ -128,7 +144,7 @@ We ground our analysis on the data of the candidates and commissions that took p
   - [**combinations_ALL_features.zip**](https://github.com/sosgang/bond/tree/main/ml_experiment/data/combinations_ALL_features.zip): an archive containing the results of all the 982,980 computed classifiers in a single file. This file is the output of the experiment (script file: ml_combinations.py).
   - [**combinations_i_features.zip**](https://github.com/sosgang/bond/tree/main/ml_experiment/data/combinations_i_features.zip): an archive containing the same data contained in combinations_ALL_features.zip split in multiple files. This file is the output of the experiment (script file: ml_combinations.py).
 
-### 5.2 Execution
+### 6.2 Execution
 
 - [**ml_experiment/script** folder](https://github.com/sosgang/bond/tree/main/ml_experiment/script): contains the python scripts developed for the experiment based on machine learning techniques presented in the paper.
   - [**ml_combinations.py**](https://github.com/sosgang/bond/tree/main/ml_experiment/script/ml_combinations.py): the script evaluates the classifiers that can be computed using all the possible combinations of metrics, input data coverages and classification algorithms, for each field and role. The classifiers are trained on the data about candidates to the first four terms of the NSQ, and are tested on the candidates of the last term.
