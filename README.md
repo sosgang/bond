@@ -118,8 +118,8 @@ We ground our analysis on the data of the candidates and commissions that took p
 
 - [**complete_data** folder](https://github.com/sosgang/bond/tree/main/complete_data)
 - The python files contained in [**coverage** folder](https://github.com/sosgang/bond/blob/main/coverage):
- - coverage.py : executes the functions for calculating the coverage of the CV publications of each candidate and stores the results in a CSV file.
- - search_OA_CR.py : searches for each publication in OpenAIRE and Crossref.
+  - coverage.py : executes the functions for calculating the coverage of the CV publications of each candidate and stores the results in a CSV file.
+  - search_OA_CR.py : searches for each publication in OpenAIRE and Crossref.
 
 ### 4.2 Execution
 
@@ -131,8 +131,8 @@ We ground our analysis on the data of the candidates and commissions that took p
 
 - [**complete_data** folder](https://github.com/sosgang/bond/tree/main/complete_data)
 - The python files contained in [**visualization** folder](https://github.com/sosgang/bond/blob/main/visualization):
- - visualization.py : executes the functions for creating a graph and a diagram representing the citation network of one candidate.
- - venn.svg : diagram mold which is modified to represent the candidate's information
+  - visualization.py : executes the functions for creating a graph and a diagram representing the citation network of one candidate.
+  - venn.svg : diagram mold which is modified to represent the candidate's information
 
 ### 5.2 Execution
 
