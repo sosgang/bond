@@ -1,0 +1,2632 @@
+{
+    "AuIds": [
+        2661632034,
+        2671946290,
+        2710380628,
+        2665926235,
+        2313186620
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "2059253539_+_1482438246": 1,
+                "2059253539_+_396842771": 1
+            },
+            "number": 1
+        },
+        "cand_nodes": 5,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 498,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 108,
+            "comm_other": 3837,
+            "other_cand": 50,
+            "other_comm": 4921
+        },
+        "other_nodes": 6181
+    },
+    "coverage": {
+        "articles": 5,
+        "books": 1,
+        "cov_sect": "A",
+        "other_pubbs": 0,
+        "pubbs": 1,
+        "pubbs_found": 1,
+        "pubbs_ind": 5,
+        "pubbs_ind_found": 4,
+        "total_extra_found": 5,
+        "total_found": 5,
+        "total_pubbs": 6
+    },
+    "fullname": [
+        "Cardini",
+        "Filippo-Enrico"
+    ],
+    "ind_anvur": [
+        "",
+        "",
+        "",
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0391-2108"
+            ],
+            "PId": 2557924512,
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "journal": "RIVISTA DI LETTERATURE MODERNE E COMPARATE",
+            "title": "pensiero e lessico politico in piers plowman",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "2239-0367"
+            ],
+            "PId": 1529282489,
+            "cited": [
+                {
+                    "PId": 1503247412,
+                    "author": [
+                        {
+                            "AuId": 123488361,
+                            "AuN": "zoltan kovecses"
+                        },
+                        {
+                            "AuId": 2073419912,
+                            "AuN": "reka benczes"
+                        }
+                    ],
+                    "title": "metaphor a practical introduction",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2098520883,
+                    "author": [
+                        {
+                            "AuId": 194655116,
+                            "AuN": "george lakoff"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139173865.013",
+                    "title": "the contemporary theory of metaphor",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1968133283,
+                    "author": [
+                        {
+                            "AuId": 2239589570,
+                            "AuN": "lera boroditsky"
+                        }
+                    ],
+                    "doi": "10.1016/S0010-0277(99)00073-6",
+                    "journal": "cognition",
+                    "title": "metaphoric structuring understanding time through spatial metaphors",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2143801939,
+                    "author": [
+                        {
+                            "AuId": 428638125,
+                            "AuN": "daniel casasanto"
+                        },
+                        {
+                            "AuId": 428638125,
+                            "AuN": "daniel casasanto"
+                        },
+                        {
+                            "AuId": 2239589570,
+                            "AuN": "lera boroditsky"
+                        }
+                    ],
+                    "doi": "10.1016/J.COGNITION.2007.03.004",
+                    "journal": "cognition",
+                    "title": "time in the mind using space to think about time",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 61619129,
+                    "author": [
+                        {
+                            "AuId": 2024188744,
+                            "AuN": "jonathan charterisblack"
+                        }
+                    ],
+                    "title": "corpus approaches to critical metaphor analysis",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 364675936,
+                    "author": [
+                        {
+                            "AuId": 169601280,
+                            "AuN": "elena semino"
+                        }
+                    ],
+                    "title": "metaphor in discourse",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2092910762,
+                    "author": [
+                        {
+                            "AuId": 194655116,
+                            "AuN": "george lakoff"
+                        },
+                        {
+                            "AuId": 2128789290,
+                            "AuN": "mark b turner"
+                        }
+                    ],
+                    "title": "more than cool reason a field guide to poetic metaphor",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2126101898,
+                    "author": [
+                        {
+                            "AuId": 2117657100,
+                            "AuN": "donald n mccloskey"
+                        }
+                    ],
+                    "title": "the rhetoric of economics",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 1516142451,
+                    "author": [
+                        {
+                            "AuId": 2073040236,
+                            "AuN": "andrew goatly"
+                        }
+                    ],
+                    "title": "the language of metaphors",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 3022135529,
+                    "author": [
+                        {
+                            "AuId": 2111261108,
+                            "AuN": "mark h johnson"
+                        }
+                    ],
+                    "title": "the body in the mind",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 1517598104,
+                    "author": [
+                        {
+                            "AuId": 2190830357,
+                            "AuN": "guy cook"
+                        }
+                    ],
+                    "title": "the discourse of advertising",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 650288370,
+                    "author": [
+                        {
+                            "AuId": 2114668372,
+                            "AuN": "rosamund moon"
+                        }
+                    ],
+                    "title": "fixed expressions and idioms in english a corpus based approach",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 187994088,
+                    "author": [
+                        {
+                            "AuId": 2129055636,
+                            "AuN": "theodore l brown"
+                        }
+                    ],
+                    "title": "making truth metaphor in science",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2152986185,
+                    "author": [
+                        {
+                            "AuId": 1787174013,
+                            "AuN": "gary m reisfield"
+                        },
+                        {
+                            "AuId": 2806900598,
+                            "AuN": "george r wilson"
+                        }
+                    ],
+                    "doi": "10.1200/JCO.2004.03.136",
+                    "journal": "journal of clinical oncology",
+                    "title": "use of metaphor in the discourse on cancer",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2017501150,
+                    "author": [
+                        {
+                            "AuId": 2260550305,
+                            "AuN": "john r searle"
+                        }
+                    ],
+                    "title": "expression and meaning studies in the theory of speech acts",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 2328086914,
+                    "author": [
+                        {
+                            "AuId": 2159856730,
+                            "AuN": "evelyn fox keller"
+                        }
+                    ],
+                    "title": "refiguring life metaphors of twentieth century biology",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2494077929,
+                    "author": [
+                        {
+                            "AuId": 1854401692,
+                            "AuN": "veronika koller"
+                        }
+                    ],
+                    "doi": "10.1057/9780230511286",
+                    "title": "metaphor and gender in business media discourse",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2065133735,
+                    "author": [
+                        {
+                            "AuId": 2024188744,
+                            "AuN": "jonathan charterisblack"
+                        }
+                    ],
+                    "doi": "10.1016/S0889-4906(98)00025-8",
+                    "journal": "english for specific purposes",
+                    "title": "metaphor and vocabulary teaching in esp economics",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2094062137,
+                    "author": [
+                        {
+                            "AuId": 2122182924,
+                            "AuN": "ana maria rojo lopez"
+                        },
+                        {
+                            "AuId": 2156013085,
+                            "AuN": "maria angeles orts llopis"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2010.06.001",
+                    "journal": "journal of pragmatics",
+                    "title": "metaphorical pattern analysis in financial texts framing the crisis in positive or negative metaphorical terms",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 561355545,
+                    "author": [
+                        {
+                            "AuId": 2061700448,
+                            "AuN": "greg myers"
+                        }
+                    ],
+                    "title": "words in ads",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2050589169,
+                    "author": [
+                        {
+                            "AuId": 2133895665,
+                            "AuN": "jeffery scott mio"
+                        }
+                    ],
+                    "doi": "10.1207/S15327868MS1202_2",
+                    "journal": "metaphor and symbol",
+                    "title": "metaphor and politics",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 143552593,
+                    "author": [
+                        {
+                            "AuId": 2695659192,
+                            "AuN": "hugh g petrie"
+                        },
+                        {
+                            "AuId": 2479519406,
+                            "AuN": "rebecca s oshlag"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139173865.027",
+                    "title": "metaphor and learning",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2497720239,
+                    "author": [
+                        {
+                            "AuId": 2424220164,
+                            "AuN": "john hicks"
+                        }
+                    ],
+                    "doi": "10.1093/0198287240.003.0015",
+                    "title": "an international economy",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 1949881471,
+                    "author": [
+                        {
+                            "AuId": 194655116,
+                            "AuN": "george lakoff"
+                        },
+                        {
+                            "AuId": 2111261108,
+                            "AuN": "mark h johnson"
+                        }
+                    ],
+                    "doi": "10.2307/2025464",
+                    "journal": "the journal of philosophy",
+                    "title": "conceptual metaphor in everyday language",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 1598039763,
+                    "author": [
+                        {
+                            "AuId": 2136636281,
+                            "AuN": "winifred nowottny"
+                        }
+                    ],
+                    "title": "the language poets use",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1491086578,
+                    "author": [
+                        {
+                            "AuId": 2134242458,
+                            "AuN": "geoffrey leech"
+                        }
+                    ],
+                    "title": "a linguistic guide to english poetry",
+                    "year_mag": 1969
+                },
+                {
+                    "PId": 2307106514,
+                    "author": [
+                        {
+                            "AuId": 2342833931,
+                            "AuN": "francisco santibanez"
+                        }
+                    ],
+                    "title": "the object image schema and other dependent schemas",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1585363588,
+                    "author": [
+                        {
+                            "AuId": 2643084902,
+                            "AuN": "michael white"
+                        }
+                    ],
+                    "journal": "cuadernos de filologia inglesa",
+                    "title": "the use of metaphor in reporting financial market transactions",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2990625273,
+                    "author": [
+                        {
+                            "AuId": 2990526381,
+                            "AuN": "jerrold m sadock"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139173865.005",
+                    "title": "metaphor and thought figurative speech and linguistics",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2322590825,
+                    "author": [
+                        {
+                            "AuId": 2662960650,
+                            "AuN": "kerstin stroyny"
+                        },
+                        {
+                            "AuId": 2970659932,
+                            "AuN": "paul d deane"
+                        }
+                    ],
+                    "title": "grammar in mind and brain",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2085026080,
+                    "author": [
+                        {
+                            "AuId": 2326932543,
+                            "AuN": "peter newmark"
+                        }
+                    ],
+                    "doi": "10.1075/BABEL.26.2.05NEW",
+                    "journal": "babel",
+                    "title": "the translation of metaphor",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 2384337296,
+                    "author": [
+                        {
+                            "AuId": 2352767178,
+                            "AuN": "le yue"
+                        }
+                    ],
+                    "journal": "journal of xinyang agricultural college",
+                    "title": "metaphors in economics",
+                    "year_mag": 2008
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2981593715,
+                    "author": [
+                        {
+                            "AuId": 2294057907,
+                            "AuN": "bikesh raj upreti"
+                        },
+                        {
+                            "AuId": 2981807965,
+                            "AuN": "philipp martin back"
+                        },
+                        {
+                            "AuId": 2151247061,
+                            "AuN": "pekka malo"
+                        },
+                        {
+                            "AuId": 2062099451,
+                            "AuN": "oskar ahlgren"
+                        },
+                        {
+                            "AuId": 2109761911,
+                            "AuN": "ankur sinha"
+                        }
+                    ],
+                    "doi": "10.1007/978-981-13-8319-9_19",
+                    "title": "knowledge driven approaches for financial news analytics",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3087569281,
+                    "author": [
+                        {
+                            "AuId": 3024105576,
+                            "AuN": "muhammad adam"
+                        }
+                    ],
+                    "doi": "10.30605/25409190.183",
+                    "title": "curing the infected wound metaphor of state owned enterprises in news headlines",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2415400914,
+                    "author": [
+                        {
+                            "AuId": 2290747366,
+                            "AuN": "ljiljana vukicevic\u0111or\u0111evic"
+                        }
+                    ],
+                    "title": "on biological metaphors in economic discourse",
+                    "year_mag": 2014
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1285/I22390359V11P59",
+            "journal": "LINGUE E LINGUAGGI",
+            "title": "analysing english metaphors of the economic crisis",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0378-2166"
+            ],
+            "PId": 2059253539,
+            "cited": [
+                {
+                    "PId": 1974525874,
+                    "author": [
+                        {
+                            "AuId": 2098835599,
+                            "AuN": "robert cummins"
+                        },
+                        {
+                            "AuId": 2180580011,
+                            "AuN": "jerry a fodor"
+                        }
+                    ],
+                    "doi": "10.7551/MITPRESS/4737.001.0001",
+                    "journal": "the philosophical review",
+                    "title": "the modularity of mind",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2128092632,
+                    "author": [
+                        {
+                            "AuId": 1981623995,
+                            "AuN": "stephen c levinson"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511613609",
+                    "title": "space in language and cognition explorations in cognitive diversity",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2105799497,
+                    "author": [
+                        {
+                            "AuId": 2239589570,
+                            "AuN": "lera boroditsky"
+                        }
+                    ],
+                    "doi": "10.1006/COGP.2001.0748",
+                    "journal": "cognitive psychology",
+                    "title": "does language shape thought mandarin and english speakers conceptions of time",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2334905547,
+                    "author": [
+                        {
+                            "AuId": 2703282413,
+                            "AuN": "jill brody"
+                        },
+                        {
+                            "AuId": 1880684372,
+                            "AuN": "john j gumperz"
+                        },
+                        {
+                            "AuId": 1981623995,
+                            "AuN": "stephen c levinson"
+                        }
+                    ],
+                    "doi": "10.2307/417805",
+                    "journal": "language",
+                    "title": "rethinking linguistic relativity",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2123987305,
+                    "author": [
+                        {
+                            "AuId": 1990829728,
+                            "AuN": "ray jackendoff"
+                        }
+                    ],
+                    "title": "semantics and cognition",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 61812930,
+                    "author": [
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        }
+                    ],
+                    "doi": "10.4324/9781410609694-12",
+                    "title": "the many ways to search for a frog linguistic typology and the expression of motion events",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2032170230,
+                    "author": [
+                        {
+                            "AuId": 2152474553,
+                            "AuN": "ruth a berman"
+                        },
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        }
+                    ],
+                    "doi": "10.4324/9780203773512",
+                    "journal": "language",
+                    "title": "relating events in narrative a crosslinguistic developmental study",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1495375933,
+                    "author": [
+                        {
+                            "AuId": 1906542420,
+                            "AuN": "dedre gentner"
+                        },
+                        {
+                            "AuId": 2743864542,
+                            "AuN": "susan goldin"
+                        }
+                    ],
+                    "title": "language in mind advances in the study of language and thought",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2147727123,
+                    "author": [
+                        {
+                            "AuId": 2027700436,
+                            "AuN": "peggy li"
+                        },
+                        {
+                            "AuId": 2206994961,
+                            "AuN": "lila r gleitman"
+                        }
+                    ],
+                    "doi": "10.1016/S0010-0277(02)00009-4",
+                    "journal": "cognition",
+                    "title": "turning the tables language and spatial reasoning",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 51494718,
+                    "author": [
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        }
+                    ],
+                    "title": "from thought and language to thinking for speaking",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2081981374,
+                    "author": [
+                        {
+                            "AuId": 2180580011,
+                            "AuN": "jerry a fodor"
+                        }
+                    ],
+                    "title": "the language of thought",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 2097047235,
+                    "author": [
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        }
+                    ],
+                    "title": "language and thought online cognitive consequences of linguistic relativity",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1602567378,
+                    "author": [
+                        {
+                            "AuId": 2239589570,
+                            "AuN": "lera boroditsky"
+                        },
+                        {
+                            "AuId": 2633932173,
+                            "AuN": "lauren a schmidt"
+                        },
+                        {
+                            "AuId": 2702171087,
+                            "AuN": "webb phillips"
+                        }
+                    ],
+                    "title": "sex syntax and semantics",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2148283460,
+                    "author": [
+                        {
+                            "AuId": 2112629518,
+                            "AuN": "mutsumi imai"
+                        },
+                        {
+                            "AuId": 1906542420,
+                            "AuN": "dedre gentner"
+                        }
+                    ],
+                    "doi": "10.1016/S0010-0277(96)00784-6",
+                    "journal": "cognition",
+                    "title": "a cross linguistic study of early word meaning universal ontology and linguistic influence",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2148681549,
+                    "author": [
+                        {
+                            "AuId": 2004786281,
+                            "AuN": "silvia p gennari"
+                        },
+                        {
+                            "AuId": 317854028,
+                            "AuN": "steven a sloman"
+                        },
+                        {
+                            "AuId": 2143528216,
+                            "AuN": "barbara c malt"
+                        },
+                        {
+                            "AuId": 2171045256,
+                            "AuN": "w tecumseh fitch"
+                        }
+                    ],
+                    "doi": "10.1016/S0010-0277(01)00166-4",
+                    "journal": "cognition",
+                    "title": "motion events in language and cognition",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1649104085,
+                    "author": [
+                        {
+                            "AuId": 1978977849,
+                            "AuN": "jules davidoff"
+                        },
+                        {
+                            "AuId": 2135128786,
+                            "AuN": "ian r l davies"
+                        },
+                        {
+                            "AuId": 2098144166,
+                            "AuN": "debi roberson"
+                        }
+                    ],
+                    "doi": "10.1038/18335",
+                    "journal": "nature",
+                    "title": "colour categories in a stone age tribe",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2141799487,
+                    "author": [
+                        {
+                            "AuId": 1981623995,
+                            "AuN": "stephen c levinson"
+                        },
+                        {
+                            "AuId": 2156163683,
+                            "AuN": "sotaro kita"
+                        },
+                        {
+                            "AuId": 1885314097,
+                            "AuN": "daniel b m haun"
+                        },
+                        {
+                            "AuId": 2004121337,
+                            "AuN": "bjorn rasch"
+                        }
+                    ],
+                    "doi": "10.1016/S0010-0277(02)00045-8",
+                    "journal": "cognition",
+                    "title": "returning the tables language affects spatial reasoning",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2027342290,
+                    "author": [
+                        {
+                            "AuId": 2225729172,
+                            "AuN": "marilyn shatz"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.2006.0068",
+                    "journal": "language",
+                    "title": "language in mind advances in the study of language and thought review",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2067550291,
+                    "author": [
+                        {
+                            "AuId": 593554,
+                            "AuN": "anna papafragou"
+                        },
+                        {
+                            "AuId": 2027700436,
+                            "AuN": "peggy li"
+                        },
+                        {
+                            "AuId": 2171656749,
+                            "AuN": "youngon choi"
+                        },
+                        {
+                            "AuId": 2124110321,
+                            "AuN": "chunghye han"
+                        }
+                    ],
+                    "doi": "10.1016/J.COGNITION.2006.04.001",
+                    "journal": "cognition",
+                    "title": "evidentiality in language and cognition",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1774632532,
+                    "author": [
+                        {
+                            "AuId": 2503347236,
+                            "AuN": "leonard talmy"
+                        }
+                    ],
+                    "doi": "10.3765/BLS.V17I0.1620",
+                    "title": "path to realization a typology of event conflation",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2143809267,
+                    "author": [
+                        {
+                            "AuId": 593554,
+                            "AuN": "anna papafragou"
+                        },
+                        {
+                            "AuId": 2045404500,
+                            "AuN": "christine massey"
+                        },
+                        {
+                            "AuId": 2206994961,
+                            "AuN": "lila r gleitman"
+                        }
+                    ],
+                    "doi": "10.1016/S0010-0277(02)00046-X",
+                    "journal": "cognition",
+                    "title": "shake rattle n roll the representation of motion in language and cognition",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1708066298,
+                    "author": [
+                        {
+                            "AuId": 1047756406,
+                            "AuN": "sven stromqvist"
+                        },
+                        {
+                            "AuId": 2152594042,
+                            "AuN": "ludo verhoeven"
+                        }
+                    ],
+                    "doi": "10.4324/9781410609694",
+                    "title": "relating events in narrative volume 2 typological and contextual perspectives",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1974689608,
+                    "author": [
+                        {
+                            "AuId": 1977224959,
+                            "AuN": "paul kay"
+                        }
+                    ],
+                    "title": "basic color terms their universality and evolution",
+                    "year_mag": 1969
+                },
+                {
+                    "PId": 2045307958,
+                    "author": [
+                        {
+                            "AuId": 2292466642,
+                            "AuN": "john a lucy"
+                        }
+                    ],
+                    "title": "grammatical categories and cognition a case study of the linguistic relativity hypothesis",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2050839793,
+                    "author": [
+                        {
+                            "AuId": 1200433963,
+                            "AuN": "letitia r naigles"
+                        },
+                        {
+                            "AuId": 2599873097,
+                            "AuN": "ann r eisenberg"
+                        },
+                        {
+                            "AuId": 1992657257,
+                            "AuN": "edward kako"
+                        },
+                        {
+                            "AuId": 2334126581,
+                            "AuN": "melissa highter"
+                        },
+                        {
+                            "AuId": 2524161181,
+                            "AuN": "nancy mcgraw"
+                        }
+                    ],
+                    "doi": "10.1080/016909698386429",
+                    "journal": "language and cognitive processes",
+                    "title": "speaking of motion verb use in english and spanish",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 121874069,
+                    "author": [
+                        {
+                            "AuId": 2670494954,
+                            "AuN": "jon aske"
+                        }
+                    ],
+                    "doi": "10.3765/BLS.V15I0.1753",
+                    "title": "path predicates in english and spanish a closer look",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2052776925,
+                    "author": [
+                        {
+                            "AuId": 2021006434,
+                            "AuN": "david january"
+                        },
+                        {
+                            "AuId": 1992657257,
+                            "AuN": "edward kako"
+                        }
+                    ],
+                    "doi": "10.1016/J.COGNITION.2006.07.008",
+                    "journal": "cognition",
+                    "title": "re evaluating evidence for linguistic relativity reply to boroditsky 2001",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2034530965,
+                    "author": [
+                        {
+                            "AuId": 1977937569,
+                            "AuN": "annabel greenhill"
+                        },
+                        {
+                            "AuId": 3068160010,
+                            "AuN": "heather littlefield"
+                        },
+                        {
+                            "AuId": 2136282501,
+                            "AuN": "cheryl tano"
+                        }
+                    ],
+                    "title": "proceedings of the 23rd annual boston university conference on language development",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2264155890,
+                    "author": [
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        }
+                    ],
+                    "doi": "10.3765/BLS.V13I0.1826",
+                    "title": "thinking for speaking",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 613876251,
+                    "author": [
+                        {
+                            "AuId": 1962831256,
+                            "AuN": "susanne niemeier"
+                        },
+                        {
+                            "AuId": 2521542378,
+                            "AuN": "rene dirven"
+                        }
+                    ],
+                    "doi": "10.1075/CILT.198",
+                    "title": "evidence for linguistic relativity",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 163734380,
+                    "author": [
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        },
+                        {
+                            "AuId": 168601855,
+                            "AuN": "nini hoiting"
+                        }
+                    ],
+                    "doi": "10.3765/BLS.V20I1.1466",
+                    "title": "reference to movement in spoken and signed languages typological considerations",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2612544707,
+                    "author": [
+                        {
+                            "AuId": 2702171087,
+                            "AuN": "webb phillips"
+                        },
+                        {
+                            "AuId": 2239589570,
+                            "AuN": "lera boroditsky"
+                        }
+                    ],
+                    "title": "can quirks of grammar affect the way you think grammatical gender and object concepts",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1992492069,
+                    "author": [
+                        {
+                            "AuId": 94446635,
+                            "AuN": "iraide ibarretxeantunano"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.2004.012",
+                    "journal": "cognitive linguistics",
+                    "title": "language typologies in our language use the case of basque motion events in adult oral narratives",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1964619020,
+                    "author": [
+                        {
+                            "AuId": 2680635526,
+                            "AuN": "eleanor r heider"
+                        }
+                    ],
+                    "doi": "10.1037/H0032606",
+                    "journal": "journal of experimental psychology",
+                    "title": "universals in color naming and memory",
+                    "year_mag": 1972
+                },
+                {
+                    "PId": 649114151,
+                    "author": [
+                        {
+                            "AuId": 2094024147,
+                            "AuN": "russell t hurlburt"
+                        }
+                    ],
+                    "title": "sampling normal and schizophrenic inner experience",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2003780200,
+                    "author": [
+                        {
+                            "AuId": 1979407064,
+                            "AuN": "jill hohenstein"
+                        }
+                    ],
+                    "doi": "10.1207/S15327647JCD0603_5",
+                    "journal": "journal of cognition and development",
+                    "title": "language related motion event similarities in english and spanish speaking children",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2036995239,
+                    "author": [
+                        {
+                            "AuId": 2313186620,
+                            "AuN": "filippoenrico cardini"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.2008.021",
+                    "journal": "cognitive linguistics",
+                    "title": "manner of motion saliency an inquiry into italian",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1544636519,
+                    "author": [
+                        {
+                            "AuId": 2165280555,
+                            "AuN": "matthew finkbeiner"
+                        },
+                        {
+                            "AuId": 2156096670,
+                            "AuN": "janet nicol"
+                        },
+                        {
+                            "AuId": 2044851966,
+                            "AuN": "delia greth"
+                        },
+                        {
+                            "AuId": 2153465374,
+                            "AuN": "kumiko nakamura"
+                        }
+                    ],
+                    "doi": "10.1023/A:1021204802485",
+                    "journal": "journal of psycholinguistic research",
+                    "title": "the role of language in memory for actions",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 771516952,
+                    "author": [
+                        {
+                            "AuId": 1981623995,
+                            "AuN": "stephen c levinson"
+                        },
+                        {
+                            "AuId": 376168030,
+                            "AuN": "n j enfield"
+                        }
+                    ],
+                    "title": "manual for the field season 2001",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2066422980,
+                    "author": [
+                        {
+                            "AuId": 1968992018,
+                            "AuN": "eleanor rosch heider"
+                        },
+                        {
+                            "AuId": 1968992018,
+                            "AuN": "eleanor rosch heider"
+                        },
+                        {
+                            "AuId": 2123615610,
+                            "AuN": "donald c olivier"
+                        }
+                    ],
+                    "doi": "10.1016/0010-0285(72)90011-4",
+                    "journal": "cognitive psychology",
+                    "title": "the structure of the color space in naming and memory for two languages",
+                    "year_mag": 1972
+                },
+                {
+                    "PId": 2098841294,
+                    "author": [
+                        {
+                            "AuId": 2010798688,
+                            "AuN": "gordon h bower"
+                        },
+                        {
+                            "AuId": 2154119083,
+                            "AuN": "martin b karlin"
+                        },
+                        {
+                            "AuId": 2162884301,
+                            "AuN": "alvin dueck"
+                        }
+                    ],
+                    "doi": "10.3758/BF03212900",
+                    "journal": "memory & cognition",
+                    "title": "comprehension and memory for pictures",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 2022170290,
+                    "author": [
+                        {
+                            "AuId": 2155396325,
+                            "AuN": "james t todd"
+                        }
+                    ],
+                    "doi": "10.1037//0096-1523.9.1.31",
+                    "journal": "journal of experimental psychology human perception and performance",
+                    "title": "perception of gait",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 96819839,
+                    "author": [
+                        {
+                            "AuId": 2612647133,
+                            "AuN": "stephanie sandra pourcel"
+                        }
+                    ],
+                    "title": "relativism in the linguistic representation and cognitive conceptualisation of motion events across verb framed and satellite framed languages",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2151289144,
+                    "author": [
+                        {
+                            "AuId": 2313232366,
+                            "AuN": "leonard carmichael"
+                        },
+                        {
+                            "AuId": 2463426055,
+                            "AuN": "h p hogan"
+                        },
+                        {
+                            "AuId": 2255784264,
+                            "AuN": "a a walter"
+                        }
+                    ],
+                    "doi": "10.1037/H0072671",
+                    "journal": "journal of experimental psychology",
+                    "title": "an experimental study of the effect of language on the reproduction of visually perceived form",
+                    "year_mag": 1932
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2793971852,
+                    "author": [
+                        {
+                            "AuId": 1904023732,
+                            "AuN": "asli ozyurek"
+                        },
+                        {
+                            "AuId": 1904023732,
+                            "AuN": "asli ozyurek"
+                        }
+                    ],
+                    "doi": "10.1075/TILAR.22.07OZY",
+                    "title": "cross linguistic variation in children s multimodal utterances",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2971785644,
+                    "author": [
+                        {
+                            "AuId": 2971404956,
+                            "AuN": "diego feinmann"
+                        },
+                        {
+                            "AuId": 2971404956,
+                            "AuN": "diego feinmann"
+                        }
+                    ],
+                    "doi": "10.1007/S10936-019-09668-5",
+                    "title": "language and thought in the motion domain methodological considerations and new empirical evidence",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 1504034694,
+                    "author": [
+                        {
+                            "AuId": 2111441207,
+                            "AuN": "aneta pavlenko"
+                        },
+                        {
+                            "AuId": 2035026384,
+                            "AuN": "maria volynsky"
+                        }
+                    ],
+                    "doi": "10.1111/MODL.12177",
+                    "title": "motion encoding in russian and english moving beyond talmy s typology",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1931210062,
+                    "author": [
+                        {
+                            "AuId": 2401759503,
+                            "AuN": "samantha n emerson"
+                        },
+                        {
+                            "AuId": 2085116884,
+                            "AuN": "\u015feyda ozcali\u015fkan"
+                        },
+                        {
+                            "AuId": 2952885267,
+                            "AuN": "gwen a frishkoff"
+                        }
+                    ],
+                    "doi": "10.1017/S0142716415000193",
+                    "title": "effects of motion type and modality on word learning in english",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2791139809,
+                    "author": [
+                        {
+                            "AuId": 2602609743,
+                            "AuN": "dietha koster"
+                        },
+                        {
+                            "AuId": 343838316,
+                            "AuN": "teresa cadierno"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2018.02.006",
+                    "title": "is perception of placement universal a mixed methods perspective on linguistic relativity",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2333871985,
+                    "author": [
+                        {
+                            "AuId": 2710380628,
+                            "AuN": "filippoenrico cardini"
+                        }
+                    ],
+                    "doi": "10.1515/LANGCOG-2012-0010",
+                    "title": "grammatical constraints and verb framed languages the case of italian",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2546944181,
+                    "author": [
+                        {
+                            "AuId": 2027466098,
+                            "AuN": "\u015feyda ozcaliskan"
+                        },
+                        {
+                            "AuId": 2401759503,
+                            "AuN": "samantha n emerson"
+                        }
+                    ],
+                    "doi": "10.1075/TILAR.20.08OZC",
+                    "title": "learning to think talk and gesture about motion in language specific ways insights from turkish",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 599793908,
+                    "author": [
+                        {
+                            "AuId": 1991728159,
+                            "AuN": "natalya i stolova"
+                        }
+                    ],
+                    "title": "cognitive linguistics and lexical change motion verbs from latin to romance",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 3093465889,
+                    "author": [
+                        {
+                            "AuId": 2113278633,
+                            "AuN": "javier valenzuela"
+                        },
+                        {
+                            "AuId": 3032794672,
+                            "AuN": "daniel alcaraz carrion"
+                        }
+                    ],
+                    "doi": "10.3389/FPSYG.2020.543933",
+                    "title": "temporal expressions in english and spanish influence of typology and metaphorical construal",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2137316316,
+                    "author": [
+                        {
+                            "AuId": 2660005672,
+                            "AuN": "marcelyn camereldia antonette oostendorp"
+                        }
+                    ],
+                    "title": "effects of the second language on the first investigating the development of conceptual fluency of bilinguals in a tertiary education context",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2518806732,
+                    "author": [
+                        {
+                            "AuId": 2593612633,
+                            "AuN": "hae in park"
+                        }
+                    ],
+                    "title": "language and cognition in monolinguals and bilinguals a study of spontaneous and caused motion events in korean and english",
+                    "year_mag": 2015
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Oostendorp",
+                            "given": "Marcelyn",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/S0261444812000080",
+                    "title": "new perspectives on cross linguistic influence language and cognition vivian cook benedetta bassetti eds language and bilingual cognition new york and hove uk psychology press 2011 pp xi 581 isbn 978 1 84872 924 7 hardback zhaohong han teresa cadierno eds linguistic relativity in sla thinking for speaking bristol uk multilingual matters 2010 pp xi 212 isbn 978 1 84769 277 1 hardback scott jarvis aneta pavlenko crosslinguistic influence in language and cognition new york and abingdon uk routledge 2008 pp xi 275 isbn 978 0 80583 885 5 hardback aneta pavlenko ed thinking and speaking in two languages bristol uk multilingual matters 2011 pp ix 264 isbn 978 1 84769 366 5 paperback ",
+                    "year_oc": 2012
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Colgate University"
+                                }
+                            ],
+                            "family": "Stolova",
+                            "given": "Natalya I.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/CILT.331",
+                    "title": "cognitive linguistics and lexical change",
+                    "year_oc": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1016/J.PRAGMA.2009.09.017",
+            "journal": "JOURNAL OF PRAGMATICS",
+            "title": "evidence against whorfian effects in motion conceptualisation",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "978-3-639-15907-3"
+            ],
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "title": "testing linguistic relativity a comparison between english and italian in the domain of manner of motion p 1 171 vdm verlag dr",
+            "type": "monografia o trattato scientifico",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "0936-5907"
+            ],
+            "PId": 2036995239,
+            "cited": [
+                {
+                    "PId": 1774632532,
+                    "author": [
+                        {
+                            "AuId": 2503347236,
+                            "AuN": "leonard talmy"
+                        }
+                    ],
+                    "doi": "10.3765/BLS.V17I0.1620",
+                    "title": "path to realization a typology of event conflation",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2143809267,
+                    "author": [
+                        {
+                            "AuId": 593554,
+                            "AuN": "anna papafragou"
+                        },
+                        {
+                            "AuId": 2045404500,
+                            "AuN": "christine massey"
+                        },
+                        {
+                            "AuId": 2206994961,
+                            "AuN": "lila r gleitman"
+                        }
+                    ],
+                    "doi": "10.1016/S0010-0277(02)00046-X",
+                    "journal": "cognition",
+                    "title": "shake rattle n roll the representation of motion in language and cognition",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2050839793,
+                    "author": [
+                        {
+                            "AuId": 1200433963,
+                            "AuN": "letitia r naigles"
+                        },
+                        {
+                            "AuId": 2599873097,
+                            "AuN": "ann r eisenberg"
+                        },
+                        {
+                            "AuId": 1992657257,
+                            "AuN": "edward kako"
+                        },
+                        {
+                            "AuId": 2334126581,
+                            "AuN": "melissa highter"
+                        },
+                        {
+                            "AuId": 2524161181,
+                            "AuN": "nancy mcgraw"
+                        }
+                    ],
+                    "doi": "10.1080/016909698386429",
+                    "journal": "language and cognitive processes",
+                    "title": "speaking of motion verb use in english and spanish",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 163734380,
+                    "author": [
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        },
+                        {
+                            "AuId": 168601855,
+                            "AuN": "nini hoiting"
+                        }
+                    ],
+                    "doi": "10.3765/BLS.V20I1.1466",
+                    "title": "reference to movement in spoken and signed languages typological considerations",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1992492069,
+                    "author": [
+                        {
+                            "AuId": 94446635,
+                            "AuN": "iraide ibarretxeantunano"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.2004.012",
+                    "journal": "cognitive linguistics",
+                    "title": "language typologies in our language use the case of basque motion events in adult oral narratives",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1964191106,
+                    "author": [
+                        {
+                            "AuId": 2171722452,
+                            "AuN": "linda wheeldon"
+                        },
+                        {
+                            "AuId": 2010751883,
+                            "AuN": "stephen monsell"
+                        }
+                    ],
+                    "doi": "10.1080/14640749208401307",
+                    "journal": "quarterly journal of experimental psychology",
+                    "title": "the locus of repetition priming of spoken word production",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2141434459,
+                    "author": [
+                        {
+                            "AuId": 1200433963,
+                            "AuN": "letitia r naigles"
+                        },
+                        {
+                            "AuId": 2393696993,
+                            "AuN": "paula terrazas"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9280.00069",
+                    "journal": "psychological science",
+                    "title": "motion verb generalizations in english and spanish influences of language and syntax",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2097803113,
+                    "author": [
+                        {
+                            "AuId": 1899979098,
+                            "AuN": "anna wierzbicka"
+                        }
+                    ],
+                    "doi": "10.1017/S0140525X99232165",
+                    "journal": "behavioral and brain sciences",
+                    "title": "universals of colour from a linguistic point of view",
+                    "year_mag": 1999
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Damasio",
+                            "given": "Antonio R.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Damasio",
+                            "given": "Hanna",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1038/SCIENTIFICAMERICAN0992-88",
+                    "title": "brain and language",
+                    "year_oc": 1992
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Goddard",
+                            "given": "Cliff",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Wierzbicka",
+                            "given": "Anna",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.60.08GOD",
+                    "title": "2 semantic primes and universal grammar",
+                    "year_oc": 2002
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2154092342,
+                    "author": [
+                        {
+                            "AuId": 2117210897,
+                            "AuN": "beth levin"
+                        }
+                    ],
+                    "doi": "10.1515/9783110429343-019",
+                    "title": "39 verb classes within and across languages",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2980607872,
+                    "author": [
+                        {
+                            "AuId": 2899248603,
+                            "AuN": "yiyun liao"
+                        },
+                        {
+                            "AuId": 2776361626,
+                            "AuN": "monique flecken"
+                        },
+                        {
+                            "AuId": 2114015363,
+                            "AuN": "katinka dijkstra"
+                        },
+                        {
+                            "AuId": 2569114698,
+                            "AuN": "rolf a zwaan"
+                        }
+                    ],
+                    "doi": "10.1080/23273798.2019.1676455",
+                    "title": "going places in dutch and mandarin chinese conceptualising the path of motion cross linguistically",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3049643962,
+                    "author": [
+                        {
+                            "AuId": 1895822251,
+                            "AuN": "christiane von stutterheim"
+                        },
+                        {
+                            "AuId": 2021888146,
+                            "AuN": "johannes gerwien"
+                        },
+                        {
+                            "AuId": 2569328304,
+                            "AuN": "abbassia bouhaous"
+                        },
+                        {
+                            "AuId": 2239366513,
+                            "AuN": "mary carroll"
+                        },
+                        {
+                            "AuId": 2617222688,
+                            "AuN": "monique lambert"
+                        }
+                    ],
+                    "doi": "10.1515/LING-2020-0212",
+                    "title": "what makes up a reportable event in a language motion events as an important test domain in linguistic typology",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2952894011,
+                    "author": [
+                        {
+                            "AuId": 2950856260,
+                            "AuN": "alimujiang tusun"
+                        },
+                        {
+                            "AuId": 2123380424,
+                            "AuN": "henriette hendriks"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2019.05.003",
+                    "title": "voluntary motion events in uyghur a typological perspective",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2480045386,
+                    "author": [
+                        {
+                            "AuId": 2117210897,
+                            "AuN": "beth levin"
+                        }
+                    ],
+                    "title": "manner and result implications for argument realization across languages",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1504034694,
+                    "author": [
+                        {
+                            "AuId": 2111441207,
+                            "AuN": "aneta pavlenko"
+                        },
+                        {
+                            "AuId": 2035026384,
+                            "AuN": "maria volynsky"
+                        }
+                    ],
+                    "doi": "10.1111/MODL.12177",
+                    "title": "motion encoding in russian and english moving beyond talmy s typology",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2740472456,
+                    "author": [
+                        {
+                            "AuId": 2741298917,
+                            "AuN": "kimi akita"
+                        }
+                    ],
+                    "doi": "10.1075/HCP.59.03AKI",
+                    "title": "chapter 1 the typology of manner expressions a preliminary look",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2466421985,
+                    "author": [
+                        {
+                            "AuId": 2503991180,
+                            "AuN": "wojciech lewandowski"
+                        },
+                        {
+                            "AuId": 2169580147,
+                            "AuN": "jaume mateu"
+                        }
+                    ],
+                    "doi": "10.1075/RCL.14.1.08LEW",
+                    "title": "thinking for translating and intra typological variation in satellite framed languages",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2889097973,
+                    "author": [
+                        {
+                            "AuId": 2503991180,
+                            "AuN": "wojciech lewandowski"
+                        }
+                    ],
+                    "doi": "10.1075/PBNS.296.03LEW",
+                    "title": "a typological approach to the encoding of motion events",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2485779123,
+                    "author": [
+                        {
+                            "AuId": 320222791,
+                            "AuN": "raphael berthele"
+                        }
+                    ],
+                    "doi": "10.1075/HCP.41.03BER",
+                    "title": "disentangling manner and path evidence from varieties of german and romance",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2989092455,
+                    "author": [
+                        {
+                            "AuId": 2987000771,
+                            "AuN": "simona anastasio"
+                        }
+                    ],
+                    "doi": "10.1075/LIA.19003.ANA",
+                    "title": "l expression du deplacement en italien l2 perspectives typologiques et psycholinguistiques",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2413983234,
+                    "author": [
+                        {
+                            "AuId": 2338029557,
+                            "AuN": "bjorn wesseltolvig"
+                        },
+                        {
+                            "AuId": 67820281,
+                            "AuN": "patrizia paggio"
+                        },
+                        {
+                            "AuId": 67820281,
+                            "AuN": "patrizia paggio"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2016.05.004",
+                    "title": "revisiting the thinking for speaking hypothesis speech and gesture representation of motion in danish and italian",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2342302005,
+                    "author": [
+                        {
+                            "AuId": 2112328361,
+                            "AuN": "jens allwood"
+                        },
+                        {
+                            "AuId": 2338941010,
+                            "AuN": "stefano lanzini"
+                        },
+                        {
+                            "AuId": 1998339428,
+                            "AuN": "elisabeth ahlsen"
+                        }
+                    ],
+                    "title": "contributions of different modalities to the attribution of affective epistemic states",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 3046441019,
+                    "author": [
+                        {
+                            "AuId": 2100171468,
+                            "AuN": "kimi akita"
+                        },
+                        {
+                            "AuId": 2740626433,
+                            "AuN": "yo matsumoto"
+                        }
+                    ],
+                    "doi": "10.1075/HCP.69.05AKI",
+                    "title": "chapter 5 a fine grained analysis of manner salience experimental evidence from japanese and english",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2156318359,
+                    "author": [
+                        {
+                            "AuId": 1967988067,
+                            "AuN": "margaret friend"
+                        },
+                        {
+                            "AuId": 2936376632,
+                            "AuN": "amy pace"
+                        }
+                    ],
+                    "doi": "10.1037/A0021107",
+                    "title": "beyond event segmentation spatial and social cognitive processes in verb to action mapping",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2059253539,
+                    "author": [
+                        {
+                            "AuId": 2665926235,
+                            "AuN": "filippoenrico cardini"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2009.09.017",
+                    "title": "evidence against whorfian effects in motion conceptualisation",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2966215835,
+                    "author": [
+                        {
+                            "AuId": 2050416303,
+                            "AuN": "dejan stosic"
+                        }
+                    ],
+                    "doi": "10.1075/HCP.66.04STO",
+                    "title": "manner as a cluster concept what does lexical coding of manner of motion tell us about manner",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2333871985,
+                    "author": [
+                        {
+                            "AuId": 2710380628,
+                            "AuN": "filippoenrico cardini"
+                        }
+                    ],
+                    "doi": "10.1515/LANGCOG-2012-0010",
+                    "title": "grammatical constraints and verb framed languages the case of italian",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2741240804,
+                    "author": [
+                        {
+                            "AuId": 2741264032,
+                            "AuN": "dan i slobin"
+                        }
+                    ],
+                    "doi": "10.1075/HCP.59.17SLO",
+                    "title": "afterword typologies and language use",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2189026911,
+                    "author": [
+                        {
+                            "AuId": 2789533636,
+                            "AuN": "diane ponterotto"
+                        }
+                    ],
+                    "title": "happiness is moving up conceptualizing emotions through motion verbs",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2740443287,
+                    "author": [
+                        {
+                            "AuId": 115469196,
+                            "AuN": "alberto hijazogascon"
+                        }
+                    ],
+                    "doi": "10.1075/HCP.59.13HIJ",
+                    "title": "chapter 11 motion event contrasts in romance languages deixis in spanish as a second language",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 599793908,
+                    "author": [
+                        {
+                            "AuId": 1991728159,
+                            "AuN": "natalya i stolova"
+                        }
+                    ],
+                    "title": "cognitive linguistics and lexical change motion verbs from latin to romance",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 3003762482,
+                    "author": [
+                        {
+                            "AuId": 2071014816,
+                            "AuN": "michele i feist"
+                        },
+                        {
+                            "AuId": 2128886495,
+                            "AuN": "sarah e duffy"
+                        }
+                    ],
+                    "doi": "10.1017/LANGCOG.2020.7",
+                    "title": "on the path of time temporal motion in typological perspective",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2740171905,
+                    "author": [
+                        {
+                            "AuId": 2027466098,
+                            "AuN": "\u015feyda ozcaliskan"
+                        },
+                        {
+                            "AuId": 1985841765,
+                            "AuN": "lauren j stites"
+                        },
+                        {
+                            "AuId": 2401759503,
+                            "AuN": "samantha n emerson"
+                        }
+                    ],
+                    "doi": "10.1075/HCP.59.11OZC",
+                    "title": "chapter 9 crossing the road or crossing the mind how differently do we move across physical and metaphorical spaces in speech and in gesture",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2186198465,
+                    "author": [
+                        {
+                            "AuId": 2983374123,
+                            "AuN": "beth levin"
+                        }
+                    ],
+                    "title": "slap give a slap slap a slap crosslinguistic diversity in hitting event descriptions",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 3097737226,
+                    "author": [
+                        {
+                            "AuId": 3096475270,
+                            "AuN": "simona anastasio"
+                        },
+                        {
+                            "AuId": 3095684019,
+                            "AuN": "sandra benazzo"
+                        }
+                    ],
+                    "doi": "10.4000/DISCOURS.10736",
+                    "title": "l expression du deplacement en italien et francais l2 influence translinguistique vs tendances communes",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3046321870,
+                    "author": [
+                        {
+                            "AuId": 3046908880,
+                            "AuN": "yo matsumoto"
+                        },
+                        {
+                            "AuId": 3046799238,
+                            "AuN": "kazuhiro kawachi"
+                        }
+                    ],
+                    "doi": "10.1075/HCP.69.INT",
+                    "title": "introduction motion event descriptions in broader perspective",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2139298591,
+                    "author": [
+                        {
+                            "AuId": 2286174949,
+                            "AuN": "martina irsara"
+                        }
+                    ],
+                    "doi": "10.1285/I22390359V12P127",
+                    "title": "motion events in english as a fourth language a linguistic analysis of a selected episode in multilingual learner narratives",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 413255369,
+                    "author": [
+                        {
+                            "AuId": 2169036966,
+                            "AuN": "caroline rossi"
+                        }
+                    ],
+                    "title": "l expression du mouvement et son acquisition en francais et en anglais des premieres formes aux premieres constructions",
+                    "year_mag": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Colgate University"
+                                }
+                            ],
+                            "family": "Stolova",
+                            "given": "Natalya I.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/CILT.331",
+                    "title": "cognitive linguistics and lexical change",
+                    "year_oc": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1515/COGL.2008.021",
+            "journal": "COGNITIVE LINGUISTICS",
+            "title": "manner of motion saliency an inquiry into italian",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "1866-9808"
+            ],
+            "PId": 2333871985,
+            "cited": [
+                {
+                    "PId": 168676630,
+                    "author": [
+                        {
+                            "AuId": 2503347236,
+                            "AuN": "leonard talmy"
+                        }
+                    ],
+                    "title": "toward a cognitive semantics",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 61812930,
+                    "author": [
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        }
+                    ],
+                    "doi": "10.4324/9781410609694-12",
+                    "title": "the many ways to search for a frog linguistic typology and the expression of motion events",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2005638230,
+                    "author": [
+                        {
+                            "AuId": 2511245727,
+                            "AuN": "john beavers"
+                        },
+                        {
+                            "AuId": 2117210897,
+                            "AuN": "beth levin"
+                        },
+                        {
+                            "AuId": 2261047968,
+                            "AuN": "shiao wei tham"
+                        }
+                    ],
+                    "doi": "10.1017/S0022226709990272",
+                    "journal": "journal of linguistics",
+                    "title": "the typology of motion expressions revisited",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2097047235,
+                    "author": [
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        }
+                    ],
+                    "title": "language and thought online cognitive consequences of linguistic relativity",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1774632532,
+                    "author": [
+                        {
+                            "AuId": 2503347236,
+                            "AuN": "leonard talmy"
+                        }
+                    ],
+                    "doi": "10.3765/BLS.V17I0.1620",
+                    "title": "path to realization a typology of event conflation",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 97012523,
+                    "author": [
+                        {
+                            "AuId": 2171440029,
+                            "AuN": "willem b hollmann"
+                        },
+                        {
+                            "AuId": 1985423291,
+                            "AuN": "william croft"
+                        },
+                        {
+                            "AuId": 2991263963,
+                            "AuN": "johanna barddal"
+                        },
+                        {
+                            "AuId": 2127996577,
+                            "AuN": "violeta sotirova"
+                        },
+                        {
+                            "AuId": 2581104773,
+                            "AuN": "chiaki taoka"
+                        }
+                    ],
+                    "doi": "10.1075/CAL.10.09CRO",
+                    "title": "revising talmy s typological classification of complex event constructions",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2143809267,
+                    "author": [
+                        {
+                            "AuId": 593554,
+                            "AuN": "anna papafragou"
+                        },
+                        {
+                            "AuId": 2045404500,
+                            "AuN": "christine massey"
+                        },
+                        {
+                            "AuId": 2206994961,
+                            "AuN": "lila r gleitman"
+                        }
+                    ],
+                    "doi": "10.1016/S0010-0277(02)00046-X",
+                    "journal": "cognition",
+                    "title": "shake rattle n roll the representation of motion in language and cognition",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1984928829,
+                    "author": [
+                        {
+                            "AuId": 2694919415,
+                            "AuN": "anetta kopecka"
+                        }
+                    ],
+                    "doi": "10.3917/LANG.173.0054",
+                    "journal": "langages",
+                    "title": "l expression du deplacement en francais l interaction des facteurs semantiques aspectuels et pragmatiques dans la construction du sens spatial",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2050839793,
+                    "author": [
+                        {
+                            "AuId": 1200433963,
+                            "AuN": "letitia r naigles"
+                        },
+                        {
+                            "AuId": 2599873097,
+                            "AuN": "ann r eisenberg"
+                        },
+                        {
+                            "AuId": 1992657257,
+                            "AuN": "edward kako"
+                        },
+                        {
+                            "AuId": 2334126581,
+                            "AuN": "melissa highter"
+                        },
+                        {
+                            "AuId": 2524161181,
+                            "AuN": "nancy mcgraw"
+                        }
+                    ],
+                    "doi": "10.1080/016909698386429",
+                    "journal": "language and cognitive processes",
+                    "title": "speaking of motion verb use in english and spanish",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 30200951,
+                    "author": [
+                        {
+                            "AuId": 1970522337,
+                            "AuN": "raffaella folli"
+                        },
+                        {
+                            "AuId": 2073080169,
+                            "AuN": "gillian ramchand"
+                        }
+                    ],
+                    "doi": "10.1007/1-4020-3232-3_5",
+                    "title": "prepositions and results in italian and english an analysis from event decomposition",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 121874069,
+                    "author": [
+                        {
+                            "AuId": 2670494954,
+                            "AuN": "jon aske"
+                        }
+                    ],
+                    "doi": "10.3765/BLS.V15I0.1753",
+                    "title": "path predicates in english and spanish a closer look",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 163734380,
+                    "author": [
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        },
+                        {
+                            "AuId": 168601855,
+                            "AuN": "nini hoiting"
+                        }
+                    ],
+                    "doi": "10.3765/BLS.V20I1.1466",
+                    "title": "reference to movement in spoken and signed languages typological considerations",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1557420271,
+                    "author": [
+                        {
+                            "AuId": 2641880939,
+                            "AuN": "claude vandeloise"
+                        }
+                    ],
+                    "title": "spatial prepositions a case study from french",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2036995239,
+                    "author": [
+                        {
+                            "AuId": 2313186620,
+                            "AuN": "filippoenrico cardini"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.2008.021",
+                    "journal": "cognitive linguistics",
+                    "title": "manner of motion saliency an inquiry into italian",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1558339023,
+                    "author": [
+                        {
+                            "AuId": 2096723482,
+                            "AuN": "antonio fabregas"
+                        }
+                    ],
+                    "doi": "10.7557/12.110",
+                    "title": "the exhaustive lexicalisation principle",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2492154852,
+                    "author": [
+                        {
+                            "AuId": 2320821959,
+                            "AuN": "tatiana nikitina"
+                        }
+                    ],
+                    "title": "pragmatic factors and variation in the expression of spatial goals the case of into vs in",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1526388170,
+                    "author": [
+                        {
+                            "AuId": 2141828132,
+                            "AuN": "minjeong son"
+                        }
+                    ],
+                    "doi": "10.7557/12.116",
+                    "title": "directionality and resultativity the cross linguistic correlation revisited",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1856636579,
+                    "author": [
+                        {
+                            "AuId": 2130336338,
+                            "AuN": "caroline david"
+                        },
+                        {
+                            "AuId": 2265278457,
+                            "AuN": "jordan zlatev"
+                        },
+                        {
+                            "AuId": 2096473811,
+                            "AuN": "johan blomberg"
+                        }
+                    ],
+                    "title": "translocation language and the categorization of experience",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2315705261,
+                    "author": [
+                        {
+                            "AuId": 2722940231,
+                            "AuN": "charles f hockett"
+                        },
+                        {
+                            "AuId": 2240781520,
+                            "AuN": "roger brown"
+                        }
+                    ],
+                    "doi": "10.2307/2096177",
+                    "journal": "american sociological review",
+                    "title": "words and things",
+                    "year_mag": 1959
+                },
+                {
+                    "PId": 2059253539,
+                    "author": [
+                        {
+                            "AuId": 2665926235,
+                            "AuN": "filippoenrico cardini"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2009.09.017",
+                    "journal": "journal of pragmatics",
+                    "title": "evidence against whorfian effects in motion conceptualisation",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1597368559,
+                    "author": [
+                        {
+                            "AuId": 2566639164,
+                            "AuN": "ada ragna rohde"
+                        }
+                    ],
+                    "title": "analyzing path the interplay of verbs prepositions and constructional semantics",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2126246703,
+                    "author": [
+                        {
+                            "AuId": 2117210897,
+                            "AuN": "beth levin"
+                        },
+                        {
+                            "AuId": 2511245727,
+                            "AuN": "john beavers"
+                        },
+                        {
+                            "AuId": 2332660386,
+                            "AuN": "shiao wei"
+                        }
+                    ],
+                    "title": "manner of motion roots across languages same or different",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2781913328,
+                    "author": [
+                        {
+                            "AuId": 143986628,
+                            "AuN": "annalisa baicchi"
+                        }
+                    ],
+                    "title": "translating phrasal combinations across the typological divide",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1761731152,
+                    "author": [
+                        {
+                            "AuId": 2630848899,
+                            "AuN": "sarah cummins"
+                        }
+                    ],
+                    "title": "movement and direction in french and english",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 388022439,
+                    "author": [
+                        {
+                            "AuId": 2166264222,
+                            "AuN": "grace song"
+                        }
+                    ],
+                    "title": "cross linguistic differences in the expression of motion events and their implications for second language acquisition",
+                    "year_mag": 1998
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 3049643962,
+                    "author": [
+                        {
+                            "AuId": 1895822251,
+                            "AuN": "christiane von stutterheim"
+                        },
+                        {
+                            "AuId": 2021888146,
+                            "AuN": "johannes gerwien"
+                        },
+                        {
+                            "AuId": 2569328304,
+                            "AuN": "abbassia bouhaous"
+                        },
+                        {
+                            "AuId": 2239366513,
+                            "AuN": "mary carroll"
+                        },
+                        {
+                            "AuId": 2617222688,
+                            "AuN": "monique lambert"
+                        }
+                    ],
+                    "doi": "10.1515/LING-2020-0212",
+                    "journal": "linguistics",
+                    "title": "what makes up a reportable event in a language motion events as an important test domain in linguistic typology",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2577012992,
+                    "author": [
+                        {
+                            "AuId": 2792386095,
+                            "AuN": "sergio torresmartinez"
+                        }
+                    ],
+                    "doi": "10.1515/EUJAL-2016-0012",
+                    "journal": "linguistics",
+                    "title": "applied cognitive construction grammar a usage based approach to the teaching of phrasal verbs and other constructions",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2413983234,
+                    "author": [
+                        {
+                            "AuId": 2338029557,
+                            "AuN": "bjorn wesseltolvig"
+                        },
+                        {
+                            "AuId": 67820281,
+                            "AuN": "patrizia paggio"
+                        },
+                        {
+                            "AuId": 67820281,
+                            "AuN": "patrizia paggio"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2016.05.004",
+                    "journal": "linguistics",
+                    "title": "revisiting the thinking for speaking hypothesis speech and gesture representation of motion in danish and italian",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2059096054,
+                    "author": [
+                        {
+                            "AuId": 2595514531,
+                            "AuN": "cristina valentini"
+                        }
+                    ],
+                    "doi": "10.1080/0907676X.2013.831919",
+                    "journal": "linguistics",
+                    "title": "phrasal verbs in italian dubbed dialogues a multimedia corpus based study",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2883071497,
+                    "author": [
+                        {
+                            "AuId": 2396471836,
+                            "AuN": "paolo della putta"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-91277-6_2",
+                    "journal": "linguistics",
+                    "title": "embodied semantics and the mirror neurons past research and some proposals for the future",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 599793908,
+                    "author": [
+                        {
+                            "AuId": 1991728159,
+                            "AuN": "natalya i stolova"
+                        }
+                    ],
+                    "journal": "linguistics",
+                    "title": "cognitive linguistics and lexical change motion verbs from latin to romance",
+                    "year_mag": 2015
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Colgate University"
+                                }
+                            ],
+                            "family": "Stolova",
+                            "given": "Natalya I.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/CILT.331",
+                    "title": "cognitive linguistics and lexical change",
+                    "year_oc": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1"
+            },
+            "doi": "10.1515/LANGCOG-2012-0010",
+            "journal": "LANGUAGE AND COGNITION",
+            "title": "grammatical constraints and verb framed languages the case of italian",
+            "type": "articolo in rivista",
+            "year": 2012
+        }
+    ],
+    "pubbs_mag": []
+}

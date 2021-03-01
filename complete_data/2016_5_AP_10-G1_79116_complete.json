@@ -1,0 +1,1550 @@
+{
+    "AuIds": [
+        2810764643
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 21,
+        "cand_paths": {
+            "2": [
+                [
+                    "2793926660",
+                    "2462794674"
+                ]
+            ]
+        },
+        "cc": {
+            "articles": {
+                "1488883796_+_2462794674": 1
+            },
+            "number": 1
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 46,
+            "comm_other": 4682,
+            "other_cand": 8,
+            "other_comm": 4973
+        },
+        "other_nodes": 6562
+    },
+    "coverage": {
+        "articles": 8,
+        "books": 0,
+        "cov_sect": "B",
+        "other_pubbs": 6,
+        "pubbs": 10,
+        "pubbs_found": 8,
+        "pubbs_ind": 14,
+        "pubbs_ind_found": 8,
+        "total_extra_found": 21,
+        "total_found": 8,
+        "total_pubbs": 14
+    },
+    "fullname": [
+        "Lara Bermejo",
+        "V\u00edctor"
+    ],
+    "ind_anvur": [
+        14,
+        6,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0213-2370"
+            ],
+            "PId": 2770061967,
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.15581/008.34.1.225-39",
+            "journal": "RILCE",
+            "title": "el superlativo absoluto en el espanol peninsular del siglo xx",
+            "type": "articolo in rivista",
+            "year": 2018
+        },
+        {
+            "ISSN": [
+                "0049-8661"
+            ],
+            "PId": 2793926660,
+            "cited": [
+                {
+                    "PId": 1598608588,
+                    "author": [
+                        {
+                            "AuId": 2510348817,
+                            "AuN": "j k chambers"
+                        },
+                        {
+                            "AuId": 2478822005,
+                            "AuN": "peter trudgill"
+                        },
+                        {
+                            "AuId": 19757426,
+                            "AuN": "natalie schillingestes"
+                        }
+                    ],
+                    "doi": "10.1111/B.9781405116923.2003.X",
+                    "title": "the handbook of language variation and change",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1548538618,
+                    "author": [
+                        {
+                            "AuId": 2159209589,
+                            "AuN": "celso ferreira da cunha"
+                        },
+                        {
+                            "AuId": 1954106908,
+                            "AuN": "luis f lindley cintra"
+                        }
+                    ],
+                    "title": "nova gramatica do portugues contempor\u00e2neo",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 1964176059,
+                    "author": [
+                        {
+                            "AuId": 2566207727,
+                            "AuN": "carlota de benito moreno"
+                        }
+                    ],
+                    "doi": "10.5565/REV/ISOGLOSS.1",
+                    "title": "pero se escondiamos como las ratas syncretism in the reflexive paradigm in spanish and catalan",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1488883796,
+                    "author": [
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        }
+                    ],
+                    "journal": "dialectologia",
+                    "title": "ustedes instead of vosotros and voces instead of vos an analysis through the linguistic atlas of the iberian peninsula alpi",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2288676460,
+                    "author": [
+                        {
+                            "AuId": 2244161681,
+                            "AuN": "elena diez del corral areta"
+                        },
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        }
+                    ],
+                    "doi": "10.1515/ZRP-2015-0069",
+                    "journal": "zeitschrift fur romanische philologie",
+                    "title": "los cliticos de primera persona del plural en las lenguas peninsulares una vision dialectal",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2810867919,
+                    "author": [
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        }
+                    ],
+                    "doi": "10.3989/RFE.2018.04",
+                    "journal": "revista de filologia espanola",
+                    "title": "relaciones de caso y extension de la concordancia en el espanol peninsular y el portugues europeo",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2185426682,
+                    "author": [
+                        {
+                            "AuId": 2251062358,
+                            "AuN": "ines fernandezordonez"
+                        }
+                    ],
+                    "title": "audible corpus of spoken rural spanish corpus oral y sonoro del espanol rural coser characteristics outcomes and prospects",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2571292288,
+                    "author": [
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        }
+                    ],
+                    "doi": "10.5565/REV/ISOGLOSS.23",
+                    "title": "when agreement is for covert but not for overt the case of ustedes plus second person plural inflections in peninsular spanish",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2060711825,
+                    "author": [
+                        {
+                            "AuId": 2686888872,
+                            "AuN": "erica c garcia"
+                        }
+                    ],
+                    "doi": "10.1515/LING.2003.039",
+                    "journal": "linguistics",
+                    "title": "modern spanish spurious se a genuine case of pseudo analysis",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1499151669,
+                    "author": [
+                        {
+                            "AuId": 3022770961,
+                            "AuN": "ines fernandezordonez"
+                        }
+                    ],
+                    "title": "new methods fot the study of grammatical variation and the audible corpus of spoken rural spanish",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1558373539,
+                    "author": [
+                        {
+                            "AuId": 1973026551,
+                            "AuN": "david heap"
+                        }
+                    ],
+                    "journal": "dialectologia",
+                    "title": "ten years of the online alpi atlas linguistico de la peninsula iberica",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1552462242,
+                    "author": [
+                        {
+                            "AuId": 2124325073,
+                            "AuN": "francisco moreno fernandez"
+                        },
+                        {
+                            "AuId": 2281950755,
+                            "AuN": "pilar garcia mouton"
+                        }
+                    ],
+                    "title": "proyecto de un atlas linguistico y etnografico de castilla la mancha",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2755052210,
+                    "author": [
+                        {
+                            "AuId": 2324467687,
+                            "AuN": "gerhard ernst"
+                        },
+                        {
+                            "AuId": 2505334243,
+                            "AuN": "martindietrich glesgen"
+                        },
+                        {
+                            "AuId": 2158116403,
+                            "AuN": "christian schmitt"
+                        },
+                        {
+                            "AuId": 1968091795,
+                            "AuN": "wolfgang schweickard"
+                        }
+                    ],
+                    "doi": "10.1515/9783110146943.1.5.504",
+                    "title": "lateinische sprachgeschichte histoire du latin",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 205284198,
+                    "author": [
+                        {
+                            "AuId": 2696773292,
+                            "AuN": "juan antonio frago gracia"
+                        }
+                    ],
+                    "title": "el cambio de ge lo a se lo en testimonios andaluces",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2007268872,
+                    "author": [
+                        {
+                            "AuId": 2407452333,
+                            "AuN": "jules ronjat"
+                        }
+                    ],
+                    "title": "grammaire historique des parlers provencaux modernes",
+                    "year_mag": 1930
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1515/ZRP-2018-0003",
+            "journal": "ZEITSCHRIFT F\u00dcR ROMANISCHE PHILOLOGIE",
+            "title": "los cliticos de segunda persona de plural en las lenguas romances de la peninsula iberica",
+            "type": "articolo in rivista",
+            "year": 2018
+        },
+        {
+            "ISSN": [
+                "1478-3398"
+            ],
+            "PId": 2782949905,
+            "citing": [
+                {
+                    "PId": 2889610932,
+                    "author": [
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        },
+                        {
+                            "AuId": 2891114721,
+                            "AuN": "ana guilherme"
+                        }
+                    ],
+                    "doi": "10.1515/SHLL-2018-0012",
+                    "journal": "studies in hispanic and lusophone linguistics",
+                    "title": "the politeness of voce in european portuguese",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.3828/BHS.2018.1",
+            "journal": "BULLETIN OF HISPANIC STUDIES",
+            "title": "imperativos y cortesia en las lenguas romances de la peninsula iberica",
+            "type": "articolo in rivista",
+            "year": 2018
+        },
+        {
+            "ISSN": [
+                "0212-999X"
+            ],
+            "PId": 2697310646,
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.5209/RFRM.55627",
+            "journal": "REVISTA DE FILOLOG\u00cdA ROM\u00c1NICA",
+            "title": "la estandarizacion de voces en el portugues europeo continental",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0942-4040"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "5"
+            },
+            "journal": "DIALECTOLOGIA ET GEOLINGUISTICA",
+            "title": "patrones de ergatividad en el espanol peninsular",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "PId": 2891780210,
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "title": "verbos inacusativos con objeto directo en el espanol peninsular occidental",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-84-8344-580-8"
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "title": "las mujeres son de venus y los hombres de marte el sexo en el uso de ustedes en andalucia",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0210-4822"
+            ],
+            "PId": 2586815613,
+            "citing": [
+                {
+                    "PId": 3005045847,
+                    "author": [
+                        {
+                            "AuId": 216004673,
+                            "AuN": "andres enriquearias"
+                        },
+                        {
+                            "AuId": 2977705032,
+                            "AuN": "beatriz mendez guerrero"
+                        }
+                    ],
+                    "doi": "10.1075/IHLL.22.13ENR",
+                    "title": "chapter 13 on the effects of catalan contact in the variable expression of spanish future tense a contrastive study of alcala de henares madrid and palma majorca",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3028056075,
+                    "author": [
+                        {
+                            "AuId": 3028108628,
+                            "AuN": "victor lara bermejo"
+                        }
+                    ],
+                    "doi": "10.1075/RRO.19018.LAR",
+                    "title": "el futuro morfologico en las lenguas iberorromances temporalidad modalidad y evidencialidad",
+                    "year_mag": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "8"
+            },
+            "doi": "10.7892/BORIS.97610",
+            "journal": "XCVI",
+            "title": "la expresion del futuro en las lenguas romances de la peninsula iberica boletin de la real academia espanola vol",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "cited_raw": [
+                {
+                    "@position": "1",
+                    "rawText": {
+                        "$": "Abad\u00eda de Quant, In\u00e9s. 1992. La relaci\u00f3n pronominal-verbal de segunda persona singular en el espa\u00f1ol de Corrientes durante el siglo XIX, su comparaci\u00f3n con la situaci\u00f3n en Buenos AireRse.vista argentina de ling\u00fc\u00edstica8. 31-46."
+                    }
+                },
+                {
+                    "@position": "2",
+                    "rawText": {
+                        "$": "Bertoloti, V. & M. Coll. 2003. A synchronical and historical view of the t\u00fa/vos option in the Spanish of Montevideo. In Silvina Montrul & Francisco Ordo\u00f1ez (eds.), Linguistic theory and language development in Hispanic languages: Papers from the 5th Hispanic Linguistics Symposium and the 4th Conference on the Acquisition of Spanish and Portuguese, 1-12. Somerville: Cascadilla Press."
+                    }
+                },
+                {
+                    "@position": "3",
+                    "rawText": {
+                        "$": "Blake, Barry J. 2004C. ase. Cambridge; New York: Cambridge University Press."
+                    }
+                },
+                {
+                    "@position": "4",
+                    "rawText": {
+                        "$": "Bourdieu, Pierre. 1978. El mercado ling\u00fc\u00edstico. In Pierre BourdieuQues(etido.n),s de sociologie, 121-137. Paris: \u00c9ditions de Minuit."
+                    }
+                },
+                {
+                    "@position": "5",
+                    "rawText": {
+                        "$": "Cano Aguilar, Rafael (ed.). 200H4i.storia de la lengua espa\u00f1ola. Barcelona: Ariel."
+                    }
+                },
+                {
+                    "@position": "6",
+                    "rawText": {
+                        "$": "Chambers, J. K. & Peter Trudgill. 198D0i.alectology. Cambridge, New York: Cambridge University Press."
+                    }
+                },
+                {
+                    "@position": "7",
+                    "rawText": {
+                        "$": "Chelliah, Shobhana L. & Willem J. de Reuse. 20H11a.ndbook of Descriptive Linguistic Fieldwork. London / New York: Springer Netherlands."
+                    }
+                },
+                {
+                    "@position": "8",
+                    "rawText": {
+                        "$": "Corbet, Greville G. 2006.Agreement . Cambridge, UK; New York: Cambridge University Press."
+                    }
+                },
+                {
+                    "@position": "9",
+                    "rawText": {
+                        "$": "Fontanella de Weinberg, Beatriz. 1979. La oposicia\u00f3nntes/cant\u00e9sen el espa\u00f1ol de Buenos Aires.Thesaurus 34. 72-83."
+                    }
+                },
+                {
+                    "@position": "10",
+                    "rawText": {
+                        "$": "Heap, David. 2003.Atlas Ling\u00fc\u00edstico de la Pen\u00ednsula Ib\u00e9rica (ALPI.)London: University of Western Ontario."
+                    }
+                },
+                {
+                    "@position": "11",
+                    "rawText": {
+                        "$": "Labov, William. 1995P.rinciples of linguistic chang.eCambridge, Oxford: Blackwell."
+                    }
+                },
+                {
+                    "@position": "12",
+                    "id": {
+                        "@confidenceLevel": "0.5048769",
+                        "@type": "openaire",
+                        "@value": "orcid_______::4dbf5d1ed26663a8dfe7c0904bd082cc"
+                    },
+                    "rawText": {
+                        "$": "Lapesa, Rafael, Rafael Cano Aguilar & Maria Teresa Echenique Elizondo. 2000. Estudios de morfosintaxis hist\u00f3rica del espa\u00f1o.lMadrid: Gredos."
+                    }
+                },
+                {
+                    "@position": "13",
+                    "rawText": {
+                        "$": "Lara, V\u00edctor. 2010E.l uso de ustedes por vosotros en Andaluc\u00eda occident a.lMadrid: Universidad Aut\u00f3noma de Madrid."
+                    }
+                },
+                {
+                    "@position": "14",
+                    "id": {
+                        "@confidenceLevel": "0.49339503",
+                        "@type": "openaire",
+                        "@value": "dedup_wf_001::84e8551eac43cba4994fcf80a2ceea71"
+                    },
+                    "rawText": {
+                        "$": "Lara, V\u00edctor. 2012U. stedes instead ofvosotros andvoc\u00eas instead ofv\u00f3s: An analysis through the Linguistic Atlas of the Iberian Peninsula D(AiaLlPeIc)t.ologia Special Issue 3. 57-93."
+                    }
+                },
+                {
+                    "@position": "15",
+                    "rawText": {
+                        "$": "Lara, V\u00edctor. 2015L.os tratamientos de 2pl en Andaluc\u00eda occidental y Portugal: Estudio geo- y socioling\u00fc\u00edstico de un proceso de gramaticalizaci\u00f3.nMadrid: Universidad Aut\u00f3noma de Madrid Ph.D. dissertation."
+                    }
+                },
+                {
+                    "@position": "16",
+                    "rawText": {
+                        "$": "Macaulay, Ronald K. S. & G. D Trevelyan. 19L7a7n.guage, social class and education: A Glasgow study. Edinburgh: Edinburgh University Press."
+                    }
+                },
+                {
+                    "@position": "17",
+                    "rawText": {
+                        "$": "Mallinson, Christine, Becky Childs & Gerard van Herk (eds.).D2a0t1a3.collection in sociolinguistics: Methods and application.sNew York: Routledge."
+                    }
+                },
+                {
+                    "@position": "18",
+                    "rawText": {
+                        "$": "Men\u00e9ndez Pidal, Ram\u00f3n & Diego Catal\u00e1n Men\u00e9ndez-Pidal. 2H00is5t.oria de la lengua espa\u00f1ola. Madrid: Fundaci\u00f3n Ram\u00f3n Men\u00e9ndez Pidal ; Real Academia Espa\u00f1ola."
+                    }
+                },
+                {
+                    "@position": "19",
+                    "rawText": {
+                        "$": "Mond\u00e9jar, Jose. 1974E.l verbo andaluz formas y estructuras. M\u00e1laga: \u00c1gora."
+                    }
+                },
+                {
+                    "@position": "20",
+                    "rawText": {
+                        "$": "Penny, R. 2004. Variaci\u00f3n y cambio en espa\u00f1ol. Madrid: Gredos."
+                    }
+                },
+                {
+                    "@position": "21",
+                    "rawText": {
+                        "$": "Sanch\u00eds Guarner, M. 1962. El Atlas ling\u00fc\u00edstico de la Pen\u00ednsula Ib\u00e9rica (ALPI). In Trabajos, problemas y m\u00e9todos. Actas del IX Congreso Internacional de Ling\u00fc\u00edstica Rom\u00e1nica, 113-120. Universidade de Lisboa: Centro de Estudios Filol\u00f3gicos."
+                    }
+                },
+                {
+                    "@position": "22",
+                    "rawText": {
+                        "$": "Seara, I. C. 2000. A varia\u00e7\u00e3o do sujeito n\u00f3s e a gente na fala florionapolitana. Organon 14. 179-194."
+                    }
+                },
+                {
+                    "@position": "23",
+                    "rawText": {
+                        "$": "hTieberger, Nick. 2011. The Oxford handbook of linguistic fieldwork . Oxford; New York: Oxford University Press."
+                    }
+                },
+                {
+                    "@position": "24",
+                    "rawText": {
+                        "$": "Wolfram, Walter & Natalie Schilling-Estes. 2003. Dialectology and linguistic diffusion. In Brian D. Joseph & Richard D. Janda (e dThesh.)a,ndbook of historical linguistics, 713 -735. Malden: Blackwell."
+                    }
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "9"
+            },
+            "title": "spontaneous dubbing as a tool for eliciting linguistic data the case of second person plural inflections in andalusian spanish",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-605-9207-28-7"
+            ],
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "title": "labile verbs in peninsular spanish a phenomenon barely researched",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0049-8661"
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "11"
+            },
+            "doi": "10.1515/zrp-2015-0069",
+            "journal": "ZEITSCHRIFT F\u00dcR ROMANISCHE PHILOLOGIE",
+            "title": "los cliticos de primera persona de plural en las lenguas peninsulares una vision dialectal",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-84-9012-484-0"
+            ],
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "title": "nos mos los una aproximacion historico dialectal al pronombre de primera persona del plural",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0211-934X"
+            ],
+            "PId": 292360688,
+            "cited": [
+                {
+                    "PId": 1488883796,
+                    "author": [
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        }
+                    ],
+                    "journal": "dialectologia",
+                    "title": "ustedes instead of vosotros and voces instead of vos an analysis through the linguistic atlas of the iberian peninsula alpi",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 648803720,
+                    "author": [
+                        {
+                            "AuId": 1973026551,
+                            "AuN": "david heap"
+                        }
+                    ],
+                    "title": "linguistic atlas of the iberian peninsula",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2733198768,
+                    "author": [
+                        {
+                            "AuId": 2727900304,
+                            "AuN": "jose mondejar"
+                        }
+                    ],
+                    "title": "el verbo andaluz formas y estructuras",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2078264947,
+                    "author": [
+                        {
+                            "AuId": 2317493977,
+                            "AuN": "rafael lapesa"
+                        }
+                    ],
+                    "doi": "10.2307/40093996",
+                    "title": "historia de la lengua espanola",
+                    "year_mag": 1955
+                }
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "13"
+            },
+            "journal": "ANALECTA MALACITANA",
+            "title": "el avance de ustedes y las concordancias de tercera persona en el espanol hablado en la provincia de malaga",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "978-84-8053-715-5"
+            ],
+            "cv_id": {
+                "pubbs_ind": "14"
+            },
+            "title": "voces por vos en el portugues europeo un fenomeno en auge",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 1488883796,
+            "cited": [
+                {
+                    "PId": 1564486551,
+                    "author": [
+                        {
+                            "AuId": 1607167445,
+                            "AuN": "john m lipski"
+                        }
+                    ],
+                    "title": "el espanol de america",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 149130585,
+                    "author": [
+                        {
+                            "AuId": 2240781520,
+                            "AuN": "roger brown"
+                        },
+                        {
+                            "AuId": 2259654447,
+                            "AuN": "albert gilman"
+                        }
+                    ],
+                    "doi": "10.1515/9783110805376.252",
+                    "title": "the pronouns of power and solidarity",
+                    "year_mag": 1968
+                },
+                {
+                    "PId": 1590900289,
+                    "author": [
+                        {
+                            "AuId": 2686092674,
+                            "AuN": "rafael lapesa melgar"
+                        },
+                        {
+                            "AuId": 3004884071,
+                            "AuN": "rafael canoaguilar"
+                        },
+                        {
+                            "AuId": 2626214185,
+                            "AuN": "maria teresa echenique"
+                        }
+                    ],
+                    "title": "estudios de morfosintaxis historica del espanol",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1559058302,
+                    "author": [
+                        {
+                            "AuId": 2161975965,
+                            "AuN": "ralph penny"
+                        },
+                        {
+                            "AuId": 2607542510,
+                            "AuN": "juan sanchez mendez"
+                        }
+                    ],
+                    "title": "variacion y cambio en espanol",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1527759049,
+                    "author": [
+                        {
+                            "AuId": 3017152493,
+                            "AuN": "pilar vazquez cuesta"
+                        },
+                        {
+                            "AuId": 3016742129,
+                            "AuN": "maria albertina mendes da luz"
+                        }
+                    ],
+                    "title": "gramatica da lingua portuguesa",
+                    "year_mag": 1971
+                },
+                {
+                    "PId": 3021527478,
+                    "author": [
+                        {
+                            "AuId": 2529128644,
+                            "AuN": "de robert jonge"
+                        },
+                        {
+                            "AuId": 1268746254,
+                            "AuN": "dorien nieuwenhuijsen"
+                        }
+                    ],
+                    "title": "formacion del paradigma pronominal de las formas de tratamiento",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2914711288,
+                    "author": [
+                        {
+                            "AuId": 216004673,
+                            "AuN": "andres enriquearias"
+                        }
+                    ],
+                    "title": "el sincretismo de persona en el plural de los pronombres cliticos del espanol os nos y los",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2733198768,
+                    "author": [
+                        {
+                            "AuId": 2727900304,
+                            "AuN": "jose mondejar"
+                        }
+                    ],
+                    "title": "el verbo andaluz formas y estructuras",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2078264947,
+                    "author": [
+                        {
+                            "AuId": 2317493977,
+                            "AuN": "rafael lapesa"
+                        }
+                    ],
+                    "doi": "10.2307/40093996",
+                    "title": "historia de la lengua espanola",
+                    "year_mag": 1955
+                },
+                {
+                    "PId": 2774742853,
+                    "author": [
+                        {
+                            "AuId": 2773271691,
+                            "AuN": "felipe jorge"
+                        }
+                    ],
+                    "doi": "10.11606/ISSN.2594-5963.LILIT.1977.115829",
+                    "title": "sobre formas de tratamento na lingua portuguesa",
+                    "year_mag": 1977
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 1964176059,
+                    "author": [
+                        {
+                            "AuId": 2566207727,
+                            "AuN": "carlota de benito moreno"
+                        }
+                    ],
+                    "doi": "10.5565/REV/ISOGLOSS.1",
+                    "title": "pero se escondiamos como las ratas syncretism in the reflexive paradigm in spanish and catalan",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2552432421,
+                    "author": [
+                        {
+                            "AuId": 2555144918,
+                            "AuN": "alejo alcaraz"
+                        }
+                    ],
+                    "doi": "10.1075/RLLT.10.01ALC",
+                    "title": "the obviation agreement effect",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 292360688,
+                    "author": [
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        }
+                    ],
+                    "title": "el avance de ustedes y las concordancias de tercera persona en el espanol hablado en la provincia de malaga",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2793926660,
+                    "author": [
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        }
+                    ],
+                    "doi": "10.1515/ZRP-2018-0003",
+                    "title": "los cliticos de segunda persona de plural en las lenguas romances de la peninsula iberica",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2303092022,
+                    "author": [
+                        {
+                            "AuId": 2566207727,
+                            "AuN": "carlota de benito moreno"
+                        }
+                    ],
+                    "title": "pero se escondiamos como las ratas syncretism in the reflexive paradigm in",
+                    "year_mag": 2015
+                }
+            ],
+            "journal": "dialectologia",
+            "title": "ustedes instead of vosotros and voces instead of vos an analysis through the linguistic atlas of the iberian peninsula alpi",
+            "type": "1",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2288676460,
+            "citing": [
+                {
+                    "PId": 2889610932,
+                    "author": [
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        },
+                        {
+                            "AuId": 2891114721,
+                            "AuN": "ana guilherme"
+                        }
+                    ],
+                    "doi": "10.1515/SHLL-2018-0012",
+                    "journal": "studies in hispanic and lusophone linguistics",
+                    "title": "the politeness of voce in european portuguese",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2793926660,
+                    "author": [
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        }
+                    ],
+                    "doi": "10.1515/ZRP-2018-0003",
+                    "journal": "studies in hispanic and lusophone linguistics",
+                    "title": "los cliticos de segunda persona de plural en las lenguas romances de la peninsula iberica",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2987280695,
+                    "author": [
+                        {
+                            "AuId": 2770926810,
+                            "AuN": "victor lara"
+                        }
+                    ],
+                    "doi": "10.1515/DIALECT-2019-0004",
+                    "journal": "studies in hispanic and lusophone linguistics",
+                    "title": "the geolinguistics of the ibero romance comitative",
+                    "year_mag": 2019
+                }
+            ],
+            "doi": "10.1515/ZRP-2015-0069",
+            "journal": "zeitschrift fur romanische philologie",
+            "title": "los cliticos de primera persona del plural en las lenguas peninsulares una vision dialectal",
+            "type": "1",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2810867919,
+            "cited": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "De Jonge",
+                            "given": "Bob",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Nieuwenhuijsen",
+                            "given": "Dorien",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1002/9781118228098.CH13",
+                    "title": "forms of address",
+                    "year_oc": 2012
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Adams",
+                            "given": "Marianne",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/BF00161866",
+                    "title": "from old french to the theory of pro drop",
+                    "year_oc": 1987
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "H\u00f6hn",
+                            "given": "Georg F. K.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/S11049-015-9311-Y",
+                    "title": "unagreement is an illusion",
+                    "year_oc": 2015
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Wechsler",
+                            "given": "Stephen",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Hahm",
+                            "given": "Hyun-Jong",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S11525-010-9168-Z",
+                    "title": "polite plurals and adjective agreement",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Ackema",
+                            "given": "Peter",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Neeleman",
+                            "given": "Ad",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S11525-013-9218-4",
+                    "title": "subset controllers in agreement relations",
+                    "year_oc": 2013
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Ord\u00f3\u00f1ez",
+                            "given": "Francisco",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Trevi\u00f1o",
+                            "given": "Esthela",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/S0024-3841(98)00020-5",
+                    "title": "left dislocated subjects and the pro drop parameter a case study of spanish",
+                    "year_oc": 1999
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hopper",
+                            "given": "Paul J.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Traugott",
+                            "given": "Elizabeth Closs",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139165525",
+                    "title": "grammaticalization",
+                    "year_oc": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kayne",
+                            "given": "Richard S.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780195179163.001.0001",
+                    "title": "movement and silence",
+                    "year_oc": 2005
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Braun",
+                            "given": "Friederike",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110848113",
+                    "title": "terms of address",
+                    "year_oc": 1988
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Wechsler",
+                            "given": "Stephen",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Zlatic",
+                            "given": "Larisa",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/417200",
+                    "title": "a theory of agreement and its application to serbo croatian",
+                    "year_oc": 2000
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2889610932,
+                    "author": [
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        },
+                        {
+                            "AuId": 2891114721,
+                            "AuN": "ana guilherme"
+                        }
+                    ],
+                    "doi": "10.1515/SHLL-2018-0012",
+                    "journal": "studies in hispanic and lusophone linguistics",
+                    "title": "the politeness of voce in european portuguese",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2793926660,
+                    "author": [
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        }
+                    ],
+                    "doi": "10.1515/ZRP-2018-0003",
+                    "journal": "studies in hispanic and lusophone linguistics",
+                    "title": "los cliticos de segunda persona de plural en las lenguas romances de la peninsula iberica",
+                    "year_mag": 2018
+                }
+            ],
+            "doi": "10.3989/RFE.2018.04",
+            "journal": "revista de filologia espanola",
+            "title": "relaciones de caso y extension de la concordancia en el espanol peninsular y el portugues europeo",
+            "type": "1",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2571292288,
+            "citing": [
+                {
+                    "PId": 2889610932,
+                    "author": [
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        },
+                        {
+                            "AuId": 2891114721,
+                            "AuN": "ana guilherme"
+                        }
+                    ],
+                    "doi": "10.1515/SHLL-2018-0012",
+                    "journal": "studies in hispanic and lusophone linguistics",
+                    "title": "the politeness of voce in european portuguese",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2793926660,
+                    "author": [
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        }
+                    ],
+                    "doi": "10.1515/ZRP-2018-0003",
+                    "journal": "studies in hispanic and lusophone linguistics",
+                    "title": "los cliticos de segunda persona de plural en las lenguas romances de la peninsula iberica",
+                    "year_mag": 2018
+                }
+            ],
+            "doi": "10.5565/REV/ISOGLOSS.23",
+            "title": "when agreement is for covert but not for overt the case of ustedes plus second person plural inflections in peninsular spanish",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2596300860,
+            "cited": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Wolfram",
+                            "given": "Walt",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Schilling-Estes",
+                            "given": "Natalie",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1002/9780470756393.CH24",
+                    "title": "dialectology and linguistic diffusion",
+                    "year_oc": null
+                }
+            ],
+            "doi": "10.1080/14682737.2017.1289637",
+            "journal": "hispanic research journal iberian and latin american studies",
+            "title": "la generalizacion de voces en el portugues europeo continental y su patron de difusion geografica",
+            "type": "1",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2334899766,
+            "citing": [
+                {
+                    "PId": 2996515202,
+                    "author": [
+                        {
+                            "AuId": 2106714694,
+                            "AuN": "celia regina dos santos lopes"
+                        },
+                        {
+                            "AuId": 2986355475,
+                            "AuN": "maria antonia mota"
+                        }
+                    ],
+                    "doi": "10.5007/1984-8420.2019V20N2P135",
+                    "title": "a percepcao e a aceitabilidade de formas de tratamento no portugues europeu pe uma abordagem experimental",
+                    "year_mag": 2019
+                }
+            ],
+            "doi": "10.24206/LH.V1I2.4801",
+            "title": "quao cortes e voce o pronome de tratamento voce em portugues europeu",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2889610932,
+            "cited": [
+                {
+                    "PId": 2127771643,
+                    "author": [
+                        {
+                            "AuId": 2776077934,
+                            "AuN": "ana maria stahl zilles"
+                        }
+                    ],
+                    "doi": "10.1017/S0954394505050027",
+                    "journal": "language variation and change",
+                    "title": "the development of a new pronoun the linguistic and social embedding of a gente in brazilian portuguese",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1500970255,
+                    "author": [
+                        {
+                            "AuId": 598984382,
+                            "AuN": "timothy j hatton"
+                        },
+                        {
+                            "AuId": 598984382,
+                            "AuN": "timothy j hatton"
+                        },
+                        {
+                            "AuId": 2098603587,
+                            "AuN": "jeffrey g williamson"
+                        }
+                    ],
+                    "doi": "10.3386/H0043",
+                    "journal": "population and development review",
+                    "title": "what drove the mass migrations from europe in the late nineteenth century",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2046529268,
+                    "author": [
+                        {
+                            "AuId": 2291890260,
+                            "AuN": "helena raumolinbrunberg"
+                        }
+                    ],
+                    "doi": "10.1017/S0954394505050039",
+                    "journal": "language variation and change",
+                    "title": "the diffusion of subject you a case study in historical sociolinguistics",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2122898881,
+                    "author": [
+                        {
+                            "AuId": 2148772741,
+                            "AuN": "bob de jonge"
+                        },
+                        {
+                            "AuId": 1268746254,
+                            "AuN": "dorien nieuwenhuijsen"
+                        }
+                    ],
+                    "doi": "10.1002/9781118228098.CH13",
+                    "title": "forms of address",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1152503613,
+                    "author": [
+                        {
+                            "AuId": 1960592508,
+                            "AuN": "suzanne aalberse"
+                        },
+                        {
+                            "AuId": 2332164649,
+                            "AuN": "wessel stoop"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2015.07.003",
+                    "journal": "journal of pragmatics",
+                    "title": "the exceptional loss of the pronoun t",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2288676460,
+                    "author": [
+                        {
+                            "AuId": 2244161681,
+                            "AuN": "elena diez del corral areta"
+                        },
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        }
+                    ],
+                    "doi": "10.1515/ZRP-2015-0069",
+                    "journal": "zeitschrift fur romanische philologie",
+                    "title": "los cliticos de primera persona del plural en las lenguas peninsulares una vision dialectal",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2810867919,
+                    "author": [
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        }
+                    ],
+                    "doi": "10.3989/RFE.2018.04",
+                    "journal": "revista de filologia espanola",
+                    "title": "relaciones de caso y extension de la concordancia en el espanol peninsular y el portugues europeo",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2973929369,
+                    "author": [
+                        {
+                            "AuId": 2108607435,
+                            "AuN": "ann l mackenzie"
+                        }
+                    ],
+                    "doi": "10.1080/14753820.2018.1655325",
+                    "journal": "bulletin of spanish studies",
+                    "title": "a festschrift in memory of james whiston",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2571292288,
+                    "author": [
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        }
+                    ],
+                    "doi": "10.5565/REV/ISOGLOSS.23",
+                    "title": "when agreement is for covert but not for overt the case of ustedes plus second person plural inflections in peninsular spanish",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2782949905,
+                    "author": [
+                        {
+                            "AuId": 2810764643,
+                            "AuN": "victor lara bermejo"
+                        }
+                    ],
+                    "doi": "10.3828/BHS.2018.1",
+                    "journal": "bulletin of hispanic studies",
+                    "title": "imperativos y cortesia en las lenguas romances de la peninsula iberica",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 1592408206,
+                    "author": [
+                        {
+                            "AuId": 2677609089,
+                            "AuN": "vera lucia paredes silva"
+                        }
+                    ],
+                    "doi": "10.17851/2237-2083.7.2.121-138",
+                    "journal": "revista de estudos da linguagem",
+                    "title": "variacao e funcionalidade no uso de pronomes de 2a pessoa do singular no portugues carioca",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 261477726,
+                    "author": [
+                        {
+                            "AuId": 2718028160,
+                            "AuN": "garland d bills"
+                        }
+                    ],
+                    "journal": "southwest journal of linguistics",
+                    "title": "2010 plenary address new mexican spanish a brief history of time space and family values",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2312516872,
+                    "author": [
+                        {
+                            "AuId": 2698839334,
+                            "AuN": "margaret kocher"
+                        }
+                    ],
+                    "doi": "10.2307/411813",
+                    "journal": "language",
+                    "title": "second person pronouns in serbo croatian",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 2795607008,
+                    "author": [
+                        {
+                            "AuId": 2796416287,
+                            "AuN": "william evans"
+                        }
+                    ],
+                    "doi": "10.2307/3196963",
+                    "title": "you and thou in northern england",
+                    "year_mag": 1969
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hatton",
+                            "given": "Timothy J.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Williamson",
+                            "given": "Jeffrey G.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/2137600",
+                    "title": "what drove the mass migrations from europe in the late nineteenth century ",
+                    "year_oc": 1994
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 3015083683,
+                    "author": [
+                        {
+                            "AuId": 2956387757,
+                            "AuN": "rita faria"
+                        }
+                    ],
+                    "doi": "10.26512/LES.V20I3.28640",
+                    "title": "voces vao sair a bem ou a mal an examination of im polite forms of address online in european portuguese",
+                    "year_mag": 2019
+                }
+            ],
+            "doi": "10.1515/SHLL-2018-0012",
+            "journal": "studies in hispanic and lusophone linguistics",
+            "title": "the politeness of voce in european portuguese",
+            "type": "1",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2395875116,
+            "journal": "dialectologia",
+            "title": "allocutive pronouns in andalusia and their tendency toward standardisation",
+            "type": "1",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2895700986,
+            "doi": "10.7892/BORIS.127974",
+            "title": "acomodacion en los pronombres de tratamiento de ecuatorianos en espana",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2890935843,
+            "doi": "10.3726/B14493",
+            "title": "la cortesia en la peninsula iberica dialectologia del sprachbund suroccidental",
+            "type": "5",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2954746424,
+            "doi": "10.15366/ACTAS.TENERA.EXP2017",
+            "title": "tenera experientia miradas jovenes a la historiografia y la historia de la lengua espanola",
+            "type": "5",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2249603659,
+            "title": "nos mos los uana proximacion historico dialectal al pronombre atono de primera persona del plural",
+            "type": "0",
+            "year_mag": 2014
+        },
+        {
+            "PId": 3091363610,
+            "title": "el paisaje linguistico de la ciudad de sevilla lenguas y variedades en el escenario urbano hispalense",
+            "type": "0",
+            "year_mag": 2013
+        }
+    ]
+}

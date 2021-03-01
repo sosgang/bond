@@ -1,0 +1,345 @@
+{
+    "AuIds": [
+        2562529810,
+        2554681555,
+        2789736434
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 3,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 498,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 0,
+            "comm_other": 3837,
+            "other_cand": 2,
+            "other_comm": 4921
+        },
+        "other_nodes": 6045
+    },
+    "coverage": {
+        "articles": 7,
+        "books": 1,
+        "cov_sect": "C",
+        "other_pubbs": 13,
+        "pubbs": 15,
+        "pubbs_found": 1,
+        "pubbs_ind": 19,
+        "pubbs_ind_found": 3,
+        "total_extra_found": 3,
+        "total_found": 3,
+        "total_pubbs": 21
+    },
+    "fullname": [
+        "Castagneto",
+        "Marina"
+    ],
+    "ind_anvur": [
+        "",
+        "",
+        "",
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1121-8495"
+            ],
+            "PId": 2566670486,
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "journal": "AFRICA E MEDITERRANEO",
+            "title": "il rapporto tra uomo e natura attraverso lo specchio del lessico in kiswahili",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788898640188"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "title": "ideofoni",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788862747004"
+            ],
+            "PId": 2554980585,
+            "citing": [
+                {
+                    "PId": 3028420793,
+                    "author": [
+                        {
+                            "AuId": 2103695353,
+                            "AuN": "elena nuzzo"
+                        },
+                        {
+                            "AuId": 2807981644,
+                            "AuN": "diego edisson cortes velasquez"
+                        }
+                    ],
+                    "doi": "10.1007/S41701-020-00084-Y",
+                    "title": "canceling last minute in italian and colombian spanish a cross cultural account of pragmalinguistic strategies",
+                    "year_mag": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.13130/1972-9901/8161",
+            "title": "le risposte ai complimenti in italia questioni di gender",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9781443877190"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "4"
+            },
+            "title": "the variability of compliment responses italian and german data chapter xvi",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "2281-6585"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "5"
+            },
+            "journal": "SEZIONE LINGUISTICA",
+            "title": "e una parola ancora una riflessione sulla nozione di parola e sulla sua prototipicita annali del dipartimento di studi letterari linguistici e comparati",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1121-8495"
+            ],
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "journal": "AFRICA E MEDITERRANEO",
+            "title": "chicchi semi e semolini in swahili categorie di genere e reduplicazione",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "8889837985"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "7"
+            },
+            "title": "la terminologia linguistica nella lingua swahili prestiti perifrasi e neologismi verso la costruzione di un sistema astratto",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "2281-6585"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "8"
+            },
+            "journal": "SEZIONE LINGUISTICA",
+            "title": "il sistema di annotazione pra ti d tra gli altri sistemi di annotazione pragmatica le ragioni di un nuovo schema annali del dipartimento di studi letterari linguistici e comparati",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1125-0240"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "9"
+            },
+            "journal": "SEZIONE LINGUISTICA",
+            "title": "la posizione linguistica dell altaico ed il suo rapporto privilegiato con il dravidico una rivisitazione degli studi recenti 1978 2008 alla ricerca di un nuovo paradigma aion annali del dipartimento di studi del mondo classico e del mediterraneo antico",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "9788882127503"
+            ],
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "title": "per un analisi linguistica della poesia un confronto fra le sequenze foniche in miklos radnoti e la sua traduzione italiana ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "9788895044835"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "11"
+            },
+            "title": "stili conversazionali e strategie comunicative nei dialoghi task oriented del corpus clips in diverse aree italiane meridionali",
+            "type": "contributo in atti di convegno",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "8878701548"
+            ],
+            "PId": 2794377801,
+            "citing": [
+                {
+                    "PId": 203451823,
+                    "author": [
+                        {
+                            "AuId": 1922167484,
+                            "AuN": "renata savy"
+                        }
+                    ],
+                    "title": "pr a ti d a coding scheme for pragmatic annotation of dialogues",
+                    "year_mag": 2010
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "doi": "10.1400/137550",
+            "title": "funzioni comunicative e categorie d analisi pragmatica dal testo dialogico allo schema xml e viceversa",
+            "type": "contributo in atti di convegno",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "9788820740221"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "13"
+            },
+            "title": "map task sardo ed analisi pragmatica",
+            "type": "contributo in atti di convegno",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "9788820740191"
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "14"
+            },
+            "title": "gestione dialogica dell emotivita la dimensione socio culturale",
+            "type": "contributo in atti di convegno",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "2038-6389"
+            ],
+            "cv_id": {
+                "pubbs_ind": "15"
+            },
+            "journal": "LETTERATURE STRANIERE &",
+            "title": "conflitto bellico conflitto linguistico il lessico militare in turchia",
+            "type": "articolo in rivista",
+            "year": 2007
+        },
+        {
+            "ISSN": [
+                "2038-6389"
+            ],
+            "cv_id": {
+                "pubbs_ind": "16"
+            },
+            "journal": "LETTERATURE STRANIERE &",
+            "title": "le lingue turche e le lingue degli animali",
+            "type": "articolo in rivista",
+            "year": 2006
+        },
+        {
+            "ISBN": [
+                "0826488528"
+            ],
+            "cv_id": {
+                "pubbs": "11",
+                "pubbs_ind": "17"
+            },
+            "title": "a word of difference gender disparity in the turkish word thesaurus",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2006
+        },
+        {
+            "ISBN": [
+                "8878701548"
+            ],
+            "cv_id": {
+                "pubbs": "12",
+                "pubbs_ind": "18"
+            },
+            "title": "contatti linguistici e culturali tra l italiano ed il turco la storia continua",
+            "type": "contributo in atti di convegno",
+            "year": 2006
+        },
+        {
+            "ISBN": [
+                "8890100737"
+            ],
+            "cv_id": {
+                "pubbs": "14",
+                "pubbs_ind": "19"
+            },
+            "title": " chiacchierare bisbigliare litigare in turco il complesso intreccio tra attivita linguistiche iconismo reduplicazione ",
+            "type": "monografia o trattato scientifico",
+            "year": 2004
+        },
+        {
+            "ISBN": [
+                "8843034332"
+            ],
+            "cv_id": {
+                "pubbs": "13"
+            },
+            "title": "l eteronimia in area turca ed oltre come viene percepita la lingua degli altri",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2005
+        },
+        {
+            "ISBN": [
+                "8888980075"
+            ],
+            "cv_id": {
+                "pubbs": "15"
+            },
+            "title": "la alimentazione nella paremiologia turca",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2002
+        }
+    ],
+    "pubbs_mag": []
+}

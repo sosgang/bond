@@ -1,0 +1,4171 @@
+{
+    "AuIds": [
+        2202417065,
+        2891494530
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 30,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 352,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 128,
+            "comm_other": 3858,
+            "other_cand": 68,
+            "other_comm": 1555
+        },
+        "other_nodes": 3870
+    },
+    "coverage": {
+        "articles": 8,
+        "books": 1,
+        "cov_sect": "A",
+        "other_pubbs": 8,
+        "pubbs": 10,
+        "pubbs_found": 9,
+        "pubbs_ind": 11,
+        "pubbs_ind_found": 9,
+        "total_extra_found": 30,
+        "total_found": 14,
+        "total_pubbs": 17
+    },
+    "fullname": [
+        "Levantesi",
+        "Susanna"
+    ],
+    "ind_anvur": [
+        12,
+        2,
+        1,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1526-5943"
+            ],
+            "PId": 2577387251,
+            "cited": [
+                {
+                    "PId": 2153675946,
+                    "author": [
+                        {
+                            "AuId": 2585598025,
+                            "AuN": "j o ramsay"
+                        },
+                        {
+                            "AuId": 2297037089,
+                            "AuN": "b w silverman"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4757-7107-7",
+                    "title": "functional data analysis",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1969498530,
+                    "author": [
+                        {
+                            "AuId": 2441013466,
+                            "AuN": "ronald lee"
+                        },
+                        {
+                            "AuId": 2316454628,
+                            "AuN": "lawrence r carter"
+                        }
+                    ],
+                    "doi": "10.1080/01621459.1992.10475265",
+                    "journal": "journal of the american statistical association",
+                    "title": "modeling and forecasting u s mortality",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2126771422,
+                    "author": [
+                        {
+                            "AuId": 1925586815,
+                            "AuN": "rob j hyndman"
+                        },
+                        {
+                            "AuId": 2100463470,
+                            "AuN": "md shahid ullah"
+                        }
+                    ],
+                    "doi": "10.1016/J.CSDA.2006.07.028",
+                    "journal": "computational statistics & data analysis",
+                    "title": "robust forecasting of mortality and fertility rates a functional data approach",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2096617164,
+                    "author": [
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        },
+                        {
+                            "AuId": 2007452117,
+                            "AuN": "guy d coughlan"
+                        },
+                        {
+                            "AuId": 2118911379,
+                            "AuN": "marwa khalafallah"
+                        }
+                    ],
+                    "doi": "10.2143/AST.41.1.2084385",
+                    "journal": "astin bulletin",
+                    "title": "bayesian stochastic mortality modelling for two populations",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1539798016,
+                    "author": [
+                        {
+                            "AuId": 2256305695,
+                            "AuN": "fsa johnny siuhang li"
+                        },
+                        {
+                            "AuId": 2276691489,
+                            "AuN": "mary r hardy phd fia fsa cera"
+                        }
+                    ],
+                    "doi": "10.1080/10920277.2011.10597616",
+                    "journal": "the north american actuarial journal",
+                    "title": "measuring basis risk in longevity hedges",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1968870290,
+                    "author": [
+                        {
+                            "AuId": 2112720925,
+                            "AuN": "samuel h cox"
+                        },
+                        {
+                            "AuId": 2107247329,
+                            "AuN": "yijia lin"
+                        }
+                    ],
+                    "title": "natural hedging of life and annuity mortality risks",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1683170990,
+                    "author": [
+                        {
+                            "AuId": 2007452117,
+                            "AuN": "guy d coughlan"
+                        },
+                        {
+                            "AuId": 2118911379,
+                            "AuN": "marwa khalafallah"
+                        },
+                        {
+                            "AuId": 2139889991,
+                            "AuN": "yijing ye"
+                        },
+                        {
+                            "AuId": 2928859517,
+                            "AuN": "s kumar"
+                        },
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.1080/10920277.2011.10597615",
+                    "journal": "the north american actuarial journal",
+                    "title": "longevity hedging 101 a framework for longevity basis risk analysis and hedge effectiveness",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2072258082,
+                    "author": [
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        },
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 2007452117,
+                            "AuN": "guy d coughlan"
+                        },
+                        {
+                            "AuId": 2118911379,
+                            "AuN": "marwa khalafallah"
+                        }
+                    ],
+                    "doi": "10.1080/10920277.2011.10597624",
+                    "journal": "the north american actuarial journal",
+                    "title": "a gravity model of mortality rates for two related populations",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2052350044,
+                    "author": [
+                        {
+                            "AuId": 2065235722,
+                            "AuN": "pauline barrieu"
+                        },
+                        {
+                            "AuId": 2092577800,
+                            "AuN": "harry bensusan"
+                        },
+                        {
+                            "AuId": 667485976,
+                            "AuN": "nicole el karoui"
+                        },
+                        {
+                            "AuId": 1480281734,
+                            "AuN": "caroline hillairet"
+                        },
+                        {
+                            "AuId": 2140558085,
+                            "AuN": "stephane loisel"
+                        },
+                        {
+                            "AuId": 2786038393,
+                            "AuN": "claudia ravanelli"
+                        },
+                        {
+                            "AuId": 2888240855,
+                            "AuN": "yahia salhi"
+                        }
+                    ],
+                    "doi": "10.1080/03461238.2010.511034",
+                    "journal": "scandinavian actuarial journal",
+                    "title": "understanding modelling and managing longevity risk key issues and main challenges",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 3023988500,
+                    "author": [
+                        {
+                            "AuId": 2007452117,
+                            "AuN": "guy d coughlan"
+                        },
+                        {
+                            "AuId": 2118911379,
+                            "AuN": "marwa khalafallah"
+                        },
+                        {
+                            "AuId": 2139889991,
+                            "AuN": "yijing ye"
+                        },
+                        {
+                            "AuId": 2928859517,
+                            "AuN": "s kumar"
+                        },
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "title": "longevity hedging 101 a framework for longevity basis risk analysis and hedge effectiveness",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1875256428,
+                    "author": [
+                        {
+                            "AuId": 2158445631,
+                            "AuN": "johnny siuhang li"
+                        },
+                        {
+                            "AuId": 2130689733,
+                            "AuN": "ancheng luo"
+                        }
+                    ],
+                    "doi": "10.2143/AST.42.2.2182804",
+                    "journal": "astin bulletin",
+                    "title": "key q duration a framework for hedging longevity risk",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2072021537,
+                    "author": [
+                        {
+                            "AuId": 2139313403,
+                            "AuN": "olivia s mitchell"
+                        },
+                        {
+                            "AuId": 2422587743,
+                            "AuN": "david mccarthy"
+                        }
+                    ],
+                    "doi": "10.1080/10920277.2002.10596062",
+                    "journal": "the north american actuarial journal",
+                    "title": "estimating international adverse selection in annuities",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 3085833899,
+                    "author": [
+                        {
+                            "AuId": 3084745507,
+                            "AuN": "haberman steven"
+                        },
+                        {
+                            "AuId": 3086497387,
+                            "AuN": "kaishev vladimir"
+                        },
+                        {
+                            "AuId": 56955167,
+                            "AuN": "pietro millossovich"
+                        },
+                        {
+                            "AuId": 3085712818,
+                            "AuN": "villegas andres"
+                        },
+                        {
+                            "AuId": 3086462181,
+                            "AuN": "baxter steven"
+                        },
+                        {
+                            "AuId": 3086907544,
+                            "AuN": "gaches andrew"
+                        },
+                        {
+                            "AuId": 3084580849,
+                            "AuN": "gunnlaugsson sveinn"
+                        },
+                        {
+                            "AuId": 3085378882,
+                            "AuN": "sison mario"
+                        }
+                    ],
+                    "doi": "10.1017/S1357321715000197",
+                    "title": "a methodology for assessing basis risk abstract of the london discussion",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1108/JRF-03-2016-0030",
+            "journal": "JOURNAL OF RISK FINANCE",
+            "title": "a longevity basis risk analysis in a joint fdm framework",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-15-26084-0"
+            ],
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "title": "modelli attuariali per la stima di basi tecniche relative ad assicurazioni di persone",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-15-26084-0"
+            ],
+            "PId": 2778729096,
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "title": "stima di basi tecniche per assicurazioni ltc malattie gravi e invalidita",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-495-3147-3"
+            ],
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "title": "allungamento della vita media e rischio assicurativo vol 2 ",
+            "type": "monografia o trattato scientifico",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1971-6419"
+            ],
+            "PId": 2774568419,
+            "cited": [
+                {
+                    "PId": 2153675946,
+                    "author": [
+                        {
+                            "AuId": 2585598025,
+                            "AuN": "j o ramsay"
+                        },
+                        {
+                            "AuId": 2297037089,
+                            "AuN": "b w silverman"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4757-7107-7",
+                    "title": "functional data analysis",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2019191223,
+                    "author": [
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        },
+                        {
+                            "AuId": 2949710790,
+                            "AuN": "guy coughlan"
+                        },
+                        {
+                            "AuId": 2585937097,
+                            "AuN": "david epstein"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1340389",
+                    "title": "a quantitative comparison of stochastic mortality models using data from england wales and the united states",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1969498530,
+                    "author": [
+                        {
+                            "AuId": 2441013466,
+                            "AuN": "ronald lee"
+                        },
+                        {
+                            "AuId": 2316454628,
+                            "AuN": "lawrence r carter"
+                        }
+                    ],
+                    "doi": "10.1080/01621459.1992.10475265",
+                    "journal": "journal of the american statistical association",
+                    "title": "modeling and forecasting u s mortality",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2126771422,
+                    "author": [
+                        {
+                            "AuId": 1925586815,
+                            "AuN": "rob j hyndman"
+                        },
+                        {
+                            "AuId": 2100463470,
+                            "AuN": "md shahid ullah"
+                        }
+                    ],
+                    "doi": "10.1016/J.CSDA.2006.07.028",
+                    "journal": "computational statistics & data analysis",
+                    "title": "robust forecasting of mortality and fertility rates a functional data approach",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2131560241,
+                    "author": [
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.1017/S1357321700004736",
+                    "journal": "british actuarial journal",
+                    "title": "living with mortality longevity bonds and other mortality linked securities",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2096617164,
+                    "author": [
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        },
+                        {
+                            "AuId": 2007452117,
+                            "AuN": "guy d coughlan"
+                        },
+                        {
+                            "AuId": 2118911379,
+                            "AuN": "marwa khalafallah"
+                        }
+                    ],
+                    "doi": "10.2143/AST.41.1.2084385",
+                    "journal": "astin bulletin",
+                    "title": "bayesian stochastic mortality modelling for two populations",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1968870290,
+                    "author": [
+                        {
+                            "AuId": 2112720925,
+                            "AuN": "samuel h cox"
+                        },
+                        {
+                            "AuId": 2107247329,
+                            "AuN": "yijia lin"
+                        }
+                    ],
+                    "title": "natural hedging of life and annuity mortality risks",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2124449497,
+                    "author": [
+                        {
+                            "AuId": 2103078942,
+                            "AuN": "mia hubert"
+                        },
+                        {
+                            "AuId": 1973885181,
+                            "AuN": "peter j rousseeuw"
+                        },
+                        {
+                            "AuId": 1835573533,
+                            "AuN": "sabine verboven"
+                        }
+                    ],
+                    "doi": "10.1016/S0169-7439(01)00188-5",
+                    "journal": "chemometrics and intelligent laboratory systems",
+                    "title": "a fast method for robust principal components with applications to chemometrics",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2158353723,
+                    "author": [
+                        {
+                            "AuId": 2764504538,
+                            "AuN": "robin john hyndman"
+                        },
+                        {
+                            "AuId": 2060893108,
+                            "AuN": "heather booth"
+                        },
+                        {
+                            "AuId": 2026176951,
+                            "AuN": "farah yasmeen"
+                        }
+                    ],
+                    "doi": "10.1007/S13524-012-0145-5",
+                    "journal": "demography",
+                    "title": "coherent mortality forecasting the product ratio method with functional time series models",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2052350044,
+                    "author": [
+                        {
+                            "AuId": 2065235722,
+                            "AuN": "pauline barrieu"
+                        },
+                        {
+                            "AuId": 2092577800,
+                            "AuN": "harry bensusan"
+                        },
+                        {
+                            "AuId": 667485976,
+                            "AuN": "nicole el karoui"
+                        },
+                        {
+                            "AuId": 1480281734,
+                            "AuN": "caroline hillairet"
+                        },
+                        {
+                            "AuId": 2140558085,
+                            "AuN": "stephane loisel"
+                        },
+                        {
+                            "AuId": 2786038393,
+                            "AuN": "claudia ravanelli"
+                        },
+                        {
+                            "AuId": 2888240855,
+                            "AuN": "yahia salhi"
+                        }
+                    ],
+                    "doi": "10.1080/03461238.2010.511034",
+                    "journal": "scandinavian actuarial journal",
+                    "title": "understanding modelling and managing longevity risk key issues and main challenges",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 3023988500,
+                    "author": [
+                        {
+                            "AuId": 2007452117,
+                            "AuN": "guy d coughlan"
+                        },
+                        {
+                            "AuId": 2118911379,
+                            "AuN": "marwa khalafallah"
+                        },
+                        {
+                            "AuId": 2139889991,
+                            "AuN": "yijing ye"
+                        },
+                        {
+                            "AuId": 2928859517,
+                            "AuN": "s kumar"
+                        },
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "title": "longevity hedging 101 a framework for longevity basis risk analysis and hedge effectiveness",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2123497992,
+                    "author": [
+                        {
+                            "AuId": 2160055057,
+                            "AuN": "michael sherris"
+                        },
+                        {
+                            "AuId": 3124311771,
+                            "AuN": "andrew ngai"
+                        }
+                    ],
+                    "title": "longevity risk management for life and variable annuities effectiveness of static hedging using longevity bonds and derivatives",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1875256428,
+                    "author": [
+                        {
+                            "AuId": 2158445631,
+                            "AuN": "johnny siuhang li"
+                        },
+                        {
+                            "AuId": 2130689733,
+                            "AuN": "ancheng luo"
+                        }
+                    ],
+                    "doi": "10.2143/AST.42.2.2182804",
+                    "journal": "astin bulletin",
+                    "title": "key q duration a framework for hedging longevity risk",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1863565186,
+                    "author": [
+                        {
+                            "AuId": 2949710790,
+                            "AuN": "guy coughlan"
+                        }
+                    ],
+                    "doi": "10.1002/9781119206545.CH21",
+                    "title": "longevity risk transfer indices and capital market solutions",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "5"
+            },
+            "journal": "MATHEMATICAL METHODS IN ECONOMICS AND FINANCE",
+            "title": "measuring and hedging the basis risk by functional demographic models",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0167-6687"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1016",
+            "journal": "INSURANCE MATHEMATICS & ECONOMICS",
+            "title": "a health insurance pricing model based on prevalence rates application to critical illness insurance",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0972-3617"
+            ],
+            "PId": 2603234079,
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "journal": "ADVANCES AND APPLICATIONS IN STATISTICS",
+            "title": "solvency capital requirements for longevity risk under different stochastic mortality models",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0167-6687"
+            ],
+            "PId": 2094617510,
+            "cited": [
+                {
+                    "PId": 1991753520,
+                    "author": [
+                        {
+                            "AuId": 2224235920,
+                            "AuN": "larry y tzeng"
+                        },
+                        {
+                            "AuId": 2168360415,
+                            "AuN": "volker schmidt"
+                        },
+                        {
+                            "AuId": 1790405861,
+                            "AuN": "hanspeter schmidli"
+                        },
+                        {
+                            "AuId": 2326248280,
+                            "AuN": "josef teugels"
+                        },
+                        {
+                            "AuId": 2195321491,
+                            "AuN": "tomasz rolski"
+                        }
+                    ],
+                    "doi": "10.2307/2678139",
+                    "journal": "journal of risk and insurance",
+                    "title": "stochastic processes for insurance and finance",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2120297822,
+                    "author": [
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2006.00195.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "a two factor model for stochastic mortality with parameter uncertainty theory and calibration",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2019191223,
+                    "author": [
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        },
+                        {
+                            "AuId": 2949710790,
+                            "AuN": "guy coughlan"
+                        },
+                        {
+                            "AuId": 2585937097,
+                            "AuN": "david epstein"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1340389",
+                    "title": "a quantitative comparison of stochastic mortality models using data from england wales and the united states",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1969498530,
+                    "author": [
+                        {
+                            "AuId": 2441013466,
+                            "AuN": "ronald lee"
+                        },
+                        {
+                            "AuId": 2316454628,
+                            "AuN": "lawrence r carter"
+                        }
+                    ],
+                    "doi": "10.1080/01621459.1992.10475265",
+                    "journal": "journal of the american statistical association",
+                    "title": "modeling and forecasting u s mortality",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2057268325,
+                    "author": [
+                        {
+                            "AuId": 2464083417,
+                            "AuN": "a e renshaw"
+                        },
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2005.12.001",
+                    "journal": "insurance mathematics & economics",
+                    "title": "a cohort based extension to the lee carter model for mortality reduction factors",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1802389600,
+                    "author": [
+                        {
+                            "AuId": 1988528987,
+                            "AuN": "gaetan lafortune"
+                        },
+                        {
+                            "AuId": 239413181,
+                            "AuN": "gaelle balestat"
+                        }
+                    ],
+                    "doi": "10.1787/217072070078",
+                    "title": "trends in severe disability among elderly people",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2042636783,
+                    "author": [
+                        {
+                            "AuId": 1969626576,
+                            "AuN": "iain david currie"
+                        },
+                        {
+                            "AuId": 2015185822,
+                            "AuN": "maria durban"
+                        },
+                        {
+                            "AuId": 2951301646,
+                            "AuN": "paul h c eilers"
+                        }
+                    ],
+                    "doi": "10.1191/1471082X04ST080OA",
+                    "journal": "statistical modelling",
+                    "title": "smoothing and forecasting mortality rates",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2035003768,
+                    "author": [
+                        {
+                            "AuId": 2230429223,
+                            "AuN": "mikkel dahl"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2004.05.003",
+                    "journal": "insurance mathematics & economics",
+                    "title": "stochastic mortality in life insurance market reserves and mortality linked insurance contracts",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2078156931,
+                    "author": [
+                        {
+                            "AuId": 102033585,
+                            "AuN": "enrico biffis"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.647421",
+                    "title": "affine processes for dynamic mortality and actuarial valuations",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1592433032,
+                    "author": [
+                        {
+                            "AuId": 2689742691,
+                            "AuN": "william breedlove"
+                        }
+                    ],
+                    "doi": "10.1002/9780470012505.TAS021",
+                    "title": "society of actuaries",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2065660452,
+                    "author": [
+                        {
+                            "AuId": 2230429223,
+                            "AuN": "mikkel dahl"
+                        },
+                        {
+                            "AuId": 2117135558,
+                            "AuN": "thomas moller"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2006.02.007",
+                    "journal": "insurance mathematics & economics",
+                    "title": "valuation and hedging of life insurance liabilities with systematic mortality risk",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1821957428,
+                    "author": [
+                        {
+                            "AuId": 2227265576,
+                            "AuN": "moshe a milevsky"
+                        },
+                        {
+                            "AuId": 1994543128,
+                            "AuN": "david promislow"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.289551",
+                    "title": "mortality derivatives and the option to annuitize",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 620465456,
+                    "author": [
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        },
+                        {
+                            "AuId": 174019291,
+                            "AuN": "ermanno pitacco"
+                        }
+                    ],
+                    "title": "actuarial models for disability insurance",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2099131454,
+                    "author": [
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1339970",
+                    "title": "modelling and management of mortality risk a review",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2796669476,
+                    "author": [
+                        {
+                            "AuId": 3027683644,
+                            "AuN": "c d daykin"
+                        },
+                        {
+                            "AuId": 2800499695,
+                            "AuN": "t pentikainen"
+                        },
+                        {
+                            "AuId": 2679921026,
+                            "AuN": "martti pesonen"
+                        }
+                    ],
+                    "doi": "10.2307/2532828",
+                    "journal": "biometrics",
+                    "title": "practical risk theory for actuaries",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1996644561,
+                    "author": [
+                        {
+                            "AuId": 211935706,
+                            "AuN": "laura ballotta"
+                        },
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2005.10.002",
+                    "journal": "insurance mathematics & economics",
+                    "title": "the fair valuation problem of guaranteed annuity options the stochastic mortality environment case",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2141553554,
+                    "author": [
+                        {
+                            "AuId": 2464083417,
+                            "AuN": "a e renshaw"
+                        },
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(03)00118-5",
+                    "journal": "insurance mathematics & economics",
+                    "title": "on the forecasting of mortality reduction factors",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2024822660,
+                    "author": [
+                        {
+                            "AuId": 2580569850,
+                            "AuN": "matthias borger"
+                        }
+                    ],
+                    "doi": "10.1007/S11857-010-0125-Z",
+                    "title": "deterministic shock vs stochastic value at risk an analysis of the solvency ii standard model approach to longevity risk",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2103931113,
+                    "author": [
+                        {
+                            "AuId": 2146671511,
+                            "AuN": "annamaria olivieri"
+                        },
+                        {
+                            "AuId": 2923716271,
+                            "AuN": "ermanno pitacco"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1287688",
+                    "title": "stochastic mortality the impact on target capital",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2069148444,
+                    "author": [
+                        {
+                            "AuId": 2146671511,
+                            "AuN": "annamaria olivieri"
+                        },
+                        {
+                            "AuId": 174019291,
+                            "AuN": "ermanno pitacco"
+                        }
+                    ],
+                    "doi": "10.1017/S1474747203001276",
+                    "journal": "journal of pension economics & finance",
+                    "title": "solvency requirements for pension annuities",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 3111779381,
+                    "author": [
+                        {
+                            "AuId": 2202417065,
+                            "AuN": "susanna levantesi"
+                        },
+                        {
+                            "AuId": 627131071,
+                            "AuN": "massimiliano menzietti"
+                        }
+                    ],
+                    "title": "longevity and disability risk analysis in enhanced life annuities",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1708138587,
+                    "author": [
+                        {
+                            "AuId": 102033585,
+                            "AuN": "enrico biffis"
+                        },
+                        {
+                            "AuId": 2100227766,
+                            "AuN": "michel denuit"
+                        }
+                    ],
+                    "title": "lee carter goes risk neutral an application to the italian annuity market",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 90431803,
+                    "author": [
+                        {
+                            "AuId": 2146671511,
+                            "AuN": "annamaria olivieri"
+                        },
+                        {
+                            "AuId": 174019291,
+                            "AuN": "ermanno pitacco"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1266098",
+                    "title": "stochastic models for disability approximations and applications to sickness and personal accident insurance",
+                    "year_mag": 2008
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2990023745,
+                    "author": [
+                        {
+                            "AuId": 2070963503,
+                            "AuN": "atsuyuki kogure"
+                        },
+                        {
+                            "AuId": 2070963503,
+                            "AuN": "atsuyuki kogure"
+                        },
+                        {
+                            "AuId": 2185497315,
+                            "AuN": "takahiro fushimi"
+                        },
+                        {
+                            "AuId": 2304233965,
+                            "AuN": "shinichi kamiya"
+                        }
+                    ],
+                    "doi": "10.1080/10920277.2019.1653202",
+                    "journal": "the north american actuarial journal",
+                    "title": "mortality forecasts for long term care subpopulations with longevity risk a bayesian approach",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 1987816332,
+                    "author": [
+                        {
+                            "AuId": 2043660612,
+                            "AuN": "frederic planchet"
+                        },
+                        {
+                            "AuId": 2105426014,
+                            "AuN": "julien tomas"
+                        }
+                    ],
+                    "doi": "10.1080/03461238.2014.925496",
+                    "journal": "the north american actuarial journal",
+                    "title": "uncertainty on survival probabilities and solvency capital requirement application to long term care insurance",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2277826613,
+                    "author": [
+                        {
+                            "AuId": 3124690525,
+                            "AuN": "alexandre boumezoued"
+                        },
+                        {
+                            "AuId": 667485976,
+                            "AuN": "nicole el karoui"
+                        },
+                        {
+                            "AuId": 2140558085,
+                            "AuN": "stephane loisel"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2016.09.014",
+                    "journal": "the north american actuarial journal",
+                    "title": "measuring mortality heterogeneity with multi state models and interval censored data",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2008422957,
+                    "author": [
+                        {
+                            "AuId": 2105426014,
+                            "AuN": "julien tomas"
+                        },
+                        {
+                            "AuId": 2043660612,
+                            "AuN": "frederic planchet"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2013.03.009",
+                    "journal": "the north american actuarial journal",
+                    "title": "multidimensional smoothing by adaptive local kernel weighted log likelihood application to long term care insurance",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1527734241,
+                    "author": [
+                        {
+                            "AuId": 2293517936,
+                            "AuN": "christian gourieroux"
+                        },
+                        {
+                            "AuId": 2945092651,
+                            "AuN": "yang lu"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2347735",
+                    "journal": "the north american actuarial journal",
+                    "title": "long term care and longevity",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2949922307,
+                    "author": [
+                        {
+                            "AuId": 133751489,
+                            "AuN": "boualem djehiche"
+                        },
+                        {
+                            "AuId": 1933982849,
+                            "AuN": "bjorn lofdahl"
+                        }
+                    ],
+                    "journal": "the north american actuarial journal",
+                    "title": "risk aggregation and stochastic claims reserving in disability insurance",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2004050402,
+                    "author": [
+                        {
+                            "AuId": 133751489,
+                            "AuN": "boualem djehiche"
+                        },
+                        {
+                            "AuId": 1933982849,
+                            "AuN": "bjorn lofdahl"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2014.09.001",
+                    "journal": "the north american actuarial journal",
+                    "title": "risk aggregation and stochastic claims reserving in disability insurance",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2907645646,
+                    "author": [
+                        {
+                            "AuId": 2034235290,
+                            "AuN": "martin eling"
+                        },
+                        {
+                            "AuId": 2906888324,
+                            "AuN": "omid ghavibazoo"
+                        }
+                    ],
+                    "doi": "10.1057/S41288-018-00114-6",
+                    "journal": "the north american actuarial journal",
+                    "title": "research on long term care insurance status quo and directions for future research",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2755763515,
+                    "author": [
+                        {
+                            "AuId": 2202417065,
+                            "AuN": "susanna levantesi"
+                        },
+                        {
+                            "AuId": 627131071,
+                            "AuN": "massimiliano menzietti"
+                        }
+                    ],
+                    "doi": "10.1017/ASB.2017.29",
+                    "journal": "the north american actuarial journal",
+                    "title": "natural hedging in long term care insurance",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2805957506,
+                    "author": [
+                        {
+                            "AuId": 2805052108,
+                            "AuN": "michel fuino"
+                        },
+                        {
+                            "AuId": 2118127852,
+                            "AuN": "joel wagner"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2018.05.002",
+                    "journal": "the north american actuarial journal",
+                    "title": "long term care models and dependence probability tables by acuity level new empirical evidence from switzerland",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 3124953094,
+                    "author": [
+                        {
+                            "AuId": 2478754950,
+                            "AuN": "zixi li"
+                        },
+                        {
+                            "AuId": 2097086184,
+                            "AuN": "adam wenqiang shao"
+                        },
+                        {
+                            "AuId": 2160055057,
+                            "AuN": "michael sherris"
+                        }
+                    ],
+                    "doi": "10.1080/10920277.2017.1330157",
+                    "journal": "the north american actuarial journal",
+                    "title": "the impact of systematic trend and uncertainty on mortality and disability in a multistate latent factor model for transition rates",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2946971901,
+                    "author": [
+                        {
+                            "AuId": 2100227766,
+                            "AuN": "michel denuit"
+                        },
+                        {
+                            "AuId": 3125594720,
+                            "AuN": "nathalie lucas"
+                        },
+                        {
+                            "AuId": 174019291,
+                            "AuN": "ermanno pitacco"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-05660-5_5",
+                    "journal": "the north american actuarial journal",
+                    "title": "pricing and reserving in ltc insurance",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3000686838,
+                    "author": [
+                        {
+                            "AuId": 2087896892,
+                            "AuN": "valeria damato"
+                        },
+                        {
+                            "AuId": 2202417065,
+                            "AuN": "susanna levantesi"
+                        },
+                        {
+                            "AuId": 627131071,
+                            "AuN": "massimiliano menzietti"
+                        }
+                    ],
+                    "doi": "10.1007/S00500-019-04658-0",
+                    "journal": "the north american actuarial journal",
+                    "title": "de risking long term care insurance",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2778509992,
+                    "author": [
+                        {
+                            "AuId": 3123354087,
+                            "AuN": "marcus c christiansen"
+                        },
+                        {
+                            "AuId": 2100227766,
+                            "AuN": "michel denuit"
+                        },
+                        {
+                            "AuId": 3125594720,
+                            "AuN": "nathalie lucas"
+                        },
+                        {
+                            "AuId": 2660850850,
+                            "AuN": "jan philipp schmidt"
+                        }
+                    ],
+                    "doi": "10.1017/S1748499517000240",
+                    "journal": "the north american actuarial journal",
+                    "title": "projection models for health expenses",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2926728275,
+                    "author": [
+                        {
+                            "AuId": 2667916585,
+                            "AuN": "franca glenzer"
+                        },
+                        {
+                            "AuId": 2927686613,
+                            "AuN": "bertrand achou"
+                        }
+                    ],
+                    "doi": "10.1057/S41288-019-00125-X",
+                    "journal": "the north american actuarial journal",
+                    "title": "annuities long term care insurance and insurer solvency",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2345827127,
+                    "author": [
+                        {
+                            "AuId": 934359997,
+                            "AuN": "alexander maegebier"
+                        },
+                        {
+                            "AuId": 131653241,
+                            "AuN": "nadine gatzert"
+                        }
+                    ],
+                    "doi": "10.1080/10920277.2015.1109457",
+                    "journal": "the north american actuarial journal",
+                    "title": "the impact of disability insurance on a portfolio of life insurances",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2947878395,
+                    "author": [
+                        {
+                            "AuId": 2947799369,
+                            "AuN": "william lim"
+                        },
+                        {
+                            "AuId": 2692452191,
+                            "AuN": "gaurav khemka"
+                        },
+                        {
+                            "AuId": 2583196907,
+                            "AuN": "david pitt"
+                        },
+                        {
+                            "AuId": 2154033712,
+                            "AuN": "bridget browne"
+                        }
+                    ],
+                    "doi": "10.1007/S12546-019-09226-9",
+                    "journal": "the north american actuarial journal",
+                    "title": "a method for calculating the implied no recovery three state transition matrix using observable population mortality incidence and disability prevalence rates among the elderly",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2972094509,
+                    "author": [
+                        {
+                            "AuId": 2100227766,
+                            "AuN": "michel denuit"
+                        },
+                        {
+                            "AuId": 2210313561,
+                            "AuN": "donatien hainaut"
+                        },
+                        {
+                            "AuId": 279484334,
+                            "AuN": "julien trufin"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-25820-7_8",
+                    "journal": "the north american actuarial journal",
+                    "title": "some generalized non linear models gnms",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2552354087,
+                    "author": [
+                        {
+                            "AuId": 2495360018,
+                            "AuN": "javier plaporcel"
+                        },
+                        {
+                            "AuId": 1699161360,
+                            "AuN": "manuel venturamarco"
+                        },
+                        {
+                            "AuId": 180313079,
+                            "AuN": "carlos vidalmelia"
+                        }
+                    ],
+                    "doi": "10.1080/03461238.2016.1258370",
+                    "journal": "the north american actuarial journal",
+                    "title": "converting retirement benefit into a life care annuity with graded benefits",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2506280676,
+                    "author": [
+                        {
+                            "AuId": 1781496283,
+                            "AuN": "samuel e bodily"
+                        },
+                        {
+                            "AuId": 2561959978,
+                            "AuN": "bryan furman"
+                        }
+                    ],
+                    "doi": "10.1287/DECA.2016.0332",
+                    "journal": "the north american actuarial journal",
+                    "title": "long term care insurance decisions",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2978010259,
+                    "author": [
+                        {
+                            "AuId": 2129480536,
+                            "AuN": "colin m ramsay"
+                        },
+                        {
+                            "AuId": 2036262272,
+                            "AuN": "victor i oguledo"
+                        }
+                    ],
+                    "doi": "10.1080/10920277.2019.1598270",
+                    "journal": "the north american actuarial journal",
+                    "title": "doubly enhanced annuities deans and the impact of quality of long term care under a multi state model of activities of daily living adl",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2602803856,
+                    "author": [
+                        {
+                            "AuId": 269254711,
+                            "AuN": "quentin guibert"
+                        },
+                        {
+                            "AuId": 2043660612,
+                            "AuN": "frederic planchet"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2018.05.004",
+                    "journal": "the north american actuarial journal",
+                    "title": "non parametric inference of transition probabilities based on aalen johansen integral estimators for acyclic multi state models application to ltc insurance",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2096284931,
+                    "author": [
+                        {
+                            "AuId": 1077760244,
+                            "AuN": "laura spierdijk"
+                        },
+                        {
+                            "AuId": 2103262584,
+                            "AuN": "ruud h koning"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2013.01518.X",
+                    "journal": "the north american actuarial journal",
+                    "title": "estimating outstanding claim liabilities the role of unobserved risk factors",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2197154600,
+                    "author": [
+                        {
+                            "AuId": 133751489,
+                            "AuN": "boualem djehiche"
+                        },
+                        {
+                            "AuId": 1933982849,
+                            "AuN": "bjorn lofdahl"
+                        }
+                    ],
+                    "doi": "10.1017/S1748499516000051",
+                    "journal": "the north american actuarial journal",
+                    "title": "aggregation of 1 year risks in life and disability insurance",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2462731070,
+                    "author": [
+                        {
+                            "AuId": 2495360018,
+                            "AuN": "javier plaporcel"
+                        },
+                        {
+                            "AuId": 1699161360,
+                            "AuN": "manuel venturamarco"
+                        },
+                        {
+                            "AuId": 180313079,
+                            "AuN": "carlos vidalmelia"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2801651",
+                    "journal": "the north american actuarial journal",
+                    "title": "converting retirement benefit into a life care annuity with graded benefits how costly would it actually be",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 1483218776,
+                    "author": [
+                        {
+                            "AuId": 934359997,
+                            "AuN": "alexander maegebier"
+                        }
+                    ],
+                    "doi": "10.1108/JRF-11-2014-0166",
+                    "journal": "the north american actuarial journal",
+                    "title": "securitization of disability risk via bonds and swaps",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2947950311,
+                    "author": [
+                        {
+                            "AuId": 269254711,
+                            "AuN": "quentin guibert"
+                        },
+                        {
+                            "AuId": 269254711,
+                            "AuN": "quentin guibert"
+                        },
+                        {
+                            "AuId": 2043660612,
+                            "AuN": "frederic planchet"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-05660-5_4",
+                    "journal": "the north american actuarial journal",
+                    "title": "measuring long term insurance contract biometric risks",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2184954877,
+                    "author": [
+                        {
+                            "AuId": 2340571949,
+                            "AuN": "christian gouri"
+                        }
+                    ],
+                    "journal": "the north american actuarial journal",
+                    "title": "long term care and longevity",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2546487258,
+                    "author": [
+                        {
+                            "AuId": 2631989673,
+                            "AuN": "arthit intarasit"
+                        },
+                        {
+                            "AuId": 2546945290,
+                            "AuN": "nawarat ekkarntrong"
+                        },
+                        {
+                            "AuId": 2546654085,
+                            "AuN": "khanchit chuarkham"
+                        }
+                    ],
+                    "journal": "the north american actuarial journal",
+                    "title": "analysis and development of internal models to calculate solvency capital requirement for insurance company",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2732778221,
+                    "author": [
+                        {
+                            "AuId": 2726379746,
+                            "AuN": "quentin guibert"
+                        }
+                    ],
+                    "journal": "the north american actuarial journal",
+                    "title": "non parametric inference of transition probabilities based on aalen johansen integral estimators for semi competing risks data application to ltc insurance",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1901766188,
+                    "author": [
+                        {
+                            "AuId": 2724542017,
+                            "AuN": "bjorn lofdahl grelsson"
+                        }
+                    ],
+                    "journal": "the north american actuarial journal",
+                    "title": "topics in life and disability insurance",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2260992646,
+                    "author": [
+                        {
+                            "AuId": 3119111752,
+                            "AuN": "yang lu"
+                        }
+                    ],
+                    "journal": "the north american actuarial journal",
+                    "title": "bivariate survival analysis with latent factors theory and applications to mortality and long term care",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "8"
+            },
+            "doi": "10.1016/J.INSMATHECO.2012.01.004",
+            "journal": "INSURANCE MATHEMATICS & ECONOMICS",
+            "title": "managing longevity and disability risks in life annuities with long term care",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788847023420"
+            ],
+            "PId": 2198734545,
+            "cited": [
+                {
+                    "PId": 1969498530,
+                    "author": [
+                        {
+                            "AuId": 2441013466,
+                            "AuN": "ronald lee"
+                        },
+                        {
+                            "AuId": 2316454628,
+                            "AuN": "lawrence r carter"
+                        }
+                    ],
+                    "doi": "10.1080/01621459.1992.10475265",
+                    "journal": "journal of the american statistical association",
+                    "title": "modeling and forecasting u s mortality",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 102235808,
+                    "author": [
+                        {
+                            "AuId": 2652702732,
+                            "AuN": "michael a salsburg"
+                        }
+                    ],
+                    "title": "modeling and forecasting",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2101518413,
+                    "author": [
+                        {
+                            "AuId": 300730785,
+                            "AuN": "natacha brouhns"
+                        },
+                        {
+                            "AuId": 2100227766,
+                            "AuN": "michel denuit"
+                        },
+                        {
+                            "AuId": 2126209104,
+                            "AuN": "jeroen k vermunt"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(02)00185-3",
+                    "journal": "insurance mathematics & economics",
+                    "title": "a poisson log bilinear regression approach to the construction of projected lifetables",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2131560241,
+                    "author": [
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.1017/S1357321700004736",
+                    "journal": "british actuarial journal",
+                    "title": "living with mortality longevity bonds and other mortality linked securities",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2042077767,
+                    "author": [
+                        {
+                            "AuId": 2107247329,
+                            "AuN": "yijia lin"
+                        },
+                        {
+                            "AuId": 2112720925,
+                            "AuN": "samuel h cox"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2005.00122.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "securitization of mortality risks in life annuities",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2076700243,
+                    "author": [
+                        {
+                            "AuId": 2120373896,
+                            "AuN": "shaun wang"
+                        }
+                    ],
+                    "doi": "10.2143/AST.32.2.1027",
+                    "journal": "astin bulletin",
+                    "title": "a universal framework for pricing financial and insurance risks",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2172272462,
+                    "author": [
+                        {
+                            "AuId": 2253614813,
+                            "AuN": "daniel bauer"
+                        },
+                        {
+                            "AuId": 2168663452,
+                            "AuN": "matthias borger"
+                        },
+                        {
+                            "AuId": 2116678603,
+                            "AuN": "jochen rus"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2009.06.005",
+                    "journal": "insurance mathematics & economics",
+                    "title": "on the pricing of longevity linked securities",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2094711838,
+                    "author": [
+                        {
+                            "AuId": 2100227766,
+                            "AuN": "michel denuit"
+                        },
+                        {
+                            "AuId": 2062647442,
+                            "AuN": "pierre devolder"
+                        },
+                        {
+                            "AuId": 2233496534,
+                            "AuN": "annececile goderniaux"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2007.00203.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "securitization of longevity risk pricing survivor bonds with wang transform in the lee carter framework",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2024822660,
+                    "author": [
+                        {
+                            "AuId": 2580569850,
+                            "AuN": "matthias borger"
+                        }
+                    ],
+                    "doi": "10.1007/S11857-010-0125-Z",
+                    "title": "deterministic shock vs stochastic value at risk an analysis of the solvency ii standard model approach to longevity risk",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1987563380,
+                    "author": [
+                        {
+                            "AuId": 2112720925,
+                            "AuN": "samuel h cox"
+                        },
+                        {
+                            "AuId": 2107247329,
+                            "AuN": "yijia lin"
+                        },
+                        {
+                            "AuId": 2120373896,
+                            "AuN": "shaun wang"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2006.00196.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "multivariate exponential tilting and pricing implications for mortality securitization",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2111279720,
+                    "author": [
+                        {
+                            "AuId": 102033585,
+                            "AuN": "enrico biffis"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1340409",
+                    "title": "mortality linked securities and derivatives",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2596834750,
+                    "author": [
+                        {
+                            "AuId": 2202417065,
+                            "AuN": "susanna levantesi"
+                        }
+                    ],
+                    "title": "longevity bond pricing models an application to the italian annuity market and pension schemes",
+                    "year_mag": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dowd",
+                            "given": "Kevin",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Blake",
+                            "given": "David",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Cairns",
+                            "given": "Andrew J. G.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Dawson",
+                            "given": "Paul",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2006.00163.X",
+                    "title": "survivor swaps",
+                    "year_oc": 2006
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "doi": "10.1007/978-88-470-2342-0_30",
+            "title": "on longevity risk securitization and solvency capital requirements in life annuities",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788813314750"
+            ],
+            "PId": 2775568111,
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "title": "un approccio risk based per il calcolo della tariffa medical malpractice",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "978-88-95706-38-2"
+            ],
+            "PId": 2778432395,
+            "cv_id": {
+                "pubbs_ind": "11"
+            },
+            "title": "hedging longevity risk in pension funds with q forwards",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "0974-6811"
+            ],
+            "PId": 2596768270,
+            "cv_id": {
+                "pubbs": "5"
+            },
+            "journal": "...",
+            "title": "modelling and managing longevity and disability risks in long term care insurance advances and applications in statistical sciences ",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9788847014817"
+            ],
+            "PId": 106214906,
+            "cited": [
+                {
+                    "PId": 620465456,
+                    "author": [
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        },
+                        {
+                            "AuId": 174019291,
+                            "AuN": "ermanno pitacco"
+                        }
+                    ],
+                    "title": "actuarial models for disability insurance",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 3111779381,
+                    "author": [
+                        {
+                            "AuId": 2202417065,
+                            "AuN": "susanna levantesi"
+                        },
+                        {
+                            "AuId": 627131071,
+                            "AuN": "massimiliano menzietti"
+                        }
+                    ],
+                    "title": "longevity and disability risk analysis in enhanced life annuities",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2794009835,
+                    "author": [
+                        {
+                            "AuId": 2776044318,
+                            "AuN": "mario bolzan"
+                        },
+                        {
+                            "AuId": 330923600,
+                            "AuN": "luigi fabbris"
+                        }
+                    ],
+                    "title": "errori di rilevazione nell indagine istat del 1983 sulle condizioni di salute e sul ricorso ai servizi sanitari",
+                    "year_mag": 1988
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6"
+            },
+            "doi": "10.1007/978-88-470-1481-7_18",
+            "title": "managing demographic risk in enhanced pensions",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "9781439817520"
+            ],
+            "PId": 2775087258,
+            "citing": [
+                {
+                    "PId": 2532626594,
+                    "author": [
+                        {
+                            "AuId": 2192081033,
+                            "AuN": "fabio baione"
+                        },
+                        {
+                            "AuId": 1967787430,
+                            "AuN": "paolo de angelis"
+                        },
+                        {
+                            "AuId": 2990980890,
+                            "AuN": "massimiliano menzietti"
+                        },
+                        {
+                            "AuId": 2535099589,
+                            "AuN": "agostino tripodi"
+                        }
+                    ],
+                    "doi": "10.1080/02664763.2016.1238047",
+                    "journal": "journal of applied statistics",
+                    "title": "a comparison of risk transfer strategies for a portfolio of life annuities based on rorac",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7"
+            },
+            "doi": "10.1201/9781439817544-22",
+            "title": "the securitization of longevity risk in pension schemes the case of italy",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "0390-5780"
+            ],
+            "PId": 2596834750,
+            "citing": [
+                {
+                    "PId": 2198734545,
+                    "author": [
+                        {
+                            "AuId": 2202417065,
+                            "AuN": "susanna levantesi"
+                        },
+                        {
+                            "AuId": 627131071,
+                            "AuN": "massimiliano menzietti"
+                        },
+                        {
+                            "AuId": 2409943285,
+                            "AuN": "tiziana torri"
+                        }
+                    ],
+                    "doi": "10.1007/978-88-470-2342-0_30",
+                    "title": "on longevity risk securitization and solvency capital requirements in life annuities",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2055011231,
+                    "author": [
+                        {
+                            "AuId": 1980511090,
+                            "AuN": "iulian mircea"
+                        },
+                        {
+                            "AuId": 1517220963,
+                            "AuN": "mihaela covrig"
+                        },
+                        {
+                            "AuId": 2488417758,
+                            "AuN": "radu serban"
+                        }
+                    ],
+                    "doi": "10.1016/S2212-5671(14)00455-9",
+                    "title": "some mathematical models for longevity risk in the annuity market and pension funds",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2278308170,
+                    "author": [
+                        {
+                            "AuId": 1980511090,
+                            "AuN": "iulian mircea"
+                        },
+                        {
+                            "AuId": 1517220963,
+                            "AuN": "mihaela covrig"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-23062-2_25",
+                    "title": "on the longevity risk in the annuity market some mathematical models",
+                    "year_mag": 2011
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8"
+            },
+            "journal": "GIORNALE DELL'ISTITUTO ITALIANO DEGLI ATTUARI",
+            "title": "longevity bond pricing models an application to the italian annuity market and pension schemes",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "9788847007031"
+            ],
+            "cv_id": {
+                "pubbs": "9"
+            },
+            "title": "a biometric risk analysis in long term care insurance",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "0515-0361"
+            ],
+            "PId": 2126626855,
+            "cited": [
+                {
+                    "PId": 656455340,
+                    "author": [
+                        {
+                            "AuId": 2564960592,
+                            "AuN": "jean lemaire"
+                        }
+                    ],
+                    "title": "bonus malus systems in automobile insurance",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1976375463,
+                    "author": [
+                        {
+                            "AuId": 2564960592,
+                            "AuN": "jean lemaire"
+                        }
+                    ],
+                    "title": "automobile insurance actuarial models",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2274500638,
+                    "author": [
+                        {
+                            "AuId": 2275099710,
+                            "AuN": "k loimaranta"
+                        }
+                    ],
+                    "doi": "10.1017/S0515036100011028",
+                    "journal": "astin bulletin",
+                    "title": "some asymptotic properties of bonus systems",
+                    "year_mag": 1972
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Lemaire",
+                            "given": "Jean",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-015-7708-3",
+                    "title": "automobile insurance",
+                    "year_oc": 1985
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2568819512,
+                    "author": [
+                        {
+                            "AuId": 2945092651,
+                            "AuN": "yang lu"
+                        }
+                    ],
+                    "doi": "10.1111/JORI.12190",
+                    "journal": "journal of risk and insurance",
+                    "title": "dynamic frailty count process in insurance a unified framework for estimation pricing and forecasting",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 1022007013,
+                    "author": [
+                        {
+                            "AuId": 2693202022,
+                            "AuN": "barbara kryszen"
+                        }
+                    ],
+                    "journal": "journal of risk and insurance",
+                    "title": "oczekiwana skladka ubezpieczeniowa w systemie bonus malus jako niemalej\u0105ca funkcja czesto\u015bci szkod",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1922781370,
+                    "author": [
+                        {
+                            "AuId": 2124499756,
+                            "AuN": "catherine donnelly"
+                        },
+                        {
+                            "AuId": 2016064032,
+                            "AuN": "martin englund"
+                        },
+                        {
+                            "AuId": 2016064032,
+                            "AuN": "martin englund"
+                        },
+                        {
+                            "AuId": 2096442172,
+                            "AuN": "jens perch nielsen"
+                        },
+                        {
+                            "AuId": 318223274,
+                            "AuN": "carsten tanggaard"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2013.01520.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "asymmetric information self selection and pricing of insurance contracts the simple no claims case",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2133999962,
+                    "author": [
+                        {
+                            "AuId": 2564960592,
+                            "AuN": "jean lemaire"
+                        }
+                    ],
+                    "doi": "10.1002/9780470012505.TAB014",
+                    "journal": "journal of risk and insurance",
+                    "title": "bonus malus systems",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2405915967,
+                    "author": [
+                        {
+                            "AuId": 2130707679,
+                            "AuN": "chong it tan"
+                        }
+                    ],
+                    "doi": "10.1017/S1748499515000111",
+                    "journal": "journal of risk and insurance",
+                    "title": "optimal design of a bonus malus system linear relativities revisited",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2146916792,
+                    "author": [
+                        {
+                            "AuId": 2716667369,
+                            "AuN": "paola verico"
+                        }
+                    ],
+                    "doi": "10.2143/AST.32.2.1032",
+                    "journal": "journal of risk and insurance",
+                    "title": "bonus malus systems lack of transparency and adequacy measure",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2113415564,
+                    "author": [
+                        {
+                            "AuId": 2098560776,
+                            "AuN": "antonio heras"
+                        },
+                        {
+                            "AuId": 2969253911,
+                            "AuN": "jose a gil"
+                        },
+                        {
+                            "AuId": 2231128641,
+                            "AuN": "pilar garciapineda"
+                        },
+                        {
+                            "AuId": 2275430657,
+                            "AuN": "jose luis vilar"
+                        }
+                    ],
+                    "doi": "10.1017/S0515036100013775",
+                    "journal": "journal of risk and insurance",
+                    "title": "an application of linear programming to bonus malus system design",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 3120015486,
+                    "author": [
+                        {
+                            "AuId": 3120645157,
+                            "AuN": "dhiti osatakul"
+                        },
+                        {
+                            "AuId": 3118912085,
+                            "AuN": "xueyuan wu"
+                        }
+                    ],
+                    "doi": "10.3390/RISKS9010026",
+                    "journal": "journal of risk and insurance",
+                    "title": "discrete time risk models with claim correlated premiums in a markovian environment",
+                    "year_mag": 2021
+                },
+                {
+                    "PId": 3123444077,
+                    "author": [
+                        {
+                            "AuId": 24980360,
+                            "AuN": "marius dan gavriletea"
+                        },
+                        {
+                            "AuId": 2104325742,
+                            "AuN": "aura carmen moga"
+                        }
+                    ],
+                    "doi": "10.29302/OECONOMICA.2011.13.1.9",
+                    "journal": "journal of risk and insurance",
+                    "title": "romanian compulsory motor third party liability insurance in 2010 and the predictable future",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2243848134,
+                    "author": [
+                        {
+                            "AuId": 2798440960,
+                            "AuN": "francisco jose vazquez polo"
+                        },
+                        {
+                            "AuId": 2052309975,
+                            "AuN": "emilio gomez deniz"
+                        },
+                        {
+                            "AuId": 2136883956,
+                            "AuN": "jose maria perez sanchez"
+                        }
+                    ],
+                    "journal": "journal of risk and insurance",
+                    "title": "sistemas de tarificacion bonus malus en los modelos jerarquicos",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2185172123,
+                    "author": [
+                        {
+                            "AuId": 710884678,
+                            "AuN": "vasco alberto chimene"
+                        }
+                    ],
+                    "journal": "journal of risk and insurance",
+                    "title": "orientadores professora doutora gracinda r guerreiro prof auxiliar fct unl",
+                    "year_mag": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Heras",
+                            "given": "Antonio",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Gil",
+                            "given": "Jos\u00e9 A.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Garc\u00eda-Pineda",
+                            "given": "Pilar",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Vilar",
+                            "given": "Jos\u00e9 L.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2143/AST.34.2.505152",
+                    "title": "an application of linear programming to bonus malus system design",
+                    "year_oc": 2004
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Pennsylvania; Insurance and Risk Management the Wharton School; 3641 Locust Walk, CPC 310 Philadelphia PA 19104-6218"
+                                }
+                            ],
+                            "family": "Lemaire",
+                            "given": "Jean",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1002/9781118445112.STAT04721",
+                    "title": "bonus malus systems",
+                    "year_oc": 2014
+                }
+            ],
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "doi": "10.2143/AST.32.1.1021",
+            "journal": "ASTIN BULLETIN",
+            "title": "the development of an optimal bonus malus system in a competitive market",
+            "type": "articolo in rivista",
+            "year": 2002
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 3111779381,
+            "cited": [
+                {
+                    "PId": 2158444420,
+                    "author": [
+                        {
+                            "AuId": 3027683644,
+                            "AuN": "c d daykin"
+                        },
+                        {
+                            "AuId": 2800499695,
+                            "AuN": "t pentikainen"
+                        },
+                        {
+                            "AuId": 2679921026,
+                            "AuN": "martti pesonen"
+                        }
+                    ],
+                    "title": "practical risk theory for actuaries",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 620465456,
+                    "author": [
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        },
+                        {
+                            "AuId": 174019291,
+                            "AuN": "ermanno pitacco"
+                        }
+                    ],
+                    "title": "actuarial models for disability insurance",
+                    "year_mag": 1998
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2094617510,
+                    "author": [
+                        {
+                            "AuId": 2202417065,
+                            "AuN": "susanna levantesi"
+                        },
+                        {
+                            "AuId": 627131071,
+                            "AuN": "massimiliano menzietti"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2012.01.004",
+                    "journal": "insurance mathematics & economics",
+                    "title": "managing longevity and disability risks in life annuities with long term care",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2015163553,
+                    "author": [
+                        {
+                            "AuId": 1991152997,
+                            "AuN": "gudrun hoermann"
+                        },
+                        {
+                            "AuId": 2116678603,
+                            "AuN": "jochen rus"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2008.04.001",
+                    "journal": "insurance mathematics & economics",
+                    "title": "enhanced annuities and the impact of individual underwriting on an insurer s profit situation",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 3124750790,
+                    "author": [
+                        {
+                            "AuId": 56880437,
+                            "AuN": "philippe de donder"
+                        },
+                        {
+                            "AuId": 2132887300,
+                            "AuN": "marielouise leroux"
+                        }
+                    ],
+                    "journal": "insurance mathematics & economics",
+                    "title": "behavioral biases and long term care annuities a political economy approach",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 3121924650,
+                    "author": [
+                        {
+                            "AuId": 56880437,
+                            "AuN": "philippe de donder"
+                        },
+                        {
+                            "AuId": 2132887300,
+                            "AuN": "marielouise leroux"
+                        }
+                    ],
+                    "doi": "10.1515/BEJEAP-2012-0074",
+                    "journal": "insurance mathematics & economics",
+                    "title": "behavioral biases and long term care insurance a political economy approach",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 106214906,
+                    "author": [
+                        {
+                            "AuId": 2202417065,
+                            "AuN": "susanna levantesi"
+                        },
+                        {
+                            "AuId": 627131071,
+                            "AuN": "massimiliano menzietti"
+                        }
+                    ],
+                    "doi": "10.1007/978-88-470-1481-7_18",
+                    "journal": "insurance mathematics & economics",
+                    "title": "managing demographic risk in enhanced pensions",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2187393075,
+                    "author": [
+                        {
+                            "AuId": 2251434646,
+                            "AuN": "arnold f shapiro"
+                        }
+                    ],
+                    "journal": "insurance mathematics & economics",
+                    "title": "post retirement financial strategies from the perspective of an individual who is approaching retirement age",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2145518172,
+                    "author": [
+                        {
+                            "AuId": 627131071,
+                            "AuN": "massimiliano menzietti"
+                        }
+                    ],
+                    "journal": "insurance mathematics & economics",
+                    "title": "longevity risk and reinsurance strategies for enhanced pensions",
+                    "year_mag": 2008
+                }
+            ],
+            "title": "longevity and disability risk analysis in enhanced life annuities",
+            "type": "0",
+            "year_mag": 2007
+        },
+        {
+            "PId": 2613409434,
+            "cited": [
+                {
+                    "PId": 2120297822,
+                    "author": [
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2006.00195.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "a two factor model for stochastic mortality with parameter uncertainty theory and calibration",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2019191223,
+                    "author": [
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        },
+                        {
+                            "AuId": 2949710790,
+                            "AuN": "guy coughlan"
+                        },
+                        {
+                            "AuId": 2585937097,
+                            "AuN": "david epstein"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1340389",
+                    "title": "a quantitative comparison of stochastic mortality models using data from england wales and the united states",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1781698703,
+                    "author": [
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.1017/S0515036100014410",
+                    "journal": "astin bulletin",
+                    "title": "pricing death frameworks for the valuation and securitization of mortality risk",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2131560241,
+                    "author": [
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.1017/S1357321700004736",
+                    "journal": "british actuarial journal",
+                    "title": "living with mortality longevity bonds and other mortality linked securities",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2042077767,
+                    "author": [
+                        {
+                            "AuId": 2107247329,
+                            "AuN": "yijia lin"
+                        },
+                        {
+                            "AuId": 2112720925,
+                            "AuN": "samuel h cox"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2005.00122.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "securitization of mortality risks in life annuities",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2035003768,
+                    "author": [
+                        {
+                            "AuId": 2230429223,
+                            "AuN": "mikkel dahl"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2004.05.003",
+                    "journal": "insurance mathematics & economics",
+                    "title": "stochastic mortality in life insurance market reserves and mortality linked insurance contracts",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 57879723,
+                    "author": [
+                        {
+                            "AuId": 2100227766,
+                            "AuN": "michel denuit"
+                        },
+                        {
+                            "AuId": 174019291,
+                            "AuN": "ermanno pitacco"
+                        },
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        },
+                        {
+                            "AuId": 2146671511,
+                            "AuN": "annamaria olivieri"
+                        }
+                    ],
+                    "title": "modelling longevity dynamics for pensions and annuity business",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1539798016,
+                    "author": [
+                        {
+                            "AuId": 2256305695,
+                            "AuN": "fsa johnny siuhang li"
+                        },
+                        {
+                            "AuId": 2276691489,
+                            "AuN": "mary r hardy phd fia fsa cera"
+                        }
+                    ],
+                    "doi": "10.1080/10920277.2011.10597616",
+                    "journal": "the north american actuarial journal",
+                    "title": "measuring basis risk in longevity hedges",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2076700243,
+                    "author": [
+                        {
+                            "AuId": 2120373896,
+                            "AuN": "shaun wang"
+                        }
+                    ],
+                    "doi": "10.2143/AST.32.2.1027",
+                    "journal": "astin bulletin",
+                    "title": "a universal framework for pricing financial and insurance risks",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2172272462,
+                    "author": [
+                        {
+                            "AuId": 2253614813,
+                            "AuN": "daniel bauer"
+                        },
+                        {
+                            "AuId": 2168663452,
+                            "AuN": "matthias borger"
+                        },
+                        {
+                            "AuId": 2116678603,
+                            "AuN": "jochen rus"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2009.06.005",
+                    "journal": "insurance mathematics & economics",
+                    "title": "on the pricing of longevity linked securities",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2024822660,
+                    "author": [
+                        {
+                            "AuId": 2580569850,
+                            "AuN": "matthias borger"
+                        }
+                    ],
+                    "doi": "10.1007/S11857-010-0125-Z",
+                    "title": "deterministic shock vs stochastic value at risk an analysis of the solvency ii standard model approach to longevity risk",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2117842649,
+                    "author": [
+                        {
+                            "AuId": 102033585,
+                            "AuN": "enrico biffis"
+                        },
+                        {
+                            "AuId": 2100227766,
+                            "AuN": "michel denuit"
+                        },
+                        {
+                            "AuId": 2062647442,
+                            "AuN": "pierre devolder"
+                        }
+                    ],
+                    "doi": "10.1080/03461230903331634",
+                    "journal": "scandinavian actuarial journal",
+                    "title": "stochastic mortality under measure changes",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2138407064,
+                    "author": [
+                        {
+                            "AuId": 2227265576,
+                            "AuN": "moshe a milevsky"
+                        },
+                        {
+                            "AuId": 2655804349,
+                            "AuN": "s d promislow"
+                        },
+                        {
+                            "AuId": 2125601459,
+                            "AuN": "virginia r young"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2006.00194.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "killing the law of large numbers mortality risk premiums and the sharpe ratio",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2124375190,
+                    "author": [
+                        {
+                            "AuId": 3028904225,
+                            "AuN": "stephen j richards"
+                        },
+                        {
+                            "AuId": 1969626576,
+                            "AuN": "iain david currie"
+                        },
+                        {
+                            "AuId": 2928598763,
+                            "AuN": "gavin p ritchie"
+                        }
+                    ],
+                    "doi": "10.1017/S1357321712000451",
+                    "journal": "british actuarial journal",
+                    "title": "a value at risk framework for longevity trend risk",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2054370426,
+                    "author": [
+                        {
+                            "AuId": 1249592157,
+                            "AuN": "ramona meyricke"
+                        },
+                        {
+                            "AuId": 1249592157,
+                            "AuN": "ramona meyricke"
+                        },
+                        {
+                            "AuId": 2160055057,
+                            "AuN": "michael sherris"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2331660",
+                    "title": "longevity risk cost of capital and hedging for life insurers under solvency ii",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2117764520,
+                    "author": [
+                        {
+                            "AuId": 2162463770,
+                            "AuN": "marcus c christiansen"
+                        },
+                        {
+                            "AuId": 1968361744,
+                            "AuN": "andreas niemeyer"
+                        }
+                    ],
+                    "doi": "10.1017/ASB.2014.10",
+                    "journal": "astin bulletin",
+                    "title": "fundamental definition of the solvency capital requirement in solvency ii",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2143979304,
+                    "author": [
+                        {
+                            "AuId": 2158445631,
+                            "AuN": "johnny siuhang li"
+                        },
+                        {
+                            "AuId": 2140935294,
+                            "AuN": "andrew c y ng"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2010.01394.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "canonical valuation of mortality linked securities",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 3023030195,
+                    "author": [
+                        {
+                            "AuId": 102033585,
+                            "AuN": "enrico biffis"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 209760534,
+                            "AuN": "lorenzo pitotti"
+                        },
+                        {
+                            "AuId": 2661673819,
+                            "AuN": "ariel sun"
+                        }
+                    ],
+                    "doi": "10.1111/JORI.12055",
+                    "journal": "journal of risk and insurance",
+                    "title": "the cost of counterparty risk and collateralization in longevity swaps",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 1968026628,
+                    "author": [
+                        {
+                            "AuId": 2034235290,
+                            "AuN": "martin eling"
+                        },
+                        {
+                            "AuId": 131653241,
+                            "AuN": "nadine gatzert"
+                        },
+                        {
+                            "AuId": 2016576980,
+                            "AuN": "hato schmeiser"
+                        }
+                    ],
+                    "doi": "10.1057/GPP.2008.20",
+                    "journal": "geneva papers on risk and insurance issues and practice",
+                    "title": "the swiss solvency test and its market implications",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2140523490,
+                    "author": [
+                        {
+                            "AuId": 2585867378,
+                            "AuN": "rui zhou"
+                        },
+                        {
+                            "AuId": 2158445631,
+                            "AuN": "johnny siuhang li"
+                        }
+                    ],
+                    "doi": "10.1080/03461238.2010.507582",
+                    "journal": "scandinavian actuarial journal",
+                    "title": "a cautionary note on pricing longevity index swaps",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 45556022,
+                    "author": [
+                        {
+                            "AuId": 2524507142,
+                            "AuN": "jiajia cui"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.972038",
+                    "title": "longevity risk pricing",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2161262859,
+                    "author": [
+                        {
+                            "AuId": 2065235722,
+                            "AuN": "pauline barrieu"
+                        },
+                        {
+                            "AuId": 1775372113,
+                            "AuN": "henri louberge"
+                        },
+                        {
+                            "AuId": 1775372113,
+                            "AuN": "henri louberge"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1965398",
+                    "title": "reinsurance and securitisation of life insurance risk the impact of regulatory constraints",
+                    "year_mag": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Barrieu",
+                            "given": "Pauline",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Louberg\u00e9",
+                            "given": "Henri",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2012.11.008",
+                    "title": "reinsurance and securitisation of life insurance risk the impact of regulatory constraints",
+                    "year_oc": 2013
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Meyricke",
+                            "given": "Ramona",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Sherris",
+                            "given": "Michael",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2014.01.010",
+                    "title": "longevity risk cost of capital and hedging for life insurers under solvency ii",
+                    "year_oc": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Cairns",
+                            "given": "Andrew J. G.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Blake",
+                            "given": "David",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Dowd",
+                            "given": "Kevin",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Coughlan",
+                            "given": "Guy D.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Epstein",
+                            "given": "David",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Ong",
+                            "given": "Alen",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Balevich",
+                            "given": "Igor",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1080/10920277.2009.10597538",
+                    "title": "a quantitative comparison of stochastic mortality models using data from england and wales and the united states",
+                    "year_oc": 2009
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2981713080,
+                    "author": [
+                        {
+                            "AuId": 2202417065,
+                            "AuN": "susanna levantesi"
+                        },
+                        {
+                            "AuId": 2790351198,
+                            "AuN": "andrea nigri"
+                        }
+                    ],
+                    "doi": "10.1007/S00500-019-04427-Z",
+                    "title": "a random forest algorithm to improve the lee carter mortality forecasting impact on q forward",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2996711368,
+                    "author": [
+                        {
+                            "AuId": 2100614228,
+                            "AuN": "yanxin liu"
+                        },
+                        {
+                            "AuId": 2158445631,
+                            "AuN": "johnny siuhang li"
+                        }
+                    ],
+                    "doi": "10.1080/10920277.2019.1658607",
+                    "title": "an efficient method for mitigating longevity value at risk",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2936010117,
+                    "author": [
+                        {
+                            "AuId": 2939776897,
+                            "AuN": "fadoua zeddouk"
+                        },
+                        {
+                            "AuId": 2062647442,
+                            "AuN": "pierre devolder"
+                        }
+                    ],
+                    "doi": "10.3390/RISKS7020041",
+                    "title": "pricing of longevity derivatives and cost of capital",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3095133382,
+                    "author": [
+                        {
+                            "AuId": 2566410321,
+                            "AuN": "jorge miguel bravo"
+                        },
+                        {
+                            "AuId": 2119030066,
+                            "AuN": "joao pedro vidal nunes"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2020.10.008",
+                    "title": "pricing longevity derivatives via fourier transforms",
+                    "year_mag": 2021
+                },
+                {
+                    "PId": 3101379376,
+                    "author": [
+                        {
+                            "AuId": 2939776897,
+                            "AuN": "fadoua zeddouk"
+                        },
+                        {
+                            "AuId": 2062647442,
+                            "AuN": "pierre devolder"
+                        }
+                    ],
+                    "doi": "10.3390/RISKS8040121",
+                    "title": "longevity modelling and pricing under a dependent multi cohort framework",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3110407183,
+                    "author": [
+                        {
+                            "AuId": 3109042281,
+                            "AuN": "alice tang"
+                        },
+                        {
+                            "AuId": 2557363692,
+                            "AuN": "jackie li"
+                        }
+                    ],
+                    "doi": "10.1080/03461238.2020.1852105",
+                    "title": "market pricing of longevity linked securities",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3009624267,
+                    "author": [
+                        {
+                            "AuId": 3009649060,
+                            "AuN": "a j pelkiewicz"
+                        },
+                        {
+                            "AuId": 3009873544,
+                            "AuN": "s w ahmed"
+                        },
+                        {
+                            "AuId": 3009395595,
+                            "AuN": "p fulcher"
+                        },
+                        {
+                            "AuId": 3009053276,
+                            "AuN": "k l johnson"
+                        },
+                        {
+                            "AuId": 3010208780,
+                            "AuN": "s m reynolds"
+                        },
+                        {
+                            "AuId": 3009392872,
+                            "AuN": "r j schneider"
+                        },
+                        {
+                            "AuId": 3010452077,
+                            "AuN": "a j scott"
+                        }
+                    ],
+                    "doi": "10.1017/S135732172000001X",
+                    "title": "a review of the risk margin solvency ii and beyond",
+                    "year_mag": 2020
+                }
+            ],
+            "doi": "10.3390/RISKS5020029",
+            "title": "maximum market price of longevity risk under solvency regimes the case of solvency ii",
+            "type": "8",
+            "year_mag": 2017
+        },
+        {
+            "PId": 1981014573,
+            "cited": [
+                {
+                    "PId": 2121671360,
+                    "author": [
+                        {
+                            "AuId": 2670881178,
+                            "AuN": "justus eisfeld"
+                        }
+                    ],
+                    "doi": "10.1215/23289252-2399740",
+                    "title": "international statistical classification of diseases and related health problems",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 620465456,
+                    "author": [
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        },
+                        {
+                            "AuId": 174019291,
+                            "AuN": "ermanno pitacco"
+                        }
+                    ],
+                    "title": "actuarial models for disability insurance",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1254831770,
+                    "author": [
+                        {
+                            "AuId": 2079957925,
+                            "AuN": "ralf korn"
+                        },
+                        {
+                            "AuId": 2305058145,
+                            "AuN": "elke korn"
+                        },
+                        {
+                            "AuId": 1462205534,
+                            "AuN": "gerald kroisandt"
+                        }
+                    ],
+                    "title": "monte carlo methods and models in finance and insurance",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2000114767,
+                    "author": [
+                        {
+                            "AuId": 2162463770,
+                            "AuN": "marcus c christiansen"
+                        }
+                    ],
+                    "doi": "10.1007/S10182-012-0189-2",
+                    "journal": "asta advances in statistical analysis",
+                    "title": "multistate models in health insurance",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2184511939,
+                    "author": [
+                        {
+                            "AuId": 2186009882,
+                            "AuN": "w h wetterstrand"
+                        }
+                    ],
+                    "title": "parametric models for life insurance mortality data gompertz s law over time",
+                    "year_mag": 1981
+                },
+                {
+                    "PId": 2010639994,
+                    "author": [
+                        {
+                            "AuId": 174019291,
+                            "AuN": "ermanno pitacco"
+                        }
+                    ],
+                    "doi": "10.1016/0167-6687(94)00030-I",
+                    "journal": "insurance mathematics & economics",
+                    "title": "actuarial models for pricing disability benefits towards a unifying approach",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2066367716,
+                    "author": [
+                        {
+                            "AuId": 189379448,
+                            "AuN": "claudia czado"
+                        },
+                        {
+                            "AuId": 2714269123,
+                            "AuN": "florian rudolph"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(02)00186-5",
+                    "journal": "insurance mathematics & economics",
+                    "title": "application of survival analysis methods to long term care insurance",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2109064709,
+                    "author": [
+                        {
+                            "AuId": 2624990111,
+                            "AuN": "florian helms"
+                        },
+                        {
+                            "AuId": 189379448,
+                            "AuN": "claudia czado"
+                        },
+                        {
+                            "AuId": 451238404,
+                            "AuN": "susanne gschlosl"
+                        }
+                    ],
+                    "doi": "10.1017/S0515036100014331",
+                    "journal": "astin bulletin",
+                    "title": "calculation of ltc premiums based on direct estimates of transition probabilities",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2159632464,
+                    "author": [
+                        {
+                            "AuId": 174019291,
+                            "AuN": "ermanno pitacco"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1992319",
+                    "title": "mortality of disabled people",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 3026757097,
+                    "author": [
+                        {
+                            "AuId": 2521996767,
+                            "AuN": "i t istituto superiore di sanit"
+                        },
+                        {
+                            "AuId": 3026822723,
+                            "AuN": "sergio acquaviva"
+                        },
+                        {
+                            "AuId": 3032276764,
+                            "AuN": "maria grazia alario"
+                        },
+                        {
+                            "AuId": 3028505863,
+                            "AuN": "roberta aloi"
+                        },
+                        {
+                            "AuId": 3027764300,
+                            "AuN": "roberta andrioli stagno"
+                        },
+                        {
+                            "AuId": 3028684580,
+                            "AuN": "valeria antenucci"
+                        },
+                        {
+                            "AuId": 3030229282,
+                            "AuN": "claudio apicella"
+                        },
+                        {
+                            "AuId": 2165973988,
+                            "AuN": "susanna conti"
+                        },
+                        {
+                            "AuId": 1104201747,
+                            "AuN": "maria masocco"
+                        },
+                        {
+                            "AuId": 1976757685,
+                            "AuN": "monica vichi"
+                        }
+                    ],
+                    "title": "cause di morte",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2320263151,
+                    "author": [
+                        {
+                            "AuId": 2628987306,
+                            "AuN": "a c dash"
+                        },
+                        {
+                            "AuId": 2583285629,
+                            "AuN": "d l grimshaw"
+                        }
+                    ],
+                    "doi": "10.1017/S2049929900010564",
+                    "journal": "journal of the staple inn actuarial society",
+                    "title": "dread disease cover an actuarial perspective",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1966253553,
+                    "author": [
+                        {
+                            "AuId": 2580362034,
+                            "AuN": "jan m hoem"
+                        }
+                    ],
+                    "doi": "10.1007/BF02810082",
+                    "title": "markov chain models in life insurance",
+                    "year_mag": 1969
+                },
+                {
+                    "PId": 2111845496,
+                    "author": [
+                        {
+                            "AuId": 2718003889,
+                            "AuN": "bruce l jones"
+                        }
+                    ],
+                    "title": "actuarial calculations using a markov model",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1982297521,
+                    "author": [
+                        {
+                            "AuId": 2635354641,
+                            "AuN": "isabel maria ferraz cordeiro"
+                        }
+                    ],
+                    "doi": "10.2143/AST.32.2.1033",
+                    "journal": "astin bulletin",
+                    "title": "transition intensities for a model for permanent health insurance",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2323194648,
+                    "author": [
+                        {
+                            "AuId": 2334202062,
+                            "AuN": "h r waters"
+                        }
+                    ],
+                    "doi": "10.1017/S0020268100036726",
+                    "journal": "journal of the institute of actuaries",
+                    "title": "some aspects of the modelling of permanent health insurance",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2145905795,
+                    "author": [
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        }
+                    ],
+                    "doi": "10.1017/S0020268100041391",
+                    "journal": "journal of the institute of actuaries",
+                    "title": "decrement tables and the measurement of morbidity ii",
+                    "year_mag": 1983
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 3060661093,
+                    "author": [
+                        {
+                            "AuId": 2083524310,
+                            "AuN": "luca anzilli"
+                        },
+                        {
+                            "AuId": 1234920506,
+                            "AuN": "silvio giove"
+                        }
+                    ],
+                    "doi": "10.1007/S10203-020-00302-X",
+                    "title": "multi criteria and medical diagnosis for application to health insurance systems a general approach through non additive measures",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2795235678,
+                    "author": [
+                        {
+                            "AuId": 2192081033,
+                            "AuN": "fabio baione"
+                        },
+                        {
+                            "AuId": 2202417065,
+                            "AuN": "susanna levantesi"
+                        }
+                    ],
+                    "doi": "10.1080/10920277.2017.1397524",
+                    "title": "pricing critical illness insurance from prevalence rates gompertz versus weibull",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2788937905,
+                    "author": [
+                        {
+                            "AuId": 2087896892,
+                            "AuN": "valeria damato"
+                        },
+                        {
+                            "AuId": 1989916962,
+                            "AuN": "emilia di lorenzo"
+                        },
+                        {
+                            "AuId": 26132088,
+                            "AuN": "marilena sibillo"
+                        }
+                    ],
+                    "doi": "10.3390/RISKS6010013",
+                    "title": "dread disease and cause specific mortality exploring new forms of insured loans",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 3094940392,
+                    "author": [
+                        {
+                            "AuId": 3094869970,
+                            "AuN": "hugo e m fernandes"
+                        },
+                        {
+                            "AuId": 2132196440,
+                            "AuN": "fernando ferreira"
+                        },
+                        {
+                            "AuId": 2132196440,
+                            "AuN": "fernando ferreira"
+                        }
+                    ],
+                    "doi": "10.1111/ITOR.12895",
+                    "title": "health insurance risk assessment using cognitive mapping and multiple criteria decision analysis",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2758892050,
+                    "author": [
+                        {
+                            "AuId": 2106901749,
+                            "AuN": "minghua hsieh"
+                        },
+                        {
+                            "AuId": 2428052781,
+                            "AuN": "jennifer l wang"
+                        },
+                        {
+                            "AuId": 2631606878,
+                            "AuN": "yufen chiu"
+                        },
+                        {
+                            "AuId": 2610585540,
+                            "AuN": "yenchih chen"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2017.09.017",
+                    "title": "valuation of variable long term care annuities with guaranteed lifetime withdrawal benefits a variance reduction approach",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2983028309,
+                    "author": [
+                        {
+                            "AuId": 2988966856,
+                            "AuN": "k alim"
+                        },
+                        {
+                            "AuId": 2984970239,
+                            "AuN": "a listiani"
+                        },
+                        {
+                            "AuId": 2988324103,
+                            "AuN": "a s anggraeni"
+                        },
+                        {
+                            "AuId": 2983656370,
+                            "AuN": "a r effendie"
+                        }
+                    ],
+                    "doi": "10.1088/1742-6596/1341/6/062026",
+                    "title": "critical illness insurance pricing with stochastic interest rates model",
+                    "year_mag": 2019
+                }
+            ],
+            "doi": "10.1016/J.INSMATHECO.2014.07.005",
+            "journal": "insurance mathematics & economics",
+            "title": "a health insurance pricing model based on prevalence rates application to critical illness insurance",
+            "type": "1",
+            "year_mag": 2014
+        },
+        {
+            "PId": 2565954843,
+            "cited": [
+                {
+                    "PId": 2117897510,
+                    "author": [
+                        {
+                            "AuId": 426874850,
+                            "AuN": "bradley efron"
+                        }
+                    ],
+                    "doi": "10.1214/AOS/1176344552",
+                    "journal": "annals of statistics",
+                    "title": "bootstrap methods another look at the jackknife",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 2101518413,
+                    "author": [
+                        {
+                            "AuId": 300730785,
+                            "AuN": "natacha brouhns"
+                        },
+                        {
+                            "AuId": 2100227766,
+                            "AuN": "michel denuit"
+                        },
+                        {
+                            "AuId": 2126209104,
+                            "AuN": "jeroen k vermunt"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(02)00185-3",
+                    "journal": "insurance mathematics & economics",
+                    "title": "a poisson log bilinear regression approach to the construction of projected lifetables",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1781698703,
+                    "author": [
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.1017/S0515036100014410",
+                    "journal": "astin bulletin",
+                    "title": "pricing death frameworks for the valuation and securitization of mortality risk",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2131560241,
+                    "author": [
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.1017/S1357321700004736",
+                    "journal": "british actuarial journal",
+                    "title": "living with mortality longevity bonds and other mortality linked securities",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2042077767,
+                    "author": [
+                        {
+                            "AuId": 2107247329,
+                            "AuN": "yijia lin"
+                        },
+                        {
+                            "AuId": 2112720925,
+                            "AuN": "samuel h cox"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2005.00122.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "securitization of mortality risks in life annuities",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2035003768,
+                    "author": [
+                        {
+                            "AuId": 2230429223,
+                            "AuN": "mikkel dahl"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2004.05.003",
+                    "journal": "insurance mathematics & economics",
+                    "title": "stochastic mortality in life insurance market reserves and mortality linked insurance contracts",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2078156931,
+                    "author": [
+                        {
+                            "AuId": 102033585,
+                            "AuN": "enrico biffis"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.647421",
+                    "title": "affine processes for dynamic mortality and actuarial valuations",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1821957428,
+                    "author": [
+                        {
+                            "AuId": 2227265576,
+                            "AuN": "moshe a milevsky"
+                        },
+                        {
+                            "AuId": 1994543128,
+                            "AuN": "david promislow"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.289551",
+                    "title": "mortality derivatives and the option to annuitize",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2012894282,
+                    "author": [
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        },
+                        {
+                            "AuId": 2314611761,
+                            "AuN": "richard d macminn"
+                        },
+                        {
+                            "AuId": 2314611761,
+                            "AuN": "richard d macminn"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2006.00193.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "longevity bonds financial engineering valuation and hedging",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2076700243,
+                    "author": [
+                        {
+                            "AuId": 2120373896,
+                            "AuN": "shaun wang"
+                        }
+                    ],
+                    "doi": "10.2143/AST.32.2.1027",
+                    "journal": "astin bulletin",
+                    "title": "a universal framework for pricing financial and insurance risks",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2025917720,
+                    "author": [
+                        {
+                            "AuId": 2150000604,
+                            "AuN": "marieclaire koissi"
+                        },
+                        {
+                            "AuId": 2119313796,
+                            "AuN": "arnold f shapiro"
+                        },
+                        {
+                            "AuId": 1828138184,
+                            "AuN": "goran hognas"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2005.06.008",
+                    "journal": "insurance mathematics & economics",
+                    "title": "evaluating and extending the lee carter model for mortality forecasting bootstrap confidence interval",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2094711838,
+                    "author": [
+                        {
+                            "AuId": 2100227766,
+                            "AuN": "michel denuit"
+                        },
+                        {
+                            "AuId": 2062647442,
+                            "AuN": "pierre devolder"
+                        },
+                        {
+                            "AuId": 2233496534,
+                            "AuN": "annececile goderniaux"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2007.00203.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "securitization of longevity risk pricing survivor bonds with wang transform in the lee carter framework",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2145018219,
+                    "author": [
+                        {
+                            "AuId": 2924651414,
+                            "AuN": "r j dobson"
+                        }
+                    ],
+                    "doi": "10.1016/S0020-7519(98)00182-9",
+                    "journal": "international journal for parasitology",
+                    "title": "modelling and forecasting",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2117842649,
+                    "author": [
+                        {
+                            "AuId": 102033585,
+                            "AuN": "enrico biffis"
+                        },
+                        {
+                            "AuId": 2100227766,
+                            "AuN": "michel denuit"
+                        },
+                        {
+                            "AuId": 2062647442,
+                            "AuN": "pierre devolder"
+                        }
+                    ],
+                    "doi": "10.1080/03461230903331634",
+                    "journal": "scandinavian actuarial journal",
+                    "title": "stochastic mortality under measure changes",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2050486772,
+                    "author": [
+                        {
+                            "AuId": 2430619245,
+                            "AuN": "leo a goodman"
+                        }
+                    ],
+                    "doi": "10.1080/01621459.1979.10481650",
+                    "journal": "journal of the american statistical association",
+                    "title": "simple models for the analysis of association in cross classifications having ordered categories",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 1987563380,
+                    "author": [
+                        {
+                            "AuId": 2112720925,
+                            "AuN": "samuel h cox"
+                        },
+                        {
+                            "AuId": 2107247329,
+                            "AuN": "yijia lin"
+                        },
+                        {
+                            "AuId": 2120373896,
+                            "AuN": "shaun wang"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2006.00196.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "multivariate exponential tilting and pricing implications for mortality securitization",
+                    "year_mag": 2006
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2055011231,
+                    "author": [
+                        {
+                            "AuId": 1980511090,
+                            "AuN": "iulian mircea"
+                        },
+                        {
+                            "AuId": 1517220963,
+                            "AuN": "mihaela covrig"
+                        },
+                        {
+                            "AuId": 2488417758,
+                            "AuN": "radu serban"
+                        }
+                    ],
+                    "doi": "10.1016/S2212-5671(14)00455-9",
+                    "journal": "procedia economics and finance",
+                    "title": "some mathematical models for longevity risk in the annuity market and pension funds",
+                    "year_mag": 2014
+                }
+            ],
+            "title": "longevity bonds an application to the italian annuity market",
+            "type": "0",
+            "year_mag": 2008
+        },
+        {
+            "PId": 110177326,
+            "cited": [
+                {
+                    "PId": 2158444420,
+                    "author": [
+                        {
+                            "AuId": 3027683644,
+                            "AuN": "c d daykin"
+                        },
+                        {
+                            "AuId": 2800499695,
+                            "AuN": "t pentikainen"
+                        },
+                        {
+                            "AuId": 2679921026,
+                            "AuN": "martti pesonen"
+                        }
+                    ],
+                    "title": "practical risk theory for actuaries",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 620465456,
+                    "author": [
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        },
+                        {
+                            "AuId": 174019291,
+                            "AuN": "ermanno pitacco"
+                        }
+                    ],
+                    "title": "actuarial models for disability insurance",
+                    "year_mag": 1998
+                }
+            ],
+            "doi": "10.1007/978-88-470-0704-8_19",
+            "title": "a biometric risks analysis in long term care insurance",
+            "type": "0",
+            "year_mag": 2008
+        },
+        {
+            "PId": 2592705677,
+            "citing": [
+                {
+                    "PId": 2777755390,
+                    "author": [
+                        {
+                            "AuId": 2726909307,
+                            "AuN": "remo siza"
+                        }
+                    ],
+                    "doi": "10.1108/IJSSP-02-2017-0011",
+                    "journal": "international journal of sociology and social policy",
+                    "title": "narrowing the gap the middle class and the modernization of welfare in italy",
+                    "year_mag": 2017
+                }
+            ],
+            "title": "assicurazioni sulla salute caratteristiche modelli attuariali e basi tecniche",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2774231750,
+            "title": "assicurazioni long term care con garanzia dread disease",
+            "type": "0",
+            "year_mag": 2005
+        },
+        {
+            "PId": 2771541831,
+            "title": "alcune considerazioni sulle basi tecniche delle assicurazioni dread disease",
+            "type": "0",
+            "year_mag": 2005
+        },
+        {
+            "PId": 2805476648,
+            "title": "longevity risk hedging and basis risk",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2480073812,
+            "title": "measuring and hedging the basis risk by functional data models",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2772722363,
+            "title": "setting the hedge of longevity risk for annuity providers through securitization",
+            "type": "0",
+            "year_mag": 2009
+        },
+        {
+            "PId": 2776114247,
+            "title": "misure di rischio e requisiti di solvibilita nelle assicurazioni long term care",
+            "type": "0",
+            "year_mag": 2008
+        },
+        {
+            "PId": 2595036177,
+            "title": "an actuarial model for pricing long term care insurance with dread disease acceleration benefit",
+            "type": "0",
+            "year_mag": 2006
+        },
+        {
+            "PId": 2780390725,
+            "title": "pricing basic survivor swaps",
+            "type": "0",
+            "year_mag": 2011
+        },
+        {
+            "PId": 2779168743,
+            "title": "alcune considerazioni sull efficienza dei sistemi bonus malus",
+            "type": "0",
+            "year_mag": 2002
+        },
+        {
+            "PId": 2773189977,
+            "title": "la copertura del rischio di non autosufficienza nei fondi pensione",
+            "type": "0",
+            "year_mag": 2008
+        }
+    ]
+}

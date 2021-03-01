@@ -1,0 +1,3070 @@
+{
+    "AuIds": [
+        2904283635,
+        103917876
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "2126898314_+_1494066873": 1,
+                "2126898314_+_156312967": 3,
+                "2126898314_+_183206795": 1,
+                "2126898314_+_1966642720": 1,
+                "2126898314_+_2001375544": 1,
+                "2126898314_+_2019273563": 1,
+                "2126898314_+_2066713182": 1,
+                "2126898314_+_2086311013": 1,
+                "2126898314_+_2094984892": 3,
+                "2126898314_+_2176195928": 1,
+                "2126898314_+_2253601964": 1,
+                "2126898314_+_2257525981": 1,
+                "2126898314_+_2258560955": 1,
+                "2126898314_+_2276873348": 1,
+                "2126898314_+_2278516230": 1,
+                "2126898314_+_2282328272": 1,
+                "2126898314_+_2290254675": 1,
+                "2126898314_+_2291968027": 2,
+                "2126898314_+_2475682753": 1,
+                "2126898314_+_2479955798": 1,
+                "2126898314_+_2544519117": 1,
+                "2126898314_+_2551148636": 1,
+                "2126898314_+_2554963115": 1,
+                "2126898314_+_2758067731": 2,
+                "2126898314_+_2759829117": 1,
+                "2126898314_+_2820667220": 1,
+                "2126898314_+_2898870004": 1,
+                "2126898314_+_2913349754": 1,
+                "2126898314_+_2914931504": 1,
+                "2126898314_+_396842771": 1,
+                "2549277587_+_10.1002/9781118358733.wbsyncom038": 1,
+                "2549277587_+_10.1007/s10936-010-9160-0": 1,
+                "2549277587_+_10.1007/s10936-018-9575-6": 1,
+                "2549277587_+_10.3389/fpsyg.2018.01971": 1,
+                "2549277587_+_2019273563": 1,
+                "2549277587_+_2094984892": 1,
+                "2549277587_+_2271447392": 1,
+                "2549277587_+_2282328272": 3,
+                "2549277587_+_2758067731": 1,
+                "2549277587_+_2898870004": 3,
+                "2549277587_+_2904961427": 1,
+                "2549277587_+_395142559": 1,
+                "2552006490_+_1149299564": 1,
+                "2552006490_+_183952579": 1,
+                "2552006490_+_2008514911": 1,
+                "2552006490_+_2019273563": 1,
+                "2552006490_+_203902812": 1,
+                "2552006490_+_2086311013": 1,
+                "2552006490_+_2173426087": 1,
+                "2552006490_+_2282328272": 2,
+                "2552006490_+_2544519117": 1,
+                "2552006490_+_2551148636": 1,
+                "2552006490_+_2554963115": 2,
+                "2552006490_+_2797827555": 1,
+                "2552006490_+_2898870004": 1,
+                "2552006490_+_2904961427": 2,
+                "2552006490_+_2913349754": 1,
+                "2552006490_+_2914931504": 1,
+                "2552006490_+_396842771": 4,
+                "2849915202_+_2019273563": 1,
+                "2849915202_+_2544519117": 1
+            },
+            "number": 23
+        },
+        "cand_nodes": 34,
+        "cand_paths": {
+            "1": [
+                [
+                    "2126898314",
+                    "2207778397"
+                ],
+                [
+                    "2552006490",
+                    "1005282986"
+                ]
+            ],
+            "2": [
+                [
+                    "2126898314",
+                    "369185417"
+                ],
+                [
+                    "2126898314",
+                    "2478422484"
+                ],
+                [
+                    "2126898314",
+                    "2130370251"
+                ],
+                [
+                    "2126898314",
+                    "2039405732"
+                ],
+                [
+                    "2552006490",
+                    "386708446"
+                ],
+                [
+                    "2552006490",
+                    "2207778397"
+                ],
+                [
+                    "2552006490",
+                    "2257427853"
+                ],
+                [
+                    "2552006490",
+                    "2257525981"
+                ],
+                [
+                    "2552006490",
+                    "2255884971"
+                ],
+                [
+                    "2552006490",
+                    "369185417"
+                ],
+                [
+                    "2552006490",
+                    "2151386710"
+                ],
+                [
+                    "2552006490",
+                    "2574845921"
+                ],
+                [
+                    "2552006490",
+                    "1565604283"
+                ],
+                [
+                    "2552006490",
+                    "572870755"
+                ],
+                [
+                    "2849915202",
+                    "2207778397"
+                ],
+                [
+                    "2549277587",
+                    "2207778397"
+                ],
+                [
+                    "2549277587",
+                    "369185417"
+                ],
+                [
+                    "2549277587",
+                    "75249453"
+                ],
+                [
+                    "2549277587",
+                    "2574845921"
+                ],
+                [
+                    "2549277587",
+                    "1565604283"
+                ]
+            ],
+            "3": [
+                [
+                    "2126898314",
+                    "2489090786"
+                ],
+                [
+                    "2126898314",
+                    "2787871549"
+                ],
+                [
+                    "2126898314",
+                    "313426785"
+                ],
+                [
+                    "2126898314",
+                    "3000560144"
+                ],
+                [
+                    "2126898314",
+                    "2500145544"
+                ],
+                [
+                    "2126898314",
+                    "2786384607"
+                ]
+            ],
+            "4": [
+                [
+                    "2126898314",
+                    "1005282986"
+                ],
+                [
+                    "2126898314",
+                    "2023334777"
+                ],
+                [
+                    "2552006490",
+                    "2039405732"
+                ]
+            ],
+            "6": [
+                [
+                    "2126898314",
+                    "1608645706"
+                ]
+            ],
+            "7": [
+                [
+                    "2126898314",
+                    "3101510578"
+                ]
+            ]
+        },
+        "cc": {
+            "articles": {
+                "1159935343_+_1641828149": 1,
+                "1159935343_+_2207778397": 1,
+                "1159935343_+_2255884971": 1,
+                "1159935343_+_2257427853": 1,
+                "1159935343_+_2257525981": 1,
+                "1159935343_+_2490459079": 1,
+                "1159935343_+_2574845921": 1,
+                "1159935343_+_2579316259": 1,
+                "1159935343_+_369185417": 1,
+                "1159935343_+_386708446": 1,
+                "141628420_+_2276873348": 1,
+                "141628420_+_2340773771": 1,
+                "2126898314_+_2207778397": 1,
+                "2126898314_+_2257525981": 1,
+                "2126898314_+_2574845921": 1,
+                "2126898314_+_386708446": 1,
+                "2126898314_+_567025414": 1,
+                "2992600652_+_1028138195": 1,
+                "2994191178_+_2340773771": 1
+            },
+            "number": 9
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {
+            "2": [
+                [
+                    "2475682753",
+                    "141628420"
+                ]
+            ]
+        },
+        "other": {
+            "cand_other": 126,
+            "comm_other": 4682,
+            "other_cand": 32,
+            "other_comm": 4971
+        },
+        "other_nodes": 6611
+    },
+    "coverage": {
+        "articles": 6,
+        "books": 2,
+        "cov_sect": "A",
+        "other_pubbs": 11,
+        "pubbs": 10,
+        "pubbs_found": 9,
+        "pubbs_ind": 19,
+        "pubbs_ind_found": 15,
+        "total_extra_found": 34,
+        "total_found": 15,
+        "total_pubbs": 19
+    },
+    "fullname": [
+        "Cognola",
+        "Federica"
+    ],
+    "ind_anvur": [
+        17,
+        3,
+        2,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "9780198815853"
+            ],
+            "PId": 2809457848,
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1093/OSO/9780198815853.003.0001",
+            "title": "on the null subject phenomenon",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2018
+        },
+        {
+            "ISBN": [
+                "9783487156552"
+            ],
+            "PId": 2903810012,
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "title": "die kodierung der informationsstruktur im fersentalerischen die syntax prosodie schnittstelle",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2018
+        },
+        {
+            "ISBN": [
+                "9789004354388"
+            ],
+            "PId": 2928868634,
+            "citing": [
+                {
+                    "PId": 2977150377,
+                    "author": [
+                        {
+                            "AuId": 103917876,
+                            "AuN": "federica cognola"
+                        }
+                    ],
+                    "doi": "10.1075/LV.16005.COG",
+                    "title": "on the left periphery of three languages of northern italy new insights into the typology of relaxed v2",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2908650957,
+                    "author": [
+                        {
+                            "AuId": 2285256926,
+                            "AuN": "jan casalicchio"
+                        },
+                        {
+                            "AuId": 2994276505,
+                            "AuN": "a padovan"
+                        }
+                    ],
+                    "doi": "10.1075/LA.251.11CAS",
+                    "title": "contact induced phenomena in the alps",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1163/9789004354395_005",
+            "title": "verb second and micro variation in two rhaeto romance varieties of northern italy ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2018
+        },
+        {
+            "ISBN": [
+                "978-1-5275-0401-1"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "4"
+            },
+            "title": "on the marking of negative presupposition in regional varieties of italian ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2018
+        },
+        {
+            "ISSN": [
+                "2499-1562"
+            ],
+            "PId": 2992373566,
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.14277/2499-1562/ANNOC-51-17-12",
+            "journal": "SERIE OCCIDENTALE",
+            "title": "scrambling as verum focus german scrambling meets romance anaphoric anteposition annali di ca foscari",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-9377-043-9"
+            ],
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "title": "casi di micro variazione diatopica e diastratica in costruzioni v3 in mocheno",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9788898640171"
+            ],
+            "PId": 2802590463,
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "7"
+            },
+            "title": "mocheno e tamocco su due soprannomi etnici per tedesco",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978 90 272 5717 8"
+            ],
+            "PId": 2561666824,
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "8"
+            },
+            "doi": "10.1075/LA.234.13C",
+            "title": "on language acquisition and language change is transmission failure favoured in multilingual heritage contexts ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9789027257178"
+            ],
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "doi": "10.1075/LA.234.01B",
+            "title": "introduction triggers for language variation",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0332-5865"
+            ],
+            "PId": 2126898314,
+            "cited": [
+                {
+                    "PId": 1587609672,
+                    "author": [
+                        {
+                            "AuId": 2050883184,
+                            "AuN": "luigi rizzi"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-011-5420-8_7",
+                    "title": "the fine structure of the left periphery",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2152733330,
+                    "author": [
+                        {
+                            "AuId": 2218953644,
+                            "AuN": "anders holmberg"
+                        }
+                    ],
+                    "doi": "10.1162/002438905774464322",
+                    "journal": "linguistic inquiry",
+                    "title": "is there a little pro evidence from finnish",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2207778397,
+                    "author": [
+                        {
+                            "AuId": 2109020386,
+                            "AuN": "paola beninca"
+                        },
+                        {
+                            "AuId": 2666743276,
+                            "AuN": "cecilia poletto"
+                        }
+                    ],
+                    "title": "topic focus and v2 defining the cp sublayers",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2422227072,
+                    "author": [
+                        {
+                            "AuId": 2440058584,
+                            "AuN": "ancamarina velicu"
+                        }
+                    ],
+                    "title": "the structure of cp and ip the cartography of syntactic structures",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1193164018,
+                    "author": [
+                        {
+                            "AuId": 257814176,
+                            "AuN": "theresa biberauer"
+                        },
+                        {
+                            "AuId": 2218953644,
+                            "AuN": "anders holmberg"
+                        },
+                        {
+                            "AuId": 2533832073,
+                            "AuN": "ian roberts"
+                        },
+                        {
+                            "AuId": 2137434650,
+                            "AuN": "michelle sheehan"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511770784.001",
+                    "title": "parametric variation introduction parameters in minimalist theory",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2491404730,
+                    "author": [
+                        {
+                            "AuId": 1993935744,
+                            "AuN": "peter svenonius"
+                        }
+                    ],
+                    "title": "quantifier movement in icelandic",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2502556832,
+                    "author": [
+                        {
+                            "AuId": 2059790515,
+                            "AuN": "volker gast"
+                        },
+                        {
+                            "AuId": 2202269343,
+                            "AuN": "johan van der auwera"
+                        }
+                    ],
+                    "title": "towards a distributional typology of human impersonal pronouns based on data from european languages",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1790044306,
+                    "author": [
+                        {
+                            "AuId": 165891870,
+                            "AuN": "johan brandtler"
+                        }
+                    ],
+                    "doi": "10.1017/S0332586514000080",
+                    "journal": "nordic journal of linguistics",
+                    "title": "syntactic variation and verb second a german dialect in northern italy",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2125958192,
+                    "author": [
+                        {
+                            "AuId": 61754726,
+                            "AuN": "isabelle de crousaz"
+                        },
+                        {
+                            "AuId": 315384339,
+                            "AuN": "ur shlonsky"
+                        }
+                    ],
+                    "doi": "10.1162/002438903322247542",
+                    "journal": "linguistic inquiry",
+                    "title": "the distribution of a subject clitic pronoun in a franco provencal dialect and the licensing of pro",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1159935343,
+                    "author": [
+                        {
+                            "AuId": 103917876,
+                            "AuN": "federica cognola"
+                        }
+                    ],
+                    "title": "syntactic variation and verb second a german dialect in northern italy",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2952318891,
+                    "author": [
+                        {
+                            "AuId": 2162945618,
+                            "AuN": "birgit alber"
+                        }
+                    ],
+                    "title": "aspetti fonologici del mocheno",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2498182187,
+                    "author": [
+                        {
+                            "AuId": 2501087909,
+                            "AuN": "werner abraham"
+                        }
+                    ],
+                    "doi": "10.1075/LA.3",
+                    "title": "on the formal syntax of the westgermania papers from the 3rd groningen grammar talks 3e groninger grammatikgesprache groningen january 1981",
+                    "year_mag": 1983
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Trento"
+                                }
+                            ],
+                            "family": "Cognola",
+                            "given": "Federica",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/LA.201",
+                    "title": "syntactic variation and verb second",
+                    "year_oc": 2013
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "den Besten",
+                            "given": "Hans",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/LA.3.03BES",
+                    "title": "on the interaction of root transformations and lexical deletive rules",
+                    "year_oc": 1983
+                },
+                {
+                    "doi": "10.1007/978-94-011-5420-8",
+                    "title": "elements of grammar",
+                    "year_oc": 1997
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2975272832,
+                    "author": [
+                        {
+                            "AuId": 2315909227,
+                            "AuN": "sam wolfe"
+                        }
+                    ],
+                    "doi": "10.1075/LV.15026.WOL",
+                    "title": "redefining the typology of v2 languages the view from medieval romance and beyond",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2977150377,
+                    "author": [
+                        {
+                            "AuId": 103917876,
+                            "AuN": "federica cognola"
+                        }
+                    ],
+                    "doi": "10.1075/LV.16005.COG",
+                    "title": "on the left periphery of three languages of northern italy new insights into the typology of relaxed v2",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "doi": "10.1017/S0332586515000037",
+            "journal": "NORDIC JOURNAL OF LINGUISTICS",
+            "title": "how to define relaxed v2 languages and how to distinguish them from non v2 languages ",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "1867-8319"
+            ],
+            "PId": 2323685929,
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "11"
+            },
+            "doi": "10.1515/STUF-2014-0027",
+            "journal": "LANGUAGE TYPOLOGY AND UNIVERSALS",
+            "title": "on asymmetric pro drop in mocheno pinning down the role of contact in the maintenance of a root embedded asymmetry",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0024-3930"
+            ],
+            "PId": 2991944141,
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "12"
+            },
+            "journal": "LINGUISTISCHE BERICHTE",
+            "title": "limits of syntactic variation and universal grammar v2 ov vo and subject pronouns in mocheno",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1972-9901"
+            ],
+            "PId": 176803961,
+            "cv_id": {
+                "pubbs_ind": "13"
+            },
+            "doi": "10.13130/1972-9901/3449",
+            "journal": "ATTI DEL SODALIZIO GLOTTOLOGICO MILANESE",
+            "title": "la sintassi del mocheno tra lingue romanze e lingue germaniche",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9780199684359"
+            ],
+            "PId": 2503237372,
+            "citing": [
+                {
+                    "PId": 2554462762,
+                    "author": [
+                        {
+                            "AuId": 2811097825,
+                            "AuN": "theresa biberauer"
+                        },
+                        {
+                            "AuId": 2533832073,
+                            "AuN": "ian roberts"
+                        }
+                    ],
+                    "doi": "10.1075/LA.234.10BIB",
+                    "title": "parameter typology from a diachronic perspective the case of conditional inversion",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2958624196,
+                    "author": [
+                        {
+                            "AuId": 103917876,
+                            "AuN": "federica cognola"
+                        },
+                        {
+                            "AuId": 2805619357,
+                            "AuN": "i baronchelli"
+                        },
+                        {
+                            "AuId": 2960759597,
+                            "AuN": "evelina molinari"
+                        }
+                    ],
+                    "doi": "10.3389/FPSYG.2019.01528",
+                    "title": "inter vs intra speaker variation in mixed heritage syntax a statistical analysis",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2552006490,
+                    "author": [
+                        {
+                            "AuId": 66458625,
+                            "AuN": "ermenegildo bidese"
+                        },
+                        {
+                            "AuId": 103917876,
+                            "AuN": "federica cognola"
+                        },
+                        {
+                            "AuId": 2100178251,
+                            "AuN": "manuela caterina moroni"
+                        }
+                    ],
+                    "doi": "10.1075/LA.234.01BID",
+                    "title": "introduction triggers for language variation",
+                    "year_mag": 2016
+                }
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "14"
+            },
+            "doi": "10.1093/ACPROF:OSO/9780199684359.003.0004",
+            "title": "the mixed ov vo syntax of mocheno main clauses on the interaction between high and low left periphery",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9788878852174"
+            ],
+            "cv_id": {
+                "pubbs_ind": "15"
+            },
+            "title": "aspetti sintattici del mocheno gli ordini ov vo tra variazione e standardizzazione",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9788878852174"
+            ],
+            "cv_id": {
+                "pubbs_ind": "16"
+            },
+            "title": "introduzione",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "978 90 272 5584 6"
+            ],
+            "ISSN": [
+                "0166-0829"
+            ],
+            "PId": 1159935343,
+            "citing": [
+                {
+                    "PId": 2336853859,
+                    "author": [
+                        {
+                            "AuId": 1968705539,
+                            "AuN": "kristin bech"
+                        },
+                        {
+                            "AuId": 2005170795,
+                            "AuN": "george walkden"
+                        }
+                    ],
+                    "doi": "10.1017/S0332586515000219",
+                    "journal": "nordic journal of linguistics",
+                    "title": "english is still a west germanic language",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2588564100,
+                    "author": [
+                        {
+                            "AuId": 2005170795,
+                            "AuN": "george walkden"
+                        }
+                    ],
+                    "doi": "10.1007/S10828-017-9084-2",
+                    "journal": "nordic journal of linguistics",
+                    "title": "language contact and v3 in germanic varieties new and old",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 1453116899,
+                    "author": [
+                        {
+                            "AuId": 2315909227,
+                            "AuN": "sam wolfe"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2015.06.007",
+                    "journal": "nordic journal of linguistics",
+                    "title": "the nature of old spanish verb second reconsidered",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2530556211,
+                    "author": [
+                        {
+                            "AuId": 1693967298,
+                            "AuN": "chloe lybaert"
+                        },
+                        {
+                            "AuId": 2894387383,
+                            "AuN": "bernard de clerck"
+                        },
+                        {
+                            "AuId": 2621328793,
+                            "AuN": "jorien saelens"
+                        },
+                        {
+                            "AuId": 328894047,
+                            "AuN": "ludovic de cuypere"
+                        }
+                    ],
+                    "doi": "10.1017/S1470542718000028",
+                    "journal": "nordic journal of linguistics",
+                    "title": "a corpus based analysis of v2 variation in west flemish and french flemish dialects",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2126898314,
+                    "author": [
+                        {
+                            "AuId": 103917876,
+                            "AuN": "federica cognola"
+                        }
+                    ],
+                    "doi": "10.1017/S0332586515000037",
+                    "journal": "nordic journal of linguistics",
+                    "title": "how to define relaxed v2 languages and how to distinguish them from non v2 languages a reply to brandtler 2014",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2188927312,
+                    "author": [
+                        {
+                            "AuId": 2188103337,
+                            "AuN": "mansour ibrahim altamimi"
+                        }
+                    ],
+                    "journal": "nordic journal of linguistics",
+                    "title": "arabic pro drop",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2740114391,
+                    "author": [
+                        {
+                            "AuId": 2741602848,
+                            "AuN": "sam wolfe"
+                        }
+                    ],
+                    "journal": "nordic journal of linguistics",
+                    "title": "on the left periphery of v2 languages evidence from romance fin and force",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2508100643,
+                    "author": [
+                        {
+                            "AuId": 2517460213,
+                            "AuN": "sam wolfe"
+                        }
+                    ],
+                    "journal": "nordic journal of linguistics",
+                    "title": "on the left periphery of v2 languages evidence from romance fin and force v2 systems",
+                    "year_mag": 2016
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Putnam",
+                            "given": "Michael T.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Lipski",
+                            "given": "John",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1515/MULTI-2014-0111",
+                    "title": "null arguments in transitional trilingual grammars field observations from misionero german",
+                    "year_oc": 2016
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Wolfe",
+                            "given": "Sam",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/DIA.33.4.02WOL",
+                    "title": "a comparative perspective on the evolution of romance clausal structure",
+                    "year_oc": 2016
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Wien & Munchen"
+                                }
+                            ],
+                            "family": "Abraham",
+                            "given": "Werner",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/LA.220.11ABR",
+                    "title": "the upper german differential",
+                    "year_oc": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Trento"
+                                }
+                            ],
+                            "family": "Bidese",
+                            "given": "Ermenegildo",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Trento"
+                                }
+                            ],
+                            "family": "Cognola",
+                            "given": "Federica",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Trento"
+                                }
+                            ],
+                            "family": "Moroni",
+                            "given": "Manuela Caterina",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1075/LA.234.01BID",
+                    "title": "introduction",
+                    "year_oc": 2016
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Trento"
+                                }
+                            ],
+                            "family": "Cognola",
+                            "given": "Federica",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Trento"
+                                }
+                            ],
+                            "family": "Bidese",
+                            "given": "Ermenegildo",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1075/LA.234.13COG",
+                    "title": "on language acquisition and language change",
+                    "year_oc": 2016
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Oslo"
+                                }
+                            ],
+                            "family": "Kl\u00e6vik-Pettersen",
+                            "given": "Espen",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/LV.00011.KLA",
+                    "title": "what is germanic and what is not about old french v2",
+                    "year_oc": 2019
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Oxford"
+                                }
+                            ],
+                            "family": "Wolfe",
+                            "given": "Sam",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/LV.15026.WOL",
+                    "title": "redefining the typology of v2 languages",
+                    "year_oc": 2019
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Sapienza University, Rome"
+                                }
+                            ],
+                            "family": "Cognola",
+                            "given": "Federica",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/LV.16005.COG",
+                    "title": "on the left periphery of three languages of northern italy",
+                    "year_oc": 2019
+                },
+                {
+                    "doi": "10.1017/S0332586514000122",
+                    "title": "publications received in 2013",
+                    "year_oc": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Vienna"
+                                }
+                            ],
+                            "family": "Abraham",
+                            "given": "Werner",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.213.08ABR",
+                    "title": "chapter 8 discourse particles in thetic judgments in dependent sentences and in non finite phrases",
+                    "year_oc": 2020
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "School of Languages, Linguistics and Film, Queen Mary University of London, London E1 4NS, United Kingdom;"
+                                }
+                            ],
+                            "family": "van Urk",
+                            "given": "Coppe",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1146/ANNUREV-LINGUISTICS-011718-012318",
+                    "title": "successive cyclicity and the syntax of long distance dependencies",
+                    "year_oc": 2020
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Ludwig Maximilian University at Munich/University of Vienna"
+                                }
+                            ],
+                            "family": "Abraham",
+                            "given": "Werner",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/LA.260.01ABR",
+                    "title": "chapter 1 mood alternations in the history of german",
+                    "year_oc": 2020
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Vance",
+                            "given": "Barbara S.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1002/9781118732168.CH5",
+                    "title": "theory and data in historical syntax",
+                    "year_oc": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "17"
+            },
+            "doi": "10.1075/LA.201",
+            "title": "syntactic variation and verb second a german dialect in northern italy ",
+            "type": "monografia o trattato scientifico",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1828-2326"
+            ],
+            "PId": 2992464127,
+            "cv_id": {
+                "pubbs_ind": "18"
+            },
+            "journal": "QUADERNI DI LAVORO ASIT",
+            "title": "l acquisizione del genere dei pronomi soggetto in mocheno",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788880982999"
+            ],
+            "PId": 2992600652,
+            "citing": [
+                {
+                    "PId": 2741161605,
+                    "author": [
+                        {
+                            "AuId": 2268366930,
+                            "AuN": "vania masutti"
+                        }
+                    ],
+                    "title": "foreign language acquisition in the primary school an experimental lesson on german verb second",
+                    "year_mag": 2014
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "19"
+            },
+            "title": "acquisizione plurilingue e bilinguismo sbilanciato uno studio sulla sintassi dei bambini mocheni in eta prescolare",
+            "type": "monografia o trattato scientifico",
+            "year": 2011
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2849915202,
+            "cited": [
+                {
+                    "PId": 2130529146,
+                    "author": [
+                        {
+                            "AuId": 316221396,
+                            "AuN": "kai von fintel"
+                        }
+                    ],
+                    "doi": "10.1111/J.1520-8583.2008.00144.X",
+                    "journal": "philosophical perspectives",
+                    "title": "what is presupposition accommodation again",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2077036490,
+                    "author": [
+                        {
+                            "AuId": 2589860600,
+                            "AuN": "liliane haegeman"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2005.03.014",
+                    "journal": "lingua",
+                    "title": "conditionals factives and the left periphery",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2041382679,
+                    "author": [
+                        {
+                            "AuId": 2096843449,
+                            "AuN": "montserrat batllori"
+                        },
+                        {
+                            "AuId": 733081353,
+                            "AuN": "m lluisa hernanz"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2012.11.010",
+                    "journal": "lingua",
+                    "title": "emphatic polarity particles in spanish and catalan",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1589131078,
+                    "author": [
+                        {
+                            "AuId": 2644210019,
+                            "AuN": "richard waltereit"
+                        },
+                        {
+                            "AuId": 1455902871,
+                            "AuN": "ulrich detges"
+                        }
+                    ],
+                    "doi": "10.5565/REV/CATJL.124",
+                    "journal": "catalan journal of linguistics",
+                    "title": "different functions different histories modal particles and discourse markers from a diachronic point of view",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2056770540,
+                    "author": [
+                        {
+                            "AuId": 2618056781,
+                            "AuN": "anna cardinaletti"
+                        }
+                    ],
+                    "doi": "10.1515/TLIR.2011.014",
+                    "journal": "the linguistic review",
+                    "title": "german and italian modal particles and clause structure",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2037957213,
+                    "author": [
+                        {
+                            "AuId": 2218953644,
+                            "AuN": "anders holmberg"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9582.00077",
+                    "journal": "studia linguistica",
+                    "title": "the syntax of yes and no in finnish",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2506510638,
+                    "author": [
+                        {
+                            "AuId": 2125719849,
+                            "AuN": "malte zimmermann"
+                        },
+                        {
+                            "AuId": 228644031,
+                            "AuN": "klaus von heusinger"
+                        },
+                        {
+                            "AuId": 61540223,
+                            "AuN": "claudia maienborn"
+                        },
+                        {
+                            "AuId": 1984513802,
+                            "AuN": "paul portner"
+                        }
+                    ],
+                    "doi": "10.1515/9783110255072.2012",
+                    "title": "76 discourse particles",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 872748986,
+                    "author": [
+                        {
+                            "AuId": 2710662934,
+                            "AuN": "adriana belletti"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511627705.003",
+                    "title": "verb positions evidence from italian",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1984597889,
+                    "author": [
+                        {
+                            "AuId": 2675340909,
+                            "AuN": "marietherese vinet"
+                        }
+                    ],
+                    "doi": "10.1515/PRBS.1996.8.2.207",
+                    "journal": "probus",
+                    "title": "on certain adverbs of quantification in quebec french",
+                    "year_mag": 1996
+                }
+            ],
+            "doi": "10.1075/RLLT.13.05COG",
+            "title": "on ben in trentino regional italian",
+            "type": "4",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2549596862,
+            "citing": [
+                {
+                    "PId": 2623114331,
+                    "author": [
+                        {
+                            "AuId": 1110826437,
+                            "AuN": "lieven danckaert"
+                        },
+                        {
+                            "AuId": 2589860600,
+                            "AuN": "liliane haegeman"
+                        }
+                    ],
+                    "doi": "10.1075/LA.239.02DAN",
+                    "title": "syntacticizing blends the case of english wh raising",
+                    "year_mag": 2017
+                }
+            ],
+            "doi": "10.1075/LA.234",
+            "title": "theoretical approaches to linguistic variation",
+            "type": "5",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2552006490,
+            "cited": [
+                {
+                    "PId": 2102709979,
+                    "author": [
+                        {
+                            "AuId": 2049461923,
+                            "AuN": "noam chomsky"
+                        }
+                    ],
+                    "doi": "10.1162/0024389052993655",
+                    "journal": "linguistic inquiry",
+                    "title": "three factors in language design",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2033897341,
+                    "author": [
+                        {
+                            "AuId": 722943152,
+                            "AuN": "antonella sorace"
+                        }
+                    ],
+                    "doi": "10.1075/LAB.1.1.01SOR",
+                    "journal": "linguistic approaches to bilingualism",
+                    "title": "pinning down the concept of interface in bilingualism",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2327523091,
+                    "author": [
+                        {
+                            "AuId": 1970083728,
+                            "AuN": "heidi harley"
+                        }
+                    ],
+                    "doi": "10.1515/TL-2014-0010",
+                    "journal": "theoretical linguistics",
+                    "title": "on the identity of roots",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2154599210,
+                    "author": [
+                        {
+                            "AuId": 2013375194,
+                            "AuN": "silvina montrul"
+                        }
+                    ],
+                    "doi": "10.1017/S1366728904001464",
+                    "journal": "bilingualism language and cognition",
+                    "title": "subject and object expression in spanish heritage speakers a case of morphosyntactic convergence",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2118049235,
+                    "author": [
+                        {
+                            "AuId": 172359200,
+                            "AuN": "anthony kroch"
+                        }
+                    ],
+                    "doi": "10.1017/S0954394500000168",
+                    "journal": "language variation and change",
+                    "title": "reflexes of grammar in patterns of language change",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2088536645,
+                    "author": [
+                        {
+                            "AuId": 2108434514,
+                            "AuN": "lydia white"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2010.05.005",
+                    "journal": "lingua",
+                    "title": "second language acquisition at the interfaces",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2104184235,
+                    "author": [
+                        {
+                            "AuId": 722943152,
+                            "AuN": "antonella sorace"
+                        }
+                    ],
+                    "doi": "10.1017/S1366728904001543",
+                    "journal": "bilingualism language and cognition",
+                    "title": "native language attrition and developmental instability at the syntax discourse interface data interpretations and methods",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 591353820,
+                    "author": [
+                        {
+                            "AuId": 2073080169,
+                            "AuN": "gillian ramchand"
+                        },
+                        {
+                            "AuId": 2114851307,
+                            "AuN": "charles reiss"
+                        }
+                    ],
+                    "doi": "10.1093/OXFORDHB/9780199247455.001.0001",
+                    "title": "the oxford handbook of linguistic interfaces",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2023761426,
+                    "author": [
+                        {
+                            "AuId": 2008536941,
+                            "AuN": "jurgen m meisel"
+                        }
+                    ],
+                    "doi": "10.1017/S1366728910000143",
+                    "journal": "bilingualism language and cognition",
+                    "title": "bilingual language acquisition and theories of diachronic change bilingualism as cause and effect of grammatical change",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1992851280,
+                    "author": [
+                        {
+                            "AuId": 2008536941,
+                            "AuN": "jurgen m meisel"
+                        }
+                    ],
+                    "doi": "10.1017/S0142716407070270",
+                    "journal": "applied psycholinguistics",
+                    "title": "the weaker language in early child bilingualism acquiring a first language as a second language",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2033575400,
+                    "author": [
+                        {
+                            "AuId": 2013375194,
+                            "AuN": "silvina montrul"
+                        },
+                        {
+                            "AuId": 1161724752,
+                            "AuN": "kim potowski"
+                        }
+                    ],
+                    "doi": "10.1177/13670069070110030301",
+                    "journal": "international journal of bilingualism",
+                    "title": "command of gender agreement in school age spanish english bilingual children",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2027708502,
+                    "author": [
+                        {
+                            "AuId": 2542892688,
+                            "AuN": "kay gonzalezvilbazo"
+                        },
+                        {
+                            "AuId": 2125564250,
+                            "AuN": "luis lopez"
+                        }
+                    ],
+                    "doi": "10.1007/S11049-011-9141-5",
+                    "journal": "natural language and linguistic theory",
+                    "title": "little v and parametric variation",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 593353692,
+                    "author": [
+                        {
+                            "AuId": 2811097825,
+                            "AuN": "theresa biberauer"
+                        }
+                    ],
+                    "doi": "10.1075/LA.132",
+                    "title": "the limits of syntactic variation",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2089738765,
+                    "author": [
+                        {
+                            "AuId": 1982028218,
+                            "AuN": "fiona copland"
+                        }
+                    ],
+                    "doi": "10.1093/APPLIN/AMR040",
+                    "journal": "applied linguistics",
+                    "title": "legitimate talk in feedback conferences",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1991545521,
+                    "author": [
+                        {
+                            "AuId": 1803190817,
+                            "AuN": "adam ledgeway"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-968X.2005.00157.X",
+                    "journal": "transactions of the philological society",
+                    "title": "moving through the left periphery the dual complementiser system in the dialects of southern italy",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1005282986,
+                    "author": [
+                        {
+                            "AuId": 2071468915,
+                            "AuN": "rita m manzini"
+                        }
+                    ],
+                    "journal": "linguistic inquiry",
+                    "title": "parameters binding theory and learnability",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 1987405868,
+                    "author": [
+                        {
+                            "AuId": 2810044311,
+                            "AuN": "sjef barbiers"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2008.09.013",
+                    "journal": "lingua",
+                    "title": "locus and limits of syntactic microvariation",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2083094634,
+                    "author": [
+                        {
+                            "AuId": 1803190817,
+                            "AuN": "adam ledgeway"
+                        }
+                    ],
+                    "doi": "10.1017/S0022226708005173",
+                    "journal": "journal of linguistics",
+                    "title": "satisfying v2 in early romance merge vs move",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1485620277,
+                    "author": [
+                        {
+                            "AuId": 1437058709,
+                            "AuN": "artemis alexiadou"
+                        },
+                        {
+                            "AuId": 2420687070,
+                            "AuN": "hagit borer"
+                        },
+                        {
+                            "AuId": 2166437952,
+                            "AuN": "florian schafer"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780199665266.001.0001",
+                    "title": "the syntax of roots and the roots of syntax",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2504426610,
+                    "author": [
+                        {
+                            "AuId": 2441985429,
+                            "AuN": "ann taylor"
+                        },
+                        {
+                            "AuId": 2267011844,
+                            "AuN": "susan pintzuk"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780199860210.003.0003",
+                    "title": "the effect of information structure on object position in old english a pilot study",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2100189884,
+                    "author": [
+                        {
+                            "AuId": 2342697286,
+                            "AuN": "m carme picallo"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780198702894.001.0001",
+                    "title": "linguistic variation in the minimalist framework",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 637421282,
+                    "author": [
+                        {
+                            "AuId": 2111641845,
+                            "AuN": "roland hinterholzl"
+                        },
+                        {
+                            "AuId": 2175078963,
+                            "AuN": "svetlana petrova"
+                        }
+                    ],
+                    "doi": "10.1515/9783110216110",
+                    "title": "information structure and language change new approaches to word order variation in germanic",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 614730886,
+                    "author": [
+                        {
+                            "AuId": 1982689313,
+                            "AuN": "giampaolo salvi"
+                        }
+                    ],
+                    "doi": "10.1515/9783110945508",
+                    "title": "la formazione della struttura di frase romanza ordine delle parole e clitici dal latino alle lingue romanze antiche",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1972049818,
+                    "author": [
+                        {
+                            "AuId": 17811759,
+                            "AuN": "paul kiparsky"
+                        }
+                    ],
+                    "doi": "10.1515/TL.2006.015",
+                    "journal": "theoretical linguistics",
+                    "title": "the amphichronic program vs evolutionary phonology",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1979250294,
+                    "author": [
+                        {
+                            "AuId": 2533832073,
+                            "AuN": "ian roberts"
+                        }
+                    ],
+                    "doi": "10.1007/BF00205413",
+                    "journal": "natural language and linguistic theory",
+                    "title": "agreement parameters and the development of english modal auxiliaries",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2023930798,
+                    "author": [
+                        {
+                            "AuId": 2504597372,
+                            "AuN": "henning andersen"
+                        }
+                    ],
+                    "doi": "10.2307/412063",
+                    "journal": "language",
+                    "title": "abductive and deductive change",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2479454547,
+                    "author": [
+                        {
+                            "AuId": 2277630653,
+                            "AuN": "christine meklenborg salvesen"
+                        }
+                    ],
+                    "doi": "10.1075/LA.202.10SAL",
+                    "title": "topics and the left periphery a comparison of old french and modern germanic",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1586246979,
+                    "author": [
+                        {
+                            "AuId": 2005242109,
+                            "AuN": "josep fontana"
+                        }
+                    ],
+                    "title": "phrase structure and the syntax of clitics in the history of spanish",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1453116899,
+                    "author": [
+                        {
+                            "AuId": 2315909227,
+                            "AuN": "sam wolfe"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2015.06.007",
+                    "journal": "lingua",
+                    "title": "the nature of old spanish verb second reconsidered",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2494931321,
+                    "author": [
+                        {
+                            "AuId": 2073080169,
+                            "AuN": "gillian ramchand"
+                        },
+                        {
+                            "AuId": 1993935744,
+                            "AuN": "peter svenonius"
+                        }
+                    ],
+                    "doi": "10.1075/LA.132.08RAM",
+                    "title": "mapping a parochial lexicon onto a universal semantics",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2534798811,
+                    "author": [
+                        {
+                            "AuId": 257814176,
+                            "AuN": "theresa biberauer"
+                        },
+                        {
+                            "AuId": 2533832073,
+                            "AuN": "ian roberts"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780190210588.003.0016",
+                    "title": "the clausal hierarchy features and parameters",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2162731409,
+                    "author": [
+                        {
+                            "AuId": 2038894660,
+                            "AuN": "david lightfoot"
+                        }
+                    ],
+                    "doi": "10.1016/S0024-3841(93)00030-C",
+                    "journal": "lingua",
+                    "title": "catastrophic change and learning theory",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2007023650,
+                    "author": [
+                        {
+                            "AuId": 2135208968,
+                            "AuN": "f p weerman"
+                        }
+                    ],
+                    "doi": "10.1017/S1366728910000581",
+                    "journal": "bilingualism language and cognition",
+                    "title": "diachronic change early versus late acquisition",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1984686355,
+                    "author": [
+                        {
+                            "AuId": 2441985429,
+                            "AuN": "ann taylor"
+                        },
+                        {
+                            "AuId": 67342305,
+                            "AuN": "wim van der wurff"
+                        }
+                    ],
+                    "doi": "10.1017/S1360674305001590",
+                    "journal": "english language and linguistics",
+                    "title": "special issue on aspects of ov and vo order in the history of english",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2503237372,
+                    "author": [
+                        {
+                            "AuId": 103917876,
+                            "AuN": "federica cognola"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780199684359.003.0004",
+                    "title": "the mixed ov vo syntax of mocheno main clauses on the interaction between high and low left periphery",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1977603578,
+                    "author": [
+                        {
+                            "AuId": 2135208968,
+                            "AuN": "f p weerman"
+                        }
+                    ],
+                    "doi": "10.1515/LING.1993.31.5.903",
+                    "journal": "linguistics",
+                    "title": "the diachronic consequences of first and second language acquisition the change from ov to vo",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 71312362,
+                    "author": [
+                        {
+                            "AuId": 2533832073,
+                            "AuN": "ian roberts"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-322-90776-9_6",
+                    "title": "remarks on the old english c system and the diachrony of v2",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2497379975,
+                    "author": [
+                        {
+                            "AuId": 2493619726,
+                            "AuN": "ricardo etxepare"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780198702894.003.0006",
+                    "title": "contact and change in a minimalist theory of variation",
+                    "year_mag": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Parker",
+                            "given": "Steve",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1002/9781444335262.WBCTP0049",
+                    "title": "sonority",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Walkden",
+                            "given": "George",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2012.03.001",
+                    "title": "against inertia",
+                    "year_oc": 2012
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Biberauer",
+                            "given": "Theresa",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Roberts",
+                            "given": "Ian",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/9781107279070.008",
+                    "title": "parameter setting",
+                    "year_oc": null
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "McMahon",
+                            "given": "April M. S.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139166591",
+                    "title": "understanding language change",
+                    "year_oc": 1994
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Adger",
+                            "given": "David",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Smith",
+                            "given": "Jennifer",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1075/CILT.265.10ADG",
+                    "title": "variation and the minimalist program",
+                    "year_oc": 2005
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Baker",
+                            "given": "Mark C.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/LA.132.16BAK",
+                    "title": "the macroparameter in a microparametric world",
+                    "year_oc": 2008
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Troms\u00f8/CASTL"
+                                }
+                            ],
+                            "family": "Westergaard",
+                            "given": "Marit",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/LA.145",
+                    "title": "the acquisition of word order",
+                    "year_oc": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Trento"
+                                }
+                            ],
+                            "family": "Cognola",
+                            "given": "Federica",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/LA.201",
+                    "title": "syntactic variation and verb second",
+                    "year_oc": 2013
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "De Vogelaer",
+                            "given": "Gunther",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Seiler",
+                            "given": "Guido",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.128.01VOG",
+                    "title": "the dialect laboratory",
+                    "year_oc": 2012
+                },
+                {
+                    "doi": "10.1093/ACPROF:OSO/9780190461737.001.0001",
+                    "title": "rethinking parameters",
+                    "year_oc": 2016
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kayne",
+                            "given": "Richard S.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780195179163.001.0001",
+                    "title": "movement and silence",
+                    "year_oc": 2005
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Rizzi",
+                            "given": "Luigi",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780198702894.003.0002",
+                    "title": "on the elements of syntactic variation",
+                    "year_oc": 2014
+                },
+                {
+                    "doi": "10.1093/ACPROF:OSO/9780199684359.001.0001",
+                    "title": "theoretical approaches to disharmonic word order",
+                    "year_oc": 2013
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hale",
+                            "given": "Mark",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9612.00001",
+                    "title": "diachronic syntax",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Borer",
+                            "given": "Hagit",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110808506",
+                    "title": "parametric syntax",
+                    "year_oc": 1984
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kemenade",
+                            "given": "Ans van",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110882308",
+                    "title": "syntactic case and morphological case in the history of english",
+                    "year_oc": 1987
+                }
+            ],
+            "doi": "10.1075/LA.234.01BID",
+            "title": "introduction triggers for language variation",
+            "type": "4",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2543354860,
+            "title": "5 mocheno as a partial pro drop language",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2552385574,
+            "title": "6 multiple access to cp and asymmetric pro drop",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 141628420,
+            "citing": [
+                {
+                    "PId": 2100878620,
+                    "author": [
+                        {
+                            "AuId": 66458625,
+                            "AuN": "ermenegildo bidese"
+                        },
+                        {
+                            "AuId": 2626842424,
+                            "AuN": "andrea padovan"
+                        },
+                        {
+                            "AuId": 2304792368,
+                            "AuN": "alessandra tomaselli"
+                        }
+                    ],
+                    "title": "a binary system of complementizers in cimbrian relative clauses",
+                    "year_mag": 2012
+                }
+            ],
+            "title": "zu einer neuen verb zweit typologie in den germanischen sprachen der fall des zimbrischen und des fersentalerischen",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2547788588,
+            "title": "3 the syntax of subject pronouns",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2543028360,
+            "title": "4 satisfaction of epp and realization of subjects",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2539201638,
+            "title": "2 mocheno and the v2 phenomenon",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2994191178,
+            "citing": [
+                {
+                    "PId": 80949876,
+                    "author": [
+                        {
+                            "AuId": 66458625,
+                            "AuN": "ermenegildo bidese"
+                        },
+                        {
+                            "AuId": 2626842424,
+                            "AuN": "andrea padovan"
+                        },
+                        {
+                            "AuId": 2304792368,
+                            "AuN": "alessandra tomaselli"
+                        }
+                    ],
+                    "title": "bilingual competence complementizer selection and mood in cimbrian",
+                    "year_mag": 2013
+                }
+            ],
+            "title": "ordini ov vo in mocheno",
+            "type": "0",
+            "year_mag": 2011
+        },
+        {
+            "PId": 2994730372,
+            "title": "on the null subject phenomenon an example of successful linguistic research",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2935908114,
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Kyiv National Linguistic University"
+                                }
+                            ],
+                            "family": "H. Zinchenko",
+                            "given": "H.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.28925/2311-2425.2019.13.5",
+                    "title": "null subjects in old germanic languages",
+                    "year_oc": 2019
+                },
+                {
+                    "doi": "10.1162/LING_X_00365",
+                    "title": "books and journals received",
+                    "year_oc": 2019
+                }
+            ],
+            "doi": "10.1093/OSO/9780198815853.001.0001",
+            "title": "null subjects in generative grammar a synchronic and diachronic perspective",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2993724979,
+            "title": "on dislocation structures a study based on aphasic production and the syntax of a tyrolean dialect",
+            "type": "0",
+            "year_mag": 2010
+        },
+        {
+            "PId": 2549277587,
+            "cited": [
+                {
+                    "PId": 2033897341,
+                    "author": [
+                        {
+                            "AuId": 722943152,
+                            "AuN": "antonella sorace"
+                        }
+                    ],
+                    "doi": "10.1075/LAB.1.1.01SOR",
+                    "journal": "linguistic approaches to bilingualism",
+                    "title": "pinning down the concept of interface in bilingualism",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2005939081,
+                    "author": [
+                        {
+                            "AuId": 722943152,
+                            "AuN": "antonella sorace"
+                        },
+                        {
+                            "AuId": 179750479,
+                            "AuN": "ludovica serratrice"
+                        }
+                    ],
+                    "doi": "10.1177/1367006909339810",
+                    "journal": "international journal of bilingualism",
+                    "title": "internal and external interfaces in bilingual language development beyond structural overlap",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2071224451,
+                    "author": [
+                        {
+                            "AuId": 1960291052,
+                            "AuN": "adriana belletti"
+                        },
+                        {
+                            "AuId": 2281717703,
+                            "AuN": "elisa bennati"
+                        },
+                        {
+                            "AuId": 722943152,
+                            "AuN": "antonella sorace"
+                        }
+                    ],
+                    "doi": "10.1007/S11049-007-9026-9",
+                    "journal": "natural language and linguistic theory",
+                    "title": "theoretical and developmental issues in the syntax of subjects evidence from near native italian",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2154599210,
+                    "author": [
+                        {
+                            "AuId": 2013375194,
+                            "AuN": "silvina montrul"
+                        }
+                    ],
+                    "doi": "10.1017/S1366728904001464",
+                    "journal": "bilingualism language and cognition",
+                    "title": "subject and object expression in spanish heritage speakers a case of morphosyntactic convergence",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2037721216,
+                    "author": [
+                        {
+                            "AuId": 27383197,
+                            "AuN": "ricardo otheguy"
+                        },
+                        {
+                            "AuId": 2063924612,
+                            "AuN": "ana celia zentella"
+                        },
+                        {
+                            "AuId": 2761821461,
+                            "AuN": "david livert"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.2008.0019",
+                    "journal": "language",
+                    "title": "language and dialect contact in spanish in new york toward the formation of a speech community",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2165127822,
+                    "author": [
+                        {
+                            "AuId": 727805606,
+                            "AuN": "aafke hulk"
+                        },
+                        {
+                            "AuId": 2305341033,
+                            "AuN": "natascha muller"
+                        }
+                    ],
+                    "doi": "10.1017/S1366728900000353",
+                    "journal": "bilingualism language and cognition",
+                    "title": "bilingual first language acquisition at the interface between syntax and pragmatics",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1544030221,
+                    "author": [
+                        {
+                            "AuId": 2050883184,
+                            "AuN": "luigi rizzi"
+                        }
+                    ],
+                    "journal": "linguistic inquiry",
+                    "title": "null objects in italian and the theory of pro",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2104184235,
+                    "author": [
+                        {
+                            "AuId": 722943152,
+                            "AuN": "antonella sorace"
+                        }
+                    ],
+                    "doi": "10.1017/S1366728904001543",
+                    "journal": "bilingualism language and cognition",
+                    "title": "native language attrition and developmental instability at the syntax discourse interface data interpretations and methods",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2147321418,
+                    "author": [
+                        {
+                            "AuId": 2087092141,
+                            "AuN": "halldor armann sigur\u00f0sson"
+                        }
+                    ],
+                    "doi": "10.1162/LING_A_00042",
+                    "journal": "linguistic inquiry",
+                    "title": "conditions on argument drop",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1578015707,
+                    "author": [
+                        {
+                            "AuId": 1927596146,
+                            "AuN": "mara frascarelli"
+                        }
+                    ],
+                    "doi": "10.1007/S11049-007-9025-X",
+                    "journal": "natural language and linguistic theory",
+                    "title": "subjects topics and the interpretation of referential pro an interface approach to the linking of null pronouns",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1984163249,
+                    "author": [
+                        {
+                            "AuId": 2144373117,
+                            "AuN": "johanne paradis"
+                        },
+                        {
+                            "AuId": 200610445,
+                            "AuN": "fred genesee"
+                        }
+                    ],
+                    "doi": "10.1017/S0272263100014662",
+                    "journal": "studies in second language acquisition",
+                    "title": "syntactic acquisition in bilingual children autonomous or interdependent",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2139754385,
+                    "author": [
+                        {
+                            "AuId": 200610445,
+                            "AuN": "fred genesee"
+                        },
+                        {
+                            "AuId": 312469985,
+                            "AuN": "elena nicoladis"
+                        },
+                        {
+                            "AuId": 2144373117,
+                            "AuN": "johanne paradis"
+                        }
+                    ],
+                    "doi": "10.1017/S0305000900009971",
+                    "journal": "journal of child language",
+                    "title": "language differentiation in early bilingual development",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2023761426,
+                    "author": [
+                        {
+                            "AuId": 2008536941,
+                            "AuN": "jurgen m meisel"
+                        }
+                    ],
+                    "doi": "10.1017/S1366728910000143",
+                    "journal": "bilingualism language and cognition",
+                    "title": "bilingual language acquisition and theories of diachronic change bilingualism as cause and effect of grammatical change",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1992851280,
+                    "author": [
+                        {
+                            "AuId": 2008536941,
+                            "AuN": "jurgen m meisel"
+                        }
+                    ],
+                    "doi": "10.1017/S0142716407070270",
+                    "journal": "applied psycholinguistics",
+                    "title": "the weaker language in early child bilingualism acquiring a first language as a second language",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2033575400,
+                    "author": [
+                        {
+                            "AuId": 2013375194,
+                            "AuN": "silvina montrul"
+                        },
+                        {
+                            "AuId": 1161724752,
+                            "AuN": "kim potowski"
+                        }
+                    ],
+                    "doi": "10.1177/13670069070110030301",
+                    "journal": "international journal of bilingualism",
+                    "title": "command of gender agreement in school age spanish english bilingual children",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2089738765,
+                    "author": [
+                        {
+                            "AuId": 1982028218,
+                            "AuN": "fiona copland"
+                        }
+                    ],
+                    "doi": "10.1093/APPLIN/AMR040",
+                    "journal": "applied linguistics",
+                    "title": "legitimate talk in feedback conferences",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2108417568,
+                    "author": [
+                        {
+                            "AuId": 2054799996,
+                            "AuN": "petra bernardini"
+                        },
+                        {
+                            "AuId": 41518156,
+                            "AuN": "suzanne schlyter"
+                        }
+                    ],
+                    "doi": "10.1017/S1366728904001270",
+                    "journal": "bilingualism language and cognition",
+                    "title": "growing syntactic structure and code mixing in the weaker language the ivy hypothesis",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2484922165,
+                    "author": [
+                        {
+                            "AuId": 3037802812,
+                            "AuN": "helmut weiss"
+                        }
+                    ],
+                    "journal": "zeitschrift fur dialektologie und linguistik",
+                    "title": "inflected complementizers in continental west germanic dialects",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1978166486,
+                    "author": [
+                        {
+                            "AuId": 2096354130,
+                            "AuN": "shanley e m allen"
+                        }
+                    ],
+                    "doi": "10.1017/S0142716407070282",
+                    "journal": "applied psycholinguistics",
+                    "title": "the future of inuktitut in the face of majority languages bilingualism or language shift",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2506433540,
+                    "author": [
+                        {
+                            "AuId": 106504799,
+                            "AuN": "carol myersscotton"
+                        }
+                    ],
+                    "doi": "10.1515/9783110808742.23",
+                    "title": "the matrix language frame model developments and responses",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2075854860,
+                    "author": [
+                        {
+                            "AuId": 1999128034,
+                            "AuN": "marilyn may vihman"
+                        }
+                    ],
+                    "doi": "10.1017/S0305000900006450",
+                    "journal": "journal of child language",
+                    "title": "language differentiation by the bilingual infant",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2171260838,
+                    "author": [
+                        {
+                            "AuId": 1908083133,
+                            "AuN": "virginia volterra"
+                        },
+                        {
+                            "AuId": 1287611714,
+                            "AuN": "traute taeschner"
+                        }
+                    ],
+                    "doi": "10.1017/S0305000900007492",
+                    "journal": "journal of child language",
+                    "title": "the acquisition and development of language by bilingual children",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 1552926031,
+                    "author": [
+                        {
+                            "AuId": 2488187790,
+                            "AuN": "luciana brandi"
+                        },
+                        {
+                            "AuId": 2805480916,
+                            "AuN": "patrizia cordin"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-009-2540-3_4",
+                    "title": "two italian dialects and the null subject parameter",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 1979250294,
+                    "author": [
+                        {
+                            "AuId": 2533832073,
+                            "AuN": "ian roberts"
+                        }
+                    ],
+                    "doi": "10.1007/BF00205413",
+                    "journal": "natural language and linguistic theory",
+                    "title": "agreement parameters and the development of english modal auxiliaries",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2023930798,
+                    "author": [
+                        {
+                            "AuId": 2504597372,
+                            "AuN": "henning andersen"
+                        }
+                    ],
+                    "doi": "10.2307/412063",
+                    "journal": "language",
+                    "title": "abductive and deductive change",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2072603922,
+                    "author": [
+                        {
+                            "AuId": 295831921,
+                            "AuN": "harriet jisa"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-2166(99)00104-6",
+                    "journal": "journal of pragmatics",
+                    "title": "language mixing in the weak language evidence from two children",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1981715481,
+                    "author": [
+                        {
+                            "AuId": 2141844013,
+                            "AuN": "josef bayer"
+                        }
+                    ],
+                    "doi": "10.1515/TLIR.1984.3.3.209",
+                    "journal": "the linguistic review",
+                    "title": "comp in bavarian syntax",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 129133793,
+                    "author": [
+                        {
+                            "AuId": 172359200,
+                            "AuN": "anthony kroch"
+                        },
+                        {
+                            "AuId": 2798665602,
+                            "AuN": "johannes gisli jonsson"
+                        },
+                        {
+                            "AuId": 1987531563,
+                            "AuN": "ans van kemenade"
+                        },
+                        {
+                            "AuId": 2799089551,
+                            "AuN": "paul kiparsky"
+                        },
+                        {
+                            "AuId": 2480841865,
+                            "AuN": "willem koopman"
+                        },
+                        {
+                            "AuId": 3118343638,
+                            "AuN": "david lightfoot"
+                        }
+                    ],
+                    "title": "verb object order in early middle english",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2481889571,
+                    "author": [
+                        {
+                            "AuId": 2647638556,
+                            "AuN": "barbara zurer pearson"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511576164.021",
+                    "title": "the cambridge handbook of child language children with two languages",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1670898088,
+                    "author": [
+                        {
+                            "AuId": 2691395626,
+                            "AuN": "suzanne schlyter"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511627781.013",
+                    "title": "progression regression in language the weaker language in bilingual swedish french children",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2989985728,
+                    "author": [
+                        {
+                            "AuId": 2635363582,
+                            "AuN": "regina koppe"
+                        },
+                        {
+                            "AuId": 2584712521,
+                            "AuN": "jurgen m meisel"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511620867.013",
+                    "title": "one speaker two languages code switching in bilingual first language acquisition",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2007023650,
+                    "author": [
+                        {
+                            "AuId": 2135208968,
+                            "AuN": "f p weerman"
+                        }
+                    ],
+                    "doi": "10.1017/S1366728910000581",
+                    "journal": "bilingualism language and cognition",
+                    "title": "diachronic change early versus late acquisition",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2038622426,
+                    "author": [
+                        {
+                            "AuId": 2279295393,
+                            "AuN": "jennifer petersen"
+                        }
+                    ],
+                    "doi": "10.1515/LING.1988.26.3.479",
+                    "journal": "linguistics",
+                    "title": "word internal code switching constraints in a bilingual child s grammar",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2012865601,
+                    "author": [
+                        {
+                            "AuId": 235329236,
+                            "AuN": "margaret deuchar"
+                        },
+                        {
+                            "AuId": 2119141432,
+                            "AuN": "suzanne quay"
+                        }
+                    ],
+                    "doi": "10.1017/S1366728998000376",
+                    "journal": "bilingualism language and cognition",
+                    "title": "one vs two systems in early bilingual syntax two versions of the question",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1977603578,
+                    "author": [
+                        {
+                            "AuId": 2135208968,
+                            "AuN": "f p weerman"
+                        }
+                    ],
+                    "doi": "10.1515/LING.1993.31.5.903",
+                    "journal": "linguistics",
+                    "title": "the diachronic consequences of first and second language acquisition the change from ov to vo",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2501431009,
+                    "author": [
+                        {
+                            "AuId": 2315788283,
+                            "AuN": "elizabeth lanza"
+                        }
+                    ],
+                    "doi": "10.1075/SIBIL.21.13LAN",
+                    "title": "concluding remarks language contact a dilemma for the bilingual child or for the linguist",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2051867941,
+                    "author": [
+                        {
+                            "AuId": 235329236,
+                            "AuN": "margaret deuchar"
+                        }
+                    ],
+                    "doi": "10.1017/S1366728999000127",
+                    "journal": "bilingualism language and cognition",
+                    "title": "are function words non language specific in early bilingual two word utterances",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2489961728,
+                    "author": [
+                        {
+                            "AuId": 2482375441,
+                            "AuN": "alberto m mioni"
+                        }
+                    ],
+                    "doi": "10.1515/9783110851601.294",
+                    "title": "standardization processes and linguistic repertoires in africa and europe some comparative remarks",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2486510506,
+                    "author": [
+                        {
+                            "AuId": 2485221571,
+                            "AuN": "anthony r rowley"
+                        }
+                    ],
+                    "doi": "10.1515/9783110917123",
+                    "title": "monographien 18 fersental val fersina bei trient oberitalien untersuchung einer sprachinselmundart",
+                    "year_mag": 1986
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Thomason",
+                            "given": "S.G.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/B0-08-043076-7/03032-1",
+                    "title": "language contact",
+                    "year_oc": 2001
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Walkden",
+                            "given": "George",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2012.03.001",
+                    "title": "against inertia",
+                    "year_oc": 2012
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Haider",
+                            "given": "Hubert",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511845314",
+                    "title": "the syntax of german",
+                    "year_oc": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "McMahon",
+                            "given": "April M. S.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139166591",
+                    "title": "understanding language change",
+                    "year_oc": 1994
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Frascarelli",
+                            "given": "Mara",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Hinterh\u00f6lzl",
+                            "given": "Roland",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1075/LA.100.07FRA",
+                    "title": "types of topics in german and italian",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Baker",
+                            "given": "Mark C.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/LA.132.16BAK",
+                    "title": "the macroparameter in a microparametric world",
+                    "year_oc": 2008
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Troms\u00f8/CASTL"
+                                }
+                            ],
+                            "family": "Westergaard",
+                            "given": "Marit",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/LA.145",
+                    "title": "the acquisition of word order",
+                    "year_oc": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Trento"
+                                }
+                            ],
+                            "family": "Cognola",
+                            "given": "Federica",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/LA.201",
+                    "title": "syntactic variation and verb second",
+                    "year_oc": 2013
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Alber",
+                            "given": "Birgit",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.123.03ALB",
+                    "title": "past participles in mocheno",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hale",
+                            "given": "Mark",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9612.00001",
+                    "title": "diachronic syntax",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kemenade",
+                            "given": "Ans van",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110882308",
+                    "title": "syntactic case and morphological case in the history of english",
+                    "year_oc": 1987
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Rizzi",
+                            "given": "Luigi",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110883718",
+                    "title": "issues in italian syntax",
+                    "year_oc": 1982
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "GAWLITZEK-MAIWALD",
+                            "given": "IRA",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "TRACY",
+                            "given": "ROSEMARIE",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1515/LING.1996.34.5.901",
+                    "title": "bilingual bootstrapping",
+                    "year_oc": 1996
+                }
+            ],
+            "doi": "10.1075/LA.234.13COG",
+            "title": "on language acquisition and language change is transmission failure favoured in multilingual heritage contexts",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2994653965,
+            "title": "sotzlear 1 introduzione ragionata alla sintassi del mocheno",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2994595755,
+            "title": "io l ho vist dal pontesel gio sull acquisizione del mocheno nella scuola dell infanzia",
+            "type": "0",
+            "year_mag": 2011
+        },
+        {
+            "PId": 2992908544,
+            "title": "topicps and relativised minimality in mocheno left periphery",
+            "type": "0",
+            "year_mag": 2009
+        },
+        {
+            "PId": 2992115485,
+            "doi": "10.1400/137385",
+            "title": "dinamiche del contatto germanico romanzo la ristrutturazione nel dialetto tedesco della valle del fersina",
+            "type": "0",
+            "year_mag": 2009
+        },
+        {
+            "PId": 2994092903,
+            "title": "la negazione variazione dialettale ed evoluzione diacronica quaderni di lavoro dell asit",
+            "type": "0",
+            "year_mag": 2008
+        }
+    ]
+}

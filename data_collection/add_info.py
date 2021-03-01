@@ -3,6 +3,8 @@ import csv
 
 def adding_cov(metrics_dd):
 
+    print("adding coverage section")
+
     for asn_year, terms in metrics_dd["cand"].items():
         for term, roles in terms.items():
             for role, fields in roles.items():

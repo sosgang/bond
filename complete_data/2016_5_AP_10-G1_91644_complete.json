@@ -1,0 +1,233 @@
+{
+    "AuIds": [
+        2785610552,
+        2788617325,
+        2783600254
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 5,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 0,
+            "comm_other": 4682,
+            "other_cand": 0,
+            "other_comm": 4973
+        },
+        "other_nodes": 6512
+    },
+    "coverage": {
+        "articles": 6,
+        "books": 1,
+        "cov_sect": "C",
+        "other_pubbs": 7,
+        "pubbs": 10,
+        "pubbs_found": 3,
+        "pubbs_ind": 12,
+        "pubbs_ind_found": 5,
+        "total_extra_found": 5,
+        "total_found": 5,
+        "total_pubbs": 14
+    },
+    "fullname": [
+        "Pesini",
+        "Luca"
+    ],
+    "ind_anvur": [
+        7,
+        4,
+        1,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1826-8080"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "journal": "LA LINGUA ITALIANA: STORIA",
+            "title": "un ricettario di medicina popolare in aretino quattrocentesco",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-6274-797-4"
+            ],
+            "PId": 3023924705,
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.5167/UZH-148911",
+            "title": "saussure e la geografia linguistica",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9782940563159"
+            ],
+            "PId": 2786249750,
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.5167/UZH-149242",
+            "title": "saussure geographie linguistique et dialectologie",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9788862747882"
+            ],
+            "PId": 2783403849,
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "4"
+            },
+            "title": "la linguistica genetica di charles bally gli appunti del manoscritto bge ms fr 5034",
+            "type": "monografia o trattato scientifico",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9791091460323"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "title": "f de saussure e la linguistica romanza un applicazione web per l edizione elettronica dei manoscritti",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788867872602"
+            ],
+            "PId": 2788720237,
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "title": "a collaborative tool for philological research experiments on ferdinand de saussure s manuscripts",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788897987055"
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "title": "building an open sound archive the case of the gra fo project ",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788862744782"
+            ],
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "doi": "10.978.886274/4782",
+            "title": "l edizione digitale dei manoscritti di ferdinand de saussure l analisi dei requisiti e il caso di theorie des sonantes",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0068-516X"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "9"
+            },
+            "journal": "CAHIERS FERDINAND DE SAUSSURE",
+            "title": "un autre fragment inedit de la correspondance saussure bally bge ms fr 5134 ff 21 22 29 32 ",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1126-232X"
+            ],
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "journal": "ANNALI ARETINI",
+            "title": "giovanni rosini e la questione della lingua",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "0068-516X"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "11"
+            },
+            "journal": "CAHIERS FERDINAND DE SAUSSURE",
+            "title": "fragments inedits de la collaboration saussure bally bge ms fr 5134 ",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "0004-0207"
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "12"
+            },
+            "journal": "XCIII",
+            "title": "il dittongamento in antico toscano e in aretino archivio glottologico italiano vol",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "9788876892684"
+            ],
+            "cv_id": {
+                "pubbs": "7"
+            },
+            "title": "il volgare aretino nel basso medioevo ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "0391-4151"
+            ],
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "journal": "STUDI DI GRAMMATICA ITALIANA",
+            "title": "sull origine della desinenza di terza persona plurale del verbo italiano",
+            "type": "articolo in rivista",
+            "year": 2007
+        }
+    ],
+    "pubbs_mag": []
+}

@@ -1,0 +1,4500 @@
+{
+    "AuIds": [
+        2064809057,
+        2776162401,
+        2776633566,
+        2779260068,
+        3061761641,
+        2654548629,
+        2777034014
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "1988098523_+_2048606650": 1
+            },
+            "number": 1
+        },
+        "cand_nodes": 12,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 374,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 143,
+            "comm_other": 4216,
+            "other_cand": 87,
+            "other_comm": 1564
+        },
+        "other_nodes": 4136
+    },
+    "coverage": {
+        "articles": 9,
+        "books": 0,
+        "cov_sect": "A",
+        "other_pubbs": 1,
+        "pubbs": 10,
+        "pubbs_found": 9,
+        "pubbs_ind": 4,
+        "pubbs_ind_found": 4,
+        "total_extra_found": 12,
+        "total_found": 9,
+        "total_pubbs": 10
+    },
+    "fullname": [
+        "Visetti",
+        "Daniela"
+    ],
+    "ind_anvur": [
+        1,
+        2,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0219-1997"
+            ],
+            "PId": 1998845564,
+            "cited": [
+                {
+                    "PId": 1577682781,
+                    "author": [
+                        {
+                            "AuId": 201281356,
+                            "AuN": "emmanuel hebey"
+                        }
+                    ],
+                    "title": "nonlinear analysis on manifolds sobolev spaces and inequalities",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 650714123,
+                    "author": [
+                        {
+                            "AuId": 2722903461,
+                            "AuN": "kungching chang"
+                        }
+                    ],
+                    "title": "infinite dimensional morse theory and multiple solution problems",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1506032630,
+                    "author": [
+                        {
+                            "AuId": 2134464007,
+                            "AuN": "antonio ambrosetti"
+                        },
+                        {
+                            "AuId": 2568367819,
+                            "AuN": "g prodi"
+                        }
+                    ],
+                    "title": "a primer of nonlinear analysis",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1992974193,
+                    "author": [
+                        {
+                            "AuId": 2608344184,
+                            "AuN": "a bahri"
+                        },
+                        {
+                            "AuId": 2179197810,
+                            "AuN": "jeanmichel coron"
+                        }
+                    ],
+                    "doi": "10.1002/CPA.3160410302",
+                    "journal": "communications on pure and applied mathematics",
+                    "title": "on a nonlinear elliptic equation involving the critical sobolev exponent the effect of the topology of the domain",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2079387691,
+                    "author": [
+                        {
+                            "AuId": 2134644870,
+                            "AuN": "juan luis vazquez"
+                        }
+                    ],
+                    "doi": "10.1007/BF01449041",
+                    "journal": "applied mathematics and optimization",
+                    "title": "a strong maximum principle for some quasilinear elliptic equations",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 2091967365,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2263612180,
+                            "AuN": "claudio bonanno"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFA.2007.07.010",
+                    "journal": "journal of functional analysis",
+                    "title": "on the multiplicity of solutions of a nonlinear elliptic problem on riemannian manifolds",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1989564103,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2579224258,
+                            "AuN": "giovanna cerami"
+                        }
+                    ],
+                    "doi": "10.1007/BF01234314",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "multiple positive solutions of some elliptic problems via the morse theory and the domain topology",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1965566485,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2579224258,
+                            "AuN": "giovanna cerami"
+                        }
+                    ],
+                    "doi": "10.1007/BF00282048",
+                    "journal": "archive for rational mechanics and analysis",
+                    "title": "positive solutions of some nonlinear elliptic problems in exterior domains",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 615999284,
+                    "author": [
+                        {
+                            "AuId": 2117338293,
+                            "AuN": "djairo g de figueiredo"
+                        }
+                    ],
+                    "title": "lectures on the ekeland variational principle with applications and detours",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2566680048,
+                    "author": [
+                        {
+                            "AuId": 2468113977,
+                            "AuN": "shingo takeuchi"
+                        },
+                        {
+                            "AuId": 2147815797,
+                            "AuN": "tomomi yokota"
+                        }
+                    ],
+                    "journal": "electronic journal of differential equations",
+                    "title": "global attractors for a class of degenerate diffusion equations",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2023531667,
+                    "author": [
+                        {
+                            "AuId": 2779260068,
+                            "AuN": "daniela visetti"
+                        }
+                    ],
+                    "doi": "10.1016/J.JDE.2008.03.002",
+                    "journal": "journal of differential equations",
+                    "title": "multiplicity of solutions of a zero mass nonlinear equation on a riemannian manifold",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1990044088,
+                    "author": [
+                        {
+                            "AuId": 2167975362,
+                            "AuN": "silvia cingolani"
+                        },
+                        {
+                            "AuId": 1985177757,
+                            "AuN": "giuseppina vannella"
+                        }
+                    ],
+                    "doi": "10.1007/S10231-005-0176-2",
+                    "journal": "annali di matematica pura ed applicata",
+                    "title": "marino prodi perturbation type results and morse indices of minimax critical points for a class of functionals in banach spaces",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2042980807,
+                    "author": [
+                        {
+                            "AuId": 2787219112,
+                            "AuN": "jin wook kim"
+                        },
+                        {
+                            "AuId": 2786722594,
+                            "AuN": "kwang in kim"
+                        },
+                        {
+                            "AuId": 2686554958,
+                            "AuN": "bong joon choi"
+                        },
+                        {
+                            "AuId": 2123426506,
+                            "AuN": "hang joon kim"
+                        }
+                    ],
+                    "doi": "10.1016/0362-546X(93)90164-N",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "decomposition of chinese characters into strokes using mathematical morphology",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2039511371,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        }
+                    ],
+                    "doi": "10.1007/BF01759307",
+                    "journal": "annali di matematica pura ed applicata",
+                    "title": "a new approach to the morse conley theory and some applications",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2041552483,
+                    "author": [
+                        {
+                            "AuId": 1236181014,
+                            "AuN": "olivier druet"
+                        }
+                    ],
+                    "doi": "10.1017/S0308210500000408",
+                    "journal": "proceedings of the royal society a mathematical physical and engineering sciences",
+                    "title": "generalized scalar curvature type equations on compact riemannian manifolds",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1997839562,
+                    "author": [
+                        {
+                            "AuId": 2703781444,
+                            "AuN": "norimichi hirano"
+                        }
+                    ],
+                    "doi": "10.1016/J.NA.2008.01.020",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "multiple existence of solutions for a nonlinear elliptic problem on a riemannian manifold",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1564538326,
+                    "author": [
+                        {
+                            "AuId": 222955721,
+                            "AuN": "sergio lancelotti"
+                        }
+                    ],
+                    "journal": "advances in differential equations",
+                    "title": "morse index estimates for continuous functionals associated with quasilinear elliptic equations",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2185472417,
+                    "author": [
+                        {
+                            "AuId": 2186782474,
+                            "AuN": "ao marcos do"
+                        },
+                        {
+                            "AuId": 2637881376,
+                            "AuN": "everaldo s medeiros"
+                        }
+                    ],
+                    "title": "remarks on least energy solutions for quasilinear elliptic problems in r n",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2234302798,
+                    "author": [
+                        {
+                            "AuId": 2167975362,
+                            "AuN": "silvia cingolani"
+                        },
+                        {
+                            "AuId": 1985177757,
+                            "AuN": "giuseppina vannella"
+                        },
+                        {
+                            "AuId": 2776633566,
+                            "AuN": "daniela visetti"
+                        }
+                    ],
+                    "journal": "advances in differential equations",
+                    "title": "morse index estimates for quasilinear equations on riemannian manifolds",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2064767129,
+                    "author": [
+                        {
+                            "AuId": 2167975362,
+                            "AuN": "silvia cingolani"
+                        },
+                        {
+                            "AuId": 1985177757,
+                            "AuN": "giuseppina vannella"
+                        }
+                    ],
+                    "doi": "10.1016/J.JDE.2009.07.035",
+                    "journal": "journal of differential equations",
+                    "title": "on the multiplicity of positive solutions for p laplace equations via morse theory",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1979308508,
+                    "author": [
+                        {
+                            "AuId": 2167975362,
+                            "AuN": "silvia cingolani"
+                        },
+                        {
+                            "AuId": 2690099816,
+                            "AuN": "monica lazzo"
+                        },
+                        {
+                            "AuId": 1985177757,
+                            "AuN": "giuseppina vannella"
+                        }
+                    ],
+                    "doi": "10.1142/S0219199705001714",
+                    "journal": "communications in contemporary mathematics",
+                    "title": "multiplicity results for a quasilinear elliptic system via morse theory",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2007516559,
+                    "author": [
+                        {
+                            "AuId": 2089528426,
+                            "AuN": "marco ghimenti"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "doi": "10.1080/17476933.2011.561332",
+                    "journal": "complex variables and elliptic equations",
+                    "title": "positive solutions for a singularly perturbed nonlinear elliptic problem on manifolds via morse theory",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 578069275,
+                    "author": [
+                        {
+                            "AuId": 3118247302,
+                            "AuN": "antonio ambrosetti"
+                        },
+                        {
+                            "AuId": 2568337537,
+                            "AuN": "a marino"
+                        },
+                        {
+                            "AuId": 2568367819,
+                            "AuN": "g prodi"
+                        }
+                    ],
+                    "title": "nonlinear analysis a tribute in honour of giovanni prodi",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2794435666,
+                    "author": [
+                        {
+                            "AuId": 2794412218,
+                            "AuN": "a ambrosetti"
+                        },
+                        {
+                            "AuId": 3064140270,
+                            "AuN": "k c chang"
+                        },
+                        {
+                            "AuId": 2940035071,
+                            "AuN": "i ekeland"
+                        }
+                    ],
+                    "doi": "10.1142/9789814528535",
+                    "title": "nonlinear functional analysis and applications to differential equations proceedings of the second school",
+                    "year_mag": 1998
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 1493921444,
+                    "author": [
+                        {
+                            "AuId": 2294962107,
+                            "AuN": "giovany m figueiredo"
+                        },
+                        {
+                            "AuId": 2253396271,
+                            "AuN": "gaetano siciliano"
+                        }
+                    ],
+                    "doi": "10.1007/S00030-016-0355-4",
+                    "journal": "nodea nonlinear differential equations and applications",
+                    "title": "a multiplicity result via ljusternick schnirelmann category and morse theory for a fractional schrodinger equation in mathbb r n",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2963669194,
+                    "author": [
+                        {
+                            "AuId": 2294962107,
+                            "AuN": "giovany m figueiredo"
+                        },
+                        {
+                            "AuId": 2788989225,
+                            "AuN": "marcos t o pimenta"
+                        },
+                        {
+                            "AuId": 2253396271,
+                            "AuN": "gaetano siciliano"
+                        }
+                    ],
+                    "doi": "10.1007/S00009-018-1186-9",
+                    "journal": "nodea nonlinear differential equations and applications",
+                    "title": "multiplicity results for the fractional laplacian in expanding domains",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2900357714,
+                    "author": [
+                        {
+                            "AuId": 2900207108,
+                            "AuN": "nanbo chen"
+                        },
+                        {
+                            "AuId": 2679780888,
+                            "AuN": "xiaochun liu"
+                        }
+                    ],
+                    "doi": "10.1007/S11868-018-0267-7",
+                    "journal": "nodea nonlinear differential equations and applications",
+                    "title": "a quasilinear elliptic equation with critical growth on compact riemannian manifold",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2963697268,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 1565747755,
+                            "AuN": "isaia nisoli"
+                        }
+                    ],
+                    "doi": "10.1016/J.AJMSC.2015.05.004",
+                    "journal": "nodea nonlinear differential equations and applications",
+                    "title": "towards a morse theory on banach spaces via ultrafunctions",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2897728444,
+                    "author": [
+                        {
+                            "AuId": 2167975362,
+                            "AuN": "silvia cingolani"
+                        },
+                        {
+                            "AuId": 1985177757,
+                            "AuN": "giuseppina vannella"
+                        }
+                    ],
+                    "doi": "10.1016/J.JDE.2018.10.004",
+                    "journal": "nodea nonlinear differential equations and applications",
+                    "title": "the brezis nirenberg type problem for the p laplacian 1 p 2 multiple positive solutions",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2079830716,
+                    "author": [
+                        {
+                            "AuId": 2167975362,
+                            "AuN": "silvia cingolani"
+                        }
+                    ],
+                    "doi": "10.1007/S11784-014-0163-6",
+                    "journal": "nodea nonlinear differential equations and applications",
+                    "title": "on local morse theory for p area functionals p 2",
+                    "year_mag": 2013
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1142/S0219199714500291",
+            "journal": "COMMUNICATIONS IN CONTEMPORARY MATHEMATICS",
+            "title": "multiplicity and nondegeneracy of positive solutions to quasilinear equations on compact riemannian manifolds",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0025-5564"
+            ],
+            "PId": 2962950566,
+            "cited": [
+                {
+                    "PId": 1833207062,
+                    "author": [
+                        {
+                            "AuId": 2587516099,
+                            "AuN": "gerald l mandell"
+                        },
+                        {
+                            "AuId": 2691619057,
+                            "AuN": "r gordon douglas"
+                        },
+                        {
+                            "AuId": 3037281647,
+                            "AuN": "john e bennett"
+                        }
+                    ],
+                    "title": "principles and practice of infectious diseases",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 1606697907,
+                    "author": [
+                        {
+                            "AuId": 2239437576,
+                            "AuN": "roy m anderson"
+                        },
+                        {
+                            "AuId": 2232643073,
+                            "AuN": "robert m may"
+                        }
+                    ],
+                    "title": "infectious diseases of humans dynamics and control",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2109538719,
+                    "author": [
+                        {
+                            "AuId": 2093640279,
+                            "AuN": "karen r lips"
+                        },
+                        {
+                            "AuId": 2609230551,
+                            "AuN": "forrest brem"
+                        },
+                        {
+                            "AuId": 2524093360,
+                            "AuN": "roberto brenes"
+                        },
+                        {
+                            "AuId": 2119207778,
+                            "AuN": "john d reeve"
+                        },
+                        {
+                            "AuId": 2140619417,
+                            "AuN": "ross a alford"
+                        },
+                        {
+                            "AuId": 2115965919,
+                            "AuN": "jamie voyles"
+                        },
+                        {
+                            "AuId": 2011070708,
+                            "AuN": "cynthia carey"
+                        },
+                        {
+                            "AuId": 2014364557,
+                            "AuN": "lauren j livo"
+                        },
+                        {
+                            "AuId": 2012199857,
+                            "AuN": "allan p pessier"
+                        },
+                        {
+                            "AuId": 2110410774,
+                            "AuN": "james p collins"
+                        }
+                    ],
+                    "doi": "10.1073/PNAS.0506889103",
+                    "journal": "proceedings of the national academy of sciences of the united states of america",
+                    "title": "emerging infectious disease and the loss of biodiversity in a neotropical amphibian community",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 603847685,
+                    "author": [
+                        {
+                            "AuId": 2128574191,
+                            "AuN": "peter j hudson"
+                        }
+                    ],
+                    "title": "the ecology of wildlife diseases",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2010825494,
+                    "author": [
+                        {
+                            "AuId": 2040652110,
+                            "AuN": "jonathan dushoff"
+                        },
+                        {
+                            "AuId": 2119565080,
+                            "AuN": "wenzhang huang"
+                        },
+                        {
+                            "AuId": 2109352186,
+                            "AuN": "carlos castillochavez"
+                        }
+                    ],
+                    "doi": "10.1007/S002850050099",
+                    "journal": "journal of mathematical biology",
+                    "title": "backwards bifurcations and catastrophe in simple models of fatal diseases",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2077634599,
+                    "author": [
+                        {
+                            "AuId": 2128574191,
+                            "AuN": "peter j hudson"
+                        },
+                        {
+                            "AuId": 2084886974,
+                            "AuN": "andrew p dobson"
+                        },
+                        {
+                            "AuId": 2708616995,
+                            "AuN": "dave newborn"
+                        }
+                    ],
+                    "doi": "10.1126/SCIENCE.282.5397.2256",
+                    "journal": "science",
+                    "title": "prevention of population cycles by parasite removal",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2087530582,
+                    "author": [
+                        {
+                            "AuId": 3022024302,
+                            "AuN": "melody e roelkeparker"
+                        },
+                        {
+                            "AuId": 2172947150,
+                            "AuN": "linda munson"
+                        },
+                        {
+                            "AuId": 2154277336,
+                            "AuN": "craig packer"
+                        },
+                        {
+                            "AuId": 2139550660,
+                            "AuN": "richard kock"
+                        },
+                        {
+                            "AuId": 2063858536,
+                            "AuN": "sarah cleaveland"
+                        },
+                        {
+                            "AuId": 2131679647,
+                            "AuN": "margaret a carpenter"
+                        },
+                        {
+                            "AuId": 2288888591,
+                            "AuN": "stephen j obrien"
+                        },
+                        {
+                            "AuId": 1829692506,
+                            "AuN": "andreas pospischil"
+                        },
+                        {
+                            "AuId": 159940555,
+                            "AuN": "regina hofmannlehmann"
+                        },
+                        {
+                            "AuId": 2251887183,
+                            "AuN": "hans lutz"
+                        },
+                        {
+                            "AuId": 2608578728,
+                            "AuN": "george l m mwamengele"
+                        },
+                        {
+                            "AuId": 2607988468,
+                            "AuN": "m n mgasa"
+                        },
+                        {
+                            "AuId": 2019401144,
+                            "AuN": "g a machange"
+                        },
+                        {
+                            "AuId": 2236304526,
+                            "AuN": "b a summers"
+                        },
+                        {
+                            "AuId": 2334704637,
+                            "AuN": "max j g appel"
+                        }
+                    ],
+                    "doi": "10.1038/379441A0",
+                    "journal": "nature",
+                    "title": "a canine distemper virus epidemic in serengeti lions panthera leo",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2061738077,
+                    "author": [
+                        {
+                            "AuId": 2119565080,
+                            "AuN": "wenzhang huang"
+                        },
+                        {
+                            "AuId": 1925180967,
+                            "AuN": "kenneth l cooke"
+                        },
+                        {
+                            "AuId": 2109352186,
+                            "AuN": "carlos castillochavez"
+                        }
+                    ],
+                    "doi": "10.1137/0152047",
+                    "journal": "siam journal on applied mathematics",
+                    "title": "stability and bifurcation for a multiple group model for the dynamics of hiv aids transmission",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2307072262,
+                    "author": [
+                        {
+                            "AuId": 2740123514,
+                            "AuN": "s levin"
+                        }
+                    ],
+                    "title": "lectu re notes in biomathematics",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2059655508,
+                    "author": [
+                        {
+                            "AuId": 2232643073,
+                            "AuN": "robert m may"
+                        },
+                        {
+                            "AuId": 2239437576,
+                            "AuN": "roy m anderson"
+                        }
+                    ],
+                    "doi": "10.1038/280455A0",
+                    "journal": "nature",
+                    "title": "population biology of infectious diseases part ii",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 2124329435,
+                    "author": [
+                        {
+                            "AuId": 2202684393,
+                            "AuN": "daniel m tompkins"
+                        },
+                        {
+                            "AuId": 2167671834,
+                            "AuN": "andrew white"
+                        },
+                        {
+                            "AuId": 2155925869,
+                            "AuN": "mike boots"
+                        }
+                    ],
+                    "doi": "10.1046/J.1461-0248.2003.00417.X",
+                    "journal": "ecology letters",
+                    "title": "ecological replacement of native red squirrels by invasive greys driven by disease",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1973004975,
+                    "author": [
+                        {
+                            "AuId": 193542195,
+                            "AuN": "pierre magal"
+                        },
+                        {
+                            "AuId": 2131873881,
+                            "AuN": "shigui ruan"
+                        }
+                    ],
+                    "title": "center manifolds for semilinear equations with non dense domain and applications to hopf bifurcation in age structured models",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2023597018,
+                    "author": [
+                        {
+                            "AuId": 2608440572,
+                            "AuN": "m e arnold"
+                        },
+                        {
+                            "AuId": 1902748065,
+                            "AuN": "j w wilesmith"
+                        }
+                    ],
+                    "doi": "10.1016/J.PREVETMED.2004.07.007",
+                    "journal": "preventive veterinary medicine",
+                    "title": "estimation of the age dependent risk of infection to bse of dairy cattle in great britain",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2134483051,
+                    "author": [
+                        {
+                            "AuId": 1981203047,
+                            "AuN": "nicola ferrari"
+                        },
+                        {
+                            "AuId": 1989057892,
+                            "AuN": "isabella m cattadori"
+                        },
+                        {
+                            "AuId": 2684110383,
+                            "AuN": "javier nespereira"
+                        },
+                        {
+                            "AuId": 2311479617,
+                            "AuN": "annapaola rizzoli"
+                        },
+                        {
+                            "AuId": 2128574191,
+                            "AuN": "peter j hudson"
+                        }
+                    ],
+                    "doi": "10.1046/J.1461-0248.2003.00552.X",
+                    "journal": "ecology letters",
+                    "title": "the role of host sex in parasite dynamics field experiments on the yellow necked mouse apodemus flavicollis",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1985789451,
+                    "author": [
+                        {
+                            "AuId": 2300162836,
+                            "AuN": "luca rossi"
+                        },
+                        {
+                            "AuId": 2702219630,
+                            "AuN": "c fraquelli"
+                        },
+                        {
+                            "AuId": 204405644,
+                            "AuN": "umberto vesco"
+                        },
+                        {
+                            "AuId": 2713348737,
+                            "AuN": "r permunian"
+                        },
+                        {
+                            "AuId": 2643859501,
+                            "AuN": "g m sommavilla"
+                        },
+                        {
+                            "AuId": 2316621314,
+                            "AuN": "g carmignola"
+                        },
+                        {
+                            "AuId": 2570385259,
+                            "AuN": "r da pozzo"
+                        },
+                        {
+                            "AuId": 1975014308,
+                            "AuN": "pier giuseppe meneguz"
+                        }
+                    ],
+                    "doi": "10.1007/S10344-006-0067-X",
+                    "journal": "european journal of wildlife research",
+                    "title": "descriptive epidemiology of a scabies epidemic in chamois in the dolomite alps italy",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2148029848,
+                    "author": [
+                        {
+                            "AuId": 2223901055,
+                            "AuN": "r m anderson"
+                        },
+                        {
+                            "AuId": 2232643073,
+                            "AuN": "robert m may"
+                        }
+                    ],
+                    "doi": "10.1017/S002217240006160X",
+                    "journal": "journal of hygiene",
+                    "title": "age related changes in the rate of disease transmission implications for the design of vaccination programmes",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 1994988165,
+                    "author": [
+                        {
+                            "AuId": 2093224808,
+                            "AuN": "morton e gurtin"
+                        },
+                        {
+                            "AuId": 2464180006,
+                            "AuN": "richard c maccamy"
+                        }
+                    ],
+                    "doi": "10.1007/BF00250793",
+                    "journal": "archive for rational mechanics and analysis",
+                    "title": "non linear age dependent population dynamics",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 2010665245,
+                    "author": [
+                        {
+                            "AuId": 2045668165,
+                            "AuN": "hisashi inaba"
+                        }
+                    ],
+                    "doi": "10.1007/BF00178326",
+                    "journal": "journal of mathematical biology",
+                    "title": "threshold and stability results for an age structured epidemic model",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2069635533,
+                    "author": [
+                        {
+                            "AuId": 2086821334,
+                            "AuN": "luca bolzoni"
+                        },
+                        {
+                            "AuId": 2571341537,
+                            "AuN": "leslie a real"
+                        },
+                        {
+                            "AuId": 2105861832,
+                            "AuN": "giulio a de leo"
+                        }
+                    ],
+                    "doi": "10.1371/JOURNAL.PONE.0000747",
+                    "journal": "plos one",
+                    "title": "transmission heterogeneity and control strategies for infectious disease emergence",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2083800726,
+                    "author": [
+                        {
+                            "AuId": 2224500157,
+                            "AuN": "jianquan li"
+                        },
+                        {
+                            "AuId": 2096742271,
+                            "AuN": "zhien ma"
+                        },
+                        {
+                            "AuId": 2652854457,
+                            "AuN": "yicang zhou"
+                        }
+                    ],
+                    "doi": "10.1016/S0252-9602(06)60029-5",
+                    "journal": "acta mathematica scientia",
+                    "title": "global analysis of sis epidemic model with a simple vaccination and multiple endemic equilibria",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2066309042,
+                    "author": [
+                        {
+                            "AuId": 1986505126,
+                            "AuN": "dimitri breda"
+                        },
+                        {
+                            "AuId": 2008447638,
+                            "AuN": "mimmo iannelli"
+                        },
+                        {
+                            "AuId": 1859982739,
+                            "AuN": "stefano maset"
+                        },
+                        {
+                            "AuId": 1936566377,
+                            "AuN": "rossana vermiglio"
+                        }
+                    ],
+                    "doi": "10.1137/070685658",
+                    "journal": "siam journal on numerical analysis",
+                    "title": "stability analysis of the gurtin maccamy model",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2054326822,
+                    "author": [
+                        {
+                            "AuId": 2163221607,
+                            "AuN": "andrea pugliese"
+                        }
+                    ],
+                    "doi": "10.1007/BF00171519",
+                    "journal": "journal of mathematical biology",
+                    "title": "population models for diseases with no recovery",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2004880157,
+                    "author": [
+                        {
+                            "AuId": 1984848646,
+                            "AuN": "barbara boldin"
+                        }
+                    ],
+                    "doi": "10.1137/050629082",
+                    "journal": "siam journal on applied mathematics",
+                    "title": "introducing a population into a steady community the critical case the center manifold and the direction of bifurcation",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2009374474,
+                    "author": [
+                        {
+                            "AuId": 2123396338,
+                            "AuN": "youngjoon cha"
+                        },
+                        {
+                            "AuId": 2008447638,
+                            "AuN": "mimmo iannelli"
+                        },
+                        {
+                            "AuId": 1975952517,
+                            "AuN": "fabio milner"
+                        }
+                    ],
+                    "doi": "10.1016/S0025-5564(98)10006-8",
+                    "journal": "bellman prize in mathematical biosciences",
+                    "title": "existence and uniqueness of endemic states for the age structured s i r epidemic model",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2153379051,
+                    "author": [
+                        {
+                            "AuId": 2051243218,
+                            "AuN": "micheline guiserix"
+                        },
+                        {
+                            "AuId": 335879736,
+                            "AuN": "narges bahijaber"
+                        },
+                        {
+                            "AuId": 590095017,
+                            "AuN": "david fouchet"
+                        },
+                        {
+                            "AuId": 2128312805,
+                            "AuN": "frank sauvage"
+                        },
+                        {
+                            "AuId": 2236841772,
+                            "AuN": "dominique pontier"
+                        }
+                    ],
+                    "doi": "10.1098/RSIF.2007.0235",
+                    "journal": "journal of the royal society interface",
+                    "title": "the canine distemper epidemic in serengeti are lions victims of a new highly virulent canine distemper virus strain or is pathogen circulation stochasticity to blame",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2116333818,
+                    "author": [
+                        {
+                            "AuId": 1950618257,
+                            "AuN": "stavros busenberg"
+                        },
+                        {
+                            "AuId": 1925180967,
+                            "AuN": "kenneth l cooke"
+                        },
+                        {
+                            "AuId": 2008447638,
+                            "AuN": "mimmo iannelli"
+                        }
+                    ],
+                    "doi": "10.1137/0148085",
+                    "journal": "siam journal on applied mathematics",
+                    "title": "endemic thresholds and stability in a class of age structured epidemics",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2005467593,
+                    "author": [
+                        {
+                            "AuId": 1950618257,
+                            "AuN": "stavros busenberg"
+                        },
+                        {
+                            "AuId": 2607943705,
+                            "AuN": "kenneth cooke"
+                        },
+                        {
+                            "AuId": 2723413090,
+                            "AuN": "horst thieme"
+                        }
+                    ],
+                    "doi": "10.1137/0151052",
+                    "journal": "siam journal on applied mathematics",
+                    "title": "demographic change and persistence of hiv aids in heterogeneous population",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 172357456,
+                    "author": [
+                        {
+                            "AuId": 2232643073,
+                            "AuN": "robert m may"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-69888-0_16",
+                    "title": "population biology of microparasitic infections",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 200282139,
+                    "author": [
+                        {
+                            "AuId": 1254431429,
+                            "AuN": "horst r thieme"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-45692-3_10",
+                    "title": "stability change of the endemic equilibrium in age structured models for the spread of s i r type infectious diseases",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 1972421988,
+                    "author": [
+                        {
+                            "AuId": 2026933612,
+                            "AuN": "sarah a sollid"
+                        },
+                        {
+                            "AuId": 2009350219,
+                            "AuN": "harriet v lorz"
+                        },
+                        {
+                            "AuId": 2306695357,
+                            "AuN": "donald g stevens"
+                        },
+                        {
+                            "AuId": 2265762915,
+                            "AuN": "jerri l bartholomew"
+                        }
+                    ],
+                    "doi": "10.1577/H02-038",
+                    "journal": "journal of aquatic animal health",
+                    "title": "age dependent susceptibility of chinook salmon to myxobolus cerebralis and effects of sustained parasite challenges",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1994219444,
+                    "author": [
+                        {
+                            "AuId": 1912959689,
+                            "AuN": "k p hadeler"
+                        },
+                        {
+                            "AuId": 2107581174,
+                            "AuN": "klaus dietz"
+                        }
+                    ],
+                    "doi": "10.1016/0898-1221(83)90056-1",
+                    "journal": "computers & mathematics with applications",
+                    "title": "nonlinear hyperbolic partial differential equations for the dynamics of parasite populations",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2024709637,
+                    "author": [
+                        {
+                            "AuId": 32918201,
+                            "AuN": "viggo andreasen"
+                        }
+                    ],
+                    "doi": "10.1016/0040-5809(89)90031-2",
+                    "journal": "theoretical population biology",
+                    "title": "disease regulation of age structured host populations",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2091097694,
+                    "author": [
+                        {
+                            "AuId": 2154810515,
+                            "AuN": "david g greenhalgh"
+                        }
+                    ],
+                    "doi": "10.1093/IMAMMB/5.2.81",
+                    "journal": "mathematical medicine and biology a journal of the ima",
+                    "title": "threshold and stability results for an epidemic model with an age structured meeting rate",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2052205403,
+                    "author": [
+                        {
+                            "AuId": 2137193926,
+                            "AuN": "steven krakowka"
+                        },
+                        {
+                            "AuId": 2162869401,
+                            "AuN": "a koestner"
+                        }
+                    ],
+                    "doi": "10.1093/INFDIS/134.6.629",
+                    "journal": "the journal of infectious diseases",
+                    "title": "age related susceptibility to infection with canine distemper virus in gnotobiotic dogs",
+                    "year_mag": 1976
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 1993604411,
+                    "author": [
+                        {
+                            "AuId": 2511224217,
+                            "AuN": "jing li"
+                        },
+                        {
+                            "AuId": 2119520093,
+                            "AuN": "guiquan sun"
+                        },
+                        {
+                            "AuId": 2722998671,
+                            "AuN": "zhen jin"
+                        }
+                    ],
+                    "doi": "10.1016/J.PHYSA.2014.02.025",
+                    "journal": "physica a statistical mechanics and its applications",
+                    "title": "pattern formation of an epidemic model with time delay",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2786670454,
+                    "author": [
+                        {
+                            "AuId": 2786777544,
+                            "AuN": "wentao huang"
+                        },
+                        {
+                            "AuId": 2786568517,
+                            "AuN": "guoqiang deng"
+                        },
+                        {
+                            "AuId": 2785911590,
+                            "AuN": "aimin tang"
+                        },
+                        {
+                            "AuId": 2787533130,
+                            "AuN": "lijie hao"
+                        },
+                        {
+                            "AuId": 2786445307,
+                            "AuN": "guirong jiang"
+                        }
+                    ],
+                    "doi": "10.1109/CIS.2017.00086",
+                    "journal": "physica a statistical mechanics and its applications",
+                    "title": "dynamics of a saturation incidence sirs epidemic model with pulses at different moments",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2335041952,
+                    "author": [
+                        {
+                            "AuId": 1986505126,
+                            "AuN": "dimitri breda"
+                        },
+                        {
+                            "AuId": 1859982739,
+                            "AuN": "stefano maset"
+                        },
+                        {
+                            "AuId": 1936566377,
+                            "AuN": "rossana vermiglio"
+                        }
+                    ],
+                    "doi": "10.3934/DCDS.2012.32.2675",
+                    "journal": "physica a statistical mechanics and its applications",
+                    "title": "numerical recipes for investigating endemic equilibria of age structured sir epidemics",
+                    "year_mag": 2012
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1016/J.MBS.2011.10.004",
+            "journal": "MATHEMATICAL BIOSCIENCES",
+            "title": "existence multiplicity and stability of endemic states for an age structured s i epidemic model",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1079-9389"
+            ],
+            "PId": 2234302798,
+            "cited": [
+                {
+                    "PId": 650714123,
+                    "author": [
+                        {
+                            "AuId": 2722903461,
+                            "AuN": "kungching chang"
+                        }
+                    ],
+                    "title": "infinite dimensional morse theory and multiple solution problems",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2091967365,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2263612180,
+                            "AuN": "claudio bonanno"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFA.2007.07.010",
+                    "journal": "journal of functional analysis",
+                    "title": "on the multiplicity of solutions of a nonlinear elliptic problem on riemannian manifolds",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2011950750,
+                    "author": [
+                        {
+                            "AuId": 2167975362,
+                            "AuN": "silvia cingolani"
+                        },
+                        {
+                            "AuId": 1985177757,
+                            "AuN": "giuseppina vannella"
+                        }
+                    ],
+                    "doi": "10.1016/S0294-1449(02)00011-2",
+                    "journal": "annales de l institut henri poincare analyse non lineaire",
+                    "title": "critical groups computations on a class of sobolev banach spaces via morse index",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2227449807,
+                    "author": [
+                        {
+                            "AuId": 2308794111,
+                            "AuN": "francoise demengel"
+                        },
+                        {
+                            "AuId": 201281356,
+                            "AuN": "emmanuel hebey"
+                        }
+                    ],
+                    "journal": "advances in differential equations",
+                    "title": "on some nonlinear equations involving the p laplacian with critical sobolev growth",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1990044088,
+                    "author": [
+                        {
+                            "AuId": 2167975362,
+                            "AuN": "silvia cingolani"
+                        },
+                        {
+                            "AuId": 1985177757,
+                            "AuN": "giuseppina vannella"
+                        }
+                    ],
+                    "doi": "10.1007/S10231-005-0176-2",
+                    "journal": "annali di matematica pura ed applicata",
+                    "title": "marino prodi perturbation type results and morse indices of minimax critical points for a class of functionals in banach spaces",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1989253656,
+                    "author": [
+                        {
+                            "AuId": 2167975362,
+                            "AuN": "silvia cingolani"
+                        },
+                        {
+                            "AuId": 1985177757,
+                            "AuN": "giuseppina vannella"
+                        }
+                    ],
+                    "doi": "10.1016/J.ANIHPC.2007.09.003",
+                    "journal": "annales de l institut henri poincare analyse non lineaire",
+                    "title": "multiple positive solutions for a critical quasilinear equation via morse theory",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2077810238,
+                    "author": [
+                        {
+                            "AuId": 1988872356,
+                            "AuN": "paolo antonini"
+                        },
+                        {
+                            "AuId": 2050473305,
+                            "AuN": "dimitri mugnai"
+                        },
+                        {
+                            "AuId": 2278371509,
+                            "AuN": "patrizia pucci"
+                        }
+                    ],
+                    "doi": "10.1016/J.MATPUR.2007.04.003",
+                    "journal": "journal de mathematiques pures et appliquees",
+                    "title": "quasilinear elliptic inequalities on complete riemannian manifolds",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1972507841,
+                    "author": [
+                        {
+                            "AuId": 2167975362,
+                            "AuN": "silvia cingolani"
+                        },
+                        {
+                            "AuId": 1985177757,
+                            "AuN": "giuseppina vannella"
+                        }
+                    ],
+                    "doi": "10.1007/S00009-006-0093-7",
+                    "journal": "mediterranean journal of mathematics",
+                    "title": "morse index and critical groups for p laplace equations with critical exponents",
+                    "year_mag": 2006
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2963697268,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 1565747755,
+                            "AuN": "isaia nisoli"
+                        }
+                    ],
+                    "doi": "10.1016/J.AJMSC.2015.05.004",
+                    "journal": "arab journal of mathematical sciences",
+                    "title": "towards a morse theory on banach spaces via ultrafunctions",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1782716097,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 1565747755,
+                            "AuN": "isaia nisoli"
+                        }
+                    ],
+                    "journal": "arab journal of mathematical sciences",
+                    "title": "towards a morse theory on banach spaces via ultrafunctions",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2016226967,
+                    "author": [
+                        {
+                            "AuId": 2167033003,
+                            "AuN": "jose carmona"
+                        },
+                        {
+                            "AuId": 2167975362,
+                            "AuN": "silvia cingolani"
+                        },
+                        {
+                            "AuId": 1366019852,
+                            "AuN": "pedro j martinezaparicio"
+                        },
+                        {
+                            "AuId": 1985177757,
+                            "AuN": "giuseppina vannella"
+                        }
+                    ],
+                    "doi": "10.1080/03605302.2013.816856",
+                    "journal": "arab journal of mathematical sciences",
+                    "title": "regularity and morse index of the solutions to critical quasilinear elliptic systems",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1998845564,
+                    "author": [
+                        {
+                            "AuId": 2167975362,
+                            "AuN": "silvia cingolani"
+                        },
+                        {
+                            "AuId": 1985177757,
+                            "AuN": "giuseppina vannella"
+                        },
+                        {
+                            "AuId": 2776633566,
+                            "AuN": "daniela visetti"
+                        }
+                    ],
+                    "doi": "10.1142/S0219199714500291",
+                    "journal": "arab journal of mathematical sciences",
+                    "title": "multiplicity and nondegeneracy of positive solutions to quasilinear equations on compact riemannian manifolds",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2079830716,
+                    "author": [
+                        {
+                            "AuId": 2167975362,
+                            "AuN": "silvia cingolani"
+                        }
+                    ],
+                    "doi": "10.1007/S11784-014-0163-6",
+                    "journal": "arab journal of mathematical sciences",
+                    "title": "on local morse theory for p area functionals p 2",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2189542114,
+                    "author": [
+                        {
+                            "AuId": 2188634448,
+                            "AuN": "jos carmona tapia"
+                        },
+                        {
+                            "AuId": 2167975362,
+                            "AuN": "silvia cingolani"
+                        },
+                        {
+                            "AuId": 2181655415,
+                            "AuN": "pedro j mart"
+                        },
+                        {
+                            "AuId": 2065067882,
+                            "AuN": "giusi vannella"
+                        }
+                    ],
+                    "journal": "arab journal of mathematical sciences",
+                    "title": "regularity for quasilinear elliptic systems with critical growth critical groups computations and applications",
+                    "year_mag": 2011
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "journal": "ADVANCES IN DIFFERENTIAL EQUATIONS",
+            "title": "morse index estimates for quasilinear equations on riemannian manifolds",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "0022-0396"
+            ],
+            "PId": 2023531667,
+            "cited": [
+                {
+                    "PId": 1577682781,
+                    "author": [
+                        {
+                            "AuId": 201281356,
+                            "AuN": "emmanuel hebey"
+                        }
+                    ],
+                    "title": "nonlinear analysis on manifolds sobolev spaces and inequalities",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2071132730,
+                    "author": [
+                        {
+                            "AuId": 3111894845,
+                            "AuN": "henri berestycki"
+                        },
+                        {
+                            "AuId": 3111894845,
+                            "AuN": "henri berestycki"
+                        },
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        },
+                        {
+                            "AuId": 2251669073,
+                            "AuN": "pierrelouis lions"
+                        }
+                    ],
+                    "doi": "10.1007/BF00250555",
+                    "journal": "archive for rational mechanics and analysis",
+                    "title": "nonlinear scalar field equations i existence of a ground state",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 1992974193,
+                    "author": [
+                        {
+                            "AuId": 2608344184,
+                            "AuN": "a bahri"
+                        },
+                        {
+                            "AuId": 2179197810,
+                            "AuN": "jeanmichel coron"
+                        }
+                    ],
+                    "doi": "10.1002/CPA.3160410302",
+                    "journal": "communications on pure and applied mathematics",
+                    "title": "on a nonlinear elliptic equation involving the critical sobolev exponent the effect of the topology of the domain",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2051195713,
+                    "author": [
+                        {
+                            "AuId": 2146517048,
+                            "AuN": "walter a strauss"
+                        }
+                    ],
+                    "doi": "10.1007/BF01626517",
+                    "journal": "communications in mathematical physics",
+                    "title": "existence of solitary waves in higher dimensions",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 2091967365,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2263612180,
+                            "AuN": "claudio bonanno"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFA.2007.07.010",
+                    "journal": "journal of functional analysis",
+                    "title": "on the multiplicity of solutions of a nonlinear elliptic problem on riemannian manifolds",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1963520230,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2005217914,
+                            "AuN": "donato fortunato"
+                        }
+                    ],
+                    "doi": "10.1007/S00205-004-0324-7",
+                    "journal": "archive for rational mechanics and analysis",
+                    "title": "towards a unified field theory for classical electrodynamics",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2078892129,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2288113601,
+                            "AuN": "giovanna cerami"
+                        }
+                    ],
+                    "doi": "10.1007/BF00375686",
+                    "journal": "archive for rational mechanics and analysis",
+                    "title": "the effect of the domain topology on the number of positive solutions of nonlinear elliptic problems",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 1989564103,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2579224258,
+                            "AuN": "giovanna cerami"
+                        }
+                    ],
+                    "doi": "10.1007/BF01234314",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "multiple positive solutions of some elliptic problems via the morse theory and the domain topology",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 615999284,
+                    "author": [
+                        {
+                            "AuId": 2117338293,
+                            "AuN": "djairo g de figueiredo"
+                        }
+                    ],
+                    "title": "lectures on the ekeland variational principle with applications and detours",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2517234737,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "doi": "10.1515/ANS-2006-0204",
+                    "journal": "advanced nonlinear studies",
+                    "title": "solutions in exterior domains of null mass nonlinear field equations",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2104888285,
+                    "author": [
+                        {
+                            "AuId": 1990647214,
+                            "AuN": "e n dancer"
+                        }
+                    ],
+                    "doi": "10.1112/BLMS/20.6.600",
+                    "journal": "bulletin of the london mathematical society",
+                    "title": "a note on an equation with critical exponent",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 20649249,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4612-2570-6_2",
+                    "title": "introduction to morse theory a new approach",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 578069275,
+                    "author": [
+                        {
+                            "AuId": 3118247302,
+                            "AuN": "antonio ambrosetti"
+                        },
+                        {
+                            "AuId": 2568337537,
+                            "AuN": "a marino"
+                        },
+                        {
+                            "AuId": 2568367819,
+                            "AuN": "g prodi"
+                        }
+                    ],
+                    "title": "nonlinear analysis a tribute in honour of giovanni prodi",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2500565990,
+                    "author": [
+                        {
+                            "AuId": 2477465651,
+                            "AuN": "h berestychi"
+                        },
+                        {
+                            "AuId": 2492177026,
+                            "AuN": "p l lions"
+                        }
+                    ],
+                    "title": "existence d etats multiples dans des equations de champs scalaires non lineaires dans le cas de masse nulle",
+                    "year_mag": 1983
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2006934881,
+                    "author": [
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        },
+                        {
+                            "AuId": 2006778635,
+                            "AuN": "angela pistoia"
+                        }
+                    ],
+                    "doi": "10.1007/S00526-008-0183-4",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "the role of the scalar curvature in a nonlinear elliptic problem on riemannian manifolds",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1493921444,
+                    "author": [
+                        {
+                            "AuId": 2294962107,
+                            "AuN": "giovany m figueiredo"
+                        },
+                        {
+                            "AuId": 2253396271,
+                            "AuN": "gaetano siciliano"
+                        }
+                    ],
+                    "doi": "10.1007/S00030-016-0355-4",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "a multiplicity result via ljusternick schnirelmann category and morse theory for a fractional schrodinger equation in mathbb r n",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2950148372,
+                    "author": [
+                        {
+                            "AuId": 2414406970,
+                            "AuN": "monica clapp"
+                        },
+                        {
+                            "AuId": 2089528426,
+                            "AuN": "marco ghimenti"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "solutions to a singularly perturbed supercritical elliptic equation on a riemannian manifold concentrating at a submanifold",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2003148613,
+                    "author": [
+                        {
+                            "AuId": 2414406970,
+                            "AuN": "monica clapp"
+                        },
+                        {
+                            "AuId": 2089528426,
+                            "AuN": "marco ghimenti"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "doi": "10.1016/J.JMAA.2014.05.079",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "solutions to a singularly perturbed supercritical elliptic equation on a riemannian manifold concentrating at a submanifold",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2511965065,
+                    "author": [
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        },
+                        {
+                            "AuId": 2006778635,
+                            "AuN": "angela pistoia"
+                        }
+                    ],
+                    "doi": "10.1515/ANS-2009-0308",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "nodal solutions for a singularly perturbed nonlinear elliptic problem in a riemannian manifold",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2034257367,
+                    "author": [
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        },
+                        {
+                            "AuId": 2006778635,
+                            "AuN": "angela pistoia"
+                        }
+                    ],
+                    "doi": "10.1090/S0002-9939-10-10382-7",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "generic properties of critical points of the scalar curvature for a riemannian manifold",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2225879244,
+                    "author": [
+                        {
+                            "AuId": 2089528426,
+                            "AuN": "marco ghimenti"
+                        },
+                        {
+                            "AuId": 3021012466,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "on the number of nodal solutionsfor a nonlinear elliptic problem on symmetric riemannian manifolds",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2952346531,
+                    "author": [
+                        {
+                            "AuId": 2089528426,
+                            "AuN": "marco ghimenti"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "positive solutions of singularly perturbed nonlinear elliptic problem on riemannian manifolds with boundary",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2034966439,
+                    "author": [
+                        {
+                            "AuId": 2089528426,
+                            "AuN": "marco ghimenti"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "positive solutions of singularly perturbed nonlinear elliptic problem on riemannian manifolds with boundary",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2963669194,
+                    "author": [
+                        {
+                            "AuId": 2294962107,
+                            "AuN": "giovany m figueiredo"
+                        },
+                        {
+                            "AuId": 2788989225,
+                            "AuN": "marcos t o pimenta"
+                        },
+                        {
+                            "AuId": 2253396271,
+                            "AuN": "gaetano siciliano"
+                        }
+                    ],
+                    "doi": "10.1007/S00009-018-1186-9",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "multiplicity results for the fractional laplacian in expanding domains",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2962957311,
+                    "author": [
+                        {
+                            "AuId": 2089528426,
+                            "AuN": "marco ghimenti"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "doi": "10.3934/CPAA.2013.12.679",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "non degeneracy for solutions of singularly perturbed nonlinear elliptic problems on symmetric riemannian manifolds",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2125744552,
+                    "author": [
+                        {
+                            "AuId": 2089528426,
+                            "AuN": "marco ghimenti"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "non degeneracy for solutions of singularly perturbed nonlinear elliptic problems on symmetric riemannian manifolds",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1998845564,
+                    "author": [
+                        {
+                            "AuId": 2167975362,
+                            "AuN": "silvia cingolani"
+                        },
+                        {
+                            "AuId": 1985177757,
+                            "AuN": "giuseppina vannella"
+                        },
+                        {
+                            "AuId": 2776633566,
+                            "AuN": "daniela visetti"
+                        }
+                    ],
+                    "doi": "10.1142/S0219199714500291",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "multiplicity and nondegeneracy of positive solutions to quasilinear equations on compact riemannian manifolds",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2053997295,
+                    "author": [
+                        {
+                            "AuId": 2140843618,
+                            "AuN": "wenming zou"
+                        },
+                        {
+                            "AuId": 2341449932,
+                            "AuN": "thomas bartsch"
+                        },
+                        {
+                            "AuId": 2683463758,
+                            "AuN": "norimichi hirano"
+                        },
+                        {
+                            "AuId": 3053469273,
+                            "AuN": "martin schechter"
+                        },
+                        {
+                            "AuId": 2144398759,
+                            "AuN": "zhiqiang wang"
+                        }
+                    ],
+                    "doi": "10.1155/2010/452764",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "sign changing solutions to equations of elliptic type",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2007516559,
+                    "author": [
+                        {
+                            "AuId": 2089528426,
+                            "AuN": "marco ghimenti"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "doi": "10.1080/17476933.2011.561332",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "positive solutions for a singularly perturbed nonlinear elliptic problem on manifolds via morse theory",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2529801555,
+                    "author": [
+                        {
+                            "AuId": 2689895192,
+                            "AuN": "manoj kumar"
+                        },
+                        {
+                            "AuId": 2495698269,
+                            "AuN": "akhilesh kumar singh"
+                        }
+                    ],
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "singular perturbation problems in nonlinear elliptic partial differential equations a survey",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2035375404,
+                    "author": [
+                        {
+                            "AuId": 2444429072,
+                            "AuN": "shengbing deng"
+                        }
+                    ],
+                    "doi": "10.1016/J.NA.2010.09.036",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "multipeak solutions for asymptotically critical elliptic equations on riemannian manifolds",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2266078656,
+                    "author": [
+                        {
+                            "AuId": 2294962107,
+                            "AuN": "giovany m figueiredo"
+                        },
+                        {
+                            "AuId": 2788989225,
+                            "AuN": "marcos t o pimenta"
+                        },
+                        {
+                            "AuId": 2253396271,
+                            "AuN": "gaetano siciliano"
+                        }
+                    ],
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "multiplicity results for the fractional laplacian in expanded domains",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2808143337,
+                    "author": [
+                        {
+                            "AuId": 2662124632,
+                            "AuN": "wenjing chen"
+                        }
+                    ],
+                    "doi": "10.1515/ANONA-2017-0277",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "clustered solutions for supercritical elliptic equations on riemannian manifolds",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 1613362170,
+                    "author": [
+                        {
+                            "AuId": 2263612180,
+                            "AuN": "claudio bonanno"
+                        }
+                    ],
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "multiplicity of positive solutions for nonlinear field equations in r n",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 3036023988,
+                    "author": [
+                        {
+                            "AuId": 2294962107,
+                            "AuN": "giovany m figueiredo"
+                        },
+                        {
+                            "AuId": 2253396271,
+                            "AuN": "gaetano siciliano"
+                        }
+                    ],
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "multiple solutions for a schr odinger bopp podolsky system with positive potentials",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2092195602,
+                    "author": [
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        },
+                        {
+                            "AuId": 2006778635,
+                            "AuN": "angela pistoia"
+                        }
+                    ],
+                    "doi": "10.1155/2010/432759",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "on the existence of nodal solutions for a nonlinear elliptic problem on symmetric riemannian manifolds",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2248393322,
+                    "author": [
+                        {
+                            "AuId": 2414406970,
+                            "AuN": "monica clapp"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "asymptotic profile of 2 nodal solutions to a semilinear elliptic problem on a riemannian manifold",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 122417434,
+                    "author": [
+                        {
+                            "AuId": 2232171590,
+                            "AuN": "wenjing chen"
+                        },
+                        {
+                            "AuId": 2129929388,
+                            "AuN": "jianfu yang"
+                        }
+                    ],
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "multiple solutions for nonlinear elliptic equations on riemannian manifolds",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2323998522,
+                    "author": [
+                        {
+                            "AuId": 2698619939,
+                            "AuN": "wenjing chen"
+                        },
+                        {
+                            "AuId": 2683847439,
+                            "AuN": "jianfu yang"
+                        }
+                    ],
+                    "doi": "10.7153/DEA-02-34",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "existence of positive solutions for quasilinear elliptic equation on riemannian manifolds",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2949823353,
+                    "author": [
+                        {
+                            "AuId": 2089528426,
+                            "AuN": "marco ghimenti"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "some generic properties of non degeneracy for critical points of functionals and applications",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1970096486,
+                    "author": [
+                        {
+                            "AuId": 2089528426,
+                            "AuN": "marco ghimenti"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "doi": "10.1007/S00032-011-0138-7",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "some generic properties of non degeneracy for critical points of functionals and applications",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2952593553,
+                    "author": [
+                        {
+                            "AuId": 2089528426,
+                            "AuN": "marco ghimenti"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "on the number of nodal solutions for a nonlinear elliptic problem on symmetric riemannian manifolds",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2951483087,
+                    "author": [
+                        {
+                            "AuId": 2089528426,
+                            "AuN": "marco ghimenti"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "positive solutions for singularly perturbed nonlinear elliptic problem on manifolds via morse theory",
+                    "year_mag": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Yin",
+                            "given": "Zhao",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Ji",
+                            "given": "Chao",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.14232/EJQTDE.2020.1.7",
+                    "title": "existence of solution for two classes of schrodinger equations in r n with magnetic field and zero mass",
+                    "year_oc": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1016/J.JDE.2008.03.002",
+            "journal": "JOURNAL OF DIFFERENTIAL EQUATIONS",
+            "title": "multiplicity of solutions of a zero mass nonlinear equation on a riemannian manifold",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "0035-7596"
+            ],
+            "PId": 1988098523,
+            "cited": [
+                {
+                    "PId": 1866311589,
+                    "author": [
+                        {
+                            "AuId": 1344539187,
+                            "AuN": "david gilbarg"
+                        },
+                        {
+                            "AuId": 15816170,
+                            "AuN": "neil s trudinger"
+                        }
+                    ],
+                    "title": "elliptic partial differential equations of second order",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2038928461,
+                    "author": [
+                        {
+                            "AuId": 1845714765,
+                            "AuN": "haim brezis"
+                        },
+                        {
+                            "AuId": 684979746,
+                            "AuN": "louis nirenberg"
+                        }
+                    ],
+                    "doi": "10.1002/CPA.3160360405",
+                    "journal": "communications on pure and applied mathematics",
+                    "title": "positive solutions of nonlinear elliptic equations involving critical sobolev exponents",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2097775664,
+                    "author": [
+                        {
+                            "AuId": 576910950,
+                            "AuN": "luis a caffarelli"
+                        },
+                        {
+                            "AuId": 1733616807,
+                            "AuN": "basilis gidas"
+                        },
+                        {
+                            "AuId": 157000808,
+                            "AuN": "joel spruck"
+                        }
+                    ],
+                    "doi": "10.1002/CPA.3160420304",
+                    "journal": "communications on pure and applied mathematics",
+                    "title": "asymptotic symmetry and local behavior of semilinear elliptic equations with critical sobolev growth",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 1505542423,
+                    "author": [
+                        {
+                            "AuId": 2100492790,
+                            "AuN": "wei ming ni"
+                        },
+                        {
+                            "AuId": 2063136664,
+                            "AuN": "izumi takagi"
+                        }
+                    ],
+                    "doi": "10.1215/S0012-7094-93-07004-4",
+                    "journal": "duke mathematical journal",
+                    "title": "locating the peaks of least energy solutions to a semilinear neumann problem",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2054563910,
+                    "author": [
+                        {
+                            "AuId": 2987968032,
+                            "AuN": "p l lions"
+                        }
+                    ],
+                    "doi": "10.1137/1024101",
+                    "journal": "siam review",
+                    "title": "on the existence of positive solutions of semilinear elliptic equations",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 2017437908,
+                    "author": [
+                        {
+                            "AuId": 2983859413,
+                            "AuN": "giorgio talenti"
+                        }
+                    ],
+                    "doi": "10.1007/BF02418013",
+                    "journal": "annali di matematica pura ed applicata",
+                    "title": "best constant in sobolev inequality",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 23481374,
+                    "author": [
+                        {
+                            "AuId": 2653248835,
+                            "AuN": "zhengchao han"
+                        }
+                    ],
+                    "doi": "10.1016/S0294-1449(16)30270-0",
+                    "journal": "annales de l institut henri poincare analyse non lineaire",
+                    "title": "asymptotic approach to singular solutions for nonlinear elliptic equations involving critical sobolev exponent",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2001835483,
+                    "author": [
+                        {
+                            "AuId": 2720464407,
+                            "AuN": "wei yue ding"
+                        },
+                        {
+                            "AuId": 2720464407,
+                            "AuN": "wei yue ding"
+                        },
+                        {
+                            "AuId": 2100492790,
+                            "AuN": "wei ming ni"
+                        },
+                        {
+                            "AuId": 2100492790,
+                            "AuN": "wei ming ni"
+                        }
+                    ],
+                    "doi": "10.1007/BF00282336",
+                    "journal": "archive for rational mechanics and analysis",
+                    "title": "on the existence of positive entire solutions of a semilinear elliptic equation",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 1674369032,
+                    "author": [
+                        {
+                            "AuId": 2559208041,
+                            "AuN": "thierry aubin"
+                        }
+                    ],
+                    "doi": "10.4310/JDG/1214433725",
+                    "journal": "journal of differential geometry",
+                    "title": "problemes isoperimetriques et espaces de sobolev",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 2088425552,
+                    "author": [
+                        {
+                            "AuId": 2160794595,
+                            "AuN": "massimo grossi"
+                        }
+                    ],
+                    "doi": "10.1016/S0294-1449(01)00089-0",
+                    "journal": "annales de l institut henri poincare analyse non lineaire",
+                    "title": "on the number of single peak solutions of the nonlinear schrodinger equation",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2035173346,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2288113601,
+                            "AuN": "giovanna cerami"
+                        }
+                    ],
+                    "doi": "10.1016/0022-1236(90)90120-A",
+                    "journal": "journal of functional analysis",
+                    "title": "existence of positive solutions of the equation \u03b4u a x u u n 2 n 2 in rn",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 1494927973,
+                    "author": [
+                        {
+                            "AuId": 2719653451,
+                            "AuN": "s fornaro"
+                        },
+                        {
+                            "AuId": 2010819638,
+                            "AuN": "stefania maniglia"
+                        },
+                        {
+                            "AuId": 3092437572,
+                            "AuN": "g metafune"
+                        }
+                    ],
+                    "title": "equazioni ellittiche del secondo ordine",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2029592913,
+                    "author": [
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        },
+                        {
+                            "AuId": 2006778635,
+                            "AuN": "angela pistoia"
+                        }
+                    ],
+                    "doi": "10.1016/S0362-546X(02)00102-5",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "existence of blowing up solutions for a slightly subcritical or a slightly supercritical non linear elliptic equation on r n",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2090576571,
+                    "author": [
+                        {
+                            "AuId": 2148223555,
+                            "AuN": "xingbin pan"
+                        },
+                        {
+                            "AuId": 2993554275,
+                            "AuN": "xuefeng wang"
+                        }
+                    ],
+                    "doi": "10.1016/0022-0396(92)90136-B",
+                    "journal": "journal of differential equations",
+                    "title": "blow up behavior of ground states of semilinear elliptic equations in rn involving critical sobolev exponents",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2001092396,
+                    "author": [
+                        {
+                            "AuId": 2993554275,
+                            "AuN": "xuefeng wang"
+                        }
+                    ],
+                    "doi": "10.1006/JDEQ.1996.0066",
+                    "journal": "journal of differential equations",
+                    "title": "on location of blow up of ground states of semilinear elliptic equations in rninvolving critical sobolev exponents",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2023023051,
+                    "author": [
+                        {
+                            "AuId": 2805486620,
+                            "AuN": "a m micheletti"
+                        },
+                        {
+                            "AuId": 2292925309,
+                            "AuN": "monica musso"
+                        },
+                        {
+                            "AuId": 2006778635,
+                            "AuN": "angela pistoia"
+                        }
+                    ],
+                    "doi": "10.3934/DCDS.2005.12.747",
+                    "journal": "discrete and continuous dynamical systems",
+                    "title": "super positionof spikes for a slightly super critical elliptic equation in rr n",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2054434699,
+                    "author": [
+                        {
+                            "AuId": 2903098786,
+                            "AuN": "norimichi hirano"
+                        },
+                        {
+                            "AuId": 2660550984,
+                            "AuN": "a m micheletti"
+                        },
+                        {
+                            "AuId": 2903254500,
+                            "AuN": "a pistoia"
+                        }
+                    ],
+                    "doi": "10.3934/CPAA.2005.4.143",
+                    "journal": "communications on pure and applied analysis",
+                    "title": "existence of sign changing solutions for some critical problems on mathbb r n",
+                    "year_mag": 2004
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5"
+            },
+            "doi": "10.1216/RMJM/1181069333",
+            "journal": "ROCKY MOUNTAIN JOURNAL OF MATHEMATICS",
+            "title": "on the number of blowing up solutions to a nonlinear elliptic equation with critical growth",
+            "type": "articolo in rivista",
+            "year": 2007
+        },
+        {
+            "ISSN": [
+                "1531-3492"
+            ],
+            "PId": 2313436311,
+            "cited": [
+                {
+                    "PId": 2081817659,
+                    "author": [
+                        {
+                            "AuId": 1722829715,
+                            "AuN": "anatole katok"
+                        },
+                        {
+                            "AuId": 86840391,
+                            "AuN": "boris hasselblatt"
+                        }
+                    ],
+                    "title": "introduction to the modern theory of dynamical systems",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2032121576,
+                    "author": [
+                        {
+                            "AuId": 740415915,
+                            "AuN": "k j falconer"
+                        }
+                    ],
+                    "title": "fractal geometry mathematical foundations and applications",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 1555674425,
+                    "author": [
+                        {
+                            "AuId": 2716149838,
+                            "AuN": "klaus deimling"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-662-00547-7",
+                    "title": "nonlinear functional analysis",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2029401646,
+                    "author": [
+                        {
+                            "AuId": 147023852,
+                            "AuN": "peter grassberger"
+                        },
+                        {
+                            "AuId": 147023852,
+                            "AuN": "peter grassberger"
+                        },
+                        {
+                            "AuId": 1971164845,
+                            "AuN": "itamar procaccia"
+                        }
+                    ],
+                    "doi": "10.1016/0167-2789(83)90298-1",
+                    "journal": "physica d nonlinear phenomena",
+                    "title": "measuring the strangeness of strange attractors",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2471011156,
+                    "author": [
+                        {
+                            "AuId": 2153764351,
+                            "AuN": "i d mayergoyz"
+                        },
+                        {
+                            "AuId": 2915579387,
+                            "AuN": "giorgio bertotti"
+                        }
+                    ],
+                    "title": "the science of hysteresis",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2795407492,
+                    "author": [
+                        {
+                            "AuId": 2795527801,
+                            "AuN": "j w craggs"
+                        }
+                    ],
+                    "doi": "10.2307/3615195",
+                    "journal": "the mathematical gazette",
+                    "title": "applied mathematical sciences",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2032707178,
+                    "author": [
+                        {
+                            "AuId": 2189368066,
+                            "AuN": "rafael ortega"
+                        }
+                    ],
+                    "doi": "10.1112/S0024611599012034",
+                    "journal": "proceedings of the london mathematical society",
+                    "title": "boundedness in a piecewise linear oscillator and a variant of the small twist theorem",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2482321729,
+                    "author": [
+                        {
+                            "AuId": 2298401857,
+                            "AuN": "martin brokate"
+                        },
+                        {
+                            "AuId": 2042033287,
+                            "AuN": "alexei pokrovskii"
+                        },
+                        {
+                            "AuId": 2117348402,
+                            "AuN": "dmitrii rachinskii"
+                        },
+                        {
+                            "AuId": 1978909296,
+                            "AuN": "oleg rasskazov"
+                        }
+                    ],
+                    "doi": "10.1016/B978-012480874-4/50005-1",
+                    "title": "differential equations with hysteresis via a canonical example",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 376843168,
+                    "author": [
+                        {
+                            "AuId": 2166325777,
+                            "AuN": "phil diamond"
+                        },
+                        {
+                            "AuId": 2236455560,
+                            "AuN": "peter kloeden"
+                        },
+                        {
+                            "AuId": 3055873200,
+                            "AuN": "m a krasnoselskii"
+                        },
+                        {
+                            "AuId": 2333644879,
+                            "AuN": "a v pokrovskii"
+                        }
+                    ],
+                    "journal": "arab journal of mathematical sciences",
+                    "title": "chaotic dynamics in nonsmooth perturbations of bishadowing systems",
+                    "year_mag": 2000
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 184794878,
+                    "author": [
+                        {
+                            "AuId": 2166325777,
+                            "AuN": "phil diamond"
+                        },
+                        {
+                            "AuId": 2236455560,
+                            "AuN": "peter kloeden"
+                        },
+                        {
+                            "AuId": 2776838050,
+                            "AuN": "v kozyakin"
+                        },
+                        {
+                            "AuId": 2333644879,
+                            "AuN": "a v pokrovskii"
+                        },
+                        {
+                            "AuId": 129948039,
+                            "AuN": "peter e kloeden"
+                        },
+                        {
+                            "AuId": 118894837,
+                            "AuN": "v s kozyakin"
+                        },
+                        {
+                            "AuId": 2042033287,
+                            "AuN": "alexei pokrovskii"
+                        }
+                    ],
+                    "title": "semi hyperbolicity and bi shadowing",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1505041656,
+                    "author": [
+                        {
+                            "AuId": 2158977259,
+                            "AuN": "emanuel gluskin"
+                        }
+                    ],
+                    "title": "on the mathematical representation of nonlinearity",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2065490219,
+                    "author": [
+                        {
+                            "AuId": 2007601869,
+                            "AuN": "suzanne m oregan"
+                        },
+                        {
+                            "AuId": 2007601869,
+                            "AuN": "suzanne m oregan"
+                        },
+                        {
+                            "AuId": 2144897565,
+                            "AuN": "thomas c kelly"
+                        },
+                        {
+                            "AuId": 2245128068,
+                            "AuN": "andrei korobeinikov"
+                        },
+                        {
+                            "AuId": 2099493221,
+                            "AuN": "michael j a ocallaghan"
+                        },
+                        {
+                            "AuId": 2042033287,
+                            "AuN": "alexei pokrovskii"
+                        },
+                        {
+                            "AuId": 2117348402,
+                            "AuN": "dmitrii rachinskii"
+                        }
+                    ],
+                    "doi": "10.1007/S00285-012-0550-9",
+                    "title": "chaos in a seasonally perturbed sir model avian influenza in a seabird colony as a paradigm",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2099635242,
+                    "author": [
+                        {
+                            "AuId": 1265464385,
+                            "AuN": "arturo buscarino"
+                        },
+                        {
+                            "AuId": 2147454020,
+                            "AuN": "luigi fortuna"
+                        },
+                        {
+                            "AuId": 2172299120,
+                            "AuN": "mattia frasca"
+                        }
+                    ],
+                    "doi": "10.1142/S0218127409024359",
+                    "title": "a new cnn based chaotic circuit experimental results",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1527740149,
+                    "author": [
+                        {
+                            "AuId": 2158977259,
+                            "AuN": "emanuel gluskin"
+                        }
+                    ],
+                    "doi": "10.1002/CTA.1960",
+                    "title": "structure nonlinearity and system theory",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1581998658,
+                    "author": [
+                        {
+                            "AuId": 2763123898,
+                            "AuN": "pireddu"
+                        }
+                    ],
+                    "title": "fixed points and chaotic dynamics for expansive contractive maps in euclidean spaces with some applications",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1523878373,
+                    "author": [
+                        {
+                            "AuId": 2001826541,
+                            "AuN": "marina pireddu"
+                        },
+                        {
+                            "AuId": 2700844321,
+                            "AuN": "fabio zanolin"
+                        }
+                    ],
+                    "title": "some remarks on fixed points for maps which are expansive along one direction",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1963747069,
+                    "author": [
+                        {
+                            "AuId": 1265464385,
+                            "AuN": "arturo buscarino"
+                        },
+                        {
+                            "AuId": 2147454020,
+                            "AuN": "luigi fortuna"
+                        },
+                        {
+                            "AuId": 2172299120,
+                            "AuN": "mattia frasca"
+                        },
+                        {
+                            "AuId": 2109024017,
+                            "AuN": "gregorio sciuto"
+                        }
+                    ],
+                    "doi": "10.3182/20090622-3-UK-3004.00015",
+                    "title": "experimental synchronization of non identical chaotic circuits",
+                    "year_mag": 2009
+                },
+                {
+                    "doi": "10.1088/1742-6596/268/1/011006",
+                    "title": "list of publications of professor alexei pokrovskii",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "B\u00e1nhelyi",
+                            "given": "Bal\u00e1zs",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Csendes",
+                            "given": "Tibor",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Garay",
+                            "given": "Barnabas M.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Hatvani",
+                            "given": "L\u00e1szl\u00f3",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1137/070695599",
+                    "title": "a computer assisted proof of sigma_3 chaos in the forced damped pendulum equation",
+                    "year_oc": 2008
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6"
+            },
+            "doi": "10.3934/DCDSB.2007.8.943",
+            "journal": "SERIES B.",
+            "title": "homoclinic trajectories and chaotic behaviour in a piecewise linear oscillator discrete and continuous dynamical systems",
+            "type": "articolo in rivista",
+            "year": 2007
+        },
+        {
+            "ISSN": [
+                "1072-6691"
+            ],
+            "cv_id": {
+                "pubbs": "7"
+            },
+            "journal": "ELECTRONIC JOURNAL OF DIFFERENTIAL EQUATIONS",
+            "title": "multiplicity of symmetric solutions for a nonlinear eigenvalue problem in rn",
+            "type": "articolo in rivista",
+            "year": 2005
+        },
+        {
+            "ISBN": [
+                "3-7643-0398-0"
+            ],
+            "ISSN": [
+                "1421-1750"
+            ],
+            "PId": 71091071,
+            "cited": [
+                {
+                    "PId": 2051195713,
+                    "author": [
+                        {
+                            "AuId": 2146517048,
+                            "AuN": "walter a strauss"
+                        }
+                    ],
+                    "doi": "10.1007/BF01626517",
+                    "journal": "communications in mathematical physics",
+                    "title": "existence of solitary waves in higher dimensions",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 2064350083,
+                    "author": [
+                        {
+                            "AuId": 696349373,
+                            "AuN": "michael struwe"
+                        }
+                    ],
+                    "doi": "10.1007/BF01299609",
+                    "journal": "manuscripta mathematica",
+                    "title": "infinitely many critical points for functionals which are not even and applications to superlinear boundary value problems",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 2027490517,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2005217914,
+                            "AuN": "donato fortunato"
+                        },
+                        {
+                            "AuId": 1836842516,
+                            "AuN": "antonio masiello"
+                        },
+                        {
+                            "AuId": 2137944832,
+                            "AuN": "lorenzo pisani"
+                        }
+                    ],
+                    "doi": "10.1007/PL00004759",
+                    "journal": "mathematische zeitschrift",
+                    "title": "solitons and the electromagnetic field",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2106260664,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 217385572,
+                            "AuN": "pietro davenia"
+                        },
+                        {
+                            "AuId": 2005217914,
+                            "AuN": "donato fortunato"
+                        },
+                        {
+                            "AuId": 2137944832,
+                            "AuN": "lorenzo pisani"
+                        }
+                    ],
+                    "doi": "10.1007/S002050000101",
+                    "journal": "archive for rational mechanics and analysis",
+                    "title": "solitons in several space dimensions derrick s problem and infinitely many solutions",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2057407339,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2005217914,
+                            "AuN": "donato fortunato"
+                        },
+                        {
+                            "AuId": 2137944832,
+                            "AuN": "lorenzo pisani"
+                        }
+                    ],
+                    "doi": "10.1142/S0129055X98000100",
+                    "journal": "reviews in mathematical physics",
+                    "title": "soliton like solutions of a lorentz invariant equation in dimension 3",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2007392421,
+                    "author": [
+                        {
+                            "AuId": 2575889527,
+                            "AuN": "phillipe bolle"
+                        },
+                        {
+                            "AuId": 2038210827,
+                            "AuN": "nassif ghoussoub"
+                        },
+                        {
+                            "AuId": 2158544687,
+                            "AuN": "hossein tehrani"
+                        }
+                    ],
+                    "doi": "10.1007/S002290050219",
+                    "journal": "manuscripta mathematica",
+                    "title": "the multiplicity of solutions in non homogeneous boundary value problems",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2073420933,
+                    "author": [
+                        {
+                            "AuId": 2571254159,
+                            "AuN": "abbas bahri"
+                        },
+                        {
+                            "AuId": 2568422569,
+                            "AuN": "henri berestycki"
+                        }
+                    ],
+                    "doi": "10.1090/S0002-9947-1981-0621969-9",
+                    "journal": "transactions of the american mathematical society",
+                    "title": "a perturbation method in critical point theory and applications",
+                    "year_mag": 1981
+                },
+                {
+                    "PId": 2136504495,
+                    "author": [
+                        {
+                            "AuId": 2508291669,
+                            "AuN": "philippe bolle"
+                        }
+                    ],
+                    "doi": "10.1006/JDEQ.1998.3484",
+                    "journal": "journal of differential equations",
+                    "title": "on the bolza problem",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2077813952,
+                    "author": [
+                        {
+                            "AuId": 2637104635,
+                            "AuN": "paul h rabinowitz"
+                        }
+                    ],
+                    "doi": "10.1090/S0002-9947-1982-0662065-5",
+                    "journal": "transactions of the american mathematical society",
+                    "title": "multiple critical points of perturbed symmetric functionals",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 2027750387,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        },
+                        {
+                            "AuId": 3061761641,
+                            "AuN": "d visetti"
+                        }
+                    ],
+                    "doi": "10.1006/JDEQ.2001.4155",
+                    "journal": "journal of differential equations",
+                    "title": "an eigenvalue problem for a quasilinear elliptic field equation",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2073756121,
+                    "author": [
+                        {
+                            "AuId": 2987116029,
+                            "AuN": "g h derrick"
+                        }
+                    ],
+                    "doi": "10.1063/1.1704233",
+                    "journal": "journal of mathematical physics",
+                    "title": "comments on nonlinear wave equations as models for elementary particles",
+                    "year_mag": 1964
+                },
+                {
+                    "PId": 1678209083,
+                    "author": [
+                        {
+                            "AuId": 2089047334,
+                            "AuN": "alberto abbondandolo"
+                        },
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        }
+                    ],
+                    "doi": "10.1073/PNAS.222494299",
+                    "journal": "proceedings of the national academy of sciences of the united states of america",
+                    "title": "solitary waves and bohmian mechanics",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2909676549,
+                    "author": [
+                        {
+                            "AuId": 2911028205,
+                            "AuN": "adele manes"
+                        },
+                        {
+                            "AuId": 2909433166,
+                            "AuN": "micheletti anna maria"
+                        }
+                    ],
+                    "title": "un estensione della teoria variazionale classica degli autovalori per operatori ellittici del secondo ordine",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2086025231,
+                    "author": [
+                        {
+                            "AuId": 2430027304,
+                            "AuN": "chauncey d leake"
+                        }
+                    ],
+                    "doi": "10.1126/SCIENCE.132.3433.1023",
+                    "journal": "science",
+                    "title": "british association for the advancement of science",
+                    "year_mag": 1953
+                },
+                {
+                    "PId": 1963872649,
+                    "author": [
+                        {
+                            "AuId": 2652246216,
+                            "AuN": "u enz"
+                        }
+                    ],
+                    "doi": "10.1103/PHYSREV.131.1392",
+                    "journal": "physical review",
+                    "title": "discrete mass elementary length and a topological invariant as a consequence of a relativistic invariant variational principle",
+                    "year_mag": 1963
+                },
+                {
+                    "PId": 2547584521,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        },
+                        {
+                            "AuId": 2064809057,
+                            "AuN": "daniela visetti"
+                        }
+                    ],
+                    "doi": "10.12775/TMNA.2001.013",
+                    "journal": "topological methods in nonlinear analysis",
+                    "title": "an eigenvalue problem for a quasilinear elliptic field equation on mathbb r n",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2089802364,
+                    "author": [
+                        {
+                            "AuId": 2980946391,
+                            "AuN": "marino badiale"
+                        },
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2294392209,
+                            "AuN": "teresa daprile"
+                        }
+                    ],
+                    "doi": "10.1007/PL00009913",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "existence multiplicity and concentration of bound states for a quasilinear elliptic field equation",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2057330327,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2005217914,
+                            "AuN": "donato fortunato"
+                        }
+                    ],
+                    "doi": "10.1016/0022-247X(78)90013-6",
+                    "journal": "journal of mathematical analysis and applications",
+                    "title": "discreteness conditions of the spectrum of schrodinger operators",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 2029651043,
+                    "author": [
+                        {
+                            "AuId": 2780251512,
+                            "AuN": "d visetti"
+                        }
+                    ],
+                    "doi": "10.1016/S0362-546X(01)00695-2",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "an eigenvalue problem for a quasilinear elliptic field equation",
+                    "year_mag": 2001
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8"
+            },
+            "doi": "10.1007/978-3-0348-8087-9_16",
+            "title": "solitary waves solutions of a nonlinear schroedinger equation",
+            "type": "contributo in atti di convegno",
+            "year": 2003
+        },
+        {
+            "ISSN": [
+                "0022-0396"
+            ],
+            "PId": 2027750387,
+            "cited": [
+                {
+                    "PId": 2058270372,
+                    "author": [
+                        {
+                            "AuId": 2477663792,
+                            "AuN": "paul rabinowitz"
+                        }
+                    ],
+                    "title": "minimax methods in critical point theory with applications to differential equations",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 1572548753,
+                    "author": [
+                        {
+                            "AuId": 1845714765,
+                            "AuN": "haim brezis"
+                        }
+                    ],
+                    "title": "analyse fonctionnelle theorie et applications",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 1544424399,
+                    "author": [
+                        {
+                            "AuId": 2038210827,
+                            "AuN": "nassif ghoussoub"
+                        }
+                    ],
+                    "title": "duality and perturbation methods in critical point theory",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2027490517,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2005217914,
+                            "AuN": "donato fortunato"
+                        },
+                        {
+                            "AuId": 1836842516,
+                            "AuN": "antonio masiello"
+                        },
+                        {
+                            "AuId": 2137944832,
+                            "AuN": "lorenzo pisani"
+                        }
+                    ],
+                    "doi": "10.1007/PL00004759",
+                    "journal": "mathematische zeitschrift",
+                    "title": "solitons and the electromagnetic field",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2106260664,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 217385572,
+                            "AuN": "pietro davenia"
+                        },
+                        {
+                            "AuId": 2005217914,
+                            "AuN": "donato fortunato"
+                        },
+                        {
+                            "AuId": 2137944832,
+                            "AuN": "lorenzo pisani"
+                        }
+                    ],
+                    "doi": "10.1007/S002050000101",
+                    "journal": "archive for rational mechanics and analysis",
+                    "title": "solitons in several space dimensions derrick s problem and infinitely many solutions",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2057407339,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2005217914,
+                            "AuN": "donato fortunato"
+                        },
+                        {
+                            "AuId": 2137944832,
+                            "AuN": "lorenzo pisani"
+                        }
+                    ],
+                    "doi": "10.1142/S0129055X98000100",
+                    "journal": "reviews in mathematical physics",
+                    "title": "soliton like solutions of a lorentz invariant equation in dimension 3",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2007392421,
+                    "author": [
+                        {
+                            "AuId": 2575889527,
+                            "AuN": "phillipe bolle"
+                        },
+                        {
+                            "AuId": 2038210827,
+                            "AuN": "nassif ghoussoub"
+                        },
+                        {
+                            "AuId": 2158544687,
+                            "AuN": "hossein tehrani"
+                        }
+                    ],
+                    "doi": "10.1007/S002290050219",
+                    "journal": "manuscripta mathematica",
+                    "title": "the multiplicity of solutions in non homogeneous boundary value problems",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1497281037,
+                    "author": [
+                        {
+                            "AuId": 1994864510,
+                            "AuN": "jind\u0159ich necas"
+                        }
+                    ],
+                    "title": "introduction to the theory of nonlinear elliptic equations",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2073420933,
+                    "author": [
+                        {
+                            "AuId": 2571254159,
+                            "AuN": "abbas bahri"
+                        },
+                        {
+                            "AuId": 2568422569,
+                            "AuN": "henri berestycki"
+                        }
+                    ],
+                    "doi": "10.1090/S0002-9947-1981-0621969-9",
+                    "journal": "transactions of the american mathematical society",
+                    "title": "a perturbation method in critical point theory and applications",
+                    "year_mag": 1981
+                },
+                {
+                    "PId": 2136504495,
+                    "author": [
+                        {
+                            "AuId": 2508291669,
+                            "AuN": "philippe bolle"
+                        }
+                    ],
+                    "doi": "10.1006/JDEQ.1998.3484",
+                    "journal": "journal of differential equations",
+                    "title": "on the bolza problem",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2077813952,
+                    "author": [
+                        {
+                            "AuId": 2637104635,
+                            "AuN": "paul h rabinowitz"
+                        }
+                    ],
+                    "doi": "10.1090/S0002-9947-1982-0662065-5",
+                    "journal": "transactions of the american mathematical society",
+                    "title": "multiple critical points of perturbed symmetric functionals",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 1994302110,
+                    "author": [
+                        {
+                            "AuId": 420817019,
+                            "AuN": "richard s palais"
+                        }
+                    ],
+                    "doi": "10.1016/0040-9383(66)90013-9",
+                    "journal": "topology",
+                    "title": "lusternik schnirelman theory on banach manifolds",
+                    "year_mag": 1966
+                },
+                {
+                    "PId": 2909676549,
+                    "author": [
+                        {
+                            "AuId": 2911028205,
+                            "AuN": "adele manes"
+                        },
+                        {
+                            "AuId": 2909433166,
+                            "AuN": "micheletti anna maria"
+                        }
+                    ],
+                    "title": "un estensione della teoria variazionale classica degli autovalori per operatori ellittici del secondo ordine",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2547584521,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        },
+                        {
+                            "AuId": 2064809057,
+                            "AuN": "daniela visetti"
+                        }
+                    ],
+                    "doi": "10.12775/TMNA.2001.013",
+                    "journal": "topological methods in nonlinear analysis",
+                    "title": "an eigenvalue problem for a quasilinear elliptic field equation on mathbb r n",
+                    "year_mag": 2001
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 1488099784,
+                    "author": [
+                        {
+                            "AuId": 2475977810,
+                            "AuN": "chengjun he"
+                        },
+                        {
+                            "AuId": 2652033907,
+                            "AuN": "gongbao li"
+                        }
+                    ],
+                    "doi": "10.1016/J.NA.2006.12.008",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "the existence of a nontrivial solution to the p q laplacian problem with nonlinearity asymptotic to up 1 at infinity in rn",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2030111264,
+                    "author": [
+                        {
+                            "AuId": 2652033907,
+                            "AuN": "gongbao li"
+                        },
+                        {
+                            "AuId": 2495301433,
+                            "AuN": "xiaoyan liang"
+                        }
+                    ],
+                    "doi": "10.1016/J.NA.2009.01.066",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "the existence of nontrivial solutions to nonlinear elliptic equation of p q laplacian type on rn",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2073430605,
+                    "author": [
+                        {
+                            "AuId": 2628941074,
+                            "AuN": "li gongbao"
+                        },
+                        {
+                            "AuId": 2745699481,
+                            "AuN": "zhang guo"
+                        }
+                    ],
+                    "doi": "10.1016/S0252-9602(09)60077-1",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "multiple solutions for the p q laplacian problem with critical exponent",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2052754319,
+                    "author": [
+                        {
+                            "AuId": 2313630786,
+                            "AuN": "honghui yin"
+                        },
+                        {
+                            "AuId": 2702915215,
+                            "AuN": "zuodong yang"
+                        }
+                    ],
+                    "doi": "10.1016/J.JMAA.2011.04.090",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "a class of p q laplacian type equation with concave convex nonlinearities in bounded domain",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2044012985,
+                    "author": [
+                        {
+                            "AuId": 2705573712,
+                            "AuN": "honghui yin"
+                        },
+                        {
+                            "AuId": 2688560460,
+                            "AuN": "zuodong yang"
+                        }
+                    ],
+                    "doi": "10.1016/J.NA.2011.11.035",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "multiplicity of positive solutions to a p q laplacian equation involving critical nonlinearity",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1947113119,
+                    "author": [
+                        {
+                            "AuId": 1225051663,
+                            "AuN": "pasquale candito"
+                        },
+                        {
+                            "AuId": 2475413138,
+                            "AuN": "salvatore a marano"
+                        },
+                        {
+                            "AuId": 2645213674,
+                            "AuN": "kanishka perera"
+                        }
+                    ],
+                    "doi": "10.1007/S00030-015-0353-Y",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "on a class of critical p q laplacian problems",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1923625945,
+                    "author": [
+                        {
+                            "AuId": 2310968314,
+                            "AuN": "yang yang"
+                        },
+                        {
+                            "AuId": 2645213674,
+                            "AuN": "kanishka perera"
+                        }
+                    ],
+                    "doi": "10.1112/BLMS/BDW002",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "n laplacian problems with critical trudinger moser nonlinearities",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 3105026431,
+                    "author": [
+                        {
+                            "AuId": 2310968314,
+                            "AuN": "yang yang"
+                        },
+                        {
+                            "AuId": 2645213674,
+                            "AuN": "kanishka perera"
+                        }
+                    ],
+                    "doi": "10.1112/BLMS/BDW002",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "n q laplacian problems with critical trudinger moser nonlinearities",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2791309548,
+                    "author": [
+                        {
+                            "AuId": 2671211150,
+                            "AuN": "marino badiale"
+                        },
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2148294833,
+                            "AuN": "sergio rolando"
+                        }
+                    ],
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "solitary waves physical aspects and mathematical results",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2734387774,
+                    "author": [
+                        {
+                            "AuId": 2735684569,
+                            "AuN": "nikolaos e sidiropoulos"
+                        }
+                    ],
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "existence of solutions to indefinite quasilinear elliptic problems of p q laplacian type",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2963983274,
+                    "author": [
+                        {
+                            "AuId": 2294962107,
+                            "AuN": "giovany m figueiredo"
+                        },
+                        {
+                            "AuId": 1156156269,
+                            "AuN": "humberto ramos quoirin"
+                        }
+                    ],
+                    "doi": "10.1512/IUMJ.2016.65.5828",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "ground states of elliptic problems involving non homogeneous operators",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2051554416,
+                    "author": [
+                        {
+                            "AuId": 2687501684,
+                            "AuN": "qin li"
+                        },
+                        {
+                            "AuId": 2702915215,
+                            "AuN": "zuodong yang"
+                        }
+                    ],
+                    "doi": "10.1016/J.JMAA.2014.10.009",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "multiplicity of positive solutions for a p q laplacian system with concave and critical nonlinearities",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1979308508,
+                    "author": [
+                        {
+                            "AuId": 2167975362,
+                            "AuN": "silvia cingolani"
+                        },
+                        {
+                            "AuId": 2690099816,
+                            "AuN": "monica lazzo"
+                        },
+                        {
+                            "AuId": 1985177757,
+                            "AuN": "giuseppina vannella"
+                        }
+                    ],
+                    "doi": "10.1142/S0219199705001714",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "multiplicity results for a quasilinear elliptic system via morse theory",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2288986978,
+                    "author": [
+                        {
+                            "AuId": 2677607570,
+                            "AuN": "zhanping liang"
+                        },
+                        {
+                            "AuId": 2682403970,
+                            "AuN": "xixi han"
+                        },
+                        {
+                            "AuId": 2672910840,
+                            "AuN": "anran li"
+                        }
+                    ],
+                    "doi": "10.1186/S13661-016-0567-X",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "some properties and applications related to the 2 p laplacian operator",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2024513066,
+                    "author": [
+                        {
+                            "AuId": 2706045170,
+                            "AuN": "honghui yin"
+                        }
+                    ],
+                    "doi": "10.1016/J.JMAA.2013.02.032",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "existence of multiple positive solutions for a p q laplacian system with critical nonlinearities",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2107858531,
+                    "author": [
+                        {
+                            "AuId": 1994043695,
+                            "AuN": "abdellah zerouali"
+                        },
+                        {
+                            "AuId": 2006777909,
+                            "AuN": "belhadj karim"
+                        }
+                    ],
+                    "doi": "10.5269/BSPM.V34I2.25229",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "existence and non existence of positive solution for p q laplacian with singular weights",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2015144812,
+                    "author": [
+                        {
+                            "AuId": 2112259968,
+                            "AuN": "tsingsan hsu"
+                        },
+                        {
+                            "AuId": 2157880937,
+                            "AuN": "hueili lin"
+                        }
+                    ],
+                    "doi": "10.1155/2014/829069",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "multiplicity of positive solutions for a laplacian type equation with critical nonlinearities",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2058781175,
+                    "author": [
+                        {
+                            "AuId": 1894442954,
+                            "AuN": "kimiaki narukawa"
+                        },
+                        {
+                            "AuId": 2071446679,
+                            "AuN": "yukihiro takajo"
+                        }
+                    ],
+                    "doi": "10.1016/J.NA.2011.05.071",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "existence of nonnegative solutions for quasilinear elliptic equations with indefinite critical nonlinearities",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2185749029,
+                    "author": [
+                        {
+                            "AuId": 2050473305,
+                            "AuN": "dimitri mugnai"
+                        },
+                        {
+                            "AuId": 2278371509,
+                            "AuN": "patrizia pucci"
+                        }
+                    ],
+                    "doi": "10.1515/ANS-2009-0301",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "maximum principles for inhomogeneous elliptic inequalities on complete riemannian manifolds",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2178052385,
+                    "author": [
+                        {
+                            "AuId": 2663474324,
+                            "AuN": "honghui yin"
+                        },
+                        {
+                            "AuId": 2420951416,
+                            "AuN": "jing wen"
+                        }
+                    ],
+                    "doi": "10.1002/MMA.2805",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "three solutions for a class of quasilinear elliptic equation involving the p q laplace operator",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2963428288,
+                    "author": [
+                        {
+                            "AuId": 2167498850,
+                            "AuN": "claudianor o alves"
+                        },
+                        {
+                            "AuId": 2625816960,
+                            "AuN": "alan c b dos santos"
+                        }
+                    ],
+                    "doi": "10.1051/COCV/2017045",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "existence and multiplicity of solutions for a class of quasilinear elliptic field equation on \u211dn",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2732426745,
+                    "author": [
+                        {
+                            "AuId": 2724473506,
+                            "AuN": "m s shahrokhidehkordi"
+                        }
+                    ],
+                    "doi": "10.1515/CM-2017-0003",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "on a class of p q laplacian problems involving the critical sobolev hardy exponents in starshaped domain",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3092169388,
+                    "author": [
+                        {
+                            "AuId": 3092379084,
+                            "AuN": "fanfan chen"
+                        },
+                        {
+                            "AuId": 3092609376,
+                            "AuN": "yang yang"
+                        }
+                    ],
+                    "doi": "10.1007/S10473-020-0604-9",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "existence of solutions for the fractional p q laplacian problems involving a critical sobolev exponent",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 1563187305,
+                    "author": [
+                        {
+                            "AuId": 2294392209,
+                            "AuN": "teresa daprile"
+                        }
+                    ],
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "semiclassical states for a class of nonlinear elliptic field equations",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2744626279,
+                    "author": [
+                        {
+                            "AuId": 2744437885,
+                            "AuN": "honghui yin"
+                        },
+                        {
+                            "AuId": 2745099004,
+                            "AuN": "yefei han"
+                        }
+                    ],
+                    "doi": "10.1002/MMA.4516",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "positive solutions for a p q laplacian system with critical nonlinearities",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2921748058,
+                    "author": [
+                        {
+                            "AuId": 1994043695,
+                            "AuN": "abdellah zerouali"
+                        },
+                        {
+                            "AuId": 2006777909,
+                            "AuN": "belhadj karim"
+                        },
+                        {
+                            "AuId": 2014341614,
+                            "AuN": "omar chakrone"
+                        },
+                        {
+                            "AuId": 2921344565,
+                            "AuN": "abdelmajid boukhsas"
+                        }
+                    ],
+                    "doi": "10.5269/BSPM.V38I4.36661",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "on a positive solution for p q laplace equation with nonlinear",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2498060241,
+                    "author": [
+                        {
+                            "AuId": 38657237,
+                            "AuN": "nawel benouhiba"
+                        },
+                        {
+                            "AuId": 2007951535,
+                            "AuN": "zahia belyacine"
+                        }
+                    ],
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "a class of eigenvalue problems for the p q laplacian in r n",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 71091071,
+                    "author": [
+                        {
+                            "AuId": 2712411402,
+                            "AuN": "a m micheletti"
+                        },
+                        {
+                            "AuId": 2654548629,
+                            "AuN": "d visetti"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-0348-8087-9_16",
+                    "journal": "nonlinear analysis theory methods & applications",
+                    "title": "solitary waves solutions of a nonlinear schrodinger equation",
+                    "year_mag": 2003
+                }
+            ],
+            "cv_id": {
+                "pubbs": "9"
+            },
+            "doi": "10.1006/JDEQ.2001.4155",
+            "journal": "JOURNAL OF DIFFERENTIAL EQUATIONS",
+            "title": "an eigenvalue problem for a quasilinear elliptic field equation",
+            "type": "articolo in rivista",
+            "year": 2002
+        },
+        {
+            "ISSN": [
+                "1230-3429"
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "A. Marano",
+                            "given": "Salvatore",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "name": ",Dipartimento di Matematica e Informatica, Universit\u00e0 degli Studi di Catania, Viale A. Doria 6,95125 Catania, Italy",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "J. N. Mosconi",
+                            "given": "Sunra",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3934/DCDSS.2018015",
+                    "title": "some recent results on the dirichlet problem for p q laplace equations",
+                    "year_oc": 2018
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Micheletti",
+                            "given": "A. M.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Visetti",
+                            "given": "D.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-0348-8087-9_16",
+                    "title": "solitary waves solutions of a nonlinear schrodinger equation",
+                    "year_oc": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Alves",
+                            "given": "Claudianor O.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "dos Santos",
+                            "given": "Alan C.B.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1051/COCV/2017045",
+                    "title": "existence and multiplicity of solutions for a class of quasilinear elliptic field equation on rn",
+                    "year_oc": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "doi": "10.12775/tmna.2001.013",
+            "journal": "TOPOLOGICAL METHODS IN NONLINEAR ANALYSIS",
+            "title": "an eigenvalue problem for a quasilinear elliptic field equation on r n",
+            "type": "articolo in rivista",
+            "year": 2001
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2547584521,
+            "citing": [
+                {
+                    "PId": 2605326108,
+                    "author": [
+                        {
+                            "AuId": 2475413138,
+                            "AuN": "salvatore a marano"
+                        },
+                        {
+                            "AuId": 2155537272,
+                            "AuN": "sunra mosconi"
+                        }
+                    ],
+                    "doi": "10.3934/DCDSS.2018015",
+                    "journal": "discrete and continuous dynamical systems series s",
+                    "title": "some recent results on the dirichlet problem for p q laplace equations",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2791309548,
+                    "author": [
+                        {
+                            "AuId": 2671211150,
+                            "AuN": "marino badiale"
+                        },
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2148294833,
+                            "AuN": "sergio rolando"
+                        }
+                    ],
+                    "journal": "discrete and continuous dynamical systems series s",
+                    "title": "solitary waves physical aspects and mathematical results",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2027750387,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        },
+                        {
+                            "AuId": 3061761641,
+                            "AuN": "d visetti"
+                        }
+                    ],
+                    "doi": "10.1006/JDEQ.2001.4155",
+                    "journal": "discrete and continuous dynamical systems series s",
+                    "title": "an eigenvalue problem for a quasilinear elliptic field equation",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2963428288,
+                    "author": [
+                        {
+                            "AuId": 2167498850,
+                            "AuN": "claudianor o alves"
+                        },
+                        {
+                            "AuId": 2625816960,
+                            "AuN": "alan c b dos santos"
+                        }
+                    ],
+                    "doi": "10.1051/COCV/2017045",
+                    "journal": "discrete and continuous dynamical systems series s",
+                    "title": "existence and multiplicity of solutions for a class of quasilinear elliptic field equation on \u211dn",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 1563187305,
+                    "author": [
+                        {
+                            "AuId": 2294392209,
+                            "AuN": "teresa daprile"
+                        }
+                    ],
+                    "journal": "discrete and continuous dynamical systems series s",
+                    "title": "semiclassical states for a class of nonlinear elliptic field equations",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 71091071,
+                    "author": [
+                        {
+                            "AuId": 2712411402,
+                            "AuN": "a m micheletti"
+                        },
+                        {
+                            "AuId": 2654548629,
+                            "AuN": "d visetti"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-0348-8087-9_16",
+                    "journal": "discrete and continuous dynamical systems series s",
+                    "title": "solitary waves solutions of a nonlinear schrodinger equation",
+                    "year_mag": 2003
+                }
+            ],
+            "doi": "10.12775/TMNA.2001.013",
+            "journal": "topological methods in nonlinear analysis",
+            "title": "an eigenvalue problem for a quasilinear elliptic field equation on mathbb r n",
+            "type": "1",
+            "year_mag": 2001
+        },
+        {
+            "PId": 2963361308,
+            "cited": [
+                {
+                    "PId": 1577682781,
+                    "author": [
+                        {
+                            "AuId": 201281356,
+                            "AuN": "emmanuel hebey"
+                        }
+                    ],
+                    "title": "nonlinear analysis on manifolds sobolev spaces and inequalities",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 1992974193,
+                    "author": [
+                        {
+                            "AuId": 2608344184,
+                            "AuN": "a bahri"
+                        },
+                        {
+                            "AuId": 2179197810,
+                            "AuN": "jeanmichel coron"
+                        }
+                    ],
+                    "doi": "10.1002/CPA.3160410302",
+                    "journal": "communications on pure and applied mathematics",
+                    "title": "on a nonlinear elliptic equation involving the critical sobolev exponent the effect of the topology of the domain",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2051195713,
+                    "author": [
+                        {
+                            "AuId": 2146517048,
+                            "AuN": "walter a strauss"
+                        }
+                    ],
+                    "doi": "10.1007/BF01626517",
+                    "journal": "communications in mathematical physics",
+                    "title": "existence of solitary waves in higher dimensions",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 2091967365,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2263612180,
+                            "AuN": "claudio bonanno"
+                        },
+                        {
+                            "AuId": 2043776169,
+                            "AuN": "anna maria micheletti"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFA.2007.07.010",
+                    "journal": "journal of functional analysis",
+                    "title": "on the multiplicity of solutions of a nonlinear elliptic problem on riemannian manifolds",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2078892129,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2288113601,
+                            "AuN": "giovanna cerami"
+                        }
+                    ],
+                    "doi": "10.1007/BF00375686",
+                    "journal": "archive for rational mechanics and analysis",
+                    "title": "the effect of the domain topology on the number of positive solutions of nonlinear elliptic problems",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 1989564103,
+                    "author": [
+                        {
+                            "AuId": 26701933,
+                            "AuN": "vieri benci"
+                        },
+                        {
+                            "AuId": 2579224258,
+                            "AuN": "giovanna cerami"
+                        }
+                    ],
+                    "doi": "10.1007/BF01234314",
+                    "journal": "calculus of variations and partial differential equations",
+                    "title": "multiple positive solutions of some elliptic problems via the morse theory and the domain topology",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 615999284,
+                    "author": [
+                        {
+                            "AuId": 2117338293,
+                            "AuN": "djairo g de figueiredo"
+                        }
+                    ],
+                    "title": "lectures on the ekeland variational principle with applications and detours",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2104888285,
+                    "author": [
+                        {
+                            "AuId": 1990647214,
+                            "AuN": "e n dancer"
+                        }
+                    ],
+                    "doi": "10.1112/BLMS/20.6.600",
+                    "journal": "bulletin of the london mathematical society",
+                    "title": "a note on an equation with critical exponent",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2500565990,
+                    "author": [
+                        {
+                            "AuId": 2477465651,
+                            "AuN": "h berestychi"
+                        },
+                        {
+                            "AuId": 2492177026,
+                            "AuN": "p l lions"
+                        }
+                    ],
+                    "title": "existence d etats multiples dans des equations de champs scalaires non lineaires dans le cas de masse nulle",
+                    "year_mag": 1983
+                }
+            ],
+            "title": "multiplicity of solutions of a zero mass nonlinear equation on a riemannian manifold",
+            "type": "8",
+            "year_mag": 2007
+        },
+        {
+            "PId": 1972742613,
+            "journal": "arxiv analysis of pdes",
+            "title": "existence multiplicity and stability of endemic states for an age structured s i epidemic model",
+            "type": "8",
+            "year_mag": 2008
+        }
+    ]
+}

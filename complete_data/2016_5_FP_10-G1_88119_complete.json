@@ -1,0 +1,1450 @@
+{
+    "AuIds": [
+        2288508517
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "2069352001_+_2033437306": 1,
+                "2612299901_+_10.1075/la.226.05man": 1,
+                "2612299901_+_2544519117": 1,
+                "2971073979_+_2033437306": 1
+            },
+            "number": 2
+        },
+        "cand_nodes": 31,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 52,
+            "comm_other": 4682,
+            "other_cand": 5,
+            "other_comm": 4973
+        },
+        "other_nodes": 6564
+    },
+    "coverage": {
+        "articles": 10,
+        "books": 2,
+        "cov_sect": "A",
+        "other_pubbs": 28,
+        "pubbs": 15,
+        "pubbs_found": 6,
+        "pubbs_ind": 39,
+        "pubbs_ind_found": 18,
+        "total_extra_found": 31,
+        "total_found": 18,
+        "total_pubbs": 40
+    },
+    "fullname": [
+        "Tronci",
+        "Liana"
+    ],
+    "ind_anvur": [
+        38,
+        6,
+        1,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0390-6809"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "1"
+            },
+            "journal": "STUDI ITALIANI DI LINGUISTICA TEORICA E APPLICATA",
+            "title": "proper names and derivational morphology italian ismo ista and ancient greek ismos iste s formations ",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0037-9069"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "2"
+            },
+            "journal": "BULLETIN DE LA SOCIETE DE LINGUISTIQUE DE PARIS",
+            "title": "quelques suggestions pour une nouvelle analyse de la diathese et du tam dans le systeme du futur en grec ancien",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1456-8438"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "3"
+            },
+            "doi": "WWW.LINGUISTICS.FI/JULKAISUT/SKY2017/SKYJOL30_TRONCI.PDF",
+            "journal": "SKY JOURNAL OF LINGUISTICS",
+            "title": "the dynamics of linguistic contact ancient greek izein and latin issare izare idiare ",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0031-0387"
+            ],
+            "PId": 2943517695,
+            "cited": [
+                {
+                    "PId": 2048751277,
+                    "author": [
+                        {
+                            "AuId": 2291824249,
+                            "AuN": "christine mohrmann"
+                        }
+                    ],
+                    "doi": "10.1163/157007250X00157",
+                    "journal": "vigiliae christianae",
+                    "title": "les emprunts grecs dans la latinite chretienne",
+                    "year_mag": 1950
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Adams",
+                            "given": "J. N.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511843433",
+                    "title": "social variation and the latin language",
+                    "year_oc": 2013
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "doi": "10.4000/PALLAS.4572",
+            "journal": "PALLAS",
+            "title": "quelques remarques pour une reconsideration des verbes latins en isso izo idio",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "979-10-240-0731-1"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "title": "article defini et valeurs syntaxiques quelques reflexions sur l italien",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-3-11-055175-4"
+            ],
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1515/9783110551754-395",
+            "title": "forme del futuro nel greco ellenistico note sulla settanta",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-90-429-3513-6"
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "title": "le futur grec et son rapport au moyen",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-3-11-055427-4"
+            ],
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "doi": "10.1515/9783110554274-007",
+            "title": "identity in the repertoire a bottom line",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-3-944312-50-7"
+            ],
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "title": "syntaxe des adjectifs verbaux d obligation avo en vedique grec ancien et latin d un point de vue systematique ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-3-946142-35-5"
+            ],
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "title": "at the lexicon syntax interface ancient greek constructions with \u03b5\u03c7\u03b5\u03b9\u03bd and psychological nouns",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0165-7763"
+            ],
+            "PId": 2612299901,
+            "cited": [
+                {
+                    "PId": 2516194563,
+                    "author": [
+                        {
+                            "AuId": 1973948945,
+                            "AuN": "jacques moeschler"
+                        }
+                    ],
+                    "title": "connecteurs encodage conceptuel et encodage procedural",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1500979415,
+                    "author": [
+                        {
+                            "AuId": 2950714801,
+                            "AuN": "gerry c wakker"
+                        }
+                    ],
+                    "doi": "10.1163/EJ.9789004174726.I-284.27",
+                    "title": "well i will now present my arguments discourse cohesion marked by oun and toinun in lysias",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 561317516,
+                    "author": [
+                        {
+                            "AuId": 2095946875,
+                            "AuN": "josine schrickx"
+                        }
+                    ],
+                    "doi": "10.1163/EJ.9789004202757.I-304",
+                    "title": "lateinische modalpartikeln nempe quippe scilicet videlicet und nimirum",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 567209403,
+                    "author": [
+                        {
+                            "AuId": 3024467786,
+                            "AuN": "stephanie j bakker"
+                        }
+                    ],
+                    "doi": "10.1163/EJ.9789004174726.I-284.20",
+                    "title": "chapter three on the curious combination of the particles \u03b3\u03ac\u03c1 and \u03bf\u1f56\u03bd",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 655938801,
+                    "author": [
+                        {
+                            "AuId": 2643040827,
+                            "AuN": "stephanie bakker"
+                        },
+                        {
+                            "AuId": 1320812302,
+                            "AuN": "gerrigje wakker"
+                        }
+                    ],
+                    "doi": "10.1163/EJ.9789004174726.I-284",
+                    "title": "discourse cohesion in ancient greek",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 764978058,
+                    "author": [
+                        {
+                            "AuId": 845842534,
+                            "AuN": "annemieke drummen"
+                        }
+                    ],
+                    "doi": "10.1163/EJ.9789004174726.I-284.44",
+                    "title": "chapter seven dicourse cohesion in dialogue turn initial \u1f00\u03bb\u03bb\u1f71 in greek drama",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2015005677,
+                    "author": [
+                        {
+                            "AuId": 3109987207,
+                            "AuN": "albert rijksbaron"
+                        }
+                    ],
+                    "doi": "10.1163/156658412X649742",
+                    "journal": "journal of greek linguistics",
+                    "title": "does ancient greek have a word for no the evidence from \u03bfu\u03ba\u03bfu\u03bd \u03bfu questions",
+                    "year_mag": 2012
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Blakemore",
+                            "given": "Diane",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511486456",
+                    "title": "relevance and linguistic meaning",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Toulouse"
+                                }
+                            ],
+                            "family": "Spevak",
+                            "given": "Olga",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.117",
+                    "title": "constituent order in classical latin prose",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kroon",
+                            "given": "Caroline",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1163/9789004408999",
+                    "title": "discourse particles in latin",
+                    "year_oc": 1995
+                },
+                {
+                    "doi": "10.1163/9789004409026_002",
+                    "title": "introduction",
+                    "year_oc": 1997
+                },
+                {
+                    "doi": "10.1163/9789004409026_007",
+                    "title": "sur le role pragmatique de \u03ba\u03b1\u03b9\u03c4\u03bf\u03b9",
+                    "year_oc": 1997
+                },
+                {
+                    "doi": "10.1163/9789004409026_009",
+                    "title": "particles in questions in plato",
+                    "year_oc": 1997
+                },
+                {
+                    "doi": "10.1163/9789004409026_005",
+                    "title": " a\u03bb\u03bb \u03b5\u03be\u03bf\u03bb\u03bf\u03b9\u03c3\u03b8 \u03b1\u03c5\u03c4\u03c9 \u03ba\u03bf\u03b1\u03be",
+                    "year_oc": 1997
+                }
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Ghent"
+                                }
+                            ],
+                            "family": "La Roi",
+                            "given": "Ezra",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.13109/GLOT.2020.96.1.213",
+                    "title": "the variation of classical greek wishes",
+                    "year_oc": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "11"
+            },
+            "doi": "10.1075/SLCS.190.10TRO",
+            "title": "chapter 10 on the distribution of some interactive conclusive discourse markers in plato s theaetetus",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1972-9901"
+            ],
+            "PId": 2605261511,
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "doi": "10.5167/UZH-127549",
+            "journal": "ATTI DEL SODALIZIO GLOTTOLOGICO MILANESE",
+            "title": "sintassi aggettivale e sintassi verbale un case study dal greco antico",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-90-272-3142-0"
+            ],
+            "cited": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Nakamura",
+                            "given": "Takuya",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1051/SHSCONF/20140801261",
+                    "title": "construction n avoir pour n x ",
+                    "year_oc": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Universit\u00e0 per Stranieri di Siena"
+                                }
+                            ],
+                            "family": "Tronci",
+                            "given": "Liana",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/LI.32.2.06TRO",
+                    "title": "sur les expressions de sentiment en grec ancien",
+                    "year_oc": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Pavia"
+                                }
+                            ],
+                            "family": "Luraghi",
+                            "given": "Silvia",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.67",
+                    "title": "on the meaning of prepositions and cases",
+                    "year_oc": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Bortone",
+                            "given": "Pietro",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780199556854.001.0001",
+                    "title": "greek prepositions",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "VANDELOISE",
+                            "given": "CLAUDE",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.1994.5.2.157",
+                    "title": "methodology and analyses of the prepositionin",
+                    "year_oc": 1994
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Leeman",
+                            "given": "Danielle",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.3406/FLANG.1997.1149",
+                    "title": "sur la preposition en",
+                    "year_oc": 1997
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "13"
+            },
+            "doi": "10.1075/lis.32.08tro",
+            "title": "sur le syntagme prepositionnel en n du grec ancien syntaxe et lexique de ses combinaisons avec le verbe ekhein avoir ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-884674168-4"
+            ],
+            "PId": 2891378307,
+            "cv_id": {
+                "pubbs_ind": "14"
+            },
+            "title": "se questo e un uomo colpo d occhio sui presenti",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-884674168-4"
+            ],
+            "PId": 2885707175,
+            "cv_id": {
+                "pubbs_ind": "15"
+            },
+            "title": "se questo e un uomo chimica della quarta e della prima persona",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-6719-082-9"
+            ],
+            "ISSN": [
+                "1825-2796"
+            ],
+            "cv_id": {
+                "pubbs_ind": "16"
+            },
+            "title": "verbi in \u03b9\u03b6\u03c9 etnonimici nella storia del greco e oltre lingua e costruzione di identita",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-7916-728-4"
+            ],
+            "cv_id": {
+                "pubbs_ind": "17"
+            },
+            "doi": "10.7359/728-2015-tron",
+            "title": "greco \u03b9\u03b6\u03c9 e latino isso izo idio note preliminari per lo studio di un caso di contatto interlinguistico",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0458-726X"
+            ],
+            "PId": 2069352001,
+            "cited": [
+                {
+                    "PId": 2152315470,
+                    "author": [
+                        {
+                            "AuId": 1437058709,
+                            "AuN": "artemis alexiadou"
+                        },
+                        {
+                            "AuId": 2156185241,
+                            "AuN": "edit doron"
+                        }
+                    ],
+                    "doi": "10.1017/S0022226711000338",
+                    "journal": "journal of linguistics",
+                    "title": "the syntactic construction of two non active voices passive and middle",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1996460395,
+                    "author": [
+                        {
+                            "AuId": 2103251386,
+                            "AuN": "leonid kulikov"
+                        },
+                        {
+                            "AuId": 2054104502,
+                            "AuN": "nikolaos lavidas"
+                        }
+                    ],
+                    "doi": "10.1075/JHL.3.1.06KUL",
+                    "title": "reconstructing passive and voice in proto indo european",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2495843435,
+                    "author": [
+                        {
+                            "AuId": 2719196966,
+                            "AuN": "egbert j bakker"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.27.04BAK",
+                    "title": "voice aspect and aktionsart middle and passive in ancient greek",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2073683576,
+                    "author": [
+                        {
+                            "AuId": 2035528997,
+                            "AuN": "a j c m cock"
+                        }
+                    ],
+                    "doi": "10.1163/156852581X00018",
+                    "journal": "mnemosyne",
+                    "title": "sur les criteres determinant le choix entre l actif et le moyen",
+                    "year_mag": 1981
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2971073979,
+                    "author": [
+                        {
+                            "AuId": 2288508517,
+                            "AuN": "liana tronci"
+                        }
+                    ],
+                    "doi": "10.1163/15699846-01802005",
+                    "journal": "journal of greek linguistics",
+                    "title": "aorist voice patterns in the diachrony of greek the new testament as a sample of koine",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "18"
+            },
+            "doi": "10.3917/LANG.194.0035",
+            "journal": "LANGAGES",
+            "title": "formes moyennes oppositives et non oppositives breves notes sur le grec ancien",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-3-0343-1599-9"
+            ],
+            "PId": 2883280132,
+            "cv_id": {
+                "pubbs_ind": "19"
+            },
+            "title": "noi in se questo e un uomo saggio di critica linguistica",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-884674148-6"
+            ],
+            "cv_id": {
+                "pubbs_ind": "20"
+            },
+            "title": "attraverso i testi attraverso i secoli nota sui deonomastici con ismo e ista in italiano",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "21"
+            },
+            "title": "verbal adjectives",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788843069194"
+            ],
+            "PId": 2739823607,
+            "cv_id": {
+                "pubbs_ind": "22"
+            },
+            "title": "categorie e relazioni morfosintassi di aggettivi verbali in greco antico ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9788863156195"
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "23"
+            },
+            "title": "identita di forme diversita di interpretazioni \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03b6\u03c9 \u03b2\u03b1\u03c1\u03b2\u03b1\u03c1\u03b9\u03b6\u03c9 e la lingua come habitus",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9789027231390"
+            ],
+            "PId": 2489687195,
+            "cv_id": {
+                "pubbs_ind": "24"
+            },
+            "doi": "10.1075/LIS.29.14TRO",
+            "title": "la description morphosyntaxique a l epreuve des textes note sur les constructions impersonnelles pronominales de l italien",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1826-7491"
+            ],
+            "cv_id": {
+                "pubbs_ind": "25"
+            },
+            "doi": "10.26220/mmm.2432",
+            "journal": "ONLINE PROCEEDINGS OF THE MEDITERRANEAN MORPHOLOGY MEETINGS",
+            "title": "italian ismo and ista and ancient greek ismos and istes morphological processes and diachronic relationships",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "88-89837-84-5"
+            ],
+            "cv_id": {
+                "pubbs_ind": "26"
+            },
+            "title": "valori differenziali di costrutti con forme verbali in izo",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "978-2-87775-536-8"
+            ],
+            "ISSN": [
+                "2117-7880"
+            ],
+            "cv_id": {
+                "pubbs_ind": "27"
+            },
+            "title": "sur le reflechi en grec ancien notes preliminaires",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "978-88-557-0431-1"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "28"
+            },
+            "title": "presente e passato in se questo e un uomo note introduttive",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-3-89500-681-4"
+            ],
+            "cv_id": {
+                "pubbs_ind": "29"
+            },
+            "title": "taxonomie der mediumkonstruktionen und verbalflexion im altgriechischen",
+            "type": "contributo in atti di convegno",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-3-631-59683-8"
+            ],
+            "cv_id": {
+                "pubbs_ind": "30"
+            },
+            "title": "italia germania testi pubblicitari a confronto",
+            "type": "contributo in atti di convegno",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-884672837-1"
+            ],
+            "cv_id": {
+                "pubbs_ind": "31"
+            },
+            "title": "falso con funzione predicativa brevi note lessico grammaticali",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "978-88-568-1767-6"
+            ],
+            "cv_id": {
+                "pubbs": "11",
+                "pubbs_ind": "32"
+            },
+            "title": "funzioni forme categorie una nota su costrutti con verbi in izo",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "978-88-95044-83-5"
+            ],
+            "PId": 2918405484,
+            "cv_id": {
+                "pubbs_ind": "33"
+            },
+            "title": "costrutti con c e e nome proprio in una telecronaca sportiva configurazioni funzionali e valori testuali",
+            "type": "contributo in atti di convegno",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "0378-4169"
+            ],
+            "PId": 1553809448,
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Benedetti",
+                            "given": "Marina",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.13109/HISP.2012.125.1.3",
+                    "title": "on the genitive case with terminative verbs in ancient greek",
+                    "year_oc": 2012
+                }
+            ],
+            "cv_id": {
+                "pubbs": "13",
+                "pubbs_ind": "34"
+            },
+            "doi": "10.1075/li.32.1.03laf",
+            "journal": "LINGVISTICAE INVESTIGATIONES",
+            "title": "verb inflection in ancient greek and sanskrit and auxiliation patterns in french and italian functions forms system",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "0378-4169"
+            ],
+            "PId": 2086433528,
+            "citing": [
+                {
+                    "PId": 2551599539,
+                    "author": [
+                        {
+                            "AuId": 2549311991,
+                            "AuN": "liana tronci"
+                        }
+                    ],
+                    "doi": "10.1075/LIS.32.08TRO",
+                    "title": "sur le syntagme prepositionnel en n en grec ancien syntaxe et lexique de ses combinaisons avec le verbe ekhein avoir",
+                    "year_mag": 2016
+                }
+            ],
+            "cv_id": {
+                "pubbs": "12",
+                "pubbs_ind": "35"
+            },
+            "doi": "10.1075/LI.32.2.06TRO",
+            "journal": "LINGVISTICAE INVESTIGATIONES",
+            "title": "sur les expressions de sentiment en grec ancien",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-88-7667-382-5"
+            ],
+            "cv_id": {
+                "pubbs_ind": "36"
+            },
+            "title": "paratassi e ipotassi in una telecronaca sportiva",
+            "type": "contributo in atti di convegno",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-88-904330-0-9"
+            ],
+            "cv_id": {
+                "pubbs_ind": "37"
+            },
+            "title": "spunti per un lessico grammatica dei predicati psicologici in italiano",
+            "type": "contributo in atti di convegno",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "1124-8890"
+            ],
+            "cv_id": {
+                "pubbs": "14",
+                "pubbs_ind": "38"
+            },
+            "journal": "RIVISTA ITALIANA DI ONOMASTICA",
+            "title": "sui nomi propri in greco antico note sintattiche",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "39"
+            },
+            "type": "monografia o trattato scientifico",
+            "year": 2005
+        },
+        {
+            "cv_id": {
+                "pubbs": "15"
+            },
+            "type": "monografia o trattato scientifico",
+            "year": 2005
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 1994245956,
+            "citing": [
+                {
+                    "PId": 2056794852,
+                    "author": [
+                        {
+                            "AuId": 2220620095,
+                            "AuN": "catherine camugli gallardo"
+                        },
+                        {
+                            "AuId": 2939438178,
+                            "AuN": "takuya nakamura"
+                        }
+                    ],
+                    "doi": "10.3917/LANG.194.0003",
+                    "journal": "langages",
+                    "title": "presentation le moyen donnees linguistiques et reflexions theoriques",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2971073979,
+                    "author": [
+                        {
+                            "AuId": 2288508517,
+                            "AuN": "liana tronci"
+                        }
+                    ],
+                    "doi": "10.1163/15699846-01802005",
+                    "journal": "langages",
+                    "title": "aorist voice patterns in the diachrony of greek the new testament as a sample of koine",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2089315262,
+                    "author": [
+                        {
+                            "AuId": 2560681729,
+                            "AuN": "marina benedetti"
+                        }
+                    ],
+                    "doi": "10.13109/HISP.2012.125.1.3",
+                    "journal": "langages",
+                    "title": "on the genitive case with terminative verbs in ancient greek",
+                    "year_mag": 2012
+                }
+            ],
+            "doi": "10.1075/LI.32.1.03LAF",
+            "journal": "lingvisticae investigationes",
+            "title": "verb inflection in ancient greek and sanskrit and auxiliation patterns in french and italian forms functions system",
+            "type": "1",
+            "year_mag": 2009
+        },
+        {
+            "PId": 2942477216,
+            "title": "les adjectifs verbaux d obligation avo en vedique grec ancien et latin d un point de vue systematique",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2597346950,
+            "title": "quisquis et quicumque deux relatifs indefinis concurrents en latin classique",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2597157259,
+            "title": "aspects de la definitude langues textes grammaires",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2542720984,
+            "title": "la description morphosyntaxique a l epreuve des textes",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2911745653,
+            "title": "se questo e un uomo chimica della prima e dalla quarta persona",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2914991301,
+            "doi": "10.5167/UZH-84434",
+            "title": "syntaxe adjectivale et syntaxe verbale un cas d etude en grec ancien",
+            "type": "4",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2886168120,
+            "doi": "10.5167/UZH-83974",
+            "title": "come diremo noi soffrimmo e morimmo innumerevoli una ricognizione del noi nel romanzo se questo e un uomo di primo levi",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2971073979,
+            "cited": [
+                {
+                    "PId": 2152315470,
+                    "author": [
+                        {
+                            "AuId": 1437058709,
+                            "AuN": "artemis alexiadou"
+                        },
+                        {
+                            "AuId": 2156185241,
+                            "AuN": "edit doron"
+                        }
+                    ],
+                    "doi": "10.1017/S0022226711000338",
+                    "journal": "journal of linguistics",
+                    "title": "the syntactic construction of two non active voices passive and middle",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2004455881,
+                    "author": [
+                        {
+                            "AuId": 1826696696,
+                            "AuN": "suzanne kemmer"
+                        }
+                    ],
+                    "title": "the middle voice",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1746684843,
+                    "author": [
+                        {
+                            "AuId": 2566273178,
+                            "AuN": "rutger j allan"
+                        }
+                    ],
+                    "title": "the middle voice in ancient greek a study of polysemy",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1235441020,
+                    "author": [
+                        {
+                            "AuId": 2340628265,
+                            "AuN": "georgios giannakis"
+                        },
+                        {
+                            "AuId": 1603451034,
+                            "AuN": "vit bubenik"
+                        }
+                    ],
+                    "title": "encyclopedia of ancient greek language and linguistics",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2038912431,
+                    "author": [
+                        {
+                            "AuId": 2113935803,
+                            "AuN": "bruce m metzger"
+                        }
+                    ],
+                    "doi": "10.2307/1560928",
+                    "journal": "novum testamentum",
+                    "title": "the text of the new testament its transmission corruption and restoration",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1996460395,
+                    "author": [
+                        {
+                            "AuId": 2103251386,
+                            "AuN": "leonid kulikov"
+                        },
+                        {
+                            "AuId": 2054104502,
+                            "AuN": "nikolaos lavidas"
+                        }
+                    ],
+                    "doi": "10.1075/JHL.3.1.06KUL",
+                    "title": "reconstructing passive and voice in proto indo european",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1555103646,
+                    "author": [
+                        {
+                            "AuId": 2274180544,
+                            "AuN": "alfred plummer"
+                        }
+                    ],
+                    "title": "a critical and exegetical commentary on the gospel according to s luke",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1500298754,
+                    "author": [
+                        {
+                            "AuId": 2240790164,
+                            "AuN": "gerhard kittel"
+                        },
+                        {
+                            "AuId": 2984525074,
+                            "AuN": "gerhard friedrich"
+                        },
+                        {
+                            "AuId": 2102707970,
+                            "AuN": "august hiller"
+                        },
+                        {
+                            "AuId": 2170195328,
+                            "AuN": "klaus reinhardt"
+                        },
+                        {
+                            "AuId": 2682768614,
+                            "AuN": "oskar ruhle"
+                        }
+                    ],
+                    "title": "theologisches worterbuch zum neuen testament",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 1994245956,
+                    "author": [
+                        {
+                            "AuId": 2918355156,
+                            "AuN": "nunzio la fauci"
+                        },
+                        {
+                            "AuId": 2288508517,
+                            "AuN": "liana tronci"
+                        }
+                    ],
+                    "doi": "10.1075/LI.32.1.03LAF",
+                    "journal": "lingvisticae investigationes",
+                    "title": "verb inflection in ancient greek and sanskrit and auxiliation patterns in french and italian forms functions system",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 374263609,
+                    "author": [
+                        {
+                            "AuId": 2116637498,
+                            "AuN": "john t carroll"
+                        }
+                    ],
+                    "title": "luke a commentary",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 569392302,
+                    "author": [
+                        {
+                            "AuId": 2102644721,
+                            "AuN": "k l mckay"
+                        }
+                    ],
+                    "title": "a new syntax of the verb in new testament greek an aspectual approach",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2152159913,
+                    "author": [
+                        {
+                            "AuId": 2254474102,
+                            "AuN": "laura grestenberger"
+                        }
+                    ],
+                    "title": "feature mismatch deponency in indo european languages",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2495843435,
+                    "author": [
+                        {
+                            "AuId": 2719196966,
+                            "AuN": "egbert j bakker"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.27.04BAK",
+                    "title": "voice aspect and aktionsart middle and passive in ancient greek",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 399579108,
+                    "author": [
+                        {
+                            "AuId": 2054104502,
+                            "AuN": "nikolaos lavidas"
+                        }
+                    ],
+                    "title": "transitivity alternations in diachrony changes in argument structure and voice morphology",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2519163161,
+                    "author": [
+                        {
+                            "AuId": 2664320673,
+                            "AuN": "hugo mendez"
+                        }
+                    ],
+                    "doi": "10.1353/JBL.2016.0035",
+                    "journal": "journal of biblical literature",
+                    "title": "semitic poetic techniques in the magnificat luke 1 46 47 55",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 397770416,
+                    "author": [
+                        {
+                            "AuId": 2079289181,
+                            "AuN": "friedrich blass"
+                        },
+                        {
+                            "AuId": 2589385810,
+                            "AuN": "albert debrunner"
+                        },
+                        {
+                            "AuId": 2982816660,
+                            "AuN": "robert walter funk"
+                        }
+                    ],
+                    "title": "a greek grammar of the new testament and other early christian literature",
+                    "year_mag": 1961
+                },
+                {
+                    "PId": 2617217806,
+                    "author": [
+                        {
+                            "AuId": 2168976323,
+                            "AuN": "marina benedetti"
+                        }
+                    ],
+                    "doi": "10.4454/SSL.V55I1.179",
+                    "title": "quale medio quale passivo riflessioni sulle diatesi in greco",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2791171218,
+                    "author": [
+                        {
+                            "AuId": 3009508371,
+                            "AuN": "martin joachim kummel"
+                        }
+                    ],
+                    "doi": "10.29091/KRATYLOS/2008/1/31",
+                    "title": "tronci l gli aoristi con \u03b8 \u03b7 uno studio sulla morfosintassi verbale del greco antico",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2069352001,
+                    "author": [
+                        {
+                            "AuId": 2288508517,
+                            "AuN": "liana tronci"
+                        }
+                    ],
+                    "doi": "10.3917/LANG.194.0035",
+                    "journal": "langages",
+                    "title": "formes moyennes oppositives et non oppositives breves notes sur le grec ancien",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 821558470,
+                    "author": [
+                        {
+                            "AuId": 750429298,
+                            "AuN": "sylvie vanseveren"
+                        }
+                    ],
+                    "title": "compte rendu de a rijksbaron the syntax and semantics of the verb in classical greek an introduction amsterdam j c gieben 1984",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1502031247,
+                    "author": [
+                        {
+                            "AuId": 3023486636,
+                            "AuN": "anthony nicholas jannaris"
+                        }
+                    ],
+                    "title": "an historical greek grammar chiefly of the attic dialect as written and spoken from classical antiquity down to the present time founded upon the ancient texts inscriptions papyri and present popular greek",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 313979663,
+                    "author": [
+                        {
+                            "AuId": 2350657339,
+                            "AuN": "stratton l ladewig"
+                        }
+                    ],
+                    "title": "defining deponency an investigation into greek deponency of the middle and passive voices in the koine period",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1596237323,
+                    "author": [
+                        {
+                            "AuId": 2736417186,
+                            "AuN": "c f d moule"
+                        }
+                    ],
+                    "title": "an idiom book of new testament greek",
+                    "year_mag": 1953
+                },
+                {
+                    "PId": 1975677045,
+                    "author": [
+                        {
+                            "AuId": 2008828742,
+                            "AuN": "randall buth"
+                        }
+                    ],
+                    "doi": "10.1177/0142064X8400602104",
+                    "journal": "journal for the study of the new testament",
+                    "title": "hebrew poetic tenses and the magnificat",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 2327491882,
+                    "author": [
+                        {
+                            "AuId": 2798962766,
+                            "AuN": "j k elliott"
+                        },
+                        {
+                            "AuId": 595906143,
+                            "AuN": "kurt aland"
+                        },
+                        {
+                            "AuId": 636063055,
+                            "AuN": "barbara aland"
+                        },
+                        {
+                            "AuId": 2122233601,
+                            "AuN": "erroll f rhodes"
+                        }
+                    ],
+                    "doi": "10.2307/1560954",
+                    "journal": "novum testamentum",
+                    "title": "der text des neuen testaments einfuhrung in die wissenschaftlichen ausgaben und in theorie wie praxis der modernen textkritik the text of the new testament an introduction to the critical editions and to the theory and practice of modern textual criticism der text des neuen testaments einfuhrung in die wissenschaftlichen ausgaben und in theorie wie praxis der modernen textkritik",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2298924927,
+                    "author": [
+                        {
+                            "AuId": 2783955926,
+                            "AuN": "michel lejeune"
+                        }
+                    ],
+                    "title": "8 schwyzer eduard griechische grammatik erster band zweite lieferung wortbildung und flexion munich beck 1939",
+                    "year_mag": 1940
+                },
+                {
+                    "PId": 2088564542,
+                    "author": [
+                        {
+                            "AuId": 2166608128,
+                            "AuN": "archibald thomas robertson"
+                        }
+                    ],
+                    "title": "a grammar of the greek new testament in the light of historical research",
+                    "year_mag": 1914
+                },
+                {
+                    "PId": 1483825546,
+                    "author": [
+                        {
+                            "AuId": 2505178646,
+                            "AuN": "ge\u014drgios n chatzidakis"
+                        }
+                    ],
+                    "doi": "10.2307/287693",
+                    "journal": "american journal of philology",
+                    "title": "einleitung in die neugriechische grammatik",
+                    "year_mag": 1893
+                }
+            ],
+            "doi": "10.1163/15699846-01802005",
+            "journal": "journal of greek linguistics",
+            "title": "aorist voice patterns in the diachrony of greek the new testament as a sample of koine",
+            "type": "1",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2941686609,
+            "title": "on the distribution of some interactive conclusive discourse markers in plato s theaetetus",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2887169405,
+            "doi": "10.5167/UZH-33714",
+            "title": "contextes de peur sur l operateur a lien",
+            "type": "4",
+            "year_mag": 2007
+        },
+        {
+            "PId": 2890956078,
+            "title": "sulla flessione verbale in greco antico",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2242054435,
+            "title": "sulla flessione verbale in greco antico",
+            "type": "0",
+            "year_mag": 2011
+        }
+    ]
+}

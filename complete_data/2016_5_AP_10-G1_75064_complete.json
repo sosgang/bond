@@ -1,0 +1,293 @@
+{
+    "AuIds": [
+        2784425687
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 24,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 0,
+            "comm_other": 4682,
+            "other_cand": 0,
+            "other_comm": 4973
+        },
+        "other_nodes": 6512
+    },
+    "coverage": {
+        "articles": 4,
+        "books": 2,
+        "cov_sect": "A",
+        "other_pubbs": 6,
+        "pubbs": 10,
+        "pubbs_found": 10,
+        "pubbs_ind": 12,
+        "pubbs_ind_found": 11,
+        "total_extra_found": 24,
+        "total_found": 11,
+        "total_pubbs": 12
+    },
+    "fullname": [
+        "Bianchi",
+        "Angela"
+    ],
+    "ind_anvur": [
+        9,
+        3,
+        2,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "978-88-6056-561-7"
+            ],
+            "PId": 3082867087,
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "title": "da migrante a ospite lingua cultura e identita nei canti dei migranti",
+            "type": "contributo in atti di convegno",
+            "year": 2018
+        },
+        {
+            "ISBN": [
+                "9788898640287"
+            ],
+            "PId": 3092049267,
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "title": "stat roma pristina nomine lingua e scrittura nella romania linguistica episteme dell antichita e oltre vol",
+            "type": "monografia o trattato scientifico",
+            "year": 2018
+        },
+        {
+            "ISSN": [
+                "2279-7033"
+            ],
+            "PId": 3084039173,
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "journal": "ALESSANDRIA",
+            "title": "tra naturalismo e storicismo da ascoli a pisani in l opera scientifica di v pisani nel quadro della glottologia indeuropea fra ottocento e novecento atti del worskhop del l congresso sli milano 22 sett 2016 a cura di m negri g rocca e m muscariello",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "2239-0367"
+            ],
+            "PId": 2775834259,
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1285/I22390359V23P7",
+            "journal": "LINGUE E LINGUAGGI",
+            "title": " les noms de semantique et de polysemie mutamenti semantici e ristrutturazioni lessicali nel passaggio dal latino alle lingue romanze",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "2281-6585"
+            ],
+            "PId": 3082377620,
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "5"
+            },
+            "journal": "SEZIONE LINGUISTICA",
+            "title": "metafora e metonimia nel processo polisemico saussure jakobson lacan e i colori delle lingue annali del dipartimento di studi letterari linguistici e comparati",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-6974-124-1"
+            ],
+            "PId": 3086588248,
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "title": "dire dove siamo e il nostro compito la vita e l opera di antonio santori",
+            "type": "prefazione/postfazione",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-6974-124-1"
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "title": "prefazione ",
+            "type": "prefazione/postfazione",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9788898640065"
+            ],
+            "PId": 3084397204,
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "8"
+            },
+            "title": "un database per le antichita picene proposte per una indicizzazione",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-88-222-6237-0"
+            ],
+            "PId": 3086298282,
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "9"
+            },
+            "title": "dall indice al lemma e ritorno lo zibaldone come ipertesto nel dlm dizionario del lessico metalinguistico ",
+            "type": "contributo in atti di convegno",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "978-88-6056-378-1"
+            ],
+            "PId": 3086078264,
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "10"
+            },
+            "title": "parole in liberta nell ipertesto futurista",
+            "type": "contributo in atti di convegno",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1128-6369"
+            ],
+            "PId": 3083741495,
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "11"
+            },
+            "journal": "RIVISTA ITALIANA DI LINGUISTICA E DI DIALETTOLOGIA",
+            "title": "la diversita delle lingue nello zibaldone di giacomo leopardi prospettive antropologiche e culturali ",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788843065615"
+            ],
+            "PId": 3083684106,
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "12"
+            },
+            "title": "pensieri sull etimo riflessioni linguistiche nello zibaldone di giacomo leopardi recensito da f ferrara in ai\u03c9n n s i 2012 pp 297 299 c gazzeri in blityri studi di storia delle idee sui segni e le lingue n 2 2012 pp 193 199 i batassa in oblio n ii 8 2012 p 131 f palma in la rassegna della letteratura italiana 119 n s ix 2015 pp 233 234 lingue e letterature carocci vol",
+            "type": "monografia o trattato scientifico",
+            "year": 2012
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2782012005,
+            "title": "il labirinto testuale delle antichita picene di giuseppe collucci percorsi vecchi e nuovi",
+            "type": "0",
+            "year_mag": 2014
+        },
+        {
+            "PId": 3081923465,
+            "title": "antonio santori l opera poetica la pagina bianca del possibile e del necessario",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2784943584,
+            "title": "annibal caro a cinquecento anni dalla nascita",
+            "type": "0",
+            "year_mag": 2009
+        },
+        {
+            "PId": 2096244243,
+            "title": "annibal caro a cinquecento anni dalla nascita atti del convegno di studi macerata 16 17 giugno 2007",
+            "type": "0",
+            "year_mag": 2009
+        },
+        {
+            "PId": 3080608015,
+            "title": "mutamento linguistico scrittura biodiversita nella romania linguistica",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 3083760218,
+            "title": "le fonti linguistiche ed etimologiche nello zibaldone di pensieri turgot e l encyclopedie nella biblioteca leopardi",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 590666609,
+            "title": "pensieri sull etimo riflessioni linguistiche nello zibaldone di giacomo leopardi",
+            "type": "5",
+            "year_mag": 2012
+        },
+        {
+            "PId": 3083723326,
+            "title": "paesaggio e metafora in leopardi",
+            "type": "0",
+            "year_mag": 2011
+        },
+        {
+            "PId": 3080247776,
+            "title": "etimologia e sinonimia tra motivazione e slittamento semantico tracciati leopardiani",
+            "type": "0",
+            "year_mag": 2010
+        },
+        {
+            "PId": 3093196929,
+            "title": "la coppia lessicale oriente occidente nelle riflessioni di leopardi",
+            "type": "0",
+            "year_mag": 2008
+        },
+        {
+            "PId": 3084366557,
+            "title": "giacomo leopardi e la diversita delle lingue la prospettiva interculturale dello zibaldone",
+            "type": "0",
+            "year_mag": 2007
+        },
+        {
+            "PId": 3084408133,
+            "title": "il labirinto dei diminutivi nello zibaldone di leopardi",
+            "type": "0",
+            "year_mag": 2006
+        },
+        {
+            "PId": 3101165839,
+            "title": "tracce di retorica in saussure recensito da h krones in rhetorica n 28 1 2010 pp 104 108",
+            "type": "0",
+            "year_mag": 2005
+        }
+    ]
+}

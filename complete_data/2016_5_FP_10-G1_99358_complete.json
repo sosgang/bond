@@ -1,0 +1,1116 @@
+{
+    "AuIds": [
+        2650714146,
+        2633094725,
+        2644029958,
+        2884637734,
+        2886545767,
+        2950841911,
+        2701787917,
+        2328060847,
+        2684078801,
+        2631158614,
+        2782841847,
+        2626981560,
+        2637663388
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 23,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 38,
+            "comm_other": 4682,
+            "other_cand": 1,
+            "other_comm": 4973
+        },
+        "other_nodes": 6551
+    },
+    "coverage": {
+        "articles": 14,
+        "books": 2,
+        "cov_sect": "A",
+        "other_pubbs": 25,
+        "pubbs": 15,
+        "pubbs_found": 9,
+        "pubbs_ind": 41,
+        "pubbs_ind_found": 18,
+        "total_extra_found": 23,
+        "total_found": 18,
+        "total_pubbs": 41
+    },
+    "fullname": [
+        "Rizza",
+        "Alfredo"
+    ],
+    "ind_anvur": [
+        34,
+        6,
+        3,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "title": "kalmanna ",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2017
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "title": " gis kalmi ",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1972-9901"
+            ],
+            "PId": 2612428483,
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.13130/1972-9901/8155",
+            "journal": "ATTI DEL SODALIZIO GLOTTOLOGICO MILANESE",
+            "title": "sulla ricostruzione degli esponenti di persona singolare nelle desinenze verbali del pie",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9783954901456"
+            ],
+            "PId": 2783992904,
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "title": "appendix a provisional concordance to the sign list",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0043-2547"
+            ],
+            "PId": 2301976821,
+            "cited": [
+                {
+                    "PId": 583605175,
+                    "author": [
+                        {
+                            "AuId": 2608059449,
+                            "AuN": "volkert haas"
+                        }
+                    ],
+                    "doi": "10.1515/9783110925258",
+                    "title": "materia magica et medica hethitica ein beitrag zur heilkunde im alten orient",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2074647808,
+                    "author": [
+                        {
+                            "AuId": 2312192897,
+                            "AuN": "jaan puhvel"
+                        }
+                    ],
+                    "title": "hittite etymological dictionary",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 2316396938,
+                    "author": [
+                        {
+                            "AuId": 2617865171,
+                            "AuN": "dennis campbell"
+                        }
+                    ],
+                    "doi": "10.1086/658839",
+                    "journal": "journal of near eastern studies",
+                    "title": "konkordanz der hethitischen keilschrifttafeln die textfunde der grabungen in bogazkoy teil 1 1906 1912 teil 2 1931 1939 teil 3 1952 1963 teil 4 1964 2004 und texte anderer provenienz teil 5 indizes der konkordanz edited by silvin kasak and gerfrid g w muller hethitologie portal mainz materialen 1 5 harrassowitz verlag 2006",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2189865337,
+                    "author": [
+                        {
+                            "AuId": 2780463714,
+                            "AuN": "g del monte"
+                        }
+                    ],
+                    "title": "antologia della letteratura ittita",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2004589690,
+                    "author": [
+                        {
+                            "AuId": 2675360160,
+                            "AuN": "howard berman"
+                        },
+                        {
+                            "AuId": 2801075722,
+                            "AuN": "emmanuel laroche"
+                        }
+                    ],
+                    "doi": "10.2307/1359639",
+                    "journal": "journal of the american oriental society",
+                    "title": "catalogue des textes hittites",
+                    "year_mag": 1972
+                },
+                {
+                    "PId": 2318096437,
+                    "author": [
+                        {
+                            "AuId": 2509051351,
+                            "AuN": "detlev groddek"
+                        }
+                    ],
+                    "doi": "10.1524/AOFO.1996.23.1.101",
+                    "journal": "altorientalische forschungen",
+                    "title": "fragmenta hethitica dispersa xiii",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 589439176,
+                    "author": [
+                        {
+                            "AuId": 2250315502,
+                            "AuN": "heinrich otten"
+                        },
+                        {
+                            "AuId": 1801628085,
+                            "AuN": "vladimir soucek"
+                        }
+                    ],
+                    "title": "ein althethitisches ritual fur das konigspaar",
+                    "year_mag": 1969
+                },
+                {
+                    "PId": 2012143994,
+                    "author": [
+                        {
+                            "AuId": 2486797280,
+                            "AuN": "annelies kammenhuber"
+                        }
+                    ],
+                    "doi": "10.1515/ZAVA.1955.51.1.102",
+                    "journal": "zeitschrift fur assyriologie und vorderasiatische archaologie",
+                    "title": "die protohattisch hethitische bilinguis vom mond der vom himmel gefallen ist",
+                    "year_mag": 1955
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "doi": "10.13109/WDOR.2015.45.2.232",
+            "journal": "DIE WELT DES ORIENTS",
+            "title": "on the manuscripts of the rituals for the royal couple cth 416",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0022-7498"
+            ],
+            "PId": 2566223595,
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1515/KADMOS-2014-0010",
+            "journal": "KADMOS",
+            "title": "from the predicaments of grammatology to the origin of the lydian and other scripts",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-3-85124-737-4"
+            ],
+            "PId": 2625937359,
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "7"
+            },
+            "title": "zur entstehung der medialendungen uberlegungen zu einigen bildungsstrategien",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788867190799"
+            ],
+            "ISSN": [
+                "1825-2796"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "8"
+            },
+            "title": "pluralita e totalita tra semantica e morfologia in ittita",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-90-272-4263-1"
+            ],
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "doi": "10.1075/BCT.75.02C",
+            "title": "reconstructing proto indo european categories",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788842818953"
+            ],
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "journal": "LA CULTURA",
+            "title": "la scienza del linguaggio interviste con james mcgilvray",
+            "type": "traduzione di libro",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "8889837985"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "11"
+            },
+            "title": " ergativo negli studi storici sulle lingue del ramo indoeuropeo anatolico",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "doi": "10.1016/s1474-5151(10)60137-5",
+            "title": "i i",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2014
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "13"
+            },
+            "title": "impu",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2014
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "14"
+            },
+            "title": " ip ru us ta as",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2014
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "15"
+            },
+            "title": "ipu",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2014
+        },
+        {
+            "PId": 2586327097,
+            "cv_id": {
+                "pubbs_ind": "16"
+            },
+            "title": "isg k qaru ih",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1972-9901"
+            ],
+            "PId": 1517148371,
+            "citing": [
+                {
+                    "PId": 2984062170,
+                    "author": [
+                        {
+                            "AuId": 2984250885,
+                            "AuN": "marco petolicchio"
+                        }
+                    ],
+                    "doi": "10.2478/LF-2018-0014",
+                    "title": "some notes on split ergativity in hittite",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "17"
+            },
+            "doi": "10.13130/1972-9901/3457",
+            "journal": "ATTI DEL SODALIZIO GLOTTOLOGICO MILANESE",
+            "title": "ipotesi su problemi di genere numero ed ergativita in eteo",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "2210-2116"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "18"
+            },
+            "doi": "10.1075/JHL.3.1.02C",
+            "journal": "JOURNAL OF HISTORICAL LINGUISTICS",
+            "title": "reconstructing proto indo european categories the reflexive and the middle in hittite and in the proto language",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9785874443702"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "19"
+            },
+            "title": "\u043b\u0438\u0434\u0438\u0438\u0441\u043a\u0438\u0438 \u044f\u0437\u044b\u043a lydian language ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "8889837926"
+            ],
+            "cv_id": {
+                "pubbs_ind": "20"
+            },
+            "title": "on the definition of grapheme online resources",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788896055342"
+            ],
+            "PId": 2613065877,
+            "cv_id": {
+                "pubbs_ind": "21"
+            },
+            "title": "grammatology and digital technologies different applications of the concept of character in unicode and other non technical problems about ancient scripts",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788882581404"
+            ],
+            "PId": 2883918581,
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "22"
+            },
+            "title": "polveri di parole polveri di spezie sulle tracce dello zafferano nell area indo mediterranea antica",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "23"
+            },
+            "title": " na4 hust i ",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2012
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "24"
+            },
+            "title": "hustisk ",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1972-9901"
+            ],
+            "PId": 2952006737,
+            "cv_id": {
+                "pubbs": "11",
+                "pubbs_ind": "25"
+            },
+            "journal": "ATTI DEL SODALIZIO GLOTTOLOGICO MILANESE",
+            "title": "clitic pronouns and split ergativity in hurrian preliminary remarks",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1972-9901"
+            ],
+            "PId": 2887713808,
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "26"
+            },
+            "journal": "ATTI DEL SODALIZIO GLOTTOLOGICO MILANESE",
+            "title": "on the syntax of numerals in hittite",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9788862742634"
+            ],
+            "PId": 2887884157,
+            "cv_id": {
+                "pubbs_ind": "27"
+            },
+            "title": "zipf s law and the distribution of written signs",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-3-89500-681-4"
+            ],
+            "PId": 2949351336,
+            "cv_id": {
+                "pubbs": "13",
+                "pubbs_ind": "28"
+            },
+            "title": "die hethitische partikel za am lichte rezenter theoretischer ansatze",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9788887193190"
+            ],
+            "cv_id": {
+                "pubbs": "12",
+                "pubbs_ind": "29"
+            },
+            "title": "the ritual for the royal couple cth 416 syntax of non verbal predicates and numerals",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1972-9901"
+            ],
+            "cv_id": {
+                "pubbs_ind": "30"
+            },
+            "journal": "ATTI DEL SODALIZIO GLOTTOLOGICO MILANESE",
+            "title": "contributi allo studio dell ergativita in anatolico basi teorico tipologiche sopra alcune recenti pubblicazioni",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "1972-9901"
+            ],
+            "cv_id": {
+                "pubbs_ind": "31"
+            },
+            "journal": "ATTI DEL SODALIZIO GLOTTOLOGICO MILANESE",
+            "title": "periferia destra e sinistra della frase in ittita il caso dei testi di traduzione",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "1972-9901"
+            ],
+            "cv_id": {
+                "pubbs_ind": "32"
+            },
+            "journal": "ATTI DEL SODALIZIO GLOTTOLOGICO MILANESE",
+            "title": "ergativita in anatolico alcune premesse",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-3-89500-677-7"
+            ],
+            "cv_id": {
+                "pubbs": "14",
+                "pubbs_ind": "33"
+            },
+            "title": "left and right periphery in hittite the case of the translations from hattic",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-88-87193-13-8"
+            ],
+            "cv_id": {
+                "pubbs": "15",
+                "pubbs_ind": "34"
+            },
+            "title": "interferenza linguistica e culturale nelle traduzioni del vicino oriente il caso dell anatolia preclassica",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "978-8-88719-314-5"
+            ],
+            "cv_id": {
+                "pubbs_ind": "35"
+            },
+            "title": " cercato in traduzione su di un passo problematico della bilingue sir para tarnummas ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "36"
+            },
+            "type": "articolo in rivista",
+            "year": 2007
+        },
+        {
+            "ISBN": [
+                "978-88-8258-034-6"
+            ],
+            "cv_id": {
+                "pubbs_ind": "37"
+            },
+            "title": "i pronomi enclitici nei testi etei di traduzione dal hattico p 1 192 pavia gianni iuculano",
+            "type": "monografia o trattato scientifico",
+            "year": 2007
+        },
+        {
+            "ISBN": [
+                "978-88-540-0670-6"
+            ],
+            "cv_id": {
+                "pubbs_ind": "38"
+            },
+            "title": "assiri e babilonesi storia e tesori di un antica civilta ",
+            "type": "monografia o trattato scientifico",
+            "year": 2007
+        },
+        {
+            "ISSN": [
+                "0004-6574"
+            ],
+            "cv_id": {
+                "pubbs_ind": "39"
+            },
+            "journal": "ATHENAEUM",
+            "title": "licia e lidia prima dell ellenizzazione a proposito del convegno di studi di roma 1999",
+            "type": "articolo in rivista",
+            "year": 2005
+        },
+        {
+            "ISSN": [
+                "0393-1226"
+            ],
+            "PId": 131696636,
+            "cv_id": {
+                "pubbs_ind": "40"
+            },
+            "doi": "10.1400/97239",
+            "journal": "QUADERNI DI SEMANTICA",
+            "title": "il tempo del mito il mito di illuijanka fra competenza linguistica e competenza comunicativa",
+            "type": "articolo in rivista",
+            "year": 2005
+        },
+        {
+            "ISSN": [
+                "0022-7498"
+            ],
+            "PId": 2022125755,
+            "cited": [
+                {
+                    "PId": 2329003026,
+                    "author": [
+                        {
+                            "AuId": 2122790005,
+                            "AuN": "mark hansell"
+                        },
+                        {
+                            "AuId": 2108815572,
+                            "AuN": "peter t daniels"
+                        },
+                        {
+                            "AuId": 2631943435,
+                            "AuN": "william bright"
+                        }
+                    ],
+                    "doi": "10.2307/328930",
+                    "journal": "the modern language journal",
+                    "title": "the world s writing systems",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1572158992,
+                    "author": [
+                        {
+                            "AuId": 2691208771,
+                            "AuN": "p r s moorey"
+                        }
+                    ],
+                    "title": "ancient mesopotamian materials and industries the archaeological evidence",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2034113806,
+                    "author": [
+                        {
+                            "AuId": 2098644001,
+                            "AuN": "santiago perez orozco"
+                        }
+                    ],
+                    "doi": "10.1515/KADM.42.1-2.104",
+                    "journal": "kadmos",
+                    "title": "propuesta de nuevos valores para algunos signos del alfabeto sidetico",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2769732659,
+                    "author": [
+                        {
+                            "AuId": 2769795727,
+                            "AuN": "veronique krings"
+                        }
+                    ],
+                    "doi": "10.1163/9789004293977",
+                    "title": "la civilisation phenicienne et punique",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1980816757,
+                    "author": [
+                        {
+                            "AuId": 2098644001,
+                            "AuN": "santiago perez orozco"
+                        }
+                    ],
+                    "doi": "10.1515/KADM.2005.011",
+                    "journal": "kadmos",
+                    "title": "los signos para consonante aspirada en sidetico",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2395028418,
+                    "author": [
+                        {
+                            "AuId": 2250389956,
+                            "AuN": "gunter neumann"
+                        }
+                    ],
+                    "doi": "10.1515/KADMOS-1968-0108",
+                    "journal": "kadmos",
+                    "title": "zur entzifferung der sidetischen inschriften",
+                    "year_mag": 1968
+                },
+                {
+                    "PId": 2049759149,
+                    "author": [
+                        {
+                            "AuId": 2277745074,
+                            "AuN": "vitali v sevoroskin"
+                        }
+                    ],
+                    "doi": "10.1515/KADM.1968.7.2.150",
+                    "journal": "kadmos",
+                    "title": "zur entstehung und entwicklung der kleinasiatischen buchstabenschriften",
+                    "year_mag": 1968
+                },
+                {
+                    "PId": 2147442296,
+                    "author": [
+                        {
+                            "AuId": 2616675921,
+                            "AuN": "claude brixhe"
+                        }
+                    ],
+                    "doi": "10.1515/KADM.1969.8.2.143",
+                    "journal": "kadmos",
+                    "title": "un nouveau document epichorique de side",
+                    "year_mag": 1969
+                },
+                {
+                    "PId": 2400236247,
+                    "author": [
+                        {
+                            "AuId": 2535622068,
+                            "AuN": "sabahat atlan"
+                        }
+                    ],
+                    "doi": "10.1515/KADMOS-1968-0107",
+                    "journal": "kadmos",
+                    "title": "die munzen der stadt side mit sidetischen aufschriften",
+                    "year_mag": 1968
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "OROZCO",
+                            "given": "SANTIAGO P\u00c9REZ",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/KADM.2003.42.1.104",
+                    "title": "propuesta de nuevos valores para algunos signos del alfabeto sidetico",
+                    "year_oc": 2003
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "41"
+            },
+            "doi": "10.1515/KADM.2005.010",
+            "journal": "KADMOS",
+            "title": "a new epigraphic document with sidetic signs",
+            "type": "articolo in rivista",
+            "year": 2005
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2228370594,
+            "cited": [
+                {
+                    "PId": 2567948266,
+                    "author": [
+                        {
+                            "AuId": 2096585231,
+                            "AuN": "radford m neal"
+                        },
+                        {
+                            "AuId": 563069026,
+                            "AuN": "geoffrey e hinton"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-011-5014-9_12",
+                    "title": "a view of the em algorithm that justifies incremental sparse and other variants",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 46452414,
+                    "author": [
+                        {
+                            "AuId": 2247444821,
+                            "AuN": "william e winkler"
+                        }
+                    ],
+                    "title": "the state of record linkage and current research problems",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2254463431,
+                    "author": [
+                        {
+                            "AuId": 2971279478,
+                            "AuN": "jim freeman"
+                        }
+                    ],
+                    "title": "probability metrics and the stability of stochastic models",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 1535150327,
+                    "author": [
+                        {
+                            "AuId": 721973866,
+                            "AuN": "richard sproat"
+                        }
+                    ],
+                    "title": "a computational theory of writing systems",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2041404167,
+                    "author": [
+                        {
+                            "AuId": 2247248564,
+                            "AuN": "claude e shannon"
+                        }
+                    ],
+                    "title": "the mathematical theory of communication",
+                    "year_mag": 1948
+                },
+                {
+                    "PId": 1486884670,
+                    "author": [
+                        {
+                            "AuId": 2659647059,
+                            "AuN": "halet cambel"
+                        },
+                        {
+                            "AuId": 2655073377,
+                            "AuN": "wolfgang rollig"
+                        },
+                        {
+                            "AuId": 2314599251,
+                            "AuN": "j d hawkins"
+                        }
+                    ],
+                    "title": "corpus of hieroglyphic luwian inscriptions",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2120238977,
+                    "author": [
+                        {
+                            "AuId": 2114357324,
+                            "AuN": "shoude lin"
+                        },
+                        {
+                            "AuId": 2330030585,
+                            "AuN": "kevin knight"
+                        }
+                    ],
+                    "doi": "10.1016/J.ARTINT.2005.12.001",
+                    "journal": "artificial intelligence",
+                    "title": "discovering the linear writing order of a two dimensional ancient hieroglyphic script",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2770818762,
+                    "author": [
+                        {
+                            "AuId": 2768661028,
+                            "AuN": "m barbera"
+                        },
+                        {
+                            "AuId": 2769063346,
+                            "AuN": "e corino"
+                        },
+                        {
+                            "AuId": 2771031279,
+                            "AuN": "c onesti"
+                        }
+                    ],
+                    "title": "corpora e linguistica in rete",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2804642246,
+                    "author": [
+                        {
+                            "AuId": 2804450935,
+                            "AuN": "emanuele ferdinando barbera"
+                        },
+                        {
+                            "AuId": 1390753127,
+                            "AuN": "elisa corino"
+                        },
+                        {
+                            "AuId": 82633611,
+                            "AuN": "cristina onesti"
+                        }
+                    ],
+                    "title": "cosa e un corpus per una definizione piu rigorosa di corpus token markup",
+                    "year_mag": 2007
+                }
+            ],
+            "title": "nota et ignota problems and desiderata in the constitution of e corpora",
+            "type": "0",
+            "year_mag": 2007
+        },
+        {
+            "PId": 2540053102,
+            "cited": [
+                {
+                    "PId": 435038712,
+                    "author": [
+                        {
+                            "AuId": 2158019214,
+                            "AuN": "r m w dixon"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511611896",
+                    "title": "ergativity index of languages and language families",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 405568737,
+                    "author": [
+                        {
+                            "AuId": 2121334004,
+                            "AuN": "daniel petit"
+                        }
+                    ],
+                    "doi": "10.1163/9789047440710",
+                    "title": "untersuchungen zu den baltischen sprachen",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1997624895,
+                    "author": [
+                        {
+                            "AuId": 2485693107,
+                            "AuN": "silvia luraghi"
+                        }
+                    ],
+                    "doi": "10.1075/SL.36.1.01LUR",
+                    "journal": "studies in language",
+                    "title": "basic valency orientation and the middle voice in hittite",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2500789616,
+                    "author": [
+                        {
+                            "AuId": 1985322089,
+                            "AuN": "folke josephson"
+                        }
+                    ],
+                    "doi": "10.1515/9783110897722.211",
+                    "title": "the hittite reflexive construction in a typological perspective",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1980120076,
+                    "author": [
+                        {
+                            "AuId": 1975839099,
+                            "AuN": "johannes friedrich"
+                        }
+                    ],
+                    "doi": "10.1515/ZAVA.1929.39.1-3.1",
+                    "journal": "zeitschrift fur assyriologie und vorderasiatische archaologie",
+                    "title": "die hethitischen bruchstucke des gilgames epos",
+                    "year_mag": 1929
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Clackson",
+                            "given": "James",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511808616",
+                    "title": "indo european linguistics",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of California, San Diego"
+                                }
+                            ],
+                            "family": "Kemmer",
+                            "given": "Suzanne",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.23",
+                    "title": "the middle voice",
+                    "year_oc": 1993
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Safir",
+                            "given": "Ken",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780195166132.001.0001",
+                    "title": "the syntax of anaphora",
+                    "year_oc": 2004
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Jasanoff",
+                            "given": "Jay H.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780199249053.001.0001",
+                    "title": "hittite and the indo european verb",
+                    "year_oc": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Geniusien\u00e9",
+                            "given": "Emma",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110859119",
+                    "title": "the typology of reflexives",
+                    "year_oc": 1987
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Yakubovich",
+                            "given": "Ilya",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1163/9789047440277",
+                    "title": "sociolinguistics of the luvian language",
+                    "year_oc": 2010
+                }
+            ],
+            "doi": "10.1075/BCT.75.02COT",
+            "title": "reconstructing proto indo european categories",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2917643542,
+            "title": "language media and economy in virtual and real life",
+            "type": "5",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2730451701,
+            "title": "variation within and among writing systems old new conceptsand methods in the analysis of ancient written documents lautschriftsprache 1",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2953840449,
+            "title": "ranjan sen syllable and segment in latin oxford studies in diachronic and historical linguistics 16 oxford oxford university press 2015 pp xvi 272 isbn 9780199660186 reviewed by paolacotticelli kurras and alfredo rizza university of verona",
+            "type": "0",
+            "year_mag": 2016
+        }
+    ]
+}

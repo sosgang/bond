@@ -1,0 +1,352 @@
+{
+    "AuIds": [
+        2801662783,
+        1967770145,
+        2735547396,
+        2680103722,
+        2964844716,
+        2694866322,
+        2629341075,
+        2669127380,
+        2678178589
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 23,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 0,
+            "comm_other": 4682,
+            "other_cand": 0,
+            "other_comm": 4973
+        },
+        "other_nodes": 6512
+    },
+    "coverage": {
+        "articles": 8,
+        "books": 4,
+        "cov_sect": "A",
+        "other_pubbs": 5,
+        "pubbs": 10,
+        "pubbs_found": 7,
+        "pubbs_ind": 17,
+        "pubbs_ind_found": 12,
+        "total_extra_found": 23,
+        "total_found": 12,
+        "total_pubbs": 17
+    },
+    "fullname": [
+        "Bitonti",
+        "Alessandro"
+    ],
+    "ind_anvur": [
+        11,
+        4,
+        4,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0391-3368"
+            ],
+            "PId": 2884136615,
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "journal": "XLVII",
+            "title": "la scienza in cucina di pellegrino artusi toponimi etnici e aree gastronomiche italianistica vol",
+            "type": "articolo in rivista",
+            "year": 2018
+        },
+        {
+            "ISBN": [
+                "978-88-7667-718-2"
+            ],
+            "PId": 2793551663,
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "title": "unita e variazione linguistica nella scienza in cucina di pellegrino artusi",
+            "type": "contributo in atti di convegno",
+            "year": 2018
+        },
+        {
+            "ISBN": [
+                "978-88-6897-109-0"
+            ],
+            "PId": 2804203568,
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "3"
+            },
+            "title": "la variazione linguistica dall infanzia alla preadolescenza ricerche in puglia",
+            "type": "monografia o trattato scientifico",
+            "year": 2018
+        },
+        {
+            "ISBN": [
+                "978-88-6787-758-4"
+            ],
+            "PId": 2801820053,
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "4"
+            },
+            "title": "video sharing cosi il dialetto si rinnova",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1122-1836"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "journal": "BOLLETTINO DELL'ATLANTE LINGUISTICO ITALIANO",
+            "title": "punto linguistico e area la modalita deontica fra dialetto e francoprovenzale",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "2239-0367"
+            ],
+            "PId": 2513446986,
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1285/I22390359V17P7",
+            "journal": "LINGUE E LINGUAGGI",
+            "title": "musica e lingua giovane i boom da bash fra plurilinguismo e repertori creativi",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-97657-12-5"
+            ],
+            "PId": 2611149897,
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "7"
+            },
+            "title": "l email nella comunicazione accademica fra pragmatica e coesione testuale",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "2038-0313"
+            ],
+            "PId": 1784568823,
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "doi": "10.1285/I20380313V19P303",
+            "journal": "L'IDOMENEO",
+            "title": "musica e testi in salento fra tradizione e modernita",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "2038-0313"
+            ],
+            "PId": 2173239563,
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "doi": "10.1285/I20380313V19P329",
+            "journal": "L'IDOMENEO",
+            "title": "il dialetto salentino nei prodotti cinematografici",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "1122-6331"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "10"
+            },
+            "journal": "RID",
+            "title": "nuovi standard per nuovi parlanti sincronia e diacronia di un repertorio linguistico",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-84-608-3615-5"
+            ],
+            "PId": 2736502773,
+            "cv_id": {
+                "pubbs_ind": "11"
+            },
+            "title": "teletandem grico greco scenario di intercomprensione orale per le lingue minoritarie",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-548-8451-9"
+            ],
+            "PId": 2735684977,
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "12"
+            },
+            "title": "i giovani l arberesh il precipizio",
+            "type": "contributo in atti di convegno",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-7667-561-4"
+            ],
+            "PId": 2616528052,
+            "cv_id": {
+                "pubbs_ind": "13"
+            },
+            "title": "osservazione di classe insegnamento linguistico e tele collaborazione",
+            "type": "monografia o trattato scientifico",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-548-6910-3"
+            ],
+            "PId": 2624664628,
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "14"
+            },
+            "title": "cultura letteraria e tradizioni linguistiche in puglia fra ragni e tarantole identita e lingue nuove",
+            "type": "monografia o trattato scientifico",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9788880869825"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "15"
+            },
+            "title": "luoghi lingue contatto italiano dialetti e francoprovenzale in puglia",
+            "type": "monografia o trattato scientifico",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "2036-4482"
+            ],
+            "cv_id": {
+                "pubbs_ind": "16"
+            },
+            "journal": "MULTILINGUISMO E SOCIET\u00c0",
+            "title": "aggettivi possessivi e relazioni di parentela nelle colonie francoprovenzali di puglia competenze percezioni usi",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1722-0262"
+            ],
+            "cv_id": {
+                "pubbs_ind": "17"
+            },
+            "journal": "BOLLETTINO LINGUISTICO CAMPANO",
+            "title": "gli indicatori temporali a faeto e celle di san vito questioni di tempo e dinamiche linguistiche",
+            "type": "articolo in rivista",
+            "year": 2010
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2588206920,
+            "title": "seminario interdisciplinare lingue romanze metodologie di ricerca in letteratura e in linguistica",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2507008642,
+            "title": "seminario metodologico di italianistica primavera 2016",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2907035754,
+            "doi": "10.1285/I20380313V25P103",
+            "title": "il teatro dialettale di raffaele protopapa lingue comicita scortesia",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2588596573,
+            "title": "seminario interdisciplinare per i dottorandi di romanistica metodologie di ricerca in letteratura filologia e linguistica",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2916134107,
+            "title": "seminario metodologico di italianistica e romanistica primavera 2018",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2789202780,
+            "title": "seminario metodologico di italianistica e romanistica autunno 2017",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2593879555,
+            "title": "seminario metodologico di romanistica autunno 2016",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2618616776,
+            "title": "seminario metodologico di italianistica e romanistica primavera 2017",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2499851836,
+            "title": "seminario metodologico di italianistica autunno 2015",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2340405701,
+            "title": "giornata interdisciplinare di studi seminario per i dottorandi di romanistica giovedi 26 marzo 2015",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2738328349,
+            "title": "among spiders and tarantulas new identities and new languagesin south italy",
+            "type": "0",
+            "year_mag": 2010
+        }
+    ]
+}

@@ -1,0 +1,2529 @@
+{
+    "AuIds": [
+        2775930137,
+        2503500331
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "1493290528_+_172602838": 1,
+                "1493290528_+_2081409643": 1,
+                "1493290528_+_2144618845": 1,
+                "1493290528_+_2278516230": 1,
+                "1493290528_+_2291968027": 1,
+                "1493290528_+_2477185311": 1,
+                "1493290528_+_396842771": 1,
+                "1756470744_+_1500893608": 1,
+                "1756470744_+_1568671414": 1,
+                "1756470744_+_2114761814": 1,
+                "1756470744_+_2278470518": 1,
+                "1756470744_+_2282495743": 1,
+                "2972582297_+_2068822147": 1,
+                "2972582297_+_2103528847": 1
+            },
+            "number": 6
+        },
+        "cand_nodes": 21,
+        "cand_paths": {
+            "1": [
+                [
+                    "2892221473",
+                    "1627266839"
+                ],
+                [
+                    "1493290528",
+                    "2094984892"
+                ]
+            ],
+            "2": [
+                [
+                    "1493290528",
+                    "2207778397"
+                ],
+                [
+                    "1493290528",
+                    "369185417"
+                ],
+                [
+                    "2972582297",
+                    "2094984892"
+                ]
+            ],
+            "3": [
+                [
+                    "1493290528",
+                    "2574845921"
+                ],
+                [
+                    "1493290528",
+                    "2039405732"
+                ],
+                [
+                    "2972582297",
+                    "2207778397"
+                ],
+                [
+                    "2972582297",
+                    "369185417"
+                ]
+            ],
+            "4": [
+                [
+                    "2972582297",
+                    "2574845921"
+                ],
+                [
+                    "2972582297",
+                    "2039405732"
+                ]
+            ]
+        },
+        "cc": {
+            "articles": {
+                "1493290528_+_2094984892": 1
+            },
+            "number": 1
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 123,
+            "comm_other": 4682,
+            "other_cand": 8,
+            "other_comm": 4971
+        },
+        "other_nodes": 6622
+    },
+    "coverage": {
+        "articles": 8,
+        "books": 1,
+        "cov_sect": "A",
+        "other_pubbs": 18,
+        "pubbs": 15,
+        "pubbs_found": 12,
+        "pubbs_ind": 27,
+        "pubbs_ind_found": 18,
+        "total_extra_found": 21,
+        "total_found": 18,
+        "total_pubbs": 27
+    },
+    "fullname": [
+        "Rosi",
+        "Fabiana"
+    ],
+    "ind_anvur": [
+        24,
+        8,
+        1,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "978-88-97657-20-0"
+            ],
+            "PId": 2785344725,
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "title": "l atteggiamento degli studenti verso la grammatica e le loro effettive competenze grammaticali",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2018
+        },
+        {
+            "ISSN": [
+                "1974-2886"
+            ],
+            "PId": 3032579735,
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.14273/UNISA-1669",
+            "journal": "TESTI E LINGUAGGI",
+            "title": "la didattica dell italiano l2 per lo studio per apprendenti cinesi in contesto universitario",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9788825500349"
+            ],
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "title": "bilinguismo e consapevolezza linguistica italiani e nuovi italiani a confronto",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9788825500349"
+            ],
+            "PId": 2800552412,
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "title": "piu competenze meno disuguaglianze risultati di una sperimentazione di educazione linguistica inclusiva nella scuola secondaria di primo grado",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9788825503494"
+            ],
+            "PId": 2802766818,
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.4399/97888255034945",
+            "title": "educazione linguistica inclusiva nella scuola primaria percorsi di sperimentazione e analisi dell efficacia",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1133-9527"
+            ],
+            "PId": 2565302126,
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "doi": "10.5209/CFIT.54005",
+            "journal": "CUADERNOS DE FILOLOG\u00cdA ITALIANA",
+            "title": "riflettere sulla grammatica a scuola una ricerca sul soggetto",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1879-7865"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.1075/LIA.7.1.01AN",
+            "journal": "LIA",
+            "title": "confirming or asserting conflicting values and cross linguistic influence in the use of yes no particles in l2 italian",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788898640157"
+            ],
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "title": "un classico della grammatica nella scuola di oggi il soggetto sintattico",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0378-2166"
+            ],
+            "PId": 1493290528,
+            "cited": [
+                {
+                    "PId": 2019413183,
+                    "author": [
+                        {
+                            "AuId": 2589294338,
+                            "AuN": "m a k halliday"
+                        }
+                    ],
+                    "title": "an introduction to functional grammar",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2090626368,
+                    "author": [
+                        {
+                            "AuId": 2686579772,
+                            "AuN": "timothy shopen"
+                        }
+                    ],
+                    "doi": "10.1515/LITY-2013-0004",
+                    "journal": "linguistic typology",
+                    "title": "language typology and syntactic description",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2015933299,
+                    "author": [
+                        {
+                            "AuId": 2589294338,
+                            "AuN": "m a k halliday"
+                        },
+                        {
+                            "AuId": 2624579920,
+                            "AuN": "ruqaiya hasan"
+                        }
+                    ],
+                    "title": "cohesion in english",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 2024371461,
+                    "author": [
+                        {
+                            "AuId": 2527344669,
+                            "AuN": "geoffrey raymond"
+                        }
+                    ],
+                    "doi": "10.2307/1519752",
+                    "journal": "american sociological review",
+                    "title": "grammar and social organization yes no interrogatives and the structure of responding",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2052154979,
+                    "author": [
+                        {
+                            "AuId": 2149109371,
+                            "AuN": "laurence r horn"
+                        }
+                    ],
+                    "title": "a natural history of negation",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2118142207,
+                    "author": [
+                        {
+                            "AuId": 2127500546,
+                            "AuN": "anne h anderson"
+                        },
+                        {
+                            "AuId": 2508624318,
+                            "AuN": "miles bader"
+                        },
+                        {
+                            "AuId": 1971595315,
+                            "AuN": "ellen gurman bard"
+                        },
+                        {
+                            "AuId": 2422361554,
+                            "AuN": "elizabeth boyle"
+                        },
+                        {
+                            "AuId": 2130413790,
+                            "AuN": "gwyneth doherty"
+                        },
+                        {
+                            "AuId": 2052054870,
+                            "AuN": "simon garrod"
+                        },
+                        {
+                            "AuId": 2194627353,
+                            "AuN": "stephen isard"
+                        },
+                        {
+                            "AuId": 1967613623,
+                            "AuN": "jacqueline kowtko"
+                        },
+                        {
+                            "AuId": 2516954129,
+                            "AuN": "jan mcallister"
+                        },
+                        {
+                            "AuId": 2514475722,
+                            "AuN": "jim miller"
+                        },
+                        {
+                            "AuId": 2008898279,
+                            "AuN": "catherine sotillo"
+                        },
+                        {
+                            "AuId": 2147087821,
+                            "AuN": "henry s thompson"
+                        },
+                        {
+                            "AuId": 2904160685,
+                            "AuN": "regina weinert"
+                        }
+                    ],
+                    "doi": "10.1177/002383099103400404",
+                    "journal": "language and speech",
+                    "title": "the hcrc map task corpus",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2166681750,
+                    "author": [
+                        {
+                            "AuId": 2103126536,
+                            "AuN": "donka f farkas"
+                        },
+                        {
+                            "AuId": 2043604325,
+                            "AuN": "kim b bruce"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/FFP010",
+                    "journal": "journal of semantics",
+                    "title": "on reacting to assertions and polar questions",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2162840157,
+                    "author": [
+                        {
+                            "AuId": 2030637823,
+                            "AuN": "anita pomerantz"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511665868.008",
+                    "title": "agreeing and disagreeing with assessments some features of preferred dispreferred turn shapes",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 1986309991,
+                    "author": [
+                        {
+                            "AuId": 344284645,
+                            "AuN": "emanuela cresti"
+                        },
+                        {
+                            "AuId": 148514452,
+                            "AuN": "massimo moneglia"
+                        }
+                    ],
+                    "doi": "10.3196/003581207781887456",
+                    "journal": "romanische forschungen",
+                    "title": "c oral rom integrated reference corpora for spoken romance languages",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2135034724,
+                    "author": [
+                        {
+                            "AuId": 1788107697,
+                            "AuN": "tanya stivers"
+                        },
+                        {
+                            "AuId": 2112019758,
+                            "AuN": "jeffrey d robinson"
+                        }
+                    ],
+                    "doi": "10.1017/S0047404506060179",
+                    "journal": "language in society",
+                    "title": "a preference for progressivity in interaction",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2083854377,
+                    "author": [
+                        {
+                            "AuId": 2171033646,
+                            "AuN": "maribel romero"
+                        },
+                        {
+                            "AuId": 2124110321,
+                            "AuN": "chunghye han"
+                        }
+                    ],
+                    "doi": "10.1023/B:LING.0000033850.15705.94",
+                    "journal": "linguistics and philosophy",
+                    "title": "on negative yes no questions",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2114228086,
+                    "author": [
+                        {
+                            "AuId": 1788107697,
+                            "AuN": "tanya stivers"
+                        },
+                        {
+                            "AuId": 1788107697,
+                            "AuN": "tanya stivers"
+                        },
+                        {
+                            "AuId": 376168030,
+                            "AuN": "n j enfield"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2010.04.002",
+                    "journal": "journal of pragmatics",
+                    "title": "a coding scheme for question response sequences in conversation",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2077501091,
+                    "author": [
+                        {
+                            "AuId": 2218953644,
+                            "AuN": "anders holmberg"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2012.10.018",
+                    "journal": "lingua",
+                    "title": "the syntax of answers to polar questions in english and swedish",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2061365964,
+                    "author": [
+                        {
+                            "AuId": 2073411658,
+                            "AuN": "bruce fraser"
+                        }
+                    ],
+                    "doi": "10.1163/187730909X12538045489818",
+                    "journal": "international review of pragmatics",
+                    "title": "an account of discourse markers",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1994448480,
+                    "author": [
+                        {
+                            "AuId": 376168030,
+                            "AuN": "n j enfield"
+                        },
+                        {
+                            "AuId": 1788107697,
+                            "AuN": "tanya stivers"
+                        },
+                        {
+                            "AuId": 1788107697,
+                            "AuN": "tanya stivers"
+                        },
+                        {
+                            "AuId": 1981623995,
+                            "AuN": "stephen c levinson"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2010.04.001",
+                    "journal": "journal of pragmatics",
+                    "title": "question response sequences in conversation across ten languages an introduction",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2154253445,
+                    "author": [
+                        {
+                            "AuId": 195617116,
+                            "AuN": "manfred krifka"
+                        },
+                        {
+                            "AuId": 2288707577,
+                            "AuN": "humboldtuniversitat berlin"
+                        }
+                    ],
+                    "doi": "10.3765/SALT.V23I0.2676",
+                    "journal": "semantics and linguistic theory",
+                    "title": "response particles as propositional anaphors 1",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2333916262,
+                    "author": [
+                        {
+                            "AuId": 2131977405,
+                            "AuN": "clifton pye"
+                        },
+                        {
+                            "AuId": 854912369,
+                            "AuN": "brian macwhinney"
+                        }
+                    ],
+                    "doi": "10.2307/416745",
+                    "journal": "language",
+                    "title": "the childes project tools for analyzing talk",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2044818951,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        }
+                    ],
+                    "doi": "10.1525/AA.1968.70.6.02A00030",
+                    "journal": "american anthropologist",
+                    "title": "sequencing in conversational openings",
+                    "year_mag": 1968
+                },
+                {
+                    "PId": 2292297349,
+                    "author": [
+                        {
+                            "AuId": 195617116,
+                            "AuN": "manfred krifka"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-10106-4_18",
+                    "title": "negated polarity questions as denegations of assertions",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2058705885,
+                    "author": [
+                        {
+                            "AuId": 2697781841,
+                            "AuN": "andrew l roth"
+                        }
+                    ],
+                    "doi": "10.1207/S15327973RLSI2801_1",
+                    "journal": "research on language and social interaction",
+                    "title": "grammar and institution questions and questioning in the broadcast news interview",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2094984892,
+                    "author": [
+                        {
+                            "AuId": 2666743276,
+                            "AuN": "cecilia poletto"
+                        },
+                        {
+                            "AuId": 2805854947,
+                            "AuN": "raffaella zanuttini"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2012.10.016",
+                    "journal": "lingua",
+                    "title": "emphasis as reduplication evidence from si che no che sentences",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 612493583,
+                    "author": [
+                        {
+                            "AuId": 45470094,
+                            "AuN": "irene koshik"
+                        }
+                    ],
+                    "title": "beyond rhetorical questions",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 63103811,
+                    "author": [
+                        {
+                            "AuId": 2490637491,
+                            "AuN": "tilman n hohle"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-663-12176-3_5",
+                    "title": "uber verum fokus im deutschen",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1980290981,
+                    "author": [
+                        {
+                            "AuId": 2153560426,
+                            "AuN": "gail jefferson"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-2166(02)00067-X",
+                    "journal": "journal of pragmatics",
+                    "title": "is no an acknowledgment token comparing american and british uses of tokens",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 173295760,
+                    "author": [
+                        {
+                            "AuId": 2099245887,
+                            "AuN": "majbritt mosegaard hansen"
+                        }
+                    ],
+                    "title": "particles at the semantics pragmatics interface synchronic and diachronic issues a study with special reference to the french phasal adverbs",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2172279283,
+                    "author": [
+                        {
+                            "AuId": 2004280361,
+                            "AuN": "federico rossano"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2010.04.010",
+                    "journal": "journal of pragmatics",
+                    "title": "questioning and responding in italian",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 122815146,
+                    "author": [
+                        {
+                            "AuId": 196936156,
+                            "AuN": "ubbo visser"
+                        }
+                    ],
+                    "doi": "10.1007/S13218-012-0172-9",
+                    "journal": "kunstliche intelligenz",
+                    "title": "question answering systems interview with dr vinay k chaudhri program director artificial intelligence center sri international menlo park ca usa",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1190539229,
+                    "author": [
+                        {
+                            "AuId": 674724162,
+                            "AuN": "daniel buring"
+                        },
+                        {
+                            "AuId": 2086710365,
+                            "AuN": "christine gunlogson"
+                        }
+                    ],
+                    "title": "aren t positive and negative polar questions the same",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2099314014,
+                    "author": [
+                        {
+                            "AuId": 2154263733,
+                            "AuN": "martine grice"
+                        },
+                        {
+                            "AuId": 2789835160,
+                            "AuN": "michelina savino"
+                        }
+                    ],
+                    "doi": "10.5565/REV/CATJL.48",
+                    "journal": "catalan journal of linguistics",
+                    "title": "map tasks in italian asking questions about given accessible and new information",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1511069980,
+                    "author": [
+                        {
+                            "AuId": 2894232228,
+                            "AuN": "martin maiden"
+                        },
+                        {
+                            "AuId": 943729464,
+                            "AuN": "cecilia robustelli"
+                        }
+                    ],
+                    "title": "a reference grammar of modern italian",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2183210400,
+                    "author": [
+                        {
+                            "AuId": 2576346612,
+                            "AuN": "nicholas asher"
+                        },
+                        {
+                            "AuId": 2223353956,
+                            "AuN": "brian reese"
+                        }
+                    ],
+                    "title": "intonation and discourse biased questions",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1609548185,
+                    "author": [
+                        {
+                            "AuId": 2603216029,
+                            "AuN": "reese brian jon"
+                        }
+                    ],
+                    "title": "bias in questions",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2520660854,
+                    "author": [
+                        {
+                            "AuId": 2030405875,
+                            "AuN": "gabriele diewald"
+                        }
+                    ],
+                    "doi": "10.1093/OXFORDHB/9780199586783.013.0036",
+                    "title": "grammaticalization and pragmaticalization",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2038516952,
+                    "author": [
+                        {
+                            "AuId": 2122315705,
+                            "AuN": "seth cable"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/FFS020",
+                    "journal": "journal of semantics",
+                    "title": "reflexives reciprocals and contrast",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2109553786,
+                    "author": [
+                        {
+                            "AuId": 740372201,
+                            "AuN": "adrian brasoveanu"
+                        },
+                        {
+                            "AuId": 2212587788,
+                            "AuN": "karen de clercq"
+                        },
+                        {
+                            "AuId": 2103126536,
+                            "AuN": "donka f farkas"
+                        },
+                        {
+                            "AuId": 2104315598,
+                            "AuN": "floris roelofsen"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2014.03.008",
+                    "journal": "lingua",
+                    "title": "question tags and sentential negativity",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2884879996,
+                    "author": [
+                        {
+                            "AuId": 154801596,
+                            "AuN": "carla bazzanella"
+                        }
+                    ],
+                    "title": "i segnali discorsivi",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 26805015,
+                    "author": [
+                        {
+                            "AuId": 2250983036,
+                            "AuN": "anita kaufmann"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-2166(02)00074-7",
+                    "journal": "journal of pragmatics",
+                    "title": "negation and prosody in british english a study based on the london lund corpus",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2162599854,
+                    "author": [
+                        {
+                            "AuId": 2095835328,
+                            "AuN": "d r ladd"
+                        }
+                    ],
+                    "title": "a first look at the semantics and pragmatics of negative questions and tag questions",
+                    "year_mag": 1981
+                },
+                {
+                    "PId": 127769010,
+                    "author": [
+                        {
+                            "AuId": 2282958538,
+                            "AuN": "cinzia avesani"
+                        }
+                    ],
+                    "title": "a contribution to the synthesis of italian intonation",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2126810997,
+                    "author": [
+                        {
+                            "AuId": 1971985099,
+                            "AuN": "p f strawson"
+                        }
+                    ],
+                    "title": "introduction to logical theory",
+                    "year_mag": 1952
+                },
+                {
+                    "PId": 1513248480,
+                    "author": [
+                        {
+                            "AuId": 1609879769,
+                            "AuN": "luciano canepari"
+                        }
+                    ],
+                    "title": "italiano standard e pronunce regionali",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2593001727,
+                    "author": [
+                        {
+                            "AuId": 2723418136,
+                            "AuN": "a colorni vitale"
+                        },
+                        {
+                            "AuId": 2593471156,
+                            "AuN": "m pillan"
+                        }
+                    ],
+                    "title": "tradizione e innovazione",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 3033922555,
+                    "author": [
+                        {
+                            "AuId": 3033129184,
+                            "AuN": "ritsuko kameyama"
+                        }
+                    ],
+                    "doi": "10.18910/58064",
+                    "title": "a question answering system in negative questions of english french and japanese",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2756796820,
+                    "author": [
+                        {
+                            "AuId": 2052768260,
+                            "AuN": "emilia maria calaresu"
+                        }
+                    ],
+                    "title": "l avverbio gia da operatore temporale aspettuale a operatore modale di asserzione usi preverbali di sardegna sardo e italiano regionale vs usi olofrastici in italiano standard",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1998034778,
+                    "author": [
+                        {
+                            "AuId": 2161056971,
+                            "AuN": "wolfram bublitz"
+                        }
+                    ],
+                    "doi": "10.1515/LING.1981.19.9-10.851",
+                    "journal": "linguistics",
+                    "title": "conducive yes no questions in english",
+                    "year_mag": 1981
+                },
+                {
+                    "PId": 2046921887,
+                    "author": [
+                        {
+                            "AuId": 2794868410,
+                            "AuN": "chisato kitagawa"
+                        }
+                    ],
+                    "doi": "10.1016/0378-2166(80)90048-X",
+                    "journal": "journal of pragmatics",
+                    "title": "saying yes in japanese",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 574270845,
+                    "author": [
+                        {
+                            "AuId": 2097876015,
+                            "AuN": "dwight l bolinger"
+                        }
+                    ],
+                    "title": "interrogative structures of american english the direct question",
+                    "year_mag": 1957
+                },
+                {
+                    "PId": 2490753442,
+                    "author": [
+                        {
+                            "AuId": 2698336686,
+                            "AuN": "bruno moretti"
+                        }
+                    ],
+                    "title": "false partenze e contraddizioni logiche convenzionalizzate si o no",
+                    "year_mag": 1993
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2783264068,
+                    "author": [
+                        {
+                            "AuId": 2783222747,
+                            "AuN": "emilio servidio"
+                        },
+                        {
+                            "AuId": 2120899381,
+                            "AuN": "giuliano bocci"
+                        },
+                        {
+                            "AuId": 2106617219,
+                            "AuN": "valentina bianchi"
+                        }
+                    ],
+                    "doi": "10.5334/GJGL.360",
+                    "journal": "glossa",
+                    "title": "dis agreement polarity and focus answering negative polar questions in italian",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2972582297,
+                    "author": [
+                        {
+                            "AuId": 2980066272,
+                            "AuN": "cecilia maria andorno"
+                        },
+                        {
+                            "AuId": 2775930137,
+                            "AuN": "fabiana rosi"
+                        }
+                    ],
+                    "doi": "10.1075/LIA.7.1.01AND",
+                    "journal": "glossa",
+                    "title": "confirming or asserting conflicting values and cross linguistic influence in the use of yes no particles in l2 italian",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2786772709,
+                    "author": [
+                        {
+                            "AuId": 2787211316,
+                            "AuN": "cecilia maria andorno"
+                        },
+                        {
+                            "AuId": 2995358107,
+                            "AuN": "crocco claudia"
+                        }
+                    ],
+                    "doi": "10.1075/LA.249.09AND",
+                    "journal": "glossa",
+                    "title": "in search for polarity contrast marking in italian a contribution from echo replies",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "9"
+            },
+            "doi": "10.1016/J.PRAGMA.2015.07.009",
+            "journal": "JOURNAL OF PRAGMATICS",
+            "title": "short replies in italian si no and other markers between polarity and agreement",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788820457037"
+            ],
+            "PId": 2290717534,
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "10"
+            },
+            "title": "la difficolta interazionale dei task definizione operativa e risultati di ricerca",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "2037-3597"
+            ],
+            "PId": 1756470744,
+            "cited": [
+                {
+                    "PId": 653288160,
+                    "author": [
+                        {
+                            "AuId": 2150587807,
+                            "AuN": "rod ellis"
+                        }
+                    ],
+                    "title": "task based language learning and teaching",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2938437901,
+                    "author": [
+                        {
+                            "AuId": 2805997292,
+                            "AuN": "richard paul hamilton"
+                        }
+                    ],
+                    "doi": "10.1016/S0271-5309(00)00008-2",
+                    "journal": "language & communication",
+                    "title": "the insignificance of learners errors",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1531814423,
+                    "author": [
+                        {
+                            "AuId": 2115044533,
+                            "AuN": "david w johnson"
+                        },
+                        {
+                            "AuId": 2165138392,
+                            "AuN": "roger t johnson"
+                        }
+                    ],
+                    "title": "cooperation and competition theory and research",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2021536722,
+                    "author": [
+                        {
+                            "AuId": 2272531076,
+                            "AuN": "carl bereiter"
+                        },
+                        {
+                            "AuId": 215724623,
+                            "AuN": "marlene scardamalia"
+                        }
+                    ],
+                    "title": "the psychology of written composition",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2133237457,
+                    "author": [
+                        {
+                            "AuId": 2115044533,
+                            "AuN": "david w johnson"
+                        },
+                        {
+                            "AuId": 2165138392,
+                            "AuN": "roger t johnson"
+                        },
+                        {
+                            "AuId": 2081226490,
+                            "AuN": "edythe johnson holubec"
+                        }
+                    ],
+                    "title": "cooperation in the classroom",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2032170230,
+                    "author": [
+                        {
+                            "AuId": 2152474553,
+                            "AuN": "ruth a berman"
+                        },
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        }
+                    ],
+                    "doi": "10.4324/9780203773512",
+                    "journal": "language",
+                    "title": "relating events in narrative a crosslinguistic developmental study",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2022023379,
+                    "author": [
+                        {
+                            "AuId": 2138829962,
+                            "AuN": "penelope mckay"
+                        }
+                    ],
+                    "title": "assessing young language learners",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1578772245,
+                    "author": [
+                        {
+                            "AuId": 920461563,
+                            "AuN": "virginia samuda"
+                        },
+                        {
+                            "AuId": 1574448965,
+                            "AuN": "martin bygate"
+                        }
+                    ],
+                    "title": "tasks in second language learning",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2029460344,
+                    "author": [
+                        {
+                            "AuId": 2598626199,
+                            "AuN": "p edelenbos"
+                        },
+                        {
+                            "AuId": 1979006018,
+                            "AuN": "angelika kubanekgerman"
+                        }
+                    ],
+                    "doi": "10.1191/0265532204LT284OA",
+                    "journal": "language testing",
+                    "title": "teacher assessment the concept of diagnostic competence",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1702224948,
+                    "author": [
+                        {
+                            "AuId": 2663350408,
+                            "AuN": "inge bartning"
+                        },
+                        {
+                            "AuId": 2696740348,
+                            "AuN": "maisa martin"
+                        },
+                        {
+                            "AuId": 1828051349,
+                            "AuN": "ineke vedder"
+                        }
+                    ],
+                    "title": "communicative proficiency and linguistic development intersections between sla and language testing research",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2999509225,
+                    "author": [
+                        {
+                            "AuId": 1384343755,
+                            "AuN": "paul j hopper"
+                        }
+                    ],
+                    "doi": "10.1163/9789004368897_010",
+                    "title": "aspect and foregrounding in discourse",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 335164637,
+                    "author": [
+                        {
+                            "AuId": 2243511639,
+                            "AuN": "angela ferrari"
+                        },
+                        {
+                            "AuId": 1362469952,
+                            "AuN": "luca cignetti"
+                        },
+                        {
+                            "AuId": 2000218412,
+                            "AuN": "annamaria de cesare"
+                        },
+                        {
+                            "AuId": 1785003127,
+                            "AuN": "letizia lala"
+                        },
+                        {
+                            "AuId": 2115246645,
+                            "AuN": "magda mandelli"
+                        },
+                        {
+                            "AuId": 2234771931,
+                            "AuN": "claudia ricci"
+                        },
+                        {
+                            "AuId": 610769054,
+                            "AuN": "enrico roggia"
+                        }
+                    ],
+                    "title": "l interfaccia lingua testo natura e funzioni dell articolazione informativa dell enunciato",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2536677316,
+                    "author": [
+                        {
+                            "AuId": 2533655966,
+                            "AuN": "pietro lucisano"
+                        }
+                    ],
+                    "title": "metodologia della ricerca in educazione e formazione",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1558488872,
+                    "author": [
+                        {
+                            "AuId": 1895822251,
+                            "AuN": "christiane von stutterheim"
+                        },
+                        {
+                            "AuId": 2164998882,
+                            "AuN": "wolfgang klein"
+                        }
+                    ],
+                    "doi": "10.1016/B978-0-444-87144-2.50005-7",
+                    "title": "referential movement in descriptive and narrative discourse",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 55100262,
+                    "author": [
+                        {
+                            "AuId": 2225325701,
+                            "AuN": "graziella favaro"
+                        }
+                    ],
+                    "doi": "10.13130/2037-3597/3747",
+                    "journal": "italiano linguadue",
+                    "title": "dare parole al mondo scrivere in un altra lingua",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 611268401,
+                    "author": [
+                        {
+                            "AuId": 2343742194,
+                            "AuN": "cecilia maria andorno"
+                        }
+                    ],
+                    "title": "la grammatica italiana",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2808669610,
+                    "author": [
+                        {
+                            "AuId": 2043190680,
+                            "AuN": "gabriele pallotti"
+                        }
+                    ],
+                    "title": "doing interlanguage analysis in school contexts",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2025297205,
+                    "author": [
+                        {
+                            "AuId": 2119186924,
+                            "AuN": "hans reichenbach"
+                        }
+                    ],
+                    "title": "elements of symbolic logic",
+                    "year_mag": 1947
+                },
+                {
+                    "PId": 2279030407,
+                    "author": [
+                        {
+                            "AuId": 2095935497,
+                            "AuN": "massimo prada"
+                        }
+                    ],
+                    "doi": "10.13130/2037-3597/443",
+                    "journal": "italiano linguadue",
+                    "title": "le competenze di scrittura e le interazioni comunicative attraverso lo scritto",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 589544906,
+                    "author": [
+                        {
+                            "AuId": 1899758578,
+                            "AuN": "pier marco bertinetto"
+                        }
+                    ],
+                    "title": "tempo aspetto e azione nel verbo italiano il sistema dell indicativo",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2949504285,
+                    "author": [
+                        {
+                            "AuId": 2314850959,
+                            "AuN": "simone ciccolone"
+                        }
+                    ],
+                    "title": "incoerenze testuali e problemi di combinazione lessicale nella produzione scritta di studenti universitari primi rilievi e proposte esplicative",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2779823353,
+                    "author": [
+                        {
+                            "AuId": 2771327829,
+                            "AuN": "lo duca"
+                        },
+                        {
+                            "AuId": 2788319571,
+                            "AuN": "maria giuseppa"
+                        }
+                    ],
+                    "title": "sulla rilevanza per la glottodidattica dei dati di acquisizione di lingue seconde narrare in italiano l2",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2297761344,
+                    "author": [
+                        {
+                            "AuId": 2612434377,
+                            "AuN": "stefania ferrari"
+                        },
+                        {
+                            "AuId": 2103695353,
+                            "AuN": "elena nuzzo"
+                        }
+                    ],
+                    "title": "insegnare la grammatica italiana con i task",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2279090979,
+                    "author": [
+                        {
+                            "AuId": 2339770616,
+                            "AuN": "accademia della crusca"
+                        }
+                    ],
+                    "title": "l italiano degli altri",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2943685718,
+                    "author": [
+                        {
+                            "AuId": 2043190680,
+                            "AuN": "gabriele pallotti"
+                        },
+                        {
+                            "AuId": 2942824781,
+                            "AuN": "g e aipi"
+                        }
+                    ],
+                    "title": "imparare e insegnare l italiano come seconda lingua",
+                    "year_mag": 2005
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "11"
+            },
+            "doi": "10.13130/2037-3597/4700",
+            "journal": "ITALIANO LINGUADUE",
+            "title": "il processo di produzione scritta la coesione verbale in testi di scuola primaria",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-88-557-0453-3"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "12"
+            },
+            "title": "l input esplicito nella classe di italiano l2 e la formazione di competenze linguistiche",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788856849158"
+            ],
+            "PId": 2788222760,
+            "cv_id": {
+                "pubbs_ind": "13"
+            },
+            "title": "riabilitazione dell afasia negli adulti e formazione i possibili vantaggi del trattamento di gruppo",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "978-88-568-4442-9"
+            ],
+            "PId": 2915322212,
+            "cv_id": {
+                "pubbs_ind": "14"
+            },
+            "title": "lo sviluppo della competenza metalinguistica in italiano l2 risultati di un intervento didattico esplicito",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-88-568-1604-4"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "15"
+            },
+            "title": "story retelling in italian l2 the development of text structure",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "978-88-557-0339-0"
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "16"
+            },
+            "title": "il ruolo dell insegnamento nell emergere della competenza metalinguistica",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "978-88-557-0283-6"
+            ],
+            "cv_id": {
+                "pubbs_ind": "17"
+            },
+            "title": "insegnare la sintassi della frase semplice e della frase complessa",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "1568-1491"
+            ],
+            "PId": 1976554993,
+            "citing": [
+                {
+                    "PId": 2981926151,
+                    "author": [
+                        {
+                            "AuId": 2532321443,
+                            "AuN": "yumiko nishi"
+                        },
+                        {
+                            "AuId": 2149975632,
+                            "AuN": "yasuhiro shirai"
+                        }
+                    ],
+                    "doi": "10.1075/LAB.18084.NIS",
+                    "journal": "linguistic approaches to bilingualism",
+                    "title": "verb learning and the acquisition of aspect l1 transfer of verb semantics",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3010680404,
+                    "author": [
+                        {
+                            "AuId": 3011156886,
+                            "AuN": "custodio martins"
+                        },
+                        {
+                            "AuId": 3011624153,
+                            "AuN": "mario pinharandanunes"
+                        }
+                    ],
+                    "doi": "10.1075/IHLL.24.05MAR",
+                    "journal": "linguistic approaches to bilingualism",
+                    "title": "the lexical aspect hypothesis off line evidence from chinese learners of european portuguese as an l2",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 1809458572,
+                    "author": [
+                        {
+                            "AuId": 2669323340,
+                            "AuN": "anne marie devlin"
+                        }
+                    ],
+                    "journal": "linguistic approaches to bilingualism",
+                    "title": "the impact of learning context on the acquisition of sociopragmatic variation patterns in non native speaker teachers of english",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2185859646,
+                    "author": [
+                        {
+                            "AuId": 2181391502,
+                            "AuN": "anne marie"
+                        }
+                    ],
+                    "journal": "linguistic approaches to bilingualism",
+                    "title": "the impact of learning context on the acquisition of sociopragmatic variation patterns in non native speaker teachers of english",
+                    "year_mag": 2016
+                }
+            ],
+            "cv_id": {
+                "pubbs": "11",
+                "pubbs_ind": "18"
+            },
+            "doi": "10.1075/EUROSLA.9.03ROS",
+            "journal": "EUROSLA YEARBOOK",
+            "title": "connectionist modelling of aspect acquisition in italian l2",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-88-557-0168-6"
+            ],
+            "PId": 3093648561,
+            "cv_id": {
+                "pubbs_ind": "19"
+            },
+            "title": " non ha saputo dove e stato come annotare gli elementi non target in un corpus di italiano l2 ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-88-7870-469-5"
+            ],
+            "PId": 2344139066,
+            "cv_id": {
+                "pubbs": "12",
+                "pubbs_ind": "20"
+            },
+            "doi": "10.1400/137549",
+            "title": "le reti neurali come simulazione del processo di apprendimento della seconda lingua il caso della morfologia tempo aspettuale",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-88-557-0170-9"
+            ],
+            "cv_id": {
+                "pubbs_ind": "21"
+            },
+            "title": "la percezione dell altra lingua riflessioni metalinguistiche sull italiano l2",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-88-568-0699-1"
+            ],
+            "PId": 2922365546,
+            "citing": [
+                {
+                    "PId": 2981515101,
+                    "author": [
+                        {
+                            "AuId": 2981429197,
+                            "AuN": "zuzana toth"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-21380-0_13",
+                    "title": "tense and aspect in l3 interlanguage the effect of lexical aspect and discourse grounding on the development of tense and aspect marking in l3 italian",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "13",
+                "pubbs_ind": "22"
+            },
+            "title": "learning aspect in italian l2 corpus annotation acquisitional patterns and connectionist modelling vol",
+            "type": "monografia o trattato scientifico",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-88-557-0101-3"
+            ],
+            "cv_id": {
+                "pubbs_ind": "23"
+            },
+            "title": "l acquisizione della morfologia aspettuale fra valori lessicali e funzioni discorsive",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "978-88-464-9909-7"
+            ],
+            "PId": 2994990395,
+            "cv_id": {
+                "pubbs_ind": "24"
+            },
+            "title": "le categorie tempo aspettuali dell italiano in prospettiva acquisizionale",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "88-89837-46-2"
+            ],
+            "cv_id": {
+                "pubbs_ind": "25"
+            },
+            "title": "proiettare le categorie del verbo sul testo la codifica di un corpus di italiano l2",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "0085-6827"
+            ],
+            "PId": 3009670092,
+            "cv_id": {
+                "pubbs": "14",
+                "pubbs_ind": "26"
+            },
+            "journal": "STUDI E SAGGI LINGUISTICI",
+            "title": "the acquisition of tense aspect morphology towards a native like strategy",
+            "type": "articolo in rivista",
+            "year": 2007
+        },
+        {
+            "ISSN": [
+                "0390-6809"
+            ],
+            "PId": 2486945349,
+            "cv_id": {
+                "pubbs": "15",
+                "pubbs_ind": "27"
+            },
+            "journal": "STUDI ITALIANI DI LINGUISTICA TEORICA E APPLICATA",
+            "title": "l interazione fra aspetto e aktionsart nelle interlingue di apprendenti avanzati di italiano l2",
+            "type": "articolo in rivista",
+            "year": 2006
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2972582297,
+            "cited": [
+                {
+                    "PId": 2019413183,
+                    "author": [
+                        {
+                            "AuId": 2589294338,
+                            "AuN": "m a k halliday"
+                        }
+                    ],
+                    "title": "an introduction to functional grammar",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2118142207,
+                    "author": [
+                        {
+                            "AuId": 2127500546,
+                            "AuN": "anne h anderson"
+                        },
+                        {
+                            "AuId": 2508624318,
+                            "AuN": "miles bader"
+                        },
+                        {
+                            "AuId": 1971595315,
+                            "AuN": "ellen gurman bard"
+                        },
+                        {
+                            "AuId": 2422361554,
+                            "AuN": "elizabeth boyle"
+                        },
+                        {
+                            "AuId": 2130413790,
+                            "AuN": "gwyneth doherty"
+                        },
+                        {
+                            "AuId": 2052054870,
+                            "AuN": "simon garrod"
+                        },
+                        {
+                            "AuId": 2194627353,
+                            "AuN": "stephen isard"
+                        },
+                        {
+                            "AuId": 1967613623,
+                            "AuN": "jacqueline kowtko"
+                        },
+                        {
+                            "AuId": 2516954129,
+                            "AuN": "jan mcallister"
+                        },
+                        {
+                            "AuId": 2514475722,
+                            "AuN": "jim miller"
+                        },
+                        {
+                            "AuId": 2008898279,
+                            "AuN": "catherine sotillo"
+                        },
+                        {
+                            "AuId": 2147087821,
+                            "AuN": "henry s thompson"
+                        },
+                        {
+                            "AuId": 2904160685,
+                            "AuN": "regina weinert"
+                        }
+                    ],
+                    "doi": "10.1177/002383099103400404",
+                    "journal": "language and speech",
+                    "title": "the hcrc map task corpus",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 1530224645,
+                    "author": [
+                        {
+                            "AuId": 2167933941,
+                            "AuN": "scott jarvis"
+                        },
+                        {
+                            "AuId": 2111441207,
+                            "AuN": "aneta pavlenko"
+                        }
+                    ],
+                    "title": "crosslinguistic influence in language and cognition",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2166681750,
+                    "author": [
+                        {
+                            "AuId": 2103126536,
+                            "AuN": "donka f farkas"
+                        },
+                        {
+                            "AuId": 2043604325,
+                            "AuN": "kim b bruce"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/FFP010",
+                    "journal": "journal of semantics",
+                    "title": "on reacting to assertions and polar questions",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2003414259,
+                    "author": [
+                        {
+                            "AuId": 2116676152,
+                            "AuN": "gabriele kasper"
+                        },
+                        {
+                            "AuId": 2483733469,
+                            "AuN": "richard schmidt"
+                        }
+                    ],
+                    "doi": "10.1017/S0272263100014868",
+                    "journal": "studies in second language acquisition",
+                    "title": "developmental issues in interlanguage pragmatics",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2077501091,
+                    "author": [
+                        {
+                            "AuId": 2218953644,
+                            "AuN": "anders holmberg"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2012.10.018",
+                    "journal": "lingua",
+                    "title": "the syntax of answers to polar questions in english and swedish",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2074391226,
+                    "author": [
+                        {
+                            "AuId": 2096792675,
+                            "AuN": "jesus romero trillo"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-2166(02)00022-X",
+                    "journal": "journal of pragmatics",
+                    "title": "the pragmatic fossilization of discourse markers in non native speakers of english",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 163882031,
+                    "author": [
+                        {
+                            "AuId": 1236048761,
+                            "AuN": "jana vizmullerzocco"
+                        },
+                        {
+                            "AuId": 2202700080,
+                            "AuN": "tullio de mauro"
+                        },
+                        {
+                            "AuId": 2285391212,
+                            "AuN": "federico mancini"
+                        },
+                        {
+                            "AuId": 2314703686,
+                            "AuN": "massimo vedovelli"
+                        },
+                        {
+                            "AuId": 2781021524,
+                            "AuN": "miriam voghera"
+                        }
+                    ],
+                    "doi": "10.2307/479679",
+                    "title": "lessico di frequenza dell italiano parlato",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2112098060,
+                    "author": [
+                        {
+                            "AuId": 1977169904,
+                            "AuN": "john hellermann"
+                        },
+                        {
+                            "AuId": 2479325738,
+                            "AuN": "andrea vergun"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2006.04.008",
+                    "journal": "journal of pragmatics",
+                    "title": "language which is not taught the discourse marker use of beginning adult learners of english",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1526103575,
+                    "author": [
+                        {
+                            "AuId": 2622683952,
+                            "AuN": "hakan ringbom"
+                        },
+                        {
+                            "AuId": 2167933941,
+                            "AuN": "scott jarvis"
+                        }
+                    ],
+                    "doi": "10.1002/9781444315783.CH7",
+                    "title": "the importance of cross linguistic similarity in foreign language learning",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2506703204,
+                    "author": [
+                        {
+                            "AuId": 2059790657,
+                            "AuN": "yaron matras"
+                        },
+                        {
+                            "AuId": 2087374688,
+                            "AuN": "jeanette sakel"
+                        }
+                    ],
+                    "doi": "10.1515/9783110199192.31",
+                    "title": "the borrowability of structural categories",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 122815146,
+                    "author": [
+                        {
+                            "AuId": 196936156,
+                            "AuN": "ubbo visser"
+                        }
+                    ],
+                    "doi": "10.1007/S13218-012-0172-9",
+                    "journal": "kunstliche intelligenz",
+                    "title": "question answering systems interview with dr vinay k chaudhri program director artificial intelligence center sri international menlo park ca usa",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1998811727,
+                    "author": [
+                        {
+                            "AuId": 2335493546,
+                            "AuN": "brittany polat"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2011.09.009",
+                    "journal": "journal of pragmatics",
+                    "title": "investigating acquisition of discourse markers through a developmental learner corpus",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2034232325,
+                    "author": [
+                        {
+                            "AuId": 2059790657,
+                            "AuN": "yaron matras"
+                        }
+                    ],
+                    "doi": "10.1177/13670069000040040701",
+                    "journal": "international journal of bilingualism",
+                    "title": "fusion and the cognitive basis for bilingual discourse markers",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1511069980,
+                    "author": [
+                        {
+                            "AuId": 2894232228,
+                            "AuN": "martin maiden"
+                        },
+                        {
+                            "AuId": 943729464,
+                            "AuN": "cecilia robustelli"
+                        }
+                    ],
+                    "title": "a reference grammar of modern italian",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2116785120,
+                    "author": [
+                        {
+                            "AuId": 2116676152,
+                            "AuN": "gabriele kasper"
+                        }
+                    ],
+                    "doi": "10.1017/S0272263100014856",
+                    "journal": "studies in second language acquisition",
+                    "title": "introduction interlanguage pragmatics in sla",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2900636623,
+                    "author": [
+                        {
+                            "AuId": 2901469248,
+                            "AuN": "hakan ringbom"
+                        }
+                    ],
+                    "doi": "10.21832/9781853595509-005",
+                    "title": "chapter 4 lexical transfer in l3 production",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2047231901,
+                    "author": [
+                        {
+                            "AuId": 2669309395,
+                            "AuN": "silvia dal negro"
+                        },
+                        {
+                            "AuId": 2121797731,
+                            "AuN": "ilaria fiorentini"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2014.09.002",
+                    "journal": "journal of pragmatics",
+                    "title": "reformulation in bilingual speech italian cioe in german and ladin",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2109907367,
+                    "author": [
+                        {
+                            "AuId": 2679571763,
+                            "AuN": "mahmood hashemian"
+                        }
+                    ],
+                    "doi": "10.22099/JTLS.2012.620",
+                    "journal": "journal of teaching language skills",
+                    "title": "cross cultural differences and pragmatic transfer in english and persian refusals",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2485076980,
+                    "author": [
+                        {
+                            "AuId": 2171072150,
+                            "AuN": "susan m gass"
+                        },
+                        {
+                            "AuId": 2054653695,
+                            "AuN": "larry selinker"
+                        }
+                    ],
+                    "doi": "10.1075/LALD.5",
+                    "title": "language transfer in language learning revised edition",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1493290528,
+                    "author": [
+                        {
+                            "AuId": 2980066272,
+                            "AuN": "cecilia maria andorno"
+                        },
+                        {
+                            "AuId": 2775930137,
+                            "AuN": "fabiana rosi"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2015.07.009",
+                    "journal": "journal of pragmatics",
+                    "title": "short replies in italian si no and other markers between polarity and agreement",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2087450922,
+                    "author": [
+                        {
+                            "AuId": 2740824595,
+                            "AuN": "clive perdue"
+                        }
+                    ],
+                    "doi": "10.2307/328358",
+                    "journal": "the modern language journal",
+                    "title": "second language acquisition by adult immigrants a field manual",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2884879996,
+                    "author": [
+                        {
+                            "AuId": 154801596,
+                            "AuN": "carla bazzanella"
+                        }
+                    ],
+                    "title": "i segnali discorsivi",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 626710935,
+                    "author": [
+                        {
+                            "AuId": 2731304151,
+                            "AuN": "\u4e45\u5b50 \u5c71\u982d"
+                        }
+                    ],
+                    "title": "pragmatic transfer in japanese esl refusals",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2518220605,
+                    "author": [
+                        {
+                            "AuId": 2338040718,
+                            "AuN": "franco pauletto"
+                        },
+                        {
+                            "AuId": 2692246478,
+                            "AuN": "camilla bardel"
+                        }
+                    ],
+                    "doi": "10.1075/LIA.7.1.04PAU",
+                    "title": "pointing backward and forward be prefaced responsive turns in italian l1 and l2",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 127769010,
+                    "author": [
+                        {
+                            "AuId": 2282958538,
+                            "AuN": "cinzia avesani"
+                        }
+                    ],
+                    "title": "a contribution to the synthesis of italian intonation",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 1495436596,
+                    "author": [
+                        {
+                            "AuId": 2595242626,
+                            "AuN": "mcf gao"
+                        }
+                    ],
+                    "title": "mandarin chinese an introduction",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2495959329,
+                    "author": [
+                        {
+                            "AuId": 2116676152,
+                            "AuN": "gabriele kasper"
+                        }
+                    ],
+                    "title": "interactive procedures in interlanguage discourse",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2143034161,
+                    "author": [
+                        {
+                            "AuId": 2647622113,
+                            "AuN": "jiemin bu"
+                        }
+                    ],
+                    "doi": "10.5539/ELT.V5N1P32",
+                    "journal": "english language teaching",
+                    "title": "a study of relationships between l1 pragmatic transfer and l2 proficiency",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2150081800,
+                    "author": [
+                        {
+                            "AuId": 2483730520,
+                            "AuN": "giuliano bernini"
+                        }
+                    ],
+                    "doi": "10.1017/S0272263100003053",
+                    "journal": "studies in second language acquisition",
+                    "title": "negative items and negation strategies in nonnative italian",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1513248480,
+                    "author": [
+                        {
+                            "AuId": 1609879769,
+                            "AuN": "luciano canepari"
+                        }
+                    ],
+                    "title": "italiano standard e pronunce regionali",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 93326200,
+                    "author": [
+                        {
+                            "AuId": 1988819515,
+                            "AuN": "martina mollering"
+                        }
+                    ],
+                    "title": "the acquisition of german modal particles a corpus based approach",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2146695612,
+                    "author": [
+                        {
+                            "AuId": 2168059132,
+                            "AuN": "soonja choi"
+                        }
+                    ],
+                    "doi": "10.1037/0012-1649.27.3.407",
+                    "journal": "developmental psychology",
+                    "title": "children s answers to yes no questions a developmental study in english french and korean",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 204710582,
+                    "author": [
+                        {
+                            "AuId": 2638269443,
+                            "AuN": "cecilia andorno"
+                        }
+                    ],
+                    "doi": "10.4000/AILE.3432",
+                    "title": "entre enonce et interaction le role des particules d affirmation et negation dans les lectes d apprenants",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 3033922555,
+                    "author": [
+                        {
+                            "AuId": 3033129184,
+                            "AuN": "ritsuko kameyama"
+                        }
+                    ],
+                    "doi": "10.18910/58064",
+                    "title": "a question answering system in negative questions of english french and japanese",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1998034778,
+                    "author": [
+                        {
+                            "AuId": 2161056971,
+                            "AuN": "wolfram bublitz"
+                        }
+                    ],
+                    "doi": "10.1515/LING.1981.19.9-10.851",
+                    "journal": "linguistics",
+                    "title": "conducive yes no questions in english",
+                    "year_mag": 1981
+                },
+                {
+                    "PId": 2046921887,
+                    "author": [
+                        {
+                            "AuId": 2794868410,
+                            "AuN": "chisato kitagawa"
+                        }
+                    ],
+                    "doi": "10.1016/0378-2166(80)90048-X",
+                    "journal": "journal of pragmatics",
+                    "title": "saying yes in japanese",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 106287879,
+                    "author": [
+                        {
+                            "AuId": 2710318179,
+                            "AuN": "edith a moravcsik"
+                        }
+                    ],
+                    "title": "some cross linguistic generalizations about yes no questions and their answers working papers on language universals no 7",
+                    "year_mag": 1971
+                },
+                {
+                    "PId": 574270845,
+                    "author": [
+                        {
+                            "AuId": 2097876015,
+                            "AuN": "dwight l bolinger"
+                        }
+                    ],
+                    "title": "interrogative structures of american english the direct question",
+                    "year_mag": 1957
+                },
+                {
+                    "PId": 827739337,
+                    "author": [
+                        {
+                            "AuId": 154801596,
+                            "AuN": "carla bazzanella"
+                        },
+                        {
+                            "AuId": 2314503628,
+                            "AuN": "margarita borreguero zuloaga"
+                        }
+                    ],
+                    "doi": "10.5617/OSLA.181",
+                    "journal": "oslo studies in language",
+                    "title": "allora e entonces problemi teorici e dati empirici",
+                    "year_mag": 1970
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Takahashi",
+                            "given": "Satomi",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/S0272263100014881",
+                    "title": "pragmatic transferability",
+                    "year_oc": 1996
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Klein",
+                            "given": "Wolfgang",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Perdue",
+                            "given": "Clive",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1075/SIBIL.5",
+                    "title": "utterance structure",
+                    "year_oc": 1992
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Hawaii at Manoa"
+                                }
+                            ],
+                            "family": "Kasper",
+                            "given": "Gabriele",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1177/026765839200800303",
+                    "title": "pragmatic transfer",
+                    "year_oc": 1992
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Jones",
+                            "given": "Bob Morris",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110800593",
+                    "title": "the welsh answering system",
+                    "year_oc": 1999
+                }
+            ],
+            "doi": "10.1075/LIA.7.1.01AND",
+            "title": "confirming or asserting conflicting values and cross linguistic influence in the use of yes no particles in l2 italian",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2944293980,
+            "citing": [
+                {
+                    "PId": 2139298591,
+                    "author": [
+                        {
+                            "AuId": 2286174949,
+                            "AuN": "martina irsara"
+                        }
+                    ],
+                    "doi": "10.1285/I22390359V12P127",
+                    "journal": "lingue e linguaggi",
+                    "title": "motion events in english as a fourth language a linguistic analysis of a selected episode in multilingual learner narratives",
+                    "year_mag": 2014
+                }
+            ],
+            "title": "osservare l interlingua a scuola",
+            "type": "0",
+            "year_mag": 2011
+        },
+        {
+            "PId": 2892221473,
+            "cited": [
+                {
+                    "PId": 2160730605,
+                    "author": [
+                        {
+                            "AuId": 1929467614,
+                            "AuN": "christiane daltonpuffer"
+                        }
+                    ],
+                    "doi": "10.1017/S0267190511000092",
+                    "journal": "annual review of applied linguistics",
+                    "title": "content and language integrated learning from practice to principles",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2043135446,
+                    "author": [
+                        {
+                            "AuId": 2134102946,
+                            "AuN": "jasone cenoz"
+                        },
+                        {
+                            "AuId": 200610445,
+                            "AuN": "fred genesee"
+                        },
+                        {
+                            "AuId": 2164298325,
+                            "AuN": "durk gorter"
+                        }
+                    ],
+                    "doi": "10.1093/APPLIN/AMT011",
+                    "journal": "applied linguistics",
+                    "title": "critical analysis of clil taking stock and looking forward",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2091447369,
+                    "author": [
+                        {
+                            "AuId": 2105051214,
+                            "AuN": "basil bernstein"
+                        }
+                    ],
+                    "doi": "10.1080/01425699995380",
+                    "journal": "british journal of sociology of education",
+                    "title": "vertical and horizontal discourse an essay",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2098527181,
+                    "author": [
+                        {
+                            "AuId": 316374373,
+                            "AuN": "david lasagabaster"
+                        }
+                    ],
+                    "doi": "10.1080/17501229.2010.519030",
+                    "journal": "innovation in language learning and teaching",
+                    "title": "english achievement and student motivation in clil and efl settings",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2155838871,
+                    "author": [
+                        {
+                            "AuId": 2579703548,
+                            "AuN": "jaana seikkulaleino"
+                        }
+                    ],
+                    "doi": "10.2167/LE635.0",
+                    "journal": "language and education",
+                    "title": "clil learning achievement levels and affective factors",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2073506463,
+                    "author": [
+                        {
+                            "AuId": 2050599036,
+                            "AuN": "ainikristiina jappinen"
+                        }
+                    ],
+                    "doi": "10.1080/09500780508668671",
+                    "journal": "language and education",
+                    "title": "thinking and content learning of mathematics and science as cognitional development in content and language integrated learning clil teaching through a foreign language in finland",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2165600812,
+                    "author": [
+                        {
+                            "AuId": 2279693602,
+                            "AuN": "beata gregorczyk"
+                        }
+                    ],
+                    "doi": "10.5294/LACLIL.2012.5.1.2",
+                    "journal": "latin american journal of content and language integrated learning",
+                    "title": "an empirical study on the acquisition of content in a clil based chemistry course a preliminary report",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1627266839,
+                    "author": [
+                        {
+                            "AuId": 2015253746,
+                            "AuN": "carmel mary coonan"
+                        }
+                    ],
+                    "doi": "10.3299/SDG.V3I2.20-34",
+                    "title": "opportunita di usare la ls nella lezione clil importanza problemi soluzioni",
+                    "year_mag": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dallinger",
+                            "given": "Sara",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Jonkmann",
+                            "given": "Kathrin",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Hollm",
+                            "given": "Jan",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Fiege",
+                            "given": "Christiane",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/J.LEARNINSTRUC.2015.09.003",
+                    "title": "the effect of content and language integrated learning on students english and history competences killing two birds with one stone ",
+                    "year_oc": 2016
+                }
+            ],
+            "doi": "10.30687/ELLE/2280-6792/2018/01/002",
+            "title": "content specific learning in clil the case of physics teaching in italy",
+            "type": "0",
+            "year_mag": 2018
+        }
+    ]
+}

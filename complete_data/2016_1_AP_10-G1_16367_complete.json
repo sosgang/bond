@@ -1,0 +1,2187 @@
+{
+    "AuIds": [
+        2698451199,
+        2696366788,
+        2092701513,
+        2891292585,
+        2206883656,
+        2791467534,
+        2788492463,
+        2685719343,
+        2621424241,
+        2701284827
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "1497795351_+_156312967": 1,
+                "2288965040_+_2068704623": 1,
+                "2288965040_+_2303161626": 1,
+                "2288965040_+_396842771": 1
+            },
+            "number": 3
+        },
+        "cand_nodes": 19,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 498,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 78,
+            "comm_other": 3837,
+            "other_cand": 24,
+            "other_comm": 4921
+        },
+        "other_nodes": 6140
+    },
+    "coverage": {
+        "articles": 10,
+        "books": 1,
+        "cov_sect": "B",
+        "other_pubbs": 7,
+        "pubbs": 10,
+        "pubbs_found": 6,
+        "pubbs_ind": 17,
+        "pubbs_ind_found": 11,
+        "total_extra_found": 19,
+        "total_found": 12,
+        "total_pubbs": 18
+    },
+    "fullname": [
+        "Rovai",
+        "Francesco"
+    ],
+    "ind_anvur": [
+        "",
+        "",
+        "",
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0024-385X"
+            ],
+            "PId": 1916876417,
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "1"
+            },
+            "journal": "LINGUA E STILE",
+            "title": "origini e sviluppo di anteposito eccetto nei documenti di area longobarda",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0085-6827"
+            ],
+            "PId": 2570135962,
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.4454/SSL.V53I2.143",
+            "journal": "STUDI E SAGGI LINGUISTICI",
+            "title": "notes on the inscriptions of delos the greek transliteration of latin names",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-7916-728-4"
+            ],
+            "PId": 2789014674,
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.7359/728-2015-ROVA",
+            "title": "i rapporti tra i codici in due repertori complessi dell antichita latino gallico e latino neopunico",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-917-1441-1"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "4"
+            },
+            "title": "le lingue dell italia antica e l altra",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788898640041"
+            ],
+            "PId": 2889676377,
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "title": "categorie lessicali e transcategorizzazione da participi presenti a preposizioni deverbali",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "84-7882-782-X"
+            ],
+            "PId": 2608298456,
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "title": "gender doublets and semantic alignment in early latin",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788866421610"
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "title": "da participi presenti a preposizioni deverbali le basi semantiche della transcategorizzazione",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0004-0207"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "8"
+            },
+            "journal": "ARCHIVIO GLOTTOLOGICO ITALIANO",
+            "title": "the development of deverbal prepositions in latin morpho syntactic and semantico pragmatic factors",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0079-1636"
+            ],
+            "PId": 1497795351,
+            "cited": [
+                {
+                    "PId": 2000255081,
+                    "author": [
+                        {
+                            "AuId": 2129511339,
+                            "AuN": "eleanor rosch"
+                        },
+                        {
+                            "AuId": 336143292,
+                            "AuN": "carolyn b mervis"
+                        }
+                    ],
+                    "doi": "10.1016/0010-0285(75)90024-9",
+                    "journal": "cognitive psychology",
+                    "title": "family resemblances studies in the internal structure of categories",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 2971222854,
+                    "author": [
+                        {
+                            "AuId": 2270299332,
+                            "AuN": "christopher lyons"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511605789",
+                    "title": "definiteness by christopher lyons",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 649860389,
+                    "author": [
+                        {
+                            "AuId": 2016642883,
+                            "AuN": "a iu a\u012dkhenval\u02b9d"
+                        },
+                        {
+                            "AuId": 2326407990,
+                            "AuN": "r m w dixon"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.54",
+                    "title": "studies in evidentiality",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2144741585,
+                    "author": [
+                        {
+                            "AuId": 2010656151,
+                            "AuN": "roger lass"
+                        }
+                    ],
+                    "doi": "10.1017/S0022226700014432",
+                    "journal": "journal of linguistics",
+                    "title": "how to do things with junk exaptation in language evolution",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 1994278000,
+                    "author": [
+                        {
+                            "AuId": 2034488087,
+                            "AuN": "andrew carstairsmccarthy"
+                        }
+                    ],
+                    "doi": "10.2307/416326",
+                    "journal": "language",
+                    "title": "inflection classes gender and the principle of contrast",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1964012309,
+                    "author": [
+                        {
+                            "AuId": 716619668,
+                            "AuN": "joan l bybee"
+                        },
+                        {
+                            "AuId": 2131945097,
+                            "AuN": "dan i slobin"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.1982.0021",
+                    "journal": "language",
+                    "title": "rules and schemas in the development and use of the english past tense",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 1975930388,
+                    "author": [
+                        {
+                            "AuId": 716619668,
+                            "AuN": "joan l bybee"
+                        },
+                        {
+                            "AuId": 2705719285,
+                            "AuN": "carol lynn moder"
+                        }
+                    ],
+                    "doi": "10.2307/413574",
+                    "journal": "language",
+                    "title": "morphological classes as natural categories",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2068976472,
+                    "author": [
+                        {
+                            "AuId": 2272292293,
+                            "AuN": "klausmichael kopcke"
+                        }
+                    ],
+                    "doi": "10.1016/0024-3841(88)90064-2",
+                    "journal": "lingua",
+                    "title": "schemas in german plural formation",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 113751503,
+                    "author": [
+                        {
+                            "AuId": 2655699684,
+                            "AuN": "francesco rovai"
+                        }
+                    ],
+                    "title": "l estensione dell accusativo in latino tardo e medievale",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2346050325,
+                    "author": [
+                        {
+                            "AuId": 2907724673,
+                            "AuN": "harm pinkster"
+                        }
+                    ],
+                    "doi": "10.1163/1568525X-90000028",
+                    "journal": "mnemosyne",
+                    "title": "the latin impersonal passive",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2007047473,
+                    "author": [
+                        {
+                            "AuId": 2076677888,
+                            "AuN": "g a klimov"
+                        }
+                    ],
+                    "doi": "10.1515/LING.1974.12.131.11",
+                    "journal": "linguistics",
+                    "title": "on the character of languages of active typology",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 2037427054,
+                    "author": [
+                        {
+                            "AuId": 2724394963,
+                            "AuN": "fernando sanchez miret"
+                        },
+                        {
+                            "AuId": 2491695032,
+                            "AuN": "antonios koliadis"
+                        },
+                        {
+                            "AuId": 2028881588,
+                            "AuN": "wolfgang u dressler"
+                        }
+                    ],
+                    "doi": "10.1515/FLIH.1997.18.1-2.149",
+                    "journal": "folia linguistica historica",
+                    "title": "connectionism vs rules in diachronic morphology",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 38677301,
+                    "author": [
+                        {
+                            "AuId": 2662736127,
+                            "AuN": "romano lazzeroni"
+                        }
+                    ],
+                    "title": "il nome greco del sogno e il neutro indoeuropeo",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2054905916,
+                    "author": [
+                        {
+                            "AuId": 50587205,
+                            "AuN": "jonas grethlein"
+                        }
+                    ],
+                    "doi": "10.1353/APA.2006.0012",
+                    "journal": "transactions of the american philological association",
+                    "title": "the unthucydidean voice of sallust",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2508375424,
+                    "author": [
+                        {
+                            "AuId": 2685719343,
+                            "AuN": "francesco rovai"
+                        }
+                    ],
+                    "title": "manifestazioni di sub sistemi tipologici attivi in latino",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2471635180,
+                    "author": [
+                        {
+                            "AuId": 2698451199,
+                            "AuN": "francesco rovai"
+                        }
+                    ],
+                    "title": "i nominativi plurali in e i s della seconda declinazione costituzione di una classe morfologica",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1228117238,
+                    "author": [
+                        {
+                            "AuId": 2638986095,
+                            "AuN": "francesco rovai"
+                        }
+                    ],
+                    "title": "i nominativi plurali in e i s della seconda declinazione",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 34043599,
+                    "author": [
+                        {
+                            "AuId": 2644795061,
+                            "AuN": "romano lazzeroni"
+                        }
+                    ],
+                    "title": "ruoli tematici e genere grammaticale un aspetto della morfosintassi indoeuropea",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2622616427,
+                    "author": [
+                        {
+                            "AuId": 2712657774,
+                            "AuN": "r lazzeroni"
+                        }
+                    ],
+                    "title": "arealita italica e riorganizzazione degli allomorfi induzione di morfemi o induzione di regole",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2079428304,
+                    "author": [
+                        {
+                            "AuId": 2576485892,
+                            "AuN": "e sapir"
+                        }
+                    ],
+                    "doi": "10.1086/463716",
+                    "journal": "international journal of american linguistics",
+                    "title": "het passieve karakter van het verbum transitivum of van het verbum actionis in talen van noord amerika the passive character of the transitive verb or of the active verb in languages of north america c c uhlenbeck",
+                    "year_mag": 1917
+                },
+                {
+                    "PId": 94675418,
+                    "author": [
+                        {
+                            "AuId": 2558543903,
+                            "AuN": "wilhelm henzen"
+                        },
+                        {
+                            "AuId": 2508370907,
+                            "AuN": "christian hulsen"
+                        },
+                        {
+                            "AuId": 2430632282,
+                            "AuN": "theodor mommsen"
+                        }
+                    ],
+                    "title": "corpus inscriptionum latinarum vol 1 p 1 inscriptiones latinae antiquissimae ad c caesaris mortem",
+                    "year_mag": 1893
+                },
+                {
+                    "PId": 2019241384,
+                    "author": [
+                        {
+                            "AuId": 2314901838,
+                            "AuN": "john masson"
+                        }
+                    ],
+                    "doi": "10.1017/S0009840X00032157",
+                    "journal": "classical review",
+                    "title": "an italian scholar on jerome s life of lucretius",
+                    "year_mag": 1898
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Bybee",
+                            "given": "Joan",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511750526",
+                    "title": "language usage and cognition",
+                    "year_oc": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Corbett",
+                            "given": "Greville G.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139166119",
+                    "title": "gender",
+                    "year_oc": 1991
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Cennamo",
+                            "given": "Michela",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.108.17CEN",
+                    "title": "argument structure and alignment variations and changes in late latin",
+                    "year_oc": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Haspelmath",
+                            "given": "Martin",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.23.05HAS",
+                    "title": "more on the typology of inchoative causative verb alternations",
+                    "year_oc": 1993
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Anderson",
+                            "given": "John M.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780199297412.001.0001",
+                    "title": "the grammar of names",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Bauer",
+                            "given": "Brigitte",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110825992",
+                    "title": "archaic syntax in indo european",
+                    "year_oc": 2000
+                },
+                {
+                    "doi": "10.1515/9783110848731.269",
+                    "title": "the extended accusative restricted nominative in perspective",
+                    "year_oc": 1985
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Bybee",
+                            "given": "Joan L.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Slobin",
+                            "given": "Dan I.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/414099",
+                    "title": "rules and schemas in the development and use of the english past tense",
+                    "year_oc": 1982
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 3015644547,
+                    "author": [
+                        {
+                            "AuId": 1803190817,
+                            "AuN": "adam ledgeway"
+                        },
+                        {
+                            "AuId": 2262971178,
+                            "AuN": "norma schifano"
+                        },
+                        {
+                            "AuId": 3032244599,
+                            "AuN": "giuseppina silvestri"
+                        }
+                    ],
+                    "doi": "10.1163/15699846-02001003",
+                    "journal": "journal of greek linguistics",
+                    "title": "changing alignments in the greek of southern italy",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2553981182,
+                    "author": [
+                        {
+                            "AuId": 2894232228,
+                            "AuN": "martin maiden"
+                        }
+                    ],
+                    "doi": "10.1515/FLIH-2016-0004",
+                    "journal": "journal of greek linguistics",
+                    "title": "the romanian alternating gender in diachrony and synchrony",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2969771808,
+                    "author": [
+                        {
+                            "AuId": 2969399760,
+                            "AuN": "claudia fabrizio"
+                        }
+                    ],
+                    "doi": "10.1075/CILT.348.07FAB",
+                    "journal": "journal of greek linguistics",
+                    "title": "chapter 7 where do italian ata nouns come from some new diachronic evidence on a romance derivational pattern",
+                    "year_mag": 2019
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Universit\u00e4t Z\u00fcrich"
+                                }
+                            ],
+                            "family": "Loporcaro",
+                            "given": "Michele",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Wirtschaftsuniversit\u00e4t Wien"
+                                }
+                            ],
+                            "family": "Faraoni",
+                            "given": "Vincenzo",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Gardani",
+                            "given": "Francesco",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1075/DIA.31.1.01GAR",
+                    "title": "the third gender of old italian",
+                    "year_oc": 2014
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "9"
+            },
+            "doi": "10.1111/J.1467-968X.2012.01286.X",
+            "journal": "TRANSACTIONS OF THE PHILOLOGICAL SOCIETY",
+            "title": "between feminine singular and neuter plural re analysis patterns",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "0085-2295"
+            ],
+            "PId": 241987374,
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "journal": "L'ITALIA DIALETTALE",
+            "title": "l aglio e l orso una nota su plinio il vecchio naturalis historia 21 67",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9783050059242"
+            ],
+            "PId": 2790528818,
+            "citing": [
+                {
+                    "PId": 2953253207,
+                    "author": [
+                        {
+                            "AuId": 2950774722,
+                            "AuN": "borja herce"
+                        }
+                    ],
+                    "doi": "10.1075/SL.17042.HER",
+                    "journal": "studies in language",
+                    "title": "deconstructing ir regularity",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "11"
+            },
+            "title": "on some latin morphological ir regularities",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "888983787X"
+            ],
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "title": "rianalisi e riuso ri considerazioni su alcuni metaplasmi latini",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788863154054"
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "13"
+            },
+            "title": "sistemi di codifica argomentale tipologia ed evoluzione ",
+            "type": "monografia o trattato scientifico",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "0085-6827"
+            ],
+            "PId": 1543269579,
+            "cv_id": {
+                "pubbs_ind": "14"
+            },
+            "journal": "STUDI E SAGGI LINGUISTICI",
+            "title": "mutamento ed entropia un approccio informazionale ai processi di grammaticalizzazione",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "0085-2295"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "15"
+            },
+            "journal": "L'ITALIA DIALETTALE",
+            "title": "nomen maschile e nomen femminile variazione linguistica e differenze sociali in latino",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "0004-0207"
+            ],
+            "PId": 2471635180,
+            "citing": [
+                {
+                    "PId": 1497795351,
+                    "author": [
+                        {
+                            "AuId": 2092701513,
+                            "AuN": "francesco rovai"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-968X.2012.01286.X",
+                    "journal": "transactions of the philological society",
+                    "title": "between feminine singular and neuter plural re analysis patterns",
+                    "year_mag": 2012
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "16"
+            },
+            "journal": "ARCHIVIO GLOTTOLOGICO ITALIANO",
+            "title": "i nominativi plurali in e i s della seconda declinazione costituzione di una classe morfologica",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "0004-0207"
+            ],
+            "PId": 2508375424,
+            "citing": [
+                {
+                    "PId": 3015644547,
+                    "author": [
+                        {
+                            "AuId": 1803190817,
+                            "AuN": "adam ledgeway"
+                        },
+                        {
+                            "AuId": 2262971178,
+                            "AuN": "norma schifano"
+                        },
+                        {
+                            "AuId": 3032244599,
+                            "AuN": "giuseppina silvestri"
+                        }
+                    ],
+                    "doi": "10.1163/15699846-02001003",
+                    "journal": "journal of greek linguistics",
+                    "title": "changing alignments in the greek of southern italy",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 1497795351,
+                    "author": [
+                        {
+                            "AuId": 2092701513,
+                            "AuN": "francesco rovai"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-968X.2012.01286.X",
+                    "journal": "journal of greek linguistics",
+                    "title": "between feminine singular and neuter plural re analysis patterns",
+                    "year_mag": 2012
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "17"
+            },
+            "journal": "ARCHIVIO GLOTTOLOGICO ITALIANO",
+            "title": "manifestazioni di sub sistemi tipologici attivi in latino",
+            "type": "articolo in rivista",
+            "year": 2007
+        },
+        {
+            "ISSN": [
+                "2194-8739"
+            ],
+            "PId": 2333137713,
+            "cited": [
+                {
+                    "PId": 2069481210,
+                    "author": [
+                        {
+                            "AuId": 2690207353,
+                            "AuN": "paolo ramat"
+                        }
+                    ],
+                    "doi": "10.1515/FLIN.1986.20.1-2.3",
+                    "journal": "folia linguistica",
+                    "title": "is a holistic typology possible",
+                    "year_mag": 1986
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 3015644547,
+                    "author": [
+                        {
+                            "AuId": 1803190817,
+                            "AuN": "adam ledgeway"
+                        },
+                        {
+                            "AuId": 2262971178,
+                            "AuN": "norma schifano"
+                        },
+                        {
+                            "AuId": 3032244599,
+                            "AuN": "giuseppina silvestri"
+                        }
+                    ],
+                    "doi": "10.1163/15699846-02001003",
+                    "journal": "journal of greek linguistics",
+                    "title": "changing alignments in the greek of southern italy",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2778540467,
+                    "author": [
+                        {
+                            "AuId": 2632915462,
+                            "AuN": "giovanbattista galdi"
+                        }
+                    ],
+                    "doi": "10.1080/00397679.2017.1405567",
+                    "journal": "journal of greek linguistics",
+                    "title": "zum sogenannten nominativus absolutus im lateinischen neue auslegungen zu einem alten problem",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5"
+            },
+            "doi": "10.1515/JOLL-2014-0005",
+            "journal": "JOURNAL OF LATIN LINGUISTICS",
+            "title": "case marking in absolute constructions further evidence for a semantically based alignment in late latin",
+            "type": "articolo in rivista",
+            "year": 2014
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2583464856,
+            "citing": [
+                {
+                    "PId": 2805994519,
+                    "author": [
+                        {
+                            "AuId": 2807327993,
+                            "AuN": "anna zago"
+                        }
+                    ],
+                    "doi": "10.1515/JOLL-2018-0002",
+                    "journal": "journal of latin linguistics",
+                    "title": "mytacism in latin grammarians",
+                    "year_mag": 2018
+                }
+            ],
+            "title": "about dicae e faciae quint inst i 7 11 ix 4 39",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2288965040,
+            "cited": [
+                {
+                    "PId": 3022532439,
+                    "author": [
+                        {
+                            "AuId": 2700312461,
+                            "AuN": "giacomo rizzolatti"
+                        },
+                        {
+                            "AuId": 1940954919,
+                            "AuN": "laila craighero"
+                        }
+                    ],
+                    "doi": "10.1146/ANNUREV.NEURO.27.070203.144230",
+                    "journal": "annual review of neuroscience",
+                    "title": "the mirror neuron system",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2052417512,
+                    "author": [
+                        {
+                            "AuId": 194655116,
+                            "AuN": "george lakoff"
+                        },
+                        {
+                            "AuId": 2111261108,
+                            "AuN": "mark h johnson"
+                        }
+                    ],
+                    "title": "metaphors we live by",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 2317216716,
+                    "author": [
+                        {
+                            "AuId": 196695265,
+                            "AuN": "ronald w langacker"
+                        },
+                        {
+                            "AuId": 194655116,
+                            "AuN": "george lakoff"
+                        }
+                    ],
+                    "doi": "10.2307/415440",
+                    "journal": "language",
+                    "title": "women fire and dangerous things what categories reveal about the mind",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 266716723,
+                    "author": [
+                        {
+                            "AuId": 194655116,
+                            "AuN": "george lakoff"
+                        }
+                    ],
+                    "title": "women fire and dangerous things",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2149544884,
+                    "author": [
+                        {
+                            "AuId": 1955938932,
+                            "AuN": "bradford z mahon"
+                        },
+                        {
+                            "AuId": 1773508393,
+                            "AuN": "alfonso caramazza"
+                        },
+                        {
+                            "AuId": 1773508393,
+                            "AuN": "alfonso caramazza"
+                        }
+                    ],
+                    "doi": "10.1016/J.JPHYSPARIS.2008.03.004",
+                    "journal": "journal of physiology paris",
+                    "title": "a critical look at the embodied cognition hypothesis and a new proposal for grounding conceptual content",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1577142816,
+                    "author": [
+                        {
+                            "AuId": 1962726511,
+                            "AuN": "bernd heine"
+                        },
+                        {
+                            "AuId": 1971280809,
+                            "AuN": "tania kuteva"
+                        }
+                    ],
+                    "title": "world lexicon of grammaticalization",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2128092632,
+                    "author": [
+                        {
+                            "AuId": 1981623995,
+                            "AuN": "stephen c levinson"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511613609",
+                    "title": "space in language and cognition explorations in cognitive diversity",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1593539964,
+                    "author": [
+                        {
+                            "AuId": 2700021179,
+                            "AuN": "annette herskovits"
+                        }
+                    ],
+                    "title": "language and spatial cognition an interdisciplinary study of the prepositions in english",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2123987305,
+                    "author": [
+                        {
+                            "AuId": 1990829728,
+                            "AuN": "ray jackendoff"
+                        }
+                    ],
+                    "title": "semantics and cognition",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 87648833,
+                    "author": [
+                        {
+                            "AuId": 2503347236,
+                            "AuN": "leonard talmy"
+                        }
+                    ],
+                    "title": "toward a cognitive semantics typology and process in concept structuring",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1974419670,
+                    "author": [
+                        {
+                            "AuId": 1981623995,
+                            "AuN": "stephen c levinson"
+                        },
+                        {
+                            "AuId": 2032015365,
+                            "AuN": "sergio meira"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.2003.0174",
+                    "journal": "language",
+                    "title": "natural concepts in the spatial topological domain adpositional meanings in crosslinguistic perspective an exercise in semantic typology",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1491882993,
+                    "author": [
+                        {
+                            "AuId": 2131701325,
+                            "AuN": "nadia lessard"
+                        },
+                        {
+                            "AuId": 2661361991,
+                            "AuN": "m pare"
+                        },
+                        {
+                            "AuId": 2103637893,
+                            "AuN": "franco lepore"
+                        },
+                        {
+                            "AuId": 921838633,
+                            "AuN": "maryse lassonde"
+                        }
+                    ],
+                    "doi": "10.1038/26228",
+                    "journal": "nature",
+                    "title": "early blind human subjects localize sound sources better than sighted subjects",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2147727123,
+                    "author": [
+                        {
+                            "AuId": 2027700436,
+                            "AuN": "peggy li"
+                        },
+                        {
+                            "AuId": 2206994961,
+                            "AuN": "lila r gleitman"
+                        }
+                    ],
+                    "doi": "10.1016/S0010-0277(02)00009-4",
+                    "journal": "cognition",
+                    "title": "turning the tables language and spatial reasoning",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2032846947,
+                    "author": [
+                        {
+                            "AuId": 2063101331,
+                            "AuN": "barbara landau"
+                        },
+                        {
+                            "AuId": 1990829728,
+                            "AuN": "ray jackendoff"
+                        }
+                    ],
+                    "doi": "10.1017/S0140525X00029733",
+                    "journal": "behavioral and brain sciences",
+                    "title": "what and where in spatial language and spatial cognition",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2097277361,
+                    "author": [
+                        {
+                            "AuId": 264038053,
+                            "AuN": "olivier collignon"
+                        },
+                        {
+                            "AuId": 264038053,
+                            "AuN": "olivier collignon"
+                        },
+                        {
+                            "AuId": 2136497385,
+                            "AuN": "patrice voss"
+                        },
+                        {
+                            "AuId": 3022601599,
+                            "AuN": "maryse lassonde"
+                        },
+                        {
+                            "AuId": 2103637893,
+                            "AuN": "franco lepore"
+                        }
+                    ],
+                    "doi": "10.1007/S00221-008-1553-Z",
+                    "journal": "experimental brain research",
+                    "title": "cross modal plasticity for the spatial processing of sounds in visually deprived subjects",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2033752973,
+                    "author": [
+                        {
+                            "AuId": 27909605,
+                            "AuN": "zaira cattaneo"
+                        },
+                        {
+                            "AuId": 2025293775,
+                            "AuN": "tomaso vecchi"
+                        },
+                        {
+                            "AuId": 1983353309,
+                            "AuN": "cesare cornoldi"
+                        },
+                        {
+                            "AuId": 2080146160,
+                            "AuN": "irene c mammarella"
+                        },
+                        {
+                            "AuId": 2061069418,
+                            "AuN": "daniela bonino"
+                        },
+                        {
+                            "AuId": 2061069418,
+                            "AuN": "daniela bonino"
+                        },
+                        {
+                            "AuId": 2029762163,
+                            "AuN": "emiliano ricciardi"
+                        },
+                        {
+                            "AuId": 20707900,
+                            "AuN": "pietro pietrini"
+                        }
+                    ],
+                    "doi": "10.1016/J.NEUBIOREV.2008.05.002",
+                    "journal": "neuroscience & biobehavioral reviews",
+                    "title": "imagery and spatial processes in blindness and visual impairment",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1506109252,
+                    "author": [
+                        {
+                            "AuId": 2053965317,
+                            "AuN": "melissa bowerman"
+                        },
+                        {
+                            "AuId": 2168059132,
+                            "AuN": "soonja choi"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511620669.018",
+                    "title": "shaping meanings for language universal and language specific in the acquisition of semantic categories",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2148681549,
+                    "author": [
+                        {
+                            "AuId": 2004786281,
+                            "AuN": "silvia p gennari"
+                        },
+                        {
+                            "AuId": 317854028,
+                            "AuN": "steven a sloman"
+                        },
+                        {
+                            "AuId": 2143528216,
+                            "AuN": "barbara c malt"
+                        },
+                        {
+                            "AuId": 2171045256,
+                            "AuN": "w tecumseh fitch"
+                        }
+                    ],
+                    "doi": "10.1016/S0010-0277(01)00166-4",
+                    "journal": "cognition",
+                    "title": "motion events in language and cognition",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2152303149,
+                    "author": [
+                        {
+                            "AuId": 2042663584,
+                            "AuN": "laura lakusta"
+                        },
+                        {
+                            "AuId": 2063101331,
+                            "AuN": "barbara landau"
+                        }
+                    ],
+                    "doi": "10.1016/J.COGNITION.2004.03.009",
+                    "journal": "cognition",
+                    "title": "starting at the end the importance of goals in spatial language",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1774632532,
+                    "author": [
+                        {
+                            "AuId": 2503347236,
+                            "AuN": "leonard talmy"
+                        }
+                    ],
+                    "doi": "10.3765/BLS.V17I0.1620",
+                    "title": "path to realization a typology of event conflation",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2132112438,
+                    "author": [
+                        {
+                            "AuId": 2029762163,
+                            "AuN": "emiliano ricciardi"
+                        },
+                        {
+                            "AuId": 338274727,
+                            "AuN": "nicola vanello"
+                        },
+                        {
+                            "AuId": 2011101121,
+                            "AuN": "lorenzo sani"
+                        },
+                        {
+                            "AuId": 1920661405,
+                            "AuN": "claudio gentili"
+                        },
+                        {
+                            "AuId": 2027957807,
+                            "AuN": "enzo pasquale scilingo"
+                        },
+                        {
+                            "AuId": 2466960496,
+                            "AuN": "luigi landini"
+                        },
+                        {
+                            "AuId": 2062702874,
+                            "AuN": "mario guazzelli"
+                        },
+                        {
+                            "AuId": 225233962,
+                            "AuN": "antonio bicchi"
+                        },
+                        {
+                            "AuId": 2472211370,
+                            "AuN": "james v haxby"
+                        },
+                        {
+                            "AuId": 20707900,
+                            "AuN": "pietro pietrini"
+                        }
+                    ],
+                    "doi": "10.1093/CERCOR/BHM018",
+                    "journal": "cerebral cortex",
+                    "title": "the effect of visual experience on the development of functional architecture in hmt",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1783251216,
+                    "author": [
+                        {
+                            "AuId": 2505530238,
+                            "AuN": "susanna millar"
+                        }
+                    ],
+                    "title": "understanding and representing space theory and evidence from studies with blind and sighted children",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2492390975,
+                    "author": [
+                        {
+                            "AuId": 2503347236,
+                            "AuN": "leonard talmy"
+                        }
+                    ],
+                    "doi": "10.1515/9783110197532.3.199",
+                    "title": "the fundamental system of spatial schemas in language",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1997201827,
+                    "author": [
+                        {
+                            "AuId": 2029762163,
+                            "AuN": "emiliano ricciardi"
+                        },
+                        {
+                            "AuId": 2061069418,
+                            "AuN": "daniela bonino"
+                        },
+                        {
+                            "AuId": 2061069418,
+                            "AuN": "daniela bonino"
+                        },
+                        {
+                            "AuId": 1920661405,
+                            "AuN": "claudio gentili"
+                        },
+                        {
+                            "AuId": 2011101121,
+                            "AuN": "lorenzo sani"
+                        },
+                        {
+                            "AuId": 20707900,
+                            "AuN": "pietro pietrini"
+                        },
+                        {
+                            "AuId": 2025293775,
+                            "AuN": "tomaso vecchi"
+                        }
+                    ],
+                    "doi": "10.1016/J.NEUROSCIENCE.2005.08.045",
+                    "journal": "neuroscience",
+                    "title": "neural correlates of spatial working memory in humans a functional magnetic resonance imaging study comparing visual and tactile processes",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2138707363,
+                    "author": [
+                        {
+                            "AuId": 2003524131,
+                            "AuN": "markus knauff"
+                        },
+                        {
+                            "AuId": 2468452060,
+                            "AuN": "p n johnsonlaird"
+                        }
+                    ],
+                    "doi": "10.3758/BF03194937",
+                    "journal": "memory & cognition",
+                    "title": "visual imagery can impede reasoning",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1516581437,
+                    "author": [
+                        {
+                            "AuId": 2053965317,
+                            "AuN": "melissa bowerman"
+                        },
+                        {
+                            "AuId": 2168059132,
+                            "AuN": "soonja choi"
+                        }
+                    ],
+                    "title": "space under construction language specific spatial categorization in first language acquisition",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2162418265,
+                    "author": [
+                        {
+                            "AuId": 2134895263,
+                            "AuN": "carla tinti"
+                        },
+                        {
+                            "AuId": 186624777,
+                            "AuN": "mauro adenzato"
+                        },
+                        {
+                            "AuId": 2087959198,
+                            "AuN": "marco tamietto"
+                        },
+                        {
+                            "AuId": 1983353309,
+                            "AuN": "cesare cornoldi"
+                        }
+                    ],
+                    "doi": "10.1080/17470210500214275",
+                    "journal": "quarterly journal of experimental psychology",
+                    "title": "visual experience is not necessary for efficient survey spatial cognition evidence from blindness",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1971771135,
+                    "author": [
+                        {
+                            "AuId": 2063101331,
+                            "AuN": "barbara landau"
+                        },
+                        {
+                            "AuId": 2206994961,
+                            "AuN": "lila r gleitman"
+                        }
+                    ],
+                    "title": "language and experience evidence from the blind child",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2125263867,
+                    "author": [
+                        {
+                            "AuId": 2042663584,
+                            "AuN": "laura lakusta"
+                        },
+                        {
+                            "AuId": 3042704535,
+                            "AuN": "laura wagner"
+                        },
+                        {
+                            "AuId": 1942131295,
+                            "AuN": "kirsten ohearn"
+                        },
+                        {
+                            "AuId": 2063101331,
+                            "AuN": "barbara landau"
+                        }
+                    ],
+                    "doi": "10.1080/15475440701360168",
+                    "journal": "language learning and development",
+                    "title": "conceptual foundations of spatial language evidence for a goal bias in infants",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2005265724,
+                    "author": [
+                        {
+                            "AuId": 2104626128,
+                            "AuN": "penelope brown"
+                        }
+                    ],
+                    "doi": "10.1515/LING.1994.32.4-5.743",
+                    "journal": "linguistics",
+                    "title": "the ins and ons of tzeltal locative expressions the semantics of static descriptions of location",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 42950482,
+                    "author": [
+                        {
+                            "AuId": 1652441068,
+                            "AuN": "elizabeth closs traugott"
+                        },
+                        {
+                            "AuId": 2292776628,
+                            "AuN": "ekkehard konig"
+                        }
+                    ],
+                    "title": "the semantics pragmatics of grammaticalization revisited",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 1484680475,
+                    "author": [
+                        {
+                            "AuId": 1981623995,
+                            "AuN": "stephen c levinson"
+                        },
+                        {
+                            "AuId": 2089064041,
+                            "AuN": "david p wilkins"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511486753.002",
+                    "title": "the background to the study of the language of space",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2160716774,
+                    "author": [
+                        {
+                            "AuId": 27909605,
+                            "AuN": "zaira cattaneo"
+                        },
+                        {
+                            "AuId": 255901845,
+                            "AuN": "juha silvanto"
+                        },
+                        {
+                            "AuId": 255901845,
+                            "AuN": "juha silvanto"
+                        },
+                        {
+                            "AuId": 2137619274,
+                            "AuN": "alvaro pascualleone"
+                        },
+                        {
+                            "AuId": 2468327054,
+                            "AuN": "lorella battelli"
+                        }
+                    ],
+                    "doi": "10.1016/J.NEUROIMAGE.2008.09.003",
+                    "journal": "neuroimage",
+                    "title": "the role of the angular gyrus in the modulation of visuospatial attention by the mental number line",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2093746602,
+                    "author": [
+                        {
+                            "AuId": 1207289663,
+                            "AuN": "katja fiehler"
+                        },
+                        {
+                            "AuId": 2234907144,
+                            "AuN": "michael burke"
+                        },
+                        {
+                            "AuId": 2324968271,
+                            "AuN": "siegfried bien"
+                        },
+                        {
+                            "AuId": 2134231702,
+                            "AuN": "brigitte roder"
+                        },
+                        {
+                            "AuId": 1909626818,
+                            "AuN": "frank rosler"
+                        }
+                    ],
+                    "doi": "10.1093/CERCOR/BHN067",
+                    "journal": "cerebral cortex",
+                    "title": "the human dorsal action control system develops in the absence of vision",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1986663878,
+                    "author": [
+                        {
+                            "AuId": 2022441859,
+                            "AuN": "marijn e struiksma"
+                        },
+                        {
+                            "AuId": 2075032572,
+                            "AuN": "matthijs leendert noordzij"
+                        },
+                        {
+                            "AuId": 2231699966,
+                            "AuN": "albert postma"
+                        }
+                    ],
+                    "doi": "10.1016/J.ACTPSY.2009.04.002",
+                    "journal": "acta psychologica",
+                    "title": "what is the link between language and spatial images behavioral and neural findings in blind and sighted individuals",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 15000671,
+                    "author": [
+                        {
+                            "AuId": 2161452200,
+                            "AuN": "claudia brugman"
+                        },
+                        {
+                            "AuId": 194655116,
+                            "AuN": "george lakoff"
+                        }
+                    ],
+                    "doi": "10.1016/B978-0-08-051013-2.50022-7",
+                    "title": "cognitive topology and lexical networks",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2494396049,
+                    "author": [
+                        {
+                            "AuId": 720043134,
+                            "AuN": "friedemann pulvermuller"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780199217274.003.0006",
+                    "title": "grounding language in the brain",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1984499589,
+                    "author": [
+                        {
+                            "AuId": 2136497385,
+                            "AuN": "patrice voss"
+                        },
+                        {
+                            "AuId": 323303643,
+                            "AuN": "frederic gougoux"
+                        },
+                        {
+                            "AuId": 921838633,
+                            "AuN": "maryse lassonde"
+                        },
+                        {
+                            "AuId": 261865645,
+                            "AuN": "robert j zatorre"
+                        },
+                        {
+                            "AuId": 2103637893,
+                            "AuN": "franco lepore"
+                        }
+                    ],
+                    "doi": "10.1097/01.WNR.0000204983.21748.2D",
+                    "journal": "neuroreport",
+                    "title": "a positron emission tomography study during auditory localization by late onset blind individuals",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2338029643,
+                    "author": [
+                        {
+                            "AuId": 20707900,
+                            "AuN": "pietro pietrini"
+                        },
+                        {
+                            "AuId": 46031893,
+                            "AuN": "maurice ptito"
+                        },
+                        {
+                            "AuId": 2027239900,
+                            "AuN": "ron kupers"
+                        }
+                    ],
+                    "doi": "10.1016/B978-0-12-800948-2.00024-8",
+                    "title": "blindness and consciousness new light from the dark",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2798667169,
+                    "author": [
+                        {
+                            "AuId": 2063101331,
+                            "AuN": "barbara landau"
+                        }
+                    ],
+                    "title": "language and experience",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2025861316,
+                    "author": [
+                        {
+                            "AuId": 27909605,
+                            "AuN": "zaira cattaneo"
+                        },
+                        {
+                            "AuId": 2025293775,
+                            "AuN": "tomaso vecchi"
+                        }
+                    ],
+                    "doi": "10.1037/0278-7393.34.3.631",
+                    "journal": "journal of experimental psychology learning memory and cognition",
+                    "title": "supramodality effects in visual and haptic spatial processes",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 285147968,
+                    "author": [
+                        {
+                            "AuId": 2686537568,
+                            "AuN": "t hull"
+                        },
+                        {
+                            "AuId": 2108333792,
+                            "AuN": "heather mason"
+                        }
+                    ],
+                    "doi": "10.1177/0145482X9508900213",
+                    "journal": "journal of visual impairment & blindness",
+                    "title": "performance of blind children on digit span tests",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2055435839,
+                    "author": [
+                        {
+                            "AuId": 2334567039,
+                            "AuN": "jerome zimler"
+                        },
+                        {
+                            "AuId": 2096849361,
+                            "AuN": "janice m keenan"
+                        }
+                    ],
+                    "doi": "10.1037//0278-7393.9.2.269",
+                    "journal": "journal of experimental psychology learning memory and cognition",
+                    "title": "imagery in the congenitally blind how visual are visual images",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2040193625,
+                    "author": [
+                        {
+                            "AuId": 1983353309,
+                            "AuN": "cesare cornoldi"
+                        },
+                        {
+                            "AuId": 2698037689,
+                            "AuN": "barbara bertuccelli"
+                        },
+                        {
+                            "AuId": 1964245364,
+                            "AuN": "p rocchi"
+                        },
+                        {
+                            "AuId": 2669493671,
+                            "AuN": "barbara sbrana"
+                        }
+                    ],
+                    "doi": "10.1016/S0010-9452(13)80290-0",
+                    "journal": "cortex",
+                    "title": "processing capacity limitations in pictorial and spatial representations in the totally congenitally blind",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2777831987,
+                    "author": [
+                        {
+                            "AuId": 20707900,
+                            "AuN": "pietro pietrini"
+                        },
+                        {
+                            "AuId": 46031893,
+                            "AuN": "maurice ptito"
+                        },
+                        {
+                            "AuId": 2027239900,
+                            "AuN": "ron kupers"
+                        }
+                    ],
+                    "doi": "10.1016/B978-0-12-800948-2.00024-8",
+                    "title": "chapter 24 blindness and consciousness new light from the dark",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2063311694,
+                    "author": [
+                        {
+                            "AuId": 2063101331,
+                            "AuN": "barbara landau"
+                        }
+                    ],
+                    "doi": "10.1016/0024-3841(94)90344-1",
+                    "journal": "lingua",
+                    "title": "where s what and what s where the language of objects in space",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 137672335,
+                    "author": [
+                        {
+                            "AuId": 2042663584,
+                            "AuN": "laura lakusta"
+                        },
+                        {
+                            "AuId": 2095948393,
+                            "AuN": "hanako yoshida"
+                        },
+                        {
+                            "AuId": 2152424099,
+                            "AuN": "linda b smith"
+                        },
+                        {
+                            "AuId": 2063101331,
+                            "AuN": "barbara landau"
+                        }
+                    ],
+                    "title": "cross linguistic evidence for a goal source asymmetry the case of japanese",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 594063394,
+                    "author": [
+                        {
+                            "AuId": 1954820863,
+                            "AuN": "hubert cuyckens"
+                        }
+                    ],
+                    "title": "the semantics of spatial prepositions in dutch a cognitive linguistic exercise",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2006610862,
+                    "author": [
+                        {
+                            "AuId": 2795676790,
+                            "AuN": "louis h gray"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780198270126.001.0001",
+                    "journal": "american journal of philology",
+                    "title": "foundations of language",
+                    "year_mag": 1941
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 1980303528,
+                    "author": [
+                        {
+                            "AuId": 2776361626,
+                            "AuN": "monique flecken"
+                        },
+                        {
+                            "AuId": 1895822251,
+                            "AuN": "christiane von stutterheim"
+                        },
+                        {
+                            "AuId": 2239366513,
+                            "AuN": "mary carroll"
+                        }
+                    ],
+                    "doi": "10.1017/LANGCOG.2013.2",
+                    "journal": "language and cognition",
+                    "title": "grammatical aspect influences motion event perception evidence from a cross linguistic non verbal recognition task",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2041382404,
+                    "author": [
+                        {
+                            "AuId": 2203609035,
+                            "AuN": "vicky t lai"
+                        },
+                        {
+                            "AuId": 2144539040,
+                            "AuN": "gabriela garrido rodriguez"
+                        },
+                        {
+                            "AuId": 2201522852,
+                            "AuN": "bhuvana narasimhan"
+                        }
+                    ],
+                    "doi": "10.1017/S1366728913000151",
+                    "journal": "language and cognition",
+                    "title": "thinking for speaking in early and late bilinguals",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2145660144,
+                    "author": [
+                        {
+                            "AuId": 1904023732,
+                            "AuN": "asli ozyurek"
+                        },
+                        {
+                            "AuId": 1988935646,
+                            "AuN": "i e p zwitserlood"
+                        },
+                        {
+                            "AuId": 2009413222,
+                            "AuN": "pamela m perniss"
+                        }
+                    ],
+                    "doi": "10.1515/LING.2010.036",
+                    "journal": "language and cognition",
+                    "title": "locative expressions in signed languages a view from turkish sign language tid",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2335719363,
+                    "author": [
+                        {
+                            "AuId": 95526074,
+                            "AuN": "bernhard walchli"
+                        }
+                    ],
+                    "doi": "10.1349/PS1.1537-0852.A.356",
+                    "journal": "language and cognition",
+                    "title": "similarity semantics and building probabilistic semantic maps from parallel texts",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1555730317,
+                    "author": [
+                        {
+                            "AuId": 2009413222,
+                            "AuN": "pamela m perniss"
+                        },
+                        {
+                            "AuId": 2009413222,
+                            "AuN": "pamela m perniss"
+                        },
+                        {
+                            "AuId": 1988935646,
+                            "AuN": "i e p zwitserlood"
+                        },
+                        {
+                            "AuId": 1904023732,
+                            "AuN": "asli ozyurek"
+                        }
+                    ],
+                    "journal": "language and cognition",
+                    "title": "does space structure spatial language linguistic encoding of space in sign languages",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2104927784,
+                    "author": [
+                        {
+                            "AuId": 2776361626,
+                            "AuN": "monique flecken"
+                        },
+                        {
+                            "AuId": 2021888146,
+                            "AuN": "johannes gerwien"
+                        },
+                        {
+                            "AuId": 2239366513,
+                            "AuN": "mary carroll"
+                        },
+                        {
+                            "AuId": 1895822251,
+                            "AuN": "christiane von stutterheim"
+                        }
+                    ],
+                    "doi": "10.1017/LANGCOG.2014.20",
+                    "journal": "language and cognition",
+                    "title": "analyzing gaze allocation during language planning a cross linguistic study on dynamic events",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1910226792,
+                    "author": [
+                        {
+                            "AuId": 2076496188,
+                            "AuN": "werner abraham"
+                        },
+                        {
+                            "AuId": 2041938657,
+                            "AuN": "elisabeth leiss"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-968X.2012.01315.X",
+                    "journal": "language and cognition",
+                    "title": "the case differential syntagmatic versus paradigmatic case its status in synchrony and diachrony the case differential syntagmatic versus paradigmatic case",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1965725663,
+                    "author": [
+                        {
+                            "AuId": 240345091,
+                            "AuN": "benjamin fagard"
+                        },
+                        {
+                            "AuId": 2244963201,
+                            "AuN": "alexandru mardale"
+                        }
+                    ],
+                    "doi": "10.1515/FLIN.2012.011",
+                    "journal": "language and cognition",
+                    "title": "the pace of grammaticalization and the evolution of prepositional systems data from romance",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2063860867,
+                    "author": [
+                        {
+                            "AuId": 320222791,
+                            "AuN": "raphael berthele"
+                        },
+                        {
+                            "AuId": 2583306465,
+                            "AuN": "matthew whelpton"
+                        },
+                        {
+                            "AuId": 2620471737,
+                            "AuN": "ashild naess"
+                        },
+                        {
+                            "AuId": 2661976043,
+                            "AuN": "pieter duijff"
+                        }
+                    ],
+                    "doi": "10.1016/J.LANGSCI.2014.07.006",
+                    "journal": "language and cognition",
+                    "title": "static spatial descriptions in five germanic languages",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2142834971,
+                    "author": [
+                        {
+                            "AuId": 2707955742,
+                            "AuN": "caroline imbert"
+                        }
+                    ],
+                    "doi": "10.1002/LNC3.329",
+                    "journal": "language and cognition",
+                    "title": "path ways typology has walked through it",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 133483655,
+                    "author": [
+                        {
+                            "AuId": 2112689285,
+                            "AuN": "giovanna marotta"
+                        }
+                    ],
+                    "doi": "10.1007/S10579-014-9270-7",
+                    "journal": "language and cognition",
+                    "title": "i mani and j pustejovsky interpreting motion grounded representations for spatial language",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2767271179,
+                    "author": [
+                        {
+                            "AuId": 240345091,
+                            "AuN": "benjamin fagard"
+                        },
+                        {
+                            "AuId": 2050416303,
+                            "AuN": "dejan stosic"
+                        },
+                        {
+                            "AuId": 2596421330,
+                            "AuN": "massimo cerruti"
+                        }
+                    ],
+                    "doi": "10.1515/STUF-2017-0027",
+                    "journal": "language and cognition",
+                    "title": "within type variation in satellite framed languages the case of serbian",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 139268303,
+                    "author": [
+                        {
+                            "AuId": 2041257402,
+                            "AuN": "marija bralavukanovic"
+                        },
+                        {
+                            "AuId": 1983120389,
+                            "AuN": "anita memisevic"
+                        }
+                    ],
+                    "doi": "10.1007/S11185-013-9121-Y",
+                    "journal": "language and cognition",
+                    "title": "the croatian prefix od a cognitive semantic analysis of source",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2285771504,
+                    "author": [
+                        {
+                            "AuId": 2112689285,
+                            "AuN": "giovanna marotta"
+                        },
+                        {
+                            "AuId": 437040006,
+                            "AuN": "alessandro lenci"
+                        },
+                        {
+                            "AuId": 2614685849,
+                            "AuN": "margherita donati"
+                        }
+                    ],
+                    "journal": "language and cognition",
+                    "title": "an xml annotation scheme for space in an italian corpus",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2573723440,
+                    "author": [
+                        {
+                            "AuId": 1709614250,
+                            "AuN": "maja bralavukanovic"
+                        },
+                        {
+                            "AuId": 1983120389,
+                            "AuN": "anita memisevic"
+                        }
+                    ],
+                    "journal": "language and cognition",
+                    "title": "kretanje od do u hrvatskome analiza polazista ciljeva i dvojnih citanja dativa",
+                    "year_mag": 2012
+                }
+            ],
+            "journal": "educational technology & society",
+            "title": "space in language",
+            "type": "1",
+            "year_mag": 2010
+        },
+        {
+            "PId": 3105323417,
+            "title": "a proposito di dicae e faciae quint inst i 7 11 ix 4 39",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 1496321273,
+            "doi": "10.4454/SSL.V0I0.10",
+            "title": "chiara polo word order between morphology and syntax f rovai",
+            "type": "0",
+            "year_mag": 2008
+        },
+        {
+            "PId": 2588965987,
+            "title": "ancient languages between variation and norm",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2564082162,
+            "doi": "10.4454/SSL.V53I2.155",
+            "title": "introduction ancient languages between variation and norm",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2163775351,
+            "doi": "10.1417/79951",
+            "journal": "lingua e stile",
+            "title": "origins and development of anteposito except for in documents from longobard italy",
+            "type": "1",
+            "year_mag": 2015
+        }
+    ]
+}

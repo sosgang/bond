@@ -1,0 +1,333 @@
+{
+    "AuIds": [
+        2105230053
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 3,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 531,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 10,
+            "comm_other": 4190,
+            "other_cand": 0,
+            "other_comm": 4965
+        },
+        "other_nodes": 6268
+    },
+    "coverage": {
+        "articles": 5,
+        "books": 1,
+        "cov_sect": "C",
+        "other_pubbs": 8,
+        "pubbs": 10,
+        "pubbs_found": 2,
+        "pubbs_ind": 10,
+        "pubbs_ind_found": 2,
+        "total_extra_found": 3,
+        "total_found": 2,
+        "total_pubbs": 14
+    },
+    "fullname": [
+        "Conforti",
+        "Emilia"
+    ],
+    "ind_anvur": [
+        9,
+        1,
+        1,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "978-88-255-0891-8"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "title": "la parlata arbereshe di san benedetto ullano",
+            "type": "monografia o trattato scientifico",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "2239-0367"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "110.1285/I22390359V19P135",
+            "journal": "LINGUE E LINGUAGGI",
+            "title": "osservazioni sulla varieta linguistica scritta dei kosovari su facebook ",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "title": "shkrimtaret italiane per romanin gjin bardhela i arbresh etja e gurezuar ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "4"
+            },
+            "title": "gli italianismi nell arberesh di alcune comunita albanofone della calabria",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "1948-5425"
+            ],
+            "PId": 1606149050,
+            "cited": [
+                {
+                    "PId": 2492428822,
+                    "author": [
+                        {
+                            "AuId": 127823669,
+                            "AuN": "janet b pierrehumbert"
+                        }
+                    ],
+                    "title": "word specific phonetics",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2011872737,
+                    "author": [
+                        {
+                            "AuId": 2236764782,
+                            "AuN": "joseph h greenberg"
+                        }
+                    ],
+                    "doi": "10.1126/SCIENCE.130.3383.1165",
+                    "journal": "science",
+                    "title": "current trends in linguistics",
+                    "year_mag": 1959
+                },
+                {
+                    "PId": 2052368577,
+                    "author": [
+                        {
+                            "AuId": 2119992286,
+                            "AuN": "john m anderson"
+                        }
+                    ],
+                    "doi": "10.1111/J.0039-3193.2004.00117.X",
+                    "journal": "studia linguistica",
+                    "title": "contrast in phonology structural analogy and the interfaces",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2283498416,
+                    "author": [
+                        {
+                            "AuId": 2017269252,
+                            "AuN": "giuseppina turano"
+                        },
+                        {
+                            "AuId": 2765545377,
+                            "AuN": "belluscio giovanni"
+                        }
+                    ],
+                    "title": "il vocalismo tonico della parlata arbereshe di s nicola dell alto",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2331037079,
+                    "author": [
+                        {
+                            "AuId": 2335769813,
+                            "AuN": "g s lowman"
+                        }
+                    ],
+                    "doi": "10.2307/408833",
+                    "journal": "language",
+                    "title": "the phonetics of albanian",
+                    "year_mag": 1932
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.5296/IJL.V7I3.7875",
+            "journal": "INTERNATIONAL JOURNAL OF LINGUISTICS",
+            "title": "phonology in italo albanian dialect san benedetto ullano province of cosenza italy",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9789928051868"
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "title": "per una bibliografia ragionata della produzione scientifica del prof francesco altimari",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "title": "multipart singing in paraliturgical music kalimere in the calabrian arberesh communities of san benedetto ullano and san basile",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "title": "rreth natyres dhe statusit te sonantes j ne shqip krahasuar me italishten",
+            "type": "contributo in atti di convegno",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "978-9951-417-761"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "10"
+            },
+            "title": "alcuni aspetti della poesia di lluka perrone",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "cv_id": {
+                "pubbs": "7"
+            },
+            "title": "zoonimi estratti da un corpus di fiabe di san benedetto ullano cs e loro attuale vitalita",
+            "type": "contributo in atti di convegno",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "1121-4015"
+            ],
+            "cv_id": {
+                "pubbs": "8"
+            },
+            "journal": "XXII",
+            "title": "l infinito nell albanese standard nel dialetto ghego e nella parlata di san benedetto ullano in provincia di cosenza romania orientale vol",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "1122-0619"
+            ],
+            "cv_id": {
+                "pubbs": "9"
+            },
+            "journal": "UNIVERSITA' DEGLI STUDI DI FIRENZE",
+            "title": "i parametri acustici dell accento nella parlata di san benedetto ullano e l albanese standard quaderni del dipartimento di linguistica",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "title": "la formazione della lingua deradiana tendenze e caratteristiche emerse dall analisi dello skanderbeku i pafan ",
+            "type": "contributo in atti di convegno",
+            "year": 2008
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2115204148,
+            "cited": [
+                {
+                    "PId": 3044348100,
+                    "author": [
+                        {
+                            "AuId": 2126675098,
+                            "AuN": "gary s becker"
+                        }
+                    ],
+                    "title": "human capital",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2080610040,
+                    "author": [
+                        {
+                            "AuId": 55433356,
+                            "AuN": "bruno bettelheim"
+                        }
+                    ],
+                    "title": "the uses of enchantment the meaning and importance of fairy tales",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 1945524409,
+                    "author": [
+                        {
+                            "AuId": 1951942164,
+                            "AuN": "erik h erikson"
+                        }
+                    ],
+                    "title": "childhood and society",
+                    "year_mag": 1950
+                },
+                {
+                    "PId": 2008453244,
+                    "author": [
+                        {
+                            "AuId": 2629472970,
+                            "AuN": "geoffrey summerfield"
+                        }
+                    ],
+                    "title": "fantasy and reason children s literature in the eighteenth century",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 2257459280,
+                    "author": [
+                        {
+                            "AuId": 2692699001,
+                            "AuN": "marcella maria mariotti"
+                        }
+                    ],
+                    "title": "letteratura per l infanzia",
+                    "year_mag": 2005
+                }
+            ],
+            "journal": "advances in language and literary studies",
+            "title": "literature society and culture in education childhood literature history",
+            "type": "1",
+            "year_mag": 2015
+        }
+    ]
+}

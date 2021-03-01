@@ -21,20 +21,11 @@ def BoND(cand_jsons_path, comm_csv_path, outcomes_path, final_path):
 
     bib_dict = adding_bib(logger, ids_dict)  # adding extra publications found in MAG
 
-    with open('bib_data.json', 'w') as bib_file:
-        json.dump(bib_dict, bib_file, sort_keys=True, indent=4)
-
     cit_dict = adding_cit(logger, bib_dict)  # adding citations for each publications
 
-    with open('bib-cit_data.json', 'w') as cit_file:
-        json.dump(cit_dict, cit_file, sort_keys=True, indent=4)
+    cov_dict = adding_cov(cit_dict)  # adding coverage section for each candidate
 
-    metrics_dict = adding_citmetrics(cit_dict)  # creating and analyzing networks, and calculating citation metrics
-
-    complete_dict = adding_cov(metrics_dict)
-
-    with open('complete_data.json', 'w') as complete_file:
-        json.dump(complete_dict, complete_file, sort_keys=True, indent=4)
+    complete_dict = adding_citmetrics(cov_dict)  # creating and analyzing networks, and calculating citation metrics
 
     with open(final_path, 'w', encoding='utf-8', newline='') as metrics_csv:
         writer = csv.writer(metrics_csv)
@@ -75,18 +66,6 @@ def BoND(cand_jsons_path, comm_csv_path, outcomes_path, final_path):
                                              info["ind_anvur"][3]))
 
 
-'''
-Need commissions' data in a csv with rows: asn_year, field, id, surname, name, pub_id, title, doi
-Need candidates' cv data in a series of folders:
-- asn sessions folders named: "2016" and "2018"
-- terms folders named: term1
-- role folders named: "FP" and "AP"
-- recruitment field folders
-- in rf folders, candidate jsons named: 0000_surname_name.json
-Need outcomes data for all candidates
+cv_jsons_folder = "C:\\Users\\Federica\\PycharmProjects\\assegno\\cv_jsons"
 
-How can we get commission data?
-'''
-
-BoND("C:\\Users\\Federica\\PycharmProjects\\assegno\\cv_jsons", "commissions.csv", "indicatoriCalcolati-ASN16-18.tsv",
-     "complete_metrics.csv")
+BoND(cv_jsons_folder, "commissions.csv", "indicatoriCalcolati-ASN16-18.tsv", "complete_metrics.csv")

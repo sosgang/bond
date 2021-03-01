@@ -1,0 +1,4019 @@
+{
+    "AuIds": [
+        2206927925
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "1485718242_+_2573800670": 2,
+                "1988198121_+_2573800670": 1,
+                "2034143264_+_2573800670": 1,
+                "2113143384_+_2573800670": 2,
+                "2216590274_+_1588153103": 1,
+                "2216590274_+_2467119729": 1,
+                "2338700741_+_1588153103": 1,
+                "2338700741_+_2467119729": 1
+            },
+            "number": 3
+        },
+        "cand_nodes": 14,
+        "cand_paths": {},
+        "cc": {
+            "articles": {
+                "1892127699_+_2005997141": 1,
+                "1892127699_+_2009313082": 1,
+                "1892127699_+_2022155489": 1
+            },
+            "number": 1
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 337,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 164,
+            "comm_other": 3659,
+            "other_cand": 39,
+            "other_comm": 1556
+        },
+        "other_nodes": 3697
+    },
+    "coverage": {
+        "articles": 8,
+        "books": 0,
+        "cov_sect": "A",
+        "other_pubbs": 2,
+        "pubbs": 10,
+        "pubbs_found": 10,
+        "pubbs_ind": 9,
+        "pubbs_ind_found": 9,
+        "total_extra_found": 14,
+        "total_found": 10,
+        "total_pubbs": 10
+    },
+    "fullname": [
+        "Biancardi",
+        "Marta Elena"
+    ],
+    "ind_anvur": [
+        7,
+        2,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0165-0114"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1016/J.FSS.2016.10-013",
+            "journal": "FUZZY SETS AND SYSTEMS",
+            "title": "a fuzzy approach for r d compound option valuation",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0927-7099"
+            ],
+            "PId": 2338700741,
+            "cited": [
+                {
+                    "PId": 2126311658,
+                    "author": [
+                        {
+                            "AuId": 2094402528,
+                            "AuN": "francis a longstaff"
+                        },
+                        {
+                            "AuId": 2154760292,
+                            "AuN": "eduardo s schwartz"
+                        },
+                        {
+                            "AuId": 2154760292,
+                            "AuN": "eduardo s schwartz"
+                        },
+                        {
+                            "AuId": 2154760292,
+                            "AuN": "eduardo s schwartz"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/14.1.113",
+                    "journal": "review of financial studies",
+                    "title": "valuing american options by simulation a simple least squares approach",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2072274284,
+                    "author": [
+                        {
+                            "AuId": 2136813190,
+                            "AuN": "emmanuelle clement"
+                        },
+                        {
+                            "AuId": 2888688257,
+                            "AuN": "damien lamberton"
+                        },
+                        {
+                            "AuId": 2036213059,
+                            "AuN": "philip protter"
+                        }
+                    ],
+                    "doi": "10.1007/S007800200071",
+                    "journal": "finance and stochastics",
+                    "title": "an analysis of a least squares regression method for american option pricing",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1994130890,
+                    "author": [
+                        {
+                            "AuId": 2255122984,
+                            "AuN": "dirk becherer"
+                        },
+                        {
+                            "AuId": 2083662207,
+                            "AuN": "martin schweizer"
+                        }
+                    ],
+                    "doi": "10.1214/105051604000000846",
+                    "journal": "annals of applied probability",
+                    "title": "classical solutions to reaction diffusion systems for hedging problems with interacting ito and point processes",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1593163246,
+                    "author": [
+                        {
+                            "AuId": 84406622,
+                            "AuN": "lenos trigeorgis"
+                        }
+                    ],
+                    "title": "real options in capital investment models strategies and applications",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 3021478417,
+                    "author": [
+                        {
+                            "AuId": 287498323,
+                            "AuN": "danny cassimon"
+                        },
+                        {
+                            "AuId": 2194585930,
+                            "AuN": "peterjan engelen"
+                        },
+                        {
+                            "AuId": 2075928294,
+                            "AuN": "vilimir yordanov"
+                        }
+                    ],
+                    "doi": "10.1016/J.TECHNOVATION.2010.12.004",
+                    "journal": "technovation",
+                    "title": "compound real option valuation with phase specific volatility a multi phase mobile payments case study",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2082813923,
+                    "author": [
+                        {
+                            "AuId": 2949518647,
+                            "AuN": "manuel moreno"
+                        },
+                        {
+                            "AuId": 2111958782,
+                            "AuN": "javier f navas"
+                        }
+                    ],
+                    "doi": "10.1023/A:1027340210935",
+                    "journal": "review of derivatives research",
+                    "title": "on the robustness of least squares monte carlo lsm for pricing american derivatives",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2170347140,
+                    "author": [
+                        {
+                            "AuId": 2041961774,
+                            "AuN": "nelson areal"
+                        },
+                        {
+                            "AuId": 2191312292,
+                            "AuN": "artur rodrigues"
+                        },
+                        {
+                            "AuId": 2201138029,
+                            "AuN": "manuel jose da rocha armada"
+                        }
+                    ],
+                    "doi": "10.1007/S11147-008-9026-X",
+                    "journal": "review of derivatives research",
+                    "title": "on improving the least squares monte carlo option valuation method",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2021718820,
+                    "author": [
+                        {
+                            "AuId": 2099140124,
+                            "AuN": "jinqiang yang"
+                        },
+                        {
+                            "AuId": 2128279706,
+                            "AuN": "zhaojun yang"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-011-9289-4",
+                    "journal": "computing in economics and finance",
+                    "title": "consumption utility based pricing and timing of the option to invest with partial information",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2182379505,
+                    "author": [
+                        {
+                            "AuId": 2041961774,
+                            "AuN": "nelson areal"
+                        },
+                        {
+                            "AuId": 2191312292,
+                            "AuN": "artur rodrigues"
+                        },
+                        {
+                            "AuId": 2201138029,
+                            "AuN": "manuel jose da rocha armada"
+                        }
+                    ],
+                    "title": "improvements to the least squares monte carlo option valuation method",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2091460158,
+                    "author": [
+                        {
+                            "AuId": 70225573,
+                            "AuN": "rainer andergassen"
+                        },
+                        {
+                            "AuId": 1891556835,
+                            "AuN": "luigi sereno"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-011-9273-Z",
+                    "journal": "computing in economics and finance",
+                    "title": "valuation of n stage investments under jump diffusion processes",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2216590274,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2573926553,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-05014-0_6",
+                    "title": "a robustness analysis of least squares monte carlo for r d real options valuation",
+                    "year_mag": 2014
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2900901405,
+                    "author": [
+                        {
+                            "AuId": 2900930309,
+                            "AuN": "jianhua zhou"
+                        },
+                        {
+                            "AuId": 2901147702,
+                            "AuN": "fengchong lan"
+                        },
+                        {
+                            "AuId": 2901413513,
+                            "AuN": "jiqing chen"
+                        },
+                        {
+                            "AuId": 2900626608,
+                            "AuN": "fanjie lai"
+                        }
+                    ],
+                    "doi": "10.1007/S42154-018-0041-9",
+                    "title": "uncertainty optimization design of a vehicle body structure considering random deviations",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2893654350,
+                    "author": [
+                        {
+                            "AuId": 3008536876,
+                            "AuN": "pierre rostan"
+                        },
+                        {
+                            "AuId": 2303880474,
+                            "AuN": "alexandra rostan"
+                        },
+                        {
+                            "AuId": 327328478,
+                            "AuN": "francoiseric racicot"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-018-9828-3",
+                    "title": "increment variance reduction techniques with an application to multi name credit derivatives",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2902406597,
+                    "author": [
+                        {
+                            "AuId": 2644086619,
+                            "AuN": "wei wu"
+                        },
+                        {
+                            "AuId": 2700821017,
+                            "AuN": "boqiang lin"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-018-9872-Z",
+                    "title": "reducing overcapacity in china s coal industry a real option approach",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2597987028,
+                    "author": [
+                        {
+                            "AuId": 2776253861,
+                            "AuN": "mahsa montajabiha"
+                        },
+                        {
+                            "AuId": 1966621147,
+                            "AuN": "alireza arshadi khamseh"
+                        },
+                        {
+                            "AuId": 106167471,
+                            "AuN": "behrouz afsharnadjafi"
+                        }
+                    ],
+                    "doi": "10.1108/IJMPB-12-2015-0114",
+                    "title": "a robust algorithm for project portfolio selection problem using real options valuation",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1007/S10614-016-9578-Z",
+            "journal": "COMPUTATIONAL ECONOMICS",
+            "title": "robust monte carlo method for r d real option valuation",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0960-0779"
+            ],
+            "PId": 1168278373,
+            "cited": [
+                {
+                    "PId": 2114872958,
+                    "author": [
+                        {
+                            "AuId": 2602984152,
+                            "AuN": "scott barrett"
+                        }
+                    ],
+                    "doi": "10.1093/OEP/46.SUPPLEMENT_1.878",
+                    "title": "self enforcing international environmental agreements",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2021771057,
+                    "author": [
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        },
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        },
+                        {
+                            "AuId": 1843231303,
+                            "AuN": "domenico siniscalco"
+                        },
+                        {
+                            "AuId": 1843231303,
+                            "AuN": "domenico siniscalco"
+                        }
+                    ],
+                    "doi": "10.1016/0047-2727(93)90037-T",
+                    "journal": "journal of public economics",
+                    "title": "strategies for the international protection of the environment",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2007140742,
+                    "author": [
+                        {
+                            "AuId": 2121259354,
+                            "AuN": "santiago j rubio"
+                        },
+                        {
+                            "AuId": 521901069,
+                            "AuN": "alistair ulph"
+                        }
+                    ],
+                    "doi": "10.1093/OEP/GPL002",
+                    "title": "self enforcing international environmental agreements revisited",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1596399261,
+                    "author": [
+                        {
+                            "AuId": 2200844341,
+                            "AuN": "michael hoel"
+                        }
+                    ],
+                    "doi": "10.1007/BF00338240",
+                    "journal": "environmental and resource economics",
+                    "title": "international environment conventions the case of uniform reductions of emissions",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2099349282,
+                    "author": [
+                        {
+                            "AuId": 2003683673,
+                            "AuN": "matthew mcginty"
+                        }
+                    ],
+                    "doi": "10.1093/OEP/GPL028",
+                    "title": "international environmental agreements among asymmetric nations",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2080810167,
+                    "author": [
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        },
+                        {
+                            "AuId": 1985605714,
+                            "AuN": "johan eyckmans"
+                        },
+                        {
+                            "AuId": 1985605714,
+                            "AuN": "johan eyckmans"
+                        },
+                        {
+                            "AuId": 134140563,
+                            "AuN": "michael finus"
+                        },
+                        {
+                            "AuId": 134140563,
+                            "AuN": "michael finus"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.702761",
+                    "journal": "review of international organizations",
+                    "title": "optimal transfers and participation decisions in international environmental agreements",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1971618393,
+                    "author": [
+                        {
+                            "AuId": 2660327183,
+                            "AuN": "cristina fuentesalbero"
+                        },
+                        {
+                            "AuId": 2121259354,
+                            "AuN": "santiago j rubio"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2009.05.006",
+                    "journal": "european journal of operational research",
+                    "title": "can international environmental cooperation be bought",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1988799666,
+                    "author": [
+                        {
+                            "AuId": 2602984152,
+                            "AuN": "scott barrett"
+                        }
+                    ],
+                    "doi": "10.1016/S0014-2921(01)00082-4",
+                    "journal": "european economic review",
+                    "title": "international cooperation for sale",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2085350202,
+                    "author": [
+                        {
+                            "AuId": 2044401612,
+                            "AuN": "claude daspremont"
+                        },
+                        {
+                            "AuId": 2620012045,
+                            "AuN": "alexis jacquemin"
+                        },
+                        {
+                            "AuId": 1965321452,
+                            "AuN": "jean jaskold gabszewicz"
+                        },
+                        {
+                            "AuId": 1433979033,
+                            "AuN": "john a weymark"
+                        }
+                    ],
+                    "doi": "10.2307/134972",
+                    "journal": "canadian journal of economics",
+                    "title": "on the stability of collusive price leadership",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2112463912,
+                    "author": [
+                        {
+                            "AuId": 236078929,
+                            "AuN": "effrosyni diamantoudi"
+                        },
+                        {
+                            "AuId": 1837488107,
+                            "AuN": "eftichios s sartzetakis"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.291966",
+                    "journal": "journal of public economic theory",
+                    "title": "stable international environmental agreements an analytical approach",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1978977828,
+                    "author": [
+                        {
+                            "AuId": 2297198299,
+                            "AuN": "michele breton"
+                        },
+                        {
+                            "AuId": 2133858359,
+                            "AuN": "lucia sbragia"
+                        },
+                        {
+                            "AuId": 2226324727,
+                            "AuN": "georges zaccour"
+                        }
+                    ],
+                    "doi": "10.1007/S10640-009-9304-6",
+                    "journal": "environmental and resource economics",
+                    "title": "a dynamic model for international environmental agreements",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2106098151,
+                    "author": [
+                        {
+                            "AuId": 2150286337,
+                            "AuN": "aart de zeeuw"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.688961",
+                    "journal": "journal of environmental economics and management",
+                    "title": "dynamic effects on the stability of international environmental agreements",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2013454844,
+                    "author": [
+                        {
+                            "AuId": 2121259354,
+                            "AuN": "santiago j rubio"
+                        },
+                        {
+                            "AuId": 521901069,
+                            "AuN": "alistair ulph"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEEM.2007.02.004",
+                    "journal": "journal of environmental economics and management",
+                    "title": "an infinite horizon model of dynamic membership of international environmental agreements",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2025686512,
+                    "author": [
+                        {
+                            "AuId": 2641724128,
+                            "AuN": "yulia pavlova"
+                        },
+                        {
+                            "AuId": 2150286337,
+                            "AuN": "aart de zeeuw"
+                        }
+                    ],
+                    "doi": "10.1017/S1355770X12000289",
+                    "journal": "environment and development economics",
+                    "title": "asymmetries in international environmental agreements",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2109953473,
+                    "author": [
+                        {
+                            "AuId": 2200844341,
+                            "AuN": "michael hoel"
+                        },
+                        {
+                            "AuId": 2129631096,
+                            "AuN": "kerstin schneider"
+                        }
+                    ],
+                    "doi": "10.1007/BF02441376",
+                    "journal": "environmental and resource economics",
+                    "title": "incentives to participate in an international environmental agreement",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2112460930,
+                    "author": [
+                        {
+                            "AuId": 1985605714,
+                            "AuN": "johan eyckmans"
+                        },
+                        {
+                            "AuId": 134140563,
+                            "AuN": "michael finus"
+                        }
+                    ],
+                    "doi": "10.1111/J.1939-7445.2006.TB00184.X",
+                    "journal": "natural resource modeling",
+                    "title": "coalition formation in a global warming game how the design of protocols affects the success of environmental treaty making",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2107651530,
+                    "author": [
+                        {
+                            "AuId": 304799341,
+                            "AuN": "dritan osmani"
+                        },
+                        {
+                            "AuId": 2144174086,
+                            "AuN": "richard s j tol"
+                        },
+                        {
+                            "AuId": 2144174086,
+                            "AuN": "richard s j tol"
+                        },
+                        {
+                            "AuId": 2144174086,
+                            "AuN": "richard s j tol"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-010-9232-0",
+                    "journal": "computational economics",
+                    "title": "the case of two self enforcing international agreements for environmental protection with asymmetric countries",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1511307713,
+                    "author": [
+                        {
+                            "AuId": 541059431,
+                            "AuN": "maryse labriet"
+                        },
+                        {
+                            "AuId": 2016782495,
+                            "AuN": "richard loulou"
+                        }
+                    ],
+                    "doi": "10.1023/A:1025503525777",
+                    "journal": "environmental modeling & assessment",
+                    "title": "coupling climate damages and ghg abatement costs in a linear programming framework",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2123288821,
+                    "author": [
+                        {
+                            "AuId": 2104857512,
+                            "AuN": "emilio calvo"
+                        },
+                        {
+                            "AuId": 2121259354,
+                            "AuN": "santiago j rubio"
+                        }
+                    ],
+                    "doi": "10.1561/101.00000053",
+                    "journal": "international review of environmental and resource economics",
+                    "title": "dynamic models of international environmental agreements a differential game approach",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2793850049,
+                    "author": [
+                        {
+                            "AuId": 3000474174,
+                            "AuN": "todd l cherry"
+                        },
+                        {
+                            "AuId": 2070506026,
+                            "AuN": "jon hovi"
+                        },
+                        {
+                            "AuId": 1983099343,
+                            "AuN": "david m mcevoy"
+                        }
+                    ],
+                    "doi": "10.4324/9780203080009",
+                    "title": "toward a new climate agreement conflict resolution and governance",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2021766998,
+                    "author": [
+                        {
+                            "AuId": 2121259354,
+                            "AuN": "santiago j rubio"
+                        },
+                        {
+                            "AuId": 2339263283,
+                            "AuN": "begona casino"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.461500",
+                    "journal": "spanish economic review",
+                    "title": "self enforcing international environmental agreements with a stock pollutant",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1988198121,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2573926553,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-010-9197-Z",
+                    "journal": "computing in economics and finance",
+                    "title": "international environmental agreements with asymmetric countries",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2062034709,
+                    "author": [
+                        {
+                            "AuId": 2216364925,
+                            "AuN": "nahid masoudi"
+                        },
+                        {
+                            "AuId": 2226324727,
+                            "AuN": "georges zaccour"
+                        }
+                    ],
+                    "doi": "10.1017/S1355770X13000399",
+                    "journal": "environment and development economics",
+                    "title": "a differential game of international pollution control with evolving environmental costs",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1971835376,
+                    "author": [
+                        {
+                            "AuId": 2556101069,
+                            "AuN": "porchiung benjamin chou"
+                        },
+                        {
+                            "AuId": 2613358336,
+                            "AuN": "cheickna sylla"
+                        }
+                    ],
+                    "doi": "10.1007/S10784-008-9082-6",
+                    "journal": "international environmental agreements politics law and economics",
+                    "title": "the formation of an international environmental agreement as a two stage exclusive cartel formation game with transferable utilities",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1567671390,
+                    "author": [
+                        {
+                            "AuId": 2591151123,
+                            "AuN": "a ruis"
+                        },
+                        {
+                            "AuId": 2696637166,
+                            "AuN": "a j de zeeuw"
+                        }
+                    ],
+                    "title": "international cooperation to combat climate change",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2099655050,
+                    "author": [
+                        {
+                            "AuId": 2200844341,
+                            "AuN": "michael hoel"
+                        },
+                        {
+                            "AuId": 2200844341,
+                            "AuN": "michael hoel"
+                        },
+                        {
+                            "AuId": 2150286337,
+                            "AuN": "aart de zeeuw"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2214811",
+                    "title": "technology agreements with heterogeneous countries",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1892127699,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2573926553,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1111/NRM.12037",
+                    "journal": "natural resource modeling",
+                    "title": "international environmental agreements with developed and developing countries in a dynamic approach",
+                    "year_mag": 2014
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2730372469,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2496955434,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1016/J.CNSNS.2017.06.034",
+                    "journal": "communications in nonlinear science and numerical simulation",
+                    "title": "sharing r d investments in international environmental agreements with asymmetric countries",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2896922794,
+                    "author": [
+                        {
+                            "AuId": 2496955434,
+                            "AuN": "giovanni villani"
+                        },
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-018-9860-3",
+                    "journal": "communications in nonlinear science and numerical simulation",
+                    "title": "an evolutionary game approach in international environmental agreements with r d investments",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1016/J.CHAOS.2015.07.026",
+            "journal": "CHAOS",
+            "title": "the effects of r d investments in international environmental agreements with asymmetric countries",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0890-8575"
+            ],
+            "PId": 1892127699,
+            "cited": [
+                {
+                    "PId": 2114872958,
+                    "author": [
+                        {
+                            "AuId": 2602984152,
+                            "AuN": "scott barrett"
+                        }
+                    ],
+                    "doi": "10.1093/OEP/46.SUPPLEMENT_1.878",
+                    "title": "self enforcing international environmental agreements",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2021771057,
+                    "author": [
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        },
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        },
+                        {
+                            "AuId": 1843231303,
+                            "AuN": "domenico siniscalco"
+                        },
+                        {
+                            "AuId": 1843231303,
+                            "AuN": "domenico siniscalco"
+                        }
+                    ],
+                    "doi": "10.1016/0047-2727(93)90037-T",
+                    "journal": "journal of public economics",
+                    "title": "strategies for the international protection of the environment",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2007140742,
+                    "author": [
+                        {
+                            "AuId": 2121259354,
+                            "AuN": "santiago j rubio"
+                        },
+                        {
+                            "AuId": 521901069,
+                            "AuN": "alistair ulph"
+                        }
+                    ],
+                    "doi": "10.1093/OEP/GPL002",
+                    "title": "self enforcing international environmental agreements revisited",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1596399261,
+                    "author": [
+                        {
+                            "AuId": 2200844341,
+                            "AuN": "michael hoel"
+                        }
+                    ],
+                    "doi": "10.1007/BF00338240",
+                    "journal": "environmental and resource economics",
+                    "title": "international environment conventions the case of uniform reductions of emissions",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2099349282,
+                    "author": [
+                        {
+                            "AuId": 2003683673,
+                            "AuN": "matthew mcginty"
+                        }
+                    ],
+                    "doi": "10.1093/OEP/GPL028",
+                    "title": "international environmental agreements among asymmetric nations",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1971618393,
+                    "author": [
+                        {
+                            "AuId": 2660327183,
+                            "AuN": "cristina fuentesalbero"
+                        },
+                        {
+                            "AuId": 2121259354,
+                            "AuN": "santiago j rubio"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2009.05.006",
+                    "journal": "european journal of operational research",
+                    "title": "can international environmental cooperation be bought",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1988799666,
+                    "author": [
+                        {
+                            "AuId": 2602984152,
+                            "AuN": "scott barrett"
+                        }
+                    ],
+                    "doi": "10.1016/S0014-2921(01)00082-4",
+                    "journal": "european economic review",
+                    "title": "international cooperation for sale",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2085350202,
+                    "author": [
+                        {
+                            "AuId": 2044401612,
+                            "AuN": "claude daspremont"
+                        },
+                        {
+                            "AuId": 2620012045,
+                            "AuN": "alexis jacquemin"
+                        },
+                        {
+                            "AuId": 1965321452,
+                            "AuN": "jean jaskold gabszewicz"
+                        },
+                        {
+                            "AuId": 1433979033,
+                            "AuN": "john a weymark"
+                        }
+                    ],
+                    "doi": "10.2307/134972",
+                    "journal": "canadian journal of economics",
+                    "title": "on the stability of collusive price leadership",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 1978977828,
+                    "author": [
+                        {
+                            "AuId": 2297198299,
+                            "AuN": "michele breton"
+                        },
+                        {
+                            "AuId": 2133858359,
+                            "AuN": "lucia sbragia"
+                        },
+                        {
+                            "AuId": 2226324727,
+                            "AuN": "georges zaccour"
+                        }
+                    ],
+                    "doi": "10.1007/S10640-009-9304-6",
+                    "journal": "environmental and resource economics",
+                    "title": "a dynamic model for international environmental agreements",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2106098151,
+                    "author": [
+                        {
+                            "AuId": 2150286337,
+                            "AuN": "aart de zeeuw"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.688961",
+                    "journal": "journal of environmental economics and management",
+                    "title": "dynamic effects on the stability of international environmental agreements",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2013454844,
+                    "author": [
+                        {
+                            "AuId": 2121259354,
+                            "AuN": "santiago j rubio"
+                        },
+                        {
+                            "AuId": 521901069,
+                            "AuN": "alistair ulph"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEEM.2007.02.004",
+                    "journal": "journal of environmental economics and management",
+                    "title": "an infinite horizon model of dynamic membership of international environmental agreements",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2025686512,
+                    "author": [
+                        {
+                            "AuId": 2641724128,
+                            "AuN": "yulia pavlova"
+                        },
+                        {
+                            "AuId": 2150286337,
+                            "AuN": "aart de zeeuw"
+                        }
+                    ],
+                    "doi": "10.1017/S1355770X12000289",
+                    "journal": "environment and development economics",
+                    "title": "asymmetries in international environmental agreements",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2109953473,
+                    "author": [
+                        {
+                            "AuId": 2200844341,
+                            "AuN": "michael hoel"
+                        },
+                        {
+                            "AuId": 2129631096,
+                            "AuN": "kerstin schneider"
+                        }
+                    ],
+                    "doi": "10.1007/BF02441376",
+                    "journal": "environmental and resource economics",
+                    "title": "incentives to participate in an international environmental agreement",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2107651530,
+                    "author": [
+                        {
+                            "AuId": 304799341,
+                            "AuN": "dritan osmani"
+                        },
+                        {
+                            "AuId": 2144174086,
+                            "AuN": "richard s j tol"
+                        },
+                        {
+                            "AuId": 2144174086,
+                            "AuN": "richard s j tol"
+                        },
+                        {
+                            "AuId": 2144174086,
+                            "AuN": "richard s j tol"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-010-9232-0",
+                    "journal": "computational economics",
+                    "title": "the case of two self enforcing international agreements for environmental protection with asymmetric countries",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1511307713,
+                    "author": [
+                        {
+                            "AuId": 541059431,
+                            "AuN": "maryse labriet"
+                        },
+                        {
+                            "AuId": 2016782495,
+                            "AuN": "richard loulou"
+                        }
+                    ],
+                    "doi": "10.1023/A:1025503525777",
+                    "journal": "environmental modeling & assessment",
+                    "title": "coupling climate damages and ghg abatement costs in a linear programming framework",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2024856831,
+                    "author": [
+                        {
+                            "AuId": 2386911765,
+                            "AuN": "nicole glanemann"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2011.08.005",
+                    "journal": "european journal of operational research",
+                    "title": "can international environmental cooperation be bought comment",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2123288821,
+                    "author": [
+                        {
+                            "AuId": 2104857512,
+                            "AuN": "emilio calvo"
+                        },
+                        {
+                            "AuId": 2121259354,
+                            "AuN": "santiago j rubio"
+                        }
+                    ],
+                    "doi": "10.1561/101.00000053",
+                    "journal": "international review of environmental and resource economics",
+                    "title": "dynamic models of international environmental agreements a differential game approach",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2021766998,
+                    "author": [
+                        {
+                            "AuId": 2121259354,
+                            "AuN": "santiago j rubio"
+                        },
+                        {
+                            "AuId": 2339263283,
+                            "AuN": "begona casino"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.461500",
+                    "journal": "spanish economic review",
+                    "title": "self enforcing international environmental agreements with a stock pollutant",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1988198121,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2573926553,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-010-9197-Z",
+                    "journal": "computing in economics and finance",
+                    "title": "international environmental agreements with asymmetric countries",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1971835376,
+                    "author": [
+                        {
+                            "AuId": 2556101069,
+                            "AuN": "porchiung benjamin chou"
+                        },
+                        {
+                            "AuId": 2613358336,
+                            "AuN": "cheickna sylla"
+                        }
+                    ],
+                    "doi": "10.1007/S10784-008-9082-6",
+                    "journal": "international environmental agreements politics law and economics",
+                    "title": "the formation of an international environmental agreement as a two stage exclusive cartel formation game with transferable utilities",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2091510786,
+                    "author": [
+                        {
+                            "AuId": 1979429815,
+                            "AuN": "o l mangasarian"
+                        }
+                    ],
+                    "doi": "10.1137/0304013",
+                    "journal": "siam journal on control",
+                    "title": "sufficient conditions for the optimal control of nonlinear systems",
+                    "year_mag": 1966
+                },
+                {
+                    "PId": 2113143384,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-04023-8_5",
+                    "title": "international environmental agreement a dynamical model of emissions reduction",
+                    "year_mag": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Barnett",
+                            "given": "Vic",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1002/0470024747",
+                    "title": "environmental statistics",
+                    "year_oc": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Rubio",
+                            "given": "Santiago J.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Casino",
+                            "given": "Bego\u00f1a",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S10108-005-0098-6",
+                    "title": "self enforcing international environmental agreements with a stock pollutant",
+                    "year_oc": 2005
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Carraro",
+                            "given": "Carlo",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Eyckmans",
+                            "given": "Johan",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Finus",
+                            "given": "Michael",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S11558-006-0162-5",
+                    "title": "optimal transfers and participation decisions in international environmental agreements",
+                    "year_oc": 2006
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "de Zeeuw",
+                            "given": "Aart",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEEM.2007.06.003",
+                    "title": "dynamic effects on the stability of international environmental agreements",
+                    "year_oc": 2008
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "DIAMANTOUDI",
+                            "given": "EFFROSYNI",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "SARTZETAKIS",
+                            "given": "EFTICHIOS S.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9779.2006.00262.X",
+                    "title": "stable international environmental agreements an analytical approach",
+                    "year_oc": 2006
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2903693239,
+                    "author": [
+                        {
+                            "AuId": 1872803727,
+                            "AuN": "mikhail anufriev"
+                        },
+                        {
+                            "AuId": 2491286028,
+                            "AuN": "davide radi"
+                        },
+                        {
+                            "AuId": 2491286028,
+                            "AuN": "davide radi"
+                        },
+                        {
+                            "AuId": 2306911990,
+                            "AuN": "fabio tramontana"
+                        }
+                    ],
+                    "doi": "10.1007/S10203-018-0229-9",
+                    "title": "some reflections on past and future of nonlinear dynamics in economics and finance",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2805364637,
+                    "author": [
+                        {
+                            "AuId": 2764024304,
+                            "AuN": "andrea caravaggio"
+                        },
+                        {
+                            "AuId": 1047406276,
+                            "AuN": "mauro sodini"
+                        }
+                    ],
+                    "doi": "10.3389/FAMS.2018.00026",
+                    "title": "nonlinear dynamics in coevolution of economic and environmental systems",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2730372469,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2496955434,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1016/J.CNSNS.2017.06.034",
+                    "title": "sharing r d investments in international environmental agreements with asymmetric countries",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 1168278373,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2573926553,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1016/J.CHAOS.2015.07.026",
+                    "title": "the effects of r d investments in international environmental agreements with asymmetric countries",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2969479432,
+                    "author": [
+                        {
+                            "AuId": 1931838264,
+                            "AuN": "faruk bhuiyan"
+                        },
+                        {
+                            "AuId": 2120401212,
+                            "AuN": "hafij ullah"
+                        }
+                    ],
+                    "doi": "10.4018/978-1-7998-0062-0.CH001",
+                    "title": "sustainability education practices at the universities from a developing country context",
+                    "year_mag": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1111/NRM.12037",
+            "journal": "NATURAL RESOURCE MODELING",
+            "title": "international environmental agreements with developed and developing countries in a dynamic approach",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9783319050133"
+            ],
+            "PId": 2216590274,
+            "cited": [
+                {
+                    "PId": 2126311658,
+                    "author": [
+                        {
+                            "AuId": 2094402528,
+                            "AuN": "francis a longstaff"
+                        },
+                        {
+                            "AuId": 2154760292,
+                            "AuN": "eduardo s schwartz"
+                        },
+                        {
+                            "AuId": 2154760292,
+                            "AuN": "eduardo s schwartz"
+                        },
+                        {
+                            "AuId": 2154760292,
+                            "AuN": "eduardo s schwartz"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/14.1.113",
+                    "journal": "review of financial studies",
+                    "title": "valuing american options by simulation a simple least squares approach",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 395961945,
+                    "author": [
+                        {
+                            "AuId": 2122931204,
+                            "AuN": "marco corazza"
+                        },
+                        {
+                            "AuId": 2117012253,
+                            "AuN": "claudio pizzi"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-05014-0",
+                    "title": "mathematical and statistical methods for actuarial sciences and finance",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2082813923,
+                    "author": [
+                        {
+                            "AuId": 2949518647,
+                            "AuN": "manuel moreno"
+                        },
+                        {
+                            "AuId": 2111958782,
+                            "AuN": "javier f navas"
+                        }
+                    ],
+                    "doi": "10.1023/A:1027340210935",
+                    "journal": "review of derivatives research",
+                    "title": "on the robustness of least squares monte carlo lsm for pricing american derivatives",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2010654732,
+                    "author": [
+                        {
+                            "AuId": 55590195,
+                            "AuN": "flavia cortelezzi"
+                        },
+                        {
+                            "AuId": 2573926553,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-008-9157-Z",
+                    "journal": "computing in economics and finance",
+                    "title": "valuation of r d sequential exchange options using monte carlo approach",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2170347140,
+                    "author": [
+                        {
+                            "AuId": 2041961774,
+                            "AuN": "nelson areal"
+                        },
+                        {
+                            "AuId": 2191312292,
+                            "AuN": "artur rodrigues"
+                        },
+                        {
+                            "AuId": 2201138029,
+                            "AuN": "manuel jose da rocha armada"
+                        }
+                    ],
+                    "doi": "10.1007/S11147-008-9026-X",
+                    "journal": "review of derivatives research",
+                    "title": "on improving the least squares monte carlo option valuation method",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2182379505,
+                    "author": [
+                        {
+                            "AuId": 2041961774,
+                            "AuN": "nelson areal"
+                        },
+                        {
+                            "AuId": 2191312292,
+                            "AuN": "artur rodrigues"
+                        },
+                        {
+                            "AuId": 2201138029,
+                            "AuN": "manuel jose da rocha armada"
+                        }
+                    ],
+                    "title": "improvements to the least squares monte carlo option valuation method",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1591602541,
+                    "author": [
+                        {
+                            "AuId": 2573926553,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-02499-8_26",
+                    "title": "valuation of r d investment opportunities using the least squares monte carlo method",
+                    "year_mag": 2014
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2338700741,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2496955434,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-016-9578-Z",
+                    "journal": "computing in economics and finance",
+                    "title": "robust monte carlo method for r d real options valuation",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1007/978-3-319-05014-0_6",
+            "title": "a robustness analysis of least squares monte carlo for r d real options valuation",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0927-7099"
+            ],
+            "PId": 2034143264,
+            "cited": [
+                {
+                    "PId": 2114872958,
+                    "author": [
+                        {
+                            "AuId": 2602984152,
+                            "AuN": "scott barrett"
+                        }
+                    ],
+                    "doi": "10.1093/OEP/46.SUPPLEMENT_1.878",
+                    "title": "self enforcing international environmental agreements",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2021771057,
+                    "author": [
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        },
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        },
+                        {
+                            "AuId": 1843231303,
+                            "AuN": "domenico siniscalco"
+                        },
+                        {
+                            "AuId": 1843231303,
+                            "AuN": "domenico siniscalco"
+                        }
+                    ],
+                    "doi": "10.1016/0047-2727(93)90037-T",
+                    "journal": "journal of public economics",
+                    "title": "strategies for the international protection of the environment",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2084161320,
+                    "author": [
+                        {
+                            "AuId": 2097416649,
+                            "AuN": "debraj ray"
+                        },
+                        {
+                            "AuId": 2097416649,
+                            "AuN": "debraj ray"
+                        },
+                        {
+                            "AuId": 2047723033,
+                            "AuN": "rajiv vohra"
+                        },
+                        {
+                            "AuId": 2047723033,
+                            "AuN": "rajiv vohra"
+                        }
+                    ],
+                    "doi": "10.1006/JETH.1996.2236",
+                    "journal": "journal of economic theory",
+                    "title": "equilibrium binding agreements",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1581606349,
+                    "author": [
+                        {
+                            "AuId": 165931236,
+                            "AuN": "michael sukyoung chwe"
+                        }
+                    ],
+                    "doi": "10.1006/JETH.1994.1044",
+                    "journal": "journal of economic theory",
+                    "title": "farsighted coalitional stability",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2007140742,
+                    "author": [
+                        {
+                            "AuId": 2121259354,
+                            "AuN": "santiago j rubio"
+                        },
+                        {
+                            "AuId": 521901069,
+                            "AuN": "alistair ulph"
+                        }
+                    ],
+                    "doi": "10.1093/OEP/GPL002",
+                    "title": "self enforcing international environmental agreements revisited",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1596399261,
+                    "author": [
+                        {
+                            "AuId": 2200844341,
+                            "AuN": "michael hoel"
+                        }
+                    ],
+                    "doi": "10.1007/BF00338240",
+                    "journal": "environmental and resource economics",
+                    "title": "international environment conventions the case of uniform reductions of emissions",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2085350202,
+                    "author": [
+                        {
+                            "AuId": 2044401612,
+                            "AuN": "claude daspremont"
+                        },
+                        {
+                            "AuId": 2620012045,
+                            "AuN": "alexis jacquemin"
+                        },
+                        {
+                            "AuId": 1965321452,
+                            "AuN": "jean jaskold gabszewicz"
+                        },
+                        {
+                            "AuId": 1433979033,
+                            "AuN": "john a weymark"
+                        }
+                    ],
+                    "doi": "10.2307/134972",
+                    "journal": "canadian journal of economics",
+                    "title": "on the stability of collusive price leadership",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2112463912,
+                    "author": [
+                        {
+                            "AuId": 236078929,
+                            "AuN": "effrosyni diamantoudi"
+                        },
+                        {
+                            "AuId": 1837488107,
+                            "AuN": "eftichios s sartzetakis"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.291966",
+                    "journal": "journal of public economic theory",
+                    "title": "stable international environmental agreements an analytical approach",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2132005351,
+                    "author": [
+                        {
+                            "AuId": 2111956930,
+                            "AuN": "licun xue"
+                        }
+                    ],
+                    "doi": "10.1007/S001990050204",
+                    "journal": "economic theory",
+                    "title": "coalitional stability under perfect foresight",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2106098151,
+                    "author": [
+                        {
+                            "AuId": 2150286337,
+                            "AuN": "aart de zeeuw"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.688961",
+                    "journal": "journal of environmental economics and management",
+                    "title": "dynamic effects on the stability of international environmental agreements",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 591722084,
+                    "author": [
+                        {
+                            "AuId": 2629105755,
+                            "AuN": "ahmed m hussen"
+                        }
+                    ],
+                    "title": "principles of environmental economics",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2109953473,
+                    "author": [
+                        {
+                            "AuId": 2200844341,
+                            "AuN": "michael hoel"
+                        },
+                        {
+                            "AuId": 2129631096,
+                            "AuN": "kerstin schneider"
+                        }
+                    ],
+                    "doi": "10.1007/BF02441376",
+                    "journal": "environmental and resource economics",
+                    "title": "incentives to participate in an international environmental agreement",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2031523907,
+                    "author": [
+                        {
+                            "AuId": 2681350703,
+                            "AuN": "ana mauleon"
+                        },
+                        {
+                            "AuId": 530286405,
+                            "AuN": "vincent vannetelbosch"
+                        }
+                    ],
+                    "doi": "10.1007/S11238-004-2646-1",
+                    "journal": "theory and decision",
+                    "title": "farsightedness and cautiousness in coalition formation games with positive spillovers",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2107651530,
+                    "author": [
+                        {
+                            "AuId": 304799341,
+                            "AuN": "dritan osmani"
+                        },
+                        {
+                            "AuId": 2144174086,
+                            "AuN": "richard s j tol"
+                        },
+                        {
+                            "AuId": 2144174086,
+                            "AuN": "richard s j tol"
+                        },
+                        {
+                            "AuId": 2144174086,
+                            "AuN": "richard s j tol"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-010-9232-0",
+                    "journal": "computational economics",
+                    "title": "the case of two self enforcing international agreements for environmental protection with asymmetric countries",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1508585998,
+                    "author": [
+                        {
+                            "AuId": 134140563,
+                            "AuN": "michael finus"
+                        },
+                        {
+                            "AuId": 285201722,
+                            "AuN": "bianca rundshagen"
+                        }
+                    ],
+                    "doi": "10.1023/A:1005016623915",
+                    "journal": "public choice",
+                    "title": "toward a positive theory of coalition formation and endogenous instrumental choice in global pollution control",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1988198121,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2573926553,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-010-9197-Z",
+                    "journal": "computing in economics and finance",
+                    "title": "international environmental agreements with asymmetric countries",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 394042504,
+                    "author": [
+                        {
+                            "AuId": 2117948270,
+                            "AuN": "hideo konishi"
+                        },
+                        {
+                            "AuId": 1979766282,
+                            "AuN": "ping lin"
+                        }
+                    ],
+                    "journal": "keio economic studies",
+                    "title": "stable cartel with a cournot fringe in a symmetric oligopoly",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2030803566,
+                    "author": [
+                        {
+                            "AuId": 2275436674,
+                            "AuN": "m elena saiz"
+                        },
+                        {
+                            "AuId": 712328844,
+                            "AuN": "eligius m t hendrix"
+                        },
+                        {
+                            "AuId": 2275059394,
+                            "AuN": "niels j olieman"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-006-9047-1",
+                    "journal": "computing in economics and finance",
+                    "title": "on the computation of stability in multiple coalition formation games",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1551557765,
+                    "author": [
+                        {
+                            "AuId": 1985605714,
+                            "AuN": "johan eyckmans"
+                        }
+                    ],
+                    "title": "on the farsighted stability of the kyoto protocol",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 3026938011,
+                    "author": [
+                        {
+                            "AuId": 2629105755,
+                            "AuN": "ahmed m hussen"
+                        }
+                    ],
+                    "doi": "10.4324/9780203507421",
+                    "title": "principles of environmental economics an integrated economic and ecological approach",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1974644240,
+                    "author": [
+                        {
+                            "AuId": 2312107357,
+                            "AuN": "wietze lise"
+                        },
+                        {
+                            "AuId": 2144174086,
+                            "AuN": "richard s j tol"
+                        }
+                    ],
+                    "doi": "10.1007/S10784-004-1155-6",
+                    "journal": "international environmental agreements politics law and economics",
+                    "title": "attainability of international environmental agreements as a social situation",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1697516536,
+                    "author": [
+                        {
+                            "AuId": 236078929,
+                            "AuN": "effrosyni diamantoudi"
+                        },
+                        {
+                            "AuId": 1837488107,
+                            "AuN": "eftichios s sartzetakis"
+                        }
+                    ],
+                    "doi": "10.1007/S10640-017-0148-1",
+                    "journal": "environmental and resource economics",
+                    "title": "international environmental agreements the role of foresight",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 1485718242,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2556564338,
+                            "AuN": "andrea di liddo"
+                        }
+                    ],
+                    "doi": "10.1111/J.1939-7445.2010.00070.X",
+                    "journal": "natural resource modeling",
+                    "title": "the size of farsighted stable coalitions in a game of pollution abatement",
+                    "year_mag": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "de Zeeuw",
+                            "given": "Aart",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEEM.2007.06.003",
+                    "title": "dynamic effects on the stability of international environmental agreements",
+                    "year_oc": 2008
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Greenberg",
+                            "given": "Joseph",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139173759",
+                    "title": "the theory of social situations",
+                    "year_oc": 1990
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "DIAMANTOUDI",
+                            "given": "EFFROSYNI",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "SARTZETAKIS",
+                            "given": "EFTICHIOS S.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9779.2006.00262.X",
+                    "title": "stable international environmental agreements an analytical approach",
+                    "year_oc": 2006
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2792386797,
+                    "author": [
+                        {
+                            "AuId": 2046004786,
+                            "AuN": "jobst heitzig"
+                        },
+                        {
+                            "AuId": 1999770635,
+                            "AuN": "ulrike kornek"
+                        }
+                    ],
+                    "doi": "10.1038/S41558-018-0079-Z",
+                    "journal": "nature climate change",
+                    "title": "bottom up linking of carbon markets under far sighted cap coordination and reversibility",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1007/S10614-011-9285-8",
+            "journal": "COMPUTATIONAL ECONOMICS",
+            "title": "largest consistent set in international environmental agreements",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "0890-8575"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.1111/J.1939-7445.2010.00070",
+            "journal": "NATURAL RESOURCE MODELING",
+            "title": "the size of farsighted stable coalitions in a game of pollution abatement",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "0927-7099"
+            ],
+            "PId": 1988198121,
+            "cited": [
+                {
+                    "PId": 2114872958,
+                    "author": [
+                        {
+                            "AuId": 2602984152,
+                            "AuN": "scott barrett"
+                        }
+                    ],
+                    "doi": "10.1093/OEP/46.SUPPLEMENT_1.878",
+                    "title": "self enforcing international environmental agreements",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1506643520,
+                    "author": [
+                        {
+                            "AuId": 2312377009,
+                            "AuN": "william d nordhaus"
+                        },
+                        {
+                            "AuId": 2273602812,
+                            "AuN": "zili yang"
+                        }
+                    ],
+                    "journal": "the american economic review",
+                    "title": "a regional dynamic general equilibrium model of alternative climate change strategies",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2021771057,
+                    "author": [
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        },
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        },
+                        {
+                            "AuId": 1843231303,
+                            "AuN": "domenico siniscalco"
+                        },
+                        {
+                            "AuId": 1843231303,
+                            "AuN": "domenico siniscalco"
+                        }
+                    ],
+                    "doi": "10.1016/0047-2727(93)90037-T",
+                    "journal": "journal of public economics",
+                    "title": "strategies for the international protection of the environment",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2062411974,
+                    "author": [
+                        {
+                            "AuId": 1991519883,
+                            "AuN": "parkash chander"
+                        },
+                        {
+                            "AuId": 108926711,
+                            "AuN": "henry tulkens"
+                        }
+                    ],
+                    "doi": "10.1007/S001820050041",
+                    "journal": "international journal of game theory",
+                    "title": "the core of an economy with multilateral environmental externalities",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2007140742,
+                    "author": [
+                        {
+                            "AuId": 2121259354,
+                            "AuN": "santiago j rubio"
+                        },
+                        {
+                            "AuId": 521901069,
+                            "AuN": "alistair ulph"
+                        }
+                    ],
+                    "doi": "10.1093/OEP/GPL002",
+                    "title": "self enforcing international environmental agreements revisited",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1596399261,
+                    "author": [
+                        {
+                            "AuId": 2200844341,
+                            "AuN": "michael hoel"
+                        }
+                    ],
+                    "doi": "10.1007/BF00338240",
+                    "journal": "environmental and resource economics",
+                    "title": "international environment conventions the case of uniform reductions of emissions",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2099349282,
+                    "author": [
+                        {
+                            "AuId": 2003683673,
+                            "AuN": "matthew mcginty"
+                        }
+                    ],
+                    "doi": "10.1093/OEP/GPL028",
+                    "title": "international environmental agreements among asymmetric nations",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2080810167,
+                    "author": [
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        },
+                        {
+                            "AuId": 1985605714,
+                            "AuN": "johan eyckmans"
+                        },
+                        {
+                            "AuId": 1985605714,
+                            "AuN": "johan eyckmans"
+                        },
+                        {
+                            "AuId": 134140563,
+                            "AuN": "michael finus"
+                        },
+                        {
+                            "AuId": 134140563,
+                            "AuN": "michael finus"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.702761",
+                    "journal": "review of international organizations",
+                    "title": "optimal transfers and participation decisions in international environmental agreements",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1964187104,
+                    "author": [
+                        {
+                            "AuId": 1991519883,
+                            "AuN": "parkash chander"
+                        },
+                        {
+                            "AuId": 108926711,
+                            "AuN": "henry tulkens"
+                        }
+                    ],
+                    "doi": "10.1007/978-0-387-25534-7_11",
+                    "journal": "international tax and public finance",
+                    "title": "a core theoretic solution for the design of cooperative agreements on transfrontier pollution",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2085350202,
+                    "author": [
+                        {
+                            "AuId": 2044401612,
+                            "AuN": "claude daspremont"
+                        },
+                        {
+                            "AuId": 2620012045,
+                            "AuN": "alexis jacquemin"
+                        },
+                        {
+                            "AuId": 1965321452,
+                            "AuN": "jean jaskold gabszewicz"
+                        },
+                        {
+                            "AuId": 1433979033,
+                            "AuN": "john a weymark"
+                        }
+                    ],
+                    "doi": "10.2307/134972",
+                    "journal": "canadian journal of economics",
+                    "title": "on the stability of collusive price leadership",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2112463912,
+                    "author": [
+                        {
+                            "AuId": 236078929,
+                            "AuN": "effrosyni diamantoudi"
+                        },
+                        {
+                            "AuId": 1837488107,
+                            "AuN": "eftichios s sartzetakis"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.291966",
+                    "journal": "journal of public economic theory",
+                    "title": "stable international environmental agreements an analytical approach",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2106098151,
+                    "author": [
+                        {
+                            "AuId": 2150286337,
+                            "AuN": "aart de zeeuw"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.688961",
+                    "journal": "journal of environmental economics and management",
+                    "title": "dynamic effects on the stability of international environmental agreements",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2112460930,
+                    "author": [
+                        {
+                            "AuId": 1985605714,
+                            "AuN": "johan eyckmans"
+                        },
+                        {
+                            "AuId": 134140563,
+                            "AuN": "michael finus"
+                        }
+                    ],
+                    "doi": "10.1111/J.1939-7445.2006.TB00184.X",
+                    "journal": "natural resource modeling",
+                    "title": "coalition formation in a global warming game how the design of protocols affects the success of environmental treaty making",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2019199458,
+                    "author": [
+                        {
+                            "AuId": 134140563,
+                            "AuN": "michael finus"
+                        },
+                        {
+                            "AuId": 2993025441,
+                            "AuN": "ekko van ierland"
+                        },
+                        {
+                            "AuId": 238708372,
+                            "AuN": "rob dellink"
+                        }
+                    ],
+                    "doi": "10.1007/S10101-005-0009-1",
+                    "journal": "economics of governance",
+                    "title": "stability of climate coalitions in a cartel formation game",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2066630623,
+                    "author": [
+                        {
+                            "AuId": 1991519883,
+                            "AuN": "parkash chander"
+                        },
+                        {
+                            "AuId": 108926711,
+                            "AuN": "henry tulkens"
+                        }
+                    ],
+                    "doi": "10.1016/0014-2921(92)90095-E",
+                    "journal": "european economic review",
+                    "title": "theoretical foundations of negotiations and cost sharing in transfrontier pollution problems",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2166389260,
+                    "author": [
+                        {
+                            "AuId": 2144174086,
+                            "AuN": "richard s j tol"
+                        }
+                    ],
+                    "doi": "10.1023/A:1021062232074",
+                    "journal": "computing in economics and finance",
+                    "title": "climate coalitions in an integratedassessment model",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1971835376,
+                    "author": [
+                        {
+                            "AuId": 2556101069,
+                            "AuN": "porchiung benjamin chou"
+                        },
+                        {
+                            "AuId": 2613358336,
+                            "AuN": "cheickna sylla"
+                        }
+                    ],
+                    "doi": "10.1007/S10784-008-9082-6",
+                    "journal": "international environmental agreements politics law and economics",
+                    "title": "the formation of an international environmental agreement as a two stage exclusive cartel formation game with transferable utilities",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1540960117,
+                    "author": [
+                        {
+                            "AuId": 1982862561,
+                            "AuN": "michele botteon"
+                        },
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.128588",
+                    "title": "environmental coalitions with heterogeneous countries burden sharing and carbon leakage",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2030803566,
+                    "author": [
+                        {
+                            "AuId": 2275436674,
+                            "AuN": "m elena saiz"
+                        },
+                        {
+                            "AuId": 712328844,
+                            "AuN": "eligius m t hendrix"
+                        },
+                        {
+                            "AuId": 2275059394,
+                            "AuN": "niels j olieman"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-006-9047-1",
+                    "journal": "computing in economics and finance",
+                    "title": "on the computation of stability in multiple coalition formation games",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 386491366,
+                    "author": [
+                        {
+                            "AuId": 2041426393,
+                            "AuN": "alistair ulph"
+                        }
+                    ],
+                    "title": "environmental policy international agreements and international trade",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2064619849,
+                    "author": [
+                        {
+                            "AuId": 2604005281,
+                            "AuN": "paul m beaumont"
+                        },
+                        {
+                            "AuId": 2163870301,
+                            "AuN": "patrick t bradshaw"
+                        }
+                    ],
+                    "doi": "10.1007/BF01298458",
+                    "journal": "computational economics",
+                    "title": "a distributed parallel genetic algorithm for solving optimal growth models",
+                    "year_mag": 1995
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Chander",
+                            "given": "Parkash",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Tulkens",
+                            "given": "Henry",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/BF00877502",
+                    "title": "a core theoretic solution for the design of cooperative agreements on transfrontier pollution",
+                    "year_oc": 1995
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Carraro",
+                            "given": "Carlo",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Eyckmans",
+                            "given": "Johan",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Finus",
+                            "given": "Michael",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S11558-006-0162-5",
+                    "title": "optimal transfers and participation decisions in international environmental agreements",
+                    "year_oc": 2006
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "de Zeeuw",
+                            "given": "Aart",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEEM.2007.06.003",
+                    "title": "dynamic effects on the stability of international environmental agreements",
+                    "year_oc": 2008
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "DIAMANTOUDI",
+                            "given": "EFFROSYNI",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "SARTZETAKIS",
+                            "given": "EFTICHIOS S.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9779.2006.00262.X",
+                    "title": "stable international environmental agreements an analytical approach",
+                    "year_oc": 2006
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2025686512,
+                    "author": [
+                        {
+                            "AuId": 2641724128,
+                            "AuN": "yulia pavlova"
+                        },
+                        {
+                            "AuId": 2150286337,
+                            "AuN": "aart de zeeuw"
+                        }
+                    ],
+                    "doi": "10.1017/S1355770X12000289",
+                    "journal": "environment and development economics",
+                    "title": "asymmetries in international environmental agreements",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1985352472,
+                    "author": [
+                        {
+                            "AuId": 2070506026,
+                            "AuN": "jon hovi"
+                        },
+                        {
+                            "AuId": 2103387609,
+                            "AuN": "hugh ward"
+                        },
+                        {
+                            "AuId": 2207807268,
+                            "AuN": "frank grundig"
+                        }
+                    ],
+                    "doi": "10.1007/S10640-014-9799-3",
+                    "journal": "environment and development economics",
+                    "title": "hope or despair formal models of climate cooperation",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2225691413,
+                    "author": [
+                        {
+                            "AuId": 2117247003,
+                            "AuN": "emilson c d silva"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2710944",
+                    "journal": "environment and development economics",
+                    "title": "self enforcing agreements under unequal nationally determined contributions",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2923962429,
+                    "author": [
+                        {
+                            "AuId": 2587867627,
+                            "AuN": "irina bakalova"
+                        },
+                        {
+                            "AuId": 1985605714,
+                            "AuN": "johan eyckmans"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2019.03.028",
+                    "journal": "environment and development economics",
+                    "title": "simulating the impact of heterogeneity on stability and effectiveness of international environmental agreements",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2736076501,
+                    "author": [
+                        {
+                            "AuId": 2562109007,
+                            "AuN": "irene alvaradoquesada"
+                        },
+                        {
+                            "AuId": 1584477587,
+                            "AuN": "hanspeter weikard"
+                        }
+                    ],
+                    "doi": "10.1007/S10784-017-9368-7",
+                    "journal": "environment and development economics",
+                    "title": "international environmental agreements for biodiversity conservation a game theoretic analysis",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2985987120,
+                    "author": [
+                        {
+                            "AuId": 2222274597,
+                            "AuN": "nobuyuki takashima"
+                        }
+                    ],
+                    "doi": "10.1016/J.JCLEPRO.2019.119233",
+                    "journal": "environment and development economics",
+                    "title": "cooperative r d investments and licensing breakthrough technologies international environmental agreements with participation game",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2560257192,
+                    "author": [
+                        {
+                            "AuId": 2222274597,
+                            "AuN": "nobuyuki takashima"
+                        }
+                    ],
+                    "doi": "10.1007/S10666-016-9542-2",
+                    "journal": "environment and development economics",
+                    "title": "the impact of accidental deviation by natural disaster prone countries on renegotiation proof climate change agreements",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2885295251,
+                    "author": [
+                        {
+                            "AuId": 2222274597,
+                            "AuN": "nobuyuki takashima"
+                        }
+                    ],
+                    "doi": "10.1016/J.JAPWOR.2018.08.001",
+                    "journal": "environment and development economics",
+                    "title": "international environmental agreements between asymmetric countries a repeated game analysis",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2947105040,
+                    "author": [
+                        {
+                            "AuId": 2946973438,
+                            "AuN": "achim hagen"
+                        },
+                        {
+                            "AuId": 2139817626,
+                            "AuN": "klaus eisenack"
+                        }
+                    ],
+                    "doi": "10.1142/S2010007819500118",
+                    "journal": "environment and development economics",
+                    "title": "climate clubs versus single coalitions the ambition of international environmental agreements",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 1892127699,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2573926553,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1111/NRM.12037",
+                    "journal": "environment and development economics",
+                    "title": "international environmental agreements with developed and developing countries in a dynamic approach",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2115829417,
+                    "author": [
+                        {
+                            "AuId": 134140563,
+                            "AuN": "michael finus"
+                        },
+                        {
+                            "AuId": 2003683673,
+                            "AuN": "matthew mcginty"
+                        }
+                    ],
+                    "journal": "environment and development economics",
+                    "title": "the anti paradox of cooperation diversity pays",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2730372469,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2496955434,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1016/J.CNSNS.2017.06.034",
+                    "journal": "environment and development economics",
+                    "title": "sharing r d investments in international environmental agreements with asymmetric countries",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 1577770148,
+                    "author": [
+                        {
+                            "AuId": 2651229418,
+                            "AuN": "jakob neitzel"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1997357",
+                    "journal": "environment and development economics",
+                    "title": "the stability of coalitions when countries are heterogeneous",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1168278373,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2573926553,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1016/J.CHAOS.2015.07.026",
+                    "journal": "environment and development economics",
+                    "title": "the effects of r d investments in international environmental agreements with asymmetric countries",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2051425002,
+                    "author": [
+                        {
+                            "AuId": 860419886,
+                            "AuN": "birgit bednarfriedl"
+                        },
+                        {
+                            "AuId": 2121117148,
+                            "AuN": "karl farmer"
+                        }
+                    ],
+                    "doi": "10.1093/CESIFO/IFQ020",
+                    "journal": "environment and development economics",
+                    "title": "nationally and internationally optimal climate policies external balances versus environmental preferences",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1485718242,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2556564338,
+                            "AuN": "andrea di liddo"
+                        }
+                    ],
+                    "doi": "10.1111/J.1939-7445.2010.00070.X",
+                    "journal": "environment and development economics",
+                    "title": "the size of farsighted stable coalitions in a game of pollution abatement",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 3105438755,
+                    "author": [
+                        {
+                            "AuId": 2102722102,
+                            "AuN": "giorgos stamatopoulos"
+                        }
+                    ],
+                    "doi": "10.1111/JPET.12479",
+                    "journal": "environment and development economics",
+                    "title": "on the core of economies with multilateral environmental externalities",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2018457466,
+                    "author": [
+                        {
+                            "AuId": 2105985288,
+                            "AuN": "michael jakob"
+                        },
+                        {
+                            "AuId": 1249368956,
+                            "AuN": "kai lessmann"
+                        },
+                        {
+                            "AuId": 2924413122,
+                            "AuN": "theresa wildgrube"
+                        }
+                    ],
+                    "doi": "10.1561/102.00000050",
+                    "journal": "environment and development economics",
+                    "title": "the role of emissions trading and permit allocation in international climate agreements with asymmetric countries",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2252757722,
+                    "author": [
+                        {
+                            "AuId": 2970328128,
+                            "AuN": "achim hagen"
+                        },
+                        {
+                            "AuId": 2139817626,
+                            "AuN": "klaus eisenack"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2621328",
+                    "journal": "environment and development economics",
+                    "title": "international environmental agreements with asymmetric countries climate clubs vs global cooperation",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 982273420,
+                    "author": [
+                        {
+                            "AuId": 2121117148,
+                            "AuN": "karl farmer"
+                        },
+                        {
+                            "AuId": 189011718,
+                            "AuN": "matthias schelnast"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-33669-0_17",
+                    "journal": "environment and development economics",
+                    "title": "nationally and internationally optimal climate policies",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2034143264,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2573926553,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-011-9285-8",
+                    "journal": "environment and development economics",
+                    "title": "largest consistent set in international environmental agreements",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2095817506,
+                    "author": [
+                        {
+                            "AuId": 2690004590,
+                            "AuN": "jakob neitzel"
+                        }
+                    ],
+                    "journal": "environment and development economics",
+                    "title": "essays on public good provision fair contribution rules and institution formation",
+                    "year_mag": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Silva",
+                            "given": "Emilson C. D.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/S10797-017-9463-2",
+                    "title": "self enforcing agreements under unequal nationally determined contributions",
+                    "year_oc": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "8"
+            },
+            "doi": "10.1007/S10614-010-9197-Z",
+            "journal": "COMPUTATIONAL ECONOMICS",
+            "title": "international environmental agreements with asymmetric countries",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "0890-8575"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "9"
+            },
+            "doi": "10.1111/J.1939-7445.2009.00057",
+            "journal": "NATURAL RESOURCE MODELING",
+            "title": "competition and cooperation in a dynamical model of natural resources",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "978-3-642-04022-1"
+            ],
+            "PId": 2113143384,
+            "cited": [
+                {
+                    "PId": 2114872958,
+                    "author": [
+                        {
+                            "AuId": 2602984152,
+                            "AuN": "scott barrett"
+                        }
+                    ],
+                    "doi": "10.1093/OEP/46.SUPPLEMENT_1.878",
+                    "title": "self enforcing international environmental agreements",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2021771057,
+                    "author": [
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        },
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        },
+                        {
+                            "AuId": 1843231303,
+                            "AuN": "domenico siniscalco"
+                        },
+                        {
+                            "AuId": 1843231303,
+                            "AuN": "domenico siniscalco"
+                        }
+                    ],
+                    "doi": "10.1016/0047-2727(93)90037-T",
+                    "journal": "journal of public economics",
+                    "title": "strategies for the international protection of the environment",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1581606349,
+                    "author": [
+                        {
+                            "AuId": 165931236,
+                            "AuN": "michael sukyoung chwe"
+                        }
+                    ],
+                    "doi": "10.1006/JETH.1994.1044",
+                    "journal": "journal of economic theory",
+                    "title": "farsighted coalitional stability",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2007140742,
+                    "author": [
+                        {
+                            "AuId": 2121259354,
+                            "AuN": "santiago j rubio"
+                        },
+                        {
+                            "AuId": 521901069,
+                            "AuN": "alistair ulph"
+                        }
+                    ],
+                    "doi": "10.1093/OEP/GPL002",
+                    "title": "self enforcing international environmental agreements revisited",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1596399261,
+                    "author": [
+                        {
+                            "AuId": 2200844341,
+                            "AuN": "michael hoel"
+                        }
+                    ],
+                    "doi": "10.1007/BF00338240",
+                    "journal": "environmental and resource economics",
+                    "title": "international environment conventions the case of uniform reductions of emissions",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1964187104,
+                    "author": [
+                        {
+                            "AuId": 1991519883,
+                            "AuN": "parkash chander"
+                        },
+                        {
+                            "AuId": 108926711,
+                            "AuN": "henry tulkens"
+                        }
+                    ],
+                    "doi": "10.1007/978-0-387-25534-7_11",
+                    "journal": "international tax and public finance",
+                    "title": "a core theoretic solution for the design of cooperative agreements on transfrontier pollution",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2085350202,
+                    "author": [
+                        {
+                            "AuId": 2044401612,
+                            "AuN": "claude daspremont"
+                        },
+                        {
+                            "AuId": 2620012045,
+                            "AuN": "alexis jacquemin"
+                        },
+                        {
+                            "AuId": 1965321452,
+                            "AuN": "jean jaskold gabszewicz"
+                        },
+                        {
+                            "AuId": 1433979033,
+                            "AuN": "john a weymark"
+                        }
+                    ],
+                    "doi": "10.2307/134972",
+                    "journal": "canadian journal of economics",
+                    "title": "on the stability of collusive price leadership",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2112463912,
+                    "author": [
+                        {
+                            "AuId": 236078929,
+                            "AuN": "effrosyni diamantoudi"
+                        },
+                        {
+                            "AuId": 1837488107,
+                            "AuN": "eftichios s sartzetakis"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.291966",
+                    "journal": "journal of public economic theory",
+                    "title": "stable international environmental agreements an analytical approach",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2106098151,
+                    "author": [
+                        {
+                            "AuId": 2150286337,
+                            "AuN": "aart de zeeuw"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.688961",
+                    "journal": "journal of environmental economics and management",
+                    "title": "dynamic effects on the stability of international environmental agreements",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2299279273,
+                    "author": [
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        },
+                        {
+                            "AuId": 2996891347,
+                            "AuN": "domenico siniscalco"
+                        }
+                    ],
+                    "journal": "european economic review",
+                    "title": "international environmental agreements incentives and political economy",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1542121458,
+                    "author": [
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        },
+                        {
+                            "AuId": 2996891347,
+                            "AuN": "domenico siniscalco"
+                        }
+                    ],
+                    "doi": "10.1016/S0014-2921(97)00118-9",
+                    "journal": "european economic review",
+                    "title": "international institutions and environmental policy international environmental agreements incentives and political economy1",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2021766998,
+                    "author": [
+                        {
+                            "AuId": 2121259354,
+                            "AuN": "santiago j rubio"
+                        },
+                        {
+                            "AuId": 2339263283,
+                            "AuN": "begona casino"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.461500",
+                    "journal": "spanish economic review",
+                    "title": "self enforcing international environmental agreements with a stock pollutant",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1551557765,
+                    "author": [
+                        {
+                            "AuId": 1985605714,
+                            "AuN": "johan eyckmans"
+                        }
+                    ],
+                    "title": "on the farsighted stability of the kyoto protocol",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1697516536,
+                    "author": [
+                        {
+                            "AuId": 236078929,
+                            "AuN": "effrosyni diamantoudi"
+                        },
+                        {
+                            "AuId": 1837488107,
+                            "AuN": "eftichios s sartzetakis"
+                        }
+                    ],
+                    "doi": "10.1007/S10640-017-0148-1",
+                    "journal": "environmental and resource economics",
+                    "title": "international environmental agreements the role of foresight",
+                    "year_mag": 2018
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Chander",
+                            "given": "Parkash",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Tulkens",
+                            "given": "Henry",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/BF00877502",
+                    "title": "a core theoretic solution for the design of cooperative agreements on transfrontier pollution",
+                    "year_oc": 1995
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Rubio",
+                            "given": "Santiago J.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Casino",
+                            "given": "Bego\u00f1a",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S10108-005-0098-6",
+                    "title": "self enforcing international environmental agreements with a stock pollutant",
+                    "year_oc": 2005
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "de Zeeuw",
+                            "given": "Aart",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEEM.2007.06.003",
+                    "title": "dynamic effects on the stability of international environmental agreements",
+                    "year_oc": 2008
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "DIAMANTOUDI",
+                            "given": "EFFROSYNI",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "SARTZETAKIS",
+                            "given": "EFTICHIOS S.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9779.2006.00262.X",
+                    "title": "stable international environmental agreements an analytical approach",
+                    "year_oc": 2006
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2123288821,
+                    "author": [
+                        {
+                            "AuId": 2104857512,
+                            "AuN": "emilio calvo"
+                        },
+                        {
+                            "AuId": 2121259354,
+                            "AuN": "santiago j rubio"
+                        }
+                    ],
+                    "doi": "10.1561/101.00000053",
+                    "journal": "international review of environmental and resource economics",
+                    "title": "dynamic models of international environmental agreements a differential game approach",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1892127699,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2573926553,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1111/NRM.12037",
+                    "journal": "international review of environmental and resource economics",
+                    "title": "international environmental agreements with developed and developing countries in a dynamic approach",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2730372469,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2496955434,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1016/J.CNSNS.2017.06.034",
+                    "journal": "international review of environmental and resource economics",
+                    "title": "sharing r d investments in international environmental agreements with asymmetric countries",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2896922794,
+                    "author": [
+                        {
+                            "AuId": 2496955434,
+                            "AuN": "giovanni villani"
+                        },
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-018-9860-3",
+                    "journal": "international review of environmental and resource economics",
+                    "title": "an evolutionary game approach in international environmental agreements with r d investments",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "doi": "10.1007/978-3-642-04023-8_5",
+            "title": "international environmental agreement a dynamical model of emissions reduction",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 1485718242,
+            "cited": [
+                {
+                    "PId": 2114872958,
+                    "author": [
+                        {
+                            "AuId": 2602984152,
+                            "AuN": "scott barrett"
+                        }
+                    ],
+                    "doi": "10.1093/OEP/46.SUPPLEMENT_1.878",
+                    "title": "self enforcing international environmental agreements",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2021771057,
+                    "author": [
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        },
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        },
+                        {
+                            "AuId": 1843231303,
+                            "AuN": "domenico siniscalco"
+                        },
+                        {
+                            "AuId": 1843231303,
+                            "AuN": "domenico siniscalco"
+                        }
+                    ],
+                    "doi": "10.1016/0047-2727(93)90037-T",
+                    "journal": "journal of public economics",
+                    "title": "strategies for the international protection of the environment",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2084161320,
+                    "author": [
+                        {
+                            "AuId": 2097416649,
+                            "AuN": "debraj ray"
+                        },
+                        {
+                            "AuId": 2097416649,
+                            "AuN": "debraj ray"
+                        },
+                        {
+                            "AuId": 2047723033,
+                            "AuN": "rajiv vohra"
+                        },
+                        {
+                            "AuId": 2047723033,
+                            "AuN": "rajiv vohra"
+                        }
+                    ],
+                    "doi": "10.1006/JETH.1996.2236",
+                    "journal": "journal of economic theory",
+                    "title": "equilibrium binding agreements",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1581606349,
+                    "author": [
+                        {
+                            "AuId": 165931236,
+                            "AuN": "michael sukyoung chwe"
+                        }
+                    ],
+                    "doi": "10.1006/JETH.1994.1044",
+                    "journal": "journal of economic theory",
+                    "title": "farsighted coalitional stability",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2007140742,
+                    "author": [
+                        {
+                            "AuId": 2121259354,
+                            "AuN": "santiago j rubio"
+                        },
+                        {
+                            "AuId": 521901069,
+                            "AuN": "alistair ulph"
+                        }
+                    ],
+                    "doi": "10.1093/OEP/GPL002",
+                    "title": "self enforcing international environmental agreements revisited",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1964187104,
+                    "author": [
+                        {
+                            "AuId": 1991519883,
+                            "AuN": "parkash chander"
+                        },
+                        {
+                            "AuId": 108926711,
+                            "AuN": "henry tulkens"
+                        }
+                    ],
+                    "doi": "10.1007/978-0-387-25534-7_11",
+                    "journal": "international tax and public finance",
+                    "title": "a core theoretic solution for the design of cooperative agreements on transfrontier pollution",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2085350202,
+                    "author": [
+                        {
+                            "AuId": 2044401612,
+                            "AuN": "claude daspremont"
+                        },
+                        {
+                            "AuId": 2620012045,
+                            "AuN": "alexis jacquemin"
+                        },
+                        {
+                            "AuId": 1965321452,
+                            "AuN": "jean jaskold gabszewicz"
+                        },
+                        {
+                            "AuId": 1433979033,
+                            "AuN": "john a weymark"
+                        }
+                    ],
+                    "doi": "10.2307/134972",
+                    "journal": "canadian journal of economics",
+                    "title": "on the stability of collusive price leadership",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2112463912,
+                    "author": [
+                        {
+                            "AuId": 236078929,
+                            "AuN": "effrosyni diamantoudi"
+                        },
+                        {
+                            "AuId": 1837488107,
+                            "AuN": "eftichios s sartzetakis"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.291966",
+                    "journal": "journal of public economic theory",
+                    "title": "stable international environmental agreements an analytical approach",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2106098151,
+                    "author": [
+                        {
+                            "AuId": 2150286337,
+                            "AuN": "aart de zeeuw"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.688961",
+                    "journal": "journal of environmental economics and management",
+                    "title": "dynamic effects on the stability of international environmental agreements",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2098725440,
+                    "author": [
+                        {
+                            "AuId": 1240394253,
+                            "AuN": "pedro pintassilgo"
+                        }
+                    ],
+                    "doi": "10.1111/J.1939-7445.2003.TB00109.X",
+                    "journal": "natural resource modeling",
+                    "title": "a coalition approach to the management of high seas fisheries in the presence of externalities",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1542121458,
+                    "author": [
+                        {
+                            "AuId": 1977995149,
+                            "AuN": "carlo carraro"
+                        },
+                        {
+                            "AuId": 2996891347,
+                            "AuN": "domenico siniscalco"
+                        }
+                    ],
+                    "doi": "10.1016/S0014-2921(97)00118-9",
+                    "journal": "european economic review",
+                    "title": "international institutions and environmental policy international environmental agreements incentives and political economy1",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1988198121,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2573926553,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-010-9197-Z",
+                    "journal": "computing in economics and finance",
+                    "title": "international environmental agreements with asymmetric countries",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1911937569,
+                    "author": [
+                        {
+                            "AuId": 2112034054,
+                            "AuN": "marko lindroos"
+                        }
+                    ],
+                    "doi": "10.1111/J.1939-7445.2008.00016.X",
+                    "journal": "natural resource modeling",
+                    "title": "coalitions in international fisheries management",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2616454926,
+                    "author": [
+                        {
+                            "AuId": 2297198299,
+                            "AuN": "michele breton"
+                        },
+                        {
+                            "AuId": 1986413626,
+                            "AuN": "karima fredj"
+                        },
+                        {
+                            "AuId": 2226324727,
+                            "AuN": "georges zaccour"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9957.2006.00485.X",
+                    "journal": "the manchester school",
+                    "title": "international cooperation coalitions stability and free riding in a game of pollution control",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 3026938011,
+                    "author": [
+                        {
+                            "AuId": 2629105755,
+                            "AuN": "ahmed m hussen"
+                        }
+                    ],
+                    "doi": "10.4324/9780203507421",
+                    "title": "principles of environmental economics an integrated economic and ecological approach",
+                    "year_mag": 2004
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Chander",
+                            "given": "Parkash",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Tulkens",
+                            "given": "Henry",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/BF00877502",
+                    "title": "a core theoretic solution for the design of cooperative agreements on transfrontier pollution",
+                    "year_oc": 1995
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "de Zeeuw",
+                            "given": "Aart",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEEM.2007.06.003",
+                    "title": "dynamic effects on the stability of international environmental agreements",
+                    "year_oc": 2008
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "DIAMANTOUDI",
+                            "given": "EFFROSYNI",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "SARTZETAKIS",
+                            "given": "EFTICHIOS S.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9779.2006.00262.X",
+                    "title": "stable international environmental agreements an analytical approach",
+                    "year_oc": 2006
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Finus",
+                            "given": "Michael",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4337/9781843762898",
+                    "title": "game theory and international environmental cooperation",
+                    "year_oc": 2001
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2037970356,
+                    "author": [
+                        {
+                            "AuId": 2098260959,
+                            "AuN": "adam n walker"
+                        },
+                        {
+                            "AuId": 1584477587,
+                            "AuN": "hanspeter weikard"
+                        }
+                    ],
+                    "doi": "10.1007/S10640-014-9853-1",
+                    "journal": "environmental and resource economics",
+                    "title": "farsightedness changing stock location and the stability of international fisheries agreements",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2896922794,
+                    "author": [
+                        {
+                            "AuId": 2496955434,
+                            "AuN": "giovanni villani"
+                        },
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-018-9860-3",
+                    "journal": "environmental and resource economics",
+                    "title": "an evolutionary game approach in international environmental agreements with r d investments",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2034143264,
+                    "author": [
+                        {
+                            "AuId": 2206927925,
+                            "AuN": "marta biancardi"
+                        },
+                        {
+                            "AuId": 2573926553,
+                            "AuN": "giovanni villani"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-011-9285-8",
+                    "journal": "environmental and resource economics",
+                    "title": "largest consistent set in international environmental agreements",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2578527598,
+                    "author": [
+                        {
+                            "AuId": 2098260959,
+                            "AuN": "adam n walker"
+                        }
+                    ],
+                    "journal": "environmental and resource economics",
+                    "title": "economic essays on marine invasive species and international fisheries agreements",
+                    "year_mag": 2016
+                }
+            ],
+            "doi": "10.1111/J.1939-7445.2010.00070.X",
+            "journal": "natural resource modeling",
+            "title": "the size of farsighted stable coalitions in a game of pollution abatement",
+            "type": "1",
+            "year_mag": 2010
+        },
+        {
+            "PId": 2245337332,
+            "title": "competition and cooperation in a dynamical model of natural resources",
+            "type": "0",
+            "year_mag": 2007
+        },
+        {
+            "PId": 1963863666,
+            "cited": [
+                {
+                    "PId": 2226396244,
+                    "author": [
+                        {
+                            "AuId": 2139888203,
+                            "AuN": "garrett hardin"
+                        }
+                    ],
+                    "doi": "10.1126/SCIENCE.162.3859.1243",
+                    "journal": "science",
+                    "title": "the tragedy of the commons",
+                    "year_mag": 1968
+                },
+                {
+                    "PId": 1498720233,
+                    "author": [
+                        {
+                            "AuId": 2203388156,
+                            "AuN": "rajiv sethi"
+                        },
+                        {
+                            "AuId": 2088022430,
+                            "AuN": "e somanathan"
+                        }
+                    ],
+                    "journal": "the american economic review",
+                    "title": "the evolution of social norms in common property resource use",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2028798910,
+                    "author": [
+                        {
+                            "AuId": 2159975278,
+                            "AuN": "peter d taylor"
+                        },
+                        {
+                            "AuId": 2096084032,
+                            "AuN": "leo jonker"
+                        }
+                    ],
+                    "doi": "10.1016/0025-5564(78)90077-9",
+                    "journal": "bellman prize in mathematical biosciences",
+                    "title": "evolutionarily stable strategies and game dynamics",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 2084865002,
+                    "author": [
+                        {
+                            "AuId": 2465253190,
+                            "AuN": "gian italo bischi"
+                        },
+                        {
+                            "AuId": 1697685874,
+                            "AuN": "michael kopel"
+                        },
+                        {
+                            "AuId": 2157684974,
+                            "AuN": "ferenc szidarovszky"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-005-2262-7",
+                    "journal": "annals of operations research",
+                    "title": "expectation stock dynamics in multi agent fisheries",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 330098497,
+                    "author": [
+                        {
+                            "AuId": 2157684974,
+                            "AuN": "ferenc szidarovszky"
+                        },
+                        {
+                            "AuId": 1794088122,
+                            "AuN": "koji okuguchi"
+                        }
+                    ],
+                    "journal": "seoul journal of economics",
+                    "title": "an oligopoly model of commercial fishing",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 3088713371,
+                    "author": [
+                        {
+                            "AuId": 2308387104,
+                            "AuN": "scott gordon"
+                        }
+                    ],
+                    "doi": "10.1086/257497",
+                    "journal": "journal of political economy",
+                    "title": "the economic theory of a common property resource the fishery",
+                    "year_mag": 1954
+                },
+                {
+                    "PId": 2108075421,
+                    "author": [
+                        {
+                            "AuId": 2165385528,
+                            "AuN": "joelle noailly"
+                        },
+                        {
+                            "AuId": 3047763806,
+                            "AuN": "van den jcjm jeroen bergh"
+                        },
+                        {
+                            "AuId": 3047786699,
+                            "AuN": "caam cees withagen"
+                        }
+                    ],
+                    "doi": "10.1007/S00191-003-0146-Z",
+                    "journal": "journal of evolutionary economics",
+                    "title": "evolution of harvesting strategies replicator and resource dynamics",
+                    "year_mag": 2003
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2077336366,
+                    "author": [
+                        {
+                            "AuId": 2151924908,
+                            "AuN": "ruben j requejo"
+                        },
+                        {
+                            "AuId": 2419791968,
+                            "AuN": "juan camacho"
+                        }
+                    ],
+                    "doi": "10.1016/J.JTBI.2010.12.005",
+                    "journal": "journal of theoretical biology",
+                    "title": "evolution of cooperation mediated by limiting resources connecting resource based models and evolutionary game theory",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1587892878,
+                    "author": [
+                        {
+                            "AuId": 2169445453,
+                            "AuN": "jeansebastien lerat"
+                        },
+                        {
+                            "AuId": 2017269535,
+                            "AuN": "tom lenaerts"
+                        }
+                    ],
+                    "journal": "journal of theoretical biology",
+                    "title": "evolution of common pool resources and social welfare in structured populations",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2322744814,
+                    "author": [
+                        {
+                            "AuId": 2777778459,
+                            "AuN": "changfeng wang"
+                        },
+                        {
+                            "AuId": 2780921230,
+                            "AuN": "yan han"
+                        }
+                    ],
+                    "doi": "10.3934/JIMO.2012.8.127",
+                    "journal": "journal of theoretical biology",
+                    "title": "optimal assignment of principalship and residual distribution for cooperative r d",
+                    "year_mag": 2011
+                }
+            ],
+            "doi": "10.1111/J.1939-7445.2009.00057.X",
+            "journal": "natural resource modeling",
+            "title": "competition and cooperation in a dynamical model of natural resources",
+            "type": "1",
+            "year_mag": 2010
+        },
+        {
+            "PId": 1556137474,
+            "cited": [
+                {
+                    "PId": 2753514269,
+                    "author": [
+                        {
+                            "AuId": 2139888203,
+                            "AuN": "garrett hardin"
+                        }
+                    ],
+                    "doi": "10.1080/19390450903037302",
+                    "journal": "journal of natural resources policy research",
+                    "title": "the tragedy of the commons",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1498720233,
+                    "author": [
+                        {
+                            "AuId": 2203388156,
+                            "AuN": "rajiv sethi"
+                        },
+                        {
+                            "AuId": 2088022430,
+                            "AuN": "e somanathan"
+                        }
+                    ],
+                    "journal": "the american economic review",
+                    "title": "the evolution of social norms in common property resource use",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2028798910,
+                    "author": [
+                        {
+                            "AuId": 2159975278,
+                            "AuN": "peter d taylor"
+                        },
+                        {
+                            "AuId": 2096084032,
+                            "AuN": "leo jonker"
+                        }
+                    ],
+                    "doi": "10.1016/0025-5564(78)90077-9",
+                    "journal": "bellman prize in mathematical biosciences",
+                    "title": "evolutionarily stable strategies and game dynamics",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 2084865002,
+                    "author": [
+                        {
+                            "AuId": 2465253190,
+                            "AuN": "gian italo bischi"
+                        },
+                        {
+                            "AuId": 1697685874,
+                            "AuN": "michael kopel"
+                        },
+                        {
+                            "AuId": 2157684974,
+                            "AuN": "ferenc szidarovszky"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-005-2262-7",
+                    "journal": "annals of operations research",
+                    "title": "expectation stock dynamics in multi agent fisheries",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2801199326,
+                    "author": [
+                        {
+                            "AuId": 2465253190,
+                            "AuN": "gian italo bischi"
+                        },
+                        {
+                            "AuId": 2014293465,
+                            "AuN": "fabio lamantia"
+                        },
+                        {
+                            "AuId": 2133858359,
+                            "AuN": "lucia sbragia"
+                        }
+                    ],
+                    "doi": "10.4337/9781845421441.00017",
+                    "title": "competition and cooperation in natural resources exploitation an evolutionary game approach",
+                    "year_mag": 2004
+                }
+            ],
+            "title": "cooperazione e competizione nello sfruttamento di una risorsa rinnovabile",
+            "type": "0",
+            "year_mag": 2004
+        }
+    ]
+}

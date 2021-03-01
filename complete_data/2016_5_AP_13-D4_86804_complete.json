@@ -1,0 +1,3984 @@
+{
+    "AuIds": [
+        2442995253
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "1534774965_+_100266752": 1,
+                "1534774965_+_2038102494": 1,
+                "2037883810_+_100266752": 2,
+                "2037883810_+_2038102494": 3,
+                "2037883810_+_2198172059": 1,
+                "2315098766_+_100266752": 2,
+                "2315098766_+_2013219970": 1,
+                "2315098766_+_2038102494": 2,
+                "2315098766_+_2198172059": 1,
+                "2550542292_+_100266752": 2,
+                "2550542292_+_2038102494": 2,
+                "2550542292_+_2198172059": 1,
+                "2617326567_+_100266752": 1,
+                "2617326567_+_2013219970": 1,
+                "2617326567_+_2038102494": 1,
+                "2617326567_+_2198172059": 1,
+                "2768510339_+_2013219970": 1,
+                "2772257658_+_100266752": 2,
+                "2772257658_+_2013219970": 1,
+                "2772257658_+_2038102494": 1,
+                "2772257658_+_2198172059": 1
+            },
+            "number": 5
+        },
+        "cand_nodes": 9,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 374,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 155,
+            "comm_other": 4216,
+            "other_cand": 38,
+            "other_comm": 1564
+        },
+        "other_nodes": 4085
+    },
+    "coverage": {
+        "articles": 9,
+        "books": 0,
+        "cov_sect": "A",
+        "other_pubbs": 0,
+        "pubbs": 9,
+        "pubbs_found": 9,
+        "pubbs_ind": 9,
+        "pubbs_ind_found": 9,
+        "total_extra_found": 9,
+        "total_found": 9,
+        "total_pubbs": 9
+    },
+    "fullname": [
+        "Russo",
+        "Vincenzo"
+    ],
+    "ind_anvur": [
+        7,
+        3,
+        0,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1074-1240"
+            ],
+            "PId": 2617326567,
+            "cited": [
+                {
+                    "PId": 3021444882,
+                    "author": [
+                        {
+                            "AuId": 2299606345,
+                            "AuN": "john c cox"
+                        },
+                        {
+                            "AuId": 2051703268,
+                            "AuN": "jonathan e ingersoll"
+                        },
+                        {
+                            "AuId": 2163419371,
+                            "AuN": "stephen a ross"
+                        }
+                    ],
+                    "doi": "10.2307/1911242",
+                    "journal": "econometrica",
+                    "title": "a theory of the term structure of interest rates",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2041765503,
+                    "author": [
+                        {
+                            "AuId": 2146412631,
+                            "AuN": "david stewart"
+                        },
+                        {
+                            "AuId": 2489727225,
+                            "AuN": "prem shamdasani"
+                        }
+                    ],
+                    "title": "focus groups theory and practice",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 1998031535,
+                    "author": [
+                        {
+                            "AuId": 2682266702,
+                            "AuN": "john c hull"
+                        },
+                        {
+                            "AuId": 2121047447,
+                            "AuN": "alan white"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/3.4.573",
+                    "journal": "review of financial studies",
+                    "title": "pricing interest rate derivative securities",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2050067494,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(76)90024-6",
+                    "journal": "journal of financial economics",
+                    "title": "the pricing of commodity contracts",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 2119299497,
+                    "author": [
+                        {
+                            "AuId": 2674134956,
+                            "AuN": "farshid jamshidian"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1989.TB02413.X",
+                    "journal": "journal of finance",
+                    "title": "an exact bond option formula",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2137965449,
+                    "author": [
+                        {
+                            "AuId": 2609526882,
+                            "AuN": "mark rubinstein"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1983.TB03636.X",
+                    "journal": "journal of finance",
+                    "title": "displaced diffusion option pricing",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2315098766,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.3905/JFI.2017.27.2.030",
+                    "journal": "the journal of fixed income",
+                    "title": "pricing coupon bond options and swaptions under the one factor hull white model",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2768510339,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.3905/JFI.2016.25.3.036",
+                    "journal": "the journal of fixed income",
+                    "title": "a one factor shifted squared gaussian term structure model for interest rate modeling",
+                    "year_mag": 2015
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Russo",
+                            "given": "Vincenzo",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Fabozzi",
+                            "given": "Frank J.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3905/JFI.2016.25.4.076",
+                    "title": "pricing coupon bond options and swaptions under the one factor hull white model",
+                    "year_oc": 2016
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2963537828,
+                    "author": [
+                        {
+                            "AuId": 2481716950,
+                            "AuN": "tolulope fadina"
+                        },
+                        {
+                            "AuId": 2138239264,
+                            "AuN": "ariel neufeld"
+                        },
+                        {
+                            "AuId": 2168606744,
+                            "AuN": "thorsten schmidt"
+                        },
+                        {
+                            "AuId": 2168606744,
+                            "AuN": "thorsten schmidt"
+                        }
+                    ],
+                    "doi": "10.1186/S41546-019-0039-1",
+                    "journal": "probability uncertainty and quantitative risk",
+                    "title": "affine processes under parameter uncertainty",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2805311865,
+                    "author": [
+                        {
+                            "AuId": 2481716950,
+                            "AuN": "tolulope fadina"
+                        },
+                        {
+                            "AuId": 2138239264,
+                            "AuN": "ariel neufeld"
+                        },
+                        {
+                            "AuId": 2168606744,
+                            "AuN": "thorsten schmidt"
+                        },
+                        {
+                            "AuId": 2168606744,
+                            "AuN": "thorsten schmidt"
+                        }
+                    ],
+                    "journal": "probability uncertainty and quantitative risk",
+                    "title": "affine processes under parameter uncertainty",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2772257658,
+                    "author": [
+                        {
+                            "AuId": 2774318083,
+                            "AuN": "jinal patel"
+                        },
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.1016/J.FRL.2017.10.013",
+                    "journal": "probability uncertainty and quantitative risk",
+                    "title": "using the right implied volatility quotes in times of low interest rates an empirical analysis across different currencies",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2808961124,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 2614099030,
+                            "AuN": "gabriele torri"
+                        }
+                    ],
+                    "doi": "10.1007/S10287-018-0323-Z",
+                    "journal": "probability uncertainty and quantitative risk",
+                    "title": "calibration of one factor and two factor hull white models using swaptions",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.3905/JOD.2017.24.4.080",
+            "journal": "THE JOURNAL OF DERIVATIVES",
+            "title": "calibrating short interest rate models in negative rate environments",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0167-6687"
+            ],
+            "PId": 2550542292,
+            "cited": [
+                {
+                    "PId": 3021444882,
+                    "author": [
+                        {
+                            "AuId": 2299606345,
+                            "AuN": "john c cox"
+                        },
+                        {
+                            "AuId": 2051703268,
+                            "AuN": "jonathan e ingersoll"
+                        },
+                        {
+                            "AuId": 2163419371,
+                            "AuN": "stephen a ross"
+                        }
+                    ],
+                    "doi": "10.2307/1911242",
+                    "journal": "econometrica",
+                    "title": "a theory of the term structure of interest rates",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 1575658391,
+                    "author": [
+                        {
+                            "AuId": 166847715,
+                            "AuN": "damiano brigo"
+                        },
+                        {
+                            "AuId": 2031632740,
+                            "AuN": "fabio mercurio"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-662-04553-4",
+                    "title": "interest rate models theory and practice",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2115778593,
+                    "author": [
+                        {
+                            "AuId": 2210449200,
+                            "AuN": "darrell duffie"
+                        },
+                        {
+                            "AuId": 2168508420,
+                            "AuN": "jun pan"
+                        },
+                        {
+                            "AuId": 669620310,
+                            "AuN": "kenneth j singleton"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.157733",
+                    "journal": "econometrica",
+                    "title": "transform analysis and asset pricing for affine jump diffusions",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2076057077,
+                    "author": [
+                        {
+                            "AuId": 2007039471,
+                            "AuN": "oldrich a vasicek"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(77)90016-2",
+                    "journal": "journal of financial economics",
+                    "title": "an equilibrium characterization of the term structure",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 1504766719,
+                    "author": [
+                        {
+                            "AuId": 2036592102,
+                            "AuN": "david lando"
+                        }
+                    ],
+                    "title": "credit risk modeling theory and applications",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2096879147,
+                    "author": [
+                        {
+                            "AuId": 1457411550,
+                            "AuN": "anders grosen"
+                        },
+                        {
+                            "AuId": 2260465504,
+                            "AuN": "peter lochte jorgensen"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(99)00041-4",
+                    "journal": "insurance mathematics & economics",
+                    "title": "fair valuation of life insurance liabilities the impact of interest rate guarantees surrender options and bonus policies",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1994956456,
+                    "author": [
+                        {
+                            "AuId": 1865393116,
+                            "AuN": "anna rita bacinello"
+                        }
+                    ],
+                    "doi": "10.1111/1539-6975.T01-1-00060",
+                    "journal": "journal of risk and insurance",
+                    "title": "fair valuation of a guaranteed life insurance participating contract embedding a surrender option",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2111674672,
+                    "author": [
+                        {
+                            "AuId": 2806613027,
+                            "AuN": "antti j tanskanen"
+                        },
+                        {
+                            "AuId": 1972430152,
+                            "AuN": "jani lukkarinen"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2003.08.003",
+                    "journal": "insurance mathematics & economics",
+                    "title": "fair valuation of path dependent participating life insurance contracts",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2061180656,
+                    "author": [
+                        {
+                            "AuId": 1865393116,
+                            "AuN": "anna rita bacinello"
+                        }
+                    ],
+                    "doi": "10.1080/10920277.2003.10596097",
+                    "journal": "the north american actuarial journal",
+                    "title": "pricing guaranteed life insurance participating policies with annual premiums and surrender option",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2150246581,
+                    "author": [
+                        {
+                            "AuId": 2316199842,
+                            "AuN": "elisa luciano"
+                        },
+                        {
+                            "AuId": 2316199842,
+                            "AuN": "elisa luciano"
+                        },
+                        {
+                            "AuId": 2154483574,
+                            "AuN": "elena vigna"
+                        },
+                        {
+                            "AuId": 2154483574,
+                            "AuN": "elena vigna"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.724706",
+                    "title": "non mean reverting affine processes for stochastic mortality",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2080007115,
+                    "author": [
+                        {
+                            "AuId": 2243192951,
+                            "AuN": "changki kim"
+                        }
+                    ],
+                    "doi": "10.1080/10920277.2005.10596225",
+                    "journal": "the north american actuarial journal",
+                    "title": "modeling surrender and lapse rates with economic variables",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2740092427,
+                    "author": [
+                        {
+                            "AuId": 2158152270,
+                            "AuN": "domenico de giovanni"
+                        }
+                    ],
+                    "doi": "10.1080/03461230802550649",
+                    "journal": "scandinavian actuarial journal",
+                    "title": "lapse rate modeling a rational expectation approach",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2138656978,
+                    "author": [
+                        {
+                            "AuId": 2693104469,
+                            "AuN": "bjarke jensen"
+                        },
+                        {
+                            "AuId": 2260465504,
+                            "AuN": "peter lochte jorgensen"
+                        },
+                        {
+                            "AuId": 1457411550,
+                            "AuN": "anders grosen"
+                        }
+                    ],
+                    "doi": "10.1023/A:1011264408187",
+                    "journal": "geneva risk and insurance review",
+                    "title": "a finite difference approach to the valuation of path dependent life insurance liabilities",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2140514312,
+                    "author": [
+                        {
+                            "AuId": 2146385941,
+                            "AuN": "weiyu kuo"
+                        },
+                        {
+                            "AuId": 2605946430,
+                            "AuN": "chenghsien tsai"
+                        },
+                        {
+                            "AuId": 2169955273,
+                            "AuN": "weikuang chen"
+                        }
+                    ],
+                    "doi": "10.1111/1539-6975.T01-1-00061",
+                    "journal": "journal of risk and insurance",
+                    "title": "an empirical study on the lapse rate the cointegration approach",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2033344371,
+                    "author": [
+                        {
+                            "AuId": 1865393116,
+                            "AuN": "anna rita bacinello"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2005.02.002",
+                    "journal": "insurance mathematics & economics",
+                    "title": "endogenous model of surrender conditions in equity linked life insurance",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2054508408,
+                    "author": [
+                        {
+                            "AuId": 1457411550,
+                            "AuN": "anders grosen"
+                        },
+                        {
+                            "AuId": 2260465504,
+                            "AuN": "peter lochte jorgensen"
+                        }
+                    ],
+                    "doi": "10.2307/253761",
+                    "journal": "journal of risk and insurance",
+                    "title": "valuation of early exercisable interest rate guarantees",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1964614032,
+                    "author": [
+                        {
+                            "AuId": 2622934073,
+                            "AuN": "marieodile albizzati"
+                        },
+                        {
+                            "AuId": 45852114,
+                            "AuN": "helyette geman"
+                        }
+                    ],
+                    "doi": "10.2307/253641",
+                    "journal": "journal of risk and insurance",
+                    "title": "interest rate risk management and valuation of the surrender option in life insurance policies",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2037883810,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 1999703830,
+                            "AuN": "rosella giacometti"
+                        },
+                        {
+                            "AuId": 2024915760,
+                            "AuN": "sergio ortobelli"
+                        },
+                        {
+                            "AuId": 2085403699,
+                            "AuN": "svetlozar t rachev"
+                        },
+                        {
+                            "AuId": 2085403699,
+                            "AuN": "svetlozar t rachev"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2011.01.015",
+                    "journal": "insurance mathematics & economics",
+                    "title": "calibrating affine stochastic mortality models using term assurance premiums",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2077752095,
+                    "author": [
+                        {
+                            "AuId": 1676070447,
+                            "AuN": "angus smith macdonald"
+                        }
+                    ],
+                    "doi": "10.1017/S1357321700003366",
+                    "journal": "british actuarial journal",
+                    "title": "an actuarial survey of statistical models for decrement and transition data i multiple state poisson and binomial models",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2086615823,
+                    "author": [
+                        {
+                            "AuId": 2048129973,
+                            "AuN": "andrea consiglio"
+                        },
+                        {
+                            "AuId": 2158152270,
+                            "AuN": "domenico de giovanni"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2010.01358.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "pricing the option to surrender in incomplete markets",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2099881282,
+                    "author": [
+                        {
+                            "AuId": 2043979613,
+                            "AuN": "massimo costabile"
+                        },
+                        {
+                            "AuId": 2153349355,
+                            "AuN": "ivar massabo"
+                        },
+                        {
+                            "AuId": 2799112900,
+                            "AuN": "emilio russo"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2007.10.003",
+                    "journal": "insurance mathematics & economics",
+                    "title": "a binomial model for valuing equity linked policies embedding surrender options",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2109860150,
+                    "author": [
+                        {
+                            "AuId": 1676070447,
+                            "AuN": "angus smith macdonald"
+                        }
+                    ],
+                    "doi": "10.1017/S1357321700003524",
+                    "journal": "british actuarial journal",
+                    "title": "an actuarial survey of statistical models for decrement and transition data iii counting process models",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2323101859,
+                    "author": [
+                        {
+                            "AuId": 1676070447,
+                            "AuN": "angus smith macdonald"
+                        }
+                    ],
+                    "doi": "10.1017/S1357321700003469",
+                    "journal": "british actuarial journal",
+                    "title": "an actuarial survey of statistical models for decrement and transition data ii competing risks non parametric and regression models",
+                    "year_mag": 1996
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2861437949,
+                    "author": [
+                        {
+                            "AuId": 2834800786,
+                            "AuN": "pietro angelo lioi cafasso"
+                        },
+                        {
+                            "AuId": 2036853189,
+                            "AuN": "joao luiz chela"
+                        },
+                        {
+                            "AuId": 2061101722,
+                            "AuN": "herbert kimura"
+                        }
+                    ],
+                    "doi": "10.1016/J.FBJ.2018.06.005",
+                    "journal": "future business journal",
+                    "title": "market risk based capital for brazilian insurance companies a stochastic approach",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 3025967800,
+                    "author": [
+                        {
+                            "AuId": 2770861663,
+                            "AuN": "anubha goel"
+                        },
+                        {
+                            "AuId": 2136026638,
+                            "AuN": "aparna mehra"
+                        }
+                    ],
+                    "doi": "10.1080/17442508.2020.1760866",
+                    "journal": "future business journal",
+                    "title": "a bivariate markov modulated intensity model applications to insurance and credit risk modelling",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2775594107,
+                    "author": [
+                        {
+                            "AuId": 2603850105,
+                            "AuN": "viktor oliynyk"
+                        },
+                        {
+                            "AuId": 112686303,
+                            "AuN": "fedir zhuravka"
+                        },
+                        {
+                            "AuId": 2774047522,
+                            "AuN": "tetiana bolgar"
+                        },
+                        {
+                            "AuId": 2775642412,
+                            "AuN": "olha yevtushenko"
+                        }
+                    ],
+                    "doi": "10.21511/IMFI.14(4).2017.03",
+                    "journal": "future business journal",
+                    "title": "optimal control of continuous life insurance model",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3010336017,
+                    "author": [
+                        {
+                            "AuId": 3009191419,
+                            "AuN": "marco ticciati"
+                        }
+                    ],
+                    "doi": "10.22495/RGCV10I1P3",
+                    "journal": "future business journal",
+                    "title": "modelling ea banks default rates with jointly spanned and unspanned interest rates and unspanned bei rates",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2751101761,
+                    "author": [
+                        {
+                            "AuId": 235894671,
+                            "AuN": "elia berdin"
+                        },
+                        {
+                            "AuId": 3110036781,
+                            "AuN": "helmut grundl"
+                        },
+                        {
+                            "AuId": 2400097689,
+                            "AuN": "christian kubitza"
+                        }
+                    ],
+                    "journal": "future business journal",
+                    "title": "rising interest rates lapse risk and the stability of life insurers",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1016/J.INSMATHECO.2016.11.001",
+            "journal": "INSURANCE MATHEMATICS & ECONOMICS",
+            "title": "intensity based framework for surrender modeling in life insurance",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1544-6123"
+            ],
+            "PId": 2772257658,
+            "cited": [
+                {
+                    "PId": 3021444882,
+                    "author": [
+                        {
+                            "AuId": 2299606345,
+                            "AuN": "john c cox"
+                        },
+                        {
+                            "AuId": 2051703268,
+                            "AuN": "jonathan e ingersoll"
+                        },
+                        {
+                            "AuId": 2163419371,
+                            "AuN": "stephen a ross"
+                        }
+                    ],
+                    "doi": "10.2307/1911242",
+                    "journal": "econometrica",
+                    "title": "a theory of the term structure of interest rates",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 1575658391,
+                    "author": [
+                        {
+                            "AuId": 166847715,
+                            "AuN": "damiano brigo"
+                        },
+                        {
+                            "AuId": 2031632740,
+                            "AuN": "fabio mercurio"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-662-04553-4",
+                    "title": "interest rate models theory and practice",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1998031535,
+                    "author": [
+                        {
+                            "AuId": 2682266702,
+                            "AuN": "john c hull"
+                        },
+                        {
+                            "AuId": 2121047447,
+                            "AuN": "alan white"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/3.4.573",
+                    "journal": "review of financial studies",
+                    "title": "pricing interest rate derivative securities",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2050067494,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(76)90024-6",
+                    "journal": "journal of financial economics",
+                    "title": "the pricing of commodity contracts",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 2119299497,
+                    "author": [
+                        {
+                            "AuId": 2674134956,
+                            "AuN": "farshid jamshidian"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1989.TB02413.X",
+                    "journal": "journal of finance",
+                    "title": "an exact bond option formula",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2137965449,
+                    "author": [
+                        {
+                            "AuId": 2609526882,
+                            "AuN": "mark rubinstein"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1983.TB03636.X",
+                    "journal": "journal of finance",
+                    "title": "displaced diffusion option pricing",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2315098766,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.3905/JFI.2017.27.2.030",
+                    "journal": "the journal of fixed income",
+                    "title": "pricing coupon bond options and swaptions under the one factor hull white model",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2768510339,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.3905/JFI.2016.25.3.036",
+                    "journal": "the journal of fixed income",
+                    "title": "a one factor shifted squared gaussian term structure model for interest rate modeling",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2617326567,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.3905/JOD.2017.24.4.080",
+                    "journal": "journal of derivatives",
+                    "title": "calibrating short interest rate models in negative rate environments",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2113687945,
+                    "author": [
+                        {
+                            "AuId": 2750750852,
+                            "AuN": "louis bachelier"
+                        }
+                    ],
+                    "doi": "10.24033/ASENS.476",
+                    "journal": "annales scientifiques de l ecole normale superieure",
+                    "title": "theorie de la speculation",
+                    "year_mag": 1900
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2963537828,
+                    "author": [
+                        {
+                            "AuId": 2481716950,
+                            "AuN": "tolulope fadina"
+                        },
+                        {
+                            "AuId": 2138239264,
+                            "AuN": "ariel neufeld"
+                        },
+                        {
+                            "AuId": 2168606744,
+                            "AuN": "thorsten schmidt"
+                        },
+                        {
+                            "AuId": 2168606744,
+                            "AuN": "thorsten schmidt"
+                        }
+                    ],
+                    "doi": "10.1186/S41546-019-0039-1",
+                    "journal": "probability uncertainty and quantitative risk",
+                    "title": "affine processes under parameter uncertainty",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2805311865,
+                    "author": [
+                        {
+                            "AuId": 2481716950,
+                            "AuN": "tolulope fadina"
+                        },
+                        {
+                            "AuId": 2138239264,
+                            "AuN": "ariel neufeld"
+                        },
+                        {
+                            "AuId": 2168606744,
+                            "AuN": "thorsten schmidt"
+                        },
+                        {
+                            "AuId": 2168606744,
+                            "AuN": "thorsten schmidt"
+                        }
+                    ],
+                    "journal": "probability uncertainty and quantitative risk",
+                    "title": "affine processes under parameter uncertainty",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1016/J.FRL.2017.10.013",
+            "journal": "FINANCE RESEARCH LETTERS",
+            "title": "using the right implied volatility quotes in times of low interest rates an empirical analysis across different currencies",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1059-8596"
+            ],
+            "PId": 2315098766,
+            "cited": [
+                {
+                    "PId": 3021444882,
+                    "author": [
+                        {
+                            "AuId": 2299606345,
+                            "AuN": "john c cox"
+                        },
+                        {
+                            "AuId": 2051703268,
+                            "AuN": "jonathan e ingersoll"
+                        },
+                        {
+                            "AuId": 2163419371,
+                            "AuN": "stephen a ross"
+                        }
+                    ],
+                    "doi": "10.2307/1911242",
+                    "journal": "econometrica",
+                    "title": "a theory of the term structure of interest rates",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 1998031535,
+                    "author": [
+                        {
+                            "AuId": 2682266702,
+                            "AuN": "john c hull"
+                        },
+                        {
+                            "AuId": 2121047447,
+                            "AuN": "alan white"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/3.4.573",
+                    "journal": "review of financial studies",
+                    "title": "pricing interest rate derivative securities",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2076057077,
+                    "author": [
+                        {
+                            "AuId": 2007039471,
+                            "AuN": "oldrich a vasicek"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(77)90016-2",
+                    "journal": "journal of financial economics",
+                    "title": "an equilibrium characterization of the term structure",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 2050067494,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(76)90024-6",
+                    "journal": "journal of financial economics",
+                    "title": "the pricing of commodity contracts",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 2119299497,
+                    "author": [
+                        {
+                            "AuId": 2674134956,
+                            "AuN": "farshid jamshidian"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1989.TB02413.X",
+                    "journal": "journal of finance",
+                    "title": "an exact bond option formula",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 1983886831,
+                    "author": [
+                        {
+                            "AuId": 2682266702,
+                            "AuN": "john c hull"
+                        },
+                        {
+                            "AuId": 2121047447,
+                            "AuN": "alan white"
+                        }
+                    ],
+                    "doi": "10.3905/JOD.1994.407902",
+                    "journal": "journal of derivatives",
+                    "title": "numerical procedures for implementing term structure models i single factor models",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1958196783,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        },
+                        {
+                            "AuId": 2711745267,
+                            "AuN": "piotr karasinski"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V47.N4.52",
+                    "journal": "financial analysts journal",
+                    "title": "bond and option pricing when short rates are lognormal",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2168272057,
+                    "author": [
+                        {
+                            "AuId": 2155033355,
+                            "AuN": "david f schrager"
+                        },
+                        {
+                            "AuId": 2634490654,
+                            "AuN": "antoon pelsser"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9965.2006.00289.X",
+                    "journal": "mathematical finance",
+                    "title": "pricing swaptions and coupon bond options in affine term structure models",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2109361046,
+                    "author": [
+                        {
+                            "AuId": 669620310,
+                            "AuN": "kenneth j singleton"
+                        },
+                        {
+                            "AuId": 76246167,
+                            "AuN": "len umantsev"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9965.2002.TB00132.X",
+                    "journal": "mathematical finance",
+                    "title": "pricing coupon bond options and swaptions in affine term structure models",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2099957237,
+                    "author": [
+                        {
+                            "AuId": 2416151059,
+                            "AuN": "stephen m schaefer"
+                        },
+                        {
+                            "AuId": 2154760292,
+                            "AuN": "eduardo s schwartz"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1987.TB04356.X",
+                    "journal": "journal of finance",
+                    "title": "time dependent variance and the pricing of bond options",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2148782038,
+                    "author": [
+                        {
+                            "AuId": 3020053813,
+                            "AuN": "andrew j kalotay"
+                        },
+                        {
+                            "AuId": 2177626912,
+                            "AuN": "george o williams"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V49.N3.35",
+                    "journal": "financial analysts journal",
+                    "title": "a model for valuing bonds and embedded options",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1512252999,
+                    "author": [
+                        {
+                            "AuId": 2294589393,
+                            "AuN": "pierre collindufresne"
+                        },
+                        {
+                            "AuId": 2021820481,
+                            "AuN": "robert s goldstein"
+                        }
+                    ],
+                    "doi": "10.3905/JOD.2002.319187",
+                    "journal": "journal of derivatives",
+                    "title": "pricing swaptions within an affine framework",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1993924242,
+                    "author": [
+                        {
+                            "AuId": 166847715,
+                            "AuN": "damiano brigo"
+                        },
+                        {
+                            "AuId": 2031632740,
+                            "AuN": "fabio mercurio"
+                        }
+                    ],
+                    "doi": "10.1007/PL00013541",
+                    "journal": "finance and stochastics",
+                    "title": "a deterministic shift extension of analytically tractable and time homogeneous short rate models",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1972302599,
+                    "author": [
+                        {
+                            "AuId": 2081294549,
+                            "AuN": "claus munk"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.121313",
+                    "journal": "review of derivatives research",
+                    "title": "stochastic duration and fast coupon bond option pricing in multi factor models",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2768510339,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.3905/JFI.2016.25.3.036",
+                    "journal": "the journal of fixed income",
+                    "title": "a one factor shifted squared gaussian term structure model for interest rate modeling",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1969293215,
+                    "author": [
+                        {
+                            "AuId": 2064211247,
+                            "AuN": "marc p a henrard"
+                        }
+                    ],
+                    "doi": "10.1142/S0219024903001785",
+                    "journal": "international journal of theoretical and applied finance",
+                    "title": "explicit bond option formula in heath jarrow morton one factor model",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2071505866,
+                    "author": [
+                        {
+                            "AuId": 2241335476,
+                            "AuN": "jason zhanshun wei"
+                        }
+                    ],
+                    "doi": "10.1002/(SICI)1096-9934(199704)17:2<131::AID-FUT1>3.0.CO;2-K",
+                    "journal": "journal of futures markets",
+                    "title": "a simple approach to bond option pricing",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2045406342,
+                    "author": [
+                        {
+                            "AuId": 2094402528,
+                            "AuN": "francis a longstaff"
+                        }
+                    ],
+                    "doi": "10.1016/0378-4266(93)90078-R",
+                    "journal": "journal of banking and finance",
+                    "title": "the valuation of options on coupon bonds",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1987237821,
+                    "author": [
+                        {
+                            "AuId": 2094402528,
+                            "AuN": "francis a longstaff"
+                        },
+                        {
+                            "AuId": 2154760292,
+                            "AuN": "eduardo s schwartz"
+                        }
+                    ],
+                    "doi": "10.3905/JFI.1992.408053",
+                    "journal": "the journal of fixed income",
+                    "title": "a two factor interest rate model and contingent claims valuation",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1970504406,
+                    "author": [
+                        {
+                            "AuId": 2634490654,
+                            "AuN": "antoon pelsser"
+                        }
+                    ],
+                    "doi": "10.1007/BF01531145",
+                    "journal": "review of derivatives research",
+                    "title": "a tractable yield curve model that guarantees positive interest rates",
+                    "year_mag": 1996
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Russo",
+                            "given": "Vincenzo",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Fabozzi",
+                            "given": "Frank J.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3905/JFI.2016.25.4.076",
+                    "title": "pricing coupon bond options and swaptions under the one factor hull white model",
+                    "year_oc": 2016
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hull",
+                            "given": "John C",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "White",
+                            "given": "Alan D",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3905/JOD.1994.407908",
+                    "title": "numerical procedures for implementing term structure models ii",
+                    "year_oc": 1994
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2617326567,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.3905/JOD.2017.24.4.080",
+                    "journal": "journal of derivatives",
+                    "title": "calibrating short interest rate models in negative rate environments",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2892607879,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 1999703830,
+                            "AuN": "rosella giacometti"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-018-3064-Z",
+                    "journal": "journal of derivatives",
+                    "title": "market implied volatilities for defaultable bonds",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3017868777,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 1999703830,
+                            "AuN": "rosella giacometti"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.3905/JOD.2020.1.104",
+                    "journal": "journal of derivatives",
+                    "title": "closed form solution for defaultable bond options under a two factor gaussian model for risky rates modeling",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2772257658,
+                    "author": [
+                        {
+                            "AuId": 2774318083,
+                            "AuN": "jinal patel"
+                        },
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.1016/J.FRL.2017.10.013",
+                    "journal": "journal of derivatives",
+                    "title": "using the right implied volatility quotes in times of low interest rates an empirical analysis across different currencies",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2808961124,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 2614099030,
+                            "AuN": "gabriele torri"
+                        }
+                    ],
+                    "doi": "10.1007/S10287-018-0323-Z",
+                    "journal": "journal of derivatives",
+                    "title": "calibration of one factor and two factor hull white models using swaptions",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.3905/JFI.2017.27.2.030",
+            "journal": "THE JOURNAL OF FIXED INCOME",
+            "title": "pricing coupon bond options and swaptions under the two factor hull white model",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1059-8596"
+            ],
+            "PId": 2768510339,
+            "cited": [
+                {
+                    "PId": 1998031535,
+                    "author": [
+                        {
+                            "AuId": 2682266702,
+                            "AuN": "john c hull"
+                        },
+                        {
+                            "AuId": 2121047447,
+                            "AuN": "alan white"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/3.4.573",
+                    "journal": "review of financial studies",
+                    "title": "pricing interest rate derivative securities",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2050067494,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(76)90024-6",
+                    "journal": "journal of financial economics",
+                    "title": "the pricing of commodity contracts",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 1485179637,
+                    "author": [
+                        {
+                            "AuId": 2111823975,
+                            "AuN": "donghyun ahn"
+                        },
+                        {
+                            "AuId": 2324146783,
+                            "AuN": "robert f dittmar"
+                        },
+                        {
+                            "AuId": 2019115175,
+                            "AuN": "a ronald gallant"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/15.1.243",
+                    "journal": "review of financial studies",
+                    "title": "quadratic term structure models theory and evidence",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2119299497,
+                    "author": [
+                        {
+                            "AuId": 2674134956,
+                            "AuN": "farshid jamshidian"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1989.TB02413.X",
+                    "journal": "journal of finance",
+                    "title": "an exact bond option formula",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 1958196783,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        },
+                        {
+                            "AuId": 2711745267,
+                            "AuN": "piotr karasinski"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V47.N4.52",
+                    "journal": "financial analysts journal",
+                    "title": "bond and option pricing when short rates are lognormal",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2039402606,
+                    "author": [
+                        {
+                            "AuId": 2275156521,
+                            "AuN": "masaaki kijima"
+                        },
+                        {
+                            "AuId": 2937162875,
+                            "AuN": "keiichi tanaka"
+                        },
+                        {
+                            "AuId": 2510306037,
+                            "AuN": "tony wong"
+                        }
+                    ],
+                    "doi": "10.1080/14697680802624963",
+                    "journal": "quantitative finance",
+                    "title": "a multi quality model of interest rates",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2125124025,
+                    "author": [
+                        {
+                            "AuId": 2073092113,
+                            "AuN": "markus leippold"
+                        },
+                        {
+                            "AuId": 2155191098,
+                            "AuN": "liuren wu"
+                        }
+                    ],
+                    "doi": "10.2307/3595006",
+                    "journal": "journal of financial and quantitative analysis",
+                    "title": "asset pricing under the quadratic class",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2171451979,
+                    "author": [
+                        {
+                            "AuId": 1761395358,
+                            "AuN": "george m constantinides"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/5.4.531",
+                    "journal": "review of financial studies",
+                    "title": "a theory of the nominal term structure of interest rates",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1211722519,
+                    "author": [
+                        {
+                            "AuId": 2916460678,
+                            "AuN": "ferdinando m ametrano"
+                        },
+                        {
+                            "AuId": 2071980789,
+                            "AuN": "marco bianchetti"
+                        },
+                        {
+                            "AuId": 2071980789,
+                            "AuN": "marco bianchetti"
+                        }
+                    ],
+                    "title": "bootstrapping the illiquidity multiple yield curves construction for market coherent forward rates estimation",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2156833036,
+                    "author": [
+                        {
+                            "AuId": 2064211247,
+                            "AuN": "marc p a henrard"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.970509",
+                    "title": "the irony in the derivatives discounting",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1996706609,
+                    "author": [
+                        {
+                            "AuId": 2596689446,
+                            "AuN": "li chen"
+                        },
+                        {
+                            "AuId": 2136117085,
+                            "AuN": "damir filipovic"
+                        },
+                        {
+                            "AuId": 2029230138,
+                            "AuN": "h vincent poor"
+                        }
+                    ],
+                    "doi": "10.1111/J.0960-1627.2004.00203.X",
+                    "journal": "mathematical finance",
+                    "title": "quadratic term structure models for risk free and defaultable rates",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1886933190,
+                    "author": [
+                        {
+                            "AuId": 2293517936,
+                            "AuN": "christian gourieroux"
+                        },
+                        {
+                            "AuId": 33184740,
+                            "AuN": "razvan sufana"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.757307",
+                    "title": "whishart quadratic term structure models",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2092784029,
+                    "author": [
+                        {
+                            "AuId": 2094402528,
+                            "AuN": "francis a longstaff"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(89)90056-1",
+                    "journal": "journal of financial economics",
+                    "title": "a nonlinear general equilibrium model of the term structure of interest rates",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2050777959,
+                    "author": [
+                        {
+                            "AuId": 1277134654,
+                            "AuN": "david r beaglehole"
+                        },
+                        {
+                            "AuId": 2064346948,
+                            "AuN": "mark tenney"
+                        }
+                    ],
+                    "doi": "10.3905/JFI.1991.408014",
+                    "journal": "the journal of fixed income",
+                    "title": "general solutions of some interest rate contingent claim pricing equations",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2168434664,
+                    "author": [
+                        {
+                            "AuId": 2073092113,
+                            "AuN": "markus leippold"
+                        },
+                        {
+                            "AuId": 2155191098,
+                            "AuN": "liuren wu"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.317120",
+                    "journal": "review of finance",
+                    "title": "design and estimation of quadratic term structure models",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2023656244,
+                    "author": [
+                        {
+                            "AuId": 2570216984,
+                            "AuN": "farshid jamshidian"
+                        }
+                    ],
+                    "doi": "10.1080/13504869600000005",
+                    "journal": "applied mathematical finance",
+                    "title": "bond futures and option evaluation in the quadratic interest rate model",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 1993924242,
+                    "author": [
+                        {
+                            "AuId": 166847715,
+                            "AuN": "damiano brigo"
+                        },
+                        {
+                            "AuId": 2031632740,
+                            "AuN": "fabio mercurio"
+                        }
+                    ],
+                    "doi": "10.1007/PL00013541",
+                    "journal": "finance and stochastics",
+                    "title": "a deterministic shift extension of analytically tractable and time homogeneous short rate models",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2054869858,
+                    "author": [
+                        {
+                            "AuId": 2692340278,
+                            "AuN": "f jamshidian"
+                        }
+                    ],
+                    "doi": "10.1080/13504869500000004",
+                    "journal": "applied mathematical finance",
+                    "title": "a simple class of square root interest rate models",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1970504406,
+                    "author": [
+                        {
+                            "AuId": 2634490654,
+                            "AuN": "antoon pelsser"
+                        }
+                    ],
+                    "doi": "10.1007/BF01531145",
+                    "journal": "review of derivatives research",
+                    "title": "a tractable yield curve model that guarantees positive interest rates",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2058374591,
+                    "author": [
+                        {
+                            "AuId": 2176334485,
+                            "AuN": "phelim p boyle"
+                        },
+                        {
+                            "AuId": 2101053205,
+                            "AuN": "weidong tian"
+                        }
+                    ],
+                    "doi": "10.3905/JFI.1999.319221",
+                    "journal": "the journal of fixed income",
+                    "title": "quadratic interest rate models as approximations to effective rate models",
+                    "year_mag": 1999
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Henrard",
+                            "given": "Marc",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1002/WILJ.39",
+                    "title": "the irony in derivatives discounting part ii the crisis",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Leippold",
+                            "given": "Markus",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Wu",
+                            "given": "Liuren",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1023/A:1022502724886",
+                    "title": "design and estimation of quadratic term structure models ",
+                    "year_oc": 2003
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2175110751,
+                    "author": [
+                        {
+                            "AuId": 2170481532,
+                            "AuN": "griselda deelstra"
+                        },
+                        {
+                            "AuId": 2015478241,
+                            "AuN": "martino grasselli"
+                        },
+                        {
+                            "AuId": 857866942,
+                            "AuN": "christopher van weverberg"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2016.09.010",
+                    "journal": "insurance mathematics & economics",
+                    "title": "the role of the dependence between mortality and interest rates when pricing guaranteed annuity options",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2315098766,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.3905/JFI.2017.27.2.030",
+                    "journal": "insurance mathematics & economics",
+                    "title": "pricing coupon bond options and swaptions under the one factor hull white model",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2617326567,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.3905/JOD.2017.24.4.080",
+                    "journal": "insurance mathematics & economics",
+                    "title": "calibrating short interest rate models in negative rate environments",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2772257658,
+                    "author": [
+                        {
+                            "AuId": 2774318083,
+                            "AuN": "jinal patel"
+                        },
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.1016/J.FRL.2017.10.013",
+                    "journal": "insurance mathematics & economics",
+                    "title": "using the right implied volatility quotes in times of low interest rates an empirical analysis across different currencies",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2808961124,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 2614099030,
+                            "AuN": "gabriele torri"
+                        }
+                    ],
+                    "doi": "10.1007/S10287-018-0323-Z",
+                    "journal": "insurance mathematics & economics",
+                    "title": "calibration of one factor and two factor hull white models using swaptions",
+                    "year_mag": 2019
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Russo",
+                            "given": "Vincenzo",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Fabozzi",
+                            "given": "Frank J.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3905/JFI.2016.25.4.076",
+                    "title": "pricing coupon bond options and swaptions under the one factor hull white model",
+                    "year_oc": 2016
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.3905/JFI.2016.25.3.036",
+            "journal": "THE JOURNAL OF FIXED INCOME",
+            "title": "a one factor shifted squared gaussian term structure model for interest rate modeling",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1059-8596"
+            ],
+            "cited": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Wei",
+                            "given": "Jason Z.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1002/(SICI)1096-9934(199704)17:2<131::AID-FUT1>3.0.CO;2-K",
+                    "title": "a simple approach to bond option pricing",
+                    "year_oc": 1997
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Pelsser",
+                            "given": "Antoon",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/BF01531145",
+                    "title": "a tractable yield curve model that guarantees positive interest rates",
+                    "year_oc": 1996
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Brigo",
+                            "given": "Damiano",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Mercurio",
+                            "given": "Fabio",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/PL00013541",
+                    "title": "a deterministic shift extension of analytically tractable and time homogeneous short rate models",
+                    "year_oc": 2001
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Black",
+                            "given": "Fischer",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(76)90024-6",
+                    "title": "the pricing of commodity contracts",
+                    "year_oc": 1976
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Vasicek",
+                            "given": "Oldrich",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(77)90016-2",
+                    "title": "an equilibrium characterization of the term structure",
+                    "year_oc": 1977
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Longstaff",
+                            "given": "Francis A.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/0378-4266(93)90078-R",
+                    "title": "the valuation of options on coupon bonds",
+                    "year_oc": 1993
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Munk",
+                            "given": "Claus",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1023/A:1009654427422",
+                    "year_oc": 1999
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hull",
+                            "given": "John",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "White",
+                            "given": "Alan",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/3.4.573",
+                    "title": "pricing interest rate derivative securities",
+                    "year_oc": 1990
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Singleton",
+                            "given": "Kenneth J.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Umantsev",
+                            "given": "Len",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9965.2002.TB00132.X",
+                    "title": "pricing coupon bond options and swaptions in affine term structure models",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Schrager",
+                            "given": "David F.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Pelsser",
+                            "given": "Antoon A. J.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9965.2006.00289.X",
+                    "title": "pricing swaptions and coupon bond options in affine term structure models",
+                    "year_oc": 2006
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Banking Department, Bank for International Settlements, Aeschenplatz 1, CH-4002 Basel, Switzerland"
+                                }
+                            ],
+                            "family": "HENRARD",
+                            "given": "MARC",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1142/S0219024903001785",
+                    "title": "explicit bond option formula in heath jarrow morton one factor model",
+                    "year_oc": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Cox",
+                            "given": "John C.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Ingersoll",
+                            "given": "Jonathan E.",
+                            "sequence": "additional",
+                            "suffix": "join(' '"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Ross",
+                            "given": "Stephen A.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/1911242",
+                    "title": "a theory of the term structure of interest rates",
+                    "year_oc": 1985
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Black",
+                            "given": "Fischer",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Karasinski",
+                            "given": "Piotr",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V47.N4.52",
+                    "title": "bond and option pricing when short rates are lognormal",
+                    "year_oc": 1991
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kalotay",
+                            "given": "Andrew J.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Williams",
+                            "given": "George O.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Fabozzi",
+                            "given": "Frank J.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V49.N3.35",
+                    "title": "a model for valuing bonds and embedded options",
+                    "year_oc": 1993
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Russo",
+                            "given": "Vincenzo",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Fabozzi",
+                            "given": "Frank J.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3905/JFI.2016.25.3.036",
+                    "title": "a one factor shifted squared gaussian term structure model for interest rate modeling",
+                    "year_oc": 2015
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hull",
+                            "given": "John C",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "White",
+                            "given": "Alan D",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3905/JOD.1994.407902",
+                    "title": "numerical procedures for implementing term structure models i",
+                    "year_oc": 1994
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Collin-Dufresne",
+                            "given": "Pierre",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Goldstein",
+                            "given": "Robert S.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3905/JOD.2002.319187",
+                    "title": "pricing swaptions within an affine framework",
+                    "year_oc": 2002
+                }
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Russo",
+                            "given": "Vincenzo",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Fabozzi",
+                            "given": "Frank J.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3905/JFI.2017.27.2.030",
+                    "title": "pricing coupon bond options and swaptions under thetwo factor hull white model",
+                    "year_oc": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Russo",
+                            "given": "Vincenzo",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Fabozzi",
+                            "given": "Frank J.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3905/JOD.2017.24.4.080",
+                    "title": "calibrating short interest rate models in negative rate environments",
+                    "year_oc": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Russo",
+                            "given": "Vincenzo",
+                            "sequence": "first"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-4934-2154",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Torri",
+                            "given": "Gabriele",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S10287-018-0323-Z",
+                    "title": "calibration of one factor and two factor hull white models using swaptions",
+                    "year_oc": 2018
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Russo",
+                            "given": "Vincenzo",
+                            "sequence": "first"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-9761-3529",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Giacometti",
+                            "given": "Rosella",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Fabozzi",
+                            "given": "Frank J.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-018-3064-Z",
+                    "title": "market implied volatilities for defaultable bonds",
+                    "year_oc": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.3905/JFI.2016.25.4.076",
+            "journal": "THE JOURNAL OF FIXED INCOME",
+            "title": "pricing coupon bond options and swaptions under the one factor hull white model",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1092-0277"
+            ],
+            "PId": 1534774965,
+            "cited": [
+                {
+                    "PId": 1575658391,
+                    "author": [
+                        {
+                            "AuId": 166847715,
+                            "AuN": "damiano brigo"
+                        },
+                        {
+                            "AuId": 2031632740,
+                            "AuN": "fabio mercurio"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-662-04553-4",
+                    "title": "interest rate models theory and practice",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2115778593,
+                    "author": [
+                        {
+                            "AuId": 2210449200,
+                            "AuN": "darrell duffie"
+                        },
+                        {
+                            "AuId": 2168508420,
+                            "AuN": "jun pan"
+                        },
+                        {
+                            "AuId": 669620310,
+                            "AuN": "kenneth j singleton"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.157733",
+                    "journal": "econometrica",
+                    "title": "transform analysis and asset pricing for affine jump diffusions",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2120297822,
+                    "author": [
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2006.00195.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "a two factor model for stochastic mortality with parameter uncertainty theory and calibration",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1969498530,
+                    "author": [
+                        {
+                            "AuId": 2441013466,
+                            "AuN": "ronald lee"
+                        },
+                        {
+                            "AuId": 2316454628,
+                            "AuN": "lawrence r carter"
+                        }
+                    ],
+                    "doi": "10.1080/01621459.1992.10475265",
+                    "journal": "journal of the american statistical association",
+                    "title": "modeling and forecasting u s mortality",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2101518413,
+                    "author": [
+                        {
+                            "AuId": 300730785,
+                            "AuN": "natacha brouhns"
+                        },
+                        {
+                            "AuId": 2100227766,
+                            "AuN": "michel denuit"
+                        },
+                        {
+                            "AuId": 2126209104,
+                            "AuN": "jeroen k vermunt"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(02)00185-3",
+                    "journal": "insurance mathematics & economics",
+                    "title": "a poisson log bilinear regression approach to the construction of projected lifetables",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2076057077,
+                    "author": [
+                        {
+                            "AuId": 2007039471,
+                            "AuN": "oldrich a vasicek"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(77)90016-2",
+                    "journal": "journal of financial economics",
+                    "title": "an equilibrium characterization of the term structure",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 2077252204,
+                    "author": [
+                        {
+                            "AuId": 2223661780,
+                            "AuN": "charles r nelson"
+                        },
+                        {
+                            "AuId": 2146231952,
+                            "AuN": "andrew f siegel"
+                        }
+                    ],
+                    "doi": "10.1086/296409",
+                    "journal": "the journal of business",
+                    "title": "parsimonious modeling of yield curves",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2042636783,
+                    "author": [
+                        {
+                            "AuId": 1969626576,
+                            "AuN": "iain d currie"
+                        },
+                        {
+                            "AuId": 2015185822,
+                            "AuN": "maria durban"
+                        },
+                        {
+                            "AuId": 2951301646,
+                            "AuN": "paul h c eilers"
+                        }
+                    ],
+                    "doi": "10.1191/1471082X04ST080OA",
+                    "journal": "statistical modelling",
+                    "title": "smoothing and forecasting mortality rates",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2035003768,
+                    "author": [
+                        {
+                            "AuId": 2230429223,
+                            "AuN": "mikkel dahl"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2004.05.003",
+                    "journal": "insurance mathematics & economics",
+                    "title": "stochastic mortality in life insurance market reserves and mortality linked insurance contracts",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2078156931,
+                    "author": [
+                        {
+                            "AuId": 102033585,
+                            "AuN": "enrico biffis"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.647421",
+                    "journal": "insurance mathematics & economics",
+                    "title": "affine processes for dynamic mortality and actuarial valuations",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1821957428,
+                    "author": [
+                        {
+                            "AuId": 2227265576,
+                            "AuN": "moshe a milevsky"
+                        },
+                        {
+                            "AuId": 2176582247,
+                            "AuN": "s david promislow"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(01)00093-2",
+                    "journal": "insurance mathematics & economics",
+                    "title": "mortality derivatives and the option to annuitise",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2017409449,
+                    "author": [
+                        {
+                            "AuId": 2015126238,
+                            "AuN": "richard plat"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2009.08.006",
+                    "journal": "insurance mathematics & economics",
+                    "title": "on stochastic mortality modeling",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1607623934,
+                    "author": [
+                        {
+                            "AuId": 1813087977,
+                            "AuN": "robert r bliss"
+                        }
+                    ],
+                    "title": "testing term structure estimation methods",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2140010798,
+                    "author": [
+                        {
+                            "AuId": 2746274389,
+                            "AuN": "david f schrager"
+                        },
+                        {
+                            "AuId": 2746274389,
+                            "AuN": "david f schrager"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2005.06.013",
+                    "journal": "insurance mathematics & economics",
+                    "title": "affine stochastic mortality",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2141553554,
+                    "author": [
+                        {
+                            "AuId": 2464083417,
+                            "AuN": "a e renshaw"
+                        },
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(03)00118-5",
+                    "journal": "insurance mathematics & economics",
+                    "title": "on the forecasting of mortality reduction factors",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2150246581,
+                    "author": [
+                        {
+                            "AuId": 2316199842,
+                            "AuN": "elisa luciano"
+                        },
+                        {
+                            "AuId": 2316199842,
+                            "AuN": "elisa luciano"
+                        },
+                        {
+                            "AuId": 2154483574,
+                            "AuN": "elena vigna"
+                        },
+                        {
+                            "AuId": 2154483574,
+                            "AuN": "elena vigna"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.724706",
+                    "title": "non mean reverting affine processes for stochastic mortality",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 563824322,
+                    "author": [
+                        {
+                            "AuId": 2085403699,
+                            "AuN": "svetlozar t rachev"
+                        }
+                    ],
+                    "title": "financial econometrics from basics to advanced modeling techniques",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2164274945,
+                    "author": [
+                        {
+                            "AuId": 2015126238,
+                            "AuN": "richard plat"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1699587",
+                    "journal": "insurance mathematics & economics",
+                    "title": "one year value at risk for longevity and mortality",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1639890548,
+                    "author": [
+                        {
+                            "AuId": 300730785,
+                            "AuN": "natacha brouhns"
+                        },
+                        {
+                            "AuId": 2100227766,
+                            "AuN": "michel denuit"
+                        },
+                        {
+                            "AuId": 2126209104,
+                            "AuN": "jeroen k vermunt"
+                        }
+                    ],
+                    "journal": "insurance mathematics & economics",
+                    "title": "a poisson log bilinear approach to the construction of projected lifetables",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2043016978,
+                    "author": [
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        },
+                        {
+                            "AuId": 201038113,
+                            "AuN": "l martellini"
+                        },
+                        {
+                            "AuId": 349342060,
+                            "AuN": "philippe priaulet"
+                        }
+                    ],
+                    "doi": "10.3905/JFI.2005.523089",
+                    "journal": "the journal of fixed income",
+                    "title": "predictability in the shape of the term structure of interest rates",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2037883810,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 1999703830,
+                            "AuN": "rosella giacometti"
+                        },
+                        {
+                            "AuId": 2024915760,
+                            "AuN": "sergio ortobelli"
+                        },
+                        {
+                            "AuId": 2085403699,
+                            "AuN": "svetlozar t rachev"
+                        },
+                        {
+                            "AuId": 2085403699,
+                            "AuN": "svetlozar t rachev"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2011.01.015",
+                    "journal": "insurance mathematics & economics",
+                    "title": "calibrating affine stochastic mortality models using term assurance premiums",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1979540356,
+                    "author": [
+                        {
+                            "AuId": 2992968991,
+                            "AuN": "j huston mcculloch"
+                        }
+                    ],
+                    "doi": "10.1086/295329",
+                    "journal": "the journal of business",
+                    "title": "measuring the term structure of interest rates",
+                    "year_mag": 1971
+                },
+                {
+                    "PId": 94919757,
+                    "author": [
+                        {
+                            "AuId": 2278586647,
+                            "AuN": "sheauwen yang"
+                        }
+                    ],
+                    "title": "reserving pricing and hedging for guaranteed annuity options",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2278043311,
+                    "author": [
+                        {
+                            "AuId": 1999703830,
+                            "AuN": "rosella giacometti"
+                        },
+                        {
+                            "AuId": 2111498438,
+                            "AuN": "maria bertocchi"
+                        },
+                        {
+                            "AuId": 237385403,
+                            "AuN": "sergio ortobelli lozza"
+                        }
+                    ],
+                    "journal": "investment management & financial innovations",
+                    "title": "impact of different distributional assumptions in forecasting italian mortality rates",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2076464426,
+                    "author": [
+                        {
+                            "AuId": 1999703830,
+                            "AuN": "rosella giacometti"
+                        },
+                        {
+                            "AuId": 2024915760,
+                            "AuN": "sergio ortobelli"
+                        },
+                        {
+                            "AuId": 2111498438,
+                            "AuN": "maria bertocchi"
+                        }
+                    ],
+                    "doi": "10.1007/S10957-010-9771-5",
+                    "journal": "journal of optimization theory and applications",
+                    "title": "a stochastic model for mortality rate on italian data",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 145135714,
+                    "author": [
+                        {
+                            "AuId": 2999276154,
+                            "AuN": "ralph stevens"
+                        },
+                        {
+                            "AuId": 309464022,
+                            "AuN": "anja de waegenaere"
+                        },
+                        {
+                            "AuId": 69165822,
+                            "AuN": "bertrand melenberg"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1485385",
+                    "title": "calculating capital requirements for longevity risk in life insurance products using an internal model in line with solvency ii",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2132504853,
+                    "author": [
+                        {
+                            "AuId": 2155497905,
+                            "AuN": "benjamin gompertz"
+                        }
+                    ],
+                    "doi": "10.1098/RSTL.1825.0026",
+                    "journal": "philosophical transactions of the royal society",
+                    "title": "on the nature of the function expressive of the law of human mortality and on a new mode of determining the value of life contingencies",
+                    "year_mag": 1825
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Biffis",
+                            "given": "Enrico",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2005.05.003",
+                    "title": "affine processes for dynamic mortality and actuarial valuations",
+                    "year_oc": 2005
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Plat",
+                            "given": "Richard",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2011.07.002",
+                    "title": "one year value at risk for longevity and mortality",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Duffie",
+                            "given": "Darrell",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Pan",
+                            "given": "Jun",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Singleton",
+                            "given": "Kenneth",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/1468-0262.00164",
+                    "title": "transform analysis and asset pricing for affine jump diffusions",
+                    "year_oc": 2000
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Olivieri",
+                            "given": "Annamaria",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Pitacco",
+                            "given": "Ermanno",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1287688",
+                    "title": "stochastic mortality the impact on target capital",
+                    "year_oc": 2008
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Cairns",
+                            "given": "Andrew J.G.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Blake",
+                            "given": "David",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Dowd",
+                            "given": "Kevin",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2143/AST.36.1.2014145",
+                    "title": "pricing death frameworks for the valuation and securitization of mortality risk",
+                    "year_oc": 2006
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2902148758,
+                    "author": [
+                        {
+                            "AuId": 2736379448,
+                            "AuN": "zhe huang"
+                        },
+                        {
+                            "AuId": 2605907768,
+                            "AuN": "franck martin"
+                        }
+                    ],
+                    "doi": "10.1080/00036846.2018.1545080",
+                    "journal": "applied economics",
+                    "title": "pairs trading strategies in a cointegration framework back tested on cfd and optimized by profit factor",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3097734923,
+                    "author": [
+                        {
+                            "AuId": 3089828307,
+                            "AuN": "akib mashrur"
+                        },
+                        {
+                            "AuId": 2601343041,
+                            "AuN": "wei luo"
+                        },
+                        {
+                            "AuId": 2131465174,
+                            "AuN": "nayyar a zaidi"
+                        },
+                        {
+                            "AuId": 2012011159,
+                            "AuN": "antonio robleskelly"
+                        }
+                    ],
+                    "doi": "10.1109/ACCESS.2020.3036322",
+                    "journal": "applied economics",
+                    "title": "machine learning for financial risk management a survey",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2737544969,
+                    "author": [
+                        {
+                            "AuId": 2736379448,
+                            "AuN": "zhe huang"
+                        },
+                        {
+                            "AuId": 2737300506,
+                            "AuN": "franck martin"
+                        }
+                    ],
+                    "journal": "applied economics",
+                    "title": "optimal pairs trading strategies in a cointegration framework",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.1080/10920277.2015.1015262",
+            "journal": "NORTH AMERICAN ACTUARIAL JOURNAL",
+            "title": "a three factor model for mortality modeling",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0167-6687"
+            ],
+            "PId": 2037883810,
+            "cited": [
+                {
+                    "PId": 3021444882,
+                    "author": [
+                        {
+                            "AuId": 2299606345,
+                            "AuN": "john c cox"
+                        },
+                        {
+                            "AuId": 2051703268,
+                            "AuN": "jonathan e ingersoll"
+                        },
+                        {
+                            "AuId": 2163419371,
+                            "AuN": "stephen a ross"
+                        }
+                    ],
+                    "doi": "10.2307/1911242",
+                    "journal": "econometrica",
+                    "title": "a theory of the term structure of interest rates",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 1575658391,
+                    "author": [
+                        {
+                            "AuId": 166847715,
+                            "AuN": "damiano brigo"
+                        },
+                        {
+                            "AuId": 2031632740,
+                            "AuN": "fabio mercurio"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-662-04553-4",
+                    "title": "interest rate models theory and practice",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2120297822,
+                    "author": [
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2006.00195.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "a two factor model for stochastic mortality with parameter uncertainty theory and calibration",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1969498530,
+                    "author": [
+                        {
+                            "AuId": 2441013466,
+                            "AuN": "ronald lee"
+                        },
+                        {
+                            "AuId": 2316454628,
+                            "AuN": "lawrence r carter"
+                        }
+                    ],
+                    "doi": "10.1080/01621459.1992.10475265",
+                    "journal": "journal of the american statistical association",
+                    "title": "modeling and forecasting u s mortality",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2101518413,
+                    "author": [
+                        {
+                            "AuId": 300730785,
+                            "AuN": "natacha brouhns"
+                        },
+                        {
+                            "AuId": 2100227766,
+                            "AuN": "michel denuit"
+                        },
+                        {
+                            "AuId": 2126209104,
+                            "AuN": "jeroen k vermunt"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(02)00185-3",
+                    "journal": "insurance mathematics & economics",
+                    "title": "a poisson log bilinear regression approach to the construction of projected lifetables",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2076057077,
+                    "author": [
+                        {
+                            "AuId": 2007039471,
+                            "AuN": "oldrich a vasicek"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(77)90016-2",
+                    "journal": "journal of financial economics",
+                    "title": "an equilibrium characterization of the term structure",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 1781698703,
+                    "author": [
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.1017/S0515036100014410",
+                    "journal": "astin bulletin",
+                    "title": "pricing death frameworks for the valuation and securitization of mortality risk",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2131560241,
+                    "author": [
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        }
+                    ],
+                    "doi": "10.1017/S1357321700004736",
+                    "journal": "british actuarial journal",
+                    "title": "living with mortality longevity bonds and other mortality linked securities",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2042077767,
+                    "author": [
+                        {
+                            "AuId": 2107247329,
+                            "AuN": "yijia lin"
+                        },
+                        {
+                            "AuId": 2112720925,
+                            "AuN": "samuel h cox"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2005.00122.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "securitization of mortality risks in life annuities",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2042636783,
+                    "author": [
+                        {
+                            "AuId": 1969626576,
+                            "AuN": "iain d currie"
+                        },
+                        {
+                            "AuId": 2015185822,
+                            "AuN": "maria durban"
+                        },
+                        {
+                            "AuId": 2951301646,
+                            "AuN": "paul h c eilers"
+                        }
+                    ],
+                    "doi": "10.1191/1471082X04ST080OA",
+                    "journal": "statistical modelling",
+                    "title": "smoothing and forecasting mortality rates",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2035003768,
+                    "author": [
+                        {
+                            "AuId": 2230429223,
+                            "AuN": "mikkel dahl"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2004.05.003",
+                    "journal": "insurance mathematics & economics",
+                    "title": "stochastic mortality in life insurance market reserves and mortality linked insurance contracts",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2053984877,
+                    "author": [
+                        {
+                            "AuId": 2120373896,
+                            "AuN": "shaun wang"
+                        }
+                    ],
+                    "doi": "10.2307/253675",
+                    "journal": "journal of risk and insurance",
+                    "title": "a class of distortion operators for pricing financial and insurance risks",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2078156931,
+                    "author": [
+                        {
+                            "AuId": 102033585,
+                            "AuN": "enrico biffis"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.647421",
+                    "journal": "insurance mathematics & economics",
+                    "title": "affine processes for dynamic mortality and actuarial valuations",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1821957428,
+                    "author": [
+                        {
+                            "AuId": 2227265576,
+                            "AuN": "moshe a milevsky"
+                        },
+                        {
+                            "AuId": 2176582247,
+                            "AuN": "s david promislow"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(01)00093-2",
+                    "journal": "insurance mathematics & economics",
+                    "title": "mortality derivatives and the option to annuitise",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2076700243,
+                    "author": [
+                        {
+                            "AuId": 2120373896,
+                            "AuN": "shaun wang"
+                        }
+                    ],
+                    "doi": "10.2143/AST.32.2.1027",
+                    "journal": "astin bulletin",
+                    "title": "a universal framework for pricing financial and insurance risks",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2140010798,
+                    "author": [
+                        {
+                            "AuId": 2746274389,
+                            "AuN": "david f schrager"
+                        },
+                        {
+                            "AuId": 2746274389,
+                            "AuN": "david f schrager"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2005.06.013",
+                    "journal": "insurance mathematics & economics",
+                    "title": "affine stochastic mortality",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2141553554,
+                    "author": [
+                        {
+                            "AuId": 2464083417,
+                            "AuN": "a e renshaw"
+                        },
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(03)00118-5",
+                    "journal": "insurance mathematics & economics",
+                    "title": "on the forecasting of mortality reduction factors",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1964513692,
+                    "author": [
+                        {
+                            "AuId": 2190230738,
+                            "AuN": "george chacko"
+                        },
+                        {
+                            "AuId": 2146553790,
+                            "AuN": "sanjiv ranjan das"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/15.1.195",
+                    "journal": "review of financial studies",
+                    "title": "pricing interest rate derivatives a general approach",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2094711838,
+                    "author": [
+                        {
+                            "AuId": 2100227766,
+                            "AuN": "michel denuit"
+                        },
+                        {
+                            "AuId": 2062647442,
+                            "AuN": "pierre devolder"
+                        },
+                        {
+                            "AuId": 3002793964,
+                            "AuN": "annececile goderniaux"
+                        }
+                    ],
+                    "doi": "10.1111/J.1539-6975.2007.00203.X",
+                    "journal": "journal of risk and insurance",
+                    "title": "securitization of longevity risk pricing survivor bonds with wang transform in the lee carter framework",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2150246581,
+                    "author": [
+                        {
+                            "AuId": 2316199842,
+                            "AuN": "elisa luciano"
+                        },
+                        {
+                            "AuId": 2316199842,
+                            "AuN": "elisa luciano"
+                        },
+                        {
+                            "AuId": 2154483574,
+                            "AuN": "elena vigna"
+                        },
+                        {
+                            "AuId": 2154483574,
+                            "AuN": "elena vigna"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.724706",
+                    "title": "non mean reverting affine processes for stochastic mortality",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2077269078,
+                    "author": [
+                        {
+                            "AuId": 2316454628,
+                            "AuN": "lawrence r carter"
+                        },
+                        {
+                            "AuId": 2441013466,
+                            "AuN": "ronald lee"
+                        }
+                    ],
+                    "doi": "10.1016/0169-2070(92)90055-E",
+                    "journal": "international journal of forecasting",
+                    "title": "modeling and forecasting us sex differentials in mortality",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1639890548,
+                    "author": [
+                        {
+                            "AuId": 300730785,
+                            "AuN": "natacha brouhns"
+                        },
+                        {
+                            "AuId": 2100227766,
+                            "AuN": "michel denuit"
+                        },
+                        {
+                            "AuId": 2126209104,
+                            "AuN": "jeroen k vermunt"
+                        }
+                    ],
+                    "journal": "insurance mathematics & economics",
+                    "title": "a poisson log bilinear approach to the construction of projected lifetables",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2144507639,
+                    "author": [
+                        {
+                            "AuId": 2120373896,
+                            "AuN": "shaun wang"
+                        }
+                    ],
+                    "doi": "10.1017/S0515036100013301",
+                    "journal": "astin bulletin",
+                    "title": "equilibrium pricing transforms new results using buhlmann s 1980 economic model",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1596931553,
+                    "author": [
+                        {
+                            "AuId": 2227265576,
+                            "AuN": "moshe a milevsky"
+                        },
+                        {
+                            "AuId": 2176582247,
+                            "AuN": "s david promislow"
+                        },
+                        {
+                            "AuId": 2125601459,
+                            "AuN": "virginia r young"
+                        }
+                    ],
+                    "journal": "arxiv pricing of securities",
+                    "title": "financial valuation of mortality risk via the instantaneous sharpe ratio applications to pricing pure endowments",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1832168765,
+                    "author": [
+                        {
+                            "AuId": 2720736427,
+                            "AuN": "oldrich alfonso vasicek"
+                        }
+                    ],
+                    "doi": "10.2307/2330340",
+                    "journal": "journal of financial and quantitative analysis",
+                    "title": "abstract an equilibrium characterization of the term structure",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 94919757,
+                    "author": [
+                        {
+                            "AuId": 2278586647,
+                            "AuN": "sheauwen yang"
+                        }
+                    ],
+                    "title": "reserving pricing and hedging for guaranteed annuity options",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2278043311,
+                    "author": [
+                        {
+                            "AuId": 1999703830,
+                            "AuN": "rosella giacometti"
+                        },
+                        {
+                            "AuId": 2111498438,
+                            "AuN": "maria bertocchi"
+                        },
+                        {
+                            "AuId": 237385403,
+                            "AuN": "sergio ortobelli lozza"
+                        }
+                    ],
+                    "journal": "investment management & financial innovations",
+                    "title": "impact of different distributional assumptions in forecasting italian mortality rates",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2076464426,
+                    "author": [
+                        {
+                            "AuId": 1999703830,
+                            "AuN": "rosella giacometti"
+                        },
+                        {
+                            "AuId": 2024915760,
+                            "AuN": "sergio ortobelli"
+                        },
+                        {
+                            "AuId": 2111498438,
+                            "AuN": "maria bertocchi"
+                        }
+                    ],
+                    "doi": "10.1007/S10957-010-9771-5",
+                    "journal": "journal of optimization theory and applications",
+                    "title": "a stochastic model for mortality rate on italian data",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1582943505,
+                    "author": [
+                        {
+                            "AuId": 2100227766,
+                            "AuN": "michel denuit"
+                        },
+                        {
+                            "AuId": 2062647442,
+                            "AuN": "pierre devolder"
+                        }
+                    ],
+                    "title": "continuous time stochastic mortality and securitization of longevity risk",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2132504853,
+                    "author": [
+                        {
+                            "AuId": 2155497905,
+                            "AuN": "benjamin gompertz"
+                        }
+                    ],
+                    "doi": "10.1098/RSTL.1825.0026",
+                    "journal": "philosophical transactions of the royal society",
+                    "title": "on the nature of the function expressive of the law of human mortality and on a new mode of determining the value of life contingencies",
+                    "year_mag": 1825
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2000474982,
+                    "author": [
+                        {
+                            "AuId": 2906245713,
+                            "AuN": "man chung fung"
+                        },
+                        {
+                            "AuId": 1964053146,
+                            "AuN": "katja ignatieva"
+                        },
+                        {
+                            "AuId": 2160055057,
+                            "AuN": "michael sherris"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2279274",
+                    "journal": "insurance mathematics & economics",
+                    "title": "systematic mortality risk an analysis of guaranteed lifetime withdrawal benefits in variable annuities",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2116417176,
+                    "author": [
+                        {
+                            "AuId": 2669501319,
+                            "AuN": "ken seng tan"
+                        },
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 2314611761,
+                            "AuN": "richard d macminn"
+                        },
+                        {
+                            "AuId": 2314611761,
+                            "AuN": "richard d macminn"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2015.03.015",
+                    "journal": "insurance mathematics & economics",
+                    "title": "longevity risk and capital markets the 2013 14 update",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2124335514,
+                    "author": [
+                        {
+                            "AuId": 2725701855,
+                            "AuN": "tat wing wong"
+                        },
+                        {
+                            "AuId": 2730608045,
+                            "AuN": "mei choi \u5f90\u7f8e\u5f69 chiu"
+                        },
+                        {
+                            "AuId": 2170921962,
+                            "AuN": "hoi ying wong"
+                        }
+                    ],
+                    "doi": "10.1111/JORI.12110",
+                    "journal": "insurance mathematics & economics",
+                    "title": "managing mortality risk with longevity bonds when mortality rates are cointegrated",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3045935275,
+                    "author": [
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 667485976,
+                            "AuN": "nicole el karoui"
+                        },
+                        {
+                            "AuId": 2140558085,
+                            "AuN": "stephane loisel"
+                        },
+                        {
+                            "AuId": 2314611761,
+                            "AuN": "richard d macminn"
+                        },
+                        {
+                            "AuId": 2314611761,
+                            "AuN": "richard d macminn"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2017.10.002",
+                    "journal": "insurance mathematics & economics",
+                    "title": "longevity risk and capital markets the 2015 16 update",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3023867188,
+                    "author": [
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 2314611761,
+                            "AuN": "richard d macminn"
+                        },
+                        {
+                            "AuId": 2158445631,
+                            "AuN": "johnny siuhang li"
+                        },
+                        {
+                            "AuId": 2327531911,
+                            "AuN": "mary r hardy"
+                        }
+                    ],
+                    "doi": "10.1080/10920277.2014.883233",
+                    "journal": "insurance mathematics & economics",
+                    "title": "longevity risk and capital markets the 2012 2013 update",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2175110751,
+                    "author": [
+                        {
+                            "AuId": 2170481532,
+                            "AuN": "griselda deelstra"
+                        },
+                        {
+                            "AuId": 2015478241,
+                            "AuN": "martino grasselli"
+                        },
+                        {
+                            "AuId": 857866942,
+                            "AuN": "christopher van weverberg"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2016.09.010",
+                    "journal": "insurance mathematics & economics",
+                    "title": "the role of the dependence between mortality and interest rates when pricing guaranteed annuity options",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2792166763,
+                    "author": [
+                        {
+                            "AuId": 2916632009,
+                            "AuN": "piotr sliwka"
+                        },
+                        {
+                            "AuId": 2789594697,
+                            "AuN": "leslaw socha"
+                        }
+                    ],
+                    "doi": "10.1080/03461238.2018.1431805",
+                    "journal": "insurance mathematics & economics",
+                    "title": "a proposition of generalized stochastic milevsky promislov mortality models",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2794857283,
+                    "author": [
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        },
+                        {
+                            "AuId": 1851531893,
+                            "AuN": "kevin dowd"
+                        },
+                        {
+                            "AuId": 2665943716,
+                            "AuN": "amy kessler"
+                        }
+                    ],
+                    "doi": "10.1017/S1357321718000314",
+                    "journal": "insurance mathematics & economics",
+                    "title": "still living with mortality the longevity risk transfer market after one decade",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2550542292,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 1999703830,
+                            "AuN": "rosella giacometti"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2016.11.001",
+                    "journal": "insurance mathematics & economics",
+                    "title": "intensity based framework for surrender modeling in life insurance",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 1534774965,
+                    "author": [
+                        {
+                            "AuId": 2442995253,
+                            "AuN": "vincenzo russo"
+                        },
+                        {
+                            "AuId": 1999703830,
+                            "AuN": "rosella giacometti"
+                        },
+                        {
+                            "AuId": 2085403699,
+                            "AuN": "svetlozar t rachev"
+                        },
+                        {
+                            "AuId": 2711888952,
+                            "AuN": "frank j fabozzi"
+                        }
+                    ],
+                    "doi": "10.1080/10920277.2015.1015262",
+                    "journal": "insurance mathematics & economics",
+                    "title": "a three factor model for mortality modeling",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2076464426,
+                    "author": [
+                        {
+                            "AuId": 1999703830,
+                            "AuN": "rosella giacometti"
+                        },
+                        {
+                            "AuId": 2024915760,
+                            "AuN": "sergio ortobelli"
+                        },
+                        {
+                            "AuId": 2111498438,
+                            "AuN": "maria bertocchi"
+                        }
+                    ],
+                    "doi": "10.1007/S10957-010-9771-5",
+                    "journal": "insurance mathematics & economics",
+                    "title": "a stochastic model for mortality rate on italian data",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1194195790,
+                    "author": [
+                        {
+                            "AuId": 2024113744,
+                            "AuN": "daniel h alai"
+                        },
+                        {
+                            "AuId": 1964053146,
+                            "AuN": "katja ignatieva"
+                        },
+                        {
+                            "AuId": 2160055057,
+                            "AuN": "michael sherris"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2539434",
+                    "journal": "insurance mathematics & economics",
+                    "title": "a multivariate forward rate mortality framework",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 3046022641,
+                    "author": [
+                        {
+                            "AuId": 2141607585,
+                            "AuN": "david blake"
+                        },
+                        {
+                            "AuId": 2112024460,
+                            "AuN": "andrew j g cairns"
+                        }
+                    ],
+                    "doi": "10.1017/S1748499520000202",
+                    "journal": "insurance mathematics & economics",
+                    "title": "longevity risk and capital markets the 2018 19 update",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2986485928,
+                    "author": [
+                        {
+                            "AuId": 2884392095,
+                            "AuN": "david atance"
+                        },
+                        {
+                            "AuId": 2018432775,
+                            "AuN": "alejandro balbas"
+                        },
+                        {
+                            "AuId": 2154186369,
+                            "AuN": "eliseo navarro"
+                        }
+                    ],
+                    "doi": "10.1007/S10203-020-00308-5",
+                    "journal": "insurance mathematics & economics",
+                    "title": "constructing dynamic life tables with a single factor model",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 71171770,
+                    "author": [
+                        {
+                            "AuId": 2144265094,
+                            "AuN": "\u0142ukasz delong"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4471-5331-3_8",
+                    "journal": "insurance mathematics & economics",
+                    "title": "linear bsdes and predictable representations of insurance payment processes",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1843528692,
+                    "author": [
+                        {
+                            "AuId": 2722160409,
+                            "AuN": "pierre devolder"
+                        },
+                        {
+                            "AuId": 2687943788,
+                            "AuN": "celine azizieh"
+                        }
+                    ],
+                    "journal": "insurance mathematics & economics",
+                    "title": "margrabe option and life insurance with participation",
+                    "year_mag": 2013
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "8"
+            },
+            "doi": "10.1016/J.INSMATHECO.2011.01.015",
+            "journal": "INSURANCE MATHEMATICS & ECONOMICS",
+            "title": "calibrating affine stochastic mortality models using term assurance premiums",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1466-8297"
+            ],
+            "PId": 2149198253,
+            "citing": [
+                {
+                    "PId": 3030821302,
+                    "author": [
+                        {
+                            "AuId": 2139540038,
+                            "AuN": "zhuo huang"
+                        },
+                        {
+                            "AuId": 3020819111,
+                            "AuN": "fang liang"
+                        },
+                        {
+                            "AuId": 2153806353,
+                            "AuN": "tianyi wang"
+                        },
+                        {
+                            "AuId": 3031868397,
+                            "AuN": "chao li"
+                        }
+                    ],
+                    "doi": "10.1016/J.FRL.2020.101570",
+                    "journal": "finance research letters",
+                    "title": "modeling dynamic higher moments of crude oil futures",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2761296608,
+                    "author": [
+                        {
+                            "AuId": 2762120843,
+                            "AuN": "wang yong"
+                        }
+                    ],
+                    "doi": "10.2991/SNCE-17.2017.117",
+                    "journal": "finance research letters",
+                    "title": "research on the risk spillover effect of iron ore futures market",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "9"
+            },
+            "doi": "10.1504/IJRAM.2009.022198",
+            "journal": "INTERNATIONAL JOURNAL OF RISK ASSESSMENT AND MANAGEMENT",
+            "title": "autoregressive conditional moments in var estimate with gram charlier and cornish fisher expansions",
+            "type": "articolo in rivista",
+            "year": 2009
+        }
+    ],
+    "pubbs_mag": []
+}

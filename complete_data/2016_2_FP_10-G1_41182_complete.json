@@ -1,0 +1,5078 @@
+{
+    "AuIds": [
+        2110248856
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "2317624599_+_2073946513": 1,
+                "2497604812_+_183952579": 1,
+                "2497604812_+_2173426087": 1
+            },
+            "number": 3
+        },
+        "cand_nodes": 33,
+        "cand_paths": {
+            "2": [
+                [
+                    "2095740414",
+                    "1641828149"
+                ]
+            ],
+            "3": [
+                [
+                    "2486793923",
+                    "1641828149"
+                ],
+                [
+                    "2092470210",
+                    "1641828149"
+                ]
+            ]
+        },
+        "cc": {
+            "articles": {
+                "2092470210_+_2554963115": 1
+            },
+            "number": 1
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 531,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 186,
+            "comm_other": 4190,
+            "other_cand": 133,
+            "other_comm": 4965
+        },
+        "other_nodes": 6538
+    },
+    "coverage": {
+        "articles": 9,
+        "books": 2,
+        "cov_sect": "A",
+        "other_pubbs": 13,
+        "pubbs": 15,
+        "pubbs_found": 12,
+        "pubbs_ind": 23,
+        "pubbs_ind_found": 18,
+        "total_extra_found": 33,
+        "total_found": 18,
+        "total_pubbs": 24
+    },
+    "fullname": [
+        "Cristofaro",
+        "Sonia"
+    ],
+    "ind_anvur": [
+        21,
+        4,
+        1,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "9781107049604"
+            ],
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1017/9781107279070.031",
+            "title": "typological approaches",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-90-272-0696-1"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1075/TSL.115.15C",
+            "title": "chapter 15 routes to insubordination",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9789027269614"
+            ],
+            "PId": 2486793923,
+            "cited": [
+                {
+                    "PId": 49968339,
+                    "author": [
+                        {
+                            "AuId": 60083333,
+                            "AuN": "peter w culicover"
+                        }
+                    ],
+                    "journal": "linguistic inquiry",
+                    "title": "semantic subordination despite syntactic coordination",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2089482985,
+                    "author": [
+                        {
+                            "AuId": 1985423291,
+                            "AuN": "william croft"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.1998.9.2.151",
+                    "journal": "cognitive linguistics",
+                    "title": "linguistic evidence and mental representations",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2028449334,
+                    "author": [
+                        {
+                            "AuId": 95979212,
+                            "AuN": "martin haspelmath"
+                        }
+                    ],
+                    "doi": "10.1075/SL.28.3.06HAS",
+                    "journal": "studies in language",
+                    "title": "does linguistic explanation presuppose linguistic description",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2472509393,
+                    "author": [
+                        {
+                            "AuId": 716619668,
+                            "AuN": "joan l bybee"
+                        }
+                    ],
+                    "journal": "anthropological linguistics",
+                    "title": "irrealis as a grammatical category",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2071575033,
+                    "author": [
+                        {
+                            "AuId": 2138163201,
+                            "AuN": "paul deane"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.1991.2.1.1",
+                    "journal": "cognitive linguistics",
+                    "title": "limits to attention a cognitive theory of island phenomena",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2095740414,
+                    "author": [
+                        {
+                            "AuId": 2110248856,
+                            "AuN": "sonia cristofaro"
+                        }
+                    ],
+                    "doi": "10.1111/J.1749-818X.2008.00111.X",
+                    "journal": "language and linguistics compass",
+                    "title": "grammatical categories and relations universality vs language specificity and construction specificity",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2329073976,
+                    "author": [
+                        {
+                            "AuId": 2145703555,
+                            "AuN": "sandra a thompson"
+                        }
+                    ],
+                    "doi": "10.1515/TEXT.1.1985.5.1-2.55",
+                    "journal": "text interdisciplinary journal for the study of discourse",
+                    "title": "grammar and written discourse initial vs final purpose clauses in english",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 1521665280,
+                    "author": [
+                        {
+                            "AuId": 2778655698,
+                            "AuN": "john r roberts"
+                        }
+                    ],
+                    "journal": "linguistic inquiry",
+                    "title": "amele switch reference and the theory of grammar",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2062217880,
+                    "author": [
+                        {
+                            "AuId": 1850395033,
+                            "AuN": "nomi erteschikshir"
+                        },
+                        {
+                            "AuId": 2059221090,
+                            "AuN": "shalom lappin"
+                        }
+                    ],
+                    "doi": "10.1515/THLI.1979.6.1-3.41",
+                    "journal": "theoretical linguistics",
+                    "title": "dominance and the functional explanation of island phenomena",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 2479598436,
+                    "author": [
+                        {
+                            "AuId": 2496036754,
+                            "AuN": "konstantin i kazenin"
+                        },
+                        {
+                            "AuId": 2498889788,
+                            "AuN": "yakov g testelets"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.58.13KAZ",
+                    "title": "9 where coordination meets subordination converb constructions in tsakhur daghestanian",
+                    "year_mag": 2004
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2599308603,
+                    "author": [
+                        {
+                            "AuId": 2274401134,
+                            "AuN": "mitsuko narita izutsu"
+                        },
+                        {
+                            "AuId": 2155786453,
+                            "AuN": "katsunobu izutsu"
+                        }
+                    ],
+                    "doi": "10.1515/COG-2015-0027",
+                    "journal": "cognitive linguistics",
+                    "title": "stopgap subordinators and and but a non canonical structure emergent from interactional needs and typological requirements",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2790441937,
+                    "author": [
+                        {
+                            "AuId": 2790624425,
+                            "AuN": "ronald fong"
+                        }
+                    ],
+                    "doi": "10.1515/SCL-2017-0006",
+                    "journal": "cognitive linguistics",
+                    "title": "chinese motion directional construction a conceptual and cognitive analysis",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1075/PBNS.249.03C",
+            "title": "is there really a syntactic category of subordination ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1075/BCT.67.07C",
+            "title": "cognitive explanations distributional evidence and diachrony",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9780198709848"
+            ],
+            "PId": 2497604812,
+            "cited": [
+                {
+                    "PId": 2062707514,
+                    "author": [
+                        {
+                            "AuId": 1985423291,
+                            "AuN": "william croft"
+                        }
+                    ],
+                    "title": "typology and universals",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 1949319147,
+                    "author": [
+                        {
+                            "AuId": 1755484912,
+                            "AuN": "m dale kinkade"
+                        }
+                    ],
+                    "doi": "10.1525/JLIN.2000.10.2.297",
+                    "journal": "journal of linguistic anthropology",
+                    "title": "the languages of native north america",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1548472825,
+                    "author": [
+                        {
+                            "AuId": 251846356,
+                            "AuN": "felix k ameka"
+                        },
+                        {
+                            "AuId": 1880660125,
+                            "AuN": "alan dench"
+                        },
+                        {
+                            "AuId": 2236013743,
+                            "AuN": "nicholas evans"
+                        }
+                    ],
+                    "doi": "10.1515/9783110197693",
+                    "title": "catching language the standing challenge of grammar writing",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2481363083,
+                    "author": [
+                        {
+                            "AuId": 2336729835,
+                            "AuN": "matthew s dryer"
+                        }
+                    ],
+                    "doi": "10.1515/9783110197693.207",
+                    "title": "descriptive theories explanatory theories and basic linguistic theory",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1532845219,
+                    "author": [
+                        {
+                            "AuId": 2236764782,
+                            "AuN": "joseph h greenberg"
+                        },
+                        {
+                            "AuId": 2164267669,
+                            "AuN": "charles a ferguson"
+                        },
+                        {
+                            "AuId": 719086852,
+                            "AuN": "edith a moravcsik"
+                        }
+                    ],
+                    "title": "universals of human language",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 1977378297,
+                    "author": [
+                        {
+                            "AuId": 2146115979,
+                            "AuN": "carol lord"
+                        }
+                    ],
+                    "title": "historical change in serial verb constructions",
+                    "year_mag": 1993
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2264543266,
+                    "author": [
+                        {
+                            "AuId": 628886044,
+                            "AuN": "frederick j newmeyer"
+                        }
+                    ],
+                    "doi": "10.1111/COGS.12333",
+                    "journal": "cognitive science",
+                    "title": "form and function in the evolution of grammar",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2803497277,
+                    "author": [
+                        {
+                            "AuId": 2804865255,
+                            "AuN": "andrea sanso"
+                        }
+                    ],
+                    "doi": "10.1111/LNC3.12277",
+                    "journal": "cognitive science",
+                    "title": "explaining the diversity of antipassives formal grammar vs diachronic typology",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2912831119,
+                    "author": [
+                        {
+                            "AuId": 2160185959,
+                            "AuN": "eitan grossman"
+                        },
+                        {
+                            "AuId": 2060489347,
+                            "AuN": "stephane polis"
+                        }
+                    ],
+                    "doi": "10.1075/JHL.17027.GRO",
+                    "journal": "cognitive science",
+                    "title": "swimming against the typological tide or paddling along with language change dispreferred structures and diachronic biases in affix ordering",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 3040611730,
+                    "author": [
+                        {
+                            "AuId": 3040684822,
+                            "AuN": "nina dobrushina"
+                        }
+                    ],
+                    "doi": "10.1075/FOL.18056.DOB",
+                    "journal": "cognitive science",
+                    "title": "negation in complement clauses of fear verbs",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2873760302,
+                    "author": [
+                        {
+                            "AuId": 2110248856,
+                            "AuN": "sonia cristofaro"
+                        },
+                        {
+                            "AuId": 2988178031,
+                            "AuN": "fernando zuniga"
+                        }
+                    ],
+                    "journal": "cognitive science",
+                    "title": "synchronic vs diachronic approaches to typological hierarchies",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1093/ACPROF:OSO/9780198709848.003.0017",
+            "title": "competing motivations models and diachrony what evidence for what motivations ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-3-11-033103-5"
+            ],
+            "PId": 2486176429,
+            "citing": [
+                {
+                    "PId": 2852668332,
+                    "author": [
+                        {
+                            "AuId": 976278714,
+                            "AuN": "marianne mithun"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.121.03MIT",
+                    "title": "chapter 3 deconstructing teleology the place of synchronic usage patterns among processes of diachronic development",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2792081552,
+                    "author": [
+                        {
+                            "AuId": 1894610849,
+                            "AuN": "ivan igartua"
+                        },
+                        {
+                            "AuId": 1645456165,
+                            "AuN": "nerea madariaga"
+                        }
+                    ],
+                    "doi": "10.1007/S11185-017-9188-Y",
+                    "title": "the interplay of semantic and formal factors in russian morphosyntax animate paucal constructions in direct object function",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2840245058,
+                    "author": [
+                        {
+                            "AuId": 2877051909,
+                            "AuN": "aaron griffith"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.121.05GRI",
+                    "title": "chapter 5 diachrony and the referential hierarchy in old irish",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2912831119,
+                    "author": [
+                        {
+                            "AuId": 2160185959,
+                            "AuN": "eitan grossman"
+                        },
+                        {
+                            "AuId": 2060489347,
+                            "AuN": "stephane polis"
+                        }
+                    ],
+                    "doi": "10.1075/JHL.17027.GRO",
+                    "title": "swimming against the typological tide or paddling along with language change dispreferred structures and diachronic biases in affix ordering",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 3111536482,
+                    "author": [
+                        {
+                            "AuId": 2215370665,
+                            "AuN": "linda konnerth"
+                        },
+                        {
+                            "AuId": 2215370665,
+                            "AuN": "linda konnerth"
+                        }
+                    ],
+                    "doi": "10.1075/DIA.18055.KON",
+                    "title": "on the nature of inverse systems the rise of inverse marking via antipassive constructions",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3009467009,
+                    "author": [
+                        {
+                            "AuId": 3010002941,
+                            "AuN": "guglielmo inglese"
+                        }
+                    ],
+                    "doi": "10.1163/9789004432307",
+                    "title": "the hittite middle voice synchrony diachrony typology",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2724389498,
+                    "author": [
+                        {
+                            "AuId": 91685899,
+                            "AuN": "peter m arkadiev"
+                        }
+                    ],
+                    "doi": "10.1075/SL.41.3.06ARK",
+                    "title": "multiple ergatives from allomorphy to differential agent marking",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3037655903,
+                    "author": [
+                        {
+                            "AuId": 2910089395,
+                            "AuN": "ilja a ser\u017eant"
+                        },
+                        {
+                            "AuId": 3037573020,
+                            "AuN": "dariya rafiyenko"
+                        }
+                    ],
+                    "doi": "10.1163/22105832-BJA10009",
+                    "title": "diachronic evidence against source oriented explanation in typology evolution of prepositional phrases in ancient greek",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3005238923,
+                    "author": [
+                        {
+                            "AuId": 2795156633,
+                            "AuN": "guglielmo inglese"
+                        }
+                    ],
+                    "doi": "10.1075/JHL.00007.ING",
+                    "title": "variation und wandel in der syntax der alten indogermanischen sprachen by carlotta viti",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2823552014,
+                    "author": [
+                        {
+                            "AuId": 2618002844,
+                            "AuN": "antoine guillaume"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.121.06GUI",
+                    "title": "chapter 6 from ergative case marking to hierarchical agreement a reconstruction of the argument marking system of reyesano takanan bolivia",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2855169443,
+                    "author": [
+                        {
+                            "AuId": 2099111408,
+                            "AuN": "francoise rose"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.121.08ROS",
+                    "title": "chapter 8 are the tupi guarani hierarchical indexing systems really motivated by the person hierarchy",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 3045109122,
+                    "author": [
+                        {
+                            "AuId": 719086852,
+                            "AuN": "edith a moravcsik"
+                        }
+                    ],
+                    "doi": "10.1016/J.LANGSCI.2020.101298",
+                    "title": "the place of ad hoc categories within the typology of plural expressions",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2730838777,
+                    "author": [
+                        {
+                            "AuId": 2022220712,
+                            "AuN": "luca ciucci"
+                        },
+                        {
+                            "AuId": 1899758578,
+                            "AuN": "pier marco bertinetto"
+                        }
+                    ],
+                    "doi": "10.1075/DIA.34.3.01CIU",
+                    "title": "possessive inflection in proto zamucoan a reconstruction",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2984104034,
+                    "author": [
+                        {
+                            "AuId": 2883020941,
+                            "AuN": "thiago costa chacon"
+                        },
+                        {
+                            "AuId": 2988291909,
+                            "AuN": "rodrigo do prado sateles"
+                        }
+                    ],
+                    "doi": "10.20396/LIAMES.V19I0.8655674",
+                    "title": "exploracoes sobre padroes de indexacao e classificacao nominal de argumentos em linguas indigenas da america do sul",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2481023175,
+                    "author": [
+                        {
+                            "AuId": 2145665245,
+                            "AuN": "carmen jany"
+                        }
+                    ],
+                    "title": "the role of passives in the formation of hierarchical systems in northern california",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2873760302,
+                    "author": [
+                        {
+                            "AuId": 2110248856,
+                            "AuN": "sonia cristofaro"
+                        },
+                        {
+                            "AuId": 2988178031,
+                            "AuN": "fernando zuniga"
+                        }
+                    ],
+                    "title": "synchronic vs diachronic approaches to typological hierarchies",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1515/9783110331127.69",
+            "title": "the referential hierarchy reviewing the evidence in diachronic perspective",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0388-0001"
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Florence"
+                                }
+                            ],
+                            "family": "Manzini",
+                            "given": "Maria Rita",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/LA.252.07RIT",
+                    "title": "chapter 7 micro and macro variation",
+                    "year_oc": 2018
+                },
+                {
+                    "author": [
+                        {
+                            "ORCID": "http://orcid.org/0000-0001-5790-990X",
+                            "affiliation": [
+                                {
+                                    "name": "University of Insubria, Como, Italy"
+                                }
+                            ],
+                            "authenticated-orcid": false,
+                            "family": "Bocale",
+                            "given": "Paola",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1080/00806765.2018.1525314",
+                    "title": "the irrealis use of the deictic tam in contemporary russian",
+                    "year_oc": 2018
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Vilnius University"
+                                }
+                            ],
+                            "family": "Holvoet",
+                            "given": "Axel",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/SL.18057.HOL",
+                    "title": "the dual nature of irrealis in complementation",
+                    "year_oc": 2020
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Lakey",
+                            "given": "Holly A.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/JOLL-2015-0004",
+                    "title": "the grammaticalization of latin ne subjunctive constructions",
+                    "year_oc": 2015
+                },
+                {
+                    "author": [
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-2119-3695",
+                            "affiliation": [
+                                {
+                                    "name": "Dipartimento di Scienze Umane e dell'Innovazione per il Territorio Universit\u00e0 dell'Insubria Via S. Abbondio 12 I\u201022100 Como Italy"
+                                }
+                            ],
+                            "authenticated-orcid": false,
+                            "family": "Sans\u00f2",
+                            "given": "Andrea",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1111/1467-968X.12197",
+                    "title": "routes towards the irrealis",
+                    "year_oc": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.1016/j.langsci.2011.08.001",
+            "journal": "LANGUAGE SCIENCES",
+            "title": "descriptive notions vs grammatical categories unrealized states of affairs and irrealis ",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "0378-4177"
+            ],
+            "PId": 1968096413,
+            "citing": [
+                {
+                    "PId": 2735406108,
+                    "author": [
+                        {
+                            "AuId": 95979212,
+                            "AuN": "martin haspelmath"
+                        },
+                        {
+                            "AuId": 1992220334,
+                            "AuN": "susanne maria michaelis"
+                        }
+                    ],
+                    "doi": "10.1075/SILV.19.01HAS",
+                    "title": "analytic and synthetic typological change in varieties of european languages",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2765350075,
+                    "author": [
+                        {
+                            "AuId": 2765259220,
+                            "AuN": "simone mattiola"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.125",
+                    "title": "typology of pluractional constructions in the languages of the world",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3095130753,
+                    "author": [
+                        {
+                            "AuId": 2761425360,
+                            "AuN": "chundra cathcart"
+                        },
+                        {
+                            "AuId": 3097302173,
+                            "AuN": "andreas holzl"
+                        },
+                        {
+                            "AuId": 2058857991,
+                            "AuN": "gerhard jager"
+                        },
+                        {
+                            "AuId": 2676797532,
+                            "AuN": "paul widmer"
+                        },
+                        {
+                            "AuId": 1997915241,
+                            "AuN": "balthasar bickel"
+                        }
+                    ],
+                    "doi": "10.1163/22105832-BJA10013",
+                    "title": "numeral classifiers and number marking in indo iranian a phylogenetic approach",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2321562917,
+                    "author": [
+                        {
+                            "AuId": 2341320813,
+                            "AuN": "natalia levshina"
+                        }
+                    ],
+                    "doi": "10.1515/COG-2015-0054",
+                    "title": "when variables align a bayesian multinomial mixed effects model of english permissive constructions",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 1890593506,
+                    "author": [
+                        {
+                            "AuId": 2006663430,
+                            "AuN": "kaius sinnemaki"
+                        }
+                    ],
+                    "doi": "10.1002/WCS.1294",
+                    "title": "cognitive processing language typology and variation",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 3009618449,
+                    "author": [
+                        {
+                            "AuId": 2110248856,
+                            "AuN": "sonia cristofaro"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.124.03CRI",
+                    "title": "chapter 3 nominalization in cross linguistic diachronic perspective",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2493577580,
+                    "author": [
+                        {
+                            "AuId": 2990841850,
+                            "AuN": "elena smirnova"
+                        }
+                    ],
+                    "title": "constructionalization and constructional change the role of context in the development of constructions",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2985964343,
+                    "author": [
+                        {
+                            "AuId": 2156899498,
+                            "AuN": "caterina mauri"
+                        },
+                        {
+                            "AuId": 2077736160,
+                            "AuN": "andrea sanso"
+                        }
+                    ],
+                    "doi": "10.1515/STUF-2019-0023",
+                    "title": "nouns co converging evidence in the analysis of associative plurals",
+                    "year_mag": 2019
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Leibniz Universit\u00e4t Hannover"
+                                }
+                            ],
+                            "family": "Smirnova",
+                            "given": "Elena",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/CAL.18.03SMI",
+                    "title": "constructionalization and constructional change",
+                    "year_oc": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "8"
+            },
+            "doi": "10.1075/SL.36.3.07CRI",
+            "journal": "STUDIES IN LANGUAGE",
+            "title": "cognitive explanations distributional evidence and diachrony",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9783110280692"
+            ],
+            "PId": 2502622849,
+            "citing": [
+                {
+                    "PId": 2341501236,
+                    "author": [
+                        {
+                            "AuId": 1975735714,
+                            "AuN": "klaas bentein"
+                        }
+                    ],
+                    "doi": "10.1080/00397679.2015.1095012",
+                    "journal": "symbolae osloenses",
+                    "title": "minor complementation patterns in post classical greek i vi ad a socio historical analysis of a corpus of documentary papyri",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2078781326,
+                    "author": [
+                        {
+                            "AuId": 91685899,
+                            "AuN": "peter m arkadiev"
+                        }
+                    ],
+                    "doi": "10.1515/LITY-2013-0020",
+                    "journal": "symbolae osloenses",
+                    "title": "marking of subjects and objects in lithuanian non finite clauses a typological and diachronic perspective",
+                    "year_mag": 2013
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "9"
+            },
+            "doi": "10.1515/9783110280692.335",
+            "title": "participial and infinitival complement sentences in ancient greek",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1749-818X"
+            ],
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "doi": "10.1111/J.1749-818X.2010.00252",
+            "journal": "LANGUAGE AND LINGUISTICS COMPASS",
+            "title": "teaching and learning guide for grammatical categories and relations universality vs language specificity and construction specificity",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "1537-0852"
+            ],
+            "PId": 2317624599,
+            "cited": [
+                {
+                    "PId": 196354989,
+                    "author": [
+                        {
+                            "AuId": 1651713790,
+                            "AuN": "edward l keenan"
+                        },
+                        {
+                            "AuId": 434010504,
+                            "AuN": "bernard comrie"
+                        }
+                    ],
+                    "title": "noun phrase accessibility and universal grammar",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1973826788,
+                    "author": [
+                        {
+                            "AuId": 1652441068,
+                            "AuN": "elizabeth closs traugott"
+                        },
+                        {
+                            "AuId": 1235776393,
+                            "AuN": "richard b dasher"
+                        }
+                    ],
+                    "title": "regularity in semantic change",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1526308488,
+                    "author": [
+                        {
+                            "AuId": 2571231996,
+                            "AuN": "john a hawkins"
+                        }
+                    ],
+                    "title": "efficiency and complexity in grammars",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2140231764,
+                    "author": [
+                        {
+                            "AuId": 1985423291,
+                            "AuN": "william croft"
+                        }
+                    ],
+                    "title": "explaining language change an evolutionary approach",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2337762945,
+                    "author": [
+                        {
+                            "AuId": 1985423291,
+                            "AuN": "william croft"
+                        }
+                    ],
+                    "title": "radical construction grammar",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2008885987,
+                    "author": [
+                        {
+                            "AuId": 2202269343,
+                            "AuN": "johan van der auwera"
+                        },
+                        {
+                            "AuId": 2589863398,
+                            "AuN": "vladimir a plungian"
+                        }
+                    ],
+                    "doi": "10.1515/LITY.1998.2.1.79",
+                    "journal": "linguistic typology",
+                    "title": "modality s semantic map",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1568546078,
+                    "author": [
+                        {
+                            "AuId": 95979212,
+                            "AuN": "martin haspelmath"
+                        }
+                    ],
+                    "doi": "10.4324/9781410606921-11",
+                    "title": "the geometry of grammatical meaning semantic maps and cross linguistic comparison",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 173802895,
+                    "author": [
+                        {
+                            "AuId": 2086050604,
+                            "AuN": "eve sweetser"
+                        }
+                    ],
+                    "title": "from etymology to pragmatics",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2004455881,
+                    "author": [
+                        {
+                            "AuId": 1826696696,
+                            "AuN": "suzanne kemmer"
+                        }
+                    ],
+                    "title": "the middle voice",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2044157378,
+                    "author": [
+                        {
+                            "AuId": 1962726511,
+                            "AuN": "bernd heine"
+                        }
+                    ],
+                    "title": "auxiliaries cognitive forces and grammaticalization",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2481363083,
+                    "author": [
+                        {
+                            "AuId": 2336729835,
+                            "AuN": "matthew s dryer"
+                        }
+                    ],
+                    "doi": "10.1515/9783110197693.207",
+                    "title": "descriptive theories explanatory theories and basic linguistic theory",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 42950482,
+                    "author": [
+                        {
+                            "AuId": 1652441068,
+                            "AuN": "elizabeth closs traugott"
+                        },
+                        {
+                            "AuId": 2292776628,
+                            "AuN": "ekkehard konig"
+                        }
+                    ],
+                    "title": "the semantics pragmatics of grammaticalization revisited",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2070277124,
+                    "author": [
+                        {
+                            "AuId": 2164703446,
+                            "AuN": "barbara a fox"
+                        },
+                        {
+                            "AuId": 2145703555,
+                            "AuN": "sandra a thompson"
+                        }
+                    ],
+                    "doi": "10.2307/414888",
+                    "journal": "language",
+                    "title": "a discourse explanation of the grammar of relative clauses in english conversation",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2089482985,
+                    "author": [
+                        {
+                            "AuId": 1985423291,
+                            "AuN": "william croft"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.1998.9.2.151",
+                    "journal": "cognitive linguistics",
+                    "title": "linguistic evidence and mental representations",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 86255496,
+                    "author": [
+                        {
+                            "AuId": 2292776628,
+                            "AuN": "ekkehard konig"
+                        },
+                        {
+                            "AuId": 1997643095,
+                            "AuN": "peter siemund"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.40.03KON",
+                    "title": "intensifiers and reflexives a typological perspective",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2028449334,
+                    "author": [
+                        {
+                            "AuId": 95979212,
+                            "AuN": "martin haspelmath"
+                        }
+                    ],
+                    "doi": "10.1075/SL.28.3.06HAS",
+                    "journal": "studies in language",
+                    "title": "does linguistic explanation presuppose linguistic description",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2019049765,
+                    "author": [
+                        {
+                            "AuId": 95979212,
+                            "AuN": "martin haspelmath"
+                        }
+                    ],
+                    "doi": "10.1075/DIA.15.1.03HAS",
+                    "journal": "diachronica",
+                    "title": "the semantic development of old presents new futures and subjunctives without grammaticalization",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2122472426,
+                    "author": [
+                        {
+                            "AuId": 2164703446,
+                            "AuN": "barbara a fox"
+                        }
+                    ],
+                    "doi": "10.2307/415720",
+                    "journal": "language",
+                    "title": "the noun phrase accessibility hierarchy reinterpreted subject primacy or the absolutive hypothesis",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2730805951,
+                    "author": [
+                        {
+                            "AuId": 2110248856,
+                            "AuN": "sonia cristofaro"
+                        }
+                    ],
+                    "doi": "10.1093/OXFORDHB/9780199281251.013.0013",
+                    "title": "language universals and linguistic knowledge",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2489534459,
+                    "author": [
+                        {
+                            "AuId": 2538453735,
+                            "AuN": "lloyd b anderson"
+                        }
+                    ],
+                    "title": "the perfect as a universal and as a language particular category",
+                    "year_mag": 1982
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2142885921,
+                    "author": [
+                        {
+                            "AuId": 2132236387,
+                            "AuN": "terry regier"
+                        },
+                        {
+                            "AuId": 2092901597,
+                            "AuN": "naveen khetarpal"
+                        },
+                        {
+                            "AuId": 2095937191,
+                            "AuN": "asifa majid"
+                        }
+                    ],
+                    "doi": "10.1515/LITY-2013-0003",
+                    "journal": "linguistic typology",
+                    "title": "inferring semantic maps",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2765350075,
+                    "author": [
+                        {
+                            "AuId": 2765259220,
+                            "AuN": "simone mattiola"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.125",
+                    "journal": "linguistic typology",
+                    "title": "typology of pluractional constructions in the languages of the world",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2246856717,
+                    "author": [
+                        {
+                            "AuId": 2504997715,
+                            "AuN": "michael ahland"
+                        }
+                    ],
+                    "journal": "linguistic typology",
+                    "title": "a grammar of northern mao mawes aas e",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2322093176,
+                    "author": [
+                        {
+                            "AuId": 2990613600,
+                            "AuN": "nam su kyong"
+                        }
+                    ],
+                    "doi": "10.15822/SKLLR.2011.39.3.175",
+                    "journal": "linguistic typology",
+                    "title": "an essay on the meanings of eojida a typological perspective",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2092470210,
+                    "author": [
+                        {
+                            "AuId": 2110248856,
+                            "AuN": "sonia cristofaro"
+                        }
+                    ],
+                    "doi": "10.1016/J.LANGSCI.2011.08.001",
+                    "journal": "linguistic typology",
+                    "title": "descriptive notions vs grammatical categories unrealized states of affairs and irrealis",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2788143773,
+                    "author": [
+                        {
+                            "AuId": 2327382527,
+                            "AuN": "thanasis georgakopoulos"
+                        },
+                        {
+                            "AuId": 2060489347,
+                            "AuN": "stephane polis"
+                        }
+                    ],
+                    "doi": "10.1111/LNC3.12270",
+                    "journal": "linguistic typology",
+                    "title": "the semantic map model state of the art and future avenues for linguistic research",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2502556832,
+                    "author": [
+                        {
+                            "AuId": 2059790515,
+                            "AuN": "volker gast"
+                        },
+                        {
+                            "AuId": 2202269343,
+                            "AuN": "johan van der auwera"
+                        }
+                    ],
+                    "journal": "linguistic typology",
+                    "title": "towards a distributional typology of human impersonal pronouns based on data from european languages",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2901930237,
+                    "author": [
+                        {
+                            "AuId": 2901608615,
+                            "AuN": "samuel andersson"
+                        }
+                    ],
+                    "doi": "10.5334/GJGL.733",
+                    "journal": "linguistic typology",
+                    "title": "aba in germanic verbs",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 3009467009,
+                    "author": [
+                        {
+                            "AuId": 3010002941,
+                            "AuN": "guglielmo inglese"
+                        }
+                    ],
+                    "doi": "10.1163/9789004432307",
+                    "journal": "linguistic typology",
+                    "title": "the hittite middle voice synchrony diachrony typology",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2559306630,
+                    "author": [
+                        {
+                            "AuId": 2952268077,
+                            "AuN": "caterina guardamagna"
+                        }
+                    ],
+                    "doi": "10.1515/JOLL-2016-0009",
+                    "journal": "linguistic typology",
+                    "title": "a diachronic semantic map for the latin preposition secundum",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2918754761,
+                    "author": [
+                        {
+                            "AuId": 2918784389,
+                            "AuN": "alain fabre"
+                        }
+                    ],
+                    "doi": "10.20396/LIAMES.V18I2.8653164",
+                    "journal": "linguistic typology",
+                    "title": "multifunctionality of the verbal suffix \u02a7\u0242e k\u0242e and analepsis in niva\u0109le mataguayo family gran chaco region",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2330388492,
+                    "author": [
+                        {
+                            "AuId": 325356523,
+                            "AuN": "remi van trijp"
+                        }
+                    ],
+                    "doi": "10.1349/PS1.1537-0852.A.363",
+                    "journal": "linguistic typology",
+                    "title": "commentary on cristofaro cognitive mechanisms need to be operationalized",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2293272374,
+                    "author": [
+                        {
+                            "AuId": 2293613301,
+                            "AuN": "john de schai olsen"
+                        }
+                    ],
+                    "journal": "linguistic typology",
+                    "title": "the dative in \u1e5bgvedic sanskrit a semantic map analysis",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2324173837,
+                    "author": [
+                        {
+                            "AuId": 2110248856,
+                            "AuN": "sonia cristofaro"
+                        }
+                    ],
+                    "doi": "10.1349/PS1.1537-0852.A.364",
+                    "journal": "linguistic typology",
+                    "title": "author s reply what multifunctionality patterns tell us",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2320000889,
+                    "author": [
+                        {
+                            "AuId": 2683166118,
+                            "AuN": "chunghoon lee"
+                        }
+                    ],
+                    "doi": "10.18110/URIMAL.2015..41.5",
+                    "journal": "linguistic typology",
+                    "title": "a syntax of korean endings its past and future",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "11"
+            },
+            "doi": "10.1349/PS1.1537-0852.A.345",
+            "journal": "LINGUISTIC DISCOVERY",
+            "title": "semantic maps and mental representation",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "1537-0852"
+            ],
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "doi": "10.1349/ps1.1537-0852.a.359",
+            "journal": "LINGUISTIC DISCOVERY",
+            "title": "positing grammatical categories linguists vs speakers generalizations",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "1537-0852"
+            ],
+            "cv_id": {
+                "pubbs_ind": "13"
+            },
+            "journal": "LINGUISTIC DISCOVERY",
+            "title": "what multifunctionality patterns tell us author s reply to croft 2010 and van trijp 2010 ",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "9780199281251"
+            ],
+            "PId": 2730805951,
+            "citing": [
+                {
+                    "PId": 2317624599,
+                    "author": [
+                        {
+                            "AuId": 2110248856,
+                            "AuN": "sonia cristofaro"
+                        }
+                    ],
+                    "doi": "10.1349/PS1.1537-0852.A.345",
+                    "journal": "linguistic discovery",
+                    "title": "semantic maps and mental representation",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1540550292,
+                    "author": [
+                        {
+                            "AuId": 1921580218,
+                            "AuN": "sergio scalise"
+                        },
+                        {
+                            "AuId": 2100388484,
+                            "AuN": "elisabetta magni"
+                        },
+                        {
+                            "AuId": 2026347127,
+                            "AuN": "antonietta bisetto"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4020-8825-4",
+                    "journal": "linguistic discovery",
+                    "title": "universals of language today",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2767775229,
+                    "author": [
+                        {
+                            "AuId": 2767421447,
+                            "AuN": "harold dharmasenan thampoe"
+                        }
+                    ],
+                    "journal": "linguistic discovery",
+                    "title": "sinhala and tamil a case of contact induced restructuring",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2185580667,
+                    "author": [
+                        {
+                            "AuId": 152930314,
+                            "AuN": "edoardo lombardi vallauri"
+                        }
+                    ],
+                    "journal": "linguistic discovery",
+                    "title": "language patterns and innateness",
+                    "year_mag": 2012
+                }
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "14"
+            },
+            "doi": "10.1093/OXFORDHB/9780199281251.013.0013",
+            "title": "language universals and linguistic knowledge",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "15"
+            },
+            "doi": "10.1093/oxfordhb/9780199281251.013.0013",
+            "title": "language universals",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "1749-818X"
+            ],
+            "PId": 2095740414,
+            "cited": [
+                {
+                    "PId": 2075166633,
+                    "author": [
+                        {
+                            "AuId": 1384343755,
+                            "AuN": "paul j hopper"
+                        },
+                        {
+                            "AuId": 2145703555,
+                            "AuN": "sandra a thompson"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.1980.0017",
+                    "journal": "language",
+                    "title": "transitivity in grammar and discourse",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 2027489130,
+                    "author": [
+                        {
+                            "AuId": 95979212,
+                            "AuN": "martin haspelmath"
+                        }
+                    ],
+                    "doi": "10.1515/LINGTY.2007.011",
+                    "journal": "linguistic typology",
+                    "title": "pre established categories don t exist consequences for language description and typology",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1548818576,
+                    "author": [
+                        {
+                            "AuId": 2568170189,
+                            "AuN": "paul schachter"
+                        },
+                        {
+                            "AuId": 2681905206,
+                            "AuN": "timothy shopen"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511619427.001",
+                    "title": "language typology and syntactic description parts of speech systems",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 3167942,
+                    "author": [
+                        {
+                            "AuId": 2111464813,
+                            "AuN": "avery d andrews"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511619427.003",
+                    "title": "the major functions of the noun phrase",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 435038712,
+                    "author": [
+                        {
+                            "AuId": 2158019214,
+                            "AuN": "r m w dixon"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511611896",
+                    "title": "ergativity index of languages and language families",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1985391893,
+                    "author": [
+                        {
+                            "AuId": 1997915241,
+                            "AuN": "balthasar bickel"
+                        }
+                    ],
+                    "doi": "10.1515/LINGTY.2007.018",
+                    "journal": "linguistic typology",
+                    "title": "typology in the 21st century major current developments",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2059222568,
+                    "author": [
+                        {
+                            "AuId": 2236013743,
+                            "AuN": "nicholas evans"
+                        },
+                        {
+                            "AuId": 2650459766,
+                            "AuN": "toshiki osada"
+                        }
+                    ],
+                    "doi": "10.1515/LITY.2005.9.3.351",
+                    "journal": "linguistic typology",
+                    "title": "mundari the myth of a language without word classes",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 88919090,
+                    "author": [
+                        {
+                            "AuId": 2121027363,
+                            "AuN": "andrew radford"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139166706",
+                    "title": "syntactic theory and the structure of english index",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2226921005,
+                    "author": [
+                        {
+                            "AuId": 2230952368,
+                            "AuN": "andrew radford"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139166706",
+                    "title": "syntactic theory and the structure of english contents",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2328614391,
+                    "author": [
+                        {
+                            "AuId": 3041309666,
+                            "AuN": "r w lanfacker"
+                        }
+                    ],
+                    "doi": "10.2307/415384",
+                    "journal": "language",
+                    "title": "nouns and verbs",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2066358185,
+                    "author": [
+                        {
+                            "AuId": 1384343755,
+                            "AuN": "paul j hopper"
+                        },
+                        {
+                            "AuId": 2145703555,
+                            "AuN": "sandra a thompson"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.1984.0020",
+                    "journal": "language",
+                    "title": "the discourse basis for lexical categories in universal grammar",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 651023339,
+                    "author": [
+                        {
+                            "AuId": 2236013743,
+                            "AuN": "nicholas evans"
+                        }
+                    ],
+                    "doi": "10.1515/9783110873733",
+                    "title": "a grammar of kayardild with historical comparative notes on tangkic",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2089482985,
+                    "author": [
+                        {
+                            "AuId": 1985423291,
+                            "AuN": "william croft"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.1998.9.2.151",
+                    "journal": "cognitive linguistics",
+                    "title": "linguistic evidence and mental representations",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1503466031,
+                    "author": [
+                        {
+                            "AuId": 2036680785,
+                            "AuN": "irina nikolaeva"
+                        }
+                    ],
+                    "title": "finiteness theoretical and empirical foundations",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2028449334,
+                    "author": [
+                        {
+                            "AuId": 95979212,
+                            "AuN": "martin haspelmath"
+                        }
+                    ],
+                    "doi": "10.1075/SL.28.3.06HAS",
+                    "journal": "studies in language",
+                    "title": "does linguistic explanation presuppose linguistic description",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1991383681,
+                    "author": [
+                        {
+                            "AuId": 628886044,
+                            "AuN": "frederick j newmeyer"
+                        }
+                    ],
+                    "doi": "10.1515/LINGTY.2007.012",
+                    "journal": "linguistic typology",
+                    "title": "linguistic typology requires crosslinguistic formal categories",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2081929505,
+                    "author": [
+                        {
+                            "AuId": 1968135535,
+                            "AuN": "paolo ramat"
+                        }
+                    ],
+                    "doi": "10.1515/LING.1999.002",
+                    "journal": "linguistics",
+                    "title": "linguistic categories and linguists categorizations",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2074677093,
+                    "author": [
+                        {
+                            "AuId": 129479014,
+                            "AuN": "jan anward"
+                        },
+                        {
+                            "AuId": 719086852,
+                            "AuN": "edith a moravcsik"
+                        },
+                        {
+                            "AuId": 2660730238,
+                            "AuN": "leon stassen"
+                        }
+                    ],
+                    "doi": "10.1515/LITY.1997.1.2.167",
+                    "journal": "linguistic typology",
+                    "title": "parts of speech a challenge for typology",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2065284665,
+                    "author": [
+                        {
+                            "AuId": 2236013743,
+                            "AuN": "nicholas evans"
+                        },
+                        {
+                            "AuId": 2650459766,
+                            "AuN": "toshiki osada"
+                        }
+                    ],
+                    "doi": "10.1515/LITY.2005.9.3.442",
+                    "journal": "linguistic typology",
+                    "title": "author s response mundari and argumentation in word class analysis",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1995312764,
+                    "author": [
+                        {
+                            "AuId": 2116749086,
+                            "AuN": "david beck"
+                        }
+                    ],
+                    "doi": "10.1515/LITY.2000.4.2.213",
+                    "journal": "linguistic typology",
+                    "title": "the syntax semantics and typology of adjectives in upper necaxa totonac",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2156117402,
+                    "author": [
+                        {
+                            "AuId": 2049801066,
+                            "AuN": "mark durie"
+                        }
+                    ],
+                    "doi": "10.1075/SL.11.2.05DUR",
+                    "journal": "studies in language",
+                    "title": "grammatical relations in acehnese",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2166897230,
+                    "author": [
+                        {
+                            "AuId": 2186623566,
+                            "AuN": "guglielmo cinque"
+                        }
+                    ],
+                    "doi": "10.1515/LINGTY.2007.008",
+                    "journal": "linguistic typology",
+                    "title": "a note on linguistic theory and typology",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2144773418,
+                    "author": [
+                        {
+                            "AuId": 2202269343,
+                            "AuN": "johan van der auwera"
+                        }
+                    ],
+                    "doi": "10.1017/S0022226700010069",
+                    "journal": "journal of linguistics",
+                    "title": "relative that a centennial dispute",
+                    "year_mag": 1985
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Baker",
+                            "given": "Mark C.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511615047",
+                    "title": "lexical categories",
+                    "year_oc": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dixon",
+                            "given": "R. M. W.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139085045",
+                    "title": "a grammar of yidi\u0272",
+                    "year_oc": 1977
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Comrie",
+                            "given": "Bernard",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139165815",
+                    "title": "tense",
+                    "year_oc": 1985
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Matthews",
+                            "given": "Peter H.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139166485",
+                    "title": "morphology",
+                    "year_oc": 1991
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Palmer",
+                            "given": "Frank Robert",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139166638",
+                    "title": "grammatical roles and relations",
+                    "year_oc": 1994
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Valin",
+                            "given": "Robert D. van",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "LaPolla",
+                            "given": "Randy J.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139166799",
+                    "title": "syntax",
+                    "year_oc": 1997
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Palmer",
+                            "given": "F. R.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139167178",
+                    "title": "mood and modality",
+                    "year_oc": 2001
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Cristofaro",
+                            "given": "Sonia",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/CELCR.11.11CRI",
+                    "title": "8 asymmetric events subordination and grammatical categories",
+                    "year_oc": 2008
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Shibatani",
+                            "given": "Masayoshi",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.16.06SHI",
+                    "title": "voice in philippine languages",
+                    "year_oc": 1988
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hopper",
+                            "given": "Paul J.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Thompson",
+                            "given": "Sandra A.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.6.08HOP",
+                    "title": "the iconicity of the universal categories noun and verb ",
+                    "year_oc": 1985
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dryer",
+                            "given": "Matthew S.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/Z.82.09DRY",
+                    "title": "are grammatical relations universal ",
+                    "year_oc": 1997
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Croft",
+                            "given": "William",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780198299554.001.0001",
+                    "title": "radical construction grammar",
+                    "year_oc": 2001
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hengeveld",
+                            "given": "Kees",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110883282",
+                    "title": "non verbal predication",
+                    "year_oc": 1992
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Haspelmath",
+                            "given": "Martin",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110884210",
+                    "title": "a grammar of lezgian",
+                    "year_oc": 1993
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Bhat",
+                            "given": "D. N. S.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4324/9780203413654",
+                    "title": "grammatical relations",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Lakoff",
+                            "given": "George",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.7208/CHICAGO/9780226471013.001.0001",
+                    "title": "women fire and dangerous things",
+                    "year_oc": 1987
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2087360383,
+                    "author": [
+                        {
+                            "AuId": 95979212,
+                            "AuN": "martin haspelmath"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.2010.0021",
+                    "journal": "language",
+                    "title": "comparative concepts and descriptive categories in crosslinguistic studies",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2332830290,
+                    "author": [
+                        {
+                            "AuId": 95979212,
+                            "AuN": "martin haspelmath"
+                        }
+                    ],
+                    "doi": "10.1177/2397002215626895",
+                    "journal": "language",
+                    "title": "the serial verb construction comparative concept and cross linguistic generalizations",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2218515682,
+                    "author": [
+                        {
+                            "AuId": 147703624,
+                            "AuN": "johanna barddal"
+                        },
+                        {
+                            "AuId": 2117451699,
+                            "AuN": "spike gildea"
+                        }
+                    ],
+                    "doi": "10.1075/CAL.18.01BAR",
+                    "journal": "language",
+                    "title": "diachronic construction grammar epistemological context basic assumptions and historical implications",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2765350075,
+                    "author": [
+                        {
+                            "AuId": 2765259220,
+                            "AuN": "simone mattiola"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.125",
+                    "journal": "language",
+                    "title": "typology of pluractional constructions in the languages of the world",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2092470210,
+                    "author": [
+                        {
+                            "AuId": 2110248856,
+                            "AuN": "sonia cristofaro"
+                        }
+                    ],
+                    "doi": "10.1016/J.LANGSCI.2011.08.001",
+                    "journal": "language",
+                    "title": "descriptive notions vs grammatical categories unrealized states of affairs and irrealis",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2968131959,
+                    "author": [
+                        {
+                            "AuId": 135257692,
+                            "AuN": "holger diessel"
+                        }
+                    ],
+                    "journal": "language",
+                    "title": "the grammar network how linguistic structure is shaped by language use",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2612034137,
+                    "author": [
+                        {
+                            "AuId": 2628551451,
+                            "AuN": "e van lier"
+                        }
+                    ],
+                    "doi": "10.1075/SL.41.2.01VAN",
+                    "journal": "language",
+                    "title": "introduction lexical flexibility in oceanic languages",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3010474525,
+                    "author": [
+                        {
+                            "AuId": 2765259220,
+                            "AuN": "simone mattiola"
+                        }
+                    ],
+                    "doi": "10.1111/LNC3.12366",
+                    "journal": "language",
+                    "title": "pluractionality a cross linguistic perspective",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2530006218,
+                    "author": [
+                        {
+                            "AuId": 2656479255,
+                            "AuN": "eva van lier"
+                        }
+                    ],
+                    "doi": "10.1515/LINGTY-2016-0005",
+                    "journal": "language",
+                    "title": "lexical flexibility in oceanic languages",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2490262842,
+                    "author": [
+                        {
+                            "AuId": 2532240534,
+                            "AuN": "raffaele simone"
+                        },
+                        {
+                            "AuId": 2043852724,
+                            "AuN": "francesca masini"
+                        }
+                    ],
+                    "doi": "10.1075/CILT.332.01INT",
+                    "journal": "language",
+                    "title": "introduction new approaches to old word class issues",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2116142135,
+                    "author": [
+                        {
+                            "AuId": 2098479073,
+                            "AuN": "jeff good"
+                        }
+                    ],
+                    "doi": "10.1111/J.1749-818X.2011.00306.X",
+                    "journal": "language",
+                    "title": "the typology of templates",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 3014741562,
+                    "author": [
+                        {
+                            "AuId": 135257692,
+                            "AuN": "holger diessel"
+                        }
+                    ],
+                    "doi": "10.1017/9781108671040.004",
+                    "journal": "language",
+                    "title": "the taxonomic network",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2486793923,
+                    "author": [
+                        {
+                            "AuId": 2110248856,
+                            "AuN": "sonia cristofaro"
+                        }
+                    ],
+                    "journal": "language",
+                    "title": "is there really a syntactic category of subordination",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1537735279,
+                    "author": [
+                        {
+                            "AuId": 2714234618,
+                            "AuN": "giorgio iemmolo"
+                        }
+                    ],
+                    "doi": "10.5167/UZH-81742",
+                    "journal": "language",
+                    "title": "la marcatura differenziale dell oggeto in siciliano antico",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 623093484,
+                    "author": [
+                        {
+                            "AuId": 2473433599,
+                            "AuN": "neil parr"
+                        }
+                    ],
+                    "journal": "language",
+                    "title": "conceptual intentional bootstrapping in the acquisition of the english verb",
+                    "year_mag": 2012
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Diessel",
+                            "given": "Holger",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/9781108671040",
+                    "title": "the grammar network",
+                    "year_oc": 2019
+                },
+                {
+                    "doi": "10.1017/9781108671040.001",
+                    "title": "introduction",
+                    "year_oc": 2019
+                },
+                {
+                    "doi": "10.1017/9781108671040.002",
+                    "title": "grammar as a network",
+                    "year_oc": 2019
+                },
+                {
+                    "doi": "10.1017/9781108671040.003",
+                    "title": "cognitive processes and language use",
+                    "year_oc": 2019
+                },
+                {
+                    "doi": "10.1017/9781108671040.005",
+                    "title": "sequential relations",
+                    "year_oc": 2019
+                },
+                {
+                    "doi": "10.1017/9781108671040.006",
+                    "title": "symbolic relations",
+                    "year_oc": 2019
+                },
+                {
+                    "doi": "10.1017/9781108671040.007",
+                    "title": "argument structure and linguistic productivity",
+                    "year_oc": 2019
+                },
+                {
+                    "doi": "10.1017/9781108671040.008",
+                    "title": "a dynamic network model of parts of speech",
+                    "year_oc": 2019
+                },
+                {
+                    "doi": "10.1017/9781108671040.009",
+                    "title": "phrase structure",
+                    "year_oc": 2019
+                },
+                {
+                    "doi": "10.1017/9781108671040.010",
+                    "title": "construction families",
+                    "year_oc": 2019
+                },
+                {
+                    "doi": "10.1017/9781108671040.011",
+                    "title": "encoding asymmetries of grammatical categories",
+                    "year_oc": 2019
+                },
+                {
+                    "doi": "10.1017/9781108671040.012",
+                    "title": "conclusion",
+                    "year_oc": 2019
+                },
+                {
+                    "doi": "10.1017/9781108671040.013",
+                    "title": "references",
+                    "year_oc": 2019
+                },
+                {
+                    "doi": "10.1017/9781108671040.014",
+                    "title": "author index",
+                    "year_oc": 2019
+                },
+                {
+                    "doi": "10.1017/9781108671040.015",
+                    "title": "subject index",
+                    "year_oc": 2019
+                },
+                {
+                    "doi": "10.1017/9781108671040.016",
+                    "title": "preface",
+                    "year_oc": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "16"
+            },
+            "doi": "10.1111/J.1749-818X.2008.00111.X",
+            "journal": "LANGUAGE AND LINGUISTICS COMPASS",
+            "title": "grammatical categories and relations universality vs language specificity and construction specificity",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "0024-3949"
+            ],
+            "PId": 2075351379,
+            "cited": [
+                {
+                    "PId": 1969694730,
+                    "author": [
+                        {
+                            "AuId": 1977224959,
+                            "AuN": "paul kay"
+                        },
+                        {
+                            "AuId": 2161989416,
+                            "AuN": "charles j fillmore"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.1999.0033",
+                    "journal": "language",
+                    "title": "grammatical constructions and linguistic generalizations the what s x doing y construction",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2122566486,
+                    "author": [
+                        {
+                            "AuId": 2161989416,
+                            "AuN": "charles j fillmore"
+                        },
+                        {
+                            "AuId": 1977224959,
+                            "AuN": "paul kay"
+                        },
+                        {
+                            "AuId": 2308479853,
+                            "AuN": "mary oconnor"
+                        }
+                    ],
+                    "doi": "10.2307/414531",
+                    "journal": "language",
+                    "title": "regularity and idiomaticity in grammatical constructions the case of let alone",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2062607251,
+                    "author": [
+                        {
+                            "AuId": 2602112192,
+                            "AuN": "laura a michaelis"
+                        },
+                        {
+                            "AuId": 2226587314,
+                            "AuN": "knud lambrecht"
+                        }
+                    ],
+                    "doi": "10.2307/416650",
+                    "journal": "language",
+                    "title": "toward a construction based theory of language function the case of nominal extraposition",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 1988401025,
+                    "author": [
+                        {
+                            "AuId": 2113966472,
+                            "AuN": "john r n taylor"
+                        }
+                    ],
+                    "doi": "10.1016/S0388-0001(03)00031-7",
+                    "journal": "language sciences",
+                    "title": "polysemy s paradoxes",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2049251236,
+                    "author": [
+                        {
+                            "AuId": 2983305629,
+                            "AuN": "t givon"
+                        }
+                    ],
+                    "doi": "10.1075/SL.4.3.03GIV",
+                    "journal": "studies in language",
+                    "title": "the binding hierarchy and the typology of complements",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 2011845823,
+                    "author": [
+                        {
+                            "AuId": 2602112192,
+                            "AuN": "laura a michaelis"
+                        }
+                    ],
+                    "doi": "10.1075/SL.18.1.04MIC",
+                    "journal": "studies in language",
+                    "title": "a case of constructional polysemy in latin",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1984698053,
+                    "author": [
+                        {
+                            "AuId": 1317251400,
+                            "AuN": "a machtelt bolkestein"
+                        }
+                    ],
+                    "doi": "10.1163/156852576X00483",
+                    "journal": "mnemosyne",
+                    "title": "the relation between form and meaning of latin subordinate clauses governed by verba dicendi",
+                    "year_mag": 1976
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Machtelt Bolkestein",
+                            "given": "A.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1163/156852576X00375",
+                    "title": "the relation between form and meaning of latin subordinate clauses governed by tterba dicendi1 ",
+                    "year_oc": 1976
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kay",
+                            "given": "Paul",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Fillmore",
+                            "given": "Charles J.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/417472",
+                    "title": "grammatical constructions and linguistic generalizations the what s x doing y construction",
+                    "year_oc": 1999
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2092470210,
+                    "author": [
+                        {
+                            "AuId": 2110248856,
+                            "AuN": "sonia cristofaro"
+                        }
+                    ],
+                    "doi": "10.1016/J.LANGSCI.2011.08.001",
+                    "journal": "language sciences",
+                    "title": "descriptive notions vs grammatical categories unrealized states of affairs and irrealis",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2341501236,
+                    "author": [
+                        {
+                            "AuId": 1975735714,
+                            "AuN": "klaas bentein"
+                        }
+                    ],
+                    "doi": "10.1080/00397679.2015.1095012",
+                    "journal": "language sciences",
+                    "title": "minor complementation patterns in post classical greek i vi ad a socio historical analysis of a corpus of documentary papyri",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2183545159,
+                    "author": [
+                        {
+                            "AuId": 189016263,
+                            "AuN": "ivan a sag"
+                        },
+                        {
+                            "AuId": 2273959396,
+                            "AuN": "hans c boas"
+                        },
+                        {
+                            "AuId": 2602112192,
+                            "AuN": "laura a michaelis"
+                        }
+                    ],
+                    "journal": "language sciences",
+                    "title": "introducing sign based construction grammar vii",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2078781326,
+                    "author": [
+                        {
+                            "AuId": 91685899,
+                            "AuN": "peter m arkadiev"
+                        }
+                    ],
+                    "doi": "10.1515/LITY-2013-0020",
+                    "journal": "language sciences",
+                    "title": "marking of subjects and objects in lithuanian non finite clauses a typological and diachronic perspective",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2739585580,
+                    "author": [
+                        {
+                            "AuId": 2072284259,
+                            "AuN": "corien bary"
+                        },
+                        {
+                            "AuId": 2169664534,
+                            "AuN": "leopold hess"
+                        },
+                        {
+                            "AuId": 2739688703,
+                            "AuN": "kees thijs"
+                        },
+                        {
+                            "AuId": 2737454137,
+                            "AuN": "peter berck"
+                        },
+                        {
+                            "AuId": 2316771305,
+                            "AuN": "iris hendrickx"
+                        }
+                    ],
+                    "doi": "10.18653/V1/W17-0806",
+                    "journal": "language sciences",
+                    "title": "annotating speech attitude and perception reports",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "11",
+                "pubbs_ind": "17"
+            },
+            "doi": "10.1515/LING.2008.019",
+            "journal": "LINGUISTICS",
+            "title": "a constructionist approach to complementation evidence from ancient greek",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "978-90-272-3899-3"
+            ],
+            "PId": 2479472880,
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Cristofaro",
+                            "given": "Sonia",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1111/J.1749-818X.2008.00111.X",
+                    "title": "grammatical categories and relations universality vs language specificity and construction specificity",
+                    "year_oc": 2008
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dachkovsky",
+                            "given": "Svetlana",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Stamp",
+                            "given": "Rose",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Sandler",
+                            "given": "Wendy",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3389/FPSYG.2018.02202",
+                    "title": "constructing complexity in a young sign language",
+                    "year_oc": 2018
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Herlin",
+                            "given": "Ilona",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Kalliokoski",
+                            "given": "Jyrki",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Visap\u00e4\u00e4",
+                            "given": "Laura",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1075/PBNS.249.01HER",
+                    "title": "introduction",
+                    "year_oc": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Visap\u00e4\u00e4",
+                            "given": "Laura",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/PBNS.249.06VIS",
+                    "title": "on the contextual conceptualization of joka relative clauses in finnish",
+                    "year_oc": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Pavia"
+                                }
+                            ],
+                            "family": "Cristofaro",
+                            "given": "Sonia",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.115.15CRI",
+                    "title": "chapter 15 routes to insubordination",
+                    "year_oc": 2016
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Vienna"
+                                }
+                            ],
+                            "family": "Abraham",
+                            "given": "Werner",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.213.08ABR",
+                    "title": "chapter 8 discourse particles in thetic judgments in dependent sentences and in non finite phrases",
+                    "year_oc": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "12",
+                "pubbs_ind": "18"
+            },
+            "doi": "10.1075/celcr.11.11cri",
+            "title": "asymmetric events subordination and grammatical categories",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "19"
+            },
+            "title": "la tipologia tra sincronia e diacronia sulle implicazioni teoriche delle mappe semantiche",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "9780199213733"
+            ],
+            "cv_id": {
+                "pubbs": "13",
+                "pubbs_ind": "20"
+            },
+            "title": "deconstructing categories finiteness in a functional typological perspective",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2007
+        },
+        {
+            "ISBN": [
+                "978-90-272-3098-0"
+            ],
+            "cv_id": {
+                "pubbs_ind": "21"
+            },
+            "doi": "10.1075/SLCS.88.06C",
+            "title": "relativization strategies in the languages of europe",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2007
+        },
+        {
+            "ISSN": [
+                "0942-2919"
+            ],
+            "cv_id": {
+                "pubbs_ind": "22"
+            },
+            "journal": "SPRACHTYPOLOGIE UND UNIVERSALIENFORSCHUNG",
+            "title": "relativization in sardinian",
+            "type": "articolo in rivista",
+            "year": 2005
+        },
+        {
+            "ISBN": [
+                "0199252793"
+            ],
+            "cv_id": {
+                "pubbs": "14",
+                "pubbs_ind": "23"
+            },
+            "title": "subordination",
+            "type": "monografia o trattato scientifico",
+            "year": 2003
+        },
+        {
+            "cv_id": {
+                "pubbs": "15"
+            },
+            "type": "monografia o trattato scientifico",
+            "year": 1996
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2092470210,
+            "cited": [
+                {
+                    "PId": 1973826788,
+                    "author": [
+                        {
+                            "AuId": 1652441068,
+                            "AuN": "elizabeth closs traugott"
+                        },
+                        {
+                            "AuId": 1235776393,
+                            "AuN": "richard b dasher"
+                        }
+                    ],
+                    "title": "regularity in semantic change",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2140231764,
+                    "author": [
+                        {
+                            "AuId": 1985423291,
+                            "AuN": "william croft"
+                        }
+                    ],
+                    "title": "explaining language change an evolutionary approach",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2337762945,
+                    "author": [
+                        {
+                            "AuId": 1985423291,
+                            "AuN": "william croft"
+                        }
+                    ],
+                    "title": "radical construction grammar",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2008885987,
+                    "author": [
+                        {
+                            "AuId": 2202269343,
+                            "AuN": "johan van der auwera"
+                        },
+                        {
+                            "AuId": 2589863398,
+                            "AuN": "vladimir a plungian"
+                        }
+                    ],
+                    "doi": "10.1515/LITY.1998.2.1.79",
+                    "journal": "linguistic typology",
+                    "title": "modality s semantic map",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2066307562,
+                    "author": [
+                        {
+                            "AuId": 2894446688,
+                            "AuN": "f r palmer"
+                        }
+                    ],
+                    "title": "mood and modality",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 1544217300,
+                    "author": [
+                        {
+                            "AuId": 1958940450,
+                            "AuN": "kees hengeveld"
+                        },
+                        {
+                            "AuId": 2483395218,
+                            "AuN": "simon c dik"
+                        }
+                    ],
+                    "title": "the structure of the clause",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2027489130,
+                    "author": [
+                        {
+                            "AuId": 95979212,
+                            "AuN": "martin haspelmath"
+                        }
+                    ],
+                    "doi": "10.1515/LINGTY.2007.011",
+                    "journal": "linguistic typology",
+                    "title": "pre established categories don t exist consequences for language description and typology",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2607220488,
+                    "author": [
+                        {
+                            "AuId": 2001996697,
+                            "AuN": "bas aarts"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-137-06335-9_10",
+                    "title": "tense aspect and mood",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 562926994,
+                    "author": [
+                        {
+                            "AuId": 106474747,
+                            "AuN": "matti miestamo"
+                        }
+                    ],
+                    "title": "standard negation the negation of declarative verbal main clauses in a typological perspective",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 592384517,
+                    "author": [
+                        {
+                            "AuId": 2236013743,
+                            "AuN": "nicholas evans"
+                        }
+                    ],
+                    "doi": "10.15144/PL-541",
+                    "title": "bininj gun wok a pan dialectal grammar of mayali kunwinjku and kune",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2483113437,
+                    "author": [
+                        {
+                            "AuId": 2634090705,
+                            "AuN": "shirley yulifode"
+                        }
+                    ],
+                    "doi": "10.18848/1447-9508/CGP/V09I04/43211",
+                    "journal": "the international journal of the humanities annual review",
+                    "title": "a cross linguistic study sex and language variation in selected nigerian communities",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1990435773,
+                    "author": [
+                        {
+                            "AuId": 3095326095,
+                            "AuN": "john haiman"
+                        }
+                    ],
+                    "doi": "10.2307/413373",
+                    "journal": "language",
+                    "title": "iconic and economic motivation",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2481363083,
+                    "author": [
+                        {
+                            "AuId": 2336729835,
+                            "AuN": "matthew s dryer"
+                        }
+                    ],
+                    "doi": "10.1515/9783110197693.207",
+                    "title": "descriptive theories explanatory theories and basic linguistic theory",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2080970678,
+                    "author": [
+                        {
+                            "AuId": 2011764142,
+                            "AuN": "talmy givon"
+                        }
+                    ],
+                    "doi": "10.1075/SL.18.2.02GIV",
+                    "journal": "studies in language",
+                    "title": "irrealis and the subjunctive",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1528186416,
+                    "author": [
+                        {
+                            "AuId": 2035094664,
+                            "AuN": "regine eckardt"
+                        }
+                    ],
+                    "title": "meaning change in grammaticalization an enquiry into semantic reanalysis",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2317624599,
+                    "author": [
+                        {
+                            "AuId": 2110248856,
+                            "AuN": "sonia cristofaro"
+                        }
+                    ],
+                    "doi": "10.1349/PS1.1537-0852.A.345",
+                    "journal": "linguistic discovery",
+                    "title": "semantic maps and mental representation",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1992182435,
+                    "author": [
+                        {
+                            "AuId": 2686205934,
+                            "AuN": "jennifer r elliott"
+                        }
+                    ],
+                    "doi": "10.1515/LITY.2000.4.1.55",
+                    "journal": "linguistic typology",
+                    "title": "realis and irrealis forms and concepts of the grammaticalisation of reality",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2028449334,
+                    "author": [
+                        {
+                            "AuId": 95979212,
+                            "AuN": "martin haspelmath"
+                        }
+                    ],
+                    "doi": "10.1075/SL.28.3.06HAS",
+                    "journal": "studies in language",
+                    "title": "does linguistic explanation presuppose linguistic description",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1992859537,
+                    "author": [
+                        {
+                            "AuId": 2130493160,
+                            "AuN": "joel bradshaw"
+                        },
+                        {
+                            "AuId": 2140277493,
+                            "AuN": "terry crowley"
+                        }
+                    ],
+                    "doi": "10.2307/3623399",
+                    "journal": "oceanic linguistics",
+                    "title": "an erromangan sye grammar",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2019049765,
+                    "author": [
+                        {
+                            "AuId": 95979212,
+                            "AuN": "martin haspelmath"
+                        }
+                    ],
+                    "doi": "10.1075/DIA.15.1.03HAS",
+                    "journal": "diachronica",
+                    "title": "the semantic development of old presents new futures and subjunctives without grammaticalization",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 147244882,
+                    "author": [
+                        {
+                            "AuId": 2236013743,
+                            "AuN": "nicholas evans"
+                        }
+                    ],
+                    "title": "a grammar of kayardild",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2097154355,
+                    "author": [
+                        {
+                            "AuId": 2987698333,
+                            "AuN": "william b mcgregor"
+                        },
+                        {
+                            "AuId": 2415198702,
+                            "AuN": "tamsin wagner"
+                        }
+                    ],
+                    "doi": "10.1353/OL.2007.0005",
+                    "journal": "oceanic linguistics",
+                    "title": "the semantics and pragmatics of irrealis mood in nyulnyulan languages",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2472509393,
+                    "author": [
+                        {
+                            "AuId": 716619668,
+                            "AuN": "joan l bybee"
+                        }
+                    ],
+                    "journal": "anthropological linguistics",
+                    "title": "irrealis as a grammatical category",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2032834118,
+                    "author": [
+                        {
+                            "AuId": 2125534076,
+                            "AuN": "jeanchristophe verstraete"
+                        }
+                    ],
+                    "doi": "10.1515/LITY.2005.9.2.223",
+                    "journal": "linguistic typology",
+                    "title": "the semantics and pragmatics of composite mood marking the non pama nyungan languages of northern australia",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1590873459,
+                    "author": [
+                        {
+                            "AuId": 2109171621,
+                            "AuN": "lesley stirling"
+                        }
+                    ],
+                    "title": "switch reference and discourse representation",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 9509430,
+                    "author": [
+                        {
+                            "AuId": 2336729835,
+                            "AuN": "matthew s dryer"
+                        }
+                    ],
+                    "title": "are grammatical relations universal",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2095740414,
+                    "author": [
+                        {
+                            "AuId": 2110248856,
+                            "AuN": "sonia cristofaro"
+                        }
+                    ],
+                    "doi": "10.1111/J.1749-818X.2008.00111.X",
+                    "journal": "language and linguistics compass",
+                    "title": "grammatical categories and relations universality vs language specificity and construction specificity",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 612280202,
+                    "author": [
+                        {
+                            "AuId": 1215152046,
+                            "AuN": "frantisek lichtenberk"
+                        }
+                    ],
+                    "title": "a grammar of toqabaqita",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2163351832,
+                    "author": [
+                        {
+                            "AuId": 2109379392,
+                            "AuN": "rene van den berg"
+                        }
+                    ],
+                    "doi": "10.2307/3622970",
+                    "journal": "oceanic linguistics",
+                    "title": "a grammar of the muna language",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 565262254,
+                    "author": [
+                        {
+                            "AuId": 2113144810,
+                            "AuN": "alexandre francois"
+                        }
+                    ],
+                    "doi": "10.15144/PL-522",
+                    "title": "araki a disappearing language of vanuatu",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1496686764,
+                    "author": [
+                        {
+                            "AuId": 106474747,
+                            "AuN": "matti miestamo"
+                        }
+                    ],
+                    "title": "symmetric and asymmetric standard negation",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2482318078,
+                    "author": [
+                        {
+                            "AuId": 976278714,
+                            "AuN": "marianne mithun"
+                        }
+                    ],
+                    "title": "on the relativity of irreality",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1574356988,
+                    "author": [
+                        {
+                            "AuId": 2133202929,
+                            "AuN": "amy miller"
+                        }
+                    ],
+                    "title": "a grammar of jamul tiipay",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1492572997,
+                    "author": [
+                        {
+                            "AuId": 1215152046,
+                            "AuN": "frantisek lichtenberk"
+                        }
+                    ],
+                    "title": "a grammar of manam",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 1521665280,
+                    "author": [
+                        {
+                            "AuId": 2778655698,
+                            "AuN": "john r roberts"
+                        }
+                    ],
+                    "journal": "linguistic inquiry",
+                    "title": "amele switch reference and the theory of grammar",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2488608494,
+                    "author": [
+                        {
+                            "AuId": 2061382310,
+                            "AuN": "wallace chafe"
+                        }
+                    ],
+                    "title": "the realis irrealis distinction in caddo the northern iroquoian languages and english",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1600687642,
+                    "author": [
+                        {
+                            "AuId": 106474747,
+                            "AuN": "matti miestamo"
+                        }
+                    ],
+                    "title": "subtypes of asymmetric standard negation",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2468259172,
+                    "author": [
+                        {
+                            "AuId": 2597530050,
+                            "AuN": "alejandra vidal"
+                        },
+                        {
+                            "AuId": 2894211180,
+                            "AuN": "harriet e manelis klein"
+                        }
+                    ],
+                    "journal": "anthropological linguistics",
+                    "title": "irrealis in pilagai and toba syntactic versus pragmatic coding",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 1569226547,
+                    "author": [
+                        {
+                            "AuId": 2398255427,
+                            "AuN": "keith berry"
+                        },
+                        {
+                            "AuId": 2404500848,
+                            "AuN": "christine berry"
+                        }
+                    ],
+                    "doi": "10.15144/PL-B115",
+                    "title": "a description of abun a west papuan language of irian jaya",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2591170517,
+                    "author": [
+                        {
+                            "AuId": 2574861158,
+                            "AuN": "edward sapir"
+                        },
+                        {
+                            "AuId": 2899146007,
+                            "AuN": "p swiggers"
+                        }
+                    ],
+                    "title": "the collected works of edward sapir",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2065111113,
+                    "author": [
+                        {
+                            "AuId": 2261126620,
+                            "AuN": "john r roberts"
+                        }
+                    ],
+                    "doi": "10.1017/S0022226700014717",
+                    "journal": "journal of linguistics",
+                    "title": "modality in amele and other papuan languages",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 654117136,
+                    "author": [
+                        {
+                            "AuId": 1975413291,
+                            "AuN": "suzanne fleischman"
+                        },
+                        {
+                            "AuId": 2163611697,
+                            "AuN": "linda r waugh"
+                        }
+                    ],
+                    "title": "discourse pragmatics and the verb the evidence from romance",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2019643914,
+                    "author": [
+                        {
+                            "AuId": 2313621355,
+                            "AuN": "sander adelaar"
+                        },
+                        {
+                            "AuId": 2056657690,
+                            "AuN": "ger reesink"
+                        }
+                    ],
+                    "doi": "10.2307/3623303",
+                    "journal": "oceanic linguistics",
+                    "title": "topics in descriptive austronesian linguistics",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2075351379,
+                    "author": [
+                        {
+                            "AuId": 2110248856,
+                            "AuN": "sonia cristofaro"
+                        }
+                    ],
+                    "doi": "10.1515/LING.2008.019",
+                    "journal": "linguistics",
+                    "title": "a constructionist approach to complementation evidence from ancient greek",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 643265005,
+                    "author": [
+                        {
+                            "AuId": 2164486236,
+                            "AuN": "les bruce"
+                        }
+                    ],
+                    "title": "the alamblak language of papua new guinea east sepik",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 2109722869,
+                    "author": [
+                        {
+                            "AuId": 2261126620,
+                            "AuN": "john r roberts"
+                        }
+                    ],
+                    "doi": "10.1080/07268608808599392",
+                    "journal": "australian journal of linguistics",
+                    "title": "switch reference in papuan languages a syntactic or extrasyntactic device",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 601727154,
+                    "author": [
+                        {
+                            "AuId": 2342570320,
+                            "AuN": "gerhard tauberschmidt"
+                        }
+                    ],
+                    "title": "a grammar of sinaugoro an austronesian language of the central province of papua new guinea",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 589445410,
+                    "author": [
+                        {
+                            "AuId": 2096631942,
+                            "AuN": "jeffrey heath"
+                        }
+                    ],
+                    "title": "tondi songway kiini songhay mali reference grammar and tsk english french dictionary",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 622306009,
+                    "author": [
+                        {
+                            "AuId": 2103251386,
+                            "AuN": "leonid kulikov"
+                        },
+                        {
+                            "AuId": 2130882115,
+                            "AuN": "heinz vater"
+                        }
+                    ],
+                    "doi": "10.1515/9783110913750",
+                    "title": "typology of verbal categories papers presented to vladimir nedjalkov on the occasion of his 70th birthday",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2477991568,
+                    "author": [
+                        {
+                            "AuId": 2480910506,
+                            "AuN": "gilbert lazard"
+                        }
+                    ],
+                    "doi": "10.1515/9783110913750.237",
+                    "title": "l expression de l irreel essai de typologie",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1630248168,
+                    "author": [
+                        {
+                            "AuId": 2490734824,
+                            "AuN": "f r palmer"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139167178.008",
+                    "title": "mood and modality realis and irrealis",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 607865786,
+                    "author": [
+                        {
+                            "AuId": 1972913256,
+                            "AuN": "aert h kuipers"
+                        }
+                    ],
+                    "title": "the shuswap language grammar texts dictionary",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 111354843,
+                    "author": [
+                        {
+                            "AuId": 2325120243,
+                            "AuN": "matthew s dryer"
+                        }
+                    ],
+                    "title": "functionalism and the metalanguage theory confusion",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2767754826,
+                    "author": [
+                        {
+                            "AuId": 2328736112,
+                            "AuN": "werner winter"
+                        },
+                        {
+                            "AuId": 2636099110,
+                            "AuN": "margaret langdon"
+                        },
+                        {
+                            "AuId": 2115977252,
+                            "AuN": "shirley silver"
+                        }
+                    ],
+                    "doi": "10.1515/9783110819113-011",
+                    "title": "switch reference in yuman languages",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 2093355408,
+                    "author": [
+                        {
+                            "AuId": 2167311687,
+                            "AuN": "pamela munro"
+                        },
+                        {
+                            "AuId": 2636099110,
+                            "AuN": "margaret langdon"
+                        },
+                        {
+                            "AuId": 2115977252,
+                            "AuN": "shirley silver"
+                        }
+                    ],
+                    "doi": "10.1515/9783110819113",
+                    "journal": "language",
+                    "title": "hokan studies papers from the first conference on hokan languages held in san diego california april 23 25 1970",
+                    "year_mag": 1976
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2046541221,
+                    "author": [
+                        {
+                            "AuId": 2115562328,
+                            "AuN": "lev michael"
+                        }
+                    ],
+                    "doi": "10.1515/LINGTY-2014-0011",
+                    "journal": "linguistic typology",
+                    "title": "the nanti reality status system implications for the typological validity of the realis irrealis contrast",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1985008908,
+                    "author": [
+                        {
+                            "AuId": 2138385818,
+                            "AuN": "dejan matic"
+                        },
+                        {
+                            "AuId": 2036680785,
+                            "AuN": "irina nikolaeva"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2014.07.016",
+                    "journal": "linguistic typology",
+                    "title": "realis mood focus and existential closure in tundra yukaghir",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2046628569,
+                    "author": [
+                        {
+                            "AuId": 2156899498,
+                            "AuN": "caterina mauri"
+                        },
+                        {
+                            "AuId": 2077736160,
+                            "AuN": "andrea sanso"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2011.08.001",
+                    "journal": "linguistic typology",
+                    "title": "how directive constructions emerge grammaticalization constructionalization cooptation",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2996463481,
+                    "author": [
+                        {
+                            "AuId": 3003422698,
+                            "AuN": "maria khachaturyan"
+                        }
+                    ],
+                    "doi": "10.1515/LINGTY-2020-2050",
+                    "journal": "linguistic typology",
+                    "title": "a typological portrait of mano southern mande",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2919536602,
+                    "author": [
+                        {
+                            "AuId": 2918643131,
+                            "AuN": "kilu von prince"
+                        },
+                        {
+                            "AuId": 2919481010,
+                            "AuN": "anna krajinovic"
+                        },
+                        {
+                            "AuId": 1982290281,
+                            "AuN": "anna margetts"
+                        },
+                        {
+                            "AuId": 2031163439,
+                            "AuN": "nick thieberger"
+                        },
+                        {
+                            "AuId": 1867390325,
+                            "AuN": "valerie guerin"
+                        }
+                    ],
+                    "doi": "10.1515/STUF-2019-0002",
+                    "journal": "linguistic typology",
+                    "title": "habituality in four oceanic languages of melanesia",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2904315175,
+                    "author": [
+                        {
+                            "AuId": 2122824267,
+                            "AuN": "maria rita manzini"
+                        }
+                    ],
+                    "doi": "10.1075/LA.252.07RIT",
+                    "journal": "linguistic typology",
+                    "title": "chapter 7 micro and macro variation from pronominal allomorphies to the category of irreality non veridicality",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 3021766995,
+                    "author": [
+                        {
+                            "AuId": 2313151406,
+                            "AuN": "axel holvoet"
+                        }
+                    ],
+                    "doi": "10.1075/SL.18057.HOL",
+                    "journal": "linguistic typology",
+                    "title": "the dual nature of irrealis in complementation",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2525955851,
+                    "author": [
+                        {
+                            "AuId": 2692480714,
+                            "AuN": "holly a lakey"
+                        }
+                    ],
+                    "journal": "linguistic typology",
+                    "title": "the grammar of fear morphosyntactic metaphor in fear constructions",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2903185435,
+                    "author": [
+                        {
+                            "AuId": 2902285925,
+                            "AuN": "paola bocale"
+                        }
+                    ],
+                    "doi": "10.1080/00806765.2018.1525314",
+                    "journal": "linguistic typology",
+                    "title": "the irrealis use of the deictic tam in contemporary russian",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2320092943,
+                    "author": [
+                        {
+                            "AuId": 2637218082,
+                            "AuN": "holly a lakey"
+                        }
+                    ],
+                    "doi": "10.1515/JOLL-2015-0004",
+                    "journal": "linguistic typology",
+                    "title": "the grammaticalization of latin n\u0113 subjunctive constructions",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 3045242388,
+                    "author": [
+                        {
+                            "AuId": 2061836900,
+                            "AuN": "andrea sanso"
+                        }
+                    ],
+                    "doi": "10.1111/1467-968X.12197",
+                    "journal": "linguistic typology",
+                    "title": "routes towards the irrealis",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2268819608,
+                    "author": [
+                        {
+                            "AuId": 2333829557,
+                            "AuN": "mats exter"
+                        }
+                    ],
+                    "journal": "linguistic typology",
+                    "title": "realis and irrealis in wogeo a valid category",
+                    "year_mag": 2012
+                }
+            ],
+            "doi": "10.1016/J.LANGSCI.2011.08.001",
+            "journal": "language sciences",
+            "title": "descriptive notions vs grammatical categories unrealized states of affairs and irrealis",
+            "type": "1",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2539576826,
+            "cited": [
+                {
+                    "PId": 2021859759,
+                    "author": [
+                        {
+                            "AuId": 2145703555,
+                            "AuN": "sandra a thompson"
+                        }
+                    ],
+                    "doi": "10.1075/SL.26.1.05THO",
+                    "journal": "studies in language",
+                    "title": "object complements and conversation towards a realistic account",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2328875048,
+                    "author": [
+                        {
+                            "AuId": 976278714,
+                            "AuN": "marianne mithun"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.2008.0054",
+                    "journal": "language",
+                    "title": "the extension of dependency beyond the sentence",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2484597079,
+                    "author": [
+                        {
+                            "AuId": 716619668,
+                            "AuN": "joan l bybee"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780199298495.003.0005",
+                    "title": "formal universals as emergent phenomena the origins of structure preservation",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2493670424,
+                    "author": [
+                        {
+                            "AuId": 2233618017,
+                            "AuN": "foong ha yap"
+                        },
+                        {
+                            "AuId": 340013743,
+                            "AuN": "karen grunowharsta"
+                        },
+                        {
+                            "AuId": 2480371278,
+                            "AuN": "janick wrona"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.96.01YAP",
+                    "title": "introduction nominalization strategies in asian languages",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2324963952,
+                    "author": [
+                        {
+                            "AuId": 2807471759,
+                            "AuN": "elizabeth couperkuhlen"
+                        }
+                    ],
+                    "doi": "10.1075/PRAG.6.3.04COU",
+                    "journal": "pragmatics",
+                    "title": "intonation and clause combining in discourse the case of because",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2071575033,
+                    "author": [
+                        {
+                            "AuId": 2138163201,
+                            "AuN": "paul deane"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.1991.2.1.1",
+                    "journal": "cognitive linguistics",
+                    "title": "limits to attention a cognitive theory of island phenomena",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2499315731,
+                    "author": [
+                        {
+                            "AuId": 2807132394,
+                            "AuN": "elizabeth couperkuhlen"
+                        }
+                    ],
+                    "doi": "10.1515/9783111355207.7",
+                    "title": "foregrounding and temporal relations in narrative discourse",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2001481154,
+                    "author": [
+                        {
+                            "AuId": 1972913256,
+                            "AuN": "aert h kuipers"
+                        }
+                    ],
+                    "doi": "10.1515/9783111358024",
+                    "journal": "language",
+                    "title": "the squamish language grammar texts dictionary",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2975916472,
+                    "author": [
+                        {
+                            "AuId": 2976536615,
+                            "AuN": "johan van der auwera"
+                        }
+                    ],
+                    "doi": "10.1515/9783110250527-014",
+                    "title": "12 the predicative relatives of french perception verbs",
+                    "year_mag": 1985
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Heine",
+                            "given": "Bernd",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1002/9780470756393.CH18",
+                    "title": "grammaticalization",
+                    "year_oc": null
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Blevins",
+                            "given": "Juliette",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511486357",
+                    "title": "evolutionary phonology",
+                    "year_oc": 2004
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Watters",
+                            "given": "David E.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511486883",
+                    "title": "a grammar of kham",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Ford",
+                            "given": "Cecilia E.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511554278",
+                    "title": "grammar in interaction",
+                    "year_oc": 1993
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Schiffrin",
+                            "given": "Deborah",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511611841",
+                    "title": "discourse markers",
+                    "year_oc": 1987
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Cristofaro",
+                            "given": "Sonia",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/CELCR.11.11CRI",
+                    "title": "8 asymmetric events subordination and grammatical categories",
+                    "year_oc": 2008
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Cristofaro",
+                            "given": "Sonia",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/PBNS.249.03CRI",
+                    "title": "is there really a syntactic category of subordination ",
+                    "year_oc": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Scheutz",
+                            "given": "Hannes",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/SIDAG.10.07SCH",
+                    "title": "on causal clause combining",
+                    "year_oc": 2001
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Wisconsin-Madison"
+                                }
+                            ],
+                            "family": "Mori",
+                            "given": "Junko",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/SIDAG.8",
+                    "title": "negotiating agreement and disagreement in japanese",
+                    "year_oc": 1999
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Reintges",
+                            "given": "Chris H.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.121.07REI",
+                    "title": "coordination converbs and clause chaining in coptic egyptian typology and structural analysis",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Robert",
+                            "given": "St\u00e9phane",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.121.15ROB",
+                    "title": "clause chaining and conjugations in wolof",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Yap",
+                            "given": "Foong Ha",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Matthews",
+                            "given": "Stephen",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.76.15YAP",
+                    "title": "the development of nominalizers in east asian and tibeto burman languages",
+                    "year_oc": 2008
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Mithun",
+                            "given": "Marianne",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.85.03REE",
+                    "title": "re e volving complexity",
+                    "year_oc": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Noonan",
+                            "given": "Michael",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.96.07NOO",
+                    "title": "aspects of the historical development of nominalizers in the tamangic languages",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Noonan",
+                            "given": "Michael",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/Z.82.21NOO",
+                    "title": "versatile nominalizations",
+                    "year_oc": 1997
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Noonan",
+                            "given": "Michael",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110850512",
+                    "title": "a grammar of lango",
+                    "year_oc": 1992
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Declerck",
+                            "given": "Renaat H. C.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4324/9780203211472",
+                    "title": "when clauses and temporal structure",
+                    "year_oc": 2003
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2589876627,
+                    "author": [
+                        {
+                            "AuId": 2310264999,
+                            "AuN": "pedro gras"
+                        },
+                        {
+                            "AuId": 2512583588,
+                            "AuN": "maria sol sansinena"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2017.04.005",
+                    "journal": "journal of pragmatics",
+                    "title": "exclamatives in the functional typology of insubordination evidence from complement insubordinate constructions in spanish",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2737925201,
+                    "author": [
+                        {
+                            "AuId": 2301793777,
+                            "AuN": "william b mcgregor"
+                        }
+                    ],
+                    "doi": "10.1075/ETC.10.2.02MCG",
+                    "journal": "journal of pragmatics",
+                    "title": "there s grammar and there s grammar just as there s usage and there s usage",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3009618449,
+                    "author": [
+                        {
+                            "AuId": 2110248856,
+                            "AuN": "sonia cristofaro"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.124.03CRI",
+                    "journal": "journal of pragmatics",
+                    "title": "chapter 3 nominalization in cross linguistic diachronic perspective",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2897451855,
+                    "author": [
+                        {
+                            "AuId": 1986146393,
+                            "AuN": "yael maschler"
+                        }
+                    ],
+                    "doi": "10.1075/SL.17065.MAS",
+                    "journal": "journal of pragmatics",
+                    "title": "the on line emergence of hebrew insubordinate she that which who clauses a usage based perspective on so called subordination",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 3005193525,
+                    "author": [
+                        {
+                            "AuId": 3004554138,
+                            "AuN": "yael maschler"
+                        }
+                    ],
+                    "doi": "10.1075/SLSI.32.04MAS",
+                    "journal": "journal of pragmatics",
+                    "title": "chapter 4 the insubordinate subordinate continuum prosody embodied action and the emergence of hebrew complex syntax",
+                    "year_mag": 2020
+                }
+            ],
+            "doi": "10.1075/TSL.115.15CRI",
+            "title": "chapter 15 routes to insubordination a cross linguistic perspective",
+            "type": "4",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2328865001,
+            "citing": [
+                {
+                    "PId": 2049585173,
+                    "author": [
+                        {
+                            "AuId": 135257692,
+                            "AuN": "holger diessel"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.2001.0152",
+                    "journal": "language",
+                    "title": "the ordering distribution of main and adverbial clauses a typological study",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2150011677,
+                    "author": [
+                        {
+                            "AuId": 2125534076,
+                            "AuN": "jeanchristophe verstraete"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2003.09.018",
+                    "journal": "language",
+                    "title": "two types of coordination in clause combining",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2037604519,
+                    "author": [
+                        {
+                            "AuId": 2702324911,
+                            "AuN": "gunter rohdenburg"
+                        }
+                    ],
+                    "doi": "10.1080/00138380601042824",
+                    "journal": "language",
+                    "title": "functional constraints in syntactic change the rise and fall of prepositional constructions in early and late modern english",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2549061041,
+                    "author": [
+                        {
+                            "AuId": 2126072683,
+                            "AuN": "jackson t s sun"
+                        }
+                    ],
+                    "journal": "language",
+                    "title": "complementation in caodeng rgyalrong",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2990810711,
+                    "author": [
+                        {
+                            "AuId": 2549350242,
+                            "AuN": "gilad brandes"
+                        },
+                        {
+                            "AuId": 728941307,
+                            "AuN": "dorit ravid"
+                        }
+                    ],
+                    "doi": "10.1075/WLL.00022.BRA",
+                    "journal": "language",
+                    "title": "the development of adverbial clause functions in hebrew narrative and expository writing across adolescence",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2095026268,
+                    "author": [
+                        {
+                            "AuId": 2742562890,
+                            "AuN": "ali darzi"
+                        },
+                        {
+                            "AuId": 2672742590,
+                            "AuN": "saera kwak"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2014.10.003",
+                    "journal": "language",
+                    "title": "syntax and semantics of subjunctive clauses in persian",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2521246596,
+                    "author": [
+                        {
+                            "AuId": 2125534076,
+                            "AuN": "jeanchristophe verstraete"
+                        }
+                    ],
+                    "journal": "language",
+                    "title": "formal criteria for subordination in the germanic languages in search of an explanation",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1545239526,
+                    "author": [
+                        {
+                            "AuId": 2483291355,
+                            "AuN": "marina chini"
+                        }
+                    ],
+                    "doi": "10.4000/AILE.1113",
+                    "journal": "language",
+                    "title": "le phenomene de la jonction interpropositionnelle dans la narration en italien l2 entre agregation et integration",
+                    "year_mag": 2003
+                }
+            ],
+            "doi": "10.1524/STUF.1998.51.1.3",
+            "title": "deranking and balancing in different subordination relations a typological study",
+            "type": "0",
+            "year_mag": 1998
+        },
+        {
+            "PId": 2497286553,
+            "citing": [
+                {
+                    "PId": 1577142816,
+                    "author": [
+                        {
+                            "AuId": 1962726511,
+                            "AuN": "bernd heine"
+                        },
+                        {
+                            "AuId": 1971280809,
+                            "AuN": "tania kuteva"
+                        }
+                    ],
+                    "title": "world lexicon of grammaticalization",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2341501236,
+                    "author": [
+                        {
+                            "AuId": 1975735714,
+                            "AuN": "klaas bentein"
+                        }
+                    ],
+                    "doi": "10.1080/00397679.2015.1095012",
+                    "title": "minor complementation patterns in post classical greek i vi ad a socio historical analysis of a corpus of documentary papyri",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1790111237,
+                    "author": [
+                        {
+                            "AuId": 2670243969,
+                            "AuN": "hueiling lai"
+                        },
+                        {
+                            "AuId": 2482597278,
+                            "AuN": "\u8cf4\u60e0\u73b2"
+                        }
+                    ],
+                    "title": "on hakka bun a case of polygrammaticalization",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 41081225,
+                    "author": [
+                        {
+                            "AuId": 2641394266,
+                            "AuN": "antonio luque castro"
+                        }
+                    ],
+                    "title": "las cuerdas vocales estrangulan la sencillez explicativa sobre la etimologia de la conjuncion pero",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2504037641,
+                    "author": [
+                        {
+                            "AuId": 1962726511,
+                            "AuN": "bernd heine"
+                        },
+                        {
+                            "AuId": 1971280809,
+                            "AuN": "tania kuteva"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511613463.002",
+                    "title": "grammatical concepts used in this work",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2503283911,
+                    "author": [
+                        {
+                            "AuId": 1962726511,
+                            "AuN": "bernd heine"
+                        },
+                        {
+                            "AuId": 1971280809,
+                            "AuN": "tania kuteva"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511613463.004",
+                    "title": "source target list",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2503091988,
+                    "author": [
+                        {
+                            "AuId": 1962726511,
+                            "AuN": "bernd heine"
+                        },
+                        {
+                            "AuId": 1971280809,
+                            "AuN": "tania kuteva"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511613463.005",
+                    "title": "target source list",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2905429887,
+                    "author": [
+                        {
+                            "AuId": 2904979514,
+                            "AuN": "melitta gillmann"
+                        }
+                    ],
+                    "doi": "10.1515/FLIN-2018-0013",
+                    "title": "causal inference or conventionalized meaning a corpus study of the german connector nachdem after in regional standard varieties",
+                    "year_mag": 2018
+                }
+            ],
+            "doi": "10.1075/TSL.37.03CRI",
+            "title": "grammaticalization and clause linkage strategies a typological approach with particular reference to ancient greek",
+            "type": "4",
+            "year_mag": 1998
+        },
+        {
+            "PId": 2487415083,
+            "citing": [
+                {
+                    "PId": 639900731,
+                    "author": [
+                        {
+                            "AuId": 1874356196,
+                            "AuN": "philip r minlos"
+                        }
+                    ],
+                    "doi": "10.31168/2305-6754.2012.1.1.5",
+                    "journal": "international journal of slavic studies",
+                    "title": "slavic relative cto co between pronouns and conjunctions",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2580367151,
+                    "author": [
+                        {
+                            "AuId": 2629244323,
+                            "AuN": "eran cohen"
+                        }
+                    ],
+                    "doi": "10.1075/SL.40.4.01COH",
+                    "journal": "international journal of slavic studies",
+                    "title": "the modern hebrew prepositional relative clause strategy",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 155278064,
+                    "author": [
+                        {
+                            "AuId": 2118235495,
+                            "AuN": "giuliana fiorentino"
+                        }
+                    ],
+                    "journal": "international journal of slavic studies",
+                    "title": "european relative clauses and the uniqueness of the relative pronoun type",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2220080504,
+                    "author": [
+                        {
+                            "AuId": 2918894372,
+                            "AuN": "adriano murelli"
+                        }
+                    ],
+                    "journal": "international journal of slavic studies",
+                    "title": "relative constructions in european languages a look at non standard",
+                    "year_mag": 2011
+                }
+            ],
+            "doi": "10.1075/SLCS.88.06CRI",
+            "title": "relativization strategies in the languages of europe",
+            "type": "0",
+            "year_mag": 2007
+        },
+        {
+            "PId": 1550849737,
+            "doi": "10.1111/J.1749-818X.2010.00252.X",
+            "journal": "language and linguistics compass",
+            "title": "teaching and learning guide for grammatical categories and relations universality vs language specificity and construction specificity",
+            "type": "1",
+            "year_mag": 2010
+        },
+        {
+            "PId": 2073428421,
+            "cited": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Comrie",
+                            "given": "Bernard",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4757-5718-7_6",
+                    "title": "markedness grammar people and the world",
+                    "year_oc": 1986
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Noonan",
+                            "given": "Michael",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511619434.002",
+                    "title": "complementation",
+                    "year_oc": null
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Blake",
+                            "given": "Barry J.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139164894",
+                    "title": "case",
+                    "year_oc": 2001
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hopper",
+                            "given": "Paul J.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Traugott",
+                            "given": "Elizabeth Closs",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139165525",
+                    "title": "grammaticalization",
+                    "year_oc": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Valin",
+                            "given": "Robert D. van",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "LaPolla",
+                            "given": "Randy J.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139166799",
+                    "title": "syntax",
+                    "year_oc": 1997
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Oregon"
+                                }
+                            ],
+                            "family": "Giv\u00f3n",
+                            "given": "T.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/SL.18.2.02GIV",
+                    "title": "irrealis and the subjunctive",
+                    "year_oc": 1994
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Lehmann",
+                            "given": "Christian",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.18.09LEH",
+                    "title": "towards a typology of clause linkage",
+                    "year_oc": 1988
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Matthiessen",
+                            "given": "Christian M.I.M.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Thompson",
+                            "given": "Sandra A.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1075/TSL.18.12MAT",
+                    "title": "the structure of discourse and subordination ",
+                    "year_oc": 1988
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dench",
+                            "given": "Alan",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Evans",
+                            "given": "Nicholas",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1080/07268608808599390",
+                    "title": "multiple case marking in australian languages",
+                    "year_oc": 1988
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hengeveld",
+                            "given": "Kees",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110802610.335",
+                    "title": "6 adverbial clauses in the languages of europe",
+                    "year_oc": null
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "ELLIOTT",
+                            "given": "JENNIFER R.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/LITY.2000.4.1.55",
+                    "title": "realis and irrealis forms and concepts of the grammaticalisation of reality",
+                    "year_oc": 2000
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Haiman",
+                            "given": "John",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Thompson",
+                            "given": "Sandra A.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.3765/BLS.V10I0.1973",
+                    "title": " subordination in universal grammar",
+                    "year_oc": 1984
+                }
+            ],
+            "doi": "10.1075/SL.34.3.07CRI",
+            "journal": "studies in language",
+            "title": "vajda edward j ed 2008 subordination and coordination strategies in north asian languages",
+            "type": "1",
+            "year_mag": 2010
+        },
+        {
+            "PId": 84901627,
+            "cited": [
+                {
+                    "PId": 1973512476,
+                    "author": [
+                        {
+                            "AuId": 2571231996,
+                            "AuN": "john a hawkins"
+                        }
+                    ],
+                    "doi": "10.1016/0024-3841(88)90055-1",
+                    "journal": "lingua",
+                    "title": "on generative and typological approaches to universal grammar",
+                    "year_mag": 1988
+                }
+            ],
+            "doi": "10.1016/B0-08-044854-2/04751-9",
+            "title": "linguistic universals chomskyan",
+            "type": "4",
+            "year_mag": 2006
+        },
+        {
+            "PId": 2082243525,
+            "cited": [
+                {
+                    "PId": 2010398411,
+                    "author": [
+                        {
+                            "AuId": 976278714,
+                            "AuN": "marianne mithun"
+                        }
+                    ],
+                    "doi": "10.1515/LITY.2008.035",
+                    "journal": "linguistic typology",
+                    "title": "the p\u0101\u1e47ini grammar award 2007",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2042827396,
+                    "author": [
+                        {
+                            "AuId": 2127578981,
+                            "AuN": "frans plank"
+                        }
+                    ],
+                    "doi": "10.1515/FLIN.1991.25.3-4.421",
+                    "journal": "folia linguistica",
+                    "title": "hypology typology the gabelentz puzzle",
+                    "year_mag": 1991
+                }
+            ],
+            "doi": "10.1515/LITY.2011.001",
+            "journal": "linguistic typology",
+            "title": "the georg von der gabelentz award 2009",
+            "type": "1",
+            "year_mag": 2011
+        },
+        {
+            "PId": 2778370555,
+            "doi": "10.1418/88240",
+            "title": "constraints on language diversity",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2325774063,
+            "cited": [
+                {
+                    "PId": 614806104,
+                    "author": [
+                        {
+                            "AuId": 2420020367,
+                            "AuN": "mark c baker"
+                        }
+                    ],
+                    "title": "lexical categories verbs nouns and adjectives",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2337762945,
+                    "author": [
+                        {
+                            "AuId": 1985423291,
+                            "AuN": "william croft"
+                        }
+                    ],
+                    "title": "radical construction grammar",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2008885987,
+                    "author": [
+                        {
+                            "AuId": 2202269343,
+                            "AuN": "johan van der auwera"
+                        },
+                        {
+                            "AuId": 2589863398,
+                            "AuN": "vladimir a plungian"
+                        }
+                    ],
+                    "doi": "10.1515/LITY.1998.2.1.79",
+                    "journal": "linguistic typology",
+                    "title": "modality s semantic map",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2027489130,
+                    "author": [
+                        {
+                            "AuId": 95979212,
+                            "AuN": "martin haspelmath"
+                        }
+                    ],
+                    "doi": "10.1515/LINGTY.2007.011",
+                    "journal": "linguistic typology",
+                    "title": "pre established categories don t exist consequences for language description and typology",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2089482985,
+                    "author": [
+                        {
+                            "AuId": 1985423291,
+                            "AuN": "william croft"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.1998.9.2.151",
+                    "journal": "cognitive linguistics",
+                    "title": "linguistic evidence and mental representations",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2028449334,
+                    "author": [
+                        {
+                            "AuId": 95979212,
+                            "AuN": "martin haspelmath"
+                        }
+                    ],
+                    "doi": "10.1075/SL.28.3.06HAS",
+                    "journal": "studies in language",
+                    "title": "does linguistic explanation presuppose linguistic description",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2055843532,
+                    "author": [
+                        {
+                            "AuId": 2722989273,
+                            "AuN": "anthony rodrigues aristar"
+                        }
+                    ],
+                    "doi": "10.2307/415537",
+                    "journal": "language",
+                    "title": "on diachronic sources and synchronic pattern an investigation into the origin of linguistic universals",
+                    "year_mag": 1991
+                }
+            ],
+            "doi": "10.1349/PS1.1537-0852.A.359",
+            "journal": "linguistic discovery",
+            "title": "commentary on boye posting grammatical categories linguists vs speakers generalizations",
+            "type": "1",
+            "year_mag": 2010
+        },
+        {
+            "PId": 2324173837,
+            "cited": [
+                {
+                    "PId": 1973826788,
+                    "author": [
+                        {
+                            "AuId": 1652441068,
+                            "AuN": "elizabeth closs traugott"
+                        },
+                        {
+                            "AuId": 1235776393,
+                            "AuN": "richard b dasher"
+                        }
+                    ],
+                    "title": "regularity in semantic change",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2140231764,
+                    "author": [
+                        {
+                            "AuId": 1985423291,
+                            "AuN": "william croft"
+                        }
+                    ],
+                    "title": "explaining language change an evolutionary approach",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1981238632,
+                    "author": [
+                        {
+                            "AuId": 196695265,
+                            "AuN": "ronald w langacker"
+                        }
+                    ],
+                    "doi": "10.1515/COGL.1993.4.1.1",
+                    "journal": "cognitive linguistics",
+                    "title": "reference point constructions",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2317624599,
+                    "author": [
+                        {
+                            "AuId": 2110248856,
+                            "AuN": "sonia cristofaro"
+                        }
+                    ],
+                    "doi": "10.1349/PS1.1537-0852.A.345",
+                    "journal": "linguistic discovery",
+                    "title": "semantic maps and mental representation",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2005221235,
+                    "author": [
+                        {
+                            "AuId": 1985423291,
+                            "AuN": "william croft"
+                        }
+                    ],
+                    "doi": "10.2307/416218",
+                    "journal": "language",
+                    "title": "autonomy and functionalist linguistics",
+                    "year_mag": 1995
+                }
+            ],
+            "doi": "10.1349/PS1.1537-0852.A.364",
+            "journal": "linguistic discovery",
+            "title": "author s reply what multifunctionality patterns tell us",
+            "type": "1",
+            "year_mag": 2010
+        },
+        {
+            "PId": 2753716872,
+            "citing": [
+                {
+                    "PId": 2956037227,
+                    "author": [
+                        {
+                            "AuId": 2655028980,
+                            "AuN": "edoardo maria ponti"
+                        },
+                        {
+                            "AuId": 2531073295,
+                            "AuN": "helen ohoran"
+                        },
+                        {
+                            "AuId": 1779119927,
+                            "AuN": "yevgeni berzak"
+                        },
+                        {
+                            "AuId": 2028299656,
+                            "AuN": "ivan vulic"
+                        },
+                        {
+                            "AuId": 1972118651,
+                            "AuN": "roi reichart"
+                        },
+                        {
+                            "AuId": 142190149,
+                            "AuN": "thierry poibeau"
+                        },
+                        {
+                            "AuId": 2090286747,
+                            "AuN": "ekaterina shutova"
+                        },
+                        {
+                            "AuId": 2110381519,
+                            "AuN": "anna korhonen"
+                        }
+                    ],
+                    "journal": "arxiv computation and language",
+                    "title": "modeling language variation and universals a survey on typological linguistics for natural language processing",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2810095012,
+                    "author": [
+                        {
+                            "AuId": 2655028980,
+                            "AuN": "edoardo maria ponti"
+                        },
+                        {
+                            "AuId": 2531073295,
+                            "AuN": "helen ohoran"
+                        },
+                        {
+                            "AuId": 1779119927,
+                            "AuN": "yevgeni berzak"
+                        },
+                        {
+                            "AuId": 2028299656,
+                            "AuN": "ivan vulic"
+                        },
+                        {
+                            "AuId": 1972118651,
+                            "AuN": "roi reichart"
+                        },
+                        {
+                            "AuId": 142190149,
+                            "AuN": "thierry poibeau"
+                        },
+                        {
+                            "AuId": 2090286747,
+                            "AuN": "ekaterina shutova"
+                        },
+                        {
+                            "AuId": 2110381519,
+                            "AuN": "anna korhonen"
+                        }
+                    ],
+                    "doi": "10.1162/COLI_A_00357",
+                    "journal": "arxiv computation and language",
+                    "title": "modeling language variation and universals a survey on typological linguistics for natural language processing",
+                    "year_mag": 2019
+                }
+            ],
+            "title": "introduzione alla tipologia linguistica",
+            "type": "0",
+            "year_mag": 1999
+        },
+        {
+            "PId": 167736005,
+            "title": "modalita grammaticalizzazione e iconicita proposta di alcune gerarchie implicazionali",
+            "type": "0",
+            "year_mag": 1997
+        },
+        {
+            "PId": 2535580644,
+            "title": "grammaticalization and clause linkage strategies",
+            "type": "0",
+            "year_mag": 1998
+        }
+    ]
+}

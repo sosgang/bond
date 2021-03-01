@@ -6,7 +6,6 @@ from search_OA_CR import *
 
 
 def calculate_coverage(logger, cand_dict):
-
     cov = dict()
     cov["total_CV"] = len(cand_dict["pubbs"])
     cov["mag"] = 0
@@ -41,15 +40,45 @@ def calculate_coverage(logger, cand_dict):
     return cov
 
 
-def saving_coverage(file_path, path):
+def build_cands_data(complete_folder):
 
-    with open(file_path) as complete_file:
-        dd = json.load(complete_file)
+    data = dict()
+
+    with os.scandir(complete_folder) as complete_files:
+        for file in complete_files:
+            file_path = os.path.join(complete_folder, file.name)
+            file_name = file.name[:-5]
+            name_parts = file_name.split("_")
+            type_file = name_parts[5]
+
+            if type_file == "complete":
+                asn_year = name_parts[0]
+                term = name_parts[1]
+                role = name_parts[2]
+                field = name_parts[3]
+                cand_id = name_parts[4]
+                if asn_year not in data.keys():
+                    data[asn_year] = dict()
+                if term not in data[asn_year].keys():
+                    data[asn_year][term] = dict()
+                if role not in data[asn_year][term].keys():
+                    data[asn_year][term][role] = dict()
+                if field not in data[asn_year][term][role].keys():
+                    data[asn_year][term][role][field] = dict()
+
+                with open(file_path, 'r') as json_file:
+                    data[asn_year][term][role][field][cand_id] = json.load(json_file)
+
+    return data
+
+def saving_coverage(complete_folder, path):
 
     logging.basicConfig(filename='coverage.log', level=logging.ERROR,
                         format='%(asctime)s %(levelname)s %(name)s %(message)s')
     logger = logging.getLogger(__name__)
     logger.error("____COVERAGE____")
+
+    cands_dict = build_cands_data(complete_folder)
 
     cov_folder = os.path.join(os.getcwd(), "cov_data")
     if os.path.exists(cov_folder) is False:
@@ -57,7 +86,7 @@ def saving_coverage(file_path, path):
 
     cov_dict = dict()
 
-    for asn_year, terms in dd["cand"].items():
+    for asn_year, terms in cands_dict.items():
         cov_dict[asn_year] = dict()
         for term, roles in terms.items():
             cov_dict[asn_year][term] = dict()
@@ -102,4 +131,5 @@ def saving_coverage(file_path, path):
                                  mag, oa, cr, comb, info["total_CV"]))
 
 
-saving_coverage("complete_data.json", "coverage.csv")
+complete_data_folder = os.path.join(os.getcwd(), "complete_data")
+saving_coverage(complete_data_folder, "coverage.csv")

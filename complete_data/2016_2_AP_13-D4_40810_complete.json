@@ -1,0 +1,1685 @@
+{
+    "AuIds": [],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 5,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 352,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 47,
+            "comm_other": 3858,
+            "other_cand": 13,
+            "other_comm": 1555
+        },
+        "other_nodes": 3770
+    },
+    "coverage": {
+        "articles": 8,
+        "books": 0,
+        "cov_sect": "A",
+        "other_pubbs": 0,
+        "pubbs": 7,
+        "pubbs_found": 5,
+        "pubbs_ind": 7,
+        "pubbs_ind_found": 6,
+        "total_extra_found": 6,
+        "total_found": 6,
+        "total_pubbs": 8
+    },
+    "fullname": [
+        "Triossi Verondini",
+        "Matteo Maria"
+    ],
+    "ind_anvur": [
+        5,
+        5,
+        0,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0899-8256"
+            ],
+            "cited": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Alcalde",
+                            "given": "Jos\u00e9",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Romero-Medina",
+                            "given": "Antonio",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1006/GAME.1999.0743",
+                    "title": "simple mechanisms to implement the core of college admissions problems",
+                    "year_oc": 2000
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "S\u00f6nmez",
+                            "given": "Tayfun",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1006/JETH.1997.2316",
+                    "title": "manipulation via capacities in two sided matching markets",
+                    "year_oc": 1997
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kara",
+                            "given": "Tarak",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "S\u00f6nmez",
+                            "given": "Tayfun",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/BF01213799",
+                    "title": "implementation of college admission rules",
+                    "year_oc": 1997
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Sotomayor",
+                            "given": "Marilda",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/S001820300156",
+                    "title": "reaching the core of the marriage market through a non revelation matching mechanism",
+                    "year_oc": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Sotomayor",
+                            "given": "Marilda",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/S00182-008-0115-8",
+                    "title": "the stability of the equilibrium outcomes in the admission games induced by stable matching rules",
+                    "year_oc": 2008
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kesten",
+                            "given": "Onur",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/S00199-011-0618-6",
+                    "title": "on two kinds of manipulation for school choice problems",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Konishi",
+                            "given": "Hideo",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "\u00dcnver",
+                            "given": "M. Utku",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S00355-006-0097-Z",
+                    "title": "games of capacity manipulation in hospital intern markets",
+                    "year_oc": 2006
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Mumcu",
+                            "given": "Ay\u015fe",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Saglam",
+                            "given": "Ismail",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S00355-008-0364-2",
+                    "title": "games of capacity allocation in many to one matching with an aftermarket",
+                    "year_oc": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Gale",
+                            "given": "David",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Sotomayor",
+                            "given": "Marilda",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/0166-218X(85)90074-5",
+                    "title": "some remarks on the stable matching problem",
+                    "year_oc": 1985
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Ehlers",
+                            "given": "Lars",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/J.GEB.2009.12.006",
+                    "title": "manipulation via capacities revisited",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Roth",
+                            "given": "Alvin E.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Sotomayor",
+                            "given": "Marilda A. Oliveira",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/CCOL052139015X",
+                    "title": "two sided matching",
+                    "year_oc": 1990
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Roth",
+                            "given": "Alvin E.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1111/1468-0262.00335",
+                    "title": "the economist as engineer game theory experimentation and computation as tools for design economics",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Ergin",
+                            "given": "Haluk I.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1111/1468-0262.00383",
+                    "title": "efficient resource allocation on the basis of priorities",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Department of Economics, Columbia University, New York, NY 10027."
+                                }
+                            ],
+                            "family": "Abdulkadiro\u011flu",
+                            "given": "Atila",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Harvard Business School and Department of Economics, Harvard University, Cambridge, MA 02138."
+                                }
+                            ],
+                            "family": "Pathak",
+                            "given": "Parag A",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Harvard Business School and Department of Economics, Harvard University, Cambridge, MA 02138."
+                                }
+                            ],
+                            "family": "Roth",
+                            "given": "Alvin E",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1257/000282805774670167",
+                    "title": "the new york city high school match",
+                    "year_oc": 2005
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Department of Economics, and Graduate School of Business Administration, Harvard University, Cambridge, MA 02138."
+                                }
+                            ],
+                            "family": "Roth",
+                            "given": "Alvin E",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "National Matching Services, Inc., 595 Bay Street, Suite 301, Box 29, Toronto, ON M5G 2C2, Canada."
+                                }
+                            ],
+                            "family": "Peranson",
+                            "given": "Elliott",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1257/AER.89.4.748",
+                    "title": "the redesign of the matching market for american physicians some engineering aspects of economic design",
+                    "year_oc": 1999
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Cowles Foundation, Yale University, New Haven, CT 06510."
+                                }
+                            ],
+                            "family": "Kojima",
+                            "given": "Fuhito",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Society of Fellows, Harvard University, Cambridge, MA 02138, and Department of Economics, Massachusetts Institute of Technology, Cambridge, MA 02142."
+                                }
+                            ],
+                            "family": "Pathak",
+                            "given": "Parag A",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1257/AER.99.3.608",
+                    "title": "incentives and stability in large two sided matching markets",
+                    "year_oc": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Romero-Medina",
+                            "given": "Antonio",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Triossi",
+                            "given": "Matteo",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1675222",
+                    "title": "non revelation mechanisms in many to one markets",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Romero-Medina",
+                            "given": "Antonio",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Triossi",
+                            "given": "Matteo",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1912877",
+                    "title": "acyclicity and singleton cores in matching markets",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kojima",
+                            "given": "Fuhito",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.2202/1935-1704.1405",
+                    "title": "when can manipulations be avoided in two sided matching markets maximal domain results",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Gale",
+                            "given": "D.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Shapley",
+                            "given": "L. S.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/2312726",
+                    "title": "college admissions and the stability of marriage",
+                    "year_oc": 1962
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dubins",
+                            "given": "L. E.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Freedman",
+                            "given": "D. A.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/2321753",
+                    "title": "machiavelli and the gale shapley algorithm",
+                    "year_oc": 1981
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Gale",
+                            "given": "David",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Sotomayor",
+                            "given": "Marilda",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/2323645",
+                    "title": "ms machiavelli and the stable matching problem",
+                    "year_oc": 1985
+                }
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Ramani",
+                            "given": "Vinay",
+                            "sequence": "first"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-3894-7799",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Rao",
+                            "given": "K. S. Mallikarjuna",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S00182-017-0603-9",
+                    "title": "paths to stability and uniqueness in two sided matching markets",
+                    "year_oc": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-5283-6024",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "B\u00f3",
+                            "given": "In\u00e1cio",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Heller",
+                            "given": "C.-Philipp",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S00355-016-1024-6",
+                    "title": "strategic schools under the boston mechanism revisited",
+                    "year_oc": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Direcci\u00f3n General de Investigaci\u00f3n Econ\u00f3mica, Banco de M\u00e9xico, Ciudad de M\u00e9xico, M\u00e9xico"
+                                }
+                            ],
+                            "family": "Tello",
+                            "given": "Benjam\u00edn",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/BEJTE-2016-0131",
+                    "title": "stability of equilibrium outcomes under deferred acceptance acyclicity and dropping strategies",
+                    "year_oc": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-4076-350X",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Romero-Medina",
+                            "given": "Antonio",
+                            "sequence": "first"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-6356-7560",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Triossi",
+                            "given": "Matteo",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S00182-020-00741-1",
+                    "title": "two sided strategy proofness in many to many matching markets",
+                    "year_oc": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1007/S00355-012-0703-1",
+            "journal": "GAMES AND ECONOMIC BEHAVIOR",
+            "title": "non revelation mechanisms in many to one markets",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0165-1765"
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Park",
+                            "given": "Jaeok",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/S00182-016-0543-9",
+                    "title": "competitive equilibrium and singleton cores in generalized matching problems",
+                    "year_oc": 2016
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Akahoshi",
+                            "given": "Takashi",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/S00355-014-0803-1",
+                    "title": "a necessary and sufficient condition for stable matching rules to be strategy proof",
+                    "year_oc": 2014
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Direcci\u00f3n General de Investigaci\u00f3n Econ\u00f3mica, Banco de M\u00e9xico, Ciudad de M\u00e9xico, M\u00e9xico"
+                                }
+                            ],
+                            "family": "Tello",
+                            "given": "Benjam\u00edn",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/BEJTE-2016-0131",
+                    "title": "stability of equilibrium outcomes under deferred acceptance acyclicity and dropping strategies",
+                    "year_oc": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Ramani",
+                            "given": "Vinay",
+                            "sequence": "first"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-3894-7799",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Rao",
+                            "given": "K. S. Mallikarjuna",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S00182-017-0603-9",
+                    "title": "paths to stability and uniqueness in two sided matching markets",
+                    "year_oc": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-4076-350X",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Romero-Medina",
+                            "given": "Antonio",
+                            "sequence": "first"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-6356-7560",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Triossi",
+                            "given": "Matteo",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S00182-020-00741-1",
+                    "title": "two sided strategy proofness in many to many matching markets",
+                    "year_oc": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1016/J.ECONLET.2012.10.032",
+            "journal": "ECONOMICS LETTERS",
+            "title": "acyclicity and singleton cores in matching markets",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0899-8256"
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "McMurray",
+                            "given": "Joseph",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/S11127-015-0288-1",
+                    "title": "the paradox of information and voter turnout",
+                    "year_oc": 2015
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Centre for International Trade and Development, Jawaharlal Nehru University, New Delhi110067, India"
+                                }
+                            ],
+                            "family": "Guha",
+                            "given": "Brishti",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/BEJTE-2018-0020",
+                    "title": "pretrial beliefs and verdict accuracy costly juror effort and free riding",
+                    "year_oc": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1016/J.GEB.2013.07.008",
+            "journal": "GAMES AND ECONOMIC BEHAVIOR",
+            "title": "costly information acquisition is it better to toss a coin ",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1133-455X"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "4"
+            },
+            "journal": "REVISTA DE ECONOM\u00cdA APLICADA",
+            "title": "boosting scientific research evidence from a public program",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1432-217X"
+            ],
+            "cited": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Alcalde",
+                            "given": "Jos\u00e9",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Romero-Medina",
+                            "given": "Antonio",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1006/GAME.1999.0743",
+                    "title": "simple mechanisms to implement the core of college admissions problems",
+                    "year_oc": 2000
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "S\u00f6nmez",
+                            "given": "Tayfun",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1006/JETH.1997.2316",
+                    "title": "manipulation via capacities in two sided matching markets",
+                    "year_oc": 1997
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kara",
+                            "given": "Tarak",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "S\u00f6nmez",
+                            "given": "Tayfun",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/BF01213799",
+                    "title": "implementation of college admission rules",
+                    "year_oc": 1997
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Sotomayor",
+                            "given": "Marilda",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/S001820300156",
+                    "title": "reaching the core of the marriage market through a non revelation matching mechanism",
+                    "year_oc": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Sotomayor",
+                            "given": "Marilda",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/S00182-008-0115-8",
+                    "title": "the stability of the equilibrium outcomes in the admission games induced by stable matching rules",
+                    "year_oc": 2008
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kesten",
+                            "given": "Onur",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/S00199-011-0618-6",
+                    "title": "on two kinds of manipulation for school choice problems",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Konishi",
+                            "given": "Hideo",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "\u00dcnver",
+                            "given": "M. Utku",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S00355-006-0097-Z",
+                    "title": "games of capacity manipulation in hospital intern markets",
+                    "year_oc": 2006
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Mumcu",
+                            "given": "Ay\u015fe",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Saglam",
+                            "given": "Ismail",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S00355-008-0364-2",
+                    "title": "games of capacity allocation in many to one matching with an aftermarket",
+                    "year_oc": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Gale",
+                            "given": "David",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Sotomayor",
+                            "given": "Marilda",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/0166-218X(85)90074-5",
+                    "title": "some remarks on the stable matching problem",
+                    "year_oc": 1985
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Ehlers",
+                            "given": "Lars",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/J.GEB.2009.12.006",
+                    "title": "manipulation via capacities revisited",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Roth",
+                            "given": "Alvin E.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Sotomayor",
+                            "given": "Marilda A. Oliveira",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/CCOL052139015X",
+                    "title": "two sided matching",
+                    "year_oc": 1990
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Roth",
+                            "given": "Alvin E.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1111/1468-0262.00335",
+                    "title": "the economist as engineer game theory experimentation and computation as tools for design economics",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Ergin",
+                            "given": "Haluk I.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1111/1468-0262.00383",
+                    "title": "efficient resource allocation on the basis of priorities",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Department of Economics, Columbia University, New York, NY 10027."
+                                }
+                            ],
+                            "family": "Abdulkadiro\u011flu",
+                            "given": "Atila",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Harvard Business School and Department of Economics, Harvard University, Cambridge, MA 02138."
+                                }
+                            ],
+                            "family": "Pathak",
+                            "given": "Parag A",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Harvard Business School and Department of Economics, Harvard University, Cambridge, MA 02138."
+                                }
+                            ],
+                            "family": "Roth",
+                            "given": "Alvin E",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1257/000282805774670167",
+                    "title": "the new york city high school match",
+                    "year_oc": 2005
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Department of Economics, and Graduate School of Business Administration, Harvard University, Cambridge, MA 02138."
+                                }
+                            ],
+                            "family": "Roth",
+                            "given": "Alvin E",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "National Matching Services, Inc., 595 Bay Street, Suite 301, Box 29, Toronto, ON M5G 2C2, Canada."
+                                }
+                            ],
+                            "family": "Peranson",
+                            "given": "Elliott",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1257/AER.89.4.748",
+                    "title": "the redesign of the matching market for american physicians some engineering aspects of economic design",
+                    "year_oc": 1999
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Cowles Foundation, Yale University, New Haven, CT 06510."
+                                }
+                            ],
+                            "family": "Kojima",
+                            "given": "Fuhito",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Society of Fellows, Harvard University, Cambridge, MA 02138, and Department of Economics, Massachusetts Institute of Technology, Cambridge, MA 02142."
+                                }
+                            ],
+                            "family": "Pathak",
+                            "given": "Parag A",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1257/AER.99.3.608",
+                    "title": "incentives and stability in large two sided matching markets",
+                    "year_oc": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Romero-Medina",
+                            "given": "Antonio",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Triossi",
+                            "given": "Matteo",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1675222",
+                    "title": "non revelation mechanisms in many to one markets",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Romero-Medina",
+                            "given": "Antonio",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Triossi",
+                            "given": "Matteo",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1912877",
+                    "title": "acyclicity and singleton cores in matching markets",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kojima",
+                            "given": "Fuhito",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.2202/1935-1704.1405",
+                    "title": "when can manipulations be avoided in two sided matching markets maximal domain results",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Gale",
+                            "given": "D.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Shapley",
+                            "given": "L. S.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/2312726",
+                    "title": "college admissions and the stability of marriage",
+                    "year_oc": 1962
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dubins",
+                            "given": "L. E.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Freedman",
+                            "given": "D. A.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/2321753",
+                    "title": "machiavelli and the gale shapley algorithm",
+                    "year_oc": 1981
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Gale",
+                            "given": "David",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Sotomayor",
+                            "given": "Marilda",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/2323645",
+                    "title": "ms machiavelli and the stable matching problem",
+                    "year_oc": 1985
+                }
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Ramani",
+                            "given": "Vinay",
+                            "sequence": "first"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-3894-7799",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Rao",
+                            "given": "K. S. Mallikarjuna",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S00182-017-0603-9",
+                    "title": "paths to stability and uniqueness in two sided matching markets",
+                    "year_oc": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-5283-6024",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "B\u00f3",
+                            "given": "In\u00e1cio",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Heller",
+                            "given": "C.-Philipp",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S00355-016-1024-6",
+                    "title": "strategic schools under the boston mechanism revisited",
+                    "year_oc": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Direcci\u00f3n General de Investigaci\u00f3n Econ\u00f3mica, Banco de M\u00e9xico, Ciudad de M\u00e9xico, M\u00e9xico"
+                                }
+                            ],
+                            "family": "Tello",
+                            "given": "Benjam\u00edn",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/BEJTE-2016-0131",
+                    "title": "stability of equilibrium outcomes under deferred acceptance acyclicity and dropping strategies",
+                    "year_oc": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-4076-350X",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Romero-Medina",
+                            "given": "Antonio",
+                            "sequence": "first"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-6356-7560",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Triossi",
+                            "given": "Matteo",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S00182-020-00741-1",
+                    "title": "two sided strategy proofness in many to many matching markets",
+                    "year_oc": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1007/S00355-012-0703-1",
+            "journal": "SOCIAL CHOICE AND WELFARE",
+            "title": "games with capacity manipulation incentives and nash equilibria",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1432-217X"
+            ],
+            "cited": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Tian",
+                            "given": "Guoqiang",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Li",
+                            "given": "Qi",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1006/GAME.1995.1017",
+                    "title": "on nash implementation in the presence of withholding",
+                    "year_oc": 1995
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hong",
+                            "given": "Lu",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1006/JETH.1998.2394",
+                    "title": "feasible bayesian implementation with state dependent feasible sets",
+                    "year_oc": 1998
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Jackson",
+                            "given": "Matthew O.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Palfrey",
+                            "given": "Thomas R.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1006/JETH.2000.2752",
+                    "title": "voluntary implementation",
+                    "year_oc": 2001
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hurwicz",
+                            "given": "Leonid",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Maskin",
+                            "given": "Eric",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Postlewaite",
+                            "given": "Andrew",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4615-2261-4_14",
+                    "title": "feasible nash implementation of social choice rules when the designer does not know endowments or production sets",
+                    "year_oc": 1995
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hong",
+                            "given": "Lu",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/BF00182853",
+                    "title": "bayesian implementation in exchange economies with state dependent feasible sets and private information",
+                    "year_oc": 1996
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Repullo",
+                            "given": "R.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/BF00433954",
+                    "title": "a simple proof of maskin s theorem on nash implementation",
+                    "year_oc": 1987
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hong",
+                            "given": "Lu",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/BF01212326",
+                    "title": "nash implementation in production economies",
+                    "year_oc": 1995
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Serrano",
+                            "given": "Roberto",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Vohra",
+                            "given": "Rajiv",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S003550050084",
+                    "title": "non cooperative implementation of the core",
+                    "year_oc": 1997
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Jackson",
+                            "given": "Matthew O.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/S003550100152",
+                    "title": "a crash course in implementation theory",
+                    "year_oc": 2001
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Atlamaz",
+                            "given": "Murat",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Klaus",
+                            "given": "Bettina",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S00355-006-0159-2",
+                    "title": "manipulation via endowments in exchange markets with indivisible goods",
+                    "year_oc": 2006
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dagan",
+                            "given": "Nir",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Serrano",
+                            "given": "Roberto",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Volij",
+                            "given": "Oscar",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/S100580050026",
+                    "title": "feasible implementation of taxation methods",
+                    "year_oc": 1999
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Silvestre",
+                            "given": "Joaquim",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/0022-0531(82)90047-3",
+                    "title": "fixprice analysis in exchange economies",
+                    "year_oc": 1982
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Tian",
+                            "given": "Guoqiang",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/0304-4068(93)90046-N",
+                    "title": "implementing lindahl allocations by a withholding mechanism",
+                    "year_oc": 1993
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Amor\u00f3s",
+                            "given": "Pablo",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/J.GEB.2004.03.001",
+                    "title": "nash implementation and uncertain renegotiation",
+                    "year_oc": 2004
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Serrano",
+                            "given": "Roberto",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/S0165-1765(97)00064-5",
+                    "title": "a comment on the nash program and the theory of implementation",
+                    "year_oc": 1997
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dagan",
+                            "given": "Nir",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Serrano",
+                            "given": "Roberto",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/S0165-1765(97)00262-0",
+                    "title": "invariance and randomness in the nash program for coalitional games",
+                    "year_oc": 1998
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Naeve",
+                            "given": "J\u00f6rg",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/S0165-1765(98)00185-2",
+                    "title": "nash implementation of the nash bargaining solution using intuitive message spaces",
+                    "year_oc": 1999
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Maskin",
+                            "given": "Eric",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1111/1467-937X.00076",
+                    "title": "nash equilibrium and welfare optimality",
+                    "year_oc": 1999
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Maskin",
+                            "given": "Eric",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Moore",
+                            "given": "John",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/1467-937X.00077",
+                    "title": "implementation and renegotiation",
+                    "year_oc": 1999
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Grandmont",
+                            "given": "Jean-Michel",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Laroque",
+                            "given": "Guy",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/2296600",
+                    "title": "on temporary keynesian equilibria",
+                    "year_oc": 1976
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Younes",
+                            "given": "Y.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.2307/2296790",
+                    "title": "on the role of money in the process of exchange and the existence of a non walrasian equilibrium",
+                    "year_oc": 1975
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Benassy",
+                            "given": "Jean-Pascal",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.2307/2296791",
+                    "title": "neo keynesian disequilibrium theory in a monetary economy",
+                    "year_oc": 1975
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Postlewaite",
+                            "given": "Andrew",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.2307/2297049",
+                    "title": "manipulation via endowments",
+                    "year_oc": 1979
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Dreze",
+                            "given": "Jacques H.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.2307/2525813",
+                    "title": "existence of an exchange equilibrium under price rigidities",
+                    "year_oc": 1975
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Moore",
+                            "given": "John",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Repullo",
+                            "given": "Rafael",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/2938301",
+                    "title": "nash implementation a full characterization",
+                    "year_oc": 1990
+                }
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Corch\u00f3n",
+                            "given": "Luis C.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-27737-5_283-2",
+                    "title": "implementation theory",
+                    "year_oc": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Corch\u00f3n",
+                            "given": "Luis C.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-0716-0368-0_283",
+                    "title": "implementation theory",
+                    "year_oc": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1007/S00355-010-0470-9",
+            "journal": "SOCIAL CHOICE AND WELFARE",
+            "title": "implementation with renegotiation when preferences and feasible sets are state dependent",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "0899-8256"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.1016/J.GEB.2008.04.019",
+            "journal": "GAMES AND ECONOMIC BEHAVIOR",
+            "title": "hiring mechanisms application costs and stability",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "cv_id": {
+                "pubbs": "8"
+            },
+            "type": "articolo in rivista",
+            "year": 2001
+        }
+    ],
+    "pubbs_mag": []
+}

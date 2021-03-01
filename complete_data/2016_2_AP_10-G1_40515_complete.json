@@ -1,0 +1,180 @@
+{
+    "AuIds": [
+        2693369855,
+        2891271352,
+        3027348098
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 3,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 531,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 0,
+            "comm_other": 4190,
+            "other_cand": 0,
+            "other_comm": 4965
+        },
+        "other_nodes": 6258
+    },
+    "coverage": {
+        "articles": 4,
+        "books": 1,
+        "cov_sect": "C",
+        "other_pubbs": 5,
+        "pubbs": 10,
+        "pubbs_found": 3,
+        "pubbs_ind": 5,
+        "pubbs_ind_found": 2,
+        "total_extra_found": 3,
+        "total_found": 3,
+        "total_pubbs": 10
+    },
+    "fullname": [
+        "Salvato",
+        "Giuliana"
+    ],
+    "ind_anvur": [
+        2,
+        0,
+        1,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "2239-1916"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "journal": "CULTURA & COMUNICAZIONE",
+            "title": "l insegnamento interculturale attraverso il gesto una prospettiva dal canada multilingue",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "1-4438-7182-6"
+            ],
+            "PId": 3027467403,
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "title": "cross linguistic influences in canadian learners interpretations of italian emblematic gestures",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9781443880121"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "title": "looking beyond words gestures in the pedagogy of second languages in multilingual canada",
+            "type": "monografia o trattato scientifico",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "2239-1916"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "4"
+            },
+            "journal": "CULTURA & COMUNICAZIONE",
+            "title": "osservazioni sul rapporto tra lingua verbale e gestualita nella comunicazione orale",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "0021-3020"
+            ],
+            "PId": 2889832458,
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "5"
+            },
+            "journal": "ITALICA",
+            "title": "the representation of gestures in italian textbooks and workbooks",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "978-1-84872-924-7"
+            ],
+            "cv_id": {
+                "pubbs": "4"
+            },
+            "title": "the interpretation of emblematic gestures in l2 users of italian",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9781897493267"
+            ],
+            "cv_id": {
+                "pubbs": "5"
+            },
+            "title": "the concept of interlanguage in the evaluation of compositions written by learners of italian at the university of toronto",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "88-7115-663-3"
+            ],
+            "cv_id": {
+                "pubbs": "6"
+            },
+            "title": "la gestualita italiana nelle classi di italiano l2 in canada",
+            "type": "contributo in atti di convegno",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "1897493126"
+            ],
+            "cv_id": {
+                "pubbs": "7"
+            },
+            "title": "the interpretation of gestures in cross cultural communication the case of italian symbolic gestures in second language education",
+            "type": "contributo in atti di convegno",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "0033-9725"
+            ],
+            "PId": 151211130,
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "journal": "RASSEGNA ITALIANA DI LINGUISTICA APPLICATA",
+            "title": "communication strategies and the study of italian as second language",
+            "type": "articolo in rivista",
+            "year": 2005
+        }
+    ],
+    "pubbs_mag": []
+}

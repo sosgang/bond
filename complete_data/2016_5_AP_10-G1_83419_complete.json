@@ -1,0 +1,2704 @@
+{
+    "AuIds": [
+        2119198410,
+        2761415697
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "2032646750_+_1500893608": 1,
+                "2032646750_+_1568671414": 1,
+                "2032646750_+_2114761814": 1,
+                "2032646750_+_2278470518": 1,
+                "2032646750_+_2282495743": 1,
+                "2403671688_+_1573871425": 1,
+                "2403671688_+_2068704623": 1,
+                "2403671688_+_2118628890": 1
+            },
+            "number": 3
+        },
+        "cand_nodes": 47,
+        "cand_paths": {
+            "2": [
+                [
+                    "2403671688",
+                    "1504338441"
+                ],
+                [
+                    "2403671688",
+                    "1017297593"
+                ]
+            ]
+        },
+        "cc": {
+            "articles": {
+                "2769387462_+_2793066989": 1,
+                "2890235103_+_2793066989": 1,
+                "2907808648_+_2793066989": 1
+            },
+            "number": 1
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 85,
+            "comm_other": 4682,
+            "other_cand": 27,
+            "other_comm": 4973
+        },
+        "other_nodes": 6609
+    },
+    "coverage": {
+        "articles": 5,
+        "books": 1,
+        "cov_sect": "A",
+        "other_pubbs": 30,
+        "pubbs": 10,
+        "pubbs_found": 8,
+        "pubbs_ind": 34,
+        "pubbs_ind_found": 25,
+        "total_extra_found": 47,
+        "total_found": 27,
+        "total_pubbs": 36
+    },
+    "fullname": [
+        "Pellegrino",
+        "Elisa"
+    ],
+    "ind_anvur": [
+        30,
+        2,
+        1,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "978-88-6897-108-3"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "title": "analisi ritmica di un corpus di parlato telegiornalistico plurilingue",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2018
+        },
+        {
+            "ISBN": [
+                "978-88-255-1358-5"
+            ],
+            "PId": 2943038071,
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "title": "l acquisizione delle lingue nella prospettiva generativista un introduzione",
+            "type": "monografia o trattato scientifico",
+            "year": 2018
+        },
+        {
+            "ISBN": [
+                "978-1-4438-9987-1"
+            ],
+            "PId": 2786487502,
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "3"
+            },
+            "title": "investigations into interlinguistic transfer the role of reading assessment techniques",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-255-0171-1"
+            ],
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "doi": "0.4399/978882550171117",
+            "title": "la competenza prosodica nell italiano parlato di sordi nativi e stranieri",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-1-4438-9987-1"
+            ],
+            "PId": 2913760519,
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "title": "learning italian as foreign language a look at online course italian language culture",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-904330-8-5"
+            ],
+            "PId": 2894957840,
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "6"
+            },
+            "title": "saper leggere ad alta voce un confronto fra tre generazioni di immigrati campani nella svizzera tedesca",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-98108-11-4"
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "doi": "10.5167/uzh-143023",
+            "title": "le componenti della comunicazione nella decodifica delle informazioni in italiano l1 e l2 uno studio comparativo su parlanti italiani e cinesi ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-1-4438-9987-1"
+            ],
+            "PId": 2903129446,
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "title": "putting theory into practice a framework for a clil course in linguistics in a blended learning environment",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-3-95908-094-1"
+            ],
+            "PId": 2808865484,
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "9"
+            },
+            "doi": "10.5167/UZH-136466",
+            "title": "computation of l2 speech rhythm based on duration and fundamental frequency",
+            "type": "contributo in atti di convegno",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-6719-110-9"
+            ],
+            "PId": 2792247707,
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "doi": "10.5167/UZH-126948",
+            "title": "io sorda in italia",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-6719-111-6"
+            ],
+            "PId": 2907808648,
+            "citing": [
+                {
+                    "PId": 2892087104,
+                    "author": [
+                        {
+                            "AuId": 2343656848,
+                            "AuN": "paolo balboni"
+                        }
+                    ],
+                    "doi": "10.30687/ELLE/2280-6792/2018/01/008",
+                    "title": "beli bibliografia dell educazione linguistica in italia 2017 update",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "11"
+            },
+            "doi": "10.5167/UZH-127829",
+            "title": "le emozioni nel parlato doppiato uno studio cross linguistico",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "1-4438-9770-1"
+            ],
+            "PId": 2917591320,
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "doi": "10.5167/UZH-126959",
+            "title": "expressing and labelling emotions in a second language acoustic and perceptual analyses of emotional speech in l1 l2 italian",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-9765-715-6"
+            ],
+            "PId": 2938748392,
+            "cv_id": {
+                "pubbs_ind": "13"
+            },
+            "doi": "10.5167/UZH-136467",
+            "title": "l interazione verbale tra sordi e udenti analisi di alcuni meccanismi conversazionali",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-6719-111-6"
+            ],
+            "PId": 2769387462,
+            "citing": [
+                {
+                    "PId": 2892087104,
+                    "author": [
+                        {
+                            "AuId": 2343656848,
+                            "AuN": "paolo balboni"
+                        }
+                    ],
+                    "doi": "10.30687/ELLE/2280-6792/2018/01/008",
+                    "title": "beli bibliografia dell educazione linguistica in italia 2017 update",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "14"
+            },
+            "doi": "10.5167/UZH-127934",
+            "title": "quattro ventisette le componenti della comunicazione parlata un indagine sull italiano",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-97657-16-3"
+            ],
+            "cv_id": {
+                "pubbs_ind": "15"
+            },
+            "doi": "10.17469/O2102AISV000006",
+            "title": "l apprendimento della prosodia dell italiano in contesto ls uno studio su apprendenti giapponesi",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-6719-111-6"
+            ],
+            "cv_id": {
+                "pubbs_ind": "16"
+            },
+            "title": " v and vtov an acoustic perceptual approach to the rhythmic classification of languages",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-97657-13-2"
+            ],
+            "PId": 2896191113,
+            "cv_id": {
+                "pubbs_ind": "17"
+            },
+            "doi": "10.5167/UZH-126955",
+            "title": "tecnologia della voce e miglioramento della pronuncia in una l2 imitazione e autoimitazione a confronto uno studio su cinesi apprendenti di italiano l2",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-6897-045-1"
+            ],
+            "PId": 2897958494,
+            "cv_id": {
+                "pubbs_ind": "18"
+            },
+            "doi": "10.5167/UZH-133824",
+            "title": "diamo i numeri uno studio sulle componenti della comunicazione parlata in italiano",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0390-6809"
+            ],
+            "PId": 2763465681,
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "19"
+            },
+            "journal": "STUDI ITALIANI DI LINGUISTICA TEORICA E APPLICATA",
+            "title": "l acquisizione della morfologia verbale nell italiano di sordi profondi italiani e stranieri",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-204-5703-7"
+            ],
+            "cv_id": {
+                "pubbs_ind": "20"
+            },
+            "title": "misurare la competenza prosodica le richieste in italiano e in inglese lingue straniere",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-97657-11-8"
+            ],
+            "PId": 3032580402,
+            "cv_id": {
+                "pubbs_ind": "21"
+            },
+            "doi": "10.17469/O2101AISV000017",
+            "title": "discriminating between pathological and foreign accented speech an acoustic perceptual study on italian",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788897657088"
+            ],
+            "PId": 3042319705,
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "22"
+            },
+            "title": "chi compie l azione l applicazione del competition model su sordi italiani",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-6274-602-1"
+            ],
+            "PId": 2981769519,
+            "citing": [
+                {
+                    "PId": 2779183016,
+                    "author": [
+                        {
+                            "AuId": 2197713784,
+                            "AuN": "maria elisa fina"
+                        }
+                    ],
+                    "doi": "10.1285/I22390359V23P57",
+                    "journal": "lingue e linguaggi",
+                    "title": "prosody in tourist oral communication pausing in city audio guides",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "23"
+            },
+            "title": "voce e apprendimento multimediale",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "1-4438-8054-X"
+            ],
+            "cv_id": {
+                "pubbs_ind": "24"
+            },
+            "title": "from syllables to vtov some remarks on the rhythmic classification of languages",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "1-4438-8054-X"
+            ],
+            "PId": 3029849523,
+            "cv_id": {
+                "pubbs_ind": "25"
+            },
+            "title": "overlooking syllable a study on interlanguage rhythm",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-7870-981-2"
+            ],
+            "cv_id": {
+                "pubbs_ind": "26"
+            },
+            "title": "non voglio parlare in napoletano per questo vado a \u0283kwo la l influenza del dialetto napoletano sui tratti segmentali dell italiano l2 di immigrati",
+            "type": "contributo in atti di convegno",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788897657064"
+            ],
+            "cv_id": {
+                "pubbs_ind": "27"
+            },
+            "title": "la competenza prosodica nella classe di lingue l italiano in contesto l2 ls ed e learning",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1877-0428"
+            ],
+            "PId": 2032646750,
+            "cited": [
+                {
+                    "PId": 653288160,
+                    "author": [
+                        {
+                            "AuId": 2150587807,
+                            "AuN": "rod ellis"
+                        }
+                    ],
+                    "title": "task based language learning and teaching",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2135943618,
+                    "author": [
+                        {
+                            "AuId": 2252277259,
+                            "AuN": "l s vygotsky"
+                        }
+                    ],
+                    "title": "mind in society the development of higher psychological processes",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 2032071689,
+                    "author": [
+                        {
+                            "AuId": 2143956958,
+                            "AuN": "rebecca l oxford"
+                        }
+                    ],
+                    "title": "language learning strategies what every teacher should know",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 169689460,
+                    "author": [
+                        {
+                            "AuId": 2132238517,
+                            "AuN": "jim cummins"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-02321-2_6-1",
+                    "title": "bics and calp empirical and theoretical status of the distinction",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1573354002,
+                    "author": [
+                        {
+                            "AuId": 262590991,
+                            "AuN": "mark warschauer"
+                        },
+                        {
+                            "AuId": 2506967696,
+                            "AuN": "richard kern"
+                        }
+                    ],
+                    "title": "network based language teaching concepts and practice",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1530916542,
+                    "author": [
+                        {
+                            "AuId": 2712970275,
+                            "AuN": "pauline gibbons"
+                        }
+                    ],
+                    "title": "scaffolding language scaffolding learning teaching second language learners in the mainstream classroom",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1482201763,
+                    "author": [
+                        {
+                            "AuId": 2121305762,
+                            "AuN": "catherine mcloughlin"
+                        },
+                        {
+                            "AuId": 2146978689,
+                            "AuN": "mark j w lee"
+                        }
+                    ],
+                    "journal": "the international journal of teaching and learning in higher education",
+                    "title": "the three p s of pedagogy for the networked society personalization participation and productivity",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2966575314,
+                    "author": [
+                        {
+                            "AuId": 2109524280,
+                            "AuN": "jane howland"
+                        },
+                        {
+                            "AuId": 2130577380,
+                            "AuN": "rose m marra"
+                        },
+                        {
+                            "AuId": 276977036,
+                            "AuN": "david h jonassen"
+                        }
+                    ],
+                    "title": "meaningful learning with technology",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1970209023,
+                    "author": [
+                        {
+                            "AuId": 2200567770,
+                            "AuN": "david wood"
+                        },
+                        {
+                            "AuId": 2160109847,
+                            "AuN": "jerome s bruner"
+                        },
+                        {
+                            "AuId": 2148332647,
+                            "AuN": "gail ross"
+                        }
+                    ],
+                    "doi": "10.1111/J.1469-7610.1976.TB00381.X",
+                    "journal": "journal of child psychology and psychiatry",
+                    "title": "the role of tutoring in problem solving",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 430519370,
+                    "author": [
+                        {
+                            "AuId": 2241723939,
+                            "AuN": "cynthia white"
+                        }
+                    ],
+                    "title": "language learning in distance education",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1966382731,
+                    "author": [
+                        {
+                            "AuId": 2321647715,
+                            "AuN": "anita l wenden"
+                        },
+                        {
+                            "AuId": 2776421033,
+                            "AuN": "joan rubin"
+                        }
+                    ],
+                    "doi": "10.2307/328531",
+                    "journal": "the modern language journal",
+                    "title": "learner strategies in language learning",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2921432275,
+                    "author": [
+                        {
+                            "AuId": 2143956958,
+                            "AuN": "rebecca l oxford"
+                        }
+                    ],
+                    "title": "language learning strategies",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2330569615,
+                    "author": [
+                        {
+                            "AuId": 2999634709,
+                            "AuN": "maryann reiss"
+                        },
+                        {
+                            "AuId": 1830028221,
+                            "AuN": "david nunan"
+                        }
+                    ],
+                    "title": "the learner centred curriculum",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2060968680,
+                    "author": [
+                        {
+                            "AuId": 1830028221,
+                            "AuN": "david nunan"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139524506",
+                    "journal": "hispania",
+                    "title": "the learner centred curriculum a study in second language teaching",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 586879786,
+                    "author": [
+                        {
+                            "AuId": 262590991,
+                            "AuN": "mark warschauer"
+                        },
+                        {
+                            "AuId": 2506967696,
+                            "AuN": "richard kern"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139524735",
+                    "title": "network based language teaching name index",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 988807011,
+                    "author": [
+                        {
+                            "AuId": 262590991,
+                            "AuN": "mark warschauer"
+                        },
+                        {
+                            "AuId": 2506967696,
+                            "AuN": "richard kern"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139524735",
+                    "title": "network based language teaching frontmatter",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2259976812,
+                    "author": [
+                        {
+                            "AuId": 2568766691,
+                            "AuN": "carmel mary coonan"
+                        }
+                    ],
+                    "title": "clil e l apprendimento delle lingue le sfide del nuovo ambiente di apprendimento venezia settembre 2008",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2798474047,
+                    "author": [
+                        {
+                            "AuId": 2798592459,
+                            "AuN": "nellie f ryan"
+                        }
+                    ],
+                    "title": "what every teacher should know",
+                    "year_mag": 1961
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2914615207,
+                    "author": [
+                        {
+                            "AuId": 2913014060,
+                            "AuN": "nikolai vyacheslavovich malinin"
+                        }
+                    ],
+                    "doi": "10.30853/FILNAUKI.2019.2.56",
+                    "title": "massive open online courses use in foreign language teaching at non linguistic departments of higher education establishments",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2636887280,
+                    "author": [
+                        {
+                            "AuId": 1824118829,
+                            "AuN": "inge de waard"
+                        },
+                        {
+                            "AuId": 2711107560,
+                            "AuN": "kathy demeulenaere"
+                        }
+                    ],
+                    "title": "the mooc clil project using moocs to increase language and social and online learning skills for 5th grade k 12 students",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2794005104,
+                    "author": [
+                        {
+                            "AuId": 233781317,
+                            "AuN": "ulla freihofner"
+                        },
+                        {
+                            "AuId": 2278811648,
+                            "AuN": "chris campbell"
+                        },
+                        {
+                            "AuId": 1205663051,
+                            "AuN": "simone smala"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-73417-0_8",
+                    "title": "digital tool use and self regulated strategies in a bilingual online learning environment",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2898230644,
+                    "author": [
+                        {
+                            "AuId": 233781317,
+                            "AuN": "ulla freihofner"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-99858-9_15",
+                    "title": "self efficacy beliefs influencing year 9 students actions in a bilingual learning management system",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "28"
+            },
+            "doi": "10.1016/J.SBSPRO.2013.12.171",
+            "journal": "PROCEDIA: SOCIAL & BEHAVIORAL SCIENCES",
+            "title": "integrating learning technologies and autonomy a clil course in linguistics",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9788867190553"
+            ],
+            "PId": 3043439335,
+            "cv_id": {
+                "pubbs_ind": "29"
+            },
+            "title": "la classe dei sordi dalla fase di pubblicizzazione alla didattica in aula",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9789090278766"
+            ],
+            "cv_id": {
+                "pubbs_ind": "30"
+            },
+            "title": "vtov a perceptual cue for rhythm identification",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9783642415449"
+            ],
+            "PId": 2288769822,
+            "cited": [
+                {
+                    "PId": 647940811,
+                    "author": [
+                        {
+                            "AuId": 2498170249,
+                            "AuN": "jamila boulima"
+                        }
+                    ],
+                    "title": "negotiated interaction in target language classroom discourse",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 3117876460,
+                    "author": [
+                        {
+                            "AuId": 3116208623,
+                            "AuN": "antonella giannini"
+                        }
+                    ],
+                    "title": "range di variabilita della velocita di articolazione in italiano",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 155557658,
+                    "author": [
+                        {
+                            "AuId": 518032697,
+                            "AuN": "francesca romana puggelli"
+                        }
+                    ],
+                    "title": "la pubblicita non commerciale e le norme sociali",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 629514909,
+                    "author": [
+                        {
+                            "AuId": 2304381483,
+                            "AuN": "laura solito"
+                        },
+                        {
+                            "AuId": 2311671493,
+                            "AuN": "giovanni bechelloni"
+                        }
+                    ],
+                    "title": "luoghi comuni comunicare il servizio sociale",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2590100146,
+                    "author": [
+                        {
+                            "AuId": 2795862191,
+                            "AuN": "marisa rosalba pavone"
+                        },
+                        {
+                            "AuId": 2591452029,
+                            "AuN": "tortello mario"
+                        }
+                    ],
+                    "title": "il quadro normativo",
+                    "year_mag": 1995
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2809197316,
+                    "author": [
+                        {
+                            "AuId": 1920945517,
+                            "AuN": "andrzej zuczkowski"
+                        },
+                        {
+                            "AuId": 264035166,
+                            "AuN": "ramona bongelli"
+                        },
+                        {
+                            "AuId": 1721778415,
+                            "AuN": "ilaria riccioni"
+                        },
+                        {
+                            "AuId": 302446541,
+                            "AuN": "carla canestrari"
+                        }
+                    ],
+                    "title": "proceedings of the international conference the communication of certainty and uncertainty linguistic psychological philosophical aspects",
+                    "year_mag": 2014
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "31"
+            },
+            "title": "racism and immigration in social advertising promoted by italian government and non governmental institution",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1720-9331"
+            ],
+            "PId": 2284284981,
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "32"
+            },
+            "doi": "10.1418/34538",
+            "journal": "X",
+            "title": "investigations on the referential status of biolinguistics a comparative overview of publications and lexicography lingue e linguaggio vol",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "2038-8675"
+            ],
+            "cv_id": {
+                "pubbs_ind": "33"
+            },
+            "journal": "LINGUISTICA ZERO",
+            "title": "ricognizioni sull orizzonte designativo di biolinguistica lessicografia e pubblicazioni a confronto",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "2038-8675"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "34"
+            },
+            "journal": "LINGUISTICA ZERO",
+            "title": "quando acquisire non significa ampliare le conoscenze bensi selezionarle ",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "1443842478"
+            ],
+            "PId": 3049564969,
+            "cv_id": {
+                "pubbs": "7"
+            },
+            "title": " and nevertheless they do speak italian prosodic explorations in the speech of deaf immigrants",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788878707740"
+            ],
+            "PId": 2944845480,
+            "cv_id": {
+                "pubbs": "8"
+            },
+            "title": " quando parlo italiano capiscono subito che sono straniero parametri soprasegmentali e tempi di reazione ai diversi gradi di accento straniero",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2889133459,
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-8494-6025",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Dellwo",
+                            "given": "Volker",
+                            "sequence": "first"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0001-5332-8411",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "Pellegrino",
+                            "given": "Elisa",
+                            "sequence": "additional"
+                        },
+                        {
+                            "ORCID": "http://orcid.org/0000-0002-9552-9075",
+                            "affiliation": [],
+                            "authenticated-orcid": false,
+                            "family": "He",
+                            "given": "Lei",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Kathiresan",
+                            "given": "Thayabaran",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.14712/24646830.2019.18",
+                    "title": "the dynamics of indexical information in speech can recognizability be controlled by the speaker ",
+                    "year_oc": 2019
+                }
+            ],
+            "doi": "10.21437/INTERSPEECH.2018-2331",
+            "title": "influences of fundamental oscillation on speaker identification in vocalic utterances by humans and computers",
+            "type": "3",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2808472008,
+            "citing": [
+                {
+                    "PId": 2956114539,
+                    "author": [
+                        {
+                            "AuId": 2119198410,
+                            "AuN": "elisa pellegrino"
+                        }
+                    ],
+                    "doi": "10.3989/LOQUENS.2019.060",
+                    "title": "the effect of healthy aging on within speaker rhythmic variability a case study on noam chomsky",
+                    "year_mag": 2019
+                }
+            ],
+            "doi": "10.21437/SPEECHPROSODY.2018-27",
+            "title": "the effect of ageing on speech rhythm a study on zurich german",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2516001641,
+            "cited": [
+                {
+                    "PId": 1875231349,
+                    "author": [
+                        {
+                            "AuId": 1873977713,
+                            "AuN": "paul boersma"
+                        }
+                    ],
+                    "title": "praat a system for doing phonetics by computer",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2022357919,
+                    "author": [
+                        {
+                            "AuId": 2080190213,
+                            "AuN": "sabine skodda"
+                        },
+                        {
+                            "AuId": 2162957864,
+                            "AuN": "w visser"
+                        },
+                        {
+                            "AuId": 2116146675,
+                            "AuN": "uwe schlegel"
+                        }
+                    ],
+                    "doi": "10.1016/J.JVOICE.2010.01.009",
+                    "journal": "journal of voice",
+                    "title": "vowel articulation in parkinson s disease",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2081318766,
+                    "author": [
+                        {
+                            "AuId": 2144737594,
+                            "AuN": "julie m liss"
+                        },
+                        {
+                            "AuId": 2157876054,
+                            "AuN": "laurence white"
+                        },
+                        {
+                            "AuId": 298054378,
+                            "AuN": "sven l mattys"
+                        },
+                        {
+                            "AuId": 1516911664,
+                            "AuN": "kaitlin l lansford"
+                        },
+                        {
+                            "AuId": 1143055102,
+                            "AuN": "andrew j lotto"
+                        },
+                        {
+                            "AuId": 2135221422,
+                            "AuN": "stephanie m spitzer"
+                        },
+                        {
+                            "AuId": 2067383307,
+                            "AuN": "john n caviness"
+                        }
+                    ],
+                    "doi": "10.1044/1092-4388(2009/08-0208)",
+                    "journal": "journal of speech language and hearing research",
+                    "title": "quantifying speech rhythm abnormalities in the dysarthrias",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1553889450,
+                    "author": [
+                        {
+                            "AuId": 3067368972,
+                            "AuN": "i donaldson"
+                        },
+                        {
+                            "AuId": 2105849969,
+                            "AuN": "c d marsden"
+                        },
+                        {
+                            "AuId": 2225762345,
+                            "AuN": "susanne a schneider"
+                        },
+                        {
+                            "AuId": 2099314787,
+                            "AuN": "kailash p bhatia"
+                        }
+                    ],
+                    "title": "marsden s book of movement disorders",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2056500762,
+                    "author": [
+                        {
+                            "AuId": 2144737594,
+                            "AuN": "julie m liss"
+                        },
+                        {
+                            "AuId": 2487901184,
+                            "AuN": "sue legendre"
+                        },
+                        {
+                            "AuId": 1143055102,
+                            "AuN": "andrew j lotto"
+                        }
+                    ],
+                    "doi": "10.1044/1092-4388(2010/09-0121)",
+                    "journal": "journal of speech language and hearing research",
+                    "title": "discriminating dysarthria type from envelope modulation spectra",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 606767380,
+                    "author": [
+                        {
+                            "AuId": 1933271175,
+                            "AuN": "frederic l darley"
+                        },
+                        {
+                            "AuId": 2127379310,
+                            "AuN": "arnold e aronson"
+                        },
+                        {
+                            "AuId": 2328049686,
+                            "AuN": "joe r brown"
+                        }
+                    ],
+                    "title": "motor speech disorders",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 1979721417,
+                    "author": [
+                        {
+                            "AuId": 2080190213,
+                            "AuN": "sabine skodda"
+                        },
+                        {
+                            "AuId": 2022046618,
+                            "AuN": "wenke gronheit"
+                        },
+                        {
+                            "AuId": 2116146675,
+                            "AuN": "uwe schlegel"
+                        }
+                    ],
+                    "doi": "10.1016/J.JVOICE.2010.04.007",
+                    "journal": "journal of voice",
+                    "title": "intonation and speech rate in parkinson s disease general and dynamic aspects and responsiveness to levodopa admission",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2402406334,
+                    "author": [
+                        {
+                            "AuId": 2194271010,
+                            "AuN": "juan rafael orozcoarroyave"
+                        },
+                        {
+                            "AuId": 1999043565,
+                            "AuN": "florian honig"
+                        },
+                        {
+                            "AuId": 2237686268,
+                            "AuN": "julian d ariaslondono"
+                        },
+                        {
+                            "AuId": 399372873,
+                            "AuN": "jesus francisco vargasbonilla"
+                        },
+                        {
+                            "AuId": 2080190213,
+                            "AuN": "sabine skodda"
+                        },
+                        {
+                            "AuId": 3020680528,
+                            "AuN": "jan rusz"
+                        },
+                        {
+                            "AuId": 2019675586,
+                            "AuN": "elmar noth"
+                        }
+                    ],
+                    "title": "automatic detection of parkinson s disease from words uttered in three different languages",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1978820543,
+                    "author": [
+                        {
+                            "AuId": 2327030258,
+                            "AuN": "karen forrest"
+                        },
+                        {
+                            "AuId": 1989134150,
+                            "AuN": "gary weismer"
+                        },
+                        {
+                            "AuId": 2935992868,
+                            "AuN": "greg s turner"
+                        }
+                    ],
+                    "doi": "10.1121/1.397755",
+                    "journal": "journal of the acoustical society of america",
+                    "title": "kinematic acoustic and perceptual analyses of connected speech produced by parkinsonian and normal geriatric adults",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2064610785,
+                    "author": [
+                        {
+                            "AuId": 1933271175,
+                            "AuN": "frederic l darley"
+                        },
+                        {
+                            "AuId": 2127379310,
+                            "AuN": "arnold e aronson"
+                        },
+                        {
+                            "AuId": 2328049686,
+                            "AuN": "joe r brown"
+                        }
+                    ],
+                    "doi": "10.1044/JSHR.1202.246",
+                    "journal": "journal of speech language and hearing research",
+                    "title": "differential diagnostic patterns of dysarthria",
+                    "year_mag": 1969
+                },
+                {
+                    "PId": 2076895998,
+                    "author": [
+                        {
+                            "AuId": 1933271175,
+                            "AuN": "frederic l darley"
+                        },
+                        {
+                            "AuId": 2127379310,
+                            "AuN": "arnold e aronson"
+                        },
+                        {
+                            "AuId": 2328049686,
+                            "AuN": "joe r brown"
+                        }
+                    ],
+                    "doi": "10.1044/JSHR.1203.462",
+                    "journal": "journal of speech language and hearing research",
+                    "title": "clusters of deviant speech dimensions in the dysarthrias",
+                    "year_mag": 1969
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2786360171,
+                    "author": [
+                        {
+                            "AuId": 117867541,
+                            "AuN": "david sztaho"
+                        },
+                        {
+                            "AuId": 2290829438,
+                            "AuN": "miklos gabriel tulics"
+                        },
+                        {
+                            "AuId": 2120265820,
+                            "AuN": "klara vicsi"
+                        },
+                        {
+                            "AuId": 1051954644,
+                            "AuN": "istvan valalik"
+                        }
+                    ],
+                    "doi": "10.1109/COGINFOCOM.2017.8268208",
+                    "title": "automatic estimation of severity of parkinson s disease based on speech rhythm related features",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2748131541,
+                    "author": [
+                        {
+                            "AuId": 2430847126,
+                            "AuN": "massimo pettorino"
+                        },
+                        {
+                            "AuId": 2126541996,
+                            "AuN": "wentao gu"
+                        },
+                        {
+                            "AuId": 2747465326,
+                            "AuN": "pawel polrola"
+                        },
+                        {
+                            "AuId": 2747815531,
+                            "AuN": "ping fan"
+                        }
+                    ],
+                    "doi": "10.21437/INTERSPEECH.2017-850",
+                    "title": "rhythmic characteristics of parkinsonian speech a study on mandarin and polish",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3004830648,
+                    "author": [
+                        {
+                            "AuId": 3004777315,
+                            "AuN": "xiaoheng zhang"
+                        },
+                        {
+                            "AuId": 2308379020,
+                            "AuN": "yongming li"
+                        },
+                        {
+                            "AuId": 2105213033,
+                            "AuN": "pin wang"
+                        },
+                        {
+                            "AuId": 2805430156,
+                            "AuN": "xiaoheng tan"
+                        },
+                        {
+                            "AuId": 2562651792,
+                            "AuN": "yuchuan liu"
+                        }
+                    ],
+                    "title": "classification algorithm of speech data of parkinsons disease based on convolution sparse kernel transfer learning with optimal kernel and parallel sample feature selection",
+                    "year_mag": 2020
+                }
+            ],
+            "doi": "10.21437/INTERSPEECH.2016-74",
+            "title": "speech rhythm in parkinson s disease a study on italian",
+            "type": "3",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2624610279,
+            "doi": "10.1121/1.4988256",
+            "journal": "journal of the acoustical society of america",
+            "title": "rhythmic characteristics in aging a study on zurich german",
+            "type": "1",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2903960162,
+            "doi": "10.1558/IJSLL.37110",
+            "journal": "international journal of speech language and the law",
+            "title": "between speaker rhythmic variability is not dependent on language rhythm as evidence from persian reveals",
+            "type": "1",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2224059222,
+            "citing": [
+                {
+                    "PId": 2914569332,
+                    "author": [
+                        {
+                            "AuId": 2911628463,
+                            "AuN": "amina naseer"
+                        },
+                        {
+                            "AuId": 2911893503,
+                            "AuN": "monail rani"
+                        },
+                        {
+                            "AuId": 2161902756,
+                            "AuN": "saeeda naz"
+                        },
+                        {
+                            "AuId": 2791272356,
+                            "AuN": "muhammad imran razzak"
+                        },
+                        {
+                            "AuId": 2156575750,
+                            "AuN": "muhammad imran"
+                        },
+                        {
+                            "AuId": 2482500164,
+                            "AuN": "guandong xu"
+                        }
+                    ],
+                    "doi": "10.1007/S00521-019-04069-0",
+                    "journal": "neural computing and applications",
+                    "title": "refining parkinson s neurological disorder identification through deep transfer learning",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2894186025,
+                    "author": [
+                        {
+                            "AuId": 2131903190,
+                            "AuN": "simon steib"
+                        },
+                        {
+                            "AuId": 2883741295,
+                            "AuN": "philipp wanner"
+                        },
+                        {
+                            "AuId": 2118844907,
+                            "AuN": "werner adler"
+                        },
+                        {
+                            "AuId": 2157036983,
+                            "AuN": "jurgen winkler"
+                        },
+                        {
+                            "AuId": 236084408,
+                            "AuN": "jochen klucken"
+                        },
+                        {
+                            "AuId": 2163177074,
+                            "AuN": "klaus pfeifer"
+                        }
+                    ],
+                    "doi": "10.3389/FNAGI.2018.00328",
+                    "journal": "neural computing and applications",
+                    "title": "a single bout of aerobic exercise improves motor skill consolidation in parkinson s disease",
+                    "year_mag": 2018
+                }
+            ],
+            "doi": "10.1016/J.PARKRELDIS.2015.10.502",
+            "journal": "parkinsonism & related disorders",
+            "title": "speech disorders and parkinson s disease",
+            "type": "1",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2624024457,
+            "doi": "10.1121/1.4987402",
+            "journal": "journal of the acoustical society of america",
+            "title": "can second language suprasegmentals be learned a study on japanese learners of italian as foreign language",
+            "type": "1",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2172328335,
+            "doi": "10.1121/1.4934157",
+            "journal": "journal of the acoustical society of america",
+            "title": "listeners pay attention to rhythmic cues when judging the nativeness of speech",
+            "type": "1",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2574146873,
+            "citing": [
+                {
+                    "PId": 2936252368,
+                    "author": [
+                        {
+                            "AuId": 2120684236,
+                            "AuN": "seung hee yang"
+                        },
+                        {
+                            "AuId": 2305621893,
+                            "AuN": "minhwa chung"
+                        }
+                    ],
+                    "journal": "arxiv computation and language",
+                    "title": "self imitating feedback generation using gan for computer assisted pronunciation training",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2983786745,
+                    "author": [
+                        {
+                            "AuId": 2889478242,
+                            "AuN": "shaojin ding"
+                        },
+                        {
+                            "AuId": 2223106855,
+                            "AuN": "christopher liberatore"
+                        },
+                        {
+                            "AuId": 2249695314,
+                            "AuN": "sinem sonsaat"
+                        },
+                        {
+                            "AuId": 2889049871,
+                            "AuN": "ivana lucic"
+                        },
+                        {
+                            "AuId": 2314421769,
+                            "AuN": "alif silpachai"
+                        },
+                        {
+                            "AuId": 2674272828,
+                            "AuN": "guanlong zhao"
+                        },
+                        {
+                            "AuId": 2313590359,
+                            "AuN": "evgeny chukharevhudilainen"
+                        },
+                        {
+                            "AuId": 2043318944,
+                            "AuN": "john m levis"
+                        },
+                        {
+                            "AuId": 2032259955,
+                            "AuN": "ricardo gutierrezosuna"
+                        }
+                    ],
+                    "doi": "10.1016/J.SPECOM.2019.10.005",
+                    "journal": "arxiv computation and language",
+                    "title": "golden speaker builder an interactive tool for pronunciation training",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3109748850,
+                    "author": [
+                        {
+                            "AuId": 3112516834,
+                            "AuN": "deguo mu"
+                        },
+                        {
+                            "AuId": 3111400815,
+                            "AuN": "wei sun"
+                        },
+                        {
+                            "AuId": 3111617205,
+                            "AuN": "guoliang xu"
+                        },
+                        {
+                            "AuId": 2784155896,
+                            "AuN": "wei li"
+                        }
+                    ],
+                    "doi": "10.1109/ACCESS.2020.3041901",
+                    "journal": "arxiv computation and language",
+                    "title": "japanese pronunciation evaluation based on ddnn",
+                    "year_mag": 2020
+                }
+            ],
+            "title": "self imitation in prosody training a study on japanese learners of italian",
+            "type": "3",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2914851768,
+            "citing": [
+                {
+                    "PId": 2956114539,
+                    "author": [
+                        {
+                            "AuId": 2119198410,
+                            "AuN": "elisa pellegrino"
+                        }
+                    ],
+                    "doi": "10.3989/LOQUENS.2019.060",
+                    "title": "the effect of healthy aging on within speaker rhythmic variability a case study on noam chomsky",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 1563889949,
+                    "author": [
+                        {
+                            "AuId": 2953468324,
+                            "AuN": "xavier favory"
+                        },
+                        {
+                            "AuId": 222281208,
+                            "AuN": "nicolas obin"
+                        },
+                        {
+                            "AuId": 1003866314,
+                            "AuN": "gilles degottex"
+                        },
+                        {
+                            "AuId": 2985913339,
+                            "AuN": "axel roebel"
+                        }
+                    ],
+                    "doi": "10.1109/ICASSP.2015.7178901",
+                    "title": "the role of glottal source parameters for high quality transformation of perceptual age",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2403671688,
+                    "author": [
+                        {
+                            "AuId": 2430847126,
+                            "AuN": "massimo pettorino"
+                        },
+                        {
+                            "AuId": 2119198410,
+                            "AuN": "elisa pellegrino"
+                        }
+                    ],
+                    "title": "age and rhythmic variations a study on italian",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2740417825,
+                    "author": [
+                        {
+                            "AuId": 325750097,
+                            "AuN": "elena kireva"
+                        },
+                        {
+                            "AuId": 2161184823,
+                            "AuN": "christoph gabriel"
+                        }
+                    ],
+                    "title": "speech rhythm and sentence type analyzing the durational properties of olivenza portuguese olivenza spanish and castilian spanish",
+                    "year_mag": 2015
+                }
+            ],
+            "doi": "10.21437/SPEECHPROSODY.2014-15",
+            "journal": "speech prosody",
+            "title": "young and old voices the prosodic auto transplantation technique for speaker s age recognition",
+            "type": "1",
+            "year_mag": 2014
+        },
+        {
+            "PId": 2403671688,
+            "cited": [
+                {
+                    "PId": 1875231349,
+                    "author": [
+                        {
+                            "AuId": 1873977713,
+                            "AuN": "paul boersma"
+                        }
+                    ],
+                    "title": "praat a system for doing phonetics by computer",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1996171054,
+                    "author": [
+                        {
+                            "AuId": 505158155,
+                            "AuN": "franck ramus"
+                        },
+                        {
+                            "AuId": 1590571310,
+                            "AuN": "marina nespor"
+                        },
+                        {
+                            "AuId": 1590571310,
+                            "AuN": "marina nespor"
+                        },
+                        {
+                            "AuId": 1916644368,
+                            "AuN": "jacques mehler"
+                        }
+                    ],
+                    "doi": "10.1016/S0010-0277(99)00058-X",
+                    "journal": "cognition",
+                    "title": "correlates of linguistic rhythm in the speech signal",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 1493713542,
+                    "author": [
+                        {
+                            "AuId": 2099832286,
+                            "AuN": "james l morgan"
+                        },
+                        {
+                            "AuId": 1988141532,
+                            "AuN": "katherine demuth"
+                        }
+                    ],
+                    "doi": "10.4324/9781315806822",
+                    "title": "signal to syntax bootstrapping from speech to grammar in early acquisition",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2161038450,
+                    "author": [
+                        {
+                            "AuId": 305166192,
+                            "AuN": "volker dellwo"
+                        },
+                        {
+                            "AuId": 2562333312,
+                            "AuN": "petra wagner"
+                        }
+                    ],
+                    "title": "relations between language rhythm and speech rate",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1690817556,
+                    "author": [
+                        {
+                            "AuId": 1978040683,
+                            "AuN": "susanne schotz"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-540-74200-5_5",
+                    "title": "acoustic analysis of adult speaker age",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2065979868,
+                    "author": [
+                        {
+                            "AuId": 2104646271,
+                            "AuN": "robert m krauss"
+                        },
+                        {
+                            "AuId": 2551645615,
+                            "AuN": "robin freyberg"
+                        },
+                        {
+                            "AuId": 216933306,
+                            "AuN": "ezequiel morsella"
+                        }
+                    ],
+                    "doi": "10.1016/S0022-1031(02)00510-3",
+                    "journal": "journal of experimental social psychology",
+                    "title": "inferring speakers physical attributes from their voices",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2096029178,
+                    "author": [
+                        {
+                            "AuId": 2107441189,
+                            "AuN": "shaheen n awan"
+                        }
+                    ],
+                    "doi": "10.1080/02699200400026918",
+                    "journal": "clinical linguistics & phonetics",
+                    "title": "the aging female voice acoustic and respiratory data",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1987847367,
+                    "author": [
+                        {
+                            "AuId": 2102503877,
+                            "AuN": "peter b mueller"
+                        }
+                    ],
+                    "doi": "10.1055/S-2008-1064070",
+                    "journal": "seminars in speech and language",
+                    "title": "the aging voice",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2079111733,
+                    "author": [
+                        {
+                            "AuId": 2243111361,
+                            "AuN": "ali dehqan"
+                        },
+                        {
+                            "AuId": 1999299715,
+                            "AuN": "ronald c scherer"
+                        },
+                        {
+                            "AuId": 2516869390,
+                            "AuN": "gholamali dashti"
+                        },
+                        {
+                            "AuId": 1942997021,
+                            "AuN": "alireza ansarimoghaddam"
+                        },
+                        {
+                            "AuId": 723948202,
+                            "AuN": "sepideh fanaie"
+                        }
+                    ],
+                    "doi": "10.1159/000343998",
+                    "journal": "folia phoniatrica et logopaedica",
+                    "title": "the effects of aging on acoustic parameters of voice",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1974376728,
+                    "author": [
+                        {
+                            "AuId": 2045223267,
+                            "AuN": "amy b wohlert"
+                        },
+                        {
+                            "AuId": 2126460891,
+                            "AuN": "anne smith"
+                        }
+                    ],
+                    "doi": "10.1044/JSLHR.4101.41",
+                    "journal": "journal of speech language and hearing research",
+                    "title": "spatiotemporal stability of lip movements in older adult speakers",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2014308779,
+                    "author": [
+                        {
+                            "AuId": 2048344280,
+                            "AuN": "lorraine a ramig"
+                        },
+                        {
+                            "AuId": 2501123677,
+                            "AuN": "robert l ringel"
+                        }
+                    ],
+                    "doi": "10.1044/JSHR.2601.22",
+                    "journal": "journal of speech language and hearing research",
+                    "title": "effects of physiological aging on selected acoustic characteristics of voice",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 189137083,
+                    "author": [
+                        {
+                            "AuId": 1916644368,
+                            "AuN": "jacques mehler"
+                        },
+                        {
+                            "AuId": 2121369328,
+                            "AuN": "emmanuel dupoux"
+                        },
+                        {
+                            "AuId": 251275831,
+                            "AuN": "thierry nazzi"
+                        },
+                        {
+                            "AuId": 2944336290,
+                            "AuN": "ghislaine"
+                        }
+                    ],
+                    "doi": "10.4324/9781315806822-15",
+                    "title": "coping with linguistic diversity the infant s viewpoint",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2163436005,
+                    "author": [
+                        {
+                            "AuId": 2496936001,
+                            "AuN": "sue ellen linville"
+                        }
+                    ],
+                    "doi": "10.1016/S0892-1997(87)80023-1",
+                    "journal": "journal of voice",
+                    "title": "acoustic perceptual studies of aging voice in women",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 3117876460,
+                    "author": [
+                        {
+                            "AuId": 3116208623,
+                            "AuN": "antonella giannini"
+                        }
+                    ],
+                    "title": "range di variabilita della velocita di articolazione in italiano",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2914851768,
+                    "author": [
+                        {
+                            "AuId": 2430847126,
+                            "AuN": "massimo pettorino"
+                        },
+                        {
+                            "AuId": 2119198410,
+                            "AuN": "elisa pellegrino"
+                        },
+                        {
+                            "AuId": 2597586641,
+                            "AuN": "marta maffia"
+                        }
+                    ],
+                    "doi": "10.21437/SPEECHPROSODY.2014-15",
+                    "journal": "speech prosody",
+                    "title": "young and old voices the prosodic auto transplantation technique for speaker s age recognition",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2000525786,
+                    "author": [
+                        {
+                            "AuId": 3025051986,
+                            "AuN": "richard d jacques"
+                        },
+                        {
+                            "AuId": 1057715551,
+                            "AuN": "michael p rastatter"
+                        }
+                    ],
+                    "doi": "10.1159/000266055",
+                    "journal": "folia phoniatrica et logopaedica",
+                    "title": "recognition of speaker age from selected acoustic features as perceived by normal young and older listeners",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2986600872,
+                    "author": [
+                        {
+                            "AuId": 1986003805,
+                            "AuN": "james d amerman"
+                        },
+                        {
+                            "AuId": 2100166003,
+                            "AuN": "martha m parnell"
+                        }
+                    ],
+                    "doi": "10.1016/S0095-4470(19)30254-2",
+                    "journal": "journal of phonetics",
+                    "title": "speech timing strategies in elderly adults",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2957449301,
+                    "author": [
+                        {
+                            "AuId": 2958805606,
+                            "AuN": "brock d eppley"
+                        },
+                        {
+                            "AuId": 2956715330,
+                            "AuN": "peter b mueller"
+                        }
+                    ],
+                    "doi": "10.1044/CICSD_28_S_5",
+                    "title": "chronological age judgments of elderly speakers the effects of listeners age",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1999201565,
+                    "author": [
+                        {
+                            "AuId": 2157903834,
+                            "AuN": "thomas shipp"
+                        },
+                        {
+                            "AuId": 2030095323,
+                            "AuN": "harry hollien"
+                        }
+                    ],
+                    "doi": "10.1044/JSHR.1204.703",
+                    "journal": "journal of speech language and hearing research",
+                    "title": "perception of the aging male voice",
+                    "year_mag": 1969
+                },
+                {
+                    "PId": 1491908920,
+                    "author": [
+                        {
+                            "AuId": 69882542,
+                            "AuN": "hartmut traunmuller"
+                        },
+                        {
+                            "AuId": 2925339442,
+                            "AuN": "r van bezooijen"
+                        }
+                    ],
+                    "title": "the auditory perception of children s age and sex",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2085999891,
+                    "author": [
+                        {
+                            "AuId": 1977475222,
+                            "AuN": "paul h ptacek"
+                        },
+                        {
+                            "AuId": 2049287463,
+                            "AuN": "eric k sander"
+                        }
+                    ],
+                    "doi": "10.1044/JSHR.0902.273",
+                    "journal": "journal of speech language and hearing research",
+                    "title": "age recognition from voice",
+                    "year_mag": 1966
+                },
+                {
+                    "PId": 2739606417,
+                    "author": [
+                        {
+                            "AuId": 2430847126,
+                            "AuN": "massimo pettorino"
+                        },
+                        {
+                            "AuId": 2321943799,
+                            "AuN": "a giannini"
+                        }
+                    ],
+                    "title": "the speaker s age a perceptual study",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2093241329,
+                    "author": [
+                        {
+                            "AuId": 1980837583,
+                            "AuN": "t h pear"
+                        }
+                    ],
+                    "title": "voice and personality",
+                    "year_mag": 1931
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2956114539,
+                    "author": [
+                        {
+                            "AuId": 2119198410,
+                            "AuN": "elisa pellegrino"
+                        }
+                    ],
+                    "doi": "10.3989/LOQUENS.2019.060",
+                    "title": "the effect of healthy aging on within speaker rhythmic variability a case study on noam chomsky",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2748131541,
+                    "author": [
+                        {
+                            "AuId": 2430847126,
+                            "AuN": "massimo pettorino"
+                        },
+                        {
+                            "AuId": 2126541996,
+                            "AuN": "wentao gu"
+                        },
+                        {
+                            "AuId": 2747465326,
+                            "AuN": "pawel polrola"
+                        },
+                        {
+                            "AuId": 2747815531,
+                            "AuN": "ping fan"
+                        }
+                    ],
+                    "doi": "10.21437/INTERSPEECH.2017-850",
+                    "title": "rhythmic characteristics of parkinsonian speech a study on mandarin and polish",
+                    "year_mag": 2017
+                }
+            ],
+            "title": "age and rhythmic variations a study on italian",
+            "type": "3",
+            "year_mag": 2014
+        },
+        {
+            "PId": 3043290908,
+            "citing": [
+                {
+                    "PId": 3042316912,
+                    "author": [
+                        {
+                            "AuId": 2577207391,
+                            "AuN": "valeria caruso"
+                        },
+                        {
+                            "AuId": 2804642170,
+                            "AuN": "anna de meo"
+                        }
+                    ],
+                    "title": "a dictionary guide for web users",
+                    "year_mag": 2014
+                }
+            ],
+            "title": "metadizionari digitali specialistici",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 165987537,
+            "cited": [
+                {
+                    "PId": 158482626,
+                    "author": [
+                        {
+                            "AuId": 2045384955,
+                            "AuN": "philip kotler"
+                        },
+                        {
+                            "AuId": 2117251354,
+                            "AuN": "ned roberto"
+                        },
+                        {
+                            "AuId": 2111911295,
+                            "AuN": "nancy r lee"
+                        }
+                    ],
+                    "title": "social marketing improving the quality of life",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2029343208,
+                    "author": [
+                        {
+                            "AuId": 2252574127,
+                            "AuN": "alan r andreasen"
+                        }
+                    ],
+                    "title": "marketing social change changing behavior to promote health social development and the environment",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 22496094,
+                    "author": [
+                        {
+                            "AuId": 2252574127,
+                            "AuN": "alan r andreasen"
+                        }
+                    ],
+                    "title": "social marketing in the 21st century",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1801810991,
+                    "author": [
+                        {
+                            "AuId": 342147187,
+                            "AuN": "bjorn lindblom"
+                        },
+                        {
+                            "AuId": 342147187,
+                            "AuN": "bjorn lindblom"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-009-2037-8_16",
+                    "title": "explaining phonetic variation a sketch of the h h theory",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 1967880820,
+                    "author": [
+                        {
+                            "AuId": 2437081421,
+                            "AuN": "norah e dunbar"
+                        },
+                        {
+                            "AuId": 3117216323,
+                            "AuN": "judee k burgoon"
+                        }
+                    ],
+                    "doi": "10.1177/0265407505050944",
+                    "journal": "journal of social and personal relationships",
+                    "title": "perceptions of power and interactional dominance in interpersonal relationships",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 641123411,
+                    "author": [
+                        {
+                            "AuId": 2099666961,
+                            "AuN": "robert j donovan"
+                        },
+                        {
+                            "AuId": 2766079953,
+                            "AuN": "nadine henley"
+                        }
+                    ],
+                    "title": "principles and practice of social marketing an international perspective",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 575110232,
+                    "author": [
+                        {
+                            "AuId": 2045384955,
+                            "AuN": "philip kotler"
+                        },
+                        {
+                            "AuId": 2168091984,
+                            "AuN": "eduardo l roberto"
+                        }
+                    ],
+                    "title": "social marketing strategies for changing public behavior",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 631346388,
+                    "author": [
+                        {
+                            "AuId": 2045384955,
+                            "AuN": "philip kotler"
+                        },
+                        {
+                            "AuId": 2111911295,
+                            "AuN": "nancy r lee"
+                        }
+                    ],
+                    "title": "up and out of poverty the social marketing solution",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 562473892,
+                    "author": [
+                        {
+                            "AuId": 1996428935,
+                            "AuN": "nedra kline weinreich"
+                        }
+                    ],
+                    "title": "hands on social marketing a step by step guide",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2017302109,
+                    "author": [
+                        {
+                            "AuId": 938526298,
+                            "AuN": "dell hymes"
+                        }
+                    ],
+                    "title": "foundations in sociolinguistics an ethnographic approach",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 1608230276,
+                    "author": [
+                        {
+                            "AuId": 2654614385,
+                            "AuN": "marvin e goldberg"
+                        },
+                        {
+                            "AuId": 2118178855,
+                            "AuN": "martin fishbein"
+                        },
+                        {
+                            "AuId": 274122837,
+                            "AuN": "susan e middlestadt"
+                        }
+                    ],
+                    "doi": "10.4324/9781315805795",
+                    "title": "social marketing theoretical and practical perspectives",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2154107137,
+                    "author": [
+                        {
+                            "AuId": 2252574127,
+                            "AuN": "alan r andreasen"
+                        }
+                    ],
+                    "title": "ethics in social marketing",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1591160560,
+                    "author": [
+                        {
+                            "AuId": 2005072492,
+                            "AuN": "kyle james tusing"
+                        },
+                        {
+                            "AuId": 2115774424,
+                            "AuN": "james price dillard"
+                        }
+                    ],
+                    "doi": "10.1111/J.1468-2958.2000.TB00754.X",
+                    "journal": "human communication research",
+                    "title": "the sounds of dominance vocal precursors of perceived dominance during interpersonal influence",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 656345897,
+                    "author": [
+                        {
+                            "AuId": 2681873283,
+                            "AuN": "ivana markova"
+                        },
+                        {
+                            "AuId": 2481501124,
+                            "AuN": "klaus foppa"
+                        }
+                    ],
+                    "title": "asymmetries in dialogue",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2182502526,
+                    "author": [
+                        {
+                            "AuId": 2186100707,
+                            "AuN": "julia coffman"
+                        }
+                    ],
+                    "title": "public communication campaign evaluation an environmental scan of challenges criticisms practice and opportunities prepared for the communications consortium media center",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2119523305,
+                    "author": [
+                        {
+                            "AuId": 2157453393,
+                            "AuN": "wallace e lambert"
+                        },
+                        {
+                            "AuId": 2695941036,
+                            "AuN": "r c hodgson"
+                        },
+                        {
+                            "AuId": 2107970562,
+                            "AuN": "r c gardner"
+                        },
+                        {
+                            "AuId": 2581840248,
+                            "AuN": "s fillenbaum"
+                        }
+                    ],
+                    "doi": "10.1037/H0044430",
+                    "journal": "the journal of abnormal and social psychology",
+                    "title": "evaluational reactions to spoken languages",
+                    "year_mag": 1960
+                },
+                {
+                    "PId": 647940811,
+                    "author": [
+                        {
+                            "AuId": 2498170249,
+                            "AuN": "jamila boulima"
+                        }
+                    ],
+                    "title": "negotiated interaction in target language classroom discourse",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 3117876460,
+                    "author": [
+                        {
+                            "AuId": 3116208623,
+                            "AuN": "antonella giannini"
+                        }
+                    ],
+                    "title": "range di variabilita della velocita di articolazione in italiano",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2137532023,
+                    "author": [
+                        {
+                            "AuId": 2077012339,
+                            "AuN": "dawn birch"
+                        },
+                        {
+                            "AuId": 1942470918,
+                            "AuN": "janelle mcphail"
+                        }
+                    ],
+                    "journal": "global business languages",
+                    "title": "the impact of accented speech in international television advertisements",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2010805148,
+                    "author": [
+                        {
+                            "AuId": 2124079722,
+                            "AuN": "bruce l brown"
+                        },
+                        {
+                            "AuId": 2075212219,
+                            "AuN": "howard giles"
+                        },
+                        {
+                            "AuId": 1489870176,
+                            "AuN": "jitendra n thakerar"
+                        }
+                    ],
+                    "doi": "10.1016/0271-5309(85)90011-4",
+                    "journal": "language & communication",
+                    "title": "speaker evaluations as a function of speech rate accent and context",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2314970197,
+                    "author": [
+                        {
+                            "AuId": 2663052951,
+                            "AuN": "j k a thomaneck"
+                        },
+                        {
+                            "AuId": 938526298,
+                            "AuN": "dell hymes"
+                        }
+                    ],
+                    "doi": "10.2307/590085",
+                    "journal": "british journal of sociology",
+                    "title": "foundations of sociolinguistics an ethnographic approach",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 32248761,
+                    "author": [
+                        {
+                            "AuId": 518032697,
+                            "AuN": "francesca romana puggelli"
+                        },
+                        {
+                            "AuId": 2342959243,
+                            "AuN": "rossella sobrero"
+                        }
+                    ],
+                    "title": "la comunicazione sociale",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2065728731,
+                    "author": [
+                        {
+                            "AuId": 2286355368,
+                            "AuN": "ellen bouchard ryan"
+                        },
+                        {
+                            "AuId": 2659113279,
+                            "AuN": "richard j sebastian"
+                        }
+                    ],
+                    "doi": "10.1111/J.2044-8260.1980.TB00348.X",
+                    "journal": "the british journal of social and clinical psychology",
+                    "title": "the effects of speech style and social class background on social judgements of speakers",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 113444978,
+                    "author": [
+                        {
+                            "AuId": 1996536869,
+                            "AuN": "danielle duez"
+                        }
+                    ],
+                    "doi": "10.1023/A:1025008124631",
+                    "journal": "journal of psycholinguistic research",
+                    "title": "acoustic markers of political power",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1973517864,
+                    "author": [
+                        {
+                            "AuId": 2075212219,
+                            "AuN": "howard giles"
+                        }
+                    ],
+                    "doi": "10.1080/03637757309375813",
+                    "journal": "communication monographs",
+                    "title": "communicative effectiveness as a function of accented speech",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2339243192,
+                    "author": [
+                        {
+                            "AuId": 2430847126,
+                            "AuN": "massimo pettorino"
+                        },
+                        {
+                            "AuId": 2321943799,
+                            "AuN": "a giannini"
+                        },
+                        {
+                            "AuId": 2779796899,
+                            "AuN": "francesca m dovetto"
+                        }
+                    ],
+                    "title": "la comunicazione parlata 3",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2590100146,
+                    "author": [
+                        {
+                            "AuId": 2795862191,
+                            "AuN": "marisa rosalba pavone"
+                        },
+                        {
+                            "AuId": 2591452029,
+                            "AuN": "tortello mario"
+                        }
+                    ],
+                    "title": "il quadro normativo",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 3010367766,
+                    "author": [
+                        {
+                            "AuId": 2430847126,
+                            "AuN": "massimo pettorino"
+                        },
+                        {
+                            "AuId": 2529689960,
+                            "AuN": "anna de meo"
+                        },
+                        {
+                            "AuId": 2119198410,
+                            "AuN": "elisa pellegrino"
+                        },
+                        {
+                            "AuId": 2111987614,
+                            "AuN": "luisa salvati"
+                        },
+                        {
+                            "AuId": 2741387290,
+                            "AuN": "marilisa vitale"
+                        }
+                    ],
+                    "title": "accento straniero e credibilita del messaggio un analisi acustico percettiva",
+                    "year_mag": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Donovan",
+                            "given": "Rob",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Henley",
+                            "given": "Nadine",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511761751",
+                    "title": "principles and practice of social marketing",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Lefebvre",
+                            "given": "R. Craig",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1080/15245004.1996.9960977",
+                    "title": "25 years of social marketing looking back to the future",
+                    "year_oc": 1996
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2809197316,
+                    "author": [
+                        {
+                            "AuId": 1920945517,
+                            "AuN": "andrzej zuczkowski"
+                        },
+                        {
+                            "AuId": 264035166,
+                            "AuN": "ramona bongelli"
+                        },
+                        {
+                            "AuId": 1721778415,
+                            "AuN": "ilaria riccioni"
+                        },
+                        {
+                            "AuId": 302446541,
+                            "AuN": "carla canestrari"
+                        }
+                    ],
+                    "title": "proceedings of the international conference the communication of certainty and uncertainty linguistic psychological philosophical aspects",
+                    "year_mag": 2014
+                }
+            ],
+            "doi": "10.1007/978-3-642-41545-6_15",
+            "title": "racism and immigration in social advertisings promoted by italian government and non governmental institutions",
+            "type": "0",
+            "year_mag": 2010
+        },
+        {
+            "PId": 2994534589,
+            "citing": [
+                {
+                    "PId": 2963808652,
+                    "author": [
+                        {
+                            "AuId": 2963720172,
+                            "AuN": "anna de marco"
+                        }
+                    ],
+                    "doi": "10.5772/INTECHOPEN.87210",
+                    "title": "teaching the prosody of emotive communication in a second language",
+                    "year_mag": 2019
+                }
+            ],
+            "doi": "10.21437/SPEECHPROSODY.2014-4",
+            "title": "labeling expressive speech in l2 italian the role of prosody in auto and external annotation",
+            "type": "0",
+            "year_mag": 2014
+        },
+        {
+            "PId": 3010367766,
+            "citing": [
+                {
+                    "PId": 165987537,
+                    "author": [
+                        {
+                            "AuId": 2119198410,
+                            "AuN": "elisa pellegrino"
+                        },
+                        {
+                            "AuId": 2111987614,
+                            "AuN": "luisa salvati"
+                        },
+                        {
+                            "AuId": 2529689960,
+                            "AuN": "anna de meo"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-41545-6_15",
+                    "title": "racism and immigration in social advertisings promoted by italian government and non governmental institutions",
+                    "year_mag": 2010
+                }
+            ],
+            "title": "accento straniero e credibilita del messaggio un analisi acustico percettiva",
+            "type": "0",
+            "year_mag": 2011
+        },
+        {
+            "PId": 2890235103,
+            "citing": [
+                {
+                    "PId": 2892087104,
+                    "author": [
+                        {
+                            "AuId": 2343656848,
+                            "AuN": "paolo balboni"
+                        }
+                    ],
+                    "doi": "10.30687/ELLE/2280-6792/2018/01/008",
+                    "title": "beli bibliografia dell educazione linguistica in italia 2017 update",
+                    "year_mag": 2018
+                }
+            ],
+            "doi": "10.5167/UZH-143023",
+            "title": "le componenti della comunicazione nella decodifica delle informazioni in italiano l1 e l2 uno studio comparativo su parlanti italiani e cinesi",
+            "type": "4",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2901677552,
+            "doi": "10.5167/UZH-127244",
+            "title": "a self imitation technique for the improvement of prosody in l2 italian",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2776598905,
+            "doi": "10.5167/UZH-143024",
+            "title": "la competenza prosodica nell italiano parlato di sordi nativi e stranieri",
+            "type": "4",
+            "year_mag": 2017
+        },
+        {
+            "PId": 3022169508,
+            "title": "la voce dei media trapianti ritmico intonativi per un analisi diacronica dell italiano parlato",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 3010338727,
+            "title": "rappresentazione e percezione dell alterita nel parlato delle campagne di comunicazione sociale",
+            "type": "0",
+            "year_mag": 2011
+        }
+    ]
+}

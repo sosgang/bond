@@ -1,0 +1,2606 @@
+{
+    "AuIds": [
+        2630983936,
+        2895611425,
+        2542662787,
+        2702736804,
+        2091638246,
+        2787763847,
+        2904265544,
+        2642775091,
+        2664752340
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "2118688865_+_2068822147": 1
+            },
+            "number": 1
+        },
+        "cand_nodes": 32,
+        "cand_paths": {},
+        "cc": {
+            "articles": {
+                "2118688865_+_1500893608": 1,
+                "2118688865_+_1964694672": 1,
+                "2118688865_+_1996825865": 1,
+                "2118688865_+_2068704623": 1,
+                "2118688865_+_2182895103": 1,
+                "2118688865_+_2303161626": 1,
+                "2118688865_+_2339080099": 1,
+                "2118688865_+_567025414": 1
+            },
+            "number": 4
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 118,
+            "comm_other": 4682,
+            "other_cand": 25,
+            "other_comm": 4973
+        },
+        "other_nodes": 6634
+    },
+    "coverage": {
+        "articles": 10,
+        "books": 2,
+        "cov_sect": "A",
+        "other_pubbs": 7,
+        "pubbs": 15,
+        "pubbs_found": 13,
+        "pubbs_ind": 18,
+        "pubbs_ind_found": 15,
+        "total_extra_found": 32,
+        "total_found": 16,
+        "total_pubbs": 19
+    },
+    "fullname": [
+        "Guerini",
+        "Federica"
+    ],
+    "ind_anvur": [
+        16,
+        9,
+        2,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "9788891750105"
+            ],
+            "PId": 2785896704,
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "title": "english and the ghanaian diaspora in northern italy",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "2037-3597"
+            ],
+            "PId": 2530884559,
+            "cited": [
+                {
+                    "PId": 2055183646,
+                    "author": [
+                        {
+                            "AuId": 2028881588,
+                            "AuN": "wolfgang u dressler"
+                        },
+                        {
+                            "AuId": 1242460677,
+                            "AuN": "lavinia merlini barbaresi"
+                        }
+                    ],
+                    "title": "morphopragmatics diminutives and intensifiers in italian german and other languages",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 571535808,
+                    "author": [
+                        {
+                            "AuId": 2727773497,
+                            "AuN": "grazia crocco galeas"
+                        }
+                    ],
+                    "title": "gli etnici italiani studio di morfologia naturale",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 621767974,
+                    "author": [
+                        {
+                            "AuId": 1998549819,
+                            "AuN": "teresa cappello"
+                        },
+                        {
+                            "AuId": 2104870503,
+                            "AuN": "carlo tagliavini"
+                        }
+                    ],
+                    "title": "dizionario degli etnici e dei toponimi italiani",
+                    "year_mag": 1981
+                },
+                {
+                    "PId": 2795612721,
+                    "author": [
+                        {
+                            "AuId": 2796037979,
+                            "AuN": "j a palermo"
+                        },
+                        {
+                            "AuId": 2288417421,
+                            "AuN": "bruno migliorini"
+                        }
+                    ],
+                    "doi": "10.2307/476597",
+                    "title": "saggi sulla lingua del novecento",
+                    "year_mag": 1947
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.13130/2037-3597/7571",
+            "journal": "ITALIANO LINGUADUE",
+            "title": "la formazione degli etnici nella riflessione linguistica di francesco cherubini",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788854893849"
+            ],
+            "PId": 2577517064,
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "title": "verbi sintagmatici nei racconti dei partigiani costrutti e distribuzione",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1367-0069"
+            ],
+            "PId": 2104737541,
+            "cited": [
+                {
+                    "PId": 2946940662,
+                    "author": [
+                        {
+                            "AuId": 2947444968,
+                            "AuN": "john j gumperz"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511611834",
+                    "title": "discourse strategies subject index",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 2049907881,
+                    "author": [
+                        {
+                            "AuId": 2691785227,
+                            "AuN": "peter auer"
+                        }
+                    ],
+                    "doi": "10.1177/13670069990030040101",
+                    "journal": "international journal of bilingualism",
+                    "title": "from codeswitching via language mixing to fused lects toward a dynamic typology of bilingual speech",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 164793848,
+                    "author": [
+                        {
+                            "AuId": 166400760,
+                            "AuN": "penelope gardnerchloros"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511609787.005",
+                    "title": "code switching code switching in conversation",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 96394439,
+                    "author": [
+                        {
+                            "AuId": 2691785227,
+                            "AuN": "peter auer"
+                        }
+                    ],
+                    "doi": "10.4324/9780203017883-6",
+                    "title": "introduction bilingual conversation revisited",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2055631983,
+                    "author": [
+                        {
+                            "AuId": 2144758608,
+                            "AuN": "andrew simpson"
+                        }
+                    ],
+                    "title": "language and national identity in asia",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2167806774,
+                    "author": [
+                        {
+                            "AuId": 2161658281,
+                            "AuN": "mohamed h abdulaziz"
+                        },
+                        {
+                            "AuId": 2666482081,
+                            "AuN": "ken osinde"
+                        }
+                    ],
+                    "doi": "10.1515/IJSL.1997.125.43",
+                    "journal": "international journal of the sociology of language",
+                    "title": "sheng and engsh development of mixed codes among the urban youth in kenya",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2012016848,
+                    "author": [
+                        {
+                            "AuId": 2706220546,
+                            "AuN": "fiona mclaughlin"
+                        }
+                    ],
+                    "doi": "10.1080/13696810120107104",
+                    "journal": "journal of african cultural studies",
+                    "title": "dakar wolof and the configuration of an urban identity",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2332155266,
+                    "author": [
+                        {
+                            "AuId": 2605568689,
+                            "AuN": "kropp dakubu"
+                        }
+                    ],
+                    "title": "the languages of ghana",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2126834378,
+                    "author": [
+                        {
+                            "AuId": 54438461,
+                            "AuN": "david d laitin"
+                        }
+                    ],
+                    "doi": "10.2307/2944799",
+                    "journal": "american political science review",
+                    "title": "the tower of babel as a coordination game political linguistics in ghana",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1484061886,
+                    "author": [
+                        {
+                            "AuId": 2096360604,
+                            "AuN": "magnus huber"
+                        }
+                    ],
+                    "title": "ghanaian pidgin english in its west african context a sociohistorical and structural analysis",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2168114305,
+                    "author": [
+                        {
+                            "AuId": 1997976638,
+                            "AuN": "shana poplack"
+                        },
+                        {
+                            "AuId": 2298342406,
+                            "AuN": "david sankoff"
+                        }
+                    ],
+                    "doi": "10.1515/LING.1984.22.1.99",
+                    "journal": "linguistics",
+                    "title": "borrowing the synchrony of integration",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 2165360834,
+                    "author": [
+                        {
+                            "AuId": 2696972029,
+                            "AuN": "m e kropp dakubu"
+                        }
+                    ],
+                    "doi": "10.1515/IJSL.2000.141.9",
+                    "journal": "international journal of the sociology of language",
+                    "title": "multiple bilingualisms and urban transitions coming to accra",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2092122765,
+                    "author": [
+                        {
+                            "AuId": 2135907209,
+                            "AuN": "evershed kwasi amuzu"
+                        }
+                    ],
+                    "doi": "10.1177/1367006913481139",
+                    "journal": "international journal of bilingualism",
+                    "title": "producing composite codeswitching the role of the modularity of language production",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2567952304,
+                    "author": [
+                        {
+                            "AuId": 2571510399,
+                            "AuN": "melissa g moyer"
+                        }
+                    ],
+                    "doi": "10.4324/9780203017883-16",
+                    "title": "bilingual conversation strategies in gibraltar",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2046652117,
+                    "author": [
+                        {
+                            "AuId": 2596180020,
+                            "AuN": "jan blommaert"
+                        }
+                    ],
+                    "doi": "10.1080/01434632.1992.9994483",
+                    "journal": "journal of multilingual and multicultural development",
+                    "title": "codeswitching and the exclusivity of social identities some data from campus kiswahili",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2492156922,
+                    "author": [
+                        {
+                            "AuId": 2008303767,
+                            "AuN": "peter h koehn"
+                        },
+                        {
+                            "AuId": 1970446482,
+                            "AuN": "milton o obamba"
+                        }
+                    ],
+                    "doi": "10.1057/9781137481757_10",
+                    "title": "evidence from africa",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2478512240,
+                    "author": [
+                        {
+                            "AuId": 2489476999,
+                            "AuN": "j c p auer"
+                        }
+                    ],
+                    "doi": "10.1515/9783110849615.187",
+                    "title": "7 a conversation analytic approach to codeswitching and transfer",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2058397060,
+                    "author": [
+                        {
+                            "AuId": 2257231318,
+                            "AuN": "m e kropp dakubu"
+                        }
+                    ],
+                    "doi": "10.2307/417488",
+                    "journal": "language",
+                    "title": "korle meets the sea a sociolinguistic history of accra",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2059533926,
+                    "author": [
+                        {
+                            "AuId": 2671747799,
+                            "AuN": "samuel a dseagu"
+                        }
+                    ],
+                    "doi": "10.1080/00138399608691245",
+                    "journal": "english studies in africa",
+                    "title": "english in ghana",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2090166048,
+                    "author": [
+                        {
+                            "AuId": 2310201359,
+                            "AuN": "p e h hair"
+                        },
+                        {
+                            "AuId": 2649837719,
+                            "AuN": "john spencer"
+                        }
+                    ],
+                    "doi": "10.2307/216979",
+                    "journal": "international journal of african historical studies",
+                    "title": "the english language in west africa",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2079594761,
+                    "author": [
+                        {
+                            "AuId": 2064057876,
+                            "AuN": "ayoade a amuda"
+                        }
+                    ],
+                    "doi": "10.1080/09544169408717781",
+                    "title": "yoruba english conversational code switching as a conversational strategy",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1578435319,
+                    "author": [
+                        {
+                            "AuId": 2135907209,
+                            "AuN": "evershed kwasi amuzu"
+                        }
+                    ],
+                    "journal": "legon journal of the humanities",
+                    "title": "codeswitching in ghana still the third tongue of the educated",
+                    "year_mag": 2005
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Auer",
+                            "given": "P.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Maass",
+                            "given": "W.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/PL00013824",
+                    "title": "introduction",
+                    "year_oc": 1998
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Auer",
+                            "given": "Peter",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/PB.V.8",
+                    "title": "bilingual conversation",
+                    "year_oc": 1984
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Regensburg"
+                                }
+                            ],
+                            "family": "Huber",
+                            "given": "Magnus",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/VEAW.G24",
+                    "title": "ghanaian pidgin english in its west african context",
+                    "year_oc": 1999
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2082651951,
+                    "author": [
+                        {
+                            "AuId": 2135907209,
+                            "AuN": "evershed kwasi amuzu"
+                        },
+                        {
+                            "AuId": 2073644096,
+                            "AuN": "john victor singler"
+                        }
+                    ],
+                    "doi": "10.1177/1367006913481135",
+                    "journal": "international journal of bilingualism",
+                    "title": "codeswitching in west africa",
+                    "year_mag": 2014
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1177/1367006913481138",
+            "journal": "INTERNATIONAL JOURNAL OF BILINGUALISM",
+            "title": "language contact language mixing and identity the akan spoken by ghanaian immigrants in northern italy",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-88-7636-196-8"
+            ],
+            "PId": 2934359147,
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "title": "strategie di riappropriazione simbolica del territorio i segnali di localizzazione in dialetto in provincia di bergamo",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1122-6331"
+            ],
+            "PId": 2262203501,
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "journal": "RID",
+            "title": " me en \u02a4er manja ge ndo mia io sto qui commutazione di codice e organizzazione della conversazione nelle testimonianze degli ex partigiani in valle camonica",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1594-6517"
+            ],
+            "PId": 2247914153,
+            "cited": [
+                {
+                    "PId": 2170374341,
+                    "author": [
+                        {
+                            "AuId": 2307427065,
+                            "AuN": "rodrigue landry"
+                        },
+                        {
+                            "AuId": 2508368030,
+                            "AuN": "richard y bourhis"
+                        }
+                    ],
+                    "doi": "10.1177/0261927X970161002",
+                    "journal": "journal of language and social psychology",
+                    "title": "linguistic landscape and ethnolinguistic vitality an empirical study",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2089285733,
+                    "author": [
+                        {
+                            "AuId": 186794492,
+                            "AuN": "eliezer benrafael"
+                        },
+                        {
+                            "AuId": 2012137537,
+                            "AuN": "elana shohamy"
+                        },
+                        {
+                            "AuId": 2163473672,
+                            "AuN": "muhammad hasan amara"
+                        },
+                        {
+                            "AuId": 210140967,
+                            "AuN": "nira trumperhecht"
+                        }
+                    ],
+                    "doi": "10.1080/14790710608668383",
+                    "journal": "international journal of multilingualism",
+                    "title": "linguistic landscape as symbolic construction of the public space the case of israel",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1991205493,
+                    "author": [
+                        {
+                            "AuId": 1825751702,
+                            "AuN": "mark sebba"
+                        }
+                    ],
+                    "doi": "10.1093/WSR/WSP002",
+                    "journal": "writing systems research",
+                    "title": "sociolinguistic approaches to writing systems research",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2142149455,
+                    "author": [
+                        {
+                            "AuId": 2130720570,
+                            "AuN": "alexandra jaffe"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9481.00127",
+                    "journal": "journal of sociolinguistics",
+                    "title": "introduction non standard orthography and non standard speech",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 565607657,
+                    "author": [
+                        {
+                            "AuId": 2167128335,
+                            "AuN": "joshua a fishman"
+                        }
+                    ],
+                    "title": "do not leave your language alone the hidden status agendas within corpus planning in language policy",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1990457997,
+                    "author": [
+                        {
+                            "AuId": 3105902068,
+                            "AuN": "david r olson"
+                        }
+                    ],
+                    "doi": "10.1093/WSR/WSP005",
+                    "journal": "writing systems research",
+                    "title": "a theory of reading writing from literacy to literature",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2004027288,
+                    "author": [
+                        {
+                            "AuId": 2662722089,
+                            "AuN": "silvia dal negro"
+                        }
+                    ],
+                    "doi": "10.1515/IJSL.2005.2005.174.113",
+                    "journal": "international journal of the sociology of language",
+                    "title": "minority languages between nationalism and new localism the case of italy",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2777209074,
+                    "author": [
+                        {
+                            "AuId": 2778403623,
+                            "AuN": "gaetano berruto"
+                        }
+                    ],
+                    "title": "quale dialetto per l italia del duemila aspetti dell italianizzazione e risorgenze dialettali in piemonte e altrove",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1523757152,
+                    "author": [
+                        {
+                            "AuId": 2142946733,
+                            "AuN": "corrado grassi"
+                        },
+                        {
+                            "AuId": 2628724901,
+                            "AuN": "alberto sobrero"
+                        },
+                        {
+                            "AuId": 2114667376,
+                            "AuN": "tullio telmon"
+                        }
+                    ],
+                    "title": "fondamenti di dialettologia italiana",
+                    "year_mag": 1997
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.6092/LEF_32_P51",
+            "journal": "LINGUISTICA E FILOLOGIA",
+            "title": "uso dei dialetti nella segnaletica stradale con nomi di localita una panoramica sui comuni della provincia di bergamo",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1948-5425"
+            ],
+            "PId": 1993142872,
+            "cited": [
+                {
+                    "PId": 3106549878,
+                    "author": [
+                        {
+                            "AuId": 2691785227,
+                            "AuN": "peter auer"
+                        }
+                    ],
+                    "title": "code switching in conversation language interaction and identity",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 96394439,
+                    "author": [
+                        {
+                            "AuId": 2691785227,
+                            "AuN": "peter auer"
+                        }
+                    ],
+                    "doi": "10.4324/9780203017883-6",
+                    "title": "introduction bilingual conversation revisited",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2561254266,
+                    "author": [
+                        {
+                            "AuId": 1995666626,
+                            "AuN": "heinz kloss"
+                        }
+                    ],
+                    "title": "abstand languages and ausbau languages",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2167806774,
+                    "author": [
+                        {
+                            "AuId": 2161658281,
+                            "AuN": "mohamed h abdulaziz"
+                        },
+                        {
+                            "AuId": 2666482081,
+                            "AuN": "ken osinde"
+                        }
+                    ],
+                    "doi": "10.1515/IJSL.1997.125.43",
+                    "journal": "international journal of the sociology of language",
+                    "title": "sheng and engsh development of mixed codes among the urban youth in kenya",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2000086828,
+                    "author": [
+                        {
+                            "AuId": 2157618206,
+                            "AuN": "sarah g thomason"
+                        }
+                    ],
+                    "doi": "10.1163/000000007792548387",
+                    "journal": "journal of language contact",
+                    "title": "language contact and deliberate change",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2126834378,
+                    "author": [
+                        {
+                            "AuId": 54438461,
+                            "AuN": "david d laitin"
+                        }
+                    ],
+                    "doi": "10.2307/2944799",
+                    "journal": "american political science review",
+                    "title": "the tower of babel as a coordination game political linguistics in ghana",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2568277709,
+                    "author": [
+                        {
+                            "AuId": 2702578538,
+                            "AuN": "rita franceschini"
+                        }
+                    ],
+                    "title": "code switching and the notion of code in linguistics proposals for a dual focus model",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1485057579,
+                    "author": [
+                        {
+                            "AuId": 2702414450,
+                            "AuN": "pieter muysken"
+                        }
+                    ],
+                    "title": "ethnolects as a multidimensional phenomenon",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2567952304,
+                    "author": [
+                        {
+                            "AuId": 2571510399,
+                            "AuN": "melissa g moyer"
+                        }
+                    ],
+                    "doi": "10.4324/9780203017883-16",
+                    "title": "bilingual conversation strategies in gibraltar",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2090166048,
+                    "author": [
+                        {
+                            "AuId": 2310201359,
+                            "AuN": "p e h hair"
+                        },
+                        {
+                            "AuId": 2649837719,
+                            "AuN": "john spencer"
+                        }
+                    ],
+                    "doi": "10.2307/216979",
+                    "journal": "international journal of african historical studies",
+                    "title": "the english language in west africa",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 1994014545,
+                    "author": [
+                        {
+                            "AuId": 3106691555,
+                            "AuN": "david crystal"
+                        }
+                    ],
+                    "title": "the english language",
+                    "year_mag": 1912
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "8"
+            },
+            "doi": "10.5296/IJL.V4I1.1417",
+            "journal": "INTERNATIONAL JOURNAL OF LINGUISTICS",
+            "title": " english koraa yede twi mixe is the variety of akan spoken by ghanaian immigrants in northern italy developing into a mixed code ",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "978-88-7186-396-2"
+            ],
+            "cited_raw": [
+                {
+                    "@position": "1",
+                    "rawText": {
+                        "$": "1990 Sociolinguistics and Contemporary French, Cambridge University Press, Cambridge."
+                    }
+                },
+                {
+                    "@position": "2",
+                    "rawText": {
+                        "$": "2008 French and France: language and the state, in Guus Extra, Durk Gorter (eds.), Multilingual e urope: Facts and Policies. De Gruyter, Berlin/New York, pp. 87-110."
+                    }
+                },
+                {
+                    "@position": "3",
+                    "rawText": {
+                        "$": "2010 Western e urope, in Joshua Fishman e o felia Garc\u00eca (eds.), Handbook of l anguage and e thnic identity. d isciplinary and r egional Perspectives, Vol. I, o xford University Press, o xford, pp. 207-220"
+                    }
+                },
+                {
+                    "@position": "4",
+                    "rawText": {
+                        "$": "1987 l ingua, dialetto, diglossia, dilal\u00eca, in Holtus G\u00fcnter e Kramer Johannes (Hrsg.), r omania et Slavia adriatica. Festschrift f\u00fcr Zarko Muljac\u02c7ic\u02b9. Buske, Hamburg, pp. 57-81."
+                    }
+                },
+                {
+                    "@position": "5",
+                    "rawText": {
+                        "$": "2007 Miserie e grandezze dello standard. Considerazioni sulla nozione di standard in linguistica e sociolinguistica, in Piera Molinelli (a cura di), Standard e non standard tra scelta e norma, Atti del XXX Convegno della Societ\u00e0 Italiana di Glottologia, Il Calamo, r oma, pp. 13-41."
+                    }
+                },
+                {
+                    "@position": "6",
+                    "rawText": {
+                        "$": "2007 e volutions m\u00e9thodologiques, th\u00e9oriques et \u00e9pist\u00e9mologiques de la \u201cdialectologie\u201d en France (et ailleurs), in Gianmario r aimondi, Luisa r evelli (a cura di), l a dialectologie aujourd'hui, Atti del Convegno Internazionale 'Dove va la dialettologia?', Edizioni dell'o rso, Alessandria, pp. 13-18."
+                    }
+                },
+                {
+                    "@position": "7",
+                    "rawText": {
+                        "$": "1999 d ictionnaire du fran\u00e7ais r\u00e9gional de Haute-Bretagne. d e Vannes \u00e0 Saint-Malo, de n antes \u00e0 Saint-Brieuc, Bonneton, Paris."
+                    }
+                },
+                {
+                    "@position": "8",
+                    "rawText": {
+                        "$": "1966 Histoire de la langue fran\u00e7ais, Colin, Paris."
+                    }
+                },
+                {
+                    "@position": "9",
+                    "rawText": {
+                        "$": "1981 l es parlers ruraux de la r\u00e9gion n ord-Picardie: situation sociolinguistique, \u201cInternational Journal of the Sociology of Language\u201d 29, pp. 15-28."
+                    }
+                },
+                {
+                    "@position": "10",
+                    "rawText": {
+                        "$": "2011 r egional varieties of italian in the linguistic repertoire, \u201cInternational Journal of the Sociology of Language\u201d 210, pp. 9-28."
+                    }
+                },
+                {
+                    "@position": "11",
+                    "rawText": {
+                        "$": "1981 l os conceptos de 'dialecto', 'nivel' y 'estilo de lengua' y el sentido propio de la dialectologia, \u201cLing\u00fcistica espa\u00f1ola actual\u201d III/1, pp. 1-32."
+                    }
+                },
+                {
+                    "@position": "12",
+                    "rawText": {
+                        "$": "2004 \u00abl 'patois s'apprind tout seu\u00bb: les pi\u00e8ges de l'enseignement du picard, \u201cELA. \u00c9tudes de linguistique appliqu\u00e9e\u201d 4/136, pp. 487-498."
+                    }
+                },
+                {
+                    "@position": "13",
+                    "rawText": {
+                        "$": "2008 t he constellation of languages in e urope: an inclusive approach, in Extra, Guus e Gorter Durk (eds.), Multilingual e urope: Facts and Policies, Mouton de Gruyter, Berlin-New York, pp. 3-60."
+                    }
+                },
+                {
+                    "@position": "14",
+                    "rawText": {
+                        "$": "2001 Fondamenti di dialettologia italiana, Laterza, r oma / Bari"
+                    }
+                },
+                {
+                    "@position": "15",
+                    "rawText": {
+                        "$": "2011 l anguage policy and ideology in italy, \u201cInternational Journal of the Sociology of Language\u201d 210, pp. 109-126."
+                    }
+                },
+                {
+                    "@position": "16",
+                    "rawText": {
+                        "$": "2009 d edialectalization in France: convergence and divergence, \u201cInternational Journal of the Sociology of Language\u201d 196-197, pp. 157-180."
+                    }
+                },
+                {
+                    "@position": "17",
+                    "rawText": {
+                        "$": "1967 \u201cAbstand languages\u201d and \u201cAusbau languages\u201d, \u201cAnthropological Linguistics\u201d 9, pp. 29-41."
+                    }
+                },
+                {
+                    "@position": "18",
+                    "rawText": {
+                        "$": "2011 \u00c9tat Pr\u00e9sent. d iatopic variation and the study of regional French, \u201cFrench Studies\u201d LXV /4, pp. 505-514."
+                    }
+                },
+                {
+                    "@position": "19",
+                    "rawText": {
+                        "$": "1992 Fantasia in pantofole, in Brogyanyi, Bela e Lipp, r einer (eds.), Historical Philology. Greek, l atin and r omance, Papers in honor of o swald Szemer\u00e9nyi, Benjamins, Amsterdam, pp. 113-123."
+                    }
+                },
+                {
+                    "@position": "20",
+                    "rawText": {
+                        "$": "1993 French: From dialect to standard, r outledge, London."
+                    }
+                },
+                {
+                    "@position": "21",
+                    "rawText": {
+                        "$": "2004 A sociolinguistic history of Parisian French, Cambridge University Press, Cambridge."
+                    }
+                },
+                {
+                    "@position": "22",
+                    "rawText": {
+                        "$": "1979 Quelques probl\u00e8mes de l'h\u00e9g\u00e9monie culturelle en France: langue nationale et langues r\u00e9gionales, \u201cInternational Journal of the Sociology of Language\u201d 21, pp. 63-80."
+                    }
+                },
+                {
+                    "@position": "23",
+                    "rawText": {
+                        "$": "1974 introduction \u00e0 la Sociolinguistique. l a linguistique sociale, Larousse, Paris."
+                    }
+                },
+                {
+                    "@position": "24",
+                    "rawText": {
+                        "$": "1997 Sociolinguistique. Concepts de base, Mardaga, Sprimont."
+                    }
+                },
+                {
+                    "@position": "25",
+                    "rawText": {
+                        "$": "2007 Una dialettologia oltre i dialetti?, in r aimondi, Gianmario e r evelli, Luisa (a cura di), l a dialectologie aujourd'hui, Atti del Convegno Internazionale \u201cDove va la dialettologia?\u201d, Edizioni dell'o rso, Alessandria, pp. 61-67."
+                    }
+                },
+                {
+                    "@position": "26",
+                    "rawText": {
+                        "$": "1997 t he relationship between the dialects and the standard language, in Maiden, Martin e Parry, Mair (eds.), t he dialects of italy, r outledge, London / New York, pp. 387-393."
+                    }
+                },
+                {
+                    "@position": "27",
+                    "rawText": {
+                        "$": "2010 l e nouveau petit r obert:dictionnaire alphab\u00e9tique et analogique de la langue fran\u00e7aise, Le r obert, Paris."
+                    }
+                },
+                {
+                    "@position": "28",
+                    "rawText": {
+                        "$": "1981 introduction. r egional languages in France: current research in rural situations, \u201cInternational Journal of the Sociology of Language\u201d 29, pp. 5-14."
+                    }
+                },
+                {
+                    "@position": "29",
+                    "rawText": {
+                        "$": "1997a l es enjeux de la nomination des langues. Pr\u00e9sentation, in TabouretKeller, Andr\u00e9e (\u00e9d.), l e nom des langues i. l es enjeux de la nomination des langues, Peeters Louvain-la-Neuve, Leuven, pp. 5-20."
+                    }
+                },
+                {
+                    "@position": "30",
+                    "rawText": {
+                        "$": "1997b l es langues r\u00e9gionales comme objet d'\u00e9criture dans les textes l\u00e9gislatifs fran\u00e7ais, entre 1951 et 1983, in Labrie, Normand (\u00e9d), e tudes r\u00e9centes en linguistique de contact, D\u00fcmmler, Bonn, pp. 376-390."
+                    }
+                },
+                {
+                    "@position": "31",
+                    "rawText": {
+                        "$": "1999 l 'existence incertaine des langues r\u00e9gionales en France, in Blanchet Philippe, Breton r oland e Schiffman Harold (\u00e9ds.), l es langues r\u00e9gionales de France: un \u00e9tat des lieux \u00e0 la veille du XXie si\u00e8cle, Peeters Louvain-la-Neuve, Leuven, pp. 95-111."
+                    }
+                },
+                {
+                    "@position": "32",
+                    "rawText": {
+                        "$": "2006 \u00e0 propos de la notion de diglossie. l a malencontreuse opposition entre \u00abhaute\u00bb et \u00abbasse\u00bb: ses sources et ses effets, \u201cLangage et soci\u00e9t\u00e9\u201d 118/4, pp. 109-128."
+                    }
+                },
+                {
+                    "@position": "33",
+                    "rawText": {
+                        "$": "2003 A French taste for theories, \u201cInternational Journal of the Sociology of Language\u201d 160, pp. 3-16."
+                    }
+                },
+                {
+                    "@position": "34",
+                    "rawText": {
+                        "$": "1999 On the trail of France's regional languages, in Blanchet Philippe, Breton r oland e Schiffman Harold (\u00e9ds.), l es langues r\u00e9gionales de France: un \u00e9tat des lieux \u00e0 la veille du XXie si\u00e8cle, Peeters Louvainla-Neuve, Leuven, pp. 15-31."
+                    }
+                },
+                {
+                    "@position": "35",
+                    "rawText": {
+                        "$": "2007 Pr\u00e9sence des langues r\u00e9gionales, \u201cLe D\u00e9bat\u201d 144, pp. 165-176."
+                    }
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "title": " lingua e dialetto nella sociolinguistica italiana e nella sociolinguistica francese una nota terminologica",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "10"
+            },
+            "doi": "10.1017/cbo9780511979026.027",
+            "title": "literacy and writing reform",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "0165-2516"
+            ],
+            "PId": 2118688865,
+            "cited": [
+                {
+                    "PId": 628853591,
+                    "author": [
+                        {
+                            "AuId": 2012137537,
+                            "AuN": "elana shohamy"
+                        }
+                    ],
+                    "title": "language policy hidden agendas and new approaches",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2561254266,
+                    "author": [
+                        {
+                            "AuId": 1995666626,
+                            "AuN": "heinz kloss"
+                        }
+                    ],
+                    "title": "abstand languages and ausbau languages",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2062783322,
+                    "author": [
+                        {
+                            "AuId": 328979055,
+                            "AuN": "william labov"
+                        }
+                    ],
+                    "title": "the social stratification of english in new york city",
+                    "year_mag": 1966
+                },
+                {
+                    "PId": 2896214236,
+                    "author": [
+                        {
+                            "AuId": 112133388,
+                            "AuN": "bernard spolsky"
+                        }
+                    ],
+                    "doi": "10.4324/9780203930960-8",
+                    "title": "prolegomena to a sociolinguistic theory of public signage",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1587891015,
+                    "author": [
+                        {
+                            "AuId": 2626905753,
+                            "AuN": "g extra"
+                        },
+                        {
+                            "AuId": 2164298325,
+                            "AuN": "durk gorter"
+                        }
+                    ],
+                    "title": "the constellation of languages in europe an inclusive approach",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2057407667,
+                    "author": [
+                        {
+                            "AuId": 2135263732,
+                            "AuN": "april linton"
+                        }
+                    ],
+                    "doi": "10.1515/IJSL.2009.033",
+                    "journal": "international journal of the sociology of language",
+                    "title": "language politics and policy in the united states implications for the immigration debate",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1585882422,
+                    "author": [
+                        {
+                            "AuId": 2687218782,
+                            "AuN": "gaetano berruto"
+                        }
+                    ],
+                    "title": "sociolinguistica dell italiano contemporaneo",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 579352957,
+                    "author": [
+                        {
+                            "AuId": 2102344694,
+                            "AuN": "robert s kaplan"
+                        },
+                        {
+                            "AuId": 2136443718,
+                            "AuN": "richard b baldauf"
+                        }
+                    ],
+                    "title": "language planning and policy in europe",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2592076566,
+                    "author": [
+                        {
+                            "AuId": 2791258525,
+                            "AuN": "elena pistolesi"
+                        }
+                    ],
+                    "title": "il parlar spedito l italiano di chat e mail e sms",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2777209074,
+                    "author": [
+                        {
+                            "AuId": 2778403623,
+                            "AuN": "gaetano berruto"
+                        }
+                    ],
+                    "title": "quale dialetto per l italia del duemila aspetti dell italianizzazione e risorgenze dialettali in piemonte e altrove",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 641602684,
+                    "author": [
+                        {
+                            "AuId": 103165065,
+                            "AuN": "stefano allievi"
+                        }
+                    ],
+                    "title": "le parole della lega il movimento politico che vuole un altra italia",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1972191754,
+                    "author": [
+                        {
+                            "AuId": 1968378091,
+                            "AuN": "arturo tosi"
+                        }
+                    ],
+                    "doi": "10.1080/14664200408668259",
+                    "journal": "current issues in language planning",
+                    "title": "the language situation in italy",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2492235963,
+                    "author": [
+                        {
+                            "AuId": 2200027228,
+                            "AuN": "monica barni"
+                        },
+                        {
+                            "AuId": 2097393437,
+                            "AuN": "carla bagna"
+                        }
+                    ],
+                    "doi": "10.1515/9783110208351.4.293",
+                    "title": "immigrant languages in italy",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 575666129,
+                    "author": [
+                        {
+                            "AuId": 2005826385,
+                            "AuN": "alberto a sobrero"
+                        },
+                        {
+                            "AuId": 2144560891,
+                            "AuN": "annarita miglietta"
+                        }
+                    ],
+                    "title": "lingua e dialetto nell italia del duemila",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2980309046,
+                    "author": [
+                        {
+                            "AuId": 2687218782,
+                            "AuN": "gaetano berruto"
+                        }
+                    ],
+                    "title": "sulla vitalita sociolinguistica del dialetto oggi",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2152930879,
+                    "author": [
+                        {
+                            "AuId": 2202700080,
+                            "AuN": "tullio de mauro"
+                        }
+                    ],
+                    "doi": "10.2307/411929",
+                    "journal": "language",
+                    "title": "storia linguistica dell italia unita",
+                    "year_mag": 1964
+                },
+                {
+                    "PId": 2473670158,
+                    "author": [
+                        {
+                            "AuId": 2118235495,
+                            "AuN": "giuliana fiorentino"
+                        }
+                    ],
+                    "doi": "10.1400/90309",
+                    "title": "dialetti in rete",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1475279599,
+                    "author": [
+                        {
+                            "AuId": 2140730124,
+                            "AuN": "elisa patrucco"
+                        }
+                    ],
+                    "doi": "10.1400/90290",
+                    "title": "sul dialetto in internet",
+                    "year_mag": 2004
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2421103456,
+                    "author": [
+                        {
+                            "AuId": 2635551641,
+                            "AuN": "andrea r leone"
+                        }
+                    ],
+                    "title": "outlooks in italy clil as language education policy",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2092281658,
+                    "author": [
+                        {
+                            "AuId": 2243760418,
+                            "AuN": "stephanie v love"
+                        }
+                    ],
+                    "doi": "10.1080/14664208.2014.947017",
+                    "title": "language testing integration and subtractive multilingualism in italy challenges for adult immigrant second language and literacy education",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 3009849260,
+                    "author": [
+                        {
+                            "AuId": 1607167445,
+                            "AuN": "john m lipski"
+                        }
+                    ],
+                    "doi": "10.1075/COLL.56",
+                    "title": "palenquero and spanish in contact exploring the interface",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2055758391,
+                    "author": [
+                        {
+                            "AuId": 2305108678,
+                            "AuN": "anna ghimenton"
+                        }
+                    ],
+                    "doi": "10.1163/19552629-006001010",
+                    "title": "quantitative approaches to italian dialect family interactions considerations of methodology and language transmission in a contact situation",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2489511892,
+                    "author": [
+                        {
+                            "AuId": 2106259426,
+                            "AuN": "roger penn"
+                        }
+                    ],
+                    "doi": "10.1080/16138171.2016.1183931",
+                    "title": "football talk sociological reflections on the dialectics of language and football",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2183152539,
+                    "author": [
+                        {
+                            "AuId": 2907339830,
+                            "AuN": "andrea r leone"
+                        }
+                    ],
+                    "title": "ideologies of personhood a citizen sociolinguistic case study of the roman dialect",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2216753382,
+                    "author": [
+                        {
+                            "AuId": 2654048879,
+                            "AuN": "lionel chan"
+                        }
+                    ],
+                    "title": "non standard italian dialect heritage speakers acquisition of clitic placement in standard italian",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2002834414,
+                    "author": [
+                        {
+                            "AuId": 2722485208,
+                            "AuN": "federica guerini"
+                        }
+                    ],
+                    "doi": "10.2478/OPLI-2014-0010",
+                    "title": "being a former second world war partisan reported speech and the expression of local identity",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2342201518,
+                    "author": [
+                        {
+                            "AuId": 2335781181,
+                            "AuN": "cuny academic works"
+                        }
+                    ],
+                    "title": "non standard italian dialect heritage speakers acquisition of clitic placement in standard italian",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 68493458,
+                    "author": [
+                        {
+                            "AuId": 2685682759,
+                            "AuN": "maya angela smith"
+                        }
+                    ],
+                    "title": "multilingual practices of senegalese immigrants in paris and rome a comparative study of language use and identity construction",
+                    "year_mag": 2013
+                }
+            ],
+            "cv_id": {
+                "pubbs": "11",
+                "pubbs_ind": "11"
+            },
+            "doi": "10.1515/IJSL.2011.033",
+            "journal": "INTERNATIONAL JOURNAL OF THE SOCIOLOGY OF LANGUAGE",
+            "title": "language policy and ideology in italy",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "0390-6809"
+            ],
+            "PId": 1701018166,
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "12"
+            },
+            "journal": "STUDI ITALIANI DI LINGUISTICA TEORICA E APPLICATA",
+            "title": "variazione e immigrazione in italia prospettive di ricerca",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-8846-72847-0"
+            ],
+            "PId": 2892980154,
+            "cv_id": {
+                "pubbs_ind": "13"
+            },
+            "title": "a west african onomastic system akan traditional personal name system in ghana ",
+            "type": "contributo in atti di convegno",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "1594-6517"
+            ],
+            "PId": 2241289380,
+            "cited": [
+                {
+                    "PId": 2071188151,
+                    "author": [
+                        {
+                            "AuId": 2041916716,
+                            "AuN": "deborah tannen"
+                        }
+                    ],
+                    "title": "talking voices repetition dialogue and imagery in conversational discourse",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2011069026,
+                    "author": [
+                        {
+                            "AuId": 2601900250,
+                            "AuN": "ralph w fasold"
+                        }
+                    ],
+                    "title": "the sociolinguistics of society",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 128042,
+                    "author": [
+                        {
+                            "AuId": 2693942403,
+                            "AuN": "judith t irvine"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511613258.002",
+                    "title": "style and sociolinguistic variation style as distinctiveness the culture and ideology of linguistic differentiation",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 118808038,
+                    "author": [
+                        {
+                            "AuId": 3024025017,
+                            "AuN": "auer"
+                        },
+                        {
+                            "AuId": 3025345096,
+                            "AuN": "peter"
+                        }
+                    ],
+                    "title": "style and social identities alternative approaches to linguistic heterogeneity",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2110126743,
+                    "author": [
+                        {
+                            "AuId": 2579321933,
+                            "AuN": "robert le page"
+                        }
+                    ],
+                    "doi": "10.1017/S0266078400002418",
+                    "journal": "english today",
+                    "title": "acts of identity",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 1484061886,
+                    "author": [
+                        {
+                            "AuId": 2096360604,
+                            "AuN": "magnus huber"
+                        }
+                    ],
+                    "title": "ghanaian pidgin english in its west african context a sociohistorical and structural analysis",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2504641304,
+                    "author": [
+                        {
+                            "AuId": 2691785227,
+                            "AuN": "peter auer"
+                        }
+                    ],
+                    "doi": "10.1515/9783110198508",
+                    "title": "style and social identities",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2974121967,
+                    "author": [
+                        {
+                            "AuId": 2687218782,
+                            "AuN": "gaetano berruto"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511486623.005",
+                    "title": "dialect standard convergence mixing and models of language contact the case of italy",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2782996994,
+                    "author": [
+                        {
+                            "AuId": 2642775091,
+                            "AuN": "federica guerini"
+                        }
+                    ],
+                    "title": "multilingualism and language attitudes in ghana a preliminary survey",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2273638859,
+                    "author": [
+                        {
+                            "AuId": 2412198352,
+                            "AuN": "benjamin bailey"
+                        }
+                    ],
+                    "title": "language alternation as a resource for identity negotiations among dominican american bilinguals",
+                    "year_mag": 2007
+                }
+            ],
+            "cv_id": {
+                "pubbs": "13",
+                "pubbs_ind": "14"
+            },
+            "doi": "10.6092/LEF_29_P61",
+            "journal": "LINGUISTICA E FILOLOGIA",
+            "title": "polyphony in multilingual interactions code switching in reported speech among ghanaian immigrants in bergamo",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "0390-6809"
+            ],
+            "PId": 2248063394,
+            "cv_id": {
+                "pubbs": "12",
+                "pubbs_ind": "15"
+            },
+            "journal": "STUDI ITALIANI DI LINGUISTICA TEORICA E APPLICATA",
+            "title": "repertori complessi e atteggiamenti linguistici gli immigrati di origine ghanese in provincia di bergamo",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-88-557-0263-8"
+            ],
+            "PId": 2240955719,
+            "cv_id": {
+                "pubbs_ind": "16"
+            },
+            "title": "la grafia unificata dei dialetti akan akan unified orthography costi e benefici dell armonizzazione ortografica",
+            "type": "contributo in atti di convegno",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-88-548-1209-3"
+            ],
+            "cv_id": {
+                "pubbs": "14",
+                "pubbs_ind": "17"
+            },
+            "title": "contatto dinamiche e esiti del plurilinguismo ",
+            "type": "monografia o trattato scientifico",
+            "year": 2007
+        },
+        {
+            "ISBN": [
+                "303910988X"
+            ],
+            "cv_id": {
+                "pubbs": "15",
+                "pubbs_ind": "18"
+            },
+            "title": "language alternation strategies in multilingual setting a case study ghanaian immigrants in northern italy ",
+            "type": "monografia o trattato scientifico",
+            "year": 2006
+        },
+        {
+            "ISSN": [
+                "2283-7736"
+            ],
+            "PId": 2277648170,
+            "cv_id": {
+                "pubbs": "4"
+            },
+            "journal": "ANNALI DI STORIA BRESCIANA",
+            "title": "italiano e dialetto nei racconti degli ex partigiani in valle camonica osservazioni preliminari",
+            "type": "articolo in rivista",
+            "year": 2015
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2898815280,
+            "cited": [
+                {
+                    "PId": 1995053097,
+                    "author": [
+                        {
+                            "AuId": 2160836375,
+                            "AuN": "adrienne lo"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9481.00091",
+                    "journal": "journal of sociolinguistics",
+                    "title": "codeswitching speech community membership and the construction of ethnic identity",
+                    "year_mag": 1999
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Ramat",
+                            "given": "Anna Giacalone",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511620867.003",
+                    "title": "code switching in the context of dialect standard language relations",
+                    "year_oc": 1995
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2974359799,
+                    "author": [
+                        {
+                            "AuId": 2313495155,
+                            "AuN": "andrea ciribuco"
+                        }
+                    ],
+                    "doi": "10.1080/14781700.2019.1662837",
+                    "journal": "translation studies",
+                    "title": "how do you say kelen kelen in italian migration landscape and untranslatable food",
+                    "year_mag": 2020
+                }
+            ],
+            "doi": "10.1515/IJSL-2018-0035",
+            "journal": "international journal of the sociology of language",
+            "title": "it sounds like the language spoken by those living by the seaside language attitudes towards the local italo romance variety of ghanaian immigrants in bergamo",
+            "type": "1",
+            "year_mag": 2018
+        },
+        {
+            "PId": 1987681377,
+            "cited": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Central Institute of Indian Languages, Mysore"
+                                }
+                            ],
+                            "family": "Bhat",
+                            "given": "D.N.S.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.49",
+                    "title": "the prominence of tense aspect and mood",
+                    "year_oc": 1999
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Contini-Morava",
+                            "given": "Ellen",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/9783110889031",
+                    "title": "discourse pragmatics and semantic categorization",
+                    "year_oc": 1989
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 1981125327,
+                    "author": [
+                        {
+                            "AuId": 2166749051,
+                            "AuN": "astrid de wit"
+                        },
+                        {
+                            "AuId": 2505434423,
+                            "AuN": "frank brisard"
+                        }
+                    ],
+                    "doi": "10.1075/JPCL.29.1.01WIT",
+                    "journal": "journal of pidgin and creole languages",
+                    "title": "zero verb marking in sranan",
+                    "year_mag": 2014
+                }
+            ],
+            "doi": "10.1075/SL.33.1.12GUE",
+            "journal": "studies in language",
+            "title": "ameka felix k kropp dakubu m e eds 2008 aspect and modality in kwa languages",
+            "type": "1",
+            "year_mag": 2009
+        },
+        {
+            "PId": 2782996994,
+            "cited": [
+                {
+                    "PId": 110038469,
+                    "author": [
+                        {
+                            "AuId": 714250694,
+                            "AuN": "suzanne romaine"
+                        }
+                    ],
+                    "doi": "10.1016/B0-08-044854-2/01301-8",
+                    "title": "reversing language shift",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 636649538,
+                    "author": [
+                        {
+                            "AuId": 2080548069,
+                            "AuN": "herman m batibo"
+                        }
+                    ],
+                    "title": "language decline and death in africa causes consequences and challenges",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2051963151,
+                    "author": [
+                        {
+                            "AuId": 2588502452,
+                            "AuN": "colin baker"
+                        }
+                    ],
+                    "title": "attitudes and language",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2468479310,
+                    "author": [
+                        {
+                            "AuId": 2468761498,
+                            "AuN": "charles owuewie"
+                        }
+                    ],
+                    "title": "the language policy of education inghana a critical look at the english only language policy of education",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2084302054,
+                    "author": [
+                        {
+                            "AuId": 2107970562,
+                            "AuN": "r c gardner"
+                        },
+                        {
+                            "AuId": 2157453393,
+                            "AuN": "wallace e lambert"
+                        }
+                    ],
+                    "title": "attitudes and motivation in second language learning",
+                    "year_mag": 1972
+                },
+                {
+                    "PId": 2110126743,
+                    "author": [
+                        {
+                            "AuId": 2579321933,
+                            "AuN": "robert le page"
+                        }
+                    ],
+                    "doi": "10.1017/S0266078400002418",
+                    "journal": "english today",
+                    "title": "acts of identity",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2332155266,
+                    "author": [
+                        {
+                            "AuId": 2605568689,
+                            "AuN": "kropp dakubu"
+                        }
+                    ],
+                    "title": "the languages of ghana",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1568426518,
+                    "author": [
+                        {
+                            "AuId": 2691364454,
+                            "AuN": "r e asher"
+                        },
+                        {
+                            "AuId": 2558149230,
+                            "AuN": "christopher moseley"
+                        },
+                        {
+                            "AuId": 1499530910,
+                            "AuN": "giles darkes"
+                        }
+                    ],
+                    "doi": "10.4324/9781315829845",
+                    "title": "atlas of the world s languages",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1484061886,
+                    "author": [
+                        {
+                            "AuId": 2096360604,
+                            "AuN": "magnus huber"
+                        }
+                    ],
+                    "title": "ghanaian pidgin english in its west african context a sociohistorical and structural analysis",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 1578515533,
+                    "author": [
+                        {
+                            "AuId": 2652465028,
+                            "AuN": "efurosibina e adegbija"
+                        }
+                    ],
+                    "title": "language attitudes in sub saharan africa a sociolinguistic overview",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2026663847,
+                    "author": [
+                        {
+                            "AuId": 12701822,
+                            "AuN": "kari dako"
+                        }
+                    ],
+                    "doi": "10.1075/EWW.22.1.03DAK",
+                    "journal": "english world wide",
+                    "title": "ghanaianisms towards a semantic and a formal classification",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2799439656,
+                    "author": [
+                        {
+                            "AuId": 2800917818,
+                            "AuN": "federica guerini"
+                        }
+                    ],
+                    "title": "language alternation strategies in multilingual setting a case study ghanaian immigrants in northern italy",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2077897031,
+                    "author": [
+                        {
+                            "AuId": 2718578977,
+                            "AuN": "efurosibina adegbija"
+                        }
+                    ],
+                    "doi": "10.1515/IJSL.2000.141.75",
+                    "journal": "international journal of the sociology of language",
+                    "title": "language attitudes in west africa",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1979126885,
+                    "author": [
+                        {
+                            "AuId": 2167128335,
+                            "AuN": "joshua a fishman"
+                        }
+                    ],
+                    "title": "in praise of the beloved language a comparative view of positive ethnolinguistic consciousness",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 1973985414,
+                    "author": [
+                        {
+                            "AuId": 3049041851,
+                            "AuN": "kari dako"
+                        }
+                    ],
+                    "doi": "10.1017/S0266078402003073",
+                    "journal": "english today",
+                    "title": "code switching and lexical borrowing which is what in ghanaian english",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2115240891,
+                    "author": [
+                        {
+                            "AuId": 251846356,
+                            "AuN": "felix k ameka"
+                        }
+                    ],
+                    "doi": "10.1017/S0041977X0001836X",
+                    "journal": "bulletin of the school of oriental and african studies university of london",
+                    "title": "review of m e kropp dakubu korle meets the sea a sociolinguistic history of accra",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2058397060,
+                    "author": [
+                        {
+                            "AuId": 2257231318,
+                            "AuN": "m e kropp dakubu"
+                        }
+                    ],
+                    "doi": "10.2307/417488",
+                    "journal": "language",
+                    "title": "korle meets the sea a sociolinguistic history of accra",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2059533926,
+                    "author": [
+                        {
+                            "AuId": 2671747799,
+                            "AuN": "samuel a dseagu"
+                        }
+                    ],
+                    "doi": "10.1080/00138399608691245",
+                    "journal": "english studies in africa",
+                    "title": "english in ghana",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2472278574,
+                    "author": [
+                        {
+                            "AuId": 2698616075,
+                            "AuN": "federica guerini"
+                        }
+                    ],
+                    "title": "la lingua degli immigrati ghanesi in provincia di bergamo verso la formazione di un mixed code",
+                    "year_mag": 2002
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2587791557,
+                    "author": [
+                        {
+                            "AuId": 2181670391,
+                            "AuN": "modestus fosu"
+                        }
+                    ],
+                    "doi": "10.4314/GJL.V5I1.62",
+                    "title": "a linguistic description of the language of ghanaian newspapers implications for the readability comprehensibility and information function of the ghanaian press",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2071638455,
+                    "author": [
+                        {
+                            "AuId": 1552442365,
+                            "AuN": "herbert igboanusi"
+                        }
+                    ],
+                    "doi": "10.1080/13670050.2013.851642",
+                    "title": "the english only language education policy in the gambia and low literacy rates",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1952893738,
+                    "author": [
+                        {
+                            "AuId": 1824346984,
+                            "AuN": "jo arthur shoba"
+                        },
+                        {
+                            "AuId": 12701822,
+                            "AuN": "kari dako"
+                        },
+                        {
+                            "AuId": 214442281,
+                            "AuN": "elizabeth orfsonoffei"
+                        }
+                    ],
+                    "doi": "10.1111/WENG.12021",
+                    "title": "locally acquired foreign accent lafa in contemporary ghana",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2133417455,
+                    "author": [
+                        {
+                            "AuId": 2742290515,
+                            "AuN": "laura rupp"
+                        }
+                    ],
+                    "doi": "10.1017/S0266078413000412",
+                    "title": "the function of student pidgin in ghana",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2047413328,
+                    "author": [
+                        {
+                            "AuId": 2046299110,
+                            "AuN": "charles owuewie"
+                        },
+                        {
+                            "AuId": 2654309810,
+                            "AuN": "dora f edubuandoh"
+                        }
+                    ],
+                    "doi": "10.4314/GJL.V3I2.1",
+                    "title": "living with negative attitudes towards the study of l1 in ghanaian senior high schools shs",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1552515912,
+                    "author": [
+                        {
+                            "AuId": 2076816359,
+                            "AuN": "ziyad ahmed ibraheem tanni"
+                        }
+                    ],
+                    "doi": "10.5430/WJE.V5N3P139",
+                    "title": "attitudes toward english among al quds open university students in tulkarm branch",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2550587306,
+                    "author": [
+                        {
+                            "AuId": 2186122934,
+                            "AuN": "yann yann puah"
+                        },
+                        {
+                            "AuId": 2686533857,
+                            "AuN": "suhie ting"
+                        }
+                    ],
+                    "doi": "10.1080/10357823.2016.1249340",
+                    "title": "dominant language ethnicity notions of the malaysian chinese in sarawak paternity or patrimony",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 1503463992,
+                    "author": [
+                        {
+                            "AuId": 2338076900,
+                            "AuN": "eric w wamalwa"
+                        },
+                        {
+                            "AuId": 2117171051,
+                            "AuN": "stanley k adika"
+                        },
+                        {
+                            "AuId": 1506592693,
+                            "AuN": "alex umbima kevogo"
+                        }
+                    ],
+                    "title": "multilingualism and language attitudes students perceptions towards kiswahili in mtwara region of tanzania",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2018940367,
+                    "author": [
+                        {
+                            "AuId": 12701822,
+                            "AuN": "kari dako"
+                        }
+                    ],
+                    "doi": "10.1080/10228195.2014.916741",
+                    "title": "should it be omanhenes amanhenes or amanhene or are they in free variation",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2077163401,
+                    "author": [
+                        {
+                            "AuId": 2803613564,
+                            "AuN": "sima modirkhamene"
+                        }
+                    ],
+                    "doi": "10.7220/2335-2027.5.2",
+                    "title": "attitudes toward bilingualism evidence from different iranian ethno linguistic cohorts",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2127090459,
+                    "author": [
+                        {
+                            "AuId": 1997333415,
+                            "AuN": "taher alavi"
+                        },
+                        {
+                            "AuId": 2443902432,
+                            "AuN": "siamak moradi"
+                        },
+                        {
+                            "AuId": 334510421,
+                            "AuN": "mohammad shahin taghaddomi"
+                        }
+                    ],
+                    "doi": "10.4304/TPLS.1.12.1843-1848",
+                    "title": "the effect s of culturally motivational films on the attitude of iranian students",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2185195831,
+                    "author": [
+                        {
+                            "AuId": 2182195428,
+                            "AuN": "richard t torto"
+                        }
+                    ],
+                    "title": "language choice in communication in a multilingual setting a case study of a cross section of first year students of the university of cape coast ghana",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2241289380,
+                    "author": [
+                        {
+                            "AuId": 2642775091,
+                            "AuN": "federica guerini"
+                        }
+                    ],
+                    "doi": "10.6092/LEF_29_P61",
+                    "title": "polyphony in multilingual interactions code switching in reported speech among ghanaian immigrants in bergamo",
+                    "year_mag": 2009
+                }
+            ],
+            "title": "multilingualism and language attitudes in ghana a preliminary survey",
+            "type": "0",
+            "year_mag": 2008
+        },
+        {
+            "PId": 2311218731,
+            "doi": "10.6092/LEF_35_P181",
+            "title": "scala andrea toponimia orale della comunita di carisolo alta val rendena materiali e analisi edizioni dell orso alessandria 2015",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2342658532,
+            "title": "plurilinguismo e diglossia nella tarda antichita e nel medio evo",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 192725670,
+            "title": "plurilinguismo e diglossia tra tarda antichita e medioevo discussioni e testimonianze",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2796301869,
+            "doi": "10.5167/UZH-112601",
+            "title": "dallo spagnolo all italiano elementi di analisi contrastiva nella prospettiva dell acquisizione",
+            "type": "4",
+            "year_mag": 2004
+        },
+        {
+            "PId": 2575772135,
+            "doi": "10.6092/LEF_36_2016_P117",
+            "journal": "linguistica e filologia",
+            "title": "coulmas florian guardians of language twenty voices through history oxford university press oxford 2016",
+            "type": "1",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2964123609,
+            "title": "su alcuni tratti dell italiano regionale bresciano nel corpus parva",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2832546426,
+            "cited": [
+                {
+                    "PId": 632190174,
+                    "author": [
+                        {
+                            "AuId": 2891893332,
+                            "AuN": "ron scollon"
+                        },
+                        {
+                            "AuId": 2183165972,
+                            "AuN": "suzanne b k scollon"
+                        }
+                    ],
+                    "doi": "10.4324/9780203422724",
+                    "title": "discourses in place language in the material world",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1026484344,
+                    "author": [
+                        {
+                            "AuId": 3017331050,
+                            "AuN": "bernard spolsky"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511626470",
+                    "title": "language management frontmatter",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2170374341,
+                    "author": [
+                        {
+                            "AuId": 2307427065,
+                            "AuN": "rodrigue landry"
+                        },
+                        {
+                            "AuId": 2508368030,
+                            "AuN": "richard y bourhis"
+                        }
+                    ],
+                    "doi": "10.1177/0261927X970161002",
+                    "journal": "journal of language and social psychology",
+                    "title": "linguistic landscape and ethnolinguistic vitality an empirical study",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2112394155,
+                    "author": [
+                        {
+                            "AuId": 2079262507,
+                            "AuN": "barbara johnstone"
+                        }
+                    ],
+                    "doi": "10.1215/00031283-2009-013",
+                    "journal": "american speech",
+                    "title": "pittsburghese shirts commodification and the enregisterment of an urban dialect",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2010000312,
+                    "author": [
+                        {
+                            "AuId": 2164298325,
+                            "AuN": "durk gorter"
+                        }
+                    ],
+                    "doi": "10.1017/S0267190513000020",
+                    "journal": "annual review of applied linguistics",
+                    "title": "linguistic landscapes in a multilingual world",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2117067461,
+                    "author": [
+                        {
+                            "AuId": 2101318852,
+                            "AuN": "jan blommaert"
+                        },
+                        {
+                            "AuId": 2101318852,
+                            "AuN": "jan blommaert"
+                        }
+                    ],
+                    "doi": "10.1111/JOSL.12042",
+                    "journal": "journal of sociolinguistics",
+                    "title": "writing as a sociolinguistic object",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2121718170,
+                    "author": [
+                        {
+                            "AuId": 2096174827,
+                            "AuN": "janet maybin"
+                        }
+                    ],
+                    "doi": "10.1111/JOSL.12047",
+                    "journal": "journal of sociolinguistics",
+                    "title": "working towards a more complete sociolinguistics",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1991205493,
+                    "author": [
+                        {
+                            "AuId": 1825751702,
+                            "AuN": "mark sebba"
+                        }
+                    ],
+                    "doi": "10.1093/WSR/WSP002",
+                    "journal": "writing systems research",
+                    "title": "sociolinguistic approaches to writing systems research",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2142149455,
+                    "author": [
+                        {
+                            "AuId": 2130720570,
+                            "AuN": "alexandra jaffe"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9481.00127",
+                    "journal": "journal of sociolinguistics",
+                    "title": "introduction non standard orthography and non standard speech",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1970154918,
+                    "author": [
+                        {
+                            "AuId": 2120683996,
+                            "AuN": "steven bird"
+                        }
+                    ],
+                    "doi": "10.1075/WLL.4.2.02BIR",
+                    "journal": "written language and literacy",
+                    "title": "orthography and identity in cameroon",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2494209898,
+                    "author": [
+                        {
+                            "AuId": 2499939196,
+                            "AuN": "mark sebba"
+                        }
+                    ],
+                    "doi": "10.1515/9781614511038.1",
+                    "title": "chapter 1 orthography as social action scripts spelling identity and power",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1980586622,
+                    "author": [
+                        {
+                            "AuId": 2409015029,
+                            "AuN": "peter unseth"
+                        }
+                    ],
+                    "doi": "10.1515/IJSL.2008.030",
+                    "journal": "international journal of the sociology of language",
+                    "title": "the sociolinguistics of script choice an introduction",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2122077341,
+                    "author": [
+                        {
+                            "AuId": 2130720570,
+                            "AuN": "alexandra jaffe"
+                        }
+                    ],
+                    "doi": "10.1525/AE.1996.23.4.02A00080",
+                    "journal": "american ethnologist",
+                    "title": "the second annual corsican spelling contest orthography and ideology",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2122079609,
+                    "author": [
+                        {
+                            "AuId": 2130720570,
+                            "AuN": "alexandra jaffe"
+                        }
+                    ],
+                    "doi": "10.1075/PRAG.13.4.04JAF",
+                    "journal": "pragmatics",
+                    "title": "misrecognition unmasked polynomic language expert statuses and orthographic practices in corsican schools",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2494204119,
+                    "author": [
+                        {
+                            "AuId": 2142545003,
+                            "AuN": "jillian r cavanaugh"
+                        }
+                    ],
+                    "doi": "10.1075/SILV.14.03CAV",
+                    "title": "language ideologies and language attitudes a linguistic anthropological perspective",
+                    "year_mag": 2013
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Sebba",
+                            "given": "Mark",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511486739",
+                    "title": "spelling and society",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Coulmas",
+                            "given": "Florian",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139061063",
+                    "title": "writing and society",
+                    "year_oc": 2013
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Johnson",
+                            "given": "Sally",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.21832/9781853597862",
+                    "title": "spelling trouble language ideology and the reform of german orthography",
+                    "year_oc": 2005
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Rafael",
+                            "given": "Eliezer Ben-",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Shohamy",
+                            "given": "Elana",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Amara",
+                            "given": "Muhammad Hasan",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Hecht",
+                            "given": "Nira Trumper-",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.21832/9781853599170-002",
+                    "title": "linguistic landscape as symbolic construction of the public space the case of israel",
+                    "year_oc": 2006
+                }
+            ],
+            "doi": "10.1075/PBNS.292.12GUE",
+            "title": "orthography as an identity marker the case of bilingual road signs in the province of bergamo",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2996367337,
+            "doi": "10.6092/LEF_30_P136",
+            "title": "turchetta barbara a cura di pidgin e creoli introduzione alle lingue di contatto carocci editore roma 2009",
+            "type": "0",
+            "year_mag": 2010
+        },
+        {
+            "PId": 92921852,
+            "title": "recensione a bullock barbara e and toribio almeida jacqueline eds 2009 the cambridge handbook of linguistic code switching cambridge handbook in linguistics series cambridge cambridge university press",
+            "type": "0",
+            "year_mag": 2010
+        },
+        {
+            "PId": 2744493957,
+            "doi": "10.6092/LEF_28_P217",
+            "journal": "linguistica e filologia",
+            "title": "heine bernd nurse derek eds a linguistic geography of africa cambridge university press cambridge 2008 cambridge approaches to language contact",
+            "type": "1",
+            "year_mag": 2009
+        },
+        {
+            "PId": 2138691,
+            "journal": "linguistica e filologia",
+            "title": "heine bernd nurse derek eds 2008 a linguistic geography of africa",
+            "type": "1",
+            "year_mag": 2009
+        },
+        {
+            "PId": 949719383,
+            "doi": "10.6092/LEF_23_P27",
+            "journal": "linguistica e filologia",
+            "title": "plurilinguismo e atteggiamenti linguistici nella comunita di immigrati ghanesi in provincia di bergamo",
+            "type": "1",
+            "year_mag": 2006
+        },
+        {
+            "PId": 3004876522,
+            "title": "italiano e lingue immigrate a confronto riflessioni per la pratica didattica atti del convegno seminario cis bergamo 23 25 giugno 2003",
+            "type": "0",
+            "year_mag": 2004
+        }
+    ]
+}

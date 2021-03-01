@@ -1,0 +1,1226 @@
+{
+    "AuIds": [
+        2477180478
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "1493498440_+_1978982237": 1,
+                "1493498440_+_1999684558": 1,
+                "1493498440_+_2013219970": 2,
+                "1493498440_+_2070000838": 1,
+                "1493498440_+_2138816696": 1,
+                "1964358155_+_100266752": 2,
+                "2112387613_+_100266752": 2
+            },
+            "number": 4
+        },
+        "cand_nodes": 19,
+        "cand_paths": {},
+        "cc": {
+            "articles": {
+                "10.2139/ssrn.2497356_+_1481519737": 1,
+                "10.2139/ssrn.2497356_+_2202729873": 1,
+                "1522915033_+_1481519737": 1,
+                "1522915033_+_2202729873": 1
+            },
+            "number": 1
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 352,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 40,
+            "comm_other": 3858,
+            "other_cand": 18,
+            "other_comm": 1555
+        },
+        "other_nodes": 3758
+    },
+    "coverage": {
+        "articles": 7,
+        "books": 4,
+        "cov_sect": "B",
+        "other_pubbs": 0,
+        "pubbs": 8,
+        "pubbs_found": 3,
+        "pubbs_ind": 10,
+        "pubbs_ind_found": 3,
+        "total_extra_found": 19,
+        "total_found": 3,
+        "total_pubbs": 11
+    },
+    "fullname": [
+        "Minenna",
+        "Marcello"
+    ],
+    "ind_anvur": [
+        7,
+        1,
+        4,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0952-8776"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "journal": "RISK",
+            "title": "ecb s euro exit redonomination hedge",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0952-8776"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "journal": "RISK",
+            "title": "fed data dependency backfires",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-230-2006-1"
+            ],
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "title": "la moneta incompiuta",
+            "type": "monografia o trattato scientifico",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-1-119-01909-1"
+            ],
+            "PId": 2480750831,
+            "citing": [
+                {
+                    "PId": 2796530741,
+                    "author": [
+                        {
+                            "AuId": 2661103743,
+                            "AuN": "dariusz adamski"
+                        }
+                    ],
+                    "title": "redefining european economic integration",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2980163412,
+                    "author": [
+                        {
+                            "AuId": 345683230,
+                            "AuN": "pompeo della posta"
+                        },
+                        {
+                            "AuId": 2069476134,
+                            "AuN": "enrico marelli"
+                        },
+                        {
+                            "AuId": 2102192043,
+                            "AuN": "marcello signorelli"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-23053-1_8",
+                    "title": "an immediate solution for the euro area crisis a grand european investment plan",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2943112025,
+                    "author": [
+                        {
+                            "AuId": 2769129910,
+                            "AuN": "milan babic"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-658-25037-9_5",
+                    "title": "stabilisierung vertiefung und konsolidierung der economic governance elitenstrategien in der europaischen krise",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2899207170,
+                    "author": [
+                        {
+                            "AuId": 1971451624,
+                            "AuN": "ansgar belke"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-658-17409-5_27",
+                    "title": "die europaische wirtschafts und wahrungsunion und ihre governance",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3125889290,
+                    "author": [
+                        {
+                            "AuId": 2477180478,
+                            "AuN": "marcello minenna"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2021.106059",
+                    "title": "target 2 determinants the role of balance of payments imbalances in the long run",
+                    "year_mag": 2021
+                },
+                {
+                    "PId": 3098414049,
+                    "author": [
+                        {
+                            "AuId": 3042090988,
+                            "AuN": "enrico marelli"
+                        },
+                        {
+                            "AuId": 2102192043,
+                            "AuN": "marcello signorelli"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-48295-4_8",
+                    "title": "eurozone crisis policies and reforms",
+                    "year_mag": 2021
+                },
+                {
+                    "PId": 2776867028,
+                    "author": [
+                        {
+                            "AuId": 2780120407,
+                            "AuN": "jaroslaw wierzbicki"
+                        }
+                    ],
+                    "title": "perspektywy wspolnej waluty euro wyzwania polityczne i instytucjonalne",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1002/9781119019107",
+            "title": "the incomplete currency",
+            "type": "monografia o trattato scientifico",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0952-8776"
+            ],
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "journal": "RISK",
+            "title": "why europe s qe resembles a cds trade ",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0035-6468"
+            ],
+            "citing": [
+                {
+                    "doi": "10.1002/9781119019107.REFS",
+                    "title": "references",
+                    "year_oc": 2016
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.2139/ssrn.2497356",
+            "journal": "RIVISTA DI POLITICA ECONOMICA",
+            "title": "the european public debt refinancing program",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0952-8776"
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "journal": "RISK",
+            "title": "curing the eurozone",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9781906348595"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "10"
+            },
+            "title": "a quantitative framework to assess the risk return profile of non equity products",
+            "type": "monografia o trattato scientifico",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "0378-4266"
+            ],
+            "PId": 1964358155,
+            "cited": [
+                {
+                    "PId": 2064978316,
+                    "author": [
+                        {
+                            "AuId": 2397796208,
+                            "AuN": "steven l heston"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/6.2.327",
+                    "journal": "review of financial studies",
+                    "title": "a closed form solution for options with stochastic volatility with applications to bond and currency options",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1480459000,
+                    "author": [
+                        {
+                            "AuId": 2105133259,
+                            "AuN": "peter carr"
+                        },
+                        {
+                            "AuId": 737546859,
+                            "AuN": "dilip b madan"
+                        }
+                    ],
+                    "doi": "10.21314/JCF.1999.043",
+                    "journal": "journal of computational finance",
+                    "title": "option valuation using the fast fourier transform",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2129220488,
+                    "author": [
+                        {
+                            "AuId": 2095955310,
+                            "AuN": "gurdip bakshi"
+                        },
+                        {
+                            "AuId": 2157096929,
+                            "AuN": "charles cao"
+                        },
+                        {
+                            "AuId": 2342934075,
+                            "AuN": "zhiwu chen"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1997.TB02749.X",
+                    "journal": "journal of finance",
+                    "title": "empirical performance of alternative option pricing models",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2151065060,
+                    "author": [
+                        {
+                            "AuId": 1958827600,
+                            "AuN": "robert c merton"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(76)90022-2",
+                    "journal": "journal of financial economics",
+                    "title": "option pricing when underlying stock returns are discontinuous",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 2057667075,
+                    "author": [
+                        {
+                            "AuId": 2127865433,
+                            "AuN": "thomas f coleman"
+                        },
+                        {
+                            "AuId": 2107127464,
+                            "AuN": "yuying li"
+                        }
+                    ],
+                    "doi": "10.1007/BF01582221",
+                    "journal": "mathematical programming",
+                    "title": "on the convergence of interior reflective newton methods for nonlinear minimization subject to bounds",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2122959466,
+                    "author": [
+                        {
+                            "AuId": 2324480840,
+                            "AuN": "roger lee"
+                        }
+                    ],
+                    "doi": "10.21314/JCF.2004.121",
+                    "journal": "journal of computational finance",
+                    "title": "option pricing by transform methods extensions unification and error control",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2338681524,
+                    "author": [
+                        {
+                            "AuId": 45852114,
+                            "AuN": "helyette geman"
+                        },
+                        {
+                            "AuId": 667485976,
+                            "AuN": "nicole el karoui"
+                        },
+                        {
+                            "AuId": 2201352716,
+                            "AuN": "jeancharles rochet"
+                        }
+                    ],
+                    "doi": "10.2307/3215299",
+                    "journal": "journal of applied probability",
+                    "title": "changes of numeraire changes of probability measure and option pricing",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1957823995,
+                    "author": [
+                        {
+                            "AuId": 210999829,
+                            "AuN": "walter gander"
+                        },
+                        {
+                            "AuId": 39424420,
+                            "AuN": "walter gautschi"
+                        }
+                    ],
+                    "doi": "10.1023/A:1022318402393",
+                    "journal": "bit numerical mathematics",
+                    "title": "adaptive quadrature revisited",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2058903005,
+                    "author": [
+                        {
+                            "AuId": 2649529349,
+                            "AuN": "terence chan"
+                        }
+                    ],
+                    "doi": "10.1214/AOAP/1029962753",
+                    "journal": "annals of applied probability",
+                    "title": "pricing contingent claims on stocks driven by levy processes",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 1815731809,
+                    "author": [
+                        {
+                            "AuId": 2127865433,
+                            "AuN": "thomas f coleman"
+                        },
+                        {
+                            "AuId": 2107127464,
+                            "AuN": "yuying li"
+                        }
+                    ],
+                    "title": "on the convergence of reflective newton methods for large scale nonlinear minimization subject to bounds",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1999023038,
+                    "author": [
+                        {
+                            "AuId": 1897873107,
+                            "AuN": "wim schoutens"
+                        },
+                        {
+                            "AuId": 2584332252,
+                            "AuN": "erwin simons"
+                        },
+                        {
+                            "AuId": 2320104066,
+                            "AuN": "jurgen tistaert"
+                        }
+                    ],
+                    "doi": "10.1002/WILM.42820040216",
+                    "journal": "wilmott",
+                    "title": "a perfect calibration now what",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2265281158,
+                    "author": [
+                        {
+                            "AuId": 2687551515,
+                            "AuN": "kyriakos chourdakis"
+                        }
+                    ],
+                    "title": "option pricing using the fractional fft",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1991225757,
+                    "author": [
+                        {
+                            "AuId": 2254986333,
+                            "AuN": "oliver reiss"
+                        },
+                        {
+                            "AuId": 327095686,
+                            "AuN": "uwe wystup"
+                        }
+                    ],
+                    "doi": "10.3905/JOD.2001.319174",
+                    "journal": "journal of derivatives",
+                    "title": "computing option price sensitivities using homogeneity and other tricks",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1994672754,
+                    "author": [
+                        {
+                            "AuId": 2424494155,
+                            "AuN": "david b hunter"
+                        },
+                        {
+                            "AuId": 2000671146,
+                            "AuN": "geno nikolov"
+                        }
+                    ],
+                    "doi": "10.1090/S0025-5718-99-01078-9",
+                    "journal": "mathematics of computation",
+                    "title": "on the error term of symmetric gauss lobatto quadrature formulae for analytic functions",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2969589750,
+                    "author": [
+                        {
+                            "AuId": 2254986333,
+                            "AuN": "oliver reiss"
+                        },
+                        {
+                            "AuId": 327095686,
+                            "AuN": "uwe wystup"
+                        }
+                    ],
+                    "title": "efficient computation of option price sensitivities using homogeneity and other tricks",
+                    "year_mag": 2005
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2010569238,
+                    "author": [
+                        {
+                            "AuId": 2113894179,
+                            "AuN": "bonggyu jang"
+                        },
+                        {
+                            "AuId": 2096588530,
+                            "AuN": "ji hee yoon"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2010.01.019",
+                    "journal": "journal of banking and finance",
+                    "title": "analytic valuation formulas for range notes and an affine term structure model with jump risks",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1992431863,
+                    "author": [
+                        {
+                            "AuId": 2112393718,
+                            "AuN": "seungho yang"
+                        },
+                        {
+                            "AuId": 2308610146,
+                            "AuN": "jaewook lee"
+                        }
+                    ],
+                    "doi": "10.1080/14697688.2013.825048",
+                    "journal": "journal of banking and finance",
+                    "title": "do affine jump diffusion models require global calibration empirical studies from option markets",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2147830476,
+                    "author": [
+                        {
+                            "AuId": 2015687657,
+                            "AuN": "abdou kelani"
+                        },
+                        {
+                            "AuId": 1965494640,
+                            "AuN": "francois quittardpinon"
+                        }
+                    ],
+                    "journal": "journal of banking and finance",
+                    "title": "a general approach to compute standard risk measures",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2995155552,
+                    "author": [
+                        {
+                            "AuId": 2112393718,
+                            "AuN": "seungho yang"
+                        },
+                        {
+                            "AuId": 2103593990,
+                            "AuN": "gabjin oh"
+                        }
+                    ],
+                    "doi": "10.1016/J.PHYSA.2019.123762",
+                    "journal": "journal of banking and finance",
+                    "title": "a bayesian estimation of exponential levy models for implied volatility smile",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2739398378,
+                    "author": [
+                        {
+                            "AuId": 2633092919,
+                            "AuN": "chouwen wang"
+                        },
+                        {
+                            "AuId": 2160608332,
+                            "AuN": "sharon s yang"
+                        },
+                        {
+                            "AuId": 2277845268,
+                            "AuN": "jrwei huang"
+                        }
+                    ],
+                    "doi": "10.1080/14697688.2017.1288297",
+                    "journal": "journal of banking and finance",
+                    "title": "analytic option pricing and risk measures under a regime switching generalized hyperbolic model with an application to equity linked insurance",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 29343244,
+                    "author": [
+                        {
+                            "AuId": 2229589799,
+                            "AuN": "j p f charpin"
+                        },
+                        {
+                            "AuId": 2112778847,
+                            "AuN": "mark cummins"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4614-3433-7_7",
+                    "journal": "journal of banking and finance",
+                    "title": "fast fourier transform option pricing efficient approximation methods under multi factor stochastic volatility and jumps",
+                    "year_mag": 2012
+                }
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "11"
+            },
+            "doi": "10.1016/J.JBANKFIN.2007.05.019",
+            "journal": "JOURNAL OF BANKING & FINANCE",
+            "title": "a revisited and stable fourier transform method for affine jump diffusion models",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "9781906348069"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "12"
+            },
+            "title": "option pricing via quadrature",
+            "type": "monografia o trattato scientifico",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "0952-8776"
+            ],
+            "cv_id": {
+                "pubbs": "5"
+            },
+            "journal": "RISK",
+            "title": "curing the eurozone",
+            "type": "articolo in rivista",
+            "year": 2015
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 1522915033,
+            "cited": [
+                {
+                    "PId": 1834031587,
+                    "author": [
+                        {
+                            "AuId": 2163996973,
+                            "AuN": "hanswerner sinn"
+                        },
+                        {
+                            "AuId": 133121904,
+                            "AuN": "timo wollmershauser"
+                        }
+                    ],
+                    "doi": "10.1007/S10797-012-9236-X",
+                    "journal": "international tax and public finance",
+                    "title": "target loans current account balances and capital flows the ecb s rescue facility",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2128941716,
+                    "author": [
+                        {
+                            "AuId": 2100090338,
+                            "AuN": "carmelo pierpaolo parello"
+                        },
+                        {
+                            "AuId": 2596782496,
+                            "AuN": "vincenzo visco"
+                        }
+                    ],
+                    "doi": "10.1429/74176",
+                    "title": "the european redemption fund a comparison of two proposals",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 59936692,
+                    "author": [
+                        {
+                            "AuId": 2070172949,
+                            "AuN": "charles goodhart"
+                        },
+                        {
+                            "AuId": 2050454185,
+                            "AuN": "gerhard illing"
+                        }
+                    ],
+                    "title": "financial crises contagion and the lender of last resort a reader",
+                    "year_mag": 2002
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2613550985,
+                    "author": [
+                        {
+                            "AuId": 2580575931,
+                            "AuN": "mindaugas butkus"
+                        },
+                        {
+                            "AuId": 613459777,
+                            "AuN": "kristina matuzevici\u016bt\u0117"
+                        }
+                    ],
+                    "journal": "economic and environmental studies",
+                    "title": "government debt influence on eu countries economic growth importance of matching maastricht criterion",
+                    "year_mag": 2016
+                },
+                {
+                    "doi": "10.1002/9781119019107.REFS",
+                    "title": "references",
+                    "year_oc": 2016
+                }
+            ],
+            "doi": "10.2139/SSRN.2497356",
+            "title": "the european public debt refinancing program why the ecb quantitative easing should envisage euro zone government bonds",
+            "type": "0",
+            "year_mag": 2014
+        },
+        {
+            "PId": 2225720759,
+            "citing": [
+                {
+                    "PId": 3121174112,
+                    "author": [
+                        {
+                            "AuId": 2885240560,
+                            "AuN": "rainer masera"
+                        },
+                        {
+                            "AuId": 2100799162,
+                            "AuN": "giancarlo mazzoni"
+                        }
+                    ],
+                    "doi": "10.1108/SEF-09-2014-0179",
+                    "journal": "studies in economics and finance",
+                    "title": "on the non neutrality of the financing policy and the capital regulation of banking firms",
+                    "year_mag": 2016
+                }
+            ],
+            "doi": "10.2139/SSRN.2527807",
+            "title": "quantitative easing structured finance and support to the real economy proposals on abs",
+            "type": "0",
+            "year_mag": 2014
+        },
+        {
+            "PId": 1493498440,
+            "cited": [
+                {
+                    "PId": 2044503966,
+                    "author": [
+                        {
+                            "AuId": 2153855188,
+                            "AuN": "james d hamilton"
+                        }
+                    ],
+                    "title": "time series analysis",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1995503011,
+                    "author": [
+                        {
+                            "AuId": 1856348575,
+                            "AuN": "avinash dixit"
+                        },
+                        {
+                            "AuId": 311816429,
+                            "AuN": "robert s pindyck"
+                        }
+                    ],
+                    "title": "investment under uncertainty",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1999996900,
+                    "author": [
+                        {
+                            "AuId": 82914580,
+                            "AuN": "tim bollerslev"
+                        },
+                        {
+                            "AuId": 82914580,
+                            "AuN": "tim bollerslev"
+                        }
+                    ],
+                    "doi": "10.1016/0304-4076(86)90063-1",
+                    "journal": "journal of econometrics",
+                    "title": "generalized autoregressive conditional heteroskedasticity",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 1994177366,
+                    "author": [
+                        {
+                            "AuId": 2110266519,
+                            "AuN": "daniel b nelson"
+                        }
+                    ],
+                    "doi": "10.1016/0304-4076(90)90092-8",
+                    "journal": "journal of econometrics",
+                    "title": "arch models as diffusion approximations",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2802464205,
+                    "author": [
+                        {
+                            "AuId": 2800030505,
+                            "AuN": "a kinsella"
+                        },
+                        {
+                            "AuId": 2118554396,
+                            "AuN": "stephen taylor"
+                        }
+                    ],
+                    "doi": "10.2307/2348865",
+                    "journal": "the statistician",
+                    "title": "modelling financial time series",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 1989936395,
+                    "author": [
+                        {
+                            "AuId": 2297501334,
+                            "AuN": "jinchuan duan"
+                        }
+                    ],
+                    "doi": "10.1016/S0304-4076(97)00009-2",
+                    "journal": "journal of econometrics",
+                    "title": "augmented garch p q process and its diffusion limit",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2313299119,
+                    "author": [
+                        {
+                            "AuId": 2001779394,
+                            "AuN": "m abramowitz"
+                        },
+                        {
+                            "AuId": 1971071290,
+                            "AuN": "irene a stegun"
+                        }
+                    ],
+                    "doi": "10.2307/2343473",
+                    "journal": "mathematics of computation",
+                    "title": "handbook of mathematical functions with formulas graphs and mathematical tables",
+                    "year_mag": 1965
+                },
+                {
+                    "PId": 602792376,
+                    "author": [
+                        {
+                            "AuId": 3125790481,
+                            "AuN": "marcello minenna"
+                        }
+                    ],
+                    "title": "the detection of market abuse on financial markets a quantitative approach",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 642401263,
+                    "author": [
+                        {
+                            "AuId": 2288521391,
+                            "AuN": "marcello minenna"
+                        }
+                    ],
+                    "title": "a guide to quantitative finance tools and techniques for understanding and implementing financial analytics",
+                    "year_mag": 2006
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2013504881,
+                    "author": [
+                        {
+                            "AuId": 2129762795,
+                            "AuN": "stefan graf"
+                        },
+                        {
+                            "AuId": 2642243629,
+                            "AuN": "alexander kling"
+                        },
+                        {
+                            "AuId": 2116678603,
+                            "AuN": "jochen rus"
+                        }
+                    ],
+                    "doi": "10.1007/S13385-012-0049-1",
+                    "journal": "european actuarial journal",
+                    "title": "financial planning and risk return profiles",
+                    "year_mag": 2012
+                }
+            ],
+            "doi": "10.2139/SSRN.1883389",
+            "title": "a quantitative risk based approach to the transparency on non equity investment products",
+            "type": "0",
+            "year_mag": 2009
+        },
+        {
+            "PId": 2504230329,
+            "doi": "10.1002/9781119019107.CH10",
+            "title": "mutualisation of the public debt and fiscal transfers",
+            "type": "4",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2496023370,
+            "doi": "10.1002/9781119019107.CH9",
+            "title": "the european and national interventions on the banking systems",
+            "type": "4",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2490929361,
+            "doi": "10.1002/9781119019107.CH5",
+            "title": "the pathological banks governments relationship",
+            "type": "4",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2486206469,
+            "doi": "10.1002/9781119019107.CH3",
+            "title": "the single currency area in the context of international crisis",
+            "type": "4",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2483125602,
+            "doi": "10.1002/9781119019107.CH7",
+            "title": "financial assistance and fiscal agreements in the eurozone",
+            "type": "4",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2480939658,
+            "doi": "10.1002/9781119019107.CH12",
+            "title": "transparency as a tool to prevent excessive risk taking and contrast the crisis",
+            "type": "4",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2478831570,
+            "doi": "10.1002/9781119019107.CH1",
+            "title": "the building blocks of the single european currency",
+            "type": "4",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2498686552,
+            "doi": "10.1002/9781119019107.CH11",
+            "title": "proposals of monetary policy interventions to overcome the crisis",
+            "type": "4",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2492752504,
+            "doi": "10.1002/9781119019107.CH2",
+            "title": "the eurozone architecture and the working paradigms",
+            "type": "4",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2492141163,
+            "doi": "10.1002/9781119019107.CH6",
+            "title": "assessing the risk of a euro break up",
+            "type": "4",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2112387613,
+            "cited": [
+                {
+                    "PId": 2064978316,
+                    "author": [
+                        {
+                            "AuId": 2397796208,
+                            "AuN": "steven l heston"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/6.2.327",
+                    "journal": "review of financial studies",
+                    "title": "a closed form solution for options with stochastic volatility with applications to bond and currency options",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1480459000,
+                    "author": [
+                        {
+                            "AuId": 2105133259,
+                            "AuN": "peter carr"
+                        },
+                        {
+                            "AuId": 737546859,
+                            "AuN": "dilip b madan"
+                        }
+                    ],
+                    "doi": "10.21314/JCF.1999.043",
+                    "journal": "journal of computational finance",
+                    "title": "option valuation using the fast fourier transform",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2129220488,
+                    "author": [
+                        {
+                            "AuId": 2095955310,
+                            "AuN": "gurdip bakshi"
+                        },
+                        {
+                            "AuId": 2157096929,
+                            "AuN": "charles cao"
+                        },
+                        {
+                            "AuId": 2342934075,
+                            "AuN": "zhiwu chen"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1997.TB02749.X",
+                    "journal": "journal of finance",
+                    "title": "empirical performance of alternative option pricing models",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2115778593,
+                    "author": [
+                        {
+                            "AuId": 2210449200,
+                            "AuN": "darrell duffie"
+                        },
+                        {
+                            "AuId": 2210449200,
+                            "AuN": "darrell duffie"
+                        },
+                        {
+                            "AuId": 2168508420,
+                            "AuN": "jun pan"
+                        },
+                        {
+                            "AuId": 2168508420,
+                            "AuN": "jun pan"
+                        },
+                        {
+                            "AuId": 669620310,
+                            "AuN": "kenneth j singleton"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.157733",
+                    "title": "transform analysis and asset pricing for affine jump diffusions",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2138842879,
+                    "author": [
+                        {
+                            "AuId": 2566727577,
+                            "AuN": "david s bates"
+                        },
+                        {
+                            "AuId": 2566727577,
+                            "AuN": "david s bates"
+                        }
+                    ],
+                    "title": "jumps and stochastic volatility exchange rate processes implicit in thephlx deutschemark options",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2061171222,
+                    "author": [
+                        {
+                            "AuId": 2112142144,
+                            "AuN": "james w cooley"
+                        },
+                        {
+                            "AuId": 2263482472,
+                            "AuN": "john w tukey"
+                        }
+                    ],
+                    "doi": "10.1090/S0025-5718-1965-0178586-1",
+                    "journal": "mathematics of computation",
+                    "title": "an algorithm for the machine calculation of complex fourier series",
+                    "year_mag": 1965
+                },
+                {
+                    "PId": 2151065060,
+                    "author": [
+                        {
+                            "AuId": 1958827600,
+                            "AuN": "robert c merton"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(76)90022-2",
+                    "journal": "journal of financial economics",
+                    "title": "option pricing when underlying stock returns are discontinuous",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 2122959466,
+                    "author": [
+                        {
+                            "AuId": 2324480840,
+                            "AuN": "roger lee"
+                        }
+                    ],
+                    "doi": "10.21314/JCF.2004.121",
+                    "journal": "journal of computational finance",
+                    "title": "option pricing by transform methods extensions unification and error control",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1957823995,
+                    "author": [
+                        {
+                            "AuId": 210999829,
+                            "AuN": "walter gander"
+                        },
+                        {
+                            "AuId": 39424420,
+                            "AuN": "walter gautschi"
+                        }
+                    ],
+                    "doi": "10.1023/A:1022318402393",
+                    "journal": "bit numerical mathematics",
+                    "title": "adaptive quadrature revisited",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2116919581,
+                    "author": [
+                        {
+                            "AuId": 2161168551,
+                            "AuN": "alan l lewis"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.282110",
+                    "title": "a simple option formula for general jump diffusion and other exponential levy processes",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2087772495,
+                    "author": [
+                        {
+                            "AuId": 2158905163,
+                            "AuN": "antony ware"
+                        }
+                    ],
+                    "doi": "10.1137/S003614459731533X",
+                    "journal": "siam review",
+                    "title": "fast approximate fourier transforms for irregularly spaced data",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1994672754,
+                    "author": [
+                        {
+                            "AuId": 2424494155,
+                            "AuN": "david b hunter"
+                        },
+                        {
+                            "AuId": 2000671146,
+                            "AuN": "geno nikolov"
+                        }
+                    ],
+                    "doi": "10.1090/S0025-5718-99-01078-9",
+                    "journal": "mathematics of computation",
+                    "title": "on the error term of symmetric gauss lobatto quadrature formulae for analytic functions",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2252803306,
+                    "author": [
+                        {
+                            "AuId": 2665874689,
+                            "AuN": "alok dutt"
+                        }
+                    ],
+                    "title": "fast fourier transforms for non equispaced data",
+                    "year_mag": 1993
+                }
+            ],
+            "doi": "10.2139/SSRN.2635422",
+            "title": "fast option pricing using non uniform discrete fourier transform on gaussian discretization grids",
+            "type": "0",
+            "year_mag": 2007
+        },
+        {
+            "PId": 2503388537,
+            "doi": "10.1002/9781119019107.CH8",
+            "title": "the extraordinary interventions of the ecb",
+            "type": "4",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2497911290,
+            "doi": "10.1002/9781119019107.CH4",
+            "title": "dysfunctional mechanisms of the eurozone",
+            "type": "4",
+            "year_mag": 2016
+        }
+    ]
+}

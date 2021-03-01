@@ -1,0 +1,4372 @@
+{
+    "AuIds": [
+        1784049766,
+        2970035278
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "1157520787_+_1588960203": 1,
+                "1157520787_+_2013219970": 1,
+                "1157520787_+_2198172059": 1,
+                "1157520787_+_2216555879": 1,
+                "1483418550_+_1588153103": 1,
+                "2016063940_+_100266752": 1,
+                "2016063940_+_1588960203": 1,
+                "2016063940_+_2013219970": 1,
+                "2016063940_+_2198172059": 1,
+                "2016063940_+_2216555879": 1,
+                "2019127131_+_1588153103": 1,
+                "2019127131_+_1968230821": 1,
+                "2019127131_+_2013219970": 3,
+                "2019127131_+_2103993320": 1,
+                "2027282331_+_100266752": 3,
+                "2027282331_+_1588960203": 1,
+                "2027282331_+_2013219970": 3,
+                "2027282331_+_2198172059": 1,
+                "2027282331_+_2216555879": 1,
+                "2037480914_+_10.1007/s11403-010-0076-4": 1,
+                "2037480914_+_2013219970": 2,
+                "2037480914_+_2015887571": 1,
+                "31411584_+_100266752": 2,
+                "31411584_+_1588960203": 1,
+                "31411584_+_2013219970": 2,
+                "31411584_+_2015887571": 1,
+                "31411584_+_2198172059": 1,
+                "31411584_+_2216555879": 1,
+                "3478985_+_100266752": 2,
+                "3478985_+_2013219970": 2
+            },
+            "number": 12
+        },
+        "cand_nodes": 14,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 337,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 167,
+            "comm_other": 3659,
+            "other_cand": 59,
+            "other_comm": 1556
+        },
+        "other_nodes": 3756
+    },
+    "coverage": {
+        "articles": 8,
+        "books": 0,
+        "cov_sect": "B",
+        "other_pubbs": 7,
+        "pubbs": 15,
+        "pubbs_found": 9,
+        "pubbs_ind": 15,
+        "pubbs_ind_found": 9,
+        "total_extra_found": 14,
+        "total_found": 9,
+        "total_pubbs": 15
+    },
+    "fullname": [
+        "Figa'-Talamanca",
+        "Gianna"
+    ],
+    "ind_anvur": [
+        14,
+        5,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "978-3-319-42971-7"
+            ],
+            "PId": 2492966535,
+            "cited": [
+                {
+                    "PId": 2157041604,
+                    "author": [
+                        {
+                            "AuId": 2252586558,
+                            "AuN": "lotfi a zadeh"
+                        }
+                    ],
+                    "doi": "10.1016/0020-0255(75)90017-1",
+                    "journal": "information sciences",
+                    "title": "the concept of a linguistic variable and its application to approximate reasoning ii",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 1992554067,
+                    "author": [
+                        {
+                            "AuId": 677445823,
+                            "AuN": "keith marzullo"
+                        }
+                    ],
+                    "doi": "10.1145/128733.128735",
+                    "journal": "acm transactions on computer systems",
+                    "title": "tolerating failures of continuous valued sensors",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2040400640,
+                    "author": [
+                        {
+                            "AuId": 1450846926,
+                            "AuN": "giulianella coletti"
+                        },
+                        {
+                            "AuId": 1823947277,
+                            "AuN": "romano scozzafava"
+                        }
+                    ],
+                    "doi": "10.1016/J.FSS.2003.10.022",
+                    "journal": "fuzzy sets and systems",
+                    "title": "conditional probability fuzzy sets and possibility a unifying view",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2088313916,
+                    "author": [
+                        {
+                            "AuId": 2011025310,
+                            "AuN": "silvia muzzioli"
+                        },
+                        {
+                            "AuId": 2009054154,
+                            "AuN": "costanza torricelli"
+                        }
+                    ],
+                    "doi": "10.1016/S0165-1889(03)00060-5",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "a multiperiod binomial model for pricing options in a vague world",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 112504393,
+                    "author": [
+                        {
+                            "AuId": 2300659125,
+                            "AuN": "didier dubois"
+                        },
+                        {
+                            "AuId": 2082615088,
+                            "AuN": "henri prade"
+                        },
+                        {
+                            "AuId": 231105818,
+                            "AuN": "ronald r yager"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4615-5243-7_7",
+                    "title": "merging fuzzy information",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2027282331,
+                    "author": [
+                        {
+                            "AuId": 1057636803,
+                            "AuN": "andrea capotorti"
+                        },
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        }
+                    ],
+                    "doi": "10.1016/J.FSS.2013.01.010",
+                    "journal": "fuzzy sets and systems",
+                    "title": "on an implicit assessment of fuzzy volatility in the black and scholes environment",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1157520787,
+                    "author": [
+                        {
+                            "AuId": 1057636803,
+                            "AuN": "andrea capotorti"
+                        },
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-08795-5_48",
+                    "title": "smart fuzzy weighted averages of information elicited through fuzzy numbers",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2168294423,
+                    "author": [
+                        {
+                            "AuId": 2670605042,
+                            "AuN": "wei li"
+                        },
+                        {
+                            "AuId": 2647338727,
+                            "AuN": "liyan han"
+                        }
+                    ],
+                    "doi": "10.1109/FSKD.2009.252",
+                    "title": "the fuzzy binomial option pricing model under knightian uncertainty",
+                    "year_mag": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Zadeh",
+                            "given": "L.A.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/0020-0255(75)90036-5",
+                    "title": "the concept of a linguistic variable and its application to approximate reasoning i",
+                    "year_oc": 1975
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2917225800,
+                    "author": [
+                        {
+                            "AuId": 2011025310,
+                            "AuN": "silvia muzzioli"
+                        },
+                        {
+                            "AuId": 2290529856,
+                            "AuN": "luca gambarelli"
+                        },
+                        {
+                            "AuId": 145057113,
+                            "AuN": "bernard de baets"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-12544-8_13",
+                    "title": "towards a fuzzy index of skewness",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1007/978-3-319-42972-4_12",
+            "title": "a generalized smart fuzzy disjunction of volatility indicators applied to option pricing in a binomial model",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9780470745243"
+            ],
+            "PId": 1483418550,
+            "cited": [
+                {
+                    "PId": 2129905273,
+                    "author": [
+                        {
+                            "AuId": 2297037089,
+                            "AuN": "b w silverman"
+                        }
+                    ],
+                    "doi": "10.1201/9781315140919",
+                    "journal": "journal of the royal statistical society series c applied statistics",
+                    "title": "density estimation for statistics and data analysis",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 1995522593,
+                    "author": [
+                        {
+                            "AuId": 2036213059,
+                            "AuN": "philip protter"
+                        }
+                    ],
+                    "title": "stochastic integration and differential equations",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2107193251,
+                    "author": [
+                        {
+                            "AuId": 2154615972,
+                            "AuN": "michael johannes"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6321.2004.00632.X",
+                    "journal": "journal of finance",
+                    "title": "the statistical and economic role of jumps in continuous time interest rate models",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2026699941,
+                    "author": [
+                        {
+                            "AuId": 2108587185,
+                            "AuN": "richard stanton"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1997.TB02748.X",
+                    "journal": "journal of finance",
+                    "title": "a nonparametric model of term structure dynamics and the market price of interest rate risk",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1770325517,
+                    "author": [
+                        {
+                            "AuId": 2588663939,
+                            "AuN": "jessica james"
+                        },
+                        {
+                            "AuId": 2609701988,
+                            "AuN": "nick webber"
+                        }
+                    ],
+                    "title": "interest rate modelling",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2167824687,
+                    "author": [
+                        {
+                            "AuId": 2192836549,
+                            "AuN": "david a chapman"
+                        },
+                        {
+                            "AuId": 2590713148,
+                            "AuN": "neil d pearson"
+                        }
+                    ],
+                    "doi": "10.1111/0022-1082.00208",
+                    "journal": "journal of finance",
+                    "title": "is the short rate drift actually nonlinear",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2125854854,
+                    "author": [
+                        {
+                            "AuId": 2251334360,
+                            "AuN": "federico m bandi"
+                        },
+                        {
+                            "AuId": 2329014398,
+                            "AuN": "thong h nguyen"
+                        }
+                    ],
+                    "doi": "10.1016/S0304-4076(03)00110-6",
+                    "journal": "journal of econometrics",
+                    "title": "on the functional estimation of jump diffusion models",
+                    "year_mag": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Silverman",
+                            "given": "B. W.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4899-3324-9",
+                    "title": "density estimation for statistics and data analysis",
+                    "year_oc": 1986
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "\u00d8ksendal",
+                            "given": "Bernt",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-14394-6",
+                    "title": "stochastic differential equations",
+                    "year_oc": 2003
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1002/9781119011590.CH13",
+            "title": "nonparametric estimation of energy and commodity price processes",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9783319050133"
+            ],
+            "PId": 31411584,
+            "cited": [
+                {
+                    "PId": 2064978316,
+                    "author": [
+                        {
+                            "AuId": 2397796208,
+                            "AuN": "steven l heston"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/6.2.327",
+                    "journal": "review of financial studies",
+                    "title": "a closed form solution for options with stochastic volatility with applications to bond and currency options",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2077791698,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        },
+                        {
+                            "AuId": 2640352042,
+                            "AuN": "myron s scholes"
+                        }
+                    ],
+                    "doi": "10.1086/260062",
+                    "journal": "journal of political economy",
+                    "title": "the pricing of options and corporate liabilities",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2100011707,
+                    "author": [
+                        {
+                            "AuId": 706278417,
+                            "AuN": "rama cont"
+                        }
+                    ],
+                    "doi": "10.1080/713665670",
+                    "journal": "quantitative finance",
+                    "title": "empirical properties of asset returns stylized facts and statistical issues",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2148080284,
+                    "author": [
+                        {
+                            "AuId": 2682266702,
+                            "AuN": "john c hull"
+                        },
+                        {
+                            "AuId": 2121047447,
+                            "AuN": "alan white"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1987.TB02568.X",
+                    "journal": "journal of finance",
+                    "title": "the pricing of options on assets with stochastic volatilities",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2148451394,
+                    "author": [
+                        {
+                            "AuId": 2557472754,
+                            "AuN": "e l lehmann"
+                        }
+                    ],
+                    "title": "elements of large sample theory",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2094206697,
+                    "author": [
+                        {
+                            "AuId": 2039262087,
+                            "AuN": "elias m stein"
+                        },
+                        {
+                            "AuId": 2096392297,
+                            "AuN": "jeremy c stein"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/4.4.727",
+                    "journal": "review of financial studies",
+                    "title": "stock price distributions with stochastic volatility an analytic approach",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2465624924,
+                    "author": [
+                        {
+                            "AuId": 2607573075,
+                            "AuN": "leif b g andersen"
+                        }
+                    ],
+                    "doi": "10.21314/JCF.2008.189",
+                    "journal": "journal of computational finance",
+                    "title": "simple and efficient simulation of the heston stochastic volatility model",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1909902729,
+                    "author": [
+                        {
+                            "AuId": 1972969068,
+                            "AuN": "artur sepp"
+                        }
+                    ],
+                    "doi": "10.21314/JCF.2008.185",
+                    "journal": "journal of computational finance",
+                    "title": "pricing options on realized variance in the heston model with jumps in returns and volatility",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2033200020,
+                    "author": [
+                        {
+                            "AuId": 2106996944,
+                            "AuN": "christianoliver ewald"
+                        },
+                        {
+                            "AuId": 2646584777,
+                            "AuN": "aihua zhang"
+                        }
+                    ],
+                    "doi": "10.1080/14697680500531676",
+                    "journal": "quantitative finance",
+                    "title": "a new technique for calibrating stochastic volatility models the malliavin gradient method",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2164418150,
+                    "author": [
+                        {
+                            "AuId": 2278606799,
+                            "AuN": "gianna figitalamanca"
+                        }
+                    ],
+                    "doi": "10.1016/J.CSDA.2008.08.024",
+                    "journal": "computational statistics & data analysis",
+                    "title": "testing volatility autocorrelation in the constant elasticity of variance stochastic volatility model",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2273098369,
+                    "author": [
+                        {
+                            "AuId": 2106996944,
+                            "AuN": "christianoliver ewald"
+                        },
+                        {
+                            "AuId": 2106996944,
+                            "AuN": "christianoliver ewald"
+                        },
+                        {
+                            "AuId": 2305183688,
+                            "AuN": "aihua zhang"
+                        }
+                    ],
+                    "title": "a new method for the calibration of stochastic volatility models the malliavin gradient method",
+                    "year_mag": 2008
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1007/978-3-319-05014-0_24",
+            "title": "a statistical test for the heston model",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-3-319-08795-5"
+            ],
+            "PId": 1157520787,
+            "cited": [
+                {
+                    "PId": 2019950953,
+                    "author": [
+                        {
+                            "AuId": 2252586558,
+                            "AuN": "lotfi a zadeh"
+                        }
+                    ],
+                    "doi": "10.1016/S0165-0114(99)80004-9",
+                    "journal": "fuzzy sets and systems",
+                    "title": "fuzzy sets as a basis for a theory of possibility",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2077791698,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        },
+                        {
+                            "AuId": 2640352042,
+                            "AuN": "myron s scholes"
+                        }
+                    ],
+                    "doi": "10.1086/260062",
+                    "journal": "journal of political economy",
+                    "title": "the pricing of options and corporate liabilities",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 1515119244,
+                    "author": [
+                        {
+                            "AuId": 2300659125,
+                            "AuN": "didier dubois"
+                        },
+                        {
+                            "AuId": 2082615088,
+                            "AuN": "henri prade"
+                        },
+                        {
+                            "AuId": 2252586558,
+                            "AuN": "lotfi a zadeh"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4615-4429-6",
+                    "title": "fundamentals of fuzzy sets",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2330548796,
+                    "author": [
+                        {
+                            "AuId": 2167245635,
+                            "AuN": "william b jones"
+                        },
+                        {
+                            "AuId": 2945303000,
+                            "AuN": "w j thron"
+                        }
+                    ],
+                    "doi": "10.2307/2007638",
+                    "journal": "mathematics of computation",
+                    "title": "encyclopedia of mathematics and its applications",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 2265326515,
+                    "author": [
+                        {
+                            "AuId": 393440767,
+                            "AuN": "michel grabisch"
+                        },
+                        {
+                            "AuId": 2015474096,
+                            "AuN": "jeanluc marichal"
+                        },
+                        {
+                            "AuId": 2799046535,
+                            "AuN": "radko mesiar"
+                        },
+                        {
+                            "AuId": 2888506655,
+                            "AuN": "endre pap"
+                        }
+                    ],
+                    "title": "aggregation functions encyclopedia of mathematics and its applications",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2003452701,
+                    "author": [
+                        {
+                            "AuId": 393440767,
+                            "AuN": "michel grabisch"
+                        },
+                        {
+                            "AuId": 2015474096,
+                            "AuN": "jeanluc marichal"
+                        },
+                        {
+                            "AuId": 2184456879,
+                            "AuN": "radko mesiar"
+                        },
+                        {
+                            "AuId": 2020105327,
+                            "AuN": "endre pap"
+                        }
+                    ],
+                    "doi": "10.1016/J.INS.2010.08.043",
+                    "journal": "information sciences",
+                    "title": "aggregation functions means",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 3988410,
+                    "author": [
+                        {
+                            "AuId": 2300659125,
+                            "AuN": "didier dubois"
+                        },
+                        {
+                            "AuId": 1190317667,
+                            "AuN": "etienne kerre"
+                        },
+                        {
+                            "AuId": 2184456879,
+                            "AuN": "radko mesiar"
+                        },
+                        {
+                            "AuId": 2082615088,
+                            "AuN": "henri prade"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4615-4429-6_11",
+                    "title": "fuzzy interval analysis",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2089807790,
+                    "author": [
+                        {
+                            "AuId": 2091811483,
+                            "AuN": "rami zwick"
+                        },
+                        {
+                            "AuId": 2028662846,
+                            "AuN": "edward carlstein"
+                        },
+                        {
+                            "AuId": 287560032,
+                            "AuN": "david v budescu"
+                        }
+                    ],
+                    "doi": "10.1016/0888-613X(87)90015-6",
+                    "journal": "international journal of approximate reasoning",
+                    "title": "measures of similarity among fuzzy concepts a comparative analysis",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 1972685434,
+                    "author": [
+                        {
+                            "AuId": 2776870064,
+                            "AuN": "t pavlidis"
+                        }
+                    ],
+                    "doi": "10.1109/TAC.1977.1101639",
+                    "journal": "ieee transactions on automatic control",
+                    "title": "fuzzy sets and their applications to cognitive and decision processes",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 1499982259,
+                    "author": [
+                        {
+                            "AuId": 2300659125,
+                            "AuN": "didier dubois"
+                        },
+                        {
+                            "AuId": 2082615088,
+                            "AuN": "henri prade"
+                        },
+                        {
+                            "AuId": 2776116683,
+                            "AuN": "sandra sandri"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-011-2014-2_10",
+                    "title": "on possibility probability transformations",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1505652330,
+                    "author": [
+                        {
+                            "AuId": 2121148954,
+                            "AuN": "hongxing li"
+                        },
+                        {
+                            "AuId": 2779710707,
+                            "AuN": "vincent c yen"
+                        }
+                    ],
+                    "title": "fuzzy sets and fuzzy decision making",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2098367511,
+                    "author": [
+                        {
+                            "AuId": 393440767,
+                            "AuN": "michel grabisch"
+                        },
+                        {
+                            "AuId": 2015474096,
+                            "AuN": "jeanluc marichal"
+                        },
+                        {
+                            "AuId": 2184456879,
+                            "AuN": "radko mesiar"
+                        },
+                        {
+                            "AuId": 2020105327,
+                            "AuN": "endre pap"
+                        }
+                    ],
+                    "doi": "10.1016/J.INS.2010.08.040",
+                    "journal": "information sciences",
+                    "title": "aggregation functions construction methods conjunctive disjunctive and mixed classes",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2040400640,
+                    "author": [
+                        {
+                            "AuId": 1450846926,
+                            "AuN": "giulianella coletti"
+                        },
+                        {
+                            "AuId": 1823947277,
+                            "AuN": "romano scozzafava"
+                        }
+                    ],
+                    "doi": "10.1016/J.FSS.2003.10.022",
+                    "journal": "fuzzy sets and systems",
+                    "title": "conditional probability fuzzy sets and possibility a unifying view",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1517081887,
+                    "author": [
+                        {
+                            "AuId": 3037517214,
+                            "AuN": "didier dubois"
+                        },
+                        {
+                            "AuId": 2082615088,
+                            "AuN": "henri prade"
+                        },
+                        {
+                            "AuId": 236175242,
+                            "AuN": "james c bezdek"
+                        }
+                    ],
+                    "title": "fuzzy sets in approximate reasoning and information systems",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2025221493,
+                    "author": [
+                        {
+                            "AuId": 2300659125,
+                            "AuN": "didier dubois"
+                        },
+                        {
+                            "AuId": 2082615088,
+                            "AuN": "henri prade"
+                        }
+                    ],
+                    "doi": "10.1016/0165-0114(92)90110-P",
+                    "journal": "fuzzy sets and systems",
+                    "title": "when upper probabilities are possibility measures",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 189366404,
+                    "author": [
+                        {
+                            "AuId": 2558501656,
+                            "AuN": "janos fodor"
+                        },
+                        {
+                            "AuId": 231105818,
+                            "AuN": "ronald r yager"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4615-4429-6_3",
+                    "title": "fuzzy set theoretic operators and quantifiers",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2027412539,
+                    "author": [
+                        {
+                            "AuId": 1450846926,
+                            "AuN": "giulianella coletti"
+                        },
+                        {
+                            "AuId": 1823947277,
+                            "AuN": "romano scozzafava"
+                        }
+                    ],
+                    "doi": "10.1016/J.CSDA.2006.04.028",
+                    "journal": "computational statistics & data analysis",
+                    "title": "conditional probability and fuzzy information",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 112504393,
+                    "author": [
+                        {
+                            "AuId": 2300659125,
+                            "AuN": "didier dubois"
+                        },
+                        {
+                            "AuId": 2082615088,
+                            "AuN": "henri prade"
+                        },
+                        {
+                            "AuId": 231105818,
+                            "AuN": "ronald r yager"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4615-5243-7_7",
+                    "title": "merging fuzzy information",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2027282331,
+                    "author": [
+                        {
+                            "AuId": 1057636803,
+                            "AuN": "andrea capotorti"
+                        },
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        }
+                    ],
+                    "doi": "10.1016/J.FSS.2013.01.010",
+                    "journal": "fuzzy sets and systems",
+                    "title": "on an implicit assessment of fuzzy volatility in the black and scholes environment",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1975244218,
+                    "author": [
+                        {
+                            "AuId": 1823947277,
+                            "AuN": "romano scozzafava"
+                        },
+                        {
+                            "AuId": 2062338367,
+                            "AuN": "barbara vantaggi"
+                        }
+                    ],
+                    "doi": "10.1016/J.FSS.2008.01.012",
+                    "journal": "fuzzy sets and systems",
+                    "title": "fuzzy inclusion and similarity through coherent conditional probability",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 48599436,
+                    "author": [
+                        {
+                            "AuId": 2585315491,
+                            "AuN": "l w fung"
+                        },
+                        {
+                            "AuId": 2720863051,
+                            "AuN": "k s fu"
+                        }
+                    ],
+                    "doi": "10.1016/B978-0-12-775260-0.50015-3",
+                    "title": "an axiomatic approach to rational decision making in a fuzzy environment",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 2164573445,
+                    "author": [
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        },
+                        {
+                            "AuId": 17349314,
+                            "AuN": "laerte sorini"
+                        },
+                        {
+                            "AuId": 1955672472,
+                            "AuN": "luciano stefanini"
+                        }
+                    ],
+                    "doi": "10.1109/FUZZY.2007.4295456",
+                    "title": "parametrized fuzzy numbers for option pricing",
+                    "year_mag": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Zadeh",
+                            "given": "L.A",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/0165-0114(78)90029-5",
+                    "title": "fuzzy sets as a basis for a theory of possibility",
+                    "year_oc": 1978
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Grabisch",
+                            "given": "Michel",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Marichal",
+                            "given": "Jean-Luc",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Mesiar",
+                            "given": "Radko",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Pap",
+                            "given": "Endre",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139644150",
+                    "title": "aggregation functions",
+                    "year_oc": 2009
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2943235764,
+                    "author": [
+                        {
+                            "AuId": 1057636803,
+                            "AuN": "andrea capotorti"
+                        },
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        }
+                    ],
+                    "doi": "10.1016/J.FSS.2019.04.027",
+                    "journal": "fuzzy sets and systems",
+                    "title": "smart or and smart and fuzzy average operators a generalized proposal",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2492966535,
+                    "author": [
+                        {
+                            "AuId": 1057636803,
+                            "AuN": "andrea capotorti"
+                        },
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-42972-4_12",
+                    "journal": "fuzzy sets and systems",
+                    "title": "a generalized smart fuzzy disjunction of volatility indicators applied to option pricing in a binomial model",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2915817192,
+                    "author": [
+                        {
+                            "AuId": 1057636803,
+                            "AuN": "andrea capotorti"
+                        },
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-12544-8_12",
+                    "journal": "fuzzy sets and systems",
+                    "title": "two smart fuzzy aggregation operators",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1007/978-3-319-08795-5_48",
+            "title": "smart fuzzy weighted averages of information elicited through fuzzy numbers",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0165-0114"
+            ],
+            "PId": 2027282331,
+            "cited": [
+                {
+                    "PId": 2064978316,
+                    "author": [
+                        {
+                            "AuId": 2397796208,
+                            "AuN": "steven l heston"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/6.2.327",
+                    "journal": "review of financial studies",
+                    "title": "a closed form solution for options with stochastic volatility with applications to bond and currency options",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2077791698,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        },
+                        {
+                            "AuId": 2640352042,
+                            "AuN": "myron s scholes"
+                        }
+                    ],
+                    "doi": "10.1086/260062",
+                    "journal": "journal of political economy",
+                    "title": "the pricing of options and corporate liabilities",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2148080284,
+                    "author": [
+                        {
+                            "AuId": 2682266702,
+                            "AuN": "john c hull"
+                        },
+                        {
+                            "AuId": 2121047447,
+                            "AuN": "alan white"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1987.TB02568.X",
+                    "journal": "journal of finance",
+                    "title": "the pricing of options on assets with stochastic volatilities",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2106154424,
+                    "author": [
+                        {
+                            "AuId": 2609526882,
+                            "AuN": "mark rubinstein"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1994.TB00079.X",
+                    "journal": "journal of finance",
+                    "title": "implied binomial trees",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2124409483,
+                    "author": [
+                        {
+                            "AuId": 2300659125,
+                            "AuN": "didier dubois"
+                        },
+                        {
+                            "AuId": 2046051486,
+                            "AuN": "laurent foulloy"
+                        },
+                        {
+                            "AuId": 2094813775,
+                            "AuN": "gilles mauris"
+                        },
+                        {
+                            "AuId": 2082615088,
+                            "AuN": "henri prade"
+                        }
+                    ],
+                    "doi": "10.1023/B:REOM.0000032115.22510.B5",
+                    "journal": "reliable computing",
+                    "title": "probability possibility transformations triangular fuzzy sets and probabilistic inequalities",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2016012896,
+                    "author": [
+                        {
+                            "AuId": 2258208009,
+                            "AuN": "jens carsten jackwerth"
+                        },
+                        {
+                            "AuId": 2609526882,
+                            "AuN": "mark rubinstein"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1996.TB05219.X",
+                    "journal": "journal of finance",
+                    "title": "recovering probability distributions from option prices",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2307710359,
+                    "author": [
+                        {
+                            "AuId": 1940272638,
+                            "AuN": "isabelle bloch"
+                        }
+                    ],
+                    "doi": "10.1109/3468.477860",
+                    "title": "information combination operators for data fusion a comparative review with classification",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2048288497,
+                    "author": [
+                        {
+                            "AuId": 2300659125,
+                            "AuN": "didier dubois"
+                        },
+                        {
+                            "AuId": 2082615088,
+                            "AuN": "henri prade"
+                        }
+                    ],
+                    "doi": "10.1016/0020-0255(85)90027-1",
+                    "journal": "information sciences",
+                    "title": "a review of fuzzy set aggregation connectives",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2155976821,
+                    "author": [
+                        {
+                            "AuId": 252225972,
+                            "AuN": "marian b gorzalczany"
+                        }
+                    ],
+                    "doi": "10.1016/0165-0114(87)90148-5",
+                    "journal": "fuzzy sets and systems",
+                    "title": "a method for inference in approximate reasoning based on interval valued fuzzy sets",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 1491699608,
+                    "author": [
+                        {
+                            "AuId": 1450846926,
+                            "AuN": "giulianella coletti"
+                        },
+                        {
+                            "AuId": 1823947277,
+                            "AuN": "romano scozzafava"
+                        }
+                    ],
+                    "title": "probabilistic logic in a coherent setting",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2157858527,
+                    "author": [
+                        {
+                            "AuId": 2484030729,
+                            "AuN": "louis o scott"
+                        }
+                    ],
+                    "doi": "10.2307/2330793",
+                    "journal": "journal of financial and quantitative analysis",
+                    "title": "option pricing when the variance changes randomly theory estimation and an application",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 1986084950,
+                    "author": [
+                        {
+                            "AuId": 2178528261,
+                            "AuN": "christer carlsson"
+                        },
+                        {
+                            "AuId": 2793221766,
+                            "AuN": "robert fuller"
+                        },
+                        {
+                            "AuId": 2793221766,
+                            "AuN": "robert fuller"
+                        }
+                    ],
+                    "doi": "10.1016/S0165-0114(02)00591-2",
+                    "journal": "fuzzy sets and systems",
+                    "title": "a fuzzy approach to real option valuation",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2017297397,
+                    "author": [
+                        {
+                            "AuId": 2534123893,
+                            "AuN": "james b wiggins"
+                        }
+                    ],
+                    "doi": "10.1016/0304-405X(87)90009-2",
+                    "journal": "journal of financial economics",
+                    "title": "option values under stochastic volatility theory and empirical estimates",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2044770310,
+                    "author": [
+                        {
+                            "AuId": 2164356126,
+                            "AuN": "weimin dong"
+                        },
+                        {
+                            "AuId": 2974312151,
+                            "AuN": "f s wong"
+                        }
+                    ],
+                    "doi": "10.1016/0165-0114(87)90163-1",
+                    "journal": "fuzzy sets and systems",
+                    "title": "fuzzy weighted averages and implementation of the extension principle",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 1499982259,
+                    "author": [
+                        {
+                            "AuId": 2300659125,
+                            "AuN": "didier dubois"
+                        },
+                        {
+                            "AuId": 2082615088,
+                            "AuN": "henri prade"
+                        },
+                        {
+                            "AuId": 2776116683,
+                            "AuN": "sandra sandri"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-011-2014-2_10",
+                    "title": "on possibility probability transformations",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1909902729,
+                    "author": [
+                        {
+                            "AuId": 1972969068,
+                            "AuN": "artur sepp"
+                        }
+                    ],
+                    "doi": "10.21314/JCF.2008.185",
+                    "journal": "journal of computational finance",
+                    "title": "pricing options on realized variance in the heston model with jumps in returns and volatility",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2040400640,
+                    "author": [
+                        {
+                            "AuId": 1450846926,
+                            "AuN": "giulianella coletti"
+                        },
+                        {
+                            "AuId": 1823947277,
+                            "AuN": "romano scozzafava"
+                        }
+                    ],
+                    "doi": "10.1016/J.FSS.2003.10.022",
+                    "journal": "fuzzy sets and systems",
+                    "title": "conditional probability fuzzy sets and possibility a unifying view",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1968509795,
+                    "author": [
+                        {
+                            "AuId": 2306248042,
+                            "AuN": "yuji yoshida"
+                        }
+                    ],
+                    "doi": "10.1016/S0377-2217(02)00209-6",
+                    "journal": "european journal of operational research",
+                    "title": "the valuation of european options in uncertain environment",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1816654404,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V31.N4.36",
+                    "journal": "financial analysts journal",
+                    "title": "fact and fantasy in the use of options",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 2033972209,
+                    "author": [
+                        {
+                            "AuId": 2115506887,
+                            "AuN": "hsienchung wu"
+                        }
+                    ],
+                    "doi": "10.1016/S0305-0548(03)00065-0",
+                    "journal": "computers & operations research",
+                    "title": "pricing european options based on the fuzzy pattern of black scholes formula",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1993976603,
+                    "author": [
+                        {
+                            "AuId": 73564500,
+                            "AuN": "elmar kriegler"
+                        },
+                        {
+                            "AuId": 2119736261,
+                            "AuN": "hermann held"
+                        }
+                    ],
+                    "doi": "10.1016/J.IJAR.2004.10.005",
+                    "title": "utilizing belief functions for the estimation of future climate change",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2161627564,
+                    "author": [
+                        {
+                            "AuId": 1450846926,
+                            "AuN": "giulianella coletti"
+                        }
+                    ],
+                    "doi": "10.1109/21.328932",
+                    "journal": "ieee transactions on systems man and cybernetics",
+                    "title": "coherent numerical and ordinal probabilistic assessments",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2041209174,
+                    "author": [
+                        {
+                            "AuId": 2062338367,
+                            "AuN": "barbara vantaggi"
+                        }
+                    ],
+                    "doi": "10.1016/J.IJAR.2008.07.005",
+                    "journal": "international journal of approximate reasoning",
+                    "title": "statistical matching of multiple sources a look through coherence",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1995871540,
+                    "author": [
+                        {
+                            "AuId": 1450846926,
+                            "AuN": "giulianella coletti"
+                        },
+                        {
+                            "AuId": 1823947277,
+                            "AuN": "romano scozzafava"
+                        }
+                    ],
+                    "doi": "10.1142/S021848859600007X",
+                    "journal": "international journal of uncertainty fuzziness and knowledge based systems",
+                    "title": "characterization of coherent conditional probabilities as a tool for their assessment and extension",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 1978296509,
+                    "author": [
+                        {
+                            "AuId": 1450846926,
+                            "AuN": "giulianella coletti"
+                        },
+                        {
+                            "AuId": 1823947277,
+                            "AuN": "romano scozzafava"
+                        }
+                    ],
+                    "doi": "10.1007/S005000050060",
+                    "title": "conditioning and inference in intelligent systems",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2107136434,
+                    "author": [
+                        {
+                            "AuId": 2141631895,
+                            "AuN": "james d macbeth"
+                        },
+                        {
+                            "AuId": 2166489146,
+                            "AuN": "larry j merville"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1979.TB00063.X",
+                    "journal": "journal of finance",
+                    "title": "an empirical examination of the black scholes call option pricing model",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 2027412539,
+                    "author": [
+                        {
+                            "AuId": 1450846926,
+                            "AuN": "giulianella coletti"
+                        },
+                        {
+                            "AuId": 1823947277,
+                            "AuN": "romano scozzafava"
+                        }
+                    ],
+                    "doi": "10.1016/J.CSDA.2006.04.028",
+                    "journal": "computational statistics & data analysis",
+                    "title": "conditional probability and fuzzy information",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2118597194,
+                    "author": [
+                        {
+                            "AuId": 2243775075,
+                            "AuN": "giovanni baroneadesi"
+                        },
+                        {
+                            "AuId": 2168803799,
+                            "AuN": "h o rasmussen"
+                        },
+                        {
+                            "AuId": 2786038393,
+                            "AuN": "claudia ravanelli"
+                        }
+                    ],
+                    "doi": "10.1016/J.CSDA.2004.05.014",
+                    "journal": "computational statistics & data analysis",
+                    "title": "an option pricing formula for the garch diffusion model",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2103104088,
+                    "author": [
+                        {
+                            "AuId": 2141631895,
+                            "AuN": "james d macbeth"
+                        },
+                        {
+                            "AuId": 2166489146,
+                            "AuN": "larry j merville"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1980.TB02157.X",
+                    "journal": "journal of finance",
+                    "title": "tests of the black scholes and cox call option valuation models",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 1498744374,
+                    "author": [
+                        {
+                            "AuId": 1057636803,
+                            "AuN": "andrea capotorti"
+                        },
+                        {
+                            "AuId": 2062338367,
+                            "AuN": "barbara vantaggi"
+                        }
+                    ],
+                    "doi": "10.1023/A:1014531116863",
+                    "journal": "annals of mathematics and artificial intelligence",
+                    "title": "locally strong coherence in inference processes",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2164573445,
+                    "author": [
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        },
+                        {
+                            "AuId": 17349314,
+                            "AuN": "laerte sorini"
+                        },
+                        {
+                            "AuId": 1955672472,
+                            "AuN": "luciano stefanini"
+                        }
+                    ],
+                    "doi": "10.1109/FUZZY.2007.4295456",
+                    "title": "parametrized fuzzy numbers for option pricing",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1964567319,
+                    "author": [
+                        {
+                            "AuId": 296111372,
+                            "AuN": "lester e dubins"
+                        }
+                    ],
+                    "doi": "10.1214/AOP/1176996451",
+                    "journal": "annals of probability",
+                    "title": "finitely additive conditional probabilities conglomerability and disintegrations",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 1966674790,
+                    "author": [
+                        {
+                            "AuId": 2003920554,
+                            "AuN": "eugenio regazzini"
+                        }
+                    ],
+                    "doi": "10.1007/BF02924866",
+                    "journal": "rendiconti del seminario matematico e fisico di milano",
+                    "title": "finitely additive conditional probabilities",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2161927407,
+                    "author": [
+                        {
+                            "AuId": 2127594905,
+                            "AuN": "mihir bhattacharya"
+                        }
+                    ],
+                    "doi": "10.2307/2330173",
+                    "journal": "journal of financial and quantitative analysis",
+                    "title": "empirical properties of the black scholes formula under ideal conditions",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 2009634320,
+                    "author": [
+                        {
+                            "AuId": 1804464080,
+                            "AuN": "alfred renyi"
+                        }
+                    ],
+                    "doi": "10.1007/BF02024393",
+                    "journal": "acta mathematica hungarica",
+                    "title": "on a new axiomatic theory of probability",
+                    "year_mag": 1955
+                },
+                {
+                    "PId": 1972825249,
+                    "author": [
+                        {
+                            "AuId": 2594465095,
+                            "AuN": "p h krauss"
+                        }
+                    ],
+                    "doi": "10.1007/BF01894506",
+                    "journal": "acta mathematica hungarica",
+                    "title": "representation of conditional probability measures on boolean algebras",
+                    "year_mag": 1968
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2418281354,
+                    "author": [
+                        {
+                            "AuId": 2011025310,
+                            "AuN": "silvia muzzioli"
+                        },
+                        {
+                            "AuId": 145057113,
+                            "AuN": "bernard de baets"
+                        }
+                    ],
+                    "doi": "10.1109/TFUZZ.2016.2574906",
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "fuzzy approaches to option price modeling",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2091178702,
+                    "author": [
+                        {
+                            "AuId": 2011025310,
+                            "AuN": "silvia muzzioli"
+                        },
+                        {
+                            "AuId": 2209382046,
+                            "AuN": "alessio ruggieri"
+                        },
+                        {
+                            "AuId": 2239395345,
+                            "AuN": "b de baets"
+                        }
+                    ],
+                    "doi": "10.1016/J.FSS.2014.11.015",
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "a comparison of fuzzy regression methods for the estimation of the implied volatility smile function",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 3014514859,
+                    "author": [
+                        {
+                            "AuId": 694052725,
+                            "AuN": "roy cerqueti"
+                        },
+                        {
+                            "AuId": 694052725,
+                            "AuN": "roy cerqueti"
+                        },
+                        {
+                            "AuId": 2989626629,
+                            "AuN": "m giacalone"
+                        },
+                        {
+                            "AuId": 2754322626,
+                            "AuN": "raffaele mattera"
+                        }
+                    ],
+                    "doi": "10.1016/J.INS.2020.03.075",
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "skewed non gaussian garch models for cryptocurrencies volatility modelling",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3020235182,
+                    "author": [
+                        {
+                            "AuId": 694052725,
+                            "AuN": "roy cerqueti"
+                        },
+                        {
+                            "AuId": 694052725,
+                            "AuN": "roy cerqueti"
+                        },
+                        {
+                            "AuId": 2989626629,
+                            "AuN": "m giacalone"
+                        },
+                        {
+                            "AuId": 2754322626,
+                            "AuN": "raffaele mattera"
+                        }
+                    ],
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "skewed non gaussian garch models for cryptocurrencies volatility modelling",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2914790184,
+                    "author": [
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        },
+                        {
+                            "AuId": 17349314,
+                            "AuN": "laerte sorini"
+                        },
+                        {
+                            "AuId": 1955672472,
+                            "AuN": "luciano stefanini"
+                        }
+                    ],
+                    "doi": "10.1016/J.IJAR.2019.01.011",
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "quantile and expectile smoothing based on l1 norm and l2 norm fuzzy transforms",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2807427961,
+                    "author": [
+                        {
+                            "AuId": 2011025310,
+                            "AuN": "silvia muzzioli"
+                        },
+                        {
+                            "AuId": 2290529856,
+                            "AuN": "luca gambarelli"
+                        },
+                        {
+                            "AuId": 145057113,
+                            "AuN": "bernard de baets"
+                        }
+                    ],
+                    "doi": "10.1142/S0219622018500335",
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "indices for financial market volatility obtained through fuzzy regression",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2309799397,
+                    "author": [
+                        {
+                            "AuId": 2015819159,
+                            "AuN": "leandro maciel"
+                        },
+                        {
+                            "AuId": 2151486370,
+                            "AuN": "fernando gomide"
+                        },
+                        {
+                            "AuId": 1226752065,
+                            "AuN": "rosangela ballini"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-015-9535-2",
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "evolving fuzzy garch approach for financial volatility modeling and forecasting",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2745474624,
+                    "author": [
+                        {
+                            "AuId": 2011025310,
+                            "AuN": "silvia muzzioli"
+                        },
+                        {
+                            "AuId": 2290529856,
+                            "AuN": "luca gambarelli"
+                        },
+                        {
+                            "AuId": 145057113,
+                            "AuN": "bernard de baets"
+                        }
+                    ],
+                    "doi": "10.1109/FUZZ-IEEE.2017.8015446",
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "towards a fuzzy volatility index for the italian market",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3006196806,
+                    "author": [
+                        {
+                            "AuId": 2011025310,
+                            "AuN": "silvia muzzioli"
+                        },
+                        {
+                            "AuId": 2290529856,
+                            "AuN": "luca gambarelli"
+                        },
+                        {
+                            "AuId": 145057113,
+                            "AuN": "bernard de baets"
+                        }
+                    ],
+                    "doi": "10.1007/S10700-020-09316-X",
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "option implied moments obtained through fuzzy regression",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2917225800,
+                    "author": [
+                        {
+                            "AuId": 2011025310,
+                            "AuN": "silvia muzzioli"
+                        },
+                        {
+                            "AuId": 2290529856,
+                            "AuN": "luca gambarelli"
+                        },
+                        {
+                            "AuId": 145057113,
+                            "AuN": "bernard de baets"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-12544-8_13",
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "towards a fuzzy index of skewness",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 1157520787,
+                    "author": [
+                        {
+                            "AuId": 1057636803,
+                            "AuN": "andrea capotorti"
+                        },
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-08795-5_48",
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "smart fuzzy weighted averages of information elicited through fuzzy numbers",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2943235764,
+                    "author": [
+                        {
+                            "AuId": 1057636803,
+                            "AuN": "andrea capotorti"
+                        },
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        }
+                    ],
+                    "doi": "10.1016/J.FSS.2019.04.027",
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "smart or and smart and fuzzy average operators a generalized proposal",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2042094191,
+                    "author": [
+                        {
+                            "AuId": 1450846926,
+                            "AuN": "giulianella coletti"
+                        },
+                        {
+                            "AuId": 2402257339,
+                            "AuN": "davide petturiti"
+                        },
+                        {
+                            "AuId": 2062338367,
+                            "AuN": "barbara vantaggi"
+                        }
+                    ],
+                    "doi": "10.2991/EUSFLAT.2013.67",
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "probabilistic fuzzy reasoning in a coherent setting",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2761749426,
+                    "author": [
+                        {
+                            "AuId": 2083524310,
+                            "AuN": "luca anzilli"
+                        },
+                        {
+                            "AuId": 2623744964,
+                            "AuN": "gisella facchinetti"
+                        },
+                        {
+                            "AuId": 1118894437,
+                            "AuN": "tommaso pirotti"
+                        }
+                    ],
+                    "doi": "10.1016/J.INS.2017.10.001",
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "pricing of minimum guarantees in life insurance contracts with fuzzy volatility",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2791073667,
+                    "author": [
+                        {
+                            "AuId": 2789286522,
+                            "AuN": "jorge de andressanchez"
+                        }
+                    ],
+                    "doi": "10.1007/S40815-018-0468-5",
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "pricing european options with triangular fuzzy parameters assessing alternative triangular approximations in the spanish stock option market",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2492966535,
+                    "author": [
+                        {
+                            "AuId": 1057636803,
+                            "AuN": "andrea capotorti"
+                        },
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-42972-4_12",
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "a generalized smart fuzzy disjunction of volatility indicators applied to option pricing in a binomial model",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2756837887,
+                    "author": [
+                        {
+                            "AuId": 78548268,
+                            "AuN": "jorge de andressanchez"
+                        }
+                    ],
+                    "doi": "10.3233/JIFS-17719",
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "an empirical assestment of fuzzy black and scholes pricing option model in spanish stock option market",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2915817192,
+                    "author": [
+                        {
+                            "AuId": 1057636803,
+                            "AuN": "andrea capotorti"
+                        },
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-12544-8_12",
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "two smart fuzzy aggregation operators",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 1855042041,
+                    "author": [
+                        {
+                            "AuId": 2196020824,
+                            "AuN": "alexander lis"
+                        }
+                    ],
+                    "journal": "ieee transactions on fuzzy systems",
+                    "title": "application of fuzzy numbers theory in option pricing",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1016/J.FSS.2013.01.010",
+            "journal": "FUZZY SETS AND SYSTEMS",
+            "title": "on an implicit assessment of fuzzy volatility in the black and scholes environment",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0015-1920"
+            ],
+            "PId": 1501066045,
+            "citing": [
+                {
+                    "PId": 601330196,
+                    "author": [
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        },
+                        {
+                            "AuId": 17349314,
+                            "AuN": "laerte sorini"
+                        },
+                        {
+                            "AuId": 1955672472,
+                            "AuN": "luciano stefanini"
+                        }
+                    ],
+                    "doi": "10.1007/S40815-017-0308-Z",
+                    "journal": "international journal of fuzzy systems",
+                    "title": "value function computation in fuzzy models by differential evolution",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2791073667,
+                    "author": [
+                        {
+                            "AuId": 2789286522,
+                            "AuN": "jorge de andressanchez"
+                        }
+                    ],
+                    "doi": "10.1007/S40815-018-0468-5",
+                    "journal": "international journal of fuzzy systems",
+                    "title": "pricing european options with triangular fuzzy parameters assessing alternative triangular approximations in the spanish stock option market",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2756837887,
+                    "author": [
+                        {
+                            "AuId": 78548268,
+                            "AuN": "jorge de andressanchez"
+                        }
+                    ],
+                    "doi": "10.3233/JIFS-17719",
+                    "journal": "international journal of fuzzy systems",
+                    "title": "an empirical assestment of fuzzy black and scholes pricing option model in spanish stock option market",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "journal": "FINANCE A UVER- CZECH JOURNAL OF ECONOMICS AND FINANCE",
+            "title": "market application of the fuzzy stochastic approach in the heston option pricing model",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1136-0593"
+            ],
+            "PId": 2890814231,
+            "citing": [
+                {
+                    "PId": 601330196,
+                    "author": [
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        },
+                        {
+                            "AuId": 17349314,
+                            "AuN": "laerte sorini"
+                        },
+                        {
+                            "AuId": 1955672472,
+                            "AuN": "luciano stefanini"
+                        }
+                    ],
+                    "doi": "10.1007/S40815-017-0308-Z",
+                    "journal": "international journal of fuzzy systems",
+                    "title": "value function computation in fuzzy models by differential evolution",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.25102/FER.2011.02.01",
+            "journal": "FUZZY ECONOMIC REVIEW",
+            "title": "fuzzy uncertainty in the heston stochastic volatility model",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9788024823515"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "8"
+            },
+            "title": "uncertain parameters as fuzzy numbers in option pricing models",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "0167-9473"
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "9"
+            },
+            "journal": "COMPUTATIONAL STATISTICS & DATA ANALYSIS",
+            "title": "testing volatility autocorrelation in the constant elasticity of variance stochastic volatility model",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "9780769538723"
+            ],
+            "PId": 2106040756,
+            "cited": [
+                {
+                    "PId": 2912565176,
+                    "author": [
+                        {
+                            "AuId": 2252586558,
+                            "AuN": "lotfi a zadeh"
+                        }
+                    ],
+                    "title": "fuzzy sets",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2330022088,
+                    "author": [
+                        {
+                            "AuId": 2300659125,
+                            "AuN": "didier dubois"
+                        },
+                        {
+                            "AuId": 2082615088,
+                            "AuN": "henri prade"
+                        }
+                    ],
+                    "title": "fuzzy sets and systems theory and applications",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1973822995,
+                    "author": [
+                        {
+                            "AuId": 2109179271,
+                            "AuN": "arnold kaufmann"
+                        },
+                        {
+                            "AuId": 2126233826,
+                            "AuN": "madan m gupta"
+                        }
+                    ],
+                    "title": "introduction to fuzzy arithmetic theory and applications",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 1521534991,
+                    "author": [
+                        {
+                            "AuId": 2115569417,
+                            "AuN": "abraham kandel"
+                        }
+                    ],
+                    "title": "fuzzy mathematical techniques with applications",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2069608252,
+                    "author": [
+                        {
+                            "AuId": 1955672472,
+                            "AuN": "luciano stefanini"
+                        },
+                        {
+                            "AuId": 17349314,
+                            "AuN": "laerte sorini"
+                        },
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        },
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        }
+                    ],
+                    "doi": "10.1016/J.FSS.2006.02.002",
+                    "journal": "fuzzy sets and systems",
+                    "title": "parametric representation of fuzzy numbers and application to fuzzy calculus",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2970857329,
+                    "author": [
+                        {
+                            "AuId": 2970168715,
+                            "AuN": "gerd bohlender"
+                        },
+                        {
+                            "AuId": 2109179271,
+                            "AuN": "arnold kaufmann"
+                        },
+                        {
+                            "AuId": 2126233826,
+                            "AuN": "madan m gupta"
+                        }
+                    ],
+                    "doi": "10.2307/2008199",
+                    "journal": "mathematics of computation",
+                    "title": "introduction to fuzzy arithmetic theory and applications",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 1967056914,
+                    "author": [
+                        {
+                            "AuId": 2113148517,
+                            "AuN": "james j buckley"
+                        }
+                    ],
+                    "doi": "10.1016/0165-0114(87)90128-X",
+                    "journal": "fuzzy sets and systems",
+                    "title": "the fuzzy mathematics of finance",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 1572668326,
+                    "author": [
+                        {
+                            "AuId": 1955672472,
+                            "AuN": "luciano stefanini"
+                        },
+                        {
+                            "AuId": 17349314,
+                            "AuN": "laerte sorini"
+                        },
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        }
+                    ],
+                    "doi": "10.1002/9780470724163.CH12",
+                    "title": "fuzzy numbers and fuzzy arithmetic",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1979401654,
+                    "author": [
+                        {
+                            "AuId": 2667243257,
+                            "AuN": "m l calzi"
+                        }
+                    ],
+                    "doi": "10.1016/0165-0114(90)90001-M",
+                    "journal": "fuzzy sets and systems",
+                    "title": "towards a general setting for the fuzzy mathematics of finance",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2019068280,
+                    "author": [
+                        {
+                            "AuId": 2479280652,
+                            "AuN": "byoung kyun kim"
+                        },
+                        {
+                            "AuId": 2637657591,
+                            "AuN": "jai heui kim"
+                        }
+                    ],
+                    "doi": "10.1006/JMAA.1999.6461",
+                    "journal": "journal of mathematical analysis and applications",
+                    "title": "stochastic integrals of set valued processes and fuzzy processes",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2164573445,
+                    "author": [
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        },
+                        {
+                            "AuId": 17349314,
+                            "AuN": "laerte sorini"
+                        },
+                        {
+                            "AuId": 1955672472,
+                            "AuN": "luciano stefanini"
+                        }
+                    ],
+                    "doi": "10.1109/FUZZY.2007.4295456",
+                    "title": "parametrized fuzzy numbers for option pricing",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2016063940,
+                    "author": [
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        },
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2005.02.011",
+                    "journal": "journal of banking and finance",
+                    "title": "fitting prices with a complete model",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2084368190,
+                    "author": [
+                        {
+                            "AuId": 2030242095,
+                            "AuN": "mario fedrizzi"
+                        },
+                        {
+                            "AuId": 1998364218,
+                            "AuN": "michele fedrizzi"
+                        },
+                        {
+                            "AuId": 1020763429,
+                            "AuN": "walenty ostasiewicz"
+                        }
+                    ],
+                    "doi": "10.1016/0165-0114(93)90371-N",
+                    "journal": "fuzzy sets and systems",
+                    "title": "towards fuzzy modelling in economics",
+                    "year_mag": 1993
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Zadeh",
+                            "given": "L.A.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/S0019-9958(65)90241-X",
+                    "title": "fuzzy sets",
+                    "year_oc": 1965
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 3082512870,
+                    "author": [
+                        {
+                            "AuId": 2015819159,
+                            "AuN": "leandro maciel"
+                        },
+                        {
+                            "AuId": 2133405547,
+                            "AuN": "andre paim lemos"
+                        },
+                        {
+                            "AuId": 2151486370,
+                            "AuN": "fernando gomide"
+                        },
+                        {
+                            "AuId": 1226752065,
+                            "AuN": "rosangela ballini"
+                        }
+                    ],
+                    "doi": "10.1007/S12530-011-9042-1",
+                    "journal": "evolving systems",
+                    "title": "evolving fuzzy systems for pricing fixed income options",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2914790184,
+                    "author": [
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        },
+                        {
+                            "AuId": 17349314,
+                            "AuN": "laerte sorini"
+                        },
+                        {
+                            "AuId": 1955672472,
+                            "AuN": "luciano stefanini"
+                        }
+                    ],
+                    "doi": "10.1016/J.IJAR.2019.01.011",
+                    "journal": "evolving systems",
+                    "title": "quantile and expectile smoothing based on l1 norm and l2 norm fuzzy transforms",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2161774074,
+                    "author": [
+                        {
+                            "AuId": 2015819159,
+                            "AuN": "leandro maciel"
+                        },
+                        {
+                            "AuId": 2151486370,
+                            "AuN": "fernando gomide"
+                        },
+                        {
+                            "AuId": 1226752065,
+                            "AuN": "rosangela ballini"
+                        }
+                    ],
+                    "doi": "10.1109/EAIS.2011.5945922",
+                    "journal": "evolving systems",
+                    "title": "evolving fuzzy systems for pricing fixed income options",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 601330196,
+                    "author": [
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        },
+                        {
+                            "AuId": 17349314,
+                            "AuN": "laerte sorini"
+                        },
+                        {
+                            "AuId": 1955672472,
+                            "AuN": "luciano stefanini"
+                        }
+                    ],
+                    "doi": "10.1007/S40815-017-0308-Z",
+                    "journal": "evolving systems",
+                    "title": "value function computation in fuzzy models by differential evolution",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3090184566,
+                    "author": [
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        },
+                        {
+                            "AuId": 17349314,
+                            "AuN": "laerte sorini"
+                        }
+                    ],
+                    "journal": "evolving systems",
+                    "title": "incorporating uncertainty in financial models",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2187473615,
+                    "author": [
+                        {
+                            "AuId": 2188290823,
+                            "AuN": "maria letizia"
+                        }
+                    ],
+                    "journal": "evolving systems",
+                    "title": "market application of the fuzzy stochastic approach in the heston option pricing model",
+                    "year_mag": 2012
+                }
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "10"
+            },
+            "doi": "10.1109/ISDA.2009.243",
+            "title": "fuzzy option value with stochastic volatility models",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "9783540223481"
+            ],
+            "cv_id": {
+                "pubbs": "11",
+                "pubbs_ind": "11"
+            },
+            "title": "case study nonparametric estimation of jump diffusions ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "1469-7688"
+            ],
+            "cv_id": {
+                "pubbs": "12",
+                "pubbs_ind": "12"
+            },
+            "journal": "QUANTITATIVE FINANCE",
+            "title": "conditional tail behavior and value at risk",
+            "type": "articolo in rivista",
+            "year": 2007
+        },
+        {
+            "ISSN": [
+                "0378-4266"
+            ],
+            "PId": 2016063940,
+            "cited": [
+                {
+                    "PId": 2044503966,
+                    "author": [
+                        {
+                            "AuId": 2153855188,
+                            "AuN": "james d hamilton"
+                        }
+                    ],
+                    "title": "time series analysis",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2064978316,
+                    "author": [
+                        {
+                            "AuId": 2397796208,
+                            "AuN": "steven l heston"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/6.2.327",
+                    "journal": "review of financial studies",
+                    "title": "a closed form solution for options with stochastic volatility with applications to bond and currency options",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2077791698,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        },
+                        {
+                            "AuId": 2640352042,
+                            "AuN": "myron s scholes"
+                        }
+                    ],
+                    "doi": "10.1086/260062",
+                    "journal": "journal of political economy",
+                    "title": "the pricing of options and corporate liabilities",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 1594842258,
+                    "author": [
+                        {
+                            "AuId": 2148426828,
+                            "AuN": "bent jesper christensen"
+                        },
+                        {
+                            "AuId": 2187797877,
+                            "AuN": "nagpurnanand prabhala"
+                        }
+                    ],
+                    "doi": "10.1016/S0304-405X(98)00034-8",
+                    "journal": "journal of financial economics",
+                    "title": "the relation between implied and realized volatility",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2025006397,
+                    "author": [
+                        {
+                            "AuId": 2297501334,
+                            "AuN": "jinchuan duan"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9965.1995.TB00099.X",
+                    "journal": "mathematical finance",
+                    "title": "the garch option pricing model",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2044965965,
+                    "author": [
+                        {
+                            "AuId": 2123118229,
+                            "AuN": "david hobson"
+                        },
+                        {
+                            "AuId": 2155405900,
+                            "AuN": "l c g rogers"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9965.00043",
+                    "journal": "mathematical finance",
+                    "title": "complete models with stochastic volatility",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1997340698,
+                    "author": [
+                        {
+                            "AuId": 2098782859,
+                            "AuN": "marc chesney"
+                        },
+                        {
+                            "AuId": 2108941382,
+                            "AuN": "robert j elliott"
+                        },
+                        {
+                            "AuId": 737546859,
+                            "AuN": "dilip b madan"
+                        },
+                        {
+                            "AuId": 2119025635,
+                            "AuN": "hailiang yang"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9965.1993.TB00080.X",
+                    "journal": "mathematical finance",
+                    "title": "diffusion coefficient estimation and asset pricing when risk premia and sensitivities are time varying",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2006832608,
+                    "author": [
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        },
+                        {
+                            "AuId": 17349314,
+                            "AuN": "laerte sorini"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2004.01.004",
+                    "journal": "european journal of operational research",
+                    "title": "testing robustness in calibration of stochastic volatility models",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2064518267,
+                    "author": [
+                        {
+                            "AuId": 170623536,
+                            "AuN": "sergio pastorello"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9965.1996.TB00114.X",
+                    "journal": "mathematical finance",
+                    "title": "diffusion coefficient estimation and asset pricing when risk premia and sensitivities are time varying a comment",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 3478985,
+                    "author": [
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        },
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-57652-2_11",
+                    "title": "towards a coherent volatility pricing model an empirical comparison",
+                    "year_mag": 2000
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2134782785,
+                    "author": [
+                        {
+                            "AuId": 1988089434,
+                            "AuN": "paolo foschi"
+                        },
+                        {
+                            "AuId": 1954852740,
+                            "AuN": "andrea pascucci"
+                        }
+                    ],
+                    "doi": "10.1007/S10203-007-0076-6",
+                    "title": "path dependent volatility",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 601330196,
+                    "author": [
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        },
+                        {
+                            "AuId": 17349314,
+                            "AuN": "laerte sorini"
+                        },
+                        {
+                            "AuId": 1955672472,
+                            "AuN": "luciano stefanini"
+                        }
+                    ],
+                    "doi": "10.1007/S40815-017-0308-Z",
+                    "title": "value function computation in fuzzy models by differential evolution",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2106040756,
+                    "author": [
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        },
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        }
+                    ],
+                    "doi": "10.1109/ISDA.2009.243",
+                    "title": "fuzzy option value with stochastic volatility models",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2006438692,
+                    "author": [
+                        {
+                            "AuId": 1988089434,
+                            "AuN": "paolo foschi"
+                        },
+                        {
+                            "AuId": 1954852740,
+                            "AuN": "andrea pascucci"
+                        }
+                    ],
+                    "doi": "10.1016/J.CSDA.2008.10.042",
+                    "title": "calibration of a path dependent volatility model empirical tests",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1993929029,
+                    "author": [
+                        {
+                            "AuId": 2114911062,
+                            "AuN": "reiichiro kawai"
+                        }
+                    ],
+                    "doi": "10.1142/S0219024909005294",
+                    "title": "sensitivity analysis and density estimation for the hobson rogers stochastic volatility model",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1993592365,
+                    "author": [
+                        {
+                            "AuId": 2793612954,
+                            "AuN": "mauro rosestolato"
+                        },
+                        {
+                            "AuId": 2192408592,
+                            "AuN": "tiziano vargiolu"
+                        },
+                        {
+                            "AuId": 2672309264,
+                            "AuN": "giovanna villani"
+                        }
+                    ],
+                    "doi": "10.1007/S10203-012-0128-4",
+                    "title": "robustness for path dependent volatility models",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 3090184566,
+                    "author": [
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        },
+                        {
+                            "AuId": 17349314,
+                            "AuN": "laerte sorini"
+                        }
+                    ],
+                    "title": "incorporating uncertainty in financial models",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1490438226,
+                    "author": [
+                        {
+                            "AuId": 2563652052,
+                            "AuN": "olesia verchenko"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1823449",
+                    "title": "testing option pricing models complete and incomplete markets",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2562171907,
+                    "author": [
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        },
+                        {
+                            "AuId": 17349314,
+                            "AuN": "laerte sorini"
+                        }
+                    ],
+                    "title": "variance reduction in a stochastic volatility scenario",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2187473615,
+                    "author": [
+                        {
+                            "AuId": 2188290823,
+                            "AuN": "maria letizia"
+                        }
+                    ],
+                    "title": "market application of the fuzzy stochastic approach in the heston option pricing model",
+                    "year_mag": 2012
+                }
+            ],
+            "cv_id": {
+                "pubbs": "13",
+                "pubbs_ind": "13"
+            },
+            "doi": "10.1016/J.JBANKFIN.2005.02.011",
+            "journal": "JOURNAL OF BANKING & FINANCE",
+            "title": "fitting prices with a complete model ",
+            "type": "articolo in rivista",
+            "year": 2006
+        },
+        {
+            "ISSN": [
+                "0377-2217"
+            ],
+            "cv_id": {
+                "pubbs": "14",
+                "pubbs_ind": "14"
+            },
+            "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+            "title": "runs test for assessing volatility forecastability in financial time series",
+            "type": "articolo in rivista",
+            "year": 2005
+        },
+        {
+            "ISSN": [
+                "0219-0249"
+            ],
+            "cv_id": {
+                "pubbs": "15",
+                "pubbs_ind": "15"
+            },
+            "journal": "INTERNATIONAL JOURNAL OF THEORETICAL AND APPLIED FINANCE",
+            "title": "detecting and modelling tail dependence ",
+            "type": "articolo in rivista",
+            "year": 2004
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2261820266,
+            "title": "on an implicit assessment of fuzzy volatility in the black and scholes environment",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2087951559,
+            "cited": [
+                {
+                    "PId": 2010997253,
+                    "author": [
+                        {
+                            "AuId": 2397423007,
+                            "AuN": "john y campbell"
+                        },
+                        {
+                            "AuId": 2167401348,
+                            "AuN": "andrew w lo"
+                        },
+                        {
+                            "AuId": 1989314247,
+                            "AuN": "a craig mackinlay"
+                        },
+                        {
+                            "AuId": 2151504071,
+                            "AuN": "robert f whitelaw"
+                        }
+                    ],
+                    "title": "the econometrics of financial markets",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2116988722,
+                    "author": [
+                        {
+                            "AuId": 2023750619,
+                            "AuN": "eugene f fama"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1991.TB04636.X",
+                    "journal": "journal of finance",
+                    "title": "efficient capital markets ii",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2151726729,
+                    "author": [
+                        {
+                            "AuId": 2232721156,
+                            "AuN": "torben g andersen"
+                        },
+                        {
+                            "AuId": 82914580,
+                            "AuN": "tim bollerslev"
+                        },
+                        {
+                            "AuId": 229073825,
+                            "AuN": "francis x diebold"
+                        },
+                        {
+                            "AuId": 240029202,
+                            "AuN": "paul labys"
+                        }
+                    ],
+                    "doi": "10.1111/1468-0262.00418",
+                    "journal": "econometrica",
+                    "title": "modeling and forecasting realized volatility",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2149395501,
+                    "author": [
+                        {
+                            "AuId": 581491631,
+                            "AuN": "peter christoffersen"
+                        },
+                        {
+                            "AuId": 581491631,
+                            "AuN": "peter christoffersen"
+                        },
+                        {
+                            "AuId": 581491631,
+                            "AuN": "peter christoffersen"
+                        },
+                        {
+                            "AuId": 229073825,
+                            "AuN": "francis x diebold"
+                        },
+                        {
+                            "AuId": 229073825,
+                            "AuN": "francis x diebold"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.54001",
+                    "journal": "the review of economics and statistics",
+                    "title": "how relevant is volatility forecasting for financial risk management",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2153604581,
+                    "author": [
+                        {
+                            "AuId": 1856348575,
+                            "AuN": "avinash dixit"
+                        }
+                    ],
+                    "doi": "10.1111/1468-0262.00415",
+                    "journal": "econometrica",
+                    "title": "on modes of economic governance",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1608358328,
+                    "author": [
+                        {
+                            "AuId": 2108798409,
+                            "AuN": "thomas mikosch"
+                        }
+                    ],
+                    "doi": "10.1201/9780203483350.CH5",
+                    "title": "modeling dependence and tails of financial time series",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2124782144,
+                    "author": [
+                        {
+                            "AuId": 2146266566,
+                            "AuN": "campbell r harvey"
+                        },
+                        {
+                            "AuId": 2158511583,
+                            "AuN": "robert e whaley"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1991.TB04631.X",
+                    "journal": "journal of finance",
+                    "title": "s p 100 index option volatility",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2011077222,
+                    "author": [
+                        {
+                            "AuId": 2628103594,
+                            "AuN": "c f crouse"
+                        },
+                        {
+                            "AuId": 2557472754,
+                            "AuN": "e l lehmann"
+                        }
+                    ],
+                    "doi": "10.2307/2332982",
+                    "journal": "biometrika",
+                    "title": "testing statistical hypothesis",
+                    "year_mag": 1960
+                },
+                {
+                    "PId": 2037480914,
+                    "author": [
+                        {
+                            "AuId": 2619372212,
+                            "AuN": "fabio bellini"
+                        },
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        }
+                    ],
+                    "doi": "10.1142/S0219024904002426",
+                    "journal": "international journal of theoretical and applied finance",
+                    "title": "detecting and modeling tail dependence",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2014208825,
+                    "author": [
+                        {
+                            "AuId": 2601062478,
+                            "AuN": "qing han"
+                        },
+                        {
+                            "AuId": 2130081261,
+                            "AuN": "sigeo aki"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-7152(98)00085-6",
+                    "journal": "statistics & probability letters",
+                    "title": "formulae and recursions for the joint distributions of success runs of several lengths in a two state markov chain",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1987239767,
+                    "author": [
+                        {
+                            "AuId": 2755238868,
+                            "AuN": "w y wendy lou"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-7152(96)00027-2",
+                    "journal": "statistics & probability letters",
+                    "title": "an application of the method of finite markov chain imbedding to runs tests",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1881609359,
+                    "author": [
+                        {
+                            "AuId": 2640459994,
+                            "AuN": "gouri k bhattacharyya"
+                        }
+                    ],
+                    "doi": "10.1016/S0169-7161(84)04007-4",
+                    "journal": "handbook of statistics",
+                    "title": "5 tests of randomness against trend or serial correlations",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 2073921855,
+                    "author": [
+                        {
+                            "AuId": 2100454184,
+                            "AuN": "f n david"
+                        }
+                    ],
+                    "doi": "10.1093/BIOMET/34.3-4.335",
+                    "journal": "biometrika",
+                    "title": "a power function for tests of randomness in a sequence of alternatives",
+                    "year_mag": 1947
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2065821126,
+                    "author": [
+                        {
+                            "AuId": 197136322,
+                            "AuN": "benoit sevi"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2014.01.019",
+                    "journal": "european journal of operational research",
+                    "title": "forecasting the volatility of crude oil futures using intraday data",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1969191186,
+                    "author": [
+                        {
+                            "AuId": 2653703423,
+                            "AuN": "yaosan lin"
+                        },
+                        {
+                            "AuId": 2126333108,
+                            "AuN": "derchiang li"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2010.03.026",
+                    "journal": "european journal of operational research",
+                    "title": "the generalized trend diffusion modeling algorithm for small data sets in the early stages of manufacturing systems",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2138900913,
+                    "author": [
+                        {
+                            "AuId": 2157972024,
+                            "AuN": "katie m douglas"
+                        },
+                        {
+                            "AuId": 2250726777,
+                            "AuN": "richard j porter"
+                        },
+                        {
+                            "AuId": 2120748277,
+                            "AuN": "chris frampton"
+                        },
+                        {
+                            "AuId": 2137701363,
+                            "AuN": "peter gallagher"
+                        },
+                        {
+                            "AuId": 2117841170,
+                            "AuN": "allan h young"
+                        }
+                    ],
+                    "doi": "10.1016/J.JAD.2009.02.018",
+                    "journal": "european journal of operational research",
+                    "title": "abnormal response to failure in unmedicated major depression",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2211908597,
+                    "author": [
+                        {
+                            "AuId": 2149003515,
+                            "AuN": "yuning qian"
+                        },
+                        {
+                            "AuId": 2071305339,
+                            "AuN": "ruqiang yan"
+                        }
+                    ],
+                    "doi": "10.1155/2016/6971952",
+                    "journal": "european journal of operational research",
+                    "title": "gearbox fault diagnosis in a wind turbine using single sensor based blind source separation",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2062819031,
+                    "author": [
+                        {
+                            "AuId": 1970195455,
+                            "AuN": "john r doyle"
+                        },
+                        {
+                            "AuId": 2157689936,
+                            "AuN": "catherine huirong chen"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2012.11.057",
+                    "journal": "european journal of operational research",
+                    "title": "patterns in stock market movements tested as random number generators",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 589982354,
+                    "author": [
+                        {
+                            "AuId": 2015819159,
+                            "AuN": "leandro maciel"
+                        },
+                        {
+                            "AuId": 2151486370,
+                            "AuN": "fernando gomide"
+                        },
+                        {
+                            "AuId": 1226752065,
+                            "AuN": "rosangela ballini"
+                        }
+                    ],
+                    "journal": "european journal of operational research",
+                    "title": "an evolving fuzzy garch approach forfinancial volatility modeling and forecasting",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2060914737,
+                    "author": [
+                        {
+                            "AuId": 2042823541,
+                            "AuN": "zhongsheng hua"
+                        },
+                        {
+                            "AuId": 2700772636,
+                            "AuN": "bin zhang"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2007.01.005",
+                    "journal": "european journal of operational research",
+                    "title": "improving density forecast by modeling asymmetric features an application to s p500 returns",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2022118209,
+                    "author": [
+                        {
+                            "AuId": 2013693319,
+                            "AuN": "lawrence kryzanowski"
+                        },
+                        {
+                            "AuId": 2008094446,
+                            "AuN": "sana mohsni"
+                        }
+                    ],
+                    "doi": "10.1080/1351847X.2013.769891",
+                    "journal": "european journal of operational research",
+                    "title": "persistence and current determinants of the future earnings growth rates of firms",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1601009809,
+                    "author": [
+                        {
+                            "AuId": 2580219261,
+                            "AuN": "maya clayton"
+                        }
+                    ],
+                    "journal": "european journal of operational research",
+                    "title": "econometric forecasting of financial assets using non linear smooth transition autoregressive models",
+                    "year_mag": 2011
+                }
+            ],
+            "doi": "10.1016/J.EJOR.2004.01.003",
+            "journal": "european journal of operational research",
+            "title": "runs tests for assessing volatility forecastability in financial time series",
+            "type": "1",
+            "year_mag": 2005
+        },
+        {
+            "PId": 2037480914,
+            "cited": [
+                {
+                    "PId": 2502254989,
+                    "author": [
+                        {
+                            "AuId": 2143469938,
+                            "AuN": "paul embrechts"
+                        },
+                        {
+                            "AuId": 280251340,
+                            "AuN": "claudia kluppelberg"
+                        },
+                        {
+                            "AuId": 2108798409,
+                            "AuN": "thomas mikosch"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-33483-2",
+                    "title": "modelling extremal events",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1977970167,
+                    "author": [
+                        {
+                            "AuId": 581491631,
+                            "AuN": "peter christoffersen"
+                        }
+                    ],
+                    "doi": "10.2307/2527341",
+                    "journal": "international economic review",
+                    "title": "evaluating interval forecasts",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2135177937,
+                    "author": [
+                        {
+                            "AuId": 1921370551,
+                            "AuN": "alexander j mcneil"
+                        },
+                        {
+                            "AuId": 2098383683,
+                            "AuN": "rudiger frey"
+                        }
+                    ],
+                    "doi": "10.1016/S0927-5398(00)00012-8",
+                    "journal": "journal of empirical finance",
+                    "title": "estimation of tail related risk measures for heteroscedastic financial time series an extreme value approach",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2117447427,
+                    "author": [
+                        {
+                            "AuId": 2243775075,
+                            "AuN": "giovanni baroneadesi"
+                        },
+                        {
+                            "AuId": 2312130299,
+                            "AuN": "kostas giannopoulos"
+                        },
+                        {
+                            "AuId": 2491683087,
+                            "AuN": "les vosper"
+                        }
+                    ],
+                    "doi": "10.1002/(SICI)1096-9934(199908)19:5<583::AID-FUT5>3.0.CO;2-S",
+                    "journal": "journal of futures markets",
+                    "title": "var without correlations for portfolios of derivative securities",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2009169570,
+                    "author": [
+                        {
+                            "AuId": 2136921656,
+                            "AuN": "richard l smith"
+                        }
+                    ],
+                    "doi": "10.1214/AOS/1176350499",
+                    "journal": "annals of statistics",
+                    "title": "estimating tails of probability distributions",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2073921855,
+                    "author": [
+                        {
+                            "AuId": 2100454184,
+                            "AuN": "f n david"
+                        }
+                    ],
+                    "doi": "10.1093/BIOMET/34.3-4.335",
+                    "journal": "biometrika",
+                    "title": "a power function for tests of randomness in a sequence of alternatives",
+                    "year_mag": 1947
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Reiss",
+                            "given": "Rolf-Dieter",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Thomas",
+                            "given": "Michael",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-0348-6336-0",
+                    "title": "statistical analysis of extreme values",
+                    "year_oc": 1997
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Christoffersen",
+                            "given": "Peter F.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Diebold",
+                            "given": "Francis X.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1162/003465300558597",
+                    "title": "how relevant is volatility forecasting for financial risk management ",
+                    "year_oc": 2000
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Fama",
+                            "given": "Eugene F.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.2307/2325486",
+                    "title": "efficient capital markets a review of theory and empirical work",
+                    "year_oc": 1970
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "David",
+                            "given": "F. N.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Barton",
+                            "given": "D. E.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/2551259",
+                    "title": "combinatorial chance ",
+                    "year_oc": 1962
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Gumbel",
+                            "given": "E. J.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.7312/GUMB92958",
+                    "title": "statistics of extremes",
+                    "year_oc": 1958
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2099822460,
+                    "author": [
+                        {
+                            "AuId": 2122905470,
+                            "AuN": "song xi chen"
+                        }
+                    ],
+                    "doi": "10.1093/JJFINEC/NBM019",
+                    "journal": "journal of financial econometrics",
+                    "title": "nonparametric estimation of expected shortfall",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2141444014,
+                    "author": [
+                        {
+                            "AuId": 2122905470,
+                            "AuN": "song xi chen"
+                        },
+                        {
+                            "AuId": 2100084104,
+                            "AuN": "cheng yong tang"
+                        }
+                    ],
+                    "doi": "10.1093/JJFINEC/NBI012",
+                    "journal": "journal of financial econometrics",
+                    "title": "nonparametric inference of value at risk for dependent financial returns",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2087951559,
+                    "author": [
+                        {
+                            "AuId": 2619372212,
+                            "AuN": "fabio bellini"
+                        },
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2004.01.003",
+                    "journal": "journal of financial econometrics",
+                    "title": "runs tests for assessing volatility forecastability in financial time series",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2146516910,
+                    "author": [
+                        {
+                            "AuId": 2651326790,
+                            "AuN": "\u015febnem er"
+                        },
+                        {
+                            "AuId": 2197374218,
+                            "AuN": "neslihan fidan"
+                        }
+                    ],
+                    "journal": "journal of financial econometrics",
+                    "title": "modeling istanbul stock exchange 100 daily stock returns a nonparametric garch approach",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2019127131,
+                    "author": [
+                        {
+                            "AuId": 2619372212,
+                            "AuN": "fabio bellini"
+                        },
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        }
+                    ],
+                    "doi": "10.1080/14697680601155516",
+                    "journal": "journal of financial econometrics",
+                    "title": "conditional tail behaviour and value at risk",
+                    "year_mag": 2007
+                }
+            ],
+            "doi": "10.1142/S0219024904002426",
+            "journal": "international journal of theoretical and applied finance",
+            "title": "detecting and modeling tail dependence",
+            "type": "1",
+            "year_mag": 2004
+        },
+        {
+            "PId": 2019127131,
+            "cited": [
+                {
+                    "PId": 2019291268,
+                    "author": [
+                        {
+                            "AuId": 2148130746,
+                            "AuN": "philippe artzner"
+                        },
+                        {
+                            "AuId": 2304226911,
+                            "AuN": "freddy delbaen"
+                        },
+                        {
+                            "AuId": 1996632760,
+                            "AuN": "jeanmarc eber"
+                        },
+                        {
+                            "AuId": 2618472453,
+                            "AuN": "david heath"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9965.00068",
+                    "journal": "mathematical finance",
+                    "title": "coherent measures of risk",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2129905273,
+                    "author": [
+                        {
+                            "AuId": 2297037089,
+                            "AuN": "b w silverman"
+                        }
+                    ],
+                    "doi": "10.1201/9781315140919",
+                    "journal": "journal of the royal statistical society series c applied statistics",
+                    "title": "density estimation for statistics and data analysis",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2170838015,
+                    "author": [
+                        {
+                            "AuId": 393004383,
+                            "AuN": "r tyrrell rockafellar"
+                        },
+                        {
+                            "AuId": 3001509686,
+                            "AuN": "stanislav uryasev"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-4266(02)00271-6",
+                    "journal": "journal of banking and finance",
+                    "title": "conditional value at risk for general loss distributions",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2502254989,
+                    "author": [
+                        {
+                            "AuId": 2143469938,
+                            "AuN": "paul embrechts"
+                        },
+                        {
+                            "AuId": 280251340,
+                            "AuN": "claudia kluppelberg"
+                        },
+                        {
+                            "AuId": 2108798409,
+                            "AuN": "thomas mikosch"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-33483-2",
+                    "title": "modelling extremal events",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1977970167,
+                    "author": [
+                        {
+                            "AuId": 581491631,
+                            "AuN": "peter christoffersen"
+                        }
+                    ],
+                    "doi": "10.2307/2527341",
+                    "journal": "international economic review",
+                    "title": "evaluating interval forecasts",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2132527237,
+                    "author": [
+                        {
+                            "AuId": 2080216058,
+                            "AuN": "carlo acerbi"
+                        },
+                        {
+                            "AuId": 2167309270,
+                            "AuN": "dirk tasche"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-4266(02)00283-2",
+                    "journal": "journal of banking and finance",
+                    "title": "on the coherence of expected shortfall",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2046396733,
+                    "author": [
+                        {
+                            "AuId": 2303521429,
+                            "AuN": "hans follmer"
+                        },
+                        {
+                            "AuId": 12699018,
+                            "AuN": "alexander schied"
+                        }
+                    ],
+                    "doi": "10.1007/S007800200072",
+                    "journal": "finance and stochastics",
+                    "title": "convex measures of risk and trading constraints",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2135177937,
+                    "author": [
+                        {
+                            "AuId": 1921370551,
+                            "AuN": "alexander j mcneil"
+                        },
+                        {
+                            "AuId": 2098383683,
+                            "AuN": "rudiger frey"
+                        }
+                    ],
+                    "doi": "10.1016/S0927-5398(00)00012-8",
+                    "journal": "journal of empirical finance",
+                    "title": "estimation of tail related risk measures for heteroscedastic financial time series an extreme value approach",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 180252950,
+                    "author": [
+                        {
+                            "AuId": 2185431239,
+                            "AuN": "rolfdieter reiss"
+                        },
+                        {
+                            "AuId": 2308917275,
+                            "AuN": "michael thomas"
+                        }
+                    ],
+                    "title": "statistical analysis of extreme values",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1486650488,
+                    "author": [
+                        {
+                            "AuId": 2085403699,
+                            "AuN": "svetlozar t rachev"
+                        }
+                    ],
+                    "title": "handbook of heavy tailed distributions in finance",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1495168406,
+                    "author": [
+                        {
+                            "AuId": 581491631,
+                            "AuN": "peter christoffersen"
+                        }
+                    ],
+                    "title": "elements of financial risk management",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2099208941,
+                    "author": [
+                        {
+                            "AuId": 2709934626,
+                            "AuN": "jon danielsson"
+                        },
+                        {
+                            "AuId": 2192347309,
+                            "AuN": "casper g de vries"
+                        }
+                    ],
+                    "doi": "10.2307/20076262",
+                    "journal": "annals of economics and statistics",
+                    "title": "value at risk and extreme returns",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2048649579,
+                    "author": [
+                        {
+                            "AuId": 2629059370,
+                            "AuN": "bruce m hill"
+                        }
+                    ],
+                    "doi": "10.1214/AOS/1176343247",
+                    "journal": "annals of statistics",
+                    "title": "a simple general approach to inference about the tail of a distribution",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 2117447427,
+                    "author": [
+                        {
+                            "AuId": 2243775075,
+                            "AuN": "giovanni baroneadesi"
+                        },
+                        {
+                            "AuId": 2312130299,
+                            "AuN": "kostas giannopoulos"
+                        },
+                        {
+                            "AuId": 2491683087,
+                            "AuN": "les vosper"
+                        }
+                    ],
+                    "doi": "10.1002/(SICI)1096-9934(199908)19:5<583::AID-FUT5>3.0.CO;2-S",
+                    "journal": "journal of futures markets",
+                    "title": "var without correlations for portfolios of derivative securities",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2009169570,
+                    "author": [
+                        {
+                            "AuId": 2136921656,
+                            "AuN": "richard l smith"
+                        }
+                    ],
+                    "doi": "10.1214/AOS/1176350499",
+                    "journal": "annals of statistics",
+                    "title": "estimating tails of probability distributions",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 1966158196,
+                    "author": [
+                        {
+                            "AuId": 2424540258,
+                            "AuN": "salih n neftci"
+                        }
+                    ],
+                    "doi": "10.3905/JOD.2000.319126",
+                    "journal": "journal of derivatives",
+                    "title": "value at risk calculations extreme events and tail estimation",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2312194337,
+                    "author": [
+                        {
+                            "AuId": 2619516741,
+                            "AuN": "e j gumbel"
+                        }
+                    ],
+                    "title": "statistics of extremes",
+                    "year_mag": 1958
+                },
+                {
+                    "PId": 2153190668,
+                    "author": [
+                        {
+                            "AuId": 2986604747,
+                            "AuN": "gerald s rogers"
+                        }
+                    ],
+                    "title": "mathematical statistics a decision theoretic approach",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 3022145223,
+                    "author": [
+                        {
+                            "AuId": 2265007868,
+                            "AuN": "jose a lopez"
+                        }
+                    ],
+                    "journal": "econometric reviews",
+                    "title": "methods for evaluating value at risk estimates",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 1705127892,
+                    "author": [
+                        {
+                            "AuId": 2108798409,
+                            "AuN": "thomas mikosch"
+                        },
+                        {
+                            "AuId": 2024530036,
+                            "AuN": "catalin starica"
+                        }
+                    ],
+                    "journal": "econometrics",
+                    "title": "changes of structure in financial time series and the garch model",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2011077222,
+                    "author": [
+                        {
+                            "AuId": 2628103594,
+                            "AuN": "c f crouse"
+                        },
+                        {
+                            "AuId": 2557472754,
+                            "AuN": "e l lehmann"
+                        }
+                    ],
+                    "doi": "10.2307/2332982",
+                    "journal": "biometrika",
+                    "title": "testing statistical hypothesis",
+                    "year_mag": 1960
+                },
+                {
+                    "PId": 2037480914,
+                    "author": [
+                        {
+                            "AuId": 2619372212,
+                            "AuN": "fabio bellini"
+                        },
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        }
+                    ],
+                    "doi": "10.1142/S0219024904002426",
+                    "journal": "international journal of theoretical and applied finance",
+                    "title": "detecting and modeling tail dependence",
+                    "year_mag": 2004
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Silverman",
+                            "given": "B. W.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4899-3324-9",
+                    "title": "density estimation for statistics and data analysis",
+                    "year_oc": 1986
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Reiss",
+                            "given": "Rolf-Dieter",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Thomas",
+                            "given": "Michael",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-0348-6336-0",
+                    "title": "statistical analysis of extreme values",
+                    "year_oc": 1997
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "David",
+                            "given": "F. N.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Barton",
+                            "given": "D. E.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2307/2551259",
+                    "title": "combinatorial chance ",
+                    "year_oc": 1962
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2090347902,
+                    "author": [
+                        {
+                            "AuId": 2619372212,
+                            "AuN": "fabio bellini"
+                        },
+                        {
+                            "AuId": 2789988150,
+                            "AuN": "valeria bignozzi"
+                        }
+                    ],
+                    "doi": "10.1080/14697688.2014.946955",
+                    "journal": "quantitative finance",
+                    "title": "on elicitable risk measures",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2181346308,
+                    "author": [
+                        {
+                            "AuId": 2619372212,
+                            "AuN": "fabio bellini"
+                        },
+                        {
+                            "AuId": 2789988150,
+                            "AuN": "valeria bignozzi"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2334746",
+                    "journal": "quantitative finance",
+                    "title": "elicitable risk measures",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2013336602,
+                    "author": [
+                        {
+                            "AuId": 2162915797,
+                            "AuN": "dolores furio"
+                        },
+                        {
+                            "AuId": 1976773801,
+                            "AuN": "francisco j climent"
+                        }
+                    ],
+                    "doi": "10.1080/14697688.2012.696679",
+                    "journal": "quantitative finance",
+                    "title": "extreme value theory versus traditional garch approaches applied to financial data a comparative evaluation",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2969749858,
+                    "author": [
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        },
+                        {
+                            "AuId": 2760799604,
+                            "AuN": "marco patacca"
+                        }
+                    ],
+                    "doi": "10.1007/S40812-019-00133-X",
+                    "journal": "quantitative finance",
+                    "title": "disentangling the relationship between bitcoin and market attention measures",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2040056158,
+                    "author": [
+                        {
+                            "AuId": 2484949329,
+                            "AuN": "jungbin su"
+                        },
+                        {
+                            "AuId": 2657782170,
+                            "AuN": "mingchih lee"
+                        },
+                        {
+                            "AuId": 2699823530,
+                            "AuN": "chienliang chiu"
+                        }
+                    ],
+                    "doi": "10.1016/J.IREF.2013.12.001",
+                    "journal": "quantitative finance",
+                    "title": "why does skewness and the fat tail effect influence value at risk estimates evidence from alternative capital markets",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 162642469,
+                    "author": [
+                        {
+                            "AuId": 2793014320,
+                            "AuN": "anna maria fiori"
+                        },
+                        {
+                            "AuId": 2413026783,
+                            "AuN": "emanuela rosazza gianin"
+                        },
+                        {
+                            "AuId": 2498329003,
+                            "AuN": "anna spasova"
+                        }
+                    ],
+                    "doi": "10.1007/978-88-470-2342-0_22",
+                    "journal": "quantitative finance",
+                    "title": "risk measures and pareto style tails",
+                    "year_mag": 2012
+                }
+            ],
+            "doi": "10.1080/14697680601155516",
+            "journal": "quantitative finance",
+            "title": "conditional tail behaviour and value at risk",
+            "type": "1",
+            "year_mag": 2007
+        },
+        {
+            "PId": 3478985,
+            "cited": [
+                {
+                    "PId": 2064978316,
+                    "author": [
+                        {
+                            "AuId": 2397796208,
+                            "AuN": "steven l heston"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/6.2.327",
+                    "journal": "review of financial studies",
+                    "title": "a closed form solution for options with stochastic volatility with applications to bond and currency options",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2148080284,
+                    "author": [
+                        {
+                            "AuId": 2682266702,
+                            "AuN": "john c hull"
+                        },
+                        {
+                            "AuId": 2121047447,
+                            "AuN": "alan white"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1987.TB02568.X",
+                    "journal": "journal of finance",
+                    "title": "the pricing of options on assets with stochastic volatilities",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2061363519,
+                    "author": [
+                        {
+                            "AuId": 2258818573,
+                            "AuN": "robert f engle"
+                        },
+                        {
+                            "AuId": 2615868754,
+                            "AuN": "victor ng"
+                        },
+                        {
+                            "AuId": 2615868754,
+                            "AuN": "victor ng"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1993.TB05127.X",
+                    "journal": "journal of finance",
+                    "title": "measuring and testing the impact of news on volatility",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2025006397,
+                    "author": [
+                        {
+                            "AuId": 2297501334,
+                            "AuN": "jinchuan duan"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9965.1995.TB00099.X",
+                    "journal": "mathematical finance",
+                    "title": "the garch option pricing model",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1994177366,
+                    "author": [
+                        {
+                            "AuId": 2110266519,
+                            "AuN": "daniel b nelson"
+                        }
+                    ],
+                    "doi": "10.1016/0304-4076(90)90092-8",
+                    "journal": "journal of econometrics",
+                    "title": "arch models as diffusion approximations",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2099579103,
+                    "author": [
+                        {
+                            "AuId": 129948039,
+                            "AuN": "peter e kloeden"
+                        },
+                        {
+                            "AuId": 2119609511,
+                            "AuN": "eckhard platen"
+                        },
+                        {
+                            "AuId": 2472414800,
+                            "AuN": "henri schurz"
+                        }
+                    ],
+                    "title": "numerical solution of sde through computer experiments",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2044965965,
+                    "author": [
+                        {
+                            "AuId": 2123118229,
+                            "AuN": "david hobson"
+                        },
+                        {
+                            "AuId": 2155405900,
+                            "AuN": "l c g rogers"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9965.00043",
+                    "journal": "mathematical finance",
+                    "title": "complete models with stochastic volatility",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2001772055,
+                    "author": [
+                        {
+                            "AuId": 2118554396,
+                            "AuN": "stephen taylor"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9965.1994.TB00057.X",
+                    "journal": "mathematical finance",
+                    "title": "modeling stochastic volatility a review and comparative study",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2060193840,
+                    "author": [
+                        {
+                            "AuId": 1977839445,
+                            "AuN": "valentine genoncatalot"
+                        },
+                        {
+                            "AuId": 1741065152,
+                            "AuN": "thierry jeantheau"
+                        },
+                        {
+                            "AuId": 2951181126,
+                            "AuN": "catherine laredo"
+                        }
+                    ],
+                    "doi": "10.2307/3318471",
+                    "journal": "bernoulli",
+                    "title": "stochastic volatility models as hidden markov models and statistical applications",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1997340698,
+                    "author": [
+                        {
+                            "AuId": 2098782859,
+                            "AuN": "marc chesney"
+                        },
+                        {
+                            "AuId": 2108941382,
+                            "AuN": "robert j elliott"
+                        },
+                        {
+                            "AuId": 737546859,
+                            "AuN": "dilip b madan"
+                        },
+                        {
+                            "AuId": 2119025635,
+                            "AuN": "hailiang yang"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9965.1993.TB00080.X",
+                    "journal": "mathematical finance",
+                    "title": "diffusion coefficient estimation and asset pricing when risk premia and sensitivities are time varying",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2064518267,
+                    "author": [
+                        {
+                            "AuId": 170623536,
+                            "AuN": "sergio pastorello"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9965.1996.TB00114.X",
+                    "journal": "mathematical finance",
+                    "title": "diffusion coefficient estimation and asset pricing when risk premia and sensitivities are time varying a comment",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 1608205928,
+                    "author": [
+                        {
+                            "AuId": 2124666135,
+                            "AuN": "angel leon"
+                        },
+                        {
+                            "AuId": 2562816869,
+                            "AuN": "gabriele fiorentini"
+                        },
+                        {
+                            "AuId": 2108468594,
+                            "AuN": "gonzalo rubio"
+                        }
+                    ],
+                    "title": "short term options with stochastic volatility estimation and empirical performance",
+                    "year_mag": 2000
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2016063940,
+                    "author": [
+                        {
+                            "AuId": 1784049766,
+                            "AuN": "gianna figatalamanca"
+                        },
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2005.02.011",
+                    "journal": "journal of banking and finance",
+                    "title": "fitting prices with a complete model",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2006832608,
+                    "author": [
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        },
+                        {
+                            "AuId": 17349314,
+                            "AuN": "laerte sorini"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2004.01.004",
+                    "journal": "journal of banking and finance",
+                    "title": "testing robustness in calibration of stochastic volatility models",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2562171907,
+                    "author": [
+                        {
+                            "AuId": 2152368203,
+                            "AuN": "maria letizia guerra"
+                        },
+                        {
+                            "AuId": 17349314,
+                            "AuN": "laerte sorini"
+                        }
+                    ],
+                    "journal": "journal of banking and finance",
+                    "title": "variance reduction in a stochastic volatility scenario",
+                    "year_mag": 2007
+                }
+            ],
+            "doi": "10.1007/978-3-642-57652-2_11",
+            "title": "towards a coherent volatility pricing model an empirical comparison",
+            "type": "0",
+            "year_mag": 2000
+        }
+    ]
+}

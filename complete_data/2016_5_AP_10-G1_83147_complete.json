@@ -1,0 +1,534 @@
+{
+    "AuIds": [
+        2779833796,
+        2791423225,
+        2807981644
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 19,
+        "cand_paths": {},
+        "cc": {
+            "articles": {
+                "2781319287_+_2793066989": 1,
+                "2784402047_+_2793066989": 1
+            },
+            "number": 1
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 10,
+            "comm_other": 4682,
+            "other_cand": 7,
+            "other_comm": 4973
+        },
+        "other_nodes": 6525
+    },
+    "coverage": {
+        "articles": 4,
+        "books": 1,
+        "cov_sect": "A",
+        "other_pubbs": 7,
+        "pubbs": 10,
+        "pubbs_found": 10,
+        "pubbs_ind": 11,
+        "pubbs_ind_found": 10,
+        "total_extra_found": 19,
+        "total_found": 11,
+        "total_pubbs": 12
+    },
+    "fullname": [
+        "Cortes Velasquez",
+        "Diego Edisson"
+    ],
+    "ind_anvur": [
+        10,
+        3,
+        1,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "9783732904518"
+            ],
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "title": "einfuhrung",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2018
+        },
+        {
+            "PId": 2790670729,
+            "citing": [
+                {
+                    "PId": 3028420793,
+                    "author": [
+                        {
+                            "AuId": 2103695353,
+                            "AuN": "elena nuzzo"
+                        },
+                        {
+                            "AuId": 2807981644,
+                            "AuN": "diego edisson cortes velasquez"
+                        }
+                    ],
+                    "doi": "10.1007/S41701-020-00084-Y",
+                    "title": "canceling last minute in italian and colombian spanish a cross cultural account of pragmalinguistic strategies",
+                    "year_mag": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "title": "un indagine sulla consapevolezza metapragmatica di parlanti plurilingui",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2018
+        },
+        {
+            "ISBN": [
+                "9783732904518"
+            ],
+            "PId": 2790181732,
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "3"
+            },
+            "title": "a model for learning strategies instruction in multilingual reading",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2018
+        },
+        {
+            "ISSN": [
+                "2037-3597"
+            ],
+            "PId": 2784402047,
+            "citing": [
+                {
+                    "PId": 2892087104,
+                    "author": [
+                        {
+                            "AuId": 2343656848,
+                            "AuN": "paolo balboni"
+                        }
+                    ],
+                    "doi": "10.30687/ELLE/2280-6792/2018/01/008",
+                    "title": "beli bibliografia dell educazione linguistica in italia 2017 update",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.13130/2037-3597/9871",
+            "journal": "ITALIANO LINGUADUE",
+            "title": "analizzare i manuali per l insegnamento delle lingue strumenti per una glottodidattica applicata",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "2037-3597"
+            ],
+            "PId": 2740411020,
+            "citing": [
+                {
+                    "PId": 3028420793,
+                    "author": [
+                        {
+                            "AuId": 2103695353,
+                            "AuN": "elena nuzzo"
+                        },
+                        {
+                            "AuId": 2807981644,
+                            "AuN": "diego edisson cortes velasquez"
+                        }
+                    ],
+                    "doi": "10.1007/S41701-020-00084-Y",
+                    "title": "canceling last minute in italian and colombian spanish a cross cultural account of pragmalinguistic strategies",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3037985156,
+                    "author": [
+                        {
+                            "AuId": 2396897324,
+                            "AuN": "massimo verzella"
+                        },
+                        {
+                            "AuId": 2768520171,
+                            "AuN": "laura tommaso"
+                        }
+                    ],
+                    "doi": "10.5817/DI2020-1-92",
+                    "title": "the pragmatics of refusing a request in italian and american english a comparative study",
+                    "year_mag": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.13130/2037-3597/8761",
+            "journal": "ITALIANO LINGUADUE",
+            "title": "disdire un appuntamento spunti per la didattica dell italiano l2 a partire da un corpus di parlanti nativi",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1121-5291"
+            ],
+            "PId": 2615564825,
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "journal": "LINGUA E NUOVA DIDATTICA",
+            "title": "il lettore plurilingue lend",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788869691355"
+            ],
+            "PId": 2791987434,
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.14277/6969-134-8/SAIL-9-4",
+            "title": "il ruolo della trasparenza lessicale nella comprensione orale analisi di un corpus di dati sull ascolto dello spagnolo e il portoghese ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9782813001917"
+            ],
+            "PId": 2729183337,
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "title": "du phenomene de l intercomprehension et des termes qui le definissent",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-2-37276-007-2"
+            ],
+            "PId": 2618233239,
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "9"
+            },
+            "title": "la intercomprension y la ensenanza de las lenguas romances propuesta para una formacion metacognitiva a la comprension oral",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9781939323033"
+            ],
+            "PId": 2803795431,
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "10"
+            },
+            "title": "mona lisa in the classroom an educational proposal for integrated training in intercomprehension",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788860879370"
+            ],
+            "PId": 2792939091,
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "11"
+            },
+            "title": "intercomprensione orale ricerca e pratiche didattiche",
+            "type": "monografia o trattato scientifico",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "2376-905X"
+            ],
+            "PId": 2781319287,
+            "citing": [
+                {
+                    "PId": 2892087104,
+                    "author": [
+                        {
+                            "AuId": 2343656848,
+                            "AuN": "paolo balboni"
+                        }
+                    ],
+                    "doi": "10.30687/ELLE/2280-6792/2018/01/008",
+                    "title": "beli bibliografia dell educazione linguistica in italia 2017 update",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 3028420793,
+                    "author": [
+                        {
+                            "AuId": 2103695353,
+                            "AuN": "elena nuzzo"
+                        },
+                        {
+                            "AuId": 2807981644,
+                            "AuN": "diego edisson cortes velasquez"
+                        }
+                    ],
+                    "doi": "10.1007/S41701-020-00084-Y",
+                    "title": "canceling last minute in italian and colombian spanish a cross cultural account of pragmalinguistic strategies",
+                    "year_mag": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5"
+            },
+            "doi": "10.21283/2376905X.7.101",
+            "journal": "E-JOURNALL",
+            "title": "cancelar una cita como estrategia de rechazo postergado resultados e implicaciones didacticas de un estudio transcultural ",
+            "type": "articolo in rivista",
+            "year": 2017
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2791053197,
+            "title": "l immigrato latinoamericano lingue e culture dell america latina",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2807863794,
+            "cited": [
+                {
+                    "PId": 2149289676,
+                    "author": [
+                        {
+                            "AuId": 2281684665,
+                            "AuN": "larry vandergrift"
+                        }
+                    ],
+                    "doi": "10.1017/S0261444807004338",
+                    "journal": "language teaching",
+                    "title": "recent developments in second and foreign language listening comprehension research",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2151346700,
+                    "author": [
+                        {
+                            "AuId": 1922553477,
+                            "AuN": "anna uhl chamot"
+                        }
+                    ],
+                    "doi": "10.1017/S0267190505000061",
+                    "journal": "annual review of applied linguistics",
+                    "title": "language learning strategy instruction current issues and research",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2169077375,
+                    "author": [
+                        {
+                            "AuId": 2281684665,
+                            "AuN": "larry vandergrift"
+                        },
+                        {
+                            "AuId": 2320644841,
+                            "AuN": "christine c m goh"
+                        },
+                        {
+                            "AuId": 2074788628,
+                            "AuN": "catherine j mareschal"
+                        },
+                        {
+                            "AuId": 224168464,
+                            "AuN": "marzieh h tafaghodtari"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-9922.2006.00373.X",
+                    "journal": "language learning",
+                    "title": "the metacognitive awareness listening questionnaire development and validation",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1963704840,
+                    "author": [
+                        {
+                            "AuId": 2776421033,
+                            "AuN": "joan rubin"
+                        }
+                    ],
+                    "doi": "10.2307/3586011",
+                    "journal": "tesol quarterly",
+                    "title": "what the good language learner can teach us",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 1604750546,
+                    "author": [
+                        {
+                            "AuId": 3100543598,
+                            "AuN": "h h stern"
+                        }
+                    ],
+                    "doi": "10.3138/CMLR.31.4.304",
+                    "journal": "canadian modern language review revue canadienne des langues vivantes",
+                    "title": "what can we learn from the good language learner",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 2489960504,
+                    "author": [
+                        {
+                            "AuId": 2651067855,
+                            "AuN": "joan rubin"
+                        }
+                    ],
+                    "doi": "10.1057/9780230523470_3",
+                    "title": "the expert language learner a review of good language learner studies and learner strategies",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2792253348,
+                    "author": [
+                        {
+                            "AuId": 2077910966,
+                            "AuN": "clorinda donato"
+                        }
+                    ],
+                    "doi": "10.1353/HPN.2018.0069",
+                    "journal": "hispania",
+                    "title": "polyglots multilinguals and translanguagers spanish as a gateway language",
+                    "year_mag": 2018
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Klein",
+                            "given": "Wolfgang",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511815058",
+                    "title": "second language acquisition",
+                    "year_oc": 1986
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "O'Malley",
+                            "given": "J. Michael",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Chamot",
+                            "given": "Anna Uhl",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9781139524490",
+                    "title": "learning strategies in second language acquisition",
+                    "year_oc": 1990
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Bowles",
+                            "given": "Melissa A.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4324/9780203856338",
+                    "title": "the think aloud controversy in second language research",
+                    "year_oc": 2010
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 3100924960,
+                    "author": [
+                        {
+                            "AuId": 3102832483,
+                            "AuN": "cedric joseph oliva"
+                        },
+                        {
+                            "AuId": 3103326669,
+                            "AuN": "alan gomez larriva"
+                        }
+                    ],
+                    "doi": "10.1108/978-1-83982-128-820201005",
+                    "title": "intercomprehension of the romance languages in the l3 university classroom bridging the gap between student perceptions and abilities",
+                    "year_mag": 2020
+                }
+            ],
+            "doi": "10.3389/FCOMM.2018.00029",
+            "journal": "frontiers in communication",
+            "title": "observing strategies in intercomprehension reading some clues for assessment in plurilingual settings",
+            "type": "1",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2903789429,
+            "doi": "10.26346/1120-2726-120",
+            "journal": "the italian journal of linguistics",
+            "title": "sopratavola soprammobile come dite voi lists in l1 and l2",
+            "type": "1",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2339006546,
+            "title": "intercomprehension teaching devices and proposals for university linguistic centers",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2905543135,
+            "title": "il task nell insegnamento delle lingue percorsi tra ricerca e didattica al cla di roma tre",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2905459564,
+            "title": "la didattica con i task principi applicazioni prospettive",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2790964944,
+            "title": "strategien im kontext des mehrsprachigen und lebenslangen lernens",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2790200884,
+            "title": "buone pratiche d intercomprensione una visione d insieme",
+            "type": "0",
+            "year_mag": 2014
+        }
+    ]
+}

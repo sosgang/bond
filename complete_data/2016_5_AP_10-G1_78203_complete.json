@@ -1,0 +1,223 @@
+{
+    "AuIds": [
+        2356001719,
+        2979314268
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 3,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 0,
+            "comm_other": 4682,
+            "other_cand": 0,
+            "other_comm": 4973
+        },
+        "other_nodes": 6512
+    },
+    "coverage": {
+        "articles": 5,
+        "books": 2,
+        "cov_sect": "C",
+        "other_pubbs": 6,
+        "pubbs": 10,
+        "pubbs_found": 1,
+        "pubbs_ind": 12,
+        "pubbs_ind_found": 2,
+        "total_extra_found": 3,
+        "total_found": 2,
+        "total_pubbs": 13
+    },
+    "fullname": [
+        "Roccaforte",
+        "Maria"
+    ],
+    "ind_anvur": [
+        8,
+        2,
+        2,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "9788893770569"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "title": "le componenti orali della lingua dei segni italiana analisi linguistica indagini sperimentali e implicazioni glottodidattiche",
+            "type": "monografia o trattato scientifico",
+            "year": 2018
+        },
+        {
+            "ISBN": [
+                "978-88-255-1186-4"
+            ],
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "title": "la polemica tra un otoiatra laico gli allievi sordo muti e gli educatori clericali alla fine del 1800 una storia d altri tempi ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1592-1328"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "3"
+            },
+            "journal": "RIVISTA DI PSICOLINGUISTICA APPLICATA",
+            "title": "metalinguistic knowledge of second language acquisition terminology a deaf signer perspective",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1592-1328"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "4"
+            },
+            "journal": "RIVISTA DI PSICOLINGUISTICA APPLICATA",
+            "title": "lettura e sordita eye tracking in lettori sordi con storie linguistiche diverse ",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0072-4769"
+            ],
+            "PId": 3045717067,
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "5"
+            },
+            "journal": "GLOTTODIDACTICA",
+            "title": "reading comprehension and deafness the impact of e learning in an italian efl context",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-557-0601-8"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "title": "la lingua dei segni e il suo insegnamento",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-3-11-036036-3"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "7"
+            },
+            "title": "la lingua dei segni italiana",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788866826446"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "8"
+            },
+            "title": "deaf learners literacy and distance learning final results of firb visel project ",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-84-617-2485-7"
+            ],
+            "PId": 352766481,
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "title": "an e learning environment to improve deaf people language acquisition",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788820431181"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "10"
+            },
+            "title": "una didattica innovativa per l apprendente sordo",
+            "type": "monografia o trattato scientifico",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1873-1422"
+            ],
+            "cv_id": {
+                "pubbs_ind": "11"
+            },
+            "journal": "JOURNAL OF SECOND LANGUAGE WRITING",
+            "title": "e learning deafness written language a bridge of letters and signs towards knowledge society ",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "0393-0599"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "12"
+            },
+            "journal": "MEDIA DUEMILA",
+            "title": " detto fatto dettatura digitale il nuovo mondo da esplorare",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "9788861298262"
+            ],
+            "cv_id": {
+                "pubbs": "9"
+            },
+            "title": "e learning and deafness and written language a bridge of letters and signs towards the knowledge society ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2980188533,
+            "title": "deaf centered e learning environment challenging deafness in efl",
+            "type": "0",
+            "year_mag": 2014
+        }
+    ]
+}

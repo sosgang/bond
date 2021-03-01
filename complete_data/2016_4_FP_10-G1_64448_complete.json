@@ -1,0 +1,679 @@
+{
+    "AuIds": [
+        2096576416,
+        2757020096,
+        2753207554,
+        2754349349,
+        3016206358,
+        2902587421,
+        3042415486
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 12,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 531,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 0,
+            "comm_other": 4190,
+            "other_cand": 0,
+            "other_comm": 4965
+        },
+        "other_nodes": 6258
+    },
+    "coverage": {
+        "articles": 18,
+        "books": 4,
+        "cov_sect": "C",
+        "other_pubbs": 29,
+        "pubbs": 15,
+        "pubbs_found": 4,
+        "pubbs_ind": 50,
+        "pubbs_ind_found": 9,
+        "total_extra_found": 12,
+        "total_found": 9,
+        "total_pubbs": 51
+    },
+    "fullname": [
+        "Manco",
+        "Alberto"
+    ],
+    "ind_anvur": [
+        46,
+        9,
+        4,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "9788867290444"
+            ],
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "title": "possiamo dire la stessa cosa in un altra lingua ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-98640-25-6"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "2"
+            },
+            "title": "pertestualita e traduzione lingue culture e testi ",
+            "type": "monografia o trattato scientifico",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1972-9901"
+            ],
+            "PId": 2902773642,
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.13130/1972-9901/11421",
+            "journal": "ATTI DEL SODALIZIO GLOTTOLOGICO MILANESE",
+            "title": "precarieta testuale e pertestualita qualche considerazione sulla relativa classificazione e sugli aspetti metalinguistici",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-6719-140-6"
+            ],
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "title": "forme testuali non rilevate nel fumetto descrizione metalinguaggio aspetti storici 1918 1943 ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788867191215"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "5"
+            },
+            "title": "alterita di genere alterazioni linguistiche su alcuni aspetti della designazione di genere",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788898640188"
+            ],
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "title": "chiarezza espositiva oscurita del metalinguaggio su alcune categorie grammaticali del verbo nella riflessione di gustave guillaume",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-6719-140-6"
+            ],
+            "PId": 2907473473,
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "title": "introduzione a scritture brevi segni testi e contesti dalle iscrizioni antiche ai tweet",
+            "type": "prefazione/postfazione",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788876675669"
+            ],
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "title": "la rappresentazione del parlato in un frammento di storia del fumetto italiano l uso della nuvoletta nel periodico la tradotta 1918 19 ",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-913-0488-9"
+            ],
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "title": "mefitis utiana ",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0390-2412"
+            ],
+            "PId": 2752145198,
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "10"
+            },
+            "journal": "INCONTRI LINGUISTICI",
+            "title": "il numerale uno e un antica designazione di perle e cipolle",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "2279-7033"
+            ],
+            "cv_id": {
+                "pubbs_ind": "11"
+            },
+            "journal": "ALESSANDRIA",
+            "title": "testi mediati da testi precarieta e pertestualita",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788884208859"
+            ],
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "title": "i valori identitari dei migranti e la territorialita residua",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788897524236"
+            ],
+            "cv_id": {
+                "pubbs_ind": "13"
+            },
+            "title": "identita etniche identificazioni etnonimiche a proposito di aurunci e ausoni",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "8876675566"
+            ],
+            "ISSN": [
+                "1824-2855"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "14"
+            },
+            "title": "la riflessione linguistica di coseriu sul tempo",
+            "type": "contributo in atti di convegno",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788864581514"
+            ],
+            "cv_id": {
+                "pubbs_ind": "15"
+            },
+            "title": "le cose e i fatti parlanti ovvero la difficile performanza del testo e del contesto",
+            "type": "contributo in atti di convegno",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "8890167904"
+            ],
+            "cv_id": {
+                "pubbs_ind": "16"
+            },
+            "title": "la linguistica una prima introduzione ad alcuni aspetti storici della disciplina",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788857518596"
+            ],
+            "cv_id": {
+                "pubbs_ind": "17"
+            },
+            "title": "papere giudiziose e donne mentitrici",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9788835931829"
+            ],
+            "PId": 2758227343,
+            "cv_id": {
+                "pubbs_ind": "18"
+            },
+            "title": "prefazione a le lingue estere storia linguistica e ideologia nell italia fascista",
+            "type": "prefazione/postfazione",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "978-88-6719-064-5"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "19"
+            },
+            "title": "tassonomie protostoriche e il nome hirpinia ",
+            "type": "contributo in atti di convegno",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1841-1401"
+            ],
+            "cv_id": {
+                "pubbs_ind": "20"
+            },
+            "journal": "VIII",
+            "title": "i nomi dei numeri considerazioni linguistiche studii de stiinta si cultura vol",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "21"
+            },
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1128-6369"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "22"
+            },
+            "journal": "XIV",
+            "title": "mefitis utiana rivista italiana di linguistica e di dialettologia vol",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1220-0484"
+            ],
+            "cv_id": {
+                "pubbs_ind": "23"
+            },
+            "journal": "LVII",
+            "title": "espressione ed espressivita in un testo di ennio e sua analisi linguistica studia universitatis babes bolyai philologia vol",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "0085-6827"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "24"
+            },
+            "journal": "L",
+            "title": "discutendo ancora sulla presunta morte del fonema studi e saggi linguistici vol",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9789735954086"
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "25"
+            },
+            "title": "equivoci e ambiguita intorno al nome del sericato",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788887744514"
+            ],
+            "cv_id": {
+                "pubbs_ind": "26"
+            },
+            "title": "i nomi del profumo tra opacita e inversioni di significato",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9789735954086"
+            ],
+            "cv_id": {
+                "pubbs_ind": "27"
+            },
+            "title": "prefazione",
+            "type": "prefazione/postfazione",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788895044989"
+            ],
+            "PId": 3015972394,
+            "cv_id": {
+                "pubbs_ind": "28"
+            },
+            "title": "autenticazione linguistica e uso improprio del balloon",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788895044989"
+            ],
+            "cv_id": {
+                "pubbs_ind": "29"
+            },
+            "title": "ethos e tribu verifica semantica di un abuso terminologico",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1841-1401"
+            ],
+            "cv_id": {
+                "pubbs_ind": "30"
+            },
+            "journal": "VII",
+            "title": "a linguistic analysis of a textual repetition in homer s iliad un analisi linguistica di una ripetizione testuale nell iliade di omero studii de stiinta si cultura vol",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "2038-8675"
+            ],
+            "cv_id": {
+                "pubbs_ind": "31"
+            },
+            "journal": "LINGUISTICA ZERO",
+            "title": "le numerose etimologie del toponimo moriah",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1220-0484"
+            ],
+            "cv_id": {
+                "pubbs_ind": "32"
+            },
+            "journal": "PHILOLOGIA",
+            "title": "changement et resistance dans le phonosymbolisme italien studia universitatis babes bolyai",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9788820742751"
+            ],
+            "cv_id": {
+                "pubbs_ind": "33"
+            },
+            "title": "i pieges di guillaume",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9788895044989"
+            ],
+            "cv_id": {
+                "pubbs_ind": "34"
+            },
+            "title": "da una certa parte della linguistica la posizione di minoranza di federico albano leoni",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "8889837764"
+            ],
+            "cv_id": {
+                "pubbs_ind": "35"
+            },
+            "title": "l etimologia premessa",
+            "type": "prefazione/postfazione",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9788895044873"
+            ],
+            "cv_id": {
+                "pubbs_ind": "36"
+            },
+            "title": "comunicare per l ambiente",
+            "type": "prefazione/postfazione",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9788878705951"
+            ],
+            "PId": 3042811340,
+            "cv_id": {
+                "pubbs_ind": "37"
+            },
+            "title": "la traduzione antica e recente dell antico testamento",
+            "type": "contributo in atti di convegno",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "8889837764"
+            ],
+            "PId": 2753997858,
+            "cv_id": {
+                "pubbs_ind": "38"
+            },
+            "title": "la tradizione etimologica relativa a volturnum e capua",
+            "type": "contributo in atti di convegno",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "2038-8675"
+            ],
+            "cv_id": {
+                "pubbs_ind": "39"
+            },
+            "journal": "LINGUISTICA ZERO",
+            "title": "le parole oggetto e il sogno di non separazione nei testi di toti scialoja",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "0019-7262"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "40"
+            },
+            "journal": "INDOGERMANISCHE FORSCHUNGEN",
+            "title": "two unexplained terms in iliad perknon and morphnon",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "9788874581030"
+            ],
+            "cv_id": {
+                "pubbs_ind": "41"
+            },
+            "title": "merli e toponomastica",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "9788846729026"
+            ],
+            "cv_id": {
+                "pubbs": "11",
+                "pubbs_ind": "42"
+            },
+            "title": "kant s concept of time in a recent linguistic analysis",
+            "type": "contributo in atti di convegno",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "1125-0240"
+            ],
+            "cv_id": {
+                "pubbs_ind": "43"
+            },
+            "journal": "SEZIONE LINGUISTICA",
+            "title": "mefitis gli epiteti aion annali del dipartimento di studi del mondo classico e del mediterraneo antico",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "0395-773X"
+            ],
+            "PId": 2485751198,
+            "cv_id": {
+                "pubbs": "12",
+                "pubbs_ind": "44"
+            },
+            "doi": "10.4000/TRADUIRE.879",
+            "journal": "TRADUIRE",
+            "title": "traduire un linguiste",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "1125-0240"
+            ],
+            "cv_id": {
+                "pubbs_ind": "45"
+            },
+            "journal": "SEZIONE LINGUISTICA",
+            "title": "greco perknon il 24 316 aion annali del dipartimento di studi del mondo classico e del mediterraneo antico",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "9788895007182"
+            ],
+            "cv_id": {
+                "pubbs_ind": "46"
+            },
+            "title": "l aura pausini stava insieme a nek chi siamo cosa scriviamo dove andiamo ",
+            "type": "monografia o trattato scientifico",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "9788895044620"
+            ],
+            "cv_id": {
+                "pubbs_ind": "47"
+            },
+            "title": "italia disegno storico linguistico vol 1 ",
+            "type": "monografia o trattato scientifico",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "0019-7262"
+            ],
+            "cv_id": {
+                "pubbs": "14",
+                "pubbs_ind": "48"
+            },
+            "doi": "10.1515/IDGF.2008.013",
+            "journal": "INDOGERMANISCHE FORSCHUNGEN",
+            "title": "on the toponym schiava slave ",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "1125-0240"
+            ],
+            "cv_id": {
+                "pubbs": "15",
+                "pubbs_ind": "49"
+            },
+            "journal": "SEZIONE LINGUISTICA",
+            "title": "lingue dell iberia pre romana aion annali del dipartimento di studi del mondo classico e del mediterraneo antico",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "50"
+            },
+            "type": "traduzione di libro",
+            "year": 2006
+        },
+        {
+            "ISBN": [
+                "9788895044620"
+            ],
+            "cv_id": {
+                "pubbs": "13"
+            },
+            "title": "italia disegno storico linguistico ",
+            "type": "monografia o trattato scientifico",
+            "year": 2009
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 181964562,
+            "title": "speaking requires time speaking of time in a different way in linguistics",
+            "type": "0",
+            "year_mag": 2009
+        },
+        {
+            "PId": 575548551,
+            "title": "tempo e verbo teoria degli aspetti dei modi e dei tempi",
+            "type": "5",
+            "year_mag": 2006
+        },
+        {
+            "PId": 2920209303,
+            "title": "tekstet e ndermjetesuara nga tekste paqendrueshmeri dhe pertekstualitet",
+            "type": "0",
+            "year_mag": 2017
+        }
+    ]
+}

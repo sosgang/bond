@@ -1,0 +1,4756 @@
+{
+    "AuIds": [
+        2258476616
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "2127135993_+_134825243": 1,
+                "2127135993_+_1588153103": 1,
+                "2127135993_+_2015887571": 1,
+                "2127135993_+_2038164179": 2,
+                "2127135993_+_2093528703": 1,
+                "2127135993_+_2112644850": 2,
+                "2127135993_+_2223327581": 1,
+                "2297213468_+_2038164179": 1
+            },
+            "number": 7
+        },
+        "cand_nodes": 13,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 352,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 181,
+            "comm_other": 3858,
+            "other_cand": 43,
+            "other_comm": 1555
+        },
+        "other_nodes": 3923
+    },
+    "coverage": {
+        "articles": 7,
+        "books": 0,
+        "cov_sect": "A",
+        "other_pubbs": 0,
+        "pubbs": 7,
+        "pubbs_found": 7,
+        "pubbs_ind": 7,
+        "pubbs_ind_found": 7,
+        "total_extra_found": 13,
+        "total_found": 7,
+        "total_pubbs": 7
+    },
+    "fullname": [
+        "Nucera",
+        "Federico Calogero"
+    ],
+    "ind_anvur": [
+        7,
+        3,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1594-7556"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.2139/ssrn.3008530",
+            "journal": "MINERVA BANCARIA",
+            "title": "risk managed momentum the effect of leverage constraints rivista bancaria",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0165-1765"
+            ],
+            "PId": 2611891286,
+            "cited": [
+                {
+                    "PId": 2122012758,
+                    "author": [
+                        {
+                            "AuId": 2061888244,
+                            "AuN": "carmen reinhart"
+                        },
+                        {
+                            "AuId": 214390093,
+                            "AuN": "kenneth rogoff"
+                        }
+                    ],
+                    "doi": "10.1257/AER.99.2.466",
+                    "journal": "the american economic review",
+                    "title": "the aftermath of financial crises",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2400596708,
+                    "author": [
+                        {
+                            "AuId": 263973152,
+                            "AuN": "christian t brownlees"
+                        },
+                        {
+                            "AuId": 263973152,
+                            "AuN": "christian t brownlees"
+                        },
+                        {
+                            "AuId": 2258818573,
+                            "AuN": "robert f engle"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1611229",
+                    "journal": "review of financial studies",
+                    "title": "srisk a conditional capital shortfall measure of systemic risk",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2512546520,
+                    "author": [
+                        {
+                            "AuId": 2762726497,
+                            "AuN": "florian heider"
+                        },
+                        {
+                            "AuId": 2785831856,
+                            "AuN": "farzad saidi"
+                        },
+                        {
+                            "AuId": 2262235215,
+                            "AuN": "glenn schepens"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2788204",
+                    "journal": "review of financial studies",
+                    "title": "life below zero bank lending under negative policy rates",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2900761509,
+                    "author": [
+                        {
+                            "AuId": 2901534252,
+                            "AuN": "raghuram rajan"
+                        }
+                    ],
+                    "title": "a step in the dark unconventional monetary policy after the crisis",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2608587812,
+                    "author": [
+                        {
+                            "AuId": 2113548210,
+                            "AuN": "viral v acharya"
+                        },
+                        {
+                            "AuId": 207863575,
+                            "AuN": "guillaume plantin"
+                        }
+                    ],
+                    "journal": "lse research online documents on economics",
+                    "title": "monetary easing and financial instability",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3023879488,
+                    "author": [
+                        {
+                            "AuId": 2141283251,
+                            "AuN": "andre lucas"
+                        },
+                        {
+                            "AuId": 2699493304,
+                            "AuN": "julia schaumburg"
+                        },
+                        {
+                            "AuId": 2022030062,
+                            "AuN": "bernd schwaab"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2831922",
+                    "journal": "social science research network",
+                    "title": "bank business models at zero interest rates",
+                    "year_mag": 2016
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2981168962,
+                    "author": [
+                        {
+                            "AuId": 2980840886,
+                            "AuN": "whelsy boungou"
+                        }
+                    ],
+                    "doi": "10.1016/J.ECONLET.2019.108760",
+                    "journal": "economics letters",
+                    "title": "negative interest rates policy and banks risk taking empirical evidence",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2956557033,
+                    "author": [
+                        {
+                            "AuId": 2473296690,
+                            "AuN": "anh n vu"
+                        }
+                    ],
+                    "doi": "10.1016/J.ECONLET.2019.07.005",
+                    "journal": "economics letters",
+                    "title": "on the impact of quantitative easing on credit standards and systemic risk the japanese experience",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3095368734,
+                    "author": [
+                        {
+                            "AuId": 2989683845,
+                            "AuN": "johannes bubeck"
+                        },
+                        {
+                            "AuId": 2051722608,
+                            "AuN": "angela maddaloni"
+                        },
+                        {
+                            "AuId": 2076513817,
+                            "AuN": "joseluis peydro"
+                        }
+                    ],
+                    "doi": "10.1111/JMCB.12740",
+                    "journal": "economics letters",
+                    "title": "negative monetary policy rates and systemic banks risk taking evidence from the euro area securities register",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3110128465,
+                    "author": [
+                        {
+                            "AuId": 2058286598,
+                            "AuN": "jose manuel linareszegarra"
+                        },
+                        {
+                            "AuId": 1766184984,
+                            "AuN": "magnus willesson"
+                        }
+                    ],
+                    "doi": "10.1016/J.ECONLET.2020.109674",
+                    "journal": "economics letters",
+                    "title": "the effects of negative interest rates on cash usage evidence for eu countries",
+                    "year_mag": 2021
+                },
+                {
+                    "PId": 2614517382,
+                    "author": [
+                        {
+                            "AuId": 3034680928,
+                            "AuN": "manuel buchholz"
+                        },
+                        {
+                            "AuId": 2572232522,
+                            "AuN": "kirsten schmidt"
+                        },
+                        {
+                            "AuId": 3033099483,
+                            "AuN": "lena tonzer"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2020.105858",
+                    "journal": "economics letters",
+                    "title": "do conventional monetary policy instruments matter in unconventional times",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2990858219,
+                    "author": [
+                        {
+                            "AuId": 2991082992,
+                            "AuN": "mayu kikuchi"
+                        },
+                        {
+                            "AuId": 2169330475,
+                            "AuN": "alfred wong"
+                        },
+                        {
+                            "AuId": 2773758552,
+                            "AuN": "jiayue zhang"
+                        }
+                    ],
+                    "doi": "10.1007/S11149-019-09393-W",
+                    "journal": "economics letters",
+                    "title": "risk of window dressing quarter end spikes in the japanese yen libor ois spread",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2922720912,
+                    "author": [
+                        {
+                            "AuId": 2557565336,
+                            "AuN": "manuel molterer"
+                        }
+                    ],
+                    "doi": "10.1016/J.QREF.2019.01.018",
+                    "journal": "economics letters",
+                    "title": "tougher than the rest the resilience of specialized \ufb01nancial intermediation to macroeconomic shocks",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1016/J.ECONLET.2017.07.014",
+            "journal": "ECONOMICS LETTERS",
+            "title": "do negative interest rates make banks less safe ",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "1872-6372"
+            ],
+            "PId": 2297213468,
+            "cited": [
+                {
+                    "PId": 3023906401,
+                    "author": [
+                        {
+                            "AuId": 167512347,
+                            "AuN": "whitney k newey"
+                        },
+                        {
+                            "AuId": 2133315416,
+                            "AuN": "ken west"
+                        }
+                    ],
+                    "doi": "10.2307/1913610",
+                    "journal": "econometrica",
+                    "title": "a simple positive semi definite heteroskedasticity and autocorrelation consistent covariance matrix",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 3021190191,
+                    "author": [
+                        {
+                            "AuId": 2134198412,
+                            "AuN": "lubos pastor"
+                        },
+                        {
+                            "AuId": 2159456736,
+                            "AuN": "robert f stambaugh"
+                        }
+                    ],
+                    "doi": "10.1086/374184",
+                    "journal": "journal of political economy",
+                    "title": "liquidity risk and expected stock returns",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2028995298,
+                    "author": [
+                        {
+                            "AuId": 2117247785,
+                            "AuN": "lars peter hansen"
+                        }
+                    ],
+                    "doi": "10.2307/1912775",
+                    "journal": "econometrica",
+                    "title": "large sample properties of generalized method of moments estimators",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 2163683534,
+                    "author": [
+                        {
+                            "AuId": 2397423007,
+                            "AuN": "john y campbell"
+                        },
+                        {
+                            "AuId": 2397423007,
+                            "AuN": "john y campbell"
+                        },
+                        {
+                            "AuId": 2124877045,
+                            "AuN": "john h cochrane"
+                        },
+                        {
+                            "AuId": 2124877045,
+                            "AuN": "john h cochrane"
+                        },
+                        {
+                            "AuId": 2124877045,
+                            "AuN": "john h cochrane"
+                        }
+                    ],
+                    "doi": "10.1086/250059",
+                    "journal": "journal of political economy",
+                    "title": "by force of habit a consumption based explanation of aggregate stock market behavior",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 1970764861,
+                    "author": [
+                        {
+                            "AuId": 2098651343,
+                            "AuN": "jonathan lewellen"
+                        },
+                        {
+                            "AuId": 2146124031,
+                            "AuN": "stefan nagel"
+                        },
+                        {
+                            "AuId": 1605105563,
+                            "AuN": "jay shanken"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2009.09.001",
+                    "journal": "journal of financial economics",
+                    "title": "a skeptical appraisal of asset pricing tests",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2113107692,
+                    "author": [
+                        {
+                            "AuId": 88729355,
+                            "AuN": "lukas menkhoff"
+                        },
+                        {
+                            "AuId": 88729355,
+                            "AuN": "lukas menkhoff"
+                        },
+                        {
+                            "AuId": 2309478656,
+                            "AuN": "lucio sarno"
+                        },
+                        {
+                            "AuId": 2309478656,
+                            "AuN": "lucio sarno"
+                        },
+                        {
+                            "AuId": 2112248247,
+                            "AuN": "maik schmeling"
+                        },
+                        {
+                            "AuId": 2112248247,
+                            "AuN": "maik schmeling"
+                        },
+                        {
+                            "AuId": 1891544655,
+                            "AuN": "andreas schrimpf"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.2012.01728.X",
+                    "journal": "journal of finance",
+                    "title": "carry trades and global foreign exchange volatility",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2104795328,
+                    "author": [
+                        {
+                            "AuId": 2023750619,
+                            "AuN": "eugene f fama"
+                        },
+                        {
+                            "AuId": 2141631895,
+                            "AuN": "james d macbeth"
+                        }
+                    ],
+                    "doi": "10.1086/260061",
+                    "journal": "journal of political economy",
+                    "title": "risk return and equilibrium empirical tests",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 1572930125,
+                    "author": [
+                        {
+                            "AuId": 2138955767,
+                            "AuN": "richard a meese"
+                        },
+                        {
+                            "AuId": 214390093,
+                            "AuN": "kenneth rogoff"
+                        }
+                    ],
+                    "doi": "10.1016/0022-1996(83)90017-X",
+                    "journal": "journal of international economics",
+                    "title": "empirical exchange rate models of the seventies do they fit out of sample",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2126521058,
+                    "author": [
+                        {
+                            "AuId": 233362006,
+                            "AuN": "hanno lustig"
+                        },
+                        {
+                            "AuId": 2080130941,
+                            "AuN": "nikolai l roussanov"
+                        },
+                        {
+                            "AuId": 1967270710,
+                            "AuN": "adrien verdelhan"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1139447",
+                    "journal": "review of financial studies",
+                    "title": "common risk factors in currency markets",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2027733619,
+                    "author": [
+                        {
+                            "AuId": 233362006,
+                            "AuN": "hanno lustig"
+                        },
+                        {
+                            "AuId": 1967270710,
+                            "AuN": "adrien verdelhan"
+                        }
+                    ],
+                    "doi": "10.1257/AER.101.7.3456",
+                    "journal": "the american economic review",
+                    "title": "the cross section of foreign currency risk premia and consumption growth risk",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2104749022,
+                    "author": [
+                        {
+                            "AuId": 1209754727,
+                            "AuN": "angelo ranaldo"
+                        },
+                        {
+                            "AuId": 271031526,
+                            "AuN": "paul soderlind"
+                        }
+                    ],
+                    "doi": "10.1093/ROF/RFQ007",
+                    "journal": "review of finance",
+                    "title": "safe haven currencies",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2137873244,
+                    "author": [
+                        {
+                            "AuId": 2055366780,
+                            "AuN": "rudiger dornbusch"
+                        }
+                    ],
+                    "doi": "10.1086/260506",
+                    "journal": "journal of political economy",
+                    "title": "expectations and exchange rate dynamics",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 2017341347,
+                    "author": [
+                        {
+                            "AuId": 2106981306,
+                            "AuN": "olivier j blanchard"
+                        },
+                        {
+                            "AuId": 2106981306,
+                            "AuN": "olivier j blanchard"
+                        },
+                        {
+                            "AuId": 2159466601,
+                            "AuN": "lawrence h summers"
+                        },
+                        {
+                            "AuId": 2159466601,
+                            "AuN": "lawrence h summers"
+                        }
+                    ],
+                    "doi": "10.3386/W1950",
+                    "journal": "nber macroeconomics annual",
+                    "title": "hysteresis and the european unemployment problem",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2026605399,
+                    "author": [
+                        {
+                            "AuId": 1761395358,
+                            "AuN": "george m constantinides"
+                        },
+                        {
+                            "AuId": 1761395358,
+                            "AuN": "george m constantinides"
+                        },
+                        {
+                            "AuId": 2210449200,
+                            "AuN": "darrell duffie"
+                        },
+                        {
+                            "AuId": 2210449200,
+                            "AuN": "darrell duffie"
+                        }
+                    ],
+                    "doi": "10.1086/262023",
+                    "journal": "journal of political economy",
+                    "title": "asset pricing with heterogeneous consumers",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2117429303,
+                    "author": [
+                        {
+                            "AuId": 88729355,
+                            "AuN": "lukas menkhoff"
+                        },
+                        {
+                            "AuId": 88729355,
+                            "AuN": "lukas menkhoff"
+                        },
+                        {
+                            "AuId": 2309478656,
+                            "AuN": "lucio sarno"
+                        },
+                        {
+                            "AuId": 2309478656,
+                            "AuN": "lucio sarno"
+                        },
+                        {
+                            "AuId": 2112248247,
+                            "AuN": "maik schmeling"
+                        },
+                        {
+                            "AuId": 1891544655,
+                            "AuN": "andreas schrimpf"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2012.06.009",
+                    "journal": "journal of financial economics",
+                    "title": "currency momentum strategies",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2128443752,
+                    "author": [
+                        {
+                            "AuId": 2289977101,
+                            "AuN": "martin lettau"
+                        },
+                        {
+                            "AuId": 2289977101,
+                            "AuN": "martin lettau"
+                        },
+                        {
+                            "AuId": 823552993,
+                            "AuN": "matteo maggiori"
+                        },
+                        {
+                            "AuId": 823552993,
+                            "AuN": "matteo maggiori"
+                        },
+                        {
+                            "AuId": 2993962271,
+                            "AuN": "michael weber"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2228967",
+                    "journal": "journal of financial economics",
+                    "title": "conditional risk premia in currency markets and other asset classes",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2014405898,
+                    "author": [
+                        {
+                            "AuId": 2023750619,
+                            "AuN": "eugene f fama"
+                        }
+                    ],
+                    "doi": "10.1016/0304-3932(84)90046-1",
+                    "journal": "journal of monetary economics",
+                    "title": "forward and spot exchange rates",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 2134182509,
+                    "author": [
+                        {
+                            "AuId": 2135889619,
+                            "AuN": "jon faust"
+                        },
+                        {
+                            "AuId": 2149788234,
+                            "AuN": "john h rogers"
+                        },
+                        {
+                            "AuId": 2117717853,
+                            "AuN": "shingyi wang"
+                        },
+                        {
+                            "AuId": 2134725218,
+                            "AuN": "jonathan h wright"
+                        }
+                    ],
+                    "doi": "10.1016/J.JMONECO.2006.05.015",
+                    "journal": "journal of monetary economics",
+                    "title": "the high frequency response of exchange rates and interest rates to macroeconomic announcements",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2142152317,
+                    "author": [
+                        {
+                            "AuId": 1605105563,
+                            "AuN": "jay shanken"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/5.1.1",
+                    "journal": "review of financial studies",
+                    "title": "on the estimation of beta pricing models",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1975213460,
+                    "author": [
+                        {
+                            "AuId": 1967270710,
+                            "AuN": "adrien verdelhan"
+                        },
+                        {
+                            "AuId": 1967270710,
+                            "AuN": "adrien verdelhan"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.2009.01525.X",
+                    "journal": "journal of finance",
+                    "title": "a habit based explanation of the exchange rate risk premium",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2116606323,
+                    "author": [
+                        {
+                            "AuId": 2617737754,
+                            "AuN": "ravi bansal"
+                        },
+                        {
+                            "AuId": 740720183,
+                            "AuN": "magnus dahlquist"
+                        }
+                    ],
+                    "doi": "10.1016/S0022-1996(99)00039-2",
+                    "journal": "journal of international economics",
+                    "title": "the forward premium puzzle different tales from developed and emerging economies",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2110188202,
+                    "author": [
+                        {
+                            "AuId": 2148394043,
+                            "AuN": "q farooq akram"
+                        },
+                        {
+                            "AuId": 2034397775,
+                            "AuN": "dagfinn rime"
+                        },
+                        {
+                            "AuId": 2309478656,
+                            "AuN": "lucio sarno"
+                        }
+                    ],
+                    "doi": "10.1016/J.JINTECO.2008.07.004",
+                    "journal": "journal of international economics",
+                    "title": "arbitrage in the foreign exchange market turning on the microscope",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2135647799,
+                    "author": [
+                        {
+                            "AuId": 2117247785,
+                            "AuN": "lars peter hansen"
+                        },
+                        {
+                            "AuId": 2117247785,
+                            "AuN": "lars peter hansen"
+                        },
+                        {
+                            "AuId": 2148079283,
+                            "AuN": "ravi jagannathan"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1997.TB04813.X",
+                    "journal": "journal of finance",
+                    "title": "assessing specification errors in stochastic discount factor models",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2140999761,
+                    "author": [
+                        {
+                            "AuId": 2129575745,
+                            "AuN": "pasquale della corte"
+                        },
+                        {
+                            "AuId": 2129575745,
+                            "AuN": "pasquale della corte"
+                        },
+                        {
+                            "AuId": 63163814,
+                            "AuN": "tarun ramadorai"
+                        },
+                        {
+                            "AuId": 63163814,
+                            "AuN": "tarun ramadorai"
+                        },
+                        {
+                            "AuId": 2309478656,
+                            "AuN": "lucio sarno"
+                        },
+                        {
+                            "AuId": 2309478656,
+                            "AuN": "lucio sarno"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2016.02.015",
+                    "journal": "journal of financial economics",
+                    "title": "volatility risk premia and exchange rate predictability",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2060268960,
+                    "author": [
+                        {
+                            "AuId": 2102669565,
+                            "AuN": "laurence ball"
+                        }
+                    ],
+                    "doi": "10.2307/2534680",
+                    "title": "aggregate demand and long run unemployment",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2148386749,
+                    "author": [
+                        {
+                            "AuId": 2115560871,
+                            "AuN": "raymond kan"
+                        },
+                        {
+                            "AuId": 2208249848,
+                            "AuN": "guofu zhou"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.231522",
+                    "journal": "annals of economics and finance",
+                    "title": "tests of mean variance spanning",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1583475337,
+                    "author": [
+                        {
+                            "AuId": 2486161285,
+                            "AuN": "jacob a frenkel"
+                        },
+                        {
+                            "AuId": 2486161285,
+                            "AuN": "jacob a frenkel"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-349-03359-1_7",
+                    "journal": "the scandinavian journal of economics",
+                    "title": "a monetary approach to the exchange rate doctrinal aspects and empirical evidence",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 1848235336,
+                    "author": [
+                        {
+                            "AuId": 2129575745,
+                            "AuN": "pasquale della corte"
+                        },
+                        {
+                            "AuId": 2244519528,
+                            "AuN": "steven j riddiough"
+                        },
+                        {
+                            "AuId": 2309478656,
+                            "AuN": "lucio sarno"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/HHW038",
+                    "journal": "review of financial studies",
+                    "title": "currency premia and global imbalances",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2106364178,
+                    "author": [
+                        {
+                            "AuId": 1858017109,
+                            "AuN": "francesco nucci"
+                        },
+                        {
+                            "AuId": 2073249249,
+                            "AuN": "alberto franco pozzolo"
+                        }
+                    ],
+                    "doi": "10.1016/J.JINTECO.2010.08.002",
+                    "journal": "journal of international economics",
+                    "title": "the exchange rate employment and hours what firm level data say",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1984174144,
+                    "author": [
+                        {
+                            "AuId": 2055274836,
+                            "AuN": "christopher j neely"
+                        },
+                        {
+                            "AuId": 2169588059,
+                            "AuN": "paul a weller"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1927543",
+                    "journal": "journal of banking and finance",
+                    "title": "lessons from the evolution of foreign exchange trading strategies",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2160436407,
+                    "author": [
+                        {
+                            "AuId": 2109622355,
+                            "AuN": "sergei sarkissian"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/HHG019",
+                    "journal": "review of financial studies",
+                    "title": "incomplete consumption risk sharing and currency risk premiums",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1883871088,
+                    "author": [
+                        {
+                            "AuId": 2123217944,
+                            "AuN": "tarek a hassan"
+                        },
+                        {
+                            "AuId": 2212001707,
+                            "AuN": "rui mano"
+                        }
+                    ],
+                    "doi": "10.1093/QJE/QJY026",
+                    "journal": "quarterly journal of economics",
+                    "title": "forward and spot exchange rates in a multi currency world",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2890840156,
+                    "author": [
+                        {
+                            "AuId": 2250404557,
+                            "AuN": "charles m engel"
+                        },
+                        {
+                            "AuId": 2250404557,
+                            "AuN": "charles m engel"
+                        },
+                        {
+                            "AuId": 2250404557,
+                            "AuN": "charles m engel"
+                        },
+                        {
+                            "AuId": 2133315416,
+                            "AuN": "ken west"
+                        },
+                        {
+                            "AuId": 2133315416,
+                            "AuN": "ken west"
+                        }
+                    ],
+                    "journal": "national bureau of economic research",
+                    "title": "exchange rates and fundamentals",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2004548822,
+                    "author": [
+                        {
+                            "AuId": 2117512622,
+                            "AuN": "andreas fischer"
+                        },
+                        {
+                            "AuId": 1209754727,
+                            "AuN": "angelo ranaldo"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2011.03.024",
+                    "journal": "journal of banking and finance",
+                    "title": "does fomc news increase global fx trading",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2149860275,
+                    "author": [
+                        {
+                            "AuId": 2153254300,
+                            "AuN": "mathias hoffmann"
+                        },
+                        {
+                            "AuId": 85486239,
+                            "AuN": "rahel studersuter"
+                        }
+                    ],
+                    "doi": "10.1016/J.JIMONFIN.2017.01.001",
+                    "journal": "journal of international money and finance",
+                    "title": "systematic consumption risk in currency returns",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2003990438,
+                    "author": [
+                        {
+                            "AuId": 2142463435,
+                            "AuN": "asani sarkar"
+                        },
+                        {
+                            "AuId": 2110012590,
+                            "AuN": "lingjia zhang"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEMPFIN.2009.05.004",
+                    "journal": "journal of empirical finance",
+                    "title": "time varying consumption covariance and dynamics of the equity premium evidence from the g7 countries",
+                    "year_mag": 2009
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 1435929961,
+                    "author": [
+                        {
+                            "AuId": 740720183,
+                            "AuN": "magnus dahlquist"
+                        },
+                        {
+                            "AuId": 740720183,
+                            "AuN": "magnus dahlquist"
+                        },
+                        {
+                            "AuId": 232664546,
+                            "AuN": "henrik hasseltoft"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2579666",
+                    "journal": "journal of financial economics",
+                    "title": "economic momentum and currency returns",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2967169885,
+                    "author": [
+                        {
+                            "AuId": 2960641942,
+                            "AuN": "matheus belucio"
+                        },
+                        {
+                            "AuId": 2036931907,
+                            "AuN": "jose alberto fuinhas"
+                        },
+                        {
+                            "AuId": 2967361940,
+                            "AuN": "jose antunes"
+                        },
+                        {
+                            "AuId": 2967523733,
+                            "AuN": "victor sa"
+                        },
+                        {
+                            "AuId": 2968101580,
+                            "AuN": "joana mota"
+                        }
+                    ],
+                    "doi": "10.19093/RES8171",
+                    "journal": "journal of financial economics",
+                    "title": "the impact of wealth and poverty on gambling expenditure in the united states",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1016/J.JBANKFIN.2017.07.007",
+            "journal": "JOURNAL OF BANKING & FINANCE",
+            "title": "unemployment fluctuations and the predictability of currency returns",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0927-5398"
+            ],
+            "PId": 572153229,
+            "cited": [
+                {
+                    "PId": 1727659491,
+                    "author": [
+                        {
+                            "AuId": 2258818573,
+                            "AuN": "robert f engle"
+                        }
+                    ],
+                    "doi": "10.1198/073500102288618487",
+                    "journal": "journal of business & economic statistics",
+                    "title": "dynamic conditional correlation a simple class of multivariate generalized autoregressive conditional heteroskedasticity models",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2157996961,
+                    "author": [
+                        {
+                            "AuId": 2187916011,
+                            "AuN": "monica billio"
+                        },
+                        {
+                            "AuId": 1219948230,
+                            "AuN": "mila getmansky"
+                        },
+                        {
+                            "AuId": 2167401348,
+                            "AuN": "andrew w lo"
+                        },
+                        {
+                            "AuId": 2625713026,
+                            "AuN": "loriana pelizzon"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2011.12.010",
+                    "journal": "journal of financial economics",
+                    "title": "econometric measures of connectedness and systemic risk in the finance and insurance sectors",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2038601479,
+                    "author": [
+                        {
+                            "AuId": 2097491087,
+                            "AuN": "james h stock"
+                        },
+                        {
+                            "AuId": 2111949140,
+                            "AuN": "mark w watson"
+                        }
+                    ],
+                    "doi": "10.1198/073500102317351921",
+                    "journal": "journal of business & economic statistics",
+                    "title": "macroeconomic forecasting using diffusion indexes",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2123931028,
+                    "author": [
+                        {
+                            "AuId": 63060059,
+                            "AuN": "markus k brunnermeier"
+                        },
+                        {
+                            "AuId": 1964645425,
+                            "AuN": "yuliy sannikov"
+                        }
+                    ],
+                    "doi": "10.1257/AER.104.2.379",
+                    "journal": "the american economic review",
+                    "title": "a macroeconomic model with a financial sector",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2116701769,
+                    "author": [
+                        {
+                            "AuId": 2113548210,
+                            "AuN": "viral v acharya"
+                        },
+                        {
+                            "AuId": 2258818573,
+                            "AuN": "robert f engle"
+                        },
+                        {
+                            "AuId": 2100886682,
+                            "AuN": "matthew richardson"
+                        }
+                    ],
+                    "doi": "10.1257/AER.102.3.59",
+                    "journal": "the american economic review",
+                    "title": "capital shortfall a new approach to ranking and regulating systemic risks",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2124742825,
+                    "author": [
+                        {
+                            "AuId": 2113548210,
+                            "AuN": "viral v acharya"
+                        },
+                        {
+                            "AuId": 1970005900,
+                            "AuN": "sascha steffen"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2257665",
+                    "journal": "journal of financial economics",
+                    "title": "the greatest carry trade ever understanding eurozone bank risks",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2114493251,
+                    "author": [
+                        {
+                            "AuId": 2007202901,
+                            "AuN": "dimitrios bisias"
+                        },
+                        {
+                            "AuId": 2128384543,
+                            "AuN": "mark d flood"
+                        },
+                        {
+                            "AuId": 2167401348,
+                            "AuN": "andrew w lo"
+                        },
+                        {
+                            "AuId": 2167401348,
+                            "AuN": "andrew w lo"
+                        },
+                        {
+                            "AuId": 2181525645,
+                            "AuN": "stavros valavanis"
+                        }
+                    ],
+                    "doi": "10.1146/ANNUREV-FINANCIAL-110311-101754",
+                    "journal": "review of financial economics",
+                    "title": "a survey of systemic risk analytics",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2002402728,
+                    "author": [
+                        {
+                            "AuId": 1881671258,
+                            "AuN": "ana fostel"
+                        },
+                        {
+                            "AuId": 2665973548,
+                            "AuN": "john geanakoplos"
+                        }
+                    ],
+                    "doi": "10.1257/AER.98.4.1211",
+                    "journal": "the american economic review",
+                    "title": "leverage cycles and the anxious economy",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2165053060,
+                    "author": [
+                        {
+                            "AuId": 2210449200,
+                            "AuN": "darrell duffie"
+                        },
+                        {
+                            "AuId": 2210449200,
+                            "AuN": "darrell duffie"
+                        },
+                        {
+                            "AuId": 1790769113,
+                            "AuN": "andreas eckner"
+                        },
+                        {
+                            "AuId": 2023984494,
+                            "AuN": "guillaume horel"
+                        },
+                        {
+                            "AuId": 2023984494,
+                            "AuN": "guillaume horel"
+                        },
+                        {
+                            "AuId": 2013289942,
+                            "AuN": "leandro saita"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.2009.01495.X",
+                    "journal": "journal of finance",
+                    "title": "frailty correlated default",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2111906441,
+                    "author": [
+                        {
+                            "AuId": 2187916011,
+                            "AuN": "monica billio"
+                        },
+                        {
+                            "AuId": 1219948230,
+                            "AuN": "mila getmansky"
+                        },
+                        {
+                            "AuId": 2167401348,
+                            "AuN": "andrew w lo"
+                        },
+                        {
+                            "AuId": 2625713026,
+                            "AuN": "loriana pelizzon"
+                        }
+                    ],
+                    "doi": "10.3386/W16223",
+                    "journal": "national bureau of economic research",
+                    "title": "econometric measures of systemic risk in the finance and insurance sectors",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2167887418,
+                    "author": [
+                        {
+                            "AuId": 2530081543,
+                            "AuN": "claudio borio"
+                        }
+                    ],
+                    "doi": "10.2202/1932-0213.1083",
+                    "journal": "capitalism and society",
+                    "title": "implementing a macroprudential framework blending boldness and realism",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2151528043,
+                    "author": [
+                        {
+                            "AuId": 144220083,
+                            "AuN": "nikolaus hautsch"
+                        },
+                        {
+                            "AuId": 144220083,
+                            "AuN": "nikolaus hautsch"
+                        },
+                        {
+                            "AuId": 2699493304,
+                            "AuN": "julia schaumburg"
+                        },
+                        {
+                            "AuId": 2699493304,
+                            "AuN": "julia schaumburg"
+                        },
+                        {
+                            "AuId": 2034202997,
+                            "AuN": "melanie schienle"
+                        }
+                    ],
+                    "doi": "10.1093/ROF/RFU010",
+                    "journal": "review of finance",
+                    "title": "financial network systemic risk contributions",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2172135168,
+                    "author": [
+                        {
+                            "AuId": 2602353735,
+                            "AuN": "stefano giglio"
+                        },
+                        {
+                            "AuId": 2168991807,
+                            "AuN": "bryan t kelly"
+                        },
+                        {
+                            "AuId": 2253858444,
+                            "AuN": "seth pruitt"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2016.01.010",
+                    "journal": "journal of financial economics",
+                    "title": "systemic risk and the macroeconomy an empirical evaluation",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 1891746873,
+                    "author": [
+                        {
+                            "AuId": 2144362294,
+                            "AuN": "sylvain benoit"
+                        },
+                        {
+                            "AuId": 1825320733,
+                            "AuN": "jeanedouard colliard"
+                        },
+                        {
+                            "AuId": 1908621684,
+                            "AuN": "christophe hurlin"
+                        },
+                        {
+                            "AuId": 282760873,
+                            "AuN": "christophe perignon"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2577961",
+                    "journal": "review of finance",
+                    "title": "where the risks lie a survey on systemic risk",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2110994806,
+                    "author": [
+                        {
+                            "AuId": 2138790093,
+                            "AuN": "halbert white"
+                        },
+                        {
+                            "AuId": 2577050712,
+                            "AuN": "taehwan kim"
+                        },
+                        {
+                            "AuId": 398315095,
+                            "AuN": "simone manganelli"
+                        }
+                    ],
+                    "doi": "10.1016/J.JECONOM.2015.02.004",
+                    "journal": "journal of econometrics",
+                    "title": "var for var measuring tail dependence using multivariate regression quantiles",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2098112116,
+                    "author": [
+                        {
+                            "AuId": 2168991807,
+                            "AuN": "bryan t kelly"
+                        },
+                        {
+                            "AuId": 233362006,
+                            "AuN": "hanno lustig"
+                        },
+                        {
+                            "AuId": 1129793547,
+                            "AuN": "stijn van nieuwerburgh"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1762312",
+                    "journal": "the american economic review",
+                    "title": "too systemic to fail what option markets imply about sector wide government guarantees",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2055622713,
+                    "author": [
+                        {
+                            "AuId": 2141283251,
+                            "AuN": "andre lucas"
+                        },
+                        {
+                            "AuId": 2022030062,
+                            "AuN": "bernd schwaab"
+                        },
+                        {
+                            "AuId": 2233367962,
+                            "AuN": "xin zhang"
+                        }
+                    ],
+                    "doi": "10.1080/07350015.2013.873540",
+                    "journal": "journal of business & economic statistics",
+                    "title": "conditional euro area sovereign default risk",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2788755698,
+                    "author": [
+                        {
+                            "AuId": 2258818573,
+                            "AuN": "robert f engle"
+                        },
+                        {
+                            "AuId": 1297859681,
+                            "AuN": "eric jondeau"
+                        },
+                        {
+                            "AuId": 1983389933,
+                            "AuN": "michael rockinger"
+                        }
+                    ],
+                    "doi": "10.1093/ROF/RFU012",
+                    "journal": "review of finance",
+                    "title": "systemic risk in europe",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 634819117,
+                    "author": [
+                        {
+                            "AuId": 2580485281,
+                            "AuN": "fabian eser"
+                        },
+                        {
+                            "AuId": 2022030062,
+                            "AuN": "bernd schwaab"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2015.06.003",
+                    "journal": "journal of financial economics",
+                    "title": "evaluating the impact of unconventional monetary policy measures empirical evidence from the ecb s securities markets programme",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2188015389,
+                    "author": [
+                        {
+                            "AuId": 2113548210,
+                            "AuN": "viral v acharya"
+                        },
+                        {
+                            "AuId": 2075915621,
+                            "AuN": "lasse heje pedersen"
+                        },
+                        {
+                            "AuId": 329855202,
+                            "AuN": "thomas philippon"
+                        },
+                        {
+                            "AuId": 2100886682,
+                            "AuN": "matthew richardson"
+                        }
+                    ],
+                    "title": "a tax on systemic risk",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2336724063,
+                    "author": [
+                        {
+                            "AuId": 229073825,
+                            "AuN": "francis x diebold"
+                        },
+                        {
+                            "AuId": 2098319192,
+                            "AuN": "kamil yilmaz"
+                        }
+                    ],
+                    "doi": "10.1093/JJFINEC/NBV021",
+                    "journal": "journal of financial econometrics",
+                    "title": "trans atlantic equity volatility connectedness u s and european financial institutions 2004 2014",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2099821908,
+                    "author": [
+                        {
+                            "AuId": 2144362294,
+                            "AuN": "sylvain benoit"
+                        },
+                        {
+                            "AuId": 16672957,
+                            "AuN": "gilbert colletaz"
+                        },
+                        {
+                            "AuId": 1908621684,
+                            "AuN": "christophe hurlin"
+                        },
+                        {
+                            "AuId": 282760873,
+                            "AuN": "christophe perignon"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1973950",
+                    "title": "a theoretical and empirical comparison of systemic risk measures",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2103889243,
+                    "author": [
+                        {
+                            "AuId": 2150352090,
+                            "AuN": "zeno adams"
+                        },
+                        {
+                            "AuId": 1975494347,
+                            "AuN": "roland fuss"
+                        },
+                        {
+                            "AuId": 2305130049,
+                            "AuN": "reint gropp"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2267853",
+                    "journal": "journal of financial and quantitative analysis",
+                    "title": "spillover effects among financial institutions a state dependent sensitivity value at risk approach",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2160554396,
+                    "author": [
+                        {
+                            "AuId": 2258818573,
+                            "AuN": "robert f engle"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2404020",
+                    "journal": "journal of financial econometrics",
+                    "title": "dynamic conditional beta",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 1776050311,
+                    "author": [
+                        {
+                            "AuId": 81061651,
+                            "AuN": "pawel smaga"
+                        },
+                        {
+                            "AuId": 81061651,
+                            "AuN": "pawel smaga"
+                        }
+                    ],
+                    "journal": "lse research online documents on economics",
+                    "title": "the concept of systemic risk",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2096205815,
+                    "author": [
+                        {
+                            "AuId": 2745415711,
+                            "AuN": "maria rodriguezmoreno"
+                        },
+                        {
+                            "AuId": 2131573245,
+                            "AuN": "juan ignacio pena"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1681087",
+                    "journal": "journal of banking and finance",
+                    "title": "systemic risk measures the simpler the better",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 3000913974,
+                    "author": [
+                        {
+                            "AuId": 2100743367,
+                            "AuN": "zhiguo he"
+                        },
+                        {
+                            "AuId": 2281108248,
+                            "AuN": "arvind krishnamurthy"
+                        }
+                    ],
+                    "journal": "national bureau of economic research",
+                    "title": "a macroeconomic framework for quantifying systemic risk",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 831778902,
+                    "author": [
+                        {
+                            "AuId": 55004735,
+                            "AuN": "frederic boissay"
+                        },
+                        {
+                            "AuId": 1975616514,
+                            "AuN": "fabrice collard"
+                        },
+                        {
+                            "AuId": 2150569959,
+                            "AuN": "frank smets"
+                        },
+                        {
+                            "AuId": 2150569959,
+                            "AuN": "frank smets"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2131075",
+                    "journal": "journal of political economy",
+                    "title": "booms and banking crises",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2157032275,
+                    "author": [
+                        {
+                            "AuId": 694520092,
+                            "AuN": "david c wheelock"
+                        },
+                        {
+                            "AuId": 2780970607,
+                            "AuN": "paul w wilson"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1493261",
+                    "journal": "journal of money credit and banking",
+                    "title": "do large banks have lower costs new estimates of returns to scale for u s banks",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1855228792,
+                    "author": [
+                        {
+                            "AuId": 341884230,
+                            "AuN": "xavier freixas"
+                        },
+                        {
+                            "AuId": 2631501608,
+                            "AuN": "luc laeven"
+                        },
+                        {
+                            "AuId": 2076513817,
+                            "AuN": "joseluis peydro"
+                        }
+                    ],
+                    "title": "systemic risk crises and macroprudential regulation",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2120933947,
+                    "author": [
+                        {
+                            "AuId": 263973152,
+                            "AuN": "christian t brownlees"
+                        },
+                        {
+                            "AuId": 2258818573,
+                            "AuN": "robert f engle"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1611229",
+                    "title": "srisk a conditional capital shortfall index for systemic risk measurement",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 3049377716,
+                    "author": [
+                        {
+                            "AuId": 2709934626,
+                            "AuN": "jon danielsson"
+                        },
+                        {
+                            "AuId": 2961318456,
+                            "AuN": "kevin r james"
+                        },
+                        {
+                            "AuId": 2140772220,
+                            "AuN": "marcela valenzuela"
+                        },
+                        {
+                            "AuId": 2966642664,
+                            "AuN": "ilknur zer"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFS.2016.02.002",
+                    "journal": "journal of financial stability",
+                    "title": "model risk of risk models",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 3026982857,
+                    "author": [
+                        {
+                            "AuId": 3028142264,
+                            "AuN": "m w browne"
+                        },
+                        {
+                            "AuId": 3026168375,
+                            "AuN": "d n lawley"
+                        },
+                        {
+                            "AuId": 3024899730,
+                            "AuN": "a e maxwell"
+                        }
+                    ],
+                    "doi": "10.2307/2284191",
+                    "journal": "journal of the american statistical association",
+                    "title": "factor analysis as a statistical method",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 1974454796,
+                    "author": [
+                        {
+                            "AuId": 2217558775,
+                            "AuN": "manja volz"
+                        },
+                        {
+                            "AuId": 330921264,
+                            "AuN": "michael wedow"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEMPFIN.2011.01.001",
+                    "journal": "journal of empirical finance",
+                    "title": "market discipline and too big to fail in the cds market does banks size reduce market discipline",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 3023221728,
+                    "author": [
+                        {
+                            "AuId": 2592598044,
+                            "AuN": "carlos castro"
+                        },
+                        {
+                            "AuId": 2311958385,
+                            "AuN": "stijn ferrari"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEMPFIN.2013.10.009",
+                    "journal": "journal of empirical finance",
+                    "title": "measuring and testing for the systemically important financial institutions",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2509512661,
+                    "author": [
+                        {
+                            "AuId": 2677723293,
+                            "AuN": "j m bates"
+                        },
+                        {
+                            "AuId": 1978712343,
+                            "AuN": "clive w j granger"
+                        }
+                    ],
+                    "doi": "10.1057/JORS.1969.103",
+                    "title": "the combination of forecasts",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2137945018,
+                    "author": [
+                        {
+                            "AuId": 2679421106,
+                            "AuN": "d n lawley"
+                        },
+                        {
+                            "AuId": 3024899730,
+                            "AuN": "a e maxwell"
+                        }
+                    ],
+                    "title": "factor analysis as a statistical method",
+                    "year_mag": 1963
+                },
+                {
+                    "PId": 2201363201,
+                    "author": [
+                        {
+                            "AuId": 2709934626,
+                            "AuN": "jon danielsson"
+                        },
+                        {
+                            "AuId": 2961318456,
+                            "AuN": "kevin r james"
+                        },
+                        {
+                            "AuId": 2140772220,
+                            "AuN": "marcela valenzuela"
+                        },
+                        {
+                            "AuId": 1269849860,
+                            "AuN": "ilknur zer"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2692086",
+                    "journal": "journal of money credit and banking",
+                    "title": "can we prove a bank guilty of creating systemic risk a minority report",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 3773802,
+                    "author": [
+                        {
+                            "AuId": 63060059,
+                            "AuN": "markus k brunnermeier"
+                        },
+                        {
+                            "AuId": 2281108248,
+                            "AuN": "arvind krishnamurthy"
+                        }
+                    ],
+                    "doi": "10.7208/CHICAGO/9780226092645.001.0001",
+                    "title": "risk topography systemic risk and macro modeling",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2235103521,
+                    "author": [
+                        {
+                            "AuId": 2114166211,
+                            "AuN": "chen zhou"
+                        },
+                        {
+                            "AuId": 2114166211,
+                            "AuN": "chen zhou"
+                        },
+                        {
+                            "AuId": 2216944459,
+                            "AuN": "nikola tarashev"
+                        }
+                    ],
+                    "title": "looking at the tail price based measures of systemic importance",
+                    "year_mag": 2013
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2947412763,
+                    "author": [
+                        {
+                            "AuId": 2915278328,
+                            "AuN": "gang kou"
+                        },
+                        {
+                            "AuId": 2470815246,
+                            "AuN": "xiangrui chao"
+                        },
+                        {
+                            "AuId": 2443979337,
+                            "AuN": "yi peng"
+                        },
+                        {
+                            "AuId": 2800469661,
+                            "AuN": "fawaz e alsaadi"
+                        },
+                        {
+                            "AuId": 224175856,
+                            "AuN": "enrique herreraviedma"
+                        }
+                    ],
+                    "doi": "10.3846/TEDE.2019.8740",
+                    "journal": "technological and economic development of economy",
+                    "title": "machine learning methods for systemic risk analysis in financial sectors",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2809968901,
+                    "author": [
+                        {
+                            "AuId": 318333741,
+                            "AuN": "nicola borri"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEMPFIN.2018.11.002",
+                    "journal": "technological and economic development of economy",
+                    "title": "conditional tail risk in cryptocurrency markets",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2207240567,
+                    "author": [
+                        {
+                            "AuId": 2529650333,
+                            "AuN": "marco geraci"
+                        },
+                        {
+                            "AuId": 291173202,
+                            "AuN": "jeanyves gnabo"
+                        }
+                    ],
+                    "doi": "10.1017/S0022109018000108",
+                    "journal": "technological and economic development of economy",
+                    "title": "measuring interconnectedness between financial institutions with bayesian time varying vector autoregressions",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2254539157,
+                    "author": [
+                        {
+                            "AuId": 2086639652,
+                            "AuN": "edward m h lin"
+                        },
+                        {
+                            "AuId": 2578675072,
+                            "AuN": "edward w sun"
+                        },
+                        {
+                            "AuId": 2577249366,
+                            "AuN": "minteh yu"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-016-2113-8",
+                    "journal": "technological and economic development of economy",
+                    "title": "systemic risk financial markets and performance of financial institutions",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2998428533,
+                    "author": [
+                        {
+                            "AuId": 2405013332,
+                            "AuN": "chunbing bao"
+                        },
+                        {
+                            "AuId": 2112948368,
+                            "AuN": "dengsheng wu"
+                        },
+                        {
+                            "AuId": 2679166308,
+                            "AuN": "jianping li"
+                        }
+                    ],
+                    "doi": "10.1016/J.JMSE.2019.12.001",
+                    "journal": "technological and economic development of economy",
+                    "title": "measuring systemic importance of banks considering risk interactions an anova like decomposition method",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 603901572,
+                    "author": [
+                        {
+                            "AuId": 1210248971,
+                            "AuN": "gunter loffler"
+                        },
+                        {
+                            "AuId": 2637330482,
+                            "AuN": "peter raupach"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2593257",
+                    "journal": "technological and economic development of economy",
+                    "title": "pitfalls in the use of systemic risk measures",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2985561311,
+                    "author": [
+                        {
+                            "AuId": 2338409817,
+                            "AuN": "luca barbaglia"
+                        },
+                        {
+                            "AuId": 2156938008,
+                            "AuN": "christophe croux"
+                        },
+                        {
+                            "AuId": 2079234057,
+                            "AuN": "ines wilms"
+                        }
+                    ],
+                    "doi": "10.1016/J.ENECO.2019.104555",
+                    "journal": "technological and economic development of economy",
+                    "title": "volatility spillovers in commodity markets a large t vector autoregressive approach",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2772809727,
+                    "author": [
+                        {
+                            "AuId": 2772502456,
+                            "AuN": "libing fang"
+                        },
+                        {
+                            "AuId": 2774786027,
+                            "AuN": "binqing xiao"
+                        },
+                        {
+                            "AuId": 2795437185,
+                            "AuN": "honghai yu"
+                        },
+                        {
+                            "AuId": 2775744605,
+                            "AuN": "qixing you"
+                        }
+                    ],
+                    "doi": "10.1016/J.PHYSA.2017.11.115",
+                    "journal": "technological and economic development of economy",
+                    "title": "a stable systemic risk ranking in china s banking sector based on principal component analysis",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2518826702,
+                    "author": [
+                        {
+                            "AuId": 2727401234,
+                            "AuN": "michiel c w van de leur"
+                        },
+                        {
+                            "AuId": 2141283251,
+                            "AuN": "andre lucas"
+                        },
+                        {
+                            "AuId": 1998975627,
+                            "AuN": "norman seeger"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2017.02.003",
+                    "journal": "technological and economic development of economy",
+                    "title": "network market and book based systemic risk rankings",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2768559475,
+                    "author": [
+                        {
+                            "AuId": 2769077311,
+                            "AuN": "qianting ma"
+                        },
+                        {
+                            "AuId": 2657014051,
+                            "AuN": "jianmin he"
+                        },
+                        {
+                            "AuId": 2648944379,
+                            "AuN": "shouwei li"
+                        }
+                    ],
+                    "doi": "10.1016/J.PHYSA.2017.11.141",
+                    "journal": "technological and economic development of economy",
+                    "title": "endogenous network of firms and systemic risk",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2293438143,
+                    "author": [
+                        {
+                            "AuId": 2001819335,
+                            "AuN": "patrick kouontchou"
+                        },
+                        {
+                            "AuId": 958324587,
+                            "AuN": "amaury lendasse"
+                        },
+                        {
+                            "AuId": 2543299518,
+                            "AuN": "yoan miche"
+                        },
+                        {
+                            "AuId": 2576145744,
+                            "AuN": "alejandro modesto"
+                        },
+                        {
+                            "AuId": 2583622687,
+                            "AuN": "peter sarlin"
+                        },
+                        {
+                            "AuId": 2405814463,
+                            "AuN": "bertrand maillet"
+                        }
+                    ],
+                    "doi": "10.1109/HICSS.2016.222",
+                    "journal": "technological and economic development of economy",
+                    "title": "a r som analysis of the link between financial market conditions and a systemic risk index based on ica factors of systemic risk measures",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 3090670194,
+                    "author": [
+                        {
+                            "AuId": 2639273169,
+                            "AuN": "dan wang"
+                        },
+                        {
+                            "AuId": 2232725280,
+                            "AuN": "weiqiang huang"
+                        }
+                    ],
+                    "doi": "10.1016/J.PHYSA.2020.125345",
+                    "journal": "technological and economic development of economy",
+                    "title": "centrality based measures of financial institutions systemic importance a tail dependence network view",
+                    "year_mag": 2021
+                },
+                {
+                    "PId": 2971828532,
+                    "author": [
+                        {
+                            "AuId": 1759783680,
+                            "AuN": "stefan hochrainerstigler"
+                        },
+                        {
+                            "AuId": 2592671325,
+                            "AuN": "celian colon"
+                        },
+                        {
+                            "AuId": 1984197857,
+                            "AuN": "gergely boza"
+                        },
+                        {
+                            "AuId": 2020551478,
+                            "AuN": "ake brannstrom"
+                        },
+                        {
+                            "AuId": 49011880,
+                            "AuN": "j linneroothbayer"
+                        },
+                        {
+                            "AuId": 2100393747,
+                            "AuN": "georg ch pflug"
+                        },
+                        {
+                            "AuId": 2041037545,
+                            "AuN": "sebastian poledna"
+                        },
+                        {
+                            "AuId": 2060604634,
+                            "AuN": "e rovenskaya"
+                        },
+                        {
+                            "AuId": 1492817984,
+                            "AuN": "ulf dieckmann"
+                        }
+                    ],
+                    "doi": "10.1080/13669877.2019.1646312",
+                    "journal": "technological and economic development of economy",
+                    "title": "measuring modeling and managing systemic risk the missing aspect of human agency",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2596623585,
+                    "author": [
+                        {
+                            "AuId": 2661766089,
+                            "AuN": "roman kraussl"
+                        },
+                        {
+                            "AuId": 2112462671,
+                            "AuN": "thorsten lehnert"
+                        },
+                        {
+                            "AuId": 2006028952,
+                            "AuN": "denitsa stefanova"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEMPFIN.2016.04.005",
+                    "journal": "technological and economic development of economy",
+                    "title": "the european sovereign debt crisis what have we learned",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2892044735,
+                    "author": [
+                        {
+                            "AuId": 2309066249,
+                            "AuN": "peter grundke"
+                        },
+                        {
+                            "AuId": 2889997850,
+                            "AuN": "michael tuchscherer"
+                        }
+                    ],
+                    "doi": "10.1080/1351847X.2018.1509102",
+                    "journal": "technological and economic development of economy",
+                    "title": "global systemic risk measures and their forecasting power for systemic events",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2602490923,
+                    "author": [
+                        {
+                            "AuId": 2949235417,
+                            "AuN": "peter grundke"
+                        }
+                    ],
+                    "doi": "10.1007/S11156-018-0732-7",
+                    "journal": "technological and economic development of economy",
+                    "title": "ranking consistency of systemic risk measures a simulation based analysis in a banking network model",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2753783996,
+                    "author": [
+                        {
+                            "AuId": 142215486,
+                            "AuN": "richard a brealey"
+                        },
+                        {
+                            "AuId": 2114369267,
+                            "AuN": "ian a cooper"
+                        },
+                        {
+                            "AuId": 2527658350,
+                            "AuN": "evi kaplanis"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2019.105660",
+                    "journal": "technological and economic development of economy",
+                    "title": "the effect of mergers on us bank risk in the short run and in the long run",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2987701083,
+                    "author": [
+                        {
+                            "AuId": 2118010906,
+                            "AuN": "carmela cappelli"
+                        },
+                        {
+                            "AuId": 2918117923,
+                            "AuN": "francesca di iorio"
+                        },
+                        {
+                            "AuId": 2051722608,
+                            "AuN": "angela maddaloni"
+                        },
+                        {
+                            "AuId": 1964627448,
+                            "AuN": "pierpaolo durso"
+                        }
+                    ],
+                    "doi": "10.1007/S10479-019-03406-9",
+                    "journal": "technological and economic development of economy",
+                    "title": "atheoretical regression trees for classifying risky financial institutions",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3007299615,
+                    "author": [
+                        {
+                            "AuId": 1933262107,
+                            "AuN": "abdelkader derbali"
+                        },
+                        {
+                            "AuId": 2346912201,
+                            "AuN": "lamia jamel"
+                        },
+                        {
+                            "AuId": 3010086753,
+                            "AuN": "shan wu"
+                        }
+                    ],
+                    "doi": "10.1007/S00181-020-01834-2",
+                    "journal": "technological and economic development of economy",
+                    "title": "retracted article measuring the systemic importance of chinese banks based on risk interactions",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2900651693,
+                    "author": [
+                        {
+                            "AuId": 318333741,
+                            "AuN": "nicola borri"
+                        }
+                    ],
+                    "doi": "10.1016/J.ECONLET.2018.11.013",
+                    "journal": "technological and economic development of economy",
+                    "title": "redenomination risk spillovers in the eurozone",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 3117472801,
+                    "author": [
+                        {
+                            "AuId": 2762756653,
+                            "AuN": "andrea gurgone"
+                        },
+                        {
+                            "AuId": 2224298059,
+                            "AuN": "giulia iori"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-52970-3_8",
+                    "journal": "technological and economic development of economy",
+                    "title": "a multi agent methodology to assess the effectiveness of systemic risk adjusted capital requirements",
+                    "year_mag": 2021
+                },
+                {
+                    "PId": 2782423669,
+                    "author": [
+                        {
+                            "AuId": 2781659770,
+                            "AuN": "jean charles garibal"
+                        },
+                        {
+                            "AuId": 2001819335,
+                            "AuN": "patrick kouontchou"
+                        },
+                        {
+                            "AuId": 2405814463,
+                            "AuN": "bertrand maillet"
+                        }
+                    ],
+                    "doi": "10.3917/RECO.693.0443",
+                    "journal": "technological and economic development of economy",
+                    "title": "du medaf avec risque systemique a la determination des institutions financieres d importance systemique",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2951801921,
+                    "author": [
+                        {
+                            "AuId": 2149115710,
+                            "AuN": "michele leonardo bianchi"
+                        },
+                        {
+                            "AuId": 2951693261,
+                            "AuN": "alberto maria sorrentino"
+                        }
+                    ],
+                    "doi": "10.1007/S10614-019-09901-2",
+                    "journal": "technological and economic development of economy",
+                    "title": "measuring covar an empirical comparison",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2760716175,
+                    "author": [
+                        {
+                            "AuId": 2001819335,
+                            "AuN": "patrick kouontchou"
+                        },
+                        {
+                            "AuId": 2405814463,
+                            "AuN": "bertrand maillet"
+                        },
+                        {
+                            "AuId": 2576145744,
+                            "AuN": "alejandro modesto"
+                        },
+                        {
+                            "AuId": 2037375509,
+                            "AuN": "sessi tokpavi"
+                        }
+                    ],
+                    "doi": "10.3917/RECO.HS02.0087",
+                    "journal": "technological and economic development of economy",
+                    "title": "quand l union fait la force un indice de risque systemique",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3112235276,
+                    "author": [
+                        {
+                            "AuId": 2738043944,
+                            "AuN": "matteo foglia"
+                        },
+                        {
+                            "AuId": 2113653453,
+                            "AuN": "eliana angelini"
+                        }
+                    ],
+                    "doi": "10.1002/IJFE.2386",
+                    "journal": "technological and economic development of economy",
+                    "title": "the triple t3 dimension of systemic risk identifying systemically important banks",
+                    "year_mag": 2020
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "L\u00f6ffler",
+                            "given": "Gunter",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Raupach",
+                            "given": "Peter",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/S0022109017001041",
+                    "title": "pitfalls in the use of systemic risk measures",
+                    "year_oc": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1016/J.JEMPFIN.2016.01.002",
+            "journal": "JOURNAL OF EMPIRICAL FINANCE",
+            "title": "the information in systemic risk rankings",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0391-5026"
+            ],
+            "PId": 1929415715,
+            "cited": [
+                {
+                    "PId": 2010997253,
+                    "author": [
+                        {
+                            "AuId": 2397423007,
+                            "AuN": "john y campbell"
+                        },
+                        {
+                            "AuId": 2167401348,
+                            "AuN": "andrew w lo"
+                        },
+                        {
+                            "AuId": 1989314247,
+                            "AuN": "a craig mackinlay"
+                        },
+                        {
+                            "AuId": 2151504071,
+                            "AuN": "robert f whitelaw"
+                        }
+                    ],
+                    "title": "the econometrics of financial markets",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2145596432,
+                    "author": [
+                        {
+                            "AuId": 294627858,
+                            "AuN": "nicholas barberis"
+                        },
+                        {
+                            "AuId": 294627858,
+                            "AuN": "nicholas barberis"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.185376",
+                    "journal": "journal of finance",
+                    "title": "investing for the long run when returns are predictable",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2134807435,
+                    "author": [
+                        {
+                            "AuId": 1958827600,
+                            "AuN": "robert c merton"
+                        }
+                    ],
+                    "doi": "10.2307/1913811",
+                    "journal": "econometrica",
+                    "title": "an intertemporal capital asset pricing model",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2291688673,
+                    "author": [
+                        {
+                            "AuId": 2397423007,
+                            "AuN": "john y campbell"
+                        },
+                        {
+                            "AuId": 2303372735,
+                            "AuN": "luis m viceira"
+                        }
+                    ],
+                    "title": "strategic asset allocation",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2069290714,
+                    "author": [
+                        {
+                            "AuId": 2397423007,
+                            "AuN": "john y campbell"
+                        },
+                        {
+                            "AuId": 2303372735,
+                            "AuN": "luis m viceira"
+                        },
+                        {
+                            "AuId": 2303372735,
+                            "AuN": "luis m viceira"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V61.N1.2682",
+                    "journal": "financial analysts journal",
+                    "title": "the term structure of the risk return tradeoff",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2162835896,
+                    "author": [
+                        {
+                            "AuId": 2134198412,
+                            "AuN": "lubos pastor"
+                        },
+                        {
+                            "AuId": 2134198412,
+                            "AuN": "lubos pastor"
+                        },
+                        {
+                            "AuId": 2134198412,
+                            "AuN": "lubos pastor"
+                        },
+                        {
+                            "AuId": 2159456736,
+                            "AuN": "robert f stambaugh"
+                        },
+                        {
+                            "AuId": 2159456736,
+                            "AuN": "robert f stambaugh"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.2012.01722.X",
+                    "journal": "journal of finance",
+                    "title": "are stocks really less volatile in the long run",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1984697146,
+                    "author": [
+                        {
+                            "AuId": 1958827600,
+                            "AuN": "robert c merton"
+                        }
+                    ],
+                    "doi": "10.2307/1926560",
+                    "journal": "the review of economics and statistics",
+                    "title": "lifetime portfolio selection under uncertainty the continuous time case",
+                    "year_mag": 1969
+                },
+                {
+                    "PId": 3020838727,
+                    "author": [
+                        {
+                            "AuId": 1777097624,
+                            "AuN": "paul a samuelson"
+                        }
+                    ],
+                    "doi": "10.2307/1926559",
+                    "journal": "the review of economics and statistics",
+                    "title": "lifetime portfolio selection by dynamic stochastic programming",
+                    "year_mag": 1969
+                },
+                {
+                    "PId": 186209714,
+                    "author": [
+                        {
+                            "AuId": 2397423007,
+                            "AuN": "john y campbell"
+                        }
+                    ],
+                    "doi": "10.1016/S1574-0048(99)10032-6",
+                    "journal": "handbook of macroeconomics",
+                    "title": "chapter 19 asset prices consumption and the business cycle",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 1821248799,
+                    "author": [
+                        {
+                            "AuId": 2397423007,
+                            "AuN": "john y campbell"
+                        },
+                        {
+                            "AuId": 2303372735,
+                            "AuN": "luis m viceira"
+                        },
+                        {
+                            "AuId": 2899733706,
+                            "AuN": "joshua s white"
+                        }
+                    ],
+                    "doi": "10.1111/1468-0297.00120",
+                    "journal": "the economic journal",
+                    "title": "foreign currency for long term investors",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1709892712,
+                    "author": [
+                        {
+                            "AuId": 2763017796,
+                            "AuN": "fra da rique bec"
+                        },
+                        {
+                            "AuId": 2268368592,
+                            "AuN": "christian gollier"
+                        },
+                        {
+                            "AuId": 2268368592,
+                            "AuN": "christian gollier"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1070801",
+                    "title": "assets returns volatility and investment horizon the french case",
+                    "year_mag": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Stambaugh",
+                            "given": "Robert F.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/S0304-405X(99)00041-0",
+                    "title": "predictive regressions",
+                    "year_oc": 1999
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Barberis",
+                            "given": "Nicholas",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1111/0022-1082.00205",
+                    "title": "investing for the long run when returns are predictable",
+                    "year_oc": 2000
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1111/ECNO.12014",
+            "journal": "ECONOMIC NOTES",
+            "title": "how much does the stock market risk decline with the investment horizon a cross country comparison",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0261-5606"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1016/J.JIMONFIN.2012.12.001",
+            "journal": "JOURNAL OF INTERNATIONAL MONEY AND FINANCE",
+            "title": "carry trades and the performance of currency hedge funds",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1594-7556"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.2139/ssrn.2032012",
+            "journal": "MINERVA BANCARIA",
+            "title": "the co movement between sovereign and bank credit risk during the financial crisis the case of the euro area rivista bancaria",
+            "type": "articolo in rivista",
+            "year": 2012
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2951948557,
+            "doi": "10.2139/SSRN.2988484",
+            "journal": "social science research network",
+            "title": "can hedge funds time the market",
+            "type": "8",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2952131318,
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of California, Berkeley, CA, USA"
+                                }
+                            ],
+                            "family": "Eichengreen",
+                            "given": "Barry",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4337/ROKE.2020.01.03",
+                    "title": "keynesian economics can it return if it never died ",
+                    "year_oc": 2020
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Pourmehr",
+                            "given": "Mehdi",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Sepehrdoust",
+                            "given": "Hamid",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Naziri",
+                            "given": "Mohamad Kazem",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "\u0645\u0647\u0631\u06af\u0627\u0646",
+                            "given": "Nader Mehrgan",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "name": "Bu-Ali-Sina University",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "name": "Bu-Ali-Sina University",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "name": "Bu-Ali-Sina University",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "name": "Bu-Ali-Sina University",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.29252/JEMR.9.34.201",
+                    "title": "impact of macroeconomic and management quality variables on the profitability of private banks using structural panel var approach",
+                    "year_oc": 2019
+                }
+            ],
+            "doi": "10.2139/SSRN.2958763",
+            "journal": "social science research network",
+            "title": "do negative interest rates make banks less safe",
+            "type": "8",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2127135993,
+            "cited": [
+                {
+                    "PId": 2136120210,
+                    "author": [
+                        {
+                            "AuId": 689175840,
+                            "AuN": "mark m carhart"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1997.TB03808.X",
+                    "journal": "journal of finance",
+                    "title": "on persistence in mutual fund performance",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2169951764,
+                    "author": [
+                        {
+                            "AuId": 63060059,
+                            "AuN": "markus k brunnermeier"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1317454",
+                    "journal": "journal of economic perspectives",
+                    "title": "deciphering the liquidity and credit crunch 2007 08",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2105381419,
+                    "author": [
+                        {
+                            "AuId": 2037017789,
+                            "AuN": "john d storey"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9868.00346",
+                    "journal": "journal of the royal statistical society series b statistical methodology",
+                    "title": "a direct approach to false discovery rates",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2129905273,
+                    "author": [
+                        {
+                            "AuId": 2297037089,
+                            "AuN": "b w silverman"
+                        }
+                    ],
+                    "doi": "10.1201/9781315140919",
+                    "journal": "journal of the royal statistical society series c applied statistics",
+                    "title": "density estimation for statistics and data analysis",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 3023906401,
+                    "author": [
+                        {
+                            "AuId": 167512347,
+                            "AuN": "whitney k newey"
+                        },
+                        {
+                            "AuId": 2133315416,
+                            "AuN": "ken west"
+                        }
+                    ],
+                    "doi": "10.2307/1913610",
+                    "journal": "econometrica",
+                    "title": "a simple positive semi definite heteroskedasticity and autocorrelation consistent covariance matrix",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2113208252,
+                    "author": [
+                        {
+                            "AuId": 2113253952,
+                            "AuN": "andrew ang"
+                        },
+                        {
+                            "AuId": 50916543,
+                            "AuN": "robert j hodrick"
+                        },
+                        {
+                            "AuId": 50916543,
+                            "AuN": "robert j hodrick"
+                        },
+                        {
+                            "AuId": 2059654338,
+                            "AuN": "yuhang xing"
+                        },
+                        {
+                            "AuId": 2305256662,
+                            "AuN": "xiaoyan zhang"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.2006.00836.X",
+                    "journal": "journal of finance",
+                    "title": "the cross section of volatility and expected returns",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2320868325,
+                    "author": [
+                        {
+                            "AuId": 73848873,
+                            "AuN": "clifford s asness"
+                        },
+                        {
+                            "AuId": 71316104,
+                            "AuN": "tobias j moskowitz"
+                        },
+                        {
+                            "AuId": 2075915621,
+                            "AuN": "lasse heje pedersen"
+                        }
+                    ],
+                    "doi": "10.1111/JOFI.12021",
+                    "journal": "journal of finance",
+                    "title": "value and momentum everywhere value and momentum everywhere",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2118320195,
+                    "author": [
+                        {
+                            "AuId": 2306926174,
+                            "AuN": "william fung"
+                        },
+                        {
+                            "AuId": 2161525711,
+                            "AuN": "david a hsieh"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/10.2.275",
+                    "journal": "review of financial studies",
+                    "title": "empirical characteristics of dynamic trading strategies the case of hedge funds",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2157730637,
+                    "author": [
+                        {
+                            "AuId": 2762109102,
+                            "AuN": "jonathan b berk"
+                        },
+                        {
+                            "AuId": 3008675579,
+                            "AuN": "richard c green"
+                        }
+                    ],
+                    "doi": "10.3386/W9275",
+                    "journal": "journal of political economy",
+                    "title": "mutual fund flows and performance in rational markets",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2098996963,
+                    "author": [
+                        {
+                            "AuId": 2109231980,
+                            "AuN": "vikas agarwal"
+                        },
+                        {
+                            "AuId": 2104775506,
+                            "AuN": "narayan y naik"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/HHG044",
+                    "journal": "review of financial studies",
+                    "title": "risks and portfolio decisions involving hedge funds",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2117178635,
+                    "author": [
+                        {
+                            "AuId": 167512347,
+                            "AuN": "whitney k newey"
+                        },
+                        {
+                            "AuId": 167512347,
+                            "AuN": "whitney k newey"
+                        },
+                        {
+                            "AuId": 2133315416,
+                            "AuN": "ken west"
+                        },
+                        {
+                            "AuId": 2133315416,
+                            "AuN": "ken west"
+                        }
+                    ],
+                    "doi": "10.3386/T0055",
+                    "journal": "applied econometrics",
+                    "title": "a simple positive semi definite heteroskedasticity and autocorrelationconsistent covariance matrix",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2123888799,
+                    "author": [
+                        {
+                            "AuId": 63060059,
+                            "AuN": "markus k brunnermeier"
+                        },
+                        {
+                            "AuId": 2146124031,
+                            "AuN": "stefan nagel"
+                        },
+                        {
+                            "AuId": 2075915621,
+                            "AuN": "lasse heje pedersen"
+                        }
+                    ],
+                    "doi": "10.3386/W14473",
+                    "journal": "nber macroeconomics annual",
+                    "title": "carry trades and currency crashes",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2135749726,
+                    "author": [
+                        {
+                            "AuId": 298869017,
+                            "AuN": "maurice obstfeld"
+                        },
+                        {
+                            "AuId": 214390093,
+                            "AuN": "kenneth rogoff"
+                        },
+                        {
+                            "AuId": 214390093,
+                            "AuN": "kenneth rogoff"
+                        }
+                    ],
+                    "doi": "10.3386/W7777",
+                    "journal": "nber macroeconomics annual",
+                    "title": "the six major puzzles in international macroeconomics is there a common cause",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2039352825,
+                    "author": [
+                        {
+                            "AuId": 2306926174,
+                            "AuN": "william fung"
+                        },
+                        {
+                            "AuId": 2161525711,
+                            "AuN": "david a hsieh"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V60.N5.2657",
+                    "journal": "financial analysts journal",
+                    "title": "hedge fund benchmarks a risk based approach",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2054349855,
+                    "author": [
+                        {
+                            "AuId": 2407891651,
+                            "AuN": "wayne e ferson"
+                        },
+                        {
+                            "AuId": 2407891651,
+                            "AuN": "wayne e ferson"
+                        },
+                        {
+                            "AuId": 2667116140,
+                            "AuN": "rudi w schadt"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1996.TB02690.X",
+                    "journal": "journal of finance",
+                    "title": "measuring fund strategy and performance in changing economic conditions",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2610289416,
+                    "author": [
+                        {
+                            "AuId": 2256793010,
+                            "AuN": "adrian pagan"
+                        },
+                        {
+                            "AuId": 2129479163,
+                            "AuN": "aman ullah"
+                        }
+                    ],
+                    "title": "nonparametric econometrics",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2101434526,
+                    "author": [
+                        {
+                            "AuId": 2306926174,
+                            "AuN": "william fung"
+                        },
+                        {
+                            "AuId": 2161525711,
+                            "AuN": "david a hsieh"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/14.2.313",
+                    "journal": "review of financial studies",
+                    "title": "the risk in hedge fund strategies theory and evidence from trend followers",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2113107692,
+                    "author": [
+                        {
+                            "AuId": 88729355,
+                            "AuN": "lukas menkhoff"
+                        },
+                        {
+                            "AuId": 88729355,
+                            "AuN": "lukas menkhoff"
+                        },
+                        {
+                            "AuId": 2309478656,
+                            "AuN": "lucio sarno"
+                        },
+                        {
+                            "AuId": 2309478656,
+                            "AuN": "lucio sarno"
+                        },
+                        {
+                            "AuId": 2112248247,
+                            "AuN": "maik schmeling"
+                        },
+                        {
+                            "AuId": 2112248247,
+                            "AuN": "maik schmeling"
+                        },
+                        {
+                            "AuId": 1891544655,
+                            "AuN": "andreas schrimpf"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.2012.01728.X",
+                    "journal": "journal of finance",
+                    "title": "carry trades and global foreign exchange volatility",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2101833972,
+                    "author": [
+                        {
+                            "AuId": 2987509240,
+                            "AuN": "stephen j brown"
+                        },
+                        {
+                            "AuId": 5238968,
+                            "AuN": "william n goetzmann"
+                        },
+                        {
+                            "AuId": 5238968,
+                            "AuN": "william n goetzmann"
+                        },
+                        {
+                            "AuId": 2027721619,
+                            "AuN": "roger g ibbotson"
+                        }
+                    ],
+                    "doi": "10.1086/209603",
+                    "journal": "the journal of business",
+                    "title": "offshore hedge funds survival and performance 1989 1995",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2129554087,
+                    "author": [
+                        {
+                            "AuId": 2250404557,
+                            "AuN": "charles m engel"
+                        },
+                        {
+                            "AuId": 2250404557,
+                            "AuN": "charles m engel"
+                        },
+                        {
+                            "AuId": 2250404557,
+                            "AuN": "charles m engel"
+                        },
+                        {
+                            "AuId": 2133315416,
+                            "AuN": "ken west"
+                        },
+                        {
+                            "AuId": 2133315416,
+                            "AuN": "ken west"
+                        }
+                    ],
+                    "doi": "10.3386/W10723",
+                    "journal": "journal of political economy",
+                    "title": "exchange rates and fundamentals",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2141973511,
+                    "author": [
+                        {
+                            "AuId": 1522768753,
+                            "AuN": "robert kosowski"
+                        },
+                        {
+                            "AuId": 2013086852,
+                            "AuN": "allan timmermann"
+                        },
+                        {
+                            "AuId": 2013086852,
+                            "AuN": "allan timmermann"
+                        },
+                        {
+                            "AuId": 1988960144,
+                            "AuN": "russ wermers"
+                        },
+                        {
+                            "AuId": 2138790093,
+                            "AuN": "halbert white"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.414441",
+                    "journal": "journal of finance",
+                    "title": "can mutual fund stars really pick stocks new evidence from a bootstrap analysis",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2076396344,
+                    "author": [
+                        {
+                            "AuId": 2072209733,
+                            "AuN": "dimitris n politis"
+                        },
+                        {
+                            "AuId": 2099378420,
+                            "AuN": "joseph p romano"
+                        }
+                    ],
+                    "doi": "10.1080/01621459.1994.10476870",
+                    "journal": "journal of the american statistical association",
+                    "title": "the stationary bootstrap",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2109718988,
+                    "author": [
+                        {
+                            "AuId": 2949335468,
+                            "AuN": "nicolae g\u00e2rleanu"
+                        },
+                        {
+                            "AuId": 2075915621,
+                            "AuN": "lasse heje pedersen"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/HHR027",
+                    "journal": "review of financial studies",
+                    "title": "margin based asset pricing and deviations from the law of one price",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2105177794,
+                    "author": [
+                        {
+                            "AuId": 2306926174,
+                            "AuN": "william fung"
+                        },
+                        {
+                            "AuId": 2161525711,
+                            "AuN": "david a hsieh"
+                        },
+                        {
+                            "AuId": 2104775506,
+                            "AuN": "narayan y naik"
+                        },
+                        {
+                            "AuId": 63163814,
+                            "AuN": "tarun ramadorai"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.2008.01374.X",
+                    "journal": "journal of finance",
+                    "title": "hedge funds performance risk and capital formation",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1572930125,
+                    "author": [
+                        {
+                            "AuId": 2138955767,
+                            "AuN": "richard a meese"
+                        },
+                        {
+                            "AuId": 214390093,
+                            "AuN": "kenneth rogoff"
+                        }
+                    ],
+                    "doi": "10.1016/0022-1996(83)90017-X",
+                    "journal": "journal of international economics",
+                    "title": "empirical exchange rate models of the seventies do they fit out of sample",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2126521058,
+                    "author": [
+                        {
+                            "AuId": 233362006,
+                            "AuN": "hanno lustig"
+                        },
+                        {
+                            "AuId": 2080130941,
+                            "AuN": "nikolai l roussanov"
+                        },
+                        {
+                            "AuId": 1967270710,
+                            "AuN": "adrien verdelhan"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1139447",
+                    "journal": "review of financial studies",
+                    "title": "common risk factors in currency markets",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2027733619,
+                    "author": [
+                        {
+                            "AuId": 233362006,
+                            "AuN": "hanno lustig"
+                        },
+                        {
+                            "AuId": 1967270710,
+                            "AuN": "adrien verdelhan"
+                        }
+                    ],
+                    "doi": "10.1257/AER.101.7.3456",
+                    "journal": "the american economic review",
+                    "title": "the cross section of foreign currency risk premia and consumption growth risk",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2112048937,
+                    "author": [
+                        {
+                            "AuId": 2141719960,
+                            "AuN": "mark l mitchell"
+                        },
+                        {
+                            "AuId": 254065832,
+                            "AuN": "todd c pulvino"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.268144",
+                    "journal": "journal of finance",
+                    "title": "characteristics of risk and return in risk arbitrage",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2093503007,
+                    "author": [
+                        {
+                            "AuId": 2117247785,
+                            "AuN": "lars peter hansen"
+                        },
+                        {
+                            "AuId": 50916543,
+                            "AuN": "robert j hodrick"
+                        }
+                    ],
+                    "doi": "10.1086/260910",
+                    "journal": "journal of political economy",
+                    "title": "forward exchange rates as optimal predictors of future spot rates an econometric analysis",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 2925259850,
+                    "author": [
+                        {
+                            "AuId": 1740123652,
+                            "AuN": "laurent barras"
+                        },
+                        {
+                            "AuId": 305472385,
+                            "AuN": "olivier scaillet"
+                        },
+                        {
+                            "AuId": 1988960144,
+                            "AuN": "russ wermers"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.2009.01527.X",
+                    "journal": "journal of finance",
+                    "title": "false discoveries in mutual fund performance measuring luck in estimated alphas",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2167948123,
+                    "author": [
+                        {
+                            "AuId": 2101060511,
+                            "AuN": "yinwong cheung"
+                        },
+                        {
+                            "AuId": 249334733,
+                            "AuN": "menzie david chinn"
+                        },
+                        {
+                            "AuId": 2422363139,
+                            "AuN": "antonio garcia pascual"
+                        }
+                    ],
+                    "doi": "10.1016/J.JIMONFIN.2005.08.002",
+                    "journal": "journal of international money and finance",
+                    "title": "empirical exchange rate models of the nineties are any fit to survive",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2126554688,
+                    "author": [
+                        {
+                            "AuId": 2161154003,
+                            "AuN": "a craig burnside"
+                        },
+                        {
+                            "AuId": 2161154003,
+                            "AuN": "a craig burnside"
+                        },
+                        {
+                            "AuId": 2161154003,
+                            "AuN": "a craig burnside"
+                        },
+                        {
+                            "AuId": 2268655293,
+                            "AuN": "martin eichenbaum"
+                        },
+                        {
+                            "AuId": 2268655293,
+                            "AuN": "martin eichenbaum"
+                        },
+                        {
+                            "AuId": 737619972,
+                            "AuN": "isaac kleshchelski"
+                        },
+                        {
+                            "AuId": 2054025372,
+                            "AuN": "sergio rebelo"
+                        },
+                        {
+                            "AuId": 2054025372,
+                            "AuN": "sergio rebelo"
+                        },
+                        {
+                            "AuId": 2054025372,
+                            "AuN": "sergio rebelo"
+                        }
+                    ],
+                    "doi": "10.3386/W12489",
+                    "journal": "national bureau of economic research",
+                    "title": "the returns to currency speculation",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2154075035,
+                    "author": [
+                        {
+                            "AuId": 1522768753,
+                            "AuN": "robert kosowski"
+                        },
+                        {
+                            "AuId": 2104775506,
+                            "AuN": "narayan y naik"
+                        },
+                        {
+                            "AuId": 2146490812,
+                            "AuN": "melvyn teo"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2005.12.009",
+                    "journal": "journal of financial economics",
+                    "title": "do hedge funds deliver alpha a bayesian and bootstrap analysis",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2158844915,
+                    "author": [
+                        {
+                            "AuId": 2250404557,
+                            "AuN": "charles m engel"
+                        }
+                    ],
+                    "doi": "10.1016/0927-5398(95)00016-X",
+                    "journal": "journal of empirical finance",
+                    "title": "the forward discount anomaly and the risk premium a survey of recent evidence",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2137387582,
+                    "author": [
+                        {
+                            "AuId": 2072209733,
+                            "AuN": "dimitris n politis"
+                        },
+                        {
+                            "AuId": 2138790093,
+                            "AuN": "halbert white"
+                        }
+                    ],
+                    "doi": "10.1081/ETC-120028836",
+                    "journal": "econometric reviews",
+                    "title": "automatic block length selection for the dependent bootstrap",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2124087300,
+                    "author": [
+                        {
+                            "AuId": 5238968,
+                            "AuN": "william n goetzmann"
+                        },
+                        {
+                            "AuId": 2051703268,
+                            "AuN": "jonathan e ingersoll"
+                        },
+                        {
+                            "AuId": 2163419371,
+                            "AuN": "stephen a ross"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.57933",
+                    "journal": "journal of finance",
+                    "title": "high water marks and hedge fund management contracts",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2117429303,
+                    "author": [
+                        {
+                            "AuId": 88729355,
+                            "AuN": "lukas menkhoff"
+                        },
+                        {
+                            "AuId": 88729355,
+                            "AuN": "lukas menkhoff"
+                        },
+                        {
+                            "AuId": 2309478656,
+                            "AuN": "lucio sarno"
+                        },
+                        {
+                            "AuId": 2309478656,
+                            "AuN": "lucio sarno"
+                        },
+                        {
+                            "AuId": 2112248247,
+                            "AuN": "maik schmeling"
+                        },
+                        {
+                            "AuId": 1891544655,
+                            "AuN": "andreas schrimpf"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2012.06.009",
+                    "journal": "journal of financial economics",
+                    "title": "currency momentum strategies",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2064796634,
+                    "author": [
+                        {
+                            "AuId": 2161154003,
+                            "AuN": "a craig burnside"
+                        },
+                        {
+                            "AuId": 2268655293,
+                            "AuN": "martin eichenbaum"
+                        },
+                        {
+                            "AuId": 737619972,
+                            "AuN": "isaac kleshchelski"
+                        },
+                        {
+                            "AuId": 2054025372,
+                            "AuN": "sergio rebelo"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/HHQ138",
+                    "journal": "review of financial studies",
+                    "title": "do peso problems explain the returns to the carry trade",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2139056740,
+                    "author": [
+                        {
+                            "AuId": 2250404557,
+                            "AuN": "charles m engel"
+                        },
+                        {
+                            "AuId": 2250404557,
+                            "AuN": "charles m engel"
+                        },
+                        {
+                            "AuId": 2250404557,
+                            "AuN": "charles m engel"
+                        },
+                        {
+                            "AuId": 2121112905,
+                            "AuN": "nelson c mark"
+                        },
+                        {
+                            "AuId": 2121112905,
+                            "AuN": "nelson c mark"
+                        },
+                        {
+                            "AuId": 2133315416,
+                            "AuN": "ken west"
+                        },
+                        {
+                            "AuId": 2133315416,
+                            "AuN": "ken west"
+                        }
+                    ],
+                    "doi": "10.3386/W13318",
+                    "journal": "national bureau of economic research",
+                    "title": "exchange rate models are not as bad as you think",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2095434538,
+                    "author": [
+                        {
+                            "AuId": 2306926174,
+                            "AuN": "william fung"
+                        },
+                        {
+                            "AuId": 2161525711,
+                            "AuN": "david a hsieh"
+                        }
+                    ],
+                    "doi": "10.1016/S0927-5398(99)00006-7",
+                    "journal": "journal of empirical finance",
+                    "title": "a primer on hedge funds",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2014405898,
+                    "author": [
+                        {
+                            "AuId": 2023750619,
+                            "AuN": "eugene f fama"
+                        }
+                    ],
+                    "doi": "10.1016/0304-3932(84)90046-1",
+                    "journal": "journal of monetary economics",
+                    "title": "forward and spot exchange rates",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 2055620474,
+                    "author": [
+                        {
+                            "AuId": 2134198412,
+                            "AuN": "lubos pastor"
+                        },
+                        {
+                            "AuId": 2134198412,
+                            "AuN": "lubos pastor"
+                        },
+                        {
+                            "AuId": 2134198412,
+                            "AuN": "lubos pastor"
+                        },
+                        {
+                            "AuId": 2159456736,
+                            "AuN": "robert f stambaugh"
+                        },
+                        {
+                            "AuId": 2159456736,
+                            "AuN": "robert f stambaugh"
+                        }
+                    ],
+                    "doi": "10.1016/S0304-405X(02)00064-8",
+                    "journal": "journal of financial economics",
+                    "title": "mutual fund performance and seemingly unrelated assets",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2110864193,
+                    "author": [
+                        {
+                            "AuId": 726161046,
+                            "AuN": "doron avramov"
+                        },
+                        {
+                            "AuId": 1988960144,
+                            "AuN": "russ wermers"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2005.05.010",
+                    "journal": "journal of financial economics",
+                    "title": "investing in mutual funds when returns are predictable",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2103862395,
+                    "author": [
+                        {
+                            "AuId": 2125501383,
+                            "AuN": "anthony w lynch"
+                        },
+                        {
+                            "AuId": 2051718857,
+                            "AuN": "david k musto"
+                        }
+                    ],
+                    "doi": "10.1111/1540-6261.00596",
+                    "journal": "journal of finance",
+                    "title": "how investors interpret past fund returns",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2148724785,
+                    "author": [
+                        {
+                            "AuId": 2206405374,
+                            "AuN": "turan g bali"
+                        },
+                        {
+                            "AuId": 2987509240,
+                            "AuN": "stephen j brown"
+                        },
+                        {
+                            "AuId": 2305507664,
+                            "AuN": "mustafa onur caglayan"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2011.02.008",
+                    "journal": "journal of financial economics",
+                    "title": "do hedge funds exposures to risk factors predict their future returns",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2059158367,
+                    "author": [
+                        {
+                            "AuId": 2161154003,
+                            "AuN": "a craig burnside"
+                        },
+                        {
+                            "AuId": 2161154003,
+                            "AuN": "a craig burnside"
+                        },
+                        {
+                            "AuId": 2161154003,
+                            "AuN": "a craig burnside"
+                        },
+                        {
+                            "AuId": 2268655293,
+                            "AuN": "martin eichenbaum"
+                        },
+                        {
+                            "AuId": 2268655293,
+                            "AuN": "martin eichenbaum"
+                        },
+                        {
+                            "AuId": 2054025372,
+                            "AuN": "sergio rebelo"
+                        },
+                        {
+                            "AuId": 2054025372,
+                            "AuN": "sergio rebelo"
+                        },
+                        {
+                            "AuId": 2054025372,
+                            "AuN": "sergio rebelo"
+                        }
+                    ],
+                    "doi": "10.1146/ANNUREV-FINANCIAL-102710-144913",
+                    "journal": "review of financial economics",
+                    "title": "carry trade and momentum in currency markets",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1562486534,
+                    "author": [
+                        {
+                            "AuId": 2124421329,
+                            "AuN": "tobias adrian"
+                        },
+                        {
+                            "AuId": 2284866205,
+                            "AuN": "erkko etula"
+                        },
+                        {
+                            "AuId": 2316824307,
+                            "AuN": "hyun song shin"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1338121",
+                    "journal": "staff reports",
+                    "title": "risk appetite and exchange rates",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1968569892,
+                    "author": [
+                        {
+                            "AuId": 2129575745,
+                            "AuN": "pasquale della corte"
+                        },
+                        {
+                            "AuId": 2309478656,
+                            "AuN": "lucio sarno"
+                        },
+                        {
+                            "AuId": 14356091,
+                            "AuN": "ilias tsiakas"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/HHN058",
+                    "journal": "review of financial studies",
+                    "title": "an economic evaluation of empirical exchange rate models",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2166179502,
+                    "author": [
+                        {
+                            "AuId": 2258730014,
+                            "AuN": "andrew j patton"
+                        },
+                        {
+                            "AuId": 63163814,
+                            "AuN": "tarun ramadorai"
+                        },
+                        {
+                            "AuId": 63163814,
+                            "AuN": "tarun ramadorai"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1874668",
+                    "journal": "journal of finance",
+                    "title": "on the high frequency dynamics of hedge fund risk exposures",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 3020956865,
+                    "author": [
+                        {
+                            "AuId": 2096377403,
+                            "AuN": "randolph b cohen"
+                        },
+                        {
+                            "AuId": 2308655570,
+                            "AuN": "joshua d coval"
+                        },
+                        {
+                            "AuId": 16532871,
+                            "AuN": "\u013eubos pastor"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.2005.00756.X",
+                    "journal": "journal of finance",
+                    "title": "judging fund managers by the company they keep",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2157631477,
+                    "author": [
+                        {
+                            "AuId": 2433080602,
+                            "AuN": "harry mamaysky"
+                        },
+                        {
+                            "AuId": 2129398731,
+                            "AuN": "matthew i spiegel"
+                        },
+                        {
+                            "AuId": 2619822661,
+                            "AuN": "hong zhang"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/HHM049",
+                    "journal": "review of financial studies",
+                    "title": "estimating the dynamics of mutual fund alphas and betas",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2015492003,
+                    "author": [
+                        {
+                            "AuId": 527826321,
+                            "AuN": "richard h clarida"
+                        },
+                        {
+                            "AuId": 2626368635,
+                            "AuN": "josh davis"
+                        },
+                        {
+                            "AuId": 2128376528,
+                            "AuN": "niels pedersen"
+                        }
+                    ],
+                    "doi": "10.1016/J.JIMONFIN.2009.08.010",
+                    "journal": "journal of international money and finance",
+                    "title": "currency carry trade regimes beyond the fama regression",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2569451820,
+                    "author": [
+                        {
+                            "AuId": 2190193263,
+                            "AuN": "jefferson duarte"
+                        },
+                        {
+                            "AuId": 2094402528,
+                            "AuN": "francis a longstaff"
+                        },
+                        {
+                            "AuId": 2166405787,
+                            "AuN": "fan yu"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/HHL026",
+                    "journal": "review of financial studies",
+                    "title": "risk and return in fixed income arbitrage nickels in front of a steamroller",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2101340497,
+                    "author": [
+                        {
+                            "AuId": 2125230452,
+                            "AuN": "adam l aiken"
+                        },
+                        {
+                            "AuId": 2141869469,
+                            "AuN": "christopher p clifford"
+                        },
+                        {
+                            "AuId": 2206067367,
+                            "AuN": "jesse a ellis"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1519914",
+                    "journal": "review of financial studies",
+                    "title": "out of the dark hedge fund reporting biases and commercial databases",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2168029280,
+                    "author": [
+                        {
+                            "AuId": 2619473099,
+                            "AuN": "loriano mancini"
+                        },
+                        {
+                            "AuId": 2619473099,
+                            "AuN": "loriano mancini"
+                        },
+                        {
+                            "AuId": 1209754727,
+                            "AuN": "angelo ranaldo"
+                        },
+                        {
+                            "AuId": 13395283,
+                            "AuN": "jan wrampelmeyer"
+                        },
+                        {
+                            "AuId": 13395283,
+                            "AuN": "jan wrampelmeyer"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1447869",
+                    "journal": "journal of finance",
+                    "title": "liquidity in the foreign exchange market measurement commonality and risk premiums",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2127336480,
+                    "author": [
+                        {
+                            "AuId": 2104775506,
+                            "AuN": "narayan y naik"
+                        },
+                        {
+                            "AuId": 63163814,
+                            "AuN": "tarun ramadorai"
+                        },
+                        {
+                            "AuId": 2704206129,
+                            "AuN": "maria stromqvist"
+                        }
+                    ],
+                    "doi": "10.1111/J.1468-036X.2006.00353.X",
+                    "journal": "european financial management",
+                    "title": "capacity constraints and hedge fund strategy returns",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2137356674,
+                    "author": [
+                        {
+                            "AuId": 230059600,
+                            "AuN": "robert e cumby"
+                        },
+                        {
+                            "AuId": 2102350548,
+                            "AuN": "jack d glen"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1990.TB03700.X",
+                    "journal": "journal of finance",
+                    "title": "evaluating the performance of international mutual funds",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2136750963,
+                    "author": [
+                        {
+                            "AuId": 2206405374,
+                            "AuN": "turan g bali"
+                        },
+                        {
+                            "AuId": 2987509240,
+                            "AuN": "stephen j brown"
+                        },
+                        {
+                            "AuId": 2305507664,
+                            "AuN": "mustafa onur caglayan"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2012.05.005",
+                    "journal": "journal of financial economics",
+                    "title": "systematic risk and the cross section of hedge fund returns",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1972403027,
+                    "author": [
+                        {
+                            "AuId": 2309478656,
+                            "AuN": "lucio sarno"
+                        },
+                        {
+                            "AuId": 2146040942,
+                            "AuN": "giorgio valente"
+                        }
+                    ],
+                    "doi": "10.1162/JEEA.2009.7.4.786",
+                    "journal": "journal of the european economic association",
+                    "title": "exchange rates and fundamentals footloose or evolving relationship",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2145856643,
+                    "author": [
+                        {
+                            "AuId": 2306926174,
+                            "AuN": "william fung"
+                        },
+                        {
+                            "AuId": 2161525711,
+                            "AuN": "david a hsieh"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEMPFIN.2011.04.001",
+                    "journal": "journal of empirical finance",
+                    "title": "the risk in hedge fund strategies theory and evidence from long short equity hedge funds",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2107770733,
+                    "author": [
+                        {
+                            "AuId": 726161046,
+                            "AuN": "doron avramov"
+                        },
+                        {
+                            "AuId": 726161046,
+                            "AuN": "doron avramov"
+                        },
+                        {
+                            "AuId": 1522768753,
+                            "AuN": "robert kosowski"
+                        },
+                        {
+                            "AuId": 2104775506,
+                            "AuN": "narayan y naik"
+                        },
+                        {
+                            "AuId": 2146490812,
+                            "AuN": "melvyn teo"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2010.10.003",
+                    "journal": "journal of financial economics",
+                    "title": "hedge funds managerial skill and macroeconomic variables",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2122066943,
+                    "author": [
+                        {
+                            "AuId": 2300855990,
+                            "AuN": "momtchil pojarliev"
+                        },
+                        {
+                            "AuId": 2135524152,
+                            "AuN": "richard m levich"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1077687",
+                    "journal": "financial analysts journal",
+                    "title": "do professional currency managers beat the benchmark",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2045706986,
+                    "author": [
+                        {
+                            "AuId": 2013542294,
+                            "AuN": "petri jylha"
+                        },
+                        {
+                            "AuId": 2083313388,
+                            "AuN": "matti suominen"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFINECO.2010.07.006",
+                    "journal": "journal of financial economics",
+                    "title": "speculative capital and currency carry trades",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1506222887,
+                    "author": [
+                        {
+                            "AuId": 2117247785,
+                            "AuN": "lars peter hansen"
+                        },
+                        {
+                            "AuId": 50916543,
+                            "AuN": "robert j hodrick"
+                        }
+                    ],
+                    "doi": "10.7208/9780226262536-005",
+                    "title": "risk averse speculation in the forward foreign exchange market an econometric analysis of linear models",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2101549225,
+                    "author": [
+                        {
+                            "AuId": 2113253952,
+                            "AuN": "andrew ang"
+                        },
+                        {
+                            "AuId": 2141371412,
+                            "AuN": "joseph c t chen"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1542342",
+                    "title": "yield curve predictors of foreign exchange returns",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2148008512,
+                    "author": [
+                        {
+                            "AuId": 2025503406,
+                            "AuN": "daniel l thornton"
+                        },
+                        {
+                            "AuId": 2951620111,
+                            "AuN": "giorgio valente"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/HHS069",
+                    "journal": "review of financial studies",
+                    "title": "out of sample predictions of bond excess returns and forward rates an asset allocation perspective",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2098309620,
+                    "author": [
+                        {
+                            "AuId": 3041262783,
+                            "AuN": "pojarlievmomtchil"
+                        },
+                        {
+                            "AuId": 3042179656,
+                            "AuN": "m levichrichard"
+                        }
+                    ],
+                    "doi": "10.2469/FAJ.V64.N5.4",
+                    "journal": "financial analysts journal",
+                    "title": "do professional currency managers beat the benchmark",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1601440285,
+                    "author": [
+                        {
+                            "AuId": 2101060511,
+                            "AuN": "yinwong cheung"
+                        },
+                        {
+                            "AuId": 2101060511,
+                            "AuN": "yinwong cheung"
+                        },
+                        {
+                            "AuId": 249334733,
+                            "AuN": "menzie david chinn"
+                        },
+                        {
+                            "AuId": 249334733,
+                            "AuN": "menzie david chinn"
+                        },
+                        {
+                            "AuId": 2422363139,
+                            "AuN": "antonio garcia pascual"
+                        },
+                        {
+                            "AuId": 2422363139,
+                            "AuN": "antonio garcia pascual"
+                        }
+                    ],
+                    "title": "what do we know about recent exchange rate models in sample fit and out of sample performance evaluated",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1978720163,
+                    "author": [
+                        {
+                            "AuId": 2300855990,
+                            "AuN": "momtchil pojarliev"
+                        },
+                        {
+                            "AuId": 2135524152,
+                            "AuN": "richard m levich"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1267443",
+                    "journal": "journal of international money and finance",
+                    "title": "trades of the living dead style differences style persistence and performance of currency fund managers",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2107003196,
+                    "author": [
+                        {
+                            "AuId": 347018300,
+                            "AuN": "philippe bacchetta"
+                        },
+                        {
+                            "AuId": 347018300,
+                            "AuN": "philippe bacchetta"
+                        },
+                        {
+                            "AuId": 347018300,
+                            "AuN": "philippe bacchetta"
+                        },
+                        {
+                            "AuId": 6456700,
+                            "AuN": "eric van wincoop"
+                        },
+                        {
+                            "AuId": 6456700,
+                            "AuN": "eric van wincoop"
+                        }
+                    ],
+                    "doi": "10.1257/AER.97.2.346",
+                    "journal": "the american economic review",
+                    "title": "random walk expectations and the forward discount puzzle",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1668560010,
+                    "author": [
+                        {
+                            "AuId": 2146490812,
+                            "AuN": "melvyn teo"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1331754",
+                    "title": "does size matter in the hedge fund industry",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1495095309,
+                    "author": [
+                        {
+                            "AuId": 2300855990,
+                            "AuN": "momtchil pojarliev"
+                        },
+                        {
+                            "AuId": 2135524152,
+                            "AuN": "richard m levich"
+                        },
+                        {
+                            "AuId": 2135524152,
+                            "AuN": "richard m levich"
+                        }
+                    ],
+                    "doi": "10.1002/9781118445785.CH17",
+                    "title": "active currency management part ii is there skill or alpha in currency investing",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2057329770,
+                    "author": [
+                        {
+                            "AuId": 2250404557,
+                            "AuN": "charles m engel"
+                        }
+                    ],
+                    "doi": "10.1016/0022-1996(84)90025-4",
+                    "journal": "journal of international economics",
+                    "title": "testing for the absence of expected real profits from forward market speculation",
+                    "year_mag": 1984
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 1758290727,
+                    "author": [
+                        {
+                            "AuId": 2289303922,
+                            "AuN": "shamim ahmed"
+                        },
+                        {
+                            "AuId": 2147805680,
+                            "AuN": "xiaoquan liu"
+                        },
+                        {
+                            "AuId": 2952105505,
+                            "AuN": "giorgio valente"
+                        }
+                    ],
+                    "doi": "10.1016/J.IJFORECAST.2015.01.010",
+                    "journal": "international journal of forecasting",
+                    "title": "can currency based risk factors help forecast exchange rates",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2605162981,
+                    "author": [
+                        {
+                            "AuId": 2907476578,
+                            "AuN": "ji luo"
+                        },
+                        {
+                            "AuId": 2907465015,
+                            "AuN": "kaihong tee"
+                        },
+                        {
+                            "AuId": 2588814426,
+                            "AuN": "baibing li"
+                        }
+                    ],
+                    "doi": "10.1016/J.MULFIN.2017.04.001",
+                    "journal": "international journal of forecasting",
+                    "title": "timing liquidity in the foreign exchange market did hedge funds do it",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2966316998,
+                    "author": [
+                        {
+                            "AuId": 2630433469,
+                            "AuN": "gueorgui konstantinov"
+                        },
+                        {
+                            "AuId": 2964643002,
+                            "AuN": "jonas rebmann"
+                        }
+                    ],
+                    "doi": "10.3905/JFDS.2019.1.3.108",
+                    "journal": "international journal of forecasting",
+                    "title": "from risk factors to networks a case study on interconnectedness using currency funds",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2983681583,
+                    "author": [
+                        {
+                            "AuId": 2985461352,
+                            "AuN": "chenlu li"
+                        },
+                        {
+                            "AuId": 2588814426,
+                            "AuN": "baibing li"
+                        },
+                        {
+                            "AuId": 2126447103,
+                            "AuN": "kaihong tee"
+                        }
+                    ],
+                    "doi": "10.1016/J.IRFA.2019.101415",
+                    "journal": "international journal of forecasting",
+                    "title": "are hedge funds active market liquidity timers",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2506949553,
+                    "author": [
+                        {
+                            "AuId": 2296815229,
+                            "AuN": "gueorgui konstantinov"
+                        }
+                    ],
+                    "doi": "10.1007/S11408-016-0271-Y",
+                    "journal": "international journal of forecasting",
+                    "title": "capturing short term and long term alpha of global bond portfolios evidence from eur investors perspective",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2242495237,
+                    "author": [
+                        {
+                            "AuId": 2907476578,
+                            "AuN": "ji luo"
+                        }
+                    ],
+                    "journal": "international journal of forecasting",
+                    "title": "liquidity timing skills for hedge funds",
+                    "year_mag": 2015
+                }
+            ],
+            "doi": "10.2139/SSRN.2202605",
+            "journal": "journal of international money and finance",
+            "title": "carry trades and the performance of currency hedge funds",
+            "type": "1",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2770826257,
+            "title": "i tassi di interesse negativi e la performance delle banche europee alcune considerazioni preliminari",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2753987390,
+            "doi": "10.2139/SSRN.3008530",
+            "title": "risk managed momentum the effect of leverage constraints",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 1580394215,
+            "cited": [
+                {
+                    "PId": 2947626232,
+                    "author": [
+                        {
+                            "AuId": 2947307228,
+                            "AuN": "helmut ltkepohl"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-540-27752-1",
+                    "title": "new introduction to multiple time series analysis",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2112440119,
+                    "author": [
+                        {
+                            "AuId": 2441160431,
+                            "AuN": "richard a johnson"
+                        },
+                        {
+                            "AuId": 2082365655,
+                            "AuN": "dean w wichern"
+                        }
+                    ],
+                    "title": "applied multivariate statistical analysis",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 2005432509,
+                    "author": [
+                        {
+                            "AuId": 2113253952,
+                            "AuN": "andrew ang"
+                        },
+                        {
+                            "AuId": 2031671744,
+                            "AuN": "geert bekaert"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/15.4.1137",
+                    "journal": "review of financial studies",
+                    "title": "international asset allocation with regime shifts",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1860131268,
+                    "author": [
+                        {
+                            "AuId": 2094402528,
+                            "AuN": "francis a longstaff"
+                        },
+                        {
+                            "AuId": 2168508420,
+                            "AuN": "jun pan"
+                        },
+                        {
+                            "AuId": 2075915621,
+                            "AuN": "lasse heje pedersen"
+                        },
+                        {
+                            "AuId": 669620310,
+                            "AuN": "kenneth j singleton"
+                        }
+                    ],
+                    "doi": "10.1257/MAC.3.2.75",
+                    "journal": "american economic journal macroeconomics",
+                    "title": "how sovereign is sovereign credit risk",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2102173527,
+                    "author": [
+                        {
+                            "AuId": 2965821372,
+                            "AuN": "xin huang"
+                        },
+                        {
+                            "AuId": 2108295432,
+                            "AuN": "hao zhou"
+                        },
+                        {
+                            "AuId": 2640047208,
+                            "AuN": "haibin zhu"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2009.05.017",
+                    "journal": "journal of banking and finance",
+                    "title": "a framework for assessing the systemic risk of major financial institutions",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2105973145,
+                    "author": [
+                        {
+                            "AuId": 1958827600,
+                            "AuN": "robert c merton"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1974.TB03058.X",
+                    "journal": "journal of finance",
+                    "title": "on the pricing of corporate debt the risk structure of interest rates",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 2481790910,
+                    "author": [
+                        {
+                            "AuId": 2502621609,
+                            "AuN": "piergiorgio alessandri"
+                        },
+                        {
+                            "AuId": 2061263681,
+                            "AuN": "andrew g haldane"
+                        },
+                        {
+                            "AuId": 2798459125,
+                            "AuN": "paul doran"
+                        },
+                        {
+                            "AuId": 2798587120,
+                            "AuN": "marius jurgilas"
+                        },
+                        {
+                            "AuId": 2799183558,
+                            "AuN": "samuel knott"
+                        },
+                        {
+                            "AuId": 2798947207,
+                            "AuN": "salina ladha"
+                        },
+                        {
+                            "AuId": 2798996731,
+                            "AuN": "ouarda merrouche"
+                        },
+                        {
+                            "AuId": 2798689805,
+                            "AuN": "filipa sa"
+                        },
+                        {
+                            "AuId": 2798884834,
+                            "AuN": "william speller"
+                        }
+                    ],
+                    "title": "banking on the state",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2148365146,
+                    "author": [
+                        {
+                            "AuId": 2151641615,
+                            "AuN": "dale f gray"
+                        },
+                        {
+                            "AuId": 1958827600,
+                            "AuN": "robert c merton"
+                        },
+                        {
+                            "AuId": 1958827600,
+                            "AuN": "robert c merton"
+                        },
+                        {
+                            "AuId": 1958827600,
+                            "AuN": "robert c merton"
+                        },
+                        {
+                            "AuId": 2499745686,
+                            "AuN": "zvi bodie"
+                        }
+                    ],
+                    "title": "contingent claims approach to measuring and managing sovereign credit risk",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2046637750,
+                    "author": [
+                        {
+                            "AuId": 2124877045,
+                            "AuN": "john h cochrane"
+                        }
+                    ],
+                    "doi": "10.2307/2118434",
+                    "journal": "quarterly journal of economics",
+                    "title": "permanent and transitory components of gnp and stock prices",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2057779363,
+                    "author": [
+                        {
+                            "AuId": 2688997644,
+                            "AuN": "renzo g avesani"
+                        },
+                        {
+                            "AuId": 2422363139,
+                            "AuN": "antonio garcia pascual"
+                        },
+                        {
+                            "AuId": 2422363139,
+                            "AuN": "antonio garcia pascual"
+                        }
+                    ],
+                    "doi": "10.5089/9781451863659.001",
+                    "journal": "imf working papers",
+                    "title": "a new risk indicator and stress testing tool a multifactor nth to default cds basket",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2006374185,
+                    "author": [
+                        {
+                            "AuId": 259924255,
+                            "AuN": "christian b hawkesby"
+                        },
+                        {
+                            "AuId": 2098996739,
+                            "AuN": "ian w marsh"
+                        },
+                        {
+                            "AuId": 2157941068,
+                            "AuN": "ibrahim stevens"
+                        }
+                    ],
+                    "doi": "10.1016/J.JFS.2006.12.001",
+                    "journal": "journal of financial stability",
+                    "title": "comovements in the equity prices of large complex financial institutions",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2107340783,
+                    "author": [
+                        {
+                            "AuId": 259924255,
+                            "AuN": "christian b hawkesby"
+                        },
+                        {
+                            "AuId": 2098996739,
+                            "AuN": "ian w marsh"
+                        },
+                        {
+                            "AuId": 2157941068,
+                            "AuN": "ibrahim stevens"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.724062",
+                    "title": "comovements in the prices of securities issued by large complex financial institutions",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 308068274,
+                    "author": [
+                        {
+                            "AuId": 2441577885,
+                            "AuN": "t jacobson"
+                        }
+                    ],
+                    "journal": "computational statistics",
+                    "title": "on the determination of lag order in vector autoregressions of cointegrated systems",
+                    "year_mag": 1995
+                }
+            ],
+            "doi": "10.2139/SSRN.2032012",
+            "title": "the co movement between sovereign and bank credit risk during the financial crisis the case of the euro area",
+            "type": "0",
+            "year_mag": 2012
+        }
+    ]
+}

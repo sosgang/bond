@@ -1,0 +1,562 @@
+{
+    "AuIds": [],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 0,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 0,
+            "comm_other": 4682,
+            "other_cand": 0,
+            "other_comm": 4973
+        },
+        "other_nodes": 6512
+    },
+    "coverage": {
+        "articles": 23,
+        "books": 2,
+        "cov_sect": "C",
+        "other_pubbs": 20,
+        "pubbs": 10,
+        "pubbs_found": 0,
+        "pubbs_ind": 43,
+        "pubbs_ind_found": 0,
+        "total_extra_found": 0,
+        "total_found": 0,
+        "total_pubbs": 45
+    },
+    "fullname": [
+        "Disalvo",
+        "Margherita"
+    ],
+    "ind_anvur": [
+        33,
+        17,
+        2,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "978-3-319-44692-9"
+            ],
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "title": "heritage language identity and education in europe evidence from the uk",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2018
+        },
+        {
+            "ISBN": [
+                "978-88-6719-160-4"
+            ],
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "title": "contatti migrazioni e aree marginali i dialetti irpini",
+            "type": "contributo in atti di convegno",
+            "year": 2018
+        },
+        {
+            "ISBN": [
+                "978-88-6056-561-7"
+            ],
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "title": "italiano dialetto e inglese in alcuni migranti di seconda generazione prospettiva di ricerca tra sociolinguistica e analisi del discorso",
+            "type": "contributo in atti di convegno",
+            "year": 2018
+        },
+        {
+            "ISSN": [
+                "0039-2936"
+            ],
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "journal": "STUDI EMIGRAZIONE",
+            "title": "expat espatriati migranti conflitti semantici e identitari",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0390-6809"
+            ],
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "journal": "STUDI ITALIANI DI LINGUISTICA TEORICA E APPLICATA",
+            "title": "la lingua come marcatore identitario tra vecchi e nuovi migranti pratiche comunitarie e trasmissione familiare",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0393-1226"
+            ],
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "journal": "QUADERNI DI SEMANTICA",
+            "title": "riflessi dell emigrazione nei dialetti irpini uno spoglio dei dizionari dialettali",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0085-2295"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "7"
+            },
+            "journal": "LXXVIII",
+            "title": "l oggetto preposizionale nell italiano parlato in contesto dell extraterritorialita l italia dialettale vol",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "title": "la valutazione e i risultati",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-3283-044-6"
+            ],
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "title": "il rapporto della fondazione migrantes italiani nel mondo",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "title": "repertori linguistici e variazione nei quindicenni napoletani",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "1-5275-0339-9"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "11"
+            },
+            "title": "heritage language and identity in old and new italian migrants in toronto",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "1-5275-0339-9"
+            ],
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "title": "for state of art research on linguistic studies of italian communities worldwide",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9783110552454"
+            ],
+            "cv_id": {
+                "pubbs_ind": "13"
+            },
+            "title": "merchants court clerks and sovereigns the community of practices between speaking and writing in the modern mediterrean",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0393-1226"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "14"
+            },
+            "journal": "QUADERNI DI SEMANTICA",
+            "title": "lingua memoria e identita in un paese terremotato",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1122-6331"
+            ],
+            "cv_id": {
+                "pubbs_ind": "15"
+            },
+            "journal": "RID",
+            "title": "repertori e comportamento linguistico in due comunita italiane all estero",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788846747235"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "16"
+            },
+            "title": "fenomeni di convergenza tra toscano e veneziano in documenti dell archivio di stato di venezia",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-1-4438-9770-9"
+            ],
+            "cv_id": {
+                "pubbs_ind": "17"
+            },
+            "title": "languaging ethnic diversity the case of the italian communities of bedford and peterborough",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788867875276"
+            ],
+            "cv_id": {
+                "pubbs_ind": "18"
+            },
+            "title": "dialetto terremoto e storia a san mango sul calore in irpinia",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0033-9725"
+            ],
+            "cv_id": {
+                "pubbs_ind": "19"
+            },
+            "journal": "RASSEGNA ITALIANA DI LINGUISTICA APPLICATA",
+            "title": "lingua e immigrazione a pisticci dimensioni della variazione in un comune lucano",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0021-3020"
+            ],
+            "cv_id": {
+                "pubbs_ind": "20"
+            },
+            "journal": "ITALICA",
+            "title": "i pugliesi di cambridge e i pugliesi di bedford tra continuita e variazione ",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0390-6809"
+            ],
+            "cv_id": {
+                "pubbs_ind": "21"
+            },
+            "journal": "STUDI ITALIANI DI LINGUISTICA TEORICA E APPLICATA",
+            "title": "italiani in inghilterra inglesi in irpinia",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788868434076"
+            ],
+            "cv_id": {
+                "pubbs_ind": "22"
+            },
+            "title": "le migrazioni interne di lucani e siciliani a napoli in chiave sociolinguistica",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "23"
+            },
+            "title": "somiglianze e divergenze nel processo di cambio linguistico in tre comunita d inghilterra",
+            "type": "contributo in atti di convegno",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0390-6809"
+            ],
+            "cv_id": {
+                "pubbs_ind": "24"
+            },
+            "journal": "STUDI ITALIANI DI LINGUISTICA TEORICA E APPLICATA",
+            "title": "oltre l ordine di nascita repertori complessi in alcune famiglie italiane in contesto inglese",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1973-3461"
+            ],
+            "cv_id": {
+                "pubbs_ind": "25"
+            },
+            "journal": "ARCHIVIO STORICO DELL'EMIGRAZIONE ITALIANA",
+            "title": "universi tangenziali le tante comunita italiane di cambridge ",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "26"
+            },
+            "title": "rotture e continuita in alcune famiglie italiane in inghilterra",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-88-8420-885-9"
+            ],
+            "cv_id": {
+                "pubbs_ind": "27"
+            },
+            "title": "variazione linguistica e identita regionale i pugliesi di cambridge e di bedford",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-2-343-03447-8"
+            ],
+            "cv_id": {
+                "pubbs_ind": "28"
+            },
+            "title": "communaute et individu la dimension de la variation chez les italiens de bedford",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1122-1917"
+            ],
+            "cv_id": {
+                "pubbs_ind": "29"
+            },
+            "journal": "XXI",
+            "title": "lingua italiana e immagini dell italia nella scrittura migrante di concetta coppolino l analisi linguistica e letteraria vol",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0039-2936"
+            ],
+            "cv_id": {
+                "pubbs_ind": "30"
+            },
+            "journal": "STUDI EMIGRAZIONE",
+            "title": "l emigrazione italiana attraverso la lente della scuola i ricordi di migranti italiani in inghilterra e nei rientrati nelle aree dell esodo ",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1616-413X"
+            ],
+            "cv_id": {
+                "pubbs_ind": "31"
+            },
+            "journal": "REVISTA PHILOLOGICA ROMANICA",
+            "title": "frontiere immaginate contatti e identita complesse nelle migrazioni interne ianua",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0033-9725"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "32"
+            },
+            "journal": "RASSEGNA ITALIANA DI LINGUISTICA APPLICATA",
+            "title": "segnali discorsivi inglesi tra gli italiani di bedford e cambridge",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "33"
+            },
+            "title": "analisi del contatto in migranti campani di i generazione la questione dei segnali discorsivi",
+            "type": "contributo in atti di convegno",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0391-8181"
+            ],
+            "cv_id": {
+                "pubbs_ind": "34"
+            },
+            "journal": "XXI",
+            "title": "dialetto italiano e inglese nell uso di emigrati a bedford inghilterra atti della accademia nazionale dei lincei rendiconti classe di scienze morali storiche e filologiche vol",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "0261-4340"
+            ],
+            "cv_id": {
+                "pubbs_ind": "35"
+            },
+            "journal": "THE ITALIANIST",
+            "title": "well you know anyway in un corpus di migranti italiani",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1973-3461"
+            ],
+            "cv_id": {
+                "pubbs_ind": "36"
+            },
+            "journal": "ARCHIVIO STORICO DELL'EMIGRAZIONE ITALIANA",
+            "title": "l emigrazione subita storia di una comunita arbereshe",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "88-89837-90-X"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "37"
+            },
+            "title": " le mani parlavano inglese percorsi linguistici e antropologici tra gli italiani di inghilterra vol",
+            "type": "monografia o trattato scientifico",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788820758974"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "38"
+            },
+            "title": "contatti linguistici e culturali a napoli l immigrazione borghese di lucani e siciliani vol",
+            "type": "monografia o trattato scientifico",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1722-0262"
+            ],
+            "cv_id": {
+                "pubbs_ind": "39"
+            },
+            "journal": "BOLLETTINO LINGUISTICO CAMPANO",
+            "title": "katunscia arbereshe albanese tre nomi una lingu",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "0039-2936"
+            ],
+            "cv_id": {
+                "pubbs_ind": "40"
+            },
+            "journal": "STUDI EMIGRAZIONE",
+            "title": "gli italiani di bedford sessant anni di vita in inghilterra",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1722-0262"
+            ],
+            "cv_id": {
+                "pubbs_ind": "41"
+            },
+            "journal": "BOLLETTINO LINGUISTICO CAMPANO",
+            "title": "tra mantenimento e perdita dinamiche linguistiche e culturali in tre comunita italiane in inghilterra",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1120-0413"
+            ],
+            "cv_id": {
+                "pubbs_ind": "42"
+            },
+            "journal": "ALTREITALIE",
+            "title": "nuove mobilita in inghilterra oltre londra",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "0085-2295"
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "43"
+            },
+            "journal": "L'ITALIA DIALETTALE",
+            "title": "interferenza fonetica in siciliani e lucani a napoli variazione interregionale e italiano regionale",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "cv_id": {
+                "pubbs": "6"
+            },
+            "title": "aspetti del contatto nella prima generazione di migranti campani a bedford",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "978-88-7667-382-5"
+            ],
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "title": "strutture topicalizzate in parlanti colti",
+            "type": "contributo in atti di convegno",
+            "year": 2009
+        }
+    ],
+    "pubbs_mag": []
+}

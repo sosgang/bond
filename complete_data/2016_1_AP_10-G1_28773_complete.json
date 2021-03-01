@@ -1,0 +1,3545 @@
+{
+    "AuIds": [
+        2740182151,
+        2721340309,
+        82350830
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "2075393398_+_1482438246": 1,
+                "2075393398_+_1940919378": 1,
+                "2075393398_+_2085297150": 1,
+                "2075393398_+_2121046377": 1,
+                "2075393398_+_2167799078": 1,
+                "2075393398_+_2342973216": 1,
+                "2075393398_+_2477185311": 1,
+                "2271679349_+_2023334777": 1,
+                "2271679349_+_2085297150": 2,
+                "2271679349_+_2342973216": 1,
+                "2494753216_+_2085297150": 1,
+                "2494753216_+_2342973216": 1
+            },
+            "number": 3
+        },
+        "cand_nodes": 20,
+        "cand_paths": {
+            "2": [
+                [
+                    "2528804767",
+                    "2144618845"
+                ],
+                [
+                    "2486211382",
+                    "2144618845"
+                ]
+            ],
+            "3": [
+                [
+                    "2528804767",
+                    "172602838"
+                ],
+                [
+                    "2486211382",
+                    "172602838"
+                ]
+            ],
+            "4": [
+                [
+                    "2528804767",
+                    "1504338441"
+                ],
+                [
+                    "2486211382",
+                    "1504338441"
+                ]
+            ]
+        },
+        "cc": {
+            "articles": {
+                "2159831794_+_10.1073/pnas.1601341113": 1,
+                "2159831794_+_2121046377": 1,
+                "2159831794_+_2342973216": 1,
+                "2159831794_+_2477185311": 1,
+                "2159831794_+_3108276861": 1
+            },
+            "number": 3
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 498,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 166,
+            "comm_other": 3837,
+            "other_cand": 34,
+            "other_comm": 4921
+        },
+        "other_nodes": 6159
+    },
+    "coverage": {
+        "articles": 9,
+        "books": 3,
+        "cov_sect": "A",
+        "other_pubbs": 2,
+        "pubbs": 10,
+        "pubbs_found": 10,
+        "pubbs_ind": 14,
+        "pubbs_ind_found": 12,
+        "total_extra_found": 20,
+        "total_found": 12,
+        "total_pubbs": 14
+    },
+    "fullname": [
+        "Domaneschi",
+        "Filippo"
+    ],
+    "ind_anvur": [
+        "",
+        "",
+        "",
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1664-1078"
+            ],
+            "PId": 2271679349,
+            "cited": [
+                {
+                    "PId": 1509297014,
+                    "author": [
+                        {
+                            "AuId": 2167457875,
+                            "AuN": "irene heim"
+                        }
+                    ],
+                    "doi": "10.1002/9780470758335.CH10",
+                    "title": "on the projection problem for presuppositions",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2119854905,
+                    "author": [
+                        {
+                            "AuId": 2147228984,
+                            "AuN": "rob van der sandt"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/9.4.333",
+                    "journal": "journal of semantics",
+                    "title": "presupposition projection as anaphora resolution",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2141101471,
+                    "author": [
+                        {
+                            "AuId": 25099327,
+                            "AuN": "judith tonhauser"
+                        },
+                        {
+                            "AuId": 2567887855,
+                            "AuN": "david beaver"
+                        },
+                        {
+                            "AuId": 2156430106,
+                            "AuN": "craige roberts"
+                        },
+                        {
+                            "AuId": 2127671253,
+                            "AuN": "mandy simons"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.2013.0001",
+                    "journal": "language",
+                    "title": "toward a taxonomy of projective content",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1527875168,
+                    "author": [
+                        {
+                            "AuId": 2567887855,
+                            "AuN": "david beaver"
+                        }
+                    ],
+                    "title": "presupposition and assertion in dynamic semantics",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1979331444,
+                    "author": [
+                        {
+                            "AuId": 690675989,
+                            "AuN": "dorit abusch"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/FFP009",
+                    "journal": "journal of semantics",
+                    "title": "presupposition triggering from alternatives",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2130529146,
+                    "author": [
+                        {
+                            "AuId": 316221396,
+                            "AuN": "kai von fintel"
+                        }
+                    ],
+                    "doi": "10.1111/J.1520-8583.2008.00144.X",
+                    "journal": "philosophical perspectives",
+                    "title": "what is presupposition accommodation again",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2141927550,
+                    "author": [
+                        {
+                            "AuId": 2468452060,
+                            "AuN": "p n johnsonlaird"
+                        }
+                    ],
+                    "doi": "10.1016/S1364-6613(00)01751-4",
+                    "journal": "trends in cognitive sciences",
+                    "title": "mental models and deduction",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2158865744,
+                    "author": [
+                        {
+                            "AuId": 2127671253,
+                            "AuN": "mandy simons"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-01014-4_13",
+                    "journal": "semantics and linguistic theory",
+                    "title": "on the conversational basis of some presuppositions",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2055852999,
+                    "author": [
+                        {
+                            "AuId": 285761815,
+                            "AuN": "philippe schlenker"
+                        }
+                    ],
+                    "doi": "10.1515/THLI.2008.013",
+                    "journal": "theoretical linguistics",
+                    "title": "be articulate a pragmatic theory of presupposition projection",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2041146141,
+                    "author": [
+                        {
+                            "AuId": 2082286780,
+                            "AuN": "emmanuel chemla"
+                        }
+                    ],
+                    "doi": "10.3765/SP.2.2",
+                    "journal": "semantics and pragmatics",
+                    "title": "universal implicatures and free choice effects experimental data",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2154641895,
+                    "author": [
+                        {
+                            "AuId": 2167457875,
+                            "AuN": "irene heim"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/9.3.183",
+                    "journal": "journal of semantics",
+                    "title": "presupposition projection and the semantics of attitude verbs",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1601018530,
+                    "author": [
+                        {
+                            "AuId": 2083069655,
+                            "AuN": "robert stalnaker"
+                        }
+                    ],
+                    "doi": "10.1023/A:1008254815298",
+                    "journal": "journal of logic language and information",
+                    "title": "on the representation of context",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2089765404,
+                    "author": [
+                        {
+                            "AuId": 2352736731,
+                            "AuN": "gerald gazdar"
+                        }
+                    ],
+                    "title": "pragmatics implicature presupposition and logical form",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 2168044446,
+                    "author": [
+                        {
+                            "AuId": 659117755,
+                            "AuN": "saul a kripke"
+                        }
+                    ],
+                    "doi": "10.1162/LING.2009.40.3.367",
+                    "journal": "linguistic inquiry",
+                    "title": "presupposition and anaphora remarks on the formulation of the projection problem",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1620252883,
+                    "author": [
+                        {
+                            "AuId": 690675989,
+                            "AuN": "dorit abusch"
+                        }
+                    ],
+                    "doi": "10.3765/SALT.V12I0.2867",
+                    "journal": "semantics and linguistic theory",
+                    "title": "lexical alternatives as a source of pragmatic presuppositions",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1793131882,
+                    "author": [
+                        {
+                            "AuId": 2250211244,
+                            "AuN": "jacopo romoli"
+                        }
+                    ],
+                    "doi": "10.3765/SALT.V21I0.2588",
+                    "journal": "semantics and linguistic theory",
+                    "title": "an experimental investigation of presupposition projection in conditional sentences",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2056208991,
+                    "author": [
+                        {
+                            "AuId": 285761815,
+                            "AuN": "philippe schlenker"
+                        }
+                    ],
+                    "doi": "10.1007/S11050-011-9072-Z",
+                    "journal": "natural language semantics",
+                    "title": "the proviso problem a note",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2113463615,
+                    "author": [
+                        {
+                            "AuId": 708897286,
+                            "AuN": "pierre barrouillet"
+                        },
+                        {
+                            "AuId": 2147095201,
+                            "AuN": "jeanfrancois lecas"
+                        }
+                    ],
+                    "doi": "10.1080/135467899393940",
+                    "journal": "thinking & reasoning",
+                    "title": "mental models in conditional reasoning and working memory",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2895384029,
+                    "author": [
+                        {
+                            "AuId": 2095367579,
+                            "AuN": "gennaro chierchia"
+                        }
+                    ],
+                    "title": "meaning and grammar",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2119647399,
+                    "author": [
+                        {
+                            "AuId": 1997412045,
+                            "AuN": "robert van rooij"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/FFM007",
+                    "journal": "journal of semantics",
+                    "title": "strengthening conditional presuppositions",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2136765872,
+                    "author": [
+                        {
+                            "AuId": 2294927086,
+                            "AuN": "raj singh"
+                        }
+                    ],
+                    "doi": "10.3765/SALT.V17I0.2960",
+                    "journal": "semantics and linguistic theory",
+                    "title": "formal alternatives as a solution to the proviso problem",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2026741612,
+                    "author": [
+                        {
+                            "AuId": 2184154821,
+                            "AuN": "daniel lassiter"
+                        }
+                    ],
+                    "doi": "10.3765/SP.5.2",
+                    "journal": "semantics and pragmatics",
+                    "title": "presuppositions provisos and probability",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2159831794,
+                    "author": [
+                        {
+                            "AuId": 82350830,
+                            "AuN": "filippo domaneschi"
+                        },
+                        {
+                            "AuId": 2073501326,
+                            "AuN": "elena carrea"
+                        },
+                        {
+                            "AuId": 2059699432,
+                            "AuN": "carlo penco"
+                        },
+                        {
+                            "AuId": 2243907688,
+                            "AuN": "alberto greco"
+                        }
+                    ],
+                    "doi": "10.1080/01690965.2013.830185",
+                    "journal": "language cognition and neuroscience",
+                    "title": "the cognitive load of presupposition triggers mandatory and optional repairs in presupposition failure",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2047831834,
+                    "author": [
+                        {
+                            "AuId": 285761815,
+                            "AuN": "philippe schlenker"
+                        }
+                    ],
+                    "doi": "10.1007/S11098-010-9586-0",
+                    "journal": "philosophical studies",
+                    "title": "local contexts and local meanings",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 228507032,
+                    "author": [
+                        {
+                            "AuId": 2129919705,
+                            "AuN": "florian schwarz"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-07980-6",
+                    "title": "experimental perspectives on presuppositions",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2022053380,
+                    "author": [
+                        {
+                            "AuId": 192825306,
+                            "AuN": "christopher gauker"
+                        }
+                    ],
+                    "doi": "10.1111/J.1520-8583.2008.00145.X",
+                    "journal": "philosophical perspectives",
+                    "title": "against accommodation heim van der sandt and the presupposition projection problem",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 122066314,
+                    "author": [
+                        {
+                            "AuId": 192825306,
+                            "AuN": "christopher gauker"
+                        }
+                    ],
+                    "doi": "10.1023/A:1004247202476",
+                    "journal": "philosophical studies",
+                    "title": "what is a context of utterance",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2013106174,
+                    "author": [
+                        {
+                            "AuId": 2176810050,
+                            "AuN": "alison capon"
+                        },
+                        {
+                            "AuId": 2129065326,
+                            "AuN": "simon j handley"
+                        },
+                        {
+                            "AuId": 2157826512,
+                            "AuN": "ian dennis"
+                        }
+                    ],
+                    "doi": "10.1080/13546781343000222",
+                    "journal": "thinking & reasoning",
+                    "title": "working memory and reasoning an individual differences perspective",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2090739862,
+                    "author": [
+                        {
+                            "AuId": 2074726107,
+                            "AuN": "bart geurts"
+                        }
+                    ],
+                    "doi": "10.1007/BF00628201",
+                    "journal": "linguistics and philosophy",
+                    "title": "local satisfaction guaranteed a presupposition theory and its problems",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2080814527,
+                    "author": [
+                        {
+                            "AuId": 2290977366,
+                            "AuN": "lauri karttunen"
+                        }
+                    ],
+                    "doi": "10.1515/THLI.1974.1.1-3.181",
+                    "journal": "theoretical linguistics",
+                    "title": "presupposition and linguistic context",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 2006743208,
+                    "author": [
+                        {
+                            "AuId": 2474458681,
+                            "AuN": "margaret toms"
+                        },
+                        {
+                            "AuId": 2163325006,
+                            "AuN": "neil morris"
+                        },
+                        {
+                            "AuId": 2717196995,
+                            "AuN": "deborah ward"
+                        }
+                    ],
+                    "doi": "10.1080/14640749308401033",
+                    "journal": "quarterly journal of experimental psychology",
+                    "title": "working memory and conditional reasoning",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2062430768,
+                    "author": [
+                        {
+                            "AuId": 297748632,
+                            "AuN": "henry markovits"
+                        },
+                        {
+                            "AuId": 2010733236,
+                            "AuN": "celine doyon"
+                        },
+                        {
+                            "AuId": 2489869278,
+                            "AuN": "michael simoneau"
+                        }
+                    ],
+                    "doi": "10.1080/13546780143000143",
+                    "journal": "thinking & reasoning",
+                    "title": "individual differences in working memory and conditional reasoning with concrete and abstract content",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2127845924,
+                    "author": [
+                        {
+                            "AuId": 2570326148,
+                            "AuN": "pla paul piwek"
+                        },
+                        {
+                            "AuId": 2128248289,
+                            "AuN": "emiel krahmer"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-015-9397-7_6",
+                    "title": "presuppositions in context constructing bridges",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2005735904,
+                    "author": [
+                        {
+                            "AuId": 263699349,
+                            "AuN": "thorsten meiser"
+                        },
+                        {
+                            "AuId": 723382306,
+                            "AuN": "karl christoph klauer"
+                        },
+                        {
+                            "AuId": 283287259,
+                            "AuN": "birgit naumer"
+                        }
+                    ],
+                    "doi": "10.1016/S0001-6918(00)00055-X",
+                    "journal": "acta psychologica",
+                    "title": "propositional reasoning and working memory the role of prior training and pragmatic content",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 583476225,
+                    "author": [
+                        {
+                            "AuId": 2103952582,
+                            "AuN": "salvatore pistoia reda"
+                        }
+                    ],
+                    "title": "pragmatics semantics and the case of scalar implicatures",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2790203997,
+                    "author": [
+                        {
+                            "AuId": 82350830,
+                            "AuN": "filippo domaneschi"
+                        }
+                    ],
+                    "title": "presuppositions philosophy linguistics and psychology",
+                    "year_mag": 2016
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Stalnaker",
+                            "given": "Robert",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1023/A:1020867916902",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Schlenker",
+                            "given": "Philippe",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.3765/SP.2.3",
+                    "title": "local contexts",
+                    "year_oc": 2009
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2554385270,
+                    "author": [
+                        {
+                            "AuId": 2070724072,
+                            "AuN": "viviana masia"
+                        },
+                        {
+                            "AuId": 2161892634,
+                            "AuN": "paolo canal"
+                        },
+                        {
+                            "AuId": 2634710856,
+                            "AuN": "irene ricci"
+                        },
+                        {
+                            "AuId": 152930314,
+                            "AuN": "edoardo lombardi vallauri"
+                        },
+                        {
+                            "AuId": 300440664,
+                            "AuN": "valentina bambini"
+                        }
+                    ],
+                    "doi": "10.1016/J.JNEUROLING.2016.11.005",
+                    "journal": "journal of neurolinguistics",
+                    "title": "presupposition of new information as a pragmatic garden path evidence from event related brain potentials",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2528804767,
+                    "author": [
+                        {
+                            "AuId": 82350830,
+                            "AuN": "filippo domaneschi"
+                        },
+                        {
+                            "AuId": 2073501326,
+                            "AuN": "elena carrea"
+                        },
+                        {
+                            "AuId": 2243907688,
+                            "AuN": "alberto greco"
+                        },
+                        {
+                            "AuId": 2059699432,
+                            "AuN": "carlo penco"
+                        }
+                    ],
+                    "doi": "10.1075/PC.22.3.01DOM",
+                    "journal": "journal of neurolinguistics",
+                    "title": "propositional attitudes towards presuppositions",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2503024951,
+                    "author": [
+                        {
+                            "AuId": 152930314,
+                            "AuN": "edoardo lombardi vallauri"
+                        },
+                        {
+                            "AuId": 2070724072,
+                            "AuN": "viviana masia"
+                        }
+                    ],
+                    "doi": "10.1007/S11245-016-9417-9",
+                    "journal": "journal of neurolinguistics",
+                    "title": "facilitating automation in sentence processing the emergence of topic and presupposition in human communication",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2740666322,
+                    "author": [
+                        {
+                            "AuId": 2070724072,
+                            "AuN": "viviana masia"
+                        }
+                    ],
+                    "journal": "journal of neurolinguistics",
+                    "title": "sociobiological bases of information structure",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.3389/FPSYG.2015.02026",
+            "journal": "FRONTIERS IN PSYCHOLOGY",
+            "title": "selecting presuppositions in conditional clauses results from a psycholinguistic experiment ",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0167-7411"
+            ],
+            "PId": 2075393398,
+            "cited": [
+                {
+                    "PId": 2130041324,
+                    "author": [
+                        {
+                            "AuId": 2162358764,
+                            "AuN": "h p grice"
+                        }
+                    ],
+                    "title": "studies in the way of words",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 1491947308,
+                    "author": [
+                        {
+                            "AuId": 2117795139,
+                            "AuN": "hans kamp"
+                        },
+                        {
+                            "AuId": 179052081,
+                            "AuN": "uwe reyle"
+                        }
+                    ],
+                    "title": "from discourse to logic",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1576632330,
+                    "author": [
+                        {
+                            "AuId": 3001187651,
+                            "AuN": "john austin"
+                        }
+                    ],
+                    "title": "how to do things with words",
+                    "year_mag": 1962
+                },
+                {
+                    "PId": 2154641895,
+                    "author": [
+                        {
+                            "AuId": 2167457875,
+                            "AuN": "irene heim"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/9.3.183",
+                    "journal": "journal of semantics",
+                    "title": "presupposition projection and the semantics of attitude verbs",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 43642087,
+                    "author": [
+                        {
+                            "AuId": 2198957599,
+                            "AuN": "gerhard preyer"
+                        },
+                        {
+                            "AuId": 2143219294,
+                            "AuN": "georg peter"
+                        }
+                    ],
+                    "title": "contextualism in philosophy knowledge meaning and truth",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 309273114,
+                    "author": [
+                        {
+                            "AuId": 1446224137,
+                            "AuN": "sofia miguens"
+                        }
+                    ],
+                    "title": "contextualism in philosophy",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 228507032,
+                    "author": [
+                        {
+                            "AuId": 2129919705,
+                            "AuN": "florian schwarz"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-07980-6",
+                    "title": "experimental perspectives on presuppositions",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2280674569,
+                    "author": [
+                        {
+                            "AuId": 2059699432,
+                            "AuN": "carlo penco"
+                        },
+                        {
+                            "AuId": 82350830,
+                            "AuN": "filippo domaneschi"
+                        }
+                    ],
+                    "title": "what is said and what is not",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2041250129,
+                    "author": [
+                        {
+                            "AuId": 2642298887,
+                            "AuN": "p f strawson"
+                        }
+                    ],
+                    "doi": "10.1093/MIND/LIX.235.320",
+                    "journal": "mind",
+                    "title": "iii on referring",
+                    "year_mag": 1950
+                },
+                {
+                    "PId": 2160745555,
+                    "author": [
+                        {
+                            "AuId": 1937954579,
+                            "AuN": "gottlob frege"
+                        }
+                    ],
+                    "journal": "zeitschrift fur philosophie und philosophische kritik",
+                    "title": "uber sinn und bedeutung",
+                    "year_mag": 1892
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Stalnaker",
+                            "given": "Robert",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/BF00262951",
+                    "title": "presuppositions",
+                    "year_oc": 1973
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Stalnaker",
+                            "given": "Robert",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1023/A:1020867916902",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "RUSSELL",
+                            "given": "BERTRAND",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1093/MIND/XIV.4.479",
+                    "title": "ii on denoting",
+                    "year_oc": 1905
+                }
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Domaneschi",
+                            "given": "Filippo",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1057/978-1-137-57942-3_1",
+                    "title": "experimental pragmatics",
+                    "year_oc": 2016
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1007/S11245-014-9297-9",
+            "journal": "TOPOI",
+            "title": "introduction presuppositions philosophy linguistics and psychology",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788858122235"
+            ],
+            "PId": 2791524916,
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "3"
+            },
+            "title": "come non detto usi e abusi dei sottintesi ",
+            "type": "monografia o trattato scientifico",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-1-137-57942-3"
+            ],
+            "PId": 2506404150,
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1057/978-1-137-57942-3",
+            "title": "presuppositions and cognitive processes ",
+            "type": "monografia o trattato scientifico",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "2036-6728"
+            ],
+            "PId": 1560359668,
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.4396/274",
+            "journal": "RIVISTA ITALIANA DI FILOSOFIA DEL LINGUAGGIO",
+            "title": "semiotics internal conflict the role of pragmatic processing in the constitution of meaning",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "1120-9550"
+            ],
+            "PId": 2265987856,
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1422/81213",
+            "journal": "SISTEMI INTELLIGENTI",
+            "title": "attivatori presupposizionali e failure uno studio psicolinguistico",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-5753-112-0"
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "title": "significato convenzionale e contesto",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0929-0907"
+            ],
+            "PId": 2528804767,
+            "cited": [
+                {
+                    "PId": 2046411892,
+                    "author": [
+                        {
+                            "AuId": 317508920,
+                            "AuN": "daniel kahneman"
+                        }
+                    ],
+                    "doi": "10.1037/0003-066X.58.9.697",
+                    "journal": "american psychologist",
+                    "title": "a perspective on judgment and choice mapping bounded rationality",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 3009986018,
+                    "author": [
+                        {
+                            "AuId": 2986844026,
+                            "AuN": "marilyn ford"
+                        },
+                        {
+                            "AuId": 2468452060,
+                            "AuN": "p n johnsonlaird"
+                        }
+                    ],
+                    "doi": "10.2307/414498",
+                    "journal": "language",
+                    "title": "mental models towards a cognitive science of language inference and consciousness",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2135255848,
+                    "author": [
+                        {
+                            "AuId": 2111318876,
+                            "AuN": "allan collins"
+                        },
+                        {
+                            "AuId": 2099951371,
+                            "AuN": "elizabeth f loftus"
+                        }
+                    ],
+                    "doi": "10.1037/0033-295X.82.6.407",
+                    "journal": "psychological review",
+                    "title": "a spreading activation theory of semantic processing",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 1976627566,
+                    "author": [
+                        {
+                            "AuId": 2082286780,
+                            "AuN": "emmanuel chemla"
+                        }
+                    ],
+                    "doi": "10.1007/S11050-009-9043-9",
+                    "journal": "natural language semantics",
+                    "title": "presuppositions of quantified sentences experimental data",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2032152873,
+                    "author": [
+                        {
+                            "AuId": 2468452060,
+                            "AuN": "p n johnsonlaird"
+                        }
+                    ],
+                    "title": "mental models towards a cognitive science of language inference and consciousness",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2048801118,
+                    "author": [
+                        {
+                            "AuId": 2082286780,
+                            "AuN": "emmanuel chemla"
+                        },
+                        {
+                            "AuId": 2119858186,
+                            "AuN": "benjamin spector"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/FFQ023",
+                    "journal": "journal of semantics",
+                    "title": "experimental evidence for embedded scalar implicatures",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2041146141,
+                    "author": [
+                        {
+                            "AuId": 2082286780,
+                            "AuN": "emmanuel chemla"
+                        }
+                    ],
+                    "doi": "10.3765/SP.2.2",
+                    "journal": "semantics and pragmatics",
+                    "title": "universal implicatures and free choice effects experimental data",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2014344082,
+                    "author": [
+                        {
+                            "AuId": 2144924319,
+                            "AuN": "donald a norman"
+                        },
+                        {
+                            "AuId": 119661818,
+                            "AuN": "david e rumelhart"
+                        }
+                    ],
+                    "doi": "10.2307/1421908",
+                    "journal": "american journal of psychology",
+                    "title": "explorations in cognition",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 1980135382,
+                    "author": [
+                        {
+                            "AuId": 2083069655,
+                            "AuN": "robert stalnaker"
+                        }
+                    ],
+                    "doi": "10.1007/S10988-008-9047-9",
+                    "journal": "linguistics and philosophy",
+                    "title": "a response to abbott on presupposition and common ground",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 360403631,
+                    "author": [
+                        {
+                            "AuId": 192825306,
+                            "AuN": "christopher gauker"
+                        }
+                    ],
+                    "title": "words without meaning",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2045630190,
+                    "author": [
+                        {
+                            "AuId": 2129919705,
+                            "AuN": "florian schwarz"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/FFM011",
+                    "journal": "journal of semantics",
+                    "title": "processing presupposed content",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2143693877,
+                    "author": [
+                        {
+                            "AuId": 2082286780,
+                            "AuN": "emmanuel chemla"
+                        },
+                        {
+                            "AuId": 2152826993,
+                            "AuN": "vincent homer"
+                        },
+                        {
+                            "AuId": 2138247474,
+                            "AuN": "daniel rothschild"
+                        }
+                    ],
+                    "doi": "10.1007/S10988-012-9106-0",
+                    "journal": "linguistics and philosophy",
+                    "title": "modularity and intuitions in formal semantics the case of polarity items",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2159831794,
+                    "author": [
+                        {
+                            "AuId": 82350830,
+                            "AuN": "filippo domaneschi"
+                        },
+                        {
+                            "AuId": 2073501326,
+                            "AuN": "elena carrea"
+                        },
+                        {
+                            "AuId": 2059699432,
+                            "AuN": "carlo penco"
+                        },
+                        {
+                            "AuId": 2243907688,
+                            "AuN": "alberto greco"
+                        }
+                    ],
+                    "doi": "10.1080/01690965.2013.830185",
+                    "journal": "language cognition and neuroscience",
+                    "title": "the cognitive load of presupposition triggers mandatory and optional repairs in presupposition failure",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 122066314,
+                    "author": [
+                        {
+                            "AuId": 192825306,
+                            "AuN": "christopher gauker"
+                        }
+                    ],
+                    "doi": "10.1023/A:1004247202476",
+                    "journal": "philosophical studies",
+                    "title": "what is a context of utterance",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2271679349,
+                    "author": [
+                        {
+                            "AuId": 82350830,
+                            "AuN": "filippo domaneschi"
+                        },
+                        {
+                            "AuId": 2073501326,
+                            "AuN": "elena carrea"
+                        },
+                        {
+                            "AuId": 2059699432,
+                            "AuN": "carlo penco"
+                        },
+                        {
+                            "AuId": 2243907688,
+                            "AuN": "alberto greco"
+                        }
+                    ],
+                    "doi": "10.3389/FPSYG.2015.02026",
+                    "journal": "frontiers in psychology",
+                    "title": "selecting presuppositions in conditional clauses results from a psycholinguistic experiment",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2022273136,
+                    "author": [
+                        {
+                            "AuId": 82350830,
+                            "AuN": "filippo domaneschi"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2011.09.011",
+                    "journal": "journal of pragmatics",
+                    "title": "towards a normative epistemic account of presuppositions",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2040357904,
+                    "author": [
+                        {
+                            "AuId": 2014403340,
+                            "AuN": "cameron j camp"
+                        },
+                        {
+                            "AuId": 1860217005,
+                            "AuN": "janet l lachman"
+                        },
+                        {
+                            "AuId": 1947320968,
+                            "AuN": "roy lachman"
+                        }
+                    ],
+                    "doi": "10.1016/S0022-5371(80)90639-8",
+                    "journal": "journal of verbal learning and verbal behavior",
+                    "title": "evidence for direct access and inferential retrieval in question answering",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 2915949195,
+                    "author": [
+                        {
+                            "AuId": 2129010209,
+                            "AuN": "bertrand russell"
+                        },
+                        {
+                            "AuId": 2335083008,
+                            "AuN": "sherwood j b sugden"
+                        }
+                    ],
+                    "doi": "10.5840/MONIST19182843",
+                    "journal": "the monist",
+                    "title": "the philosophy of logical atomism lectures 1 2",
+                    "year_mag": 1918
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Levinson",
+                            "given": "Stephen C.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511813313",
+                    "title": "pragmatics",
+                    "year_oc": 1983
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Stalnaker",
+                            "given": "Robert",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1023/A:1020867916902",
+                    "year_oc": 2002
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2770613437,
+                    "author": [
+                        {
+                            "AuId": 82350830,
+                            "AuN": "filippo domaneschi"
+                        },
+                        {
+                            "AuId": 2573090914,
+                            "AuN": "simona di paola"
+                        }
+                    ],
+                    "doi": "10.1007/S10936-017-9534-7",
+                    "journal": "journal of psycholinguistic research",
+                    "title": "the processing costs of presupposition accommodation",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2889956492,
+                    "author": [
+                        {
+                            "AuId": 2059699432,
+                            "AuN": "carlo penco"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-95777-7_10",
+                    "journal": "journal of psycholinguistic research",
+                    "title": "refusing to endorse a must explanation for pejoratives",
+                    "year_mag": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "8"
+            },
+            "doi": "10.1075/PC.22.3.01DOM",
+            "journal": "PRAGMATICS & COGNITION",
+            "title": "propositional attitudes towards presuppositions an experimental approach",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788843073238"
+            ],
+            "PId": 2217386276,
+            "citing": [
+                {
+                    "PId": 2901455740,
+                    "author": [
+                        {
+                            "AuId": 318649143,
+                            "AuN": "pierluigi chiassoni"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-15590-2_4",
+                    "title": "taking context seriously",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2381973352,
+                    "author": [
+                        {
+                            "AuId": 2418360539,
+                            "AuN": "luciane do nascimento spadotto"
+                        }
+                    ],
+                    "doi": "10.11606/D.8.2016.TDE-10052016-120022",
+                    "title": "ordens e pedidos em lingua italiana um estudo da percepcao de falantes nativos e aprendizes brasileiros a partir da teoria dos atos de fala",
+                    "year_mag": 2016
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "9"
+            },
+            "title": "introduzione alla pragmatica ",
+            "type": "monografia o trattato scientifico",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0169-0965"
+            ],
+            "PId": 2159831794,
+            "cited": [
+                {
+                    "PId": 1979331444,
+                    "author": [
+                        {
+                            "AuId": 690675989,
+                            "AuN": "dorit abusch"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/FFP009",
+                    "journal": "journal of semantics",
+                    "title": "presupposition triggering from alternatives",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1976627566,
+                    "author": [
+                        {
+                            "AuId": 2082286780,
+                            "AuN": "emmanuel chemla"
+                        }
+                    ],
+                    "doi": "10.1007/S11050-009-9043-9",
+                    "journal": "natural language semantics",
+                    "title": "presuppositions of quantified sentences experimental data",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2158865744,
+                    "author": [
+                        {
+                            "AuId": 2127671253,
+                            "AuN": "mandy simons"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-01014-4_13",
+                    "journal": "semantics and linguistic theory",
+                    "title": "on the conversational basis of some presuppositions",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 56700885,
+                    "author": [
+                        {
+                            "AuId": 2095367579,
+                            "AuN": "gennaro chierchia"
+                        },
+                        {
+                            "AuId": 64578890,
+                            "AuN": "sally mcconnellginet"
+                        }
+                    ],
+                    "title": "meaning and grammar 2nd ed an introduction to semantics",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1980135382,
+                    "author": [
+                        {
+                            "AuId": 2083069655,
+                            "AuN": "robert stalnaker"
+                        }
+                    ],
+                    "doi": "10.1007/S10988-008-9047-9",
+                    "journal": "linguistics and philosophy",
+                    "title": "a response to abbott on presupposition and common ground",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1620252883,
+                    "author": [
+                        {
+                            "AuId": 690675989,
+                            "AuN": "dorit abusch"
+                        }
+                    ],
+                    "doi": "10.3765/SALT.V12I0.2867",
+                    "journal": "semantics and linguistic theory",
+                    "title": "lexical alternatives as a source of pragmatic presuppositions",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2101757173,
+                    "author": [
+                        {
+                            "AuId": 2082286780,
+                            "AuN": "emmanuel chemla"
+                        },
+                        {
+                            "AuId": 2068833088,
+                            "AuN": "lewis bott"
+                        }
+                    ],
+                    "doi": "10.1080/01690965.2011.615221",
+                    "journal": "language and cognitive processes",
+                    "title": "processing presuppositions dynamic semantics vs pragmatic enrichment",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2063876802,
+                    "author": [
+                        {
+                            "AuId": 2892439689,
+                            "AuN": "marta abrusan"
+                        }
+                    ],
+                    "doi": "10.1007/S10988-012-9108-Y",
+                    "journal": "linguistics and philosophy",
+                    "title": "predicting the presuppositions of soft triggers",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2045630190,
+                    "author": [
+                        {
+                            "AuId": 2129919705,
+                            "AuN": "florian schwarz"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/FFM011",
+                    "journal": "journal of semantics",
+                    "title": "processing presupposed content",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2101473234,
+                    "author": [
+                        {
+                            "AuId": 676790176,
+                            "AuN": "michael glanzberg"
+                        },
+                        {
+                            "AuId": 2156330786,
+                            "AuN": "susanna siegel"
+                        }
+                    ],
+                    "doi": "10.1111/J.0029-4624.2006.00600.X",
+                    "journal": "nous",
+                    "title": "presupposition and policing in complex demonstratives",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1968477139,
+                    "author": [
+                        {
+                            "AuId": 285761815,
+                            "AuN": "philippe schlenker"
+                        }
+                    ],
+                    "doi": "10.1093/MIND/FZQ032",
+                    "journal": "mind",
+                    "title": "presuppositions and local contexts",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2115702458,
+                    "author": [
+                        {
+                            "AuId": 185539920,
+                            "AuN": "walter schaeken"
+                        },
+                        {
+                            "AuId": 2468452060,
+                            "AuN": "p n johnsonlaird"
+                        },
+                        {
+                            "AuId": 2044764275,
+                            "AuN": "gery dydewalle"
+                        }
+                    ],
+                    "doi": "10.1016/0010-0277(96)00708-1",
+                    "journal": "cognition",
+                    "title": "mental models and temporal reasoning",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2128361300,
+                    "author": [
+                        {
+                            "AuId": 2004786281,
+                            "AuN": "silvia p gennari"
+                        },
+                        {
+                            "AuId": 1257170656,
+                            "AuN": "david poeppel"
+                        }
+                    ],
+                    "doi": "10.1016/S0010-0277(03)00069-6",
+                    "journal": "cognition",
+                    "title": "processing correlates of lexical semantic complexity",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2624718895,
+                    "author": [
+                        {
+                            "AuId": 676790176,
+                            "AuN": "michael glanzberg"
+                        }
+                    ],
+                    "title": "presuppositions truth values and expressing propositions",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 307256441,
+                    "author": [
+                        {
+                            "AuId": 2314269559,
+                            "AuN": "w l bonney"
+                        }
+                    ],
+                    "title": "pronouns and variables",
+                    "year_mag": 1974
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kay",
+                            "given": "Paul",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/BF00630517",
+                    "title": "even",
+                    "year_oc": 1990
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Levinson",
+                            "given": "Stephen C.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511813313",
+                    "title": "pragmatics",
+                    "year_oc": 1983
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Stalnaker",
+                            "given": "Robert",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1023/A:1020867916902",
+                    "year_oc": 2002
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2150059847,
+                    "author": [
+                        {
+                            "AuId": 2129919705,
+                            "AuN": "florian schwarz"
+                        }
+                    ],
+                    "doi": "10.1146/ANNUREV-LINGUISTICS-011415-040809",
+                    "title": "experimental work in presupposition and presupposition projection",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2318175673,
+                    "author": [
+                        {
+                            "AuId": 2129919705,
+                            "AuN": "florian schwarz"
+                        },
+                        {
+                            "AuId": 1947923040,
+                            "AuN": "sonja tiemann"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/FFW005",
+                    "title": "presupposition projection in online processing",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2790431968,
+                    "author": [
+                        {
+                            "AuId": 2604475248,
+                            "AuN": "hezekiah akiva bacovcin"
+                        },
+                        {
+                            "AuId": 2153651213,
+                            "AuN": "jeremy zehr"
+                        },
+                        {
+                            "AuId": 2129919705,
+                            "AuN": "florian schwarz"
+                        }
+                    ],
+                    "doi": "10.5334/GJGL.402",
+                    "title": "to accommodate or to ignore the presuppositions of again and continue across contexts",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2163530616,
+                    "author": [
+                        {
+                            "AuId": 2129919705,
+                            "AuN": "florian schwarz"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-07980-6_1",
+                    "title": "introduction presuppositions in context theoretical issues and experimental perspectives",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2752523858,
+                    "author": [
+                        {
+                            "AuId": 82350830,
+                            "AuN": "filippo domaneschi"
+                        },
+                        {
+                            "AuId": 2161892634,
+                            "AuN": "paolo canal"
+                        },
+                        {
+                            "AuId": 2070724072,
+                            "AuN": "viviana masia"
+                        },
+                        {
+                            "AuId": 152930314,
+                            "AuN": "edoardo lombardi vallauri"
+                        },
+                        {
+                            "AuId": 300440664,
+                            "AuN": "valentina bambini"
+                        }
+                    ],
+                    "doi": "10.1016/J.JNEUROLING.2017.08.002",
+                    "title": "n400 and p600 modulation in presupposition accommodation the effect of different trigger types",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2554385270,
+                    "author": [
+                        {
+                            "AuId": 2070724072,
+                            "AuN": "viviana masia"
+                        },
+                        {
+                            "AuId": 2161892634,
+                            "AuN": "paolo canal"
+                        },
+                        {
+                            "AuId": 2634710856,
+                            "AuN": "irene ricci"
+                        },
+                        {
+                            "AuId": 152930314,
+                            "AuN": "edoardo lombardi vallauri"
+                        },
+                        {
+                            "AuId": 300440664,
+                            "AuN": "valentina bambini"
+                        }
+                    ],
+                    "doi": "10.1016/J.JNEUROLING.2016.11.005",
+                    "title": "presupposition of new information as a pragmatic garden path evidence from event related brain potentials",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 104726433,
+                    "author": [
+                        {
+                            "AuId": 1947923040,
+                            "AuN": "sonja tiemann"
+                        },
+                        {
+                            "AuId": 2126628513,
+                            "AuN": "mareike kirsten"
+                        },
+                        {
+                            "AuId": 2115045974,
+                            "AuN": "sigrid beck"
+                        },
+                        {
+                            "AuId": 2082485015,
+                            "AuN": "ingo hertrich"
+                        },
+                        {
+                            "AuId": 244527014,
+                            "AuN": "bettina rolke"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-07980-6_2",
+                    "title": "presupposition processing and accommodation an experiment on wieder again and consequences for other triggers",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 3004509082,
+                    "author": [
+                        {
+                            "AuId": 2967483666,
+                            "AuN": "cosima schneider"
+                        },
+                        {
+                            "AuId": 3004802328,
+                            "AuN": "nadine bade"
+                        },
+                        {
+                            "AuId": 2123239710,
+                            "AuN": "markus janczyk"
+                        }
+                    ],
+                    "doi": "10.1007/S10936-019-09686-3",
+                    "title": "is immediate processing of presupposition triggers automatic or capacity limited a combination of the prp approach with a self paced reading task",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2770613437,
+                    "author": [
+                        {
+                            "AuId": 82350830,
+                            "AuN": "filippo domaneschi"
+                        },
+                        {
+                            "AuId": 2573090914,
+                            "AuN": "simona di paola"
+                        }
+                    ],
+                    "doi": "10.1007/S10936-017-9534-7",
+                    "title": "the processing costs of presupposition accommodation",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 3102139602,
+                    "author": [
+                        {
+                            "AuId": 2967483666,
+                            "AuN": "cosima schneider"
+                        },
+                        {
+                            "AuId": 2123239710,
+                            "AuN": "markus janczyk"
+                        }
+                    ],
+                    "doi": "10.1016/J.ACTPSY.2020.103159",
+                    "title": "capacity limitations of processing presuppositions triggered by determiners",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2784104906,
+                    "author": [
+                        {
+                            "AuId": 249518253,
+                            "AuN": "ira a noveck"
+                        }
+                    ],
+                    "title": "experimental pragmatics the making of a cognitive science",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2610214027,
+                    "author": [
+                        {
+                            "AuId": 30007906,
+                            "AuN": "nicole gotzner"
+                        },
+                        {
+                            "AuId": 1986057136,
+                            "AuN": "katharina spalek"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-50696-8_7",
+                    "title": "the connection between focus and implicatures investigating alternative activation under working memory load",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2904303262,
+                    "author": [
+                        {
+                            "AuId": 82350830,
+                            "AuN": "filippo domaneschi"
+                        },
+                        {
+                            "AuId": 2573090914,
+                            "AuN": "simona di paola"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2018.11.014",
+                    "title": "the aging factor in presupposition processing",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2271679349,
+                    "author": [
+                        {
+                            "AuId": 82350830,
+                            "AuN": "filippo domaneschi"
+                        },
+                        {
+                            "AuId": 2073501326,
+                            "AuN": "elena carrea"
+                        },
+                        {
+                            "AuId": 2059699432,
+                            "AuN": "carlo penco"
+                        },
+                        {
+                            "AuId": 2243907688,
+                            "AuN": "alberto greco"
+                        }
+                    ],
+                    "doi": "10.3389/FPSYG.2015.02026",
+                    "title": "selecting presuppositions in conditional clauses results from a psycholinguistic experiment",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2528804767,
+                    "author": [
+                        {
+                            "AuId": 82350830,
+                            "AuN": "filippo domaneschi"
+                        },
+                        {
+                            "AuId": 2073501326,
+                            "AuN": "elena carrea"
+                        },
+                        {
+                            "AuId": 2243907688,
+                            "AuN": "alberto greco"
+                        },
+                        {
+                            "AuId": 2059699432,
+                            "AuN": "carlo penco"
+                        }
+                    ],
+                    "doi": "10.1075/PC.22.3.01DOM",
+                    "title": "propositional attitudes towards presuppositions",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2898029345,
+                    "author": [
+                        {
+                            "AuId": 2065578851,
+                            "AuN": "diana mazzarella"
+                        },
+                        {
+                            "AuId": 82350830,
+                            "AuN": "filippo domaneschi"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2018.09.012",
+                    "title": "presuppositional effects and ostensive inferential communication",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2038629227,
+                    "author": [
+                        {
+                            "AuId": 2342631523,
+                            "AuN": "elias dominguez barajas"
+                        }
+                    ],
+                    "doi": "10.1177/1461445615571196",
+                    "title": "learning from mistakes using audio recorded transcription errors to probe the sociocognitive paradigm in language processing",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2946307802,
+                    "author": [
+                        {
+                            "AuId": 30007906,
+                            "AuN": "nicole gotzner"
+                        }
+                    ],
+                    "doi": "10.1007/S11050-019-09154-7",
+                    "title": "the role of focus intonation in implicature computation a comparison with only and also",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2941813648,
+                    "author": [
+                        {
+                            "AuId": 2139584402,
+                            "AuN": "mira grubic"
+                        },
+                        {
+                            "AuId": 2029306830,
+                            "AuN": "marta wierzba"
+                        }
+                    ],
+                    "doi": "10.3389/FCOMM.2019.00015",
+                    "title": "presupposition accommodation of the german additive particle auch too",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2503024951,
+                    "author": [
+                        {
+                            "AuId": 152930314,
+                            "AuN": "edoardo lombardi vallauri"
+                        },
+                        {
+                            "AuId": 2070724072,
+                            "AuN": "viviana masia"
+                        }
+                    ],
+                    "doi": "10.1007/S11245-016-9417-9",
+                    "title": "facilitating automation in sentence processing the emergence of topic and presupposition in human communication",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2740666322,
+                    "author": [
+                        {
+                            "AuId": 2070724072,
+                            "AuN": "viviana masia"
+                        }
+                    ],
+                    "title": "sociobiological bases of information structure",
+                    "year_mag": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Noveck",
+                            "given": "Ira",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/9781316027073",
+                    "title": "experimental pragmatics",
+                    "year_oc": 2018
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "10"
+            },
+            "doi": "10.1080/01690965.2013.830185",
+            "journal": "LANGUAGE AND COGNITIVE PROCESSES",
+            "title": "the cognitive load of presupposition triggers mandatory and optional repairs in presupposition failure",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0035-6212"
+            ],
+            "PId": 1035167985,
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "11"
+            },
+            "doi": "10.4000/ESTETICA.1581",
+            "journal": "RIVISTA DI ESTETICA",
+            "title": "scambi di sensi e comprensione metaforica",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9781575866680"
+            ],
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "title": "what is said a short history in quotes",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1895-6106"
+            ],
+            "PId": 2026221591,
+            "cited": [
+                {
+                    "PId": 1494556431,
+                    "author": [
+                        {
+                            "AuId": 2083069655,
+                            "AuN": "robert stalnaker"
+                        }
+                    ],
+                    "title": "context and content",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2154641895,
+                    "author": [
+                        {
+                            "AuId": 2167457875,
+                            "AuN": "irene heim"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/9.3.183",
+                    "journal": "journal of semantics",
+                    "title": "presupposition projection and the semantics of attitude verbs",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 68881195,
+                    "author": [
+                        {
+                            "AuId": 2292855418,
+                            "AuN": "keith derose"
+                        }
+                    ],
+                    "doi": "10.1002/9781405164863.CH8",
+                    "title": "contextualism an explanation and defense",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 1980135382,
+                    "author": [
+                        {
+                            "AuId": 2083069655,
+                            "AuN": "robert stalnaker"
+                        }
+                    ],
+                    "doi": "10.1007/S10988-008-9047-9",
+                    "journal": "linguistics and philosophy",
+                    "title": "a response to abbott on presupposition and common ground",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 360403631,
+                    "author": [
+                        {
+                            "AuId": 192825306,
+                            "AuN": "christopher gauker"
+                        }
+                    ],
+                    "title": "words without meaning",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2542354204,
+                    "author": [
+                        {
+                            "AuId": 2145462135,
+                            "AuN": "philip r cohen"
+                        },
+                        {
+                            "AuId": 2122104108,
+                            "AuN": "jerry morgan"
+                        },
+                        {
+                            "AuId": 2920691311,
+                            "AuN": "martha e pollack"
+                        }
+                    ],
+                    "title": "accommodation meaning and implicature interdisciplinary foundations for pragmatics",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 66129102,
+                    "author": [
+                        {
+                            "AuId": 1782276032,
+                            "AuN": "stephen yablo"
+                        }
+                    ],
+                    "title": "non catastrophic presupposition failure",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2022053380,
+                    "author": [
+                        {
+                            "AuId": 192825306,
+                            "AuN": "christopher gauker"
+                        }
+                    ],
+                    "doi": "10.1111/J.1520-8583.2008.00145.X",
+                    "journal": "philosophical perspectives",
+                    "title": "against accommodation heim van der sandt and the presupposition projection problem",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 122066314,
+                    "author": [
+                        {
+                            "AuId": 192825306,
+                            "AuN": "christopher gauker"
+                        }
+                    ],
+                    "doi": "10.1023/A:1004247202476",
+                    "journal": "philosophical studies",
+                    "title": "what is a context of utterance",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 185155266,
+                    "author": [
+                        {
+                            "AuId": 2893495124,
+                            "AuN": "kai von fintel"
+                        }
+                    ],
+                    "title": "what is presupposition accommodation",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2080814527,
+                    "author": [
+                        {
+                            "AuId": 2290977366,
+                            "AuN": "lauri karttunen"
+                        }
+                    ],
+                    "doi": "10.1515/THLI.1974.1.1-3.181",
+                    "journal": "theoretical linguistics",
+                    "title": "presupposition and linguistic context",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 2059245477,
+                    "author": [
+                        {
+                            "AuId": 2274760074,
+                            "AuN": "david lumsden"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2008.03.007",
+                    "journal": "journal of pragmatics",
+                    "title": "kinds of conversational cooperation",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2040152098,
+                    "author": [
+                        {
+                            "AuId": 192825306,
+                            "AuN": "christopher gauker"
+                        }
+                    ],
+                    "title": "thinking out loud an essay on the relation between thought and language",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2264870727,
+                    "author": [
+                        {
+                            "AuId": 2599197167,
+                            "AuN": "ernest sosa"
+                        },
+                        {
+                            "AuId": 2676110379,
+                            "AuN": "enrique villanueva"
+                        }
+                    ],
+                    "title": "philosophical issues skepticism",
+                    "year_mag": 2000
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Stalnaker",
+                            "given": "Robert",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1023/A:1020867916902",
+                    "year_oc": 2002
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "13"
+            },
+            "doi": "10.2478/V10016-011-0011-8",
+            "journal": "LODZ PAPERS IN PRAGMATICS",
+            "title": "presuppositions and appropriateness of assertions",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "0378-2166"
+            ],
+            "PId": 2022273136,
+            "cited": [
+                {
+                    "PId": 1494556431,
+                    "author": [
+                        {
+                            "AuId": 2083069655,
+                            "AuN": "robert stalnaker"
+                        }
+                    ],
+                    "title": "context and content",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2154641895,
+                    "author": [
+                        {
+                            "AuId": 2167457875,
+                            "AuN": "irene heim"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/9.3.183",
+                    "journal": "journal of semantics",
+                    "title": "presupposition projection and the semantics of attitude verbs",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 68881195,
+                    "author": [
+                        {
+                            "AuId": 2292855418,
+                            "AuN": "keith derose"
+                        }
+                    ],
+                    "doi": "10.1002/9781405164863.CH8",
+                    "title": "contextualism an explanation and defense",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 578241561,
+                    "author": [
+                        {
+                            "AuId": 2264259582,
+                            "AuN": "jef verschueren"
+                        }
+                    ],
+                    "title": "language and ideology",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 360403631,
+                    "author": [
+                        {
+                            "AuId": 192825306,
+                            "AuN": "christopher gauker"
+                        }
+                    ],
+                    "title": "words without meaning",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2542354204,
+                    "author": [
+                        {
+                            "AuId": 2145462135,
+                            "AuN": "philip r cohen"
+                        },
+                        {
+                            "AuId": 2122104108,
+                            "AuN": "jerry morgan"
+                        },
+                        {
+                            "AuId": 2920691311,
+                            "AuN": "martha e pollack"
+                        }
+                    ],
+                    "title": "accommodation meaning and implicature interdisciplinary foundations for pragmatics",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 66129102,
+                    "author": [
+                        {
+                            "AuId": 1782276032,
+                            "AuN": "stephen yablo"
+                        }
+                    ],
+                    "title": "non catastrophic presupposition failure",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2022053380,
+                    "author": [
+                        {
+                            "AuId": 192825306,
+                            "AuN": "christopher gauker"
+                        }
+                    ],
+                    "doi": "10.1111/J.1520-8583.2008.00145.X",
+                    "journal": "philosophical perspectives",
+                    "title": "against accommodation heim van der sandt and the presupposition projection problem",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 122066314,
+                    "author": [
+                        {
+                            "AuId": 192825306,
+                            "AuN": "christopher gauker"
+                        }
+                    ],
+                    "doi": "10.1023/A:1004247202476",
+                    "journal": "philosophical studies",
+                    "title": "what is a context of utterance",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 185155266,
+                    "author": [
+                        {
+                            "AuId": 2893495124,
+                            "AuN": "kai von fintel"
+                        }
+                    ],
+                    "title": "what is presupposition accommodation",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2080814527,
+                    "author": [
+                        {
+                            "AuId": 2290977366,
+                            "AuN": "lauri karttunen"
+                        }
+                    ],
+                    "doi": "10.1515/THLI.1974.1.1-3.181",
+                    "journal": "theoretical linguistics",
+                    "title": "presupposition and linguistic context",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 2059245477,
+                    "author": [
+                        {
+                            "AuId": 2274760074,
+                            "AuN": "david lumsden"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2008.03.007",
+                    "journal": "journal of pragmatics",
+                    "title": "kinds of conversational cooperation",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2040152098,
+                    "author": [
+                        {
+                            "AuId": 192825306,
+                            "AuN": "christopher gauker"
+                        }
+                    ],
+                    "title": "thinking out loud an essay on the relation between thought and language",
+                    "year_mag": 2014
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2471753556,
+                    "author": [
+                        {
+                            "AuId": 22436573,
+                            "AuN": "vittorio tantucci"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2016.06.007",
+                    "journal": "journal of pragmatics",
+                    "title": "textual factualization the phenomenology of assertive reformulation and presupposition during a speech event",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2528804767,
+                    "author": [
+                        {
+                            "AuId": 82350830,
+                            "AuN": "filippo domaneschi"
+                        },
+                        {
+                            "AuId": 2073501326,
+                            "AuN": "elena carrea"
+                        },
+                        {
+                            "AuId": 2243907688,
+                            "AuN": "alberto greco"
+                        },
+                        {
+                            "AuId": 2059699432,
+                            "AuN": "carlo penco"
+                        }
+                    ],
+                    "doi": "10.1075/PC.22.3.01DOM",
+                    "journal": "journal of pragmatics",
+                    "title": "propositional attitudes towards presuppositions",
+                    "year_mag": 2014
+                }
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "14"
+            },
+            "doi": "10.1016/J.PRAGMA.2011.09.011",
+            "journal": "JOURNAL OF PRAGMATICS",
+            "title": "towards a normative epistemic account of presuppositions",
+            "type": "articolo in rivista",
+            "year": 2011
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2280674569,
+            "citing": [
+                {
+                    "PId": 2308361226,
+                    "author": [
+                        {
+                            "AuId": 2059699432,
+                            "AuN": "carlo penco"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-25591-0_30",
+                    "journal": "contexts",
+                    "title": "context dependence mops whims and procedures recanati and kaplan on cognitive aspects in semantics",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2765586786,
+                    "author": [
+                        {
+                            "AuId": 2157050303,
+                            "AuN": "kepa korta"
+                        },
+                        {
+                            "AuId": 2166370218,
+                            "AuN": "john perry"
+                        },
+                        {
+                            "AuId": 2765961177,
+                            "AuN": "sarahjane conrad"
+                        },
+                        {
+                            "AuId": 2710013245,
+                            "AuN": "klaus petrus"
+                        }
+                    ],
+                    "doi": "10.1515/9781501504327-003",
+                    "journal": "contexts",
+                    "title": "full but not saturated the myth of mandatory primary pragmatic processes",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2215608289,
+                    "author": [
+                        {
+                            "AuId": 2314109563,
+                            "AuN": "jonathan shaheen"
+                        }
+                    ],
+                    "journal": "contexts",
+                    "title": "meaning and explanation",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2610904700,
+                    "author": [
+                        {
+                            "AuId": 2610801265,
+                            "AuN": "salvatore pistoiareda"
+                        },
+                        {
+                            "AuId": 82350830,
+                            "AuN": "filippo domaneschi"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-319-50696-8_1",
+                    "journal": "contexts",
+                    "title": "theoretical and experimental perspectives on meaning and communication",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2075393398,
+                    "author": [
+                        {
+                            "AuId": 2721340309,
+                            "AuN": "filippo domaneschi"
+                        }
+                    ],
+                    "doi": "10.1007/S11245-014-9297-9",
+                    "journal": "contexts",
+                    "title": "introduction presuppositions philosophy linguistics and psychology",
+                    "year_mag": 2016
+                }
+            ],
+            "title": "what is said and what is not",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2500922220,
+            "cited": [
+                {
+                    "PId": 2101757173,
+                    "author": [
+                        {
+                            "AuId": 2082286780,
+                            "AuN": "emmanuel chemla"
+                        },
+                        {
+                            "AuId": 2068833088,
+                            "AuN": "lewis bott"
+                        }
+                    ],
+                    "doi": "10.1080/01690965.2011.615221",
+                    "journal": "language and cognitive processes",
+                    "title": "processing presuppositions dynamic semantics vs pragmatic enrichment",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2045630190,
+                    "author": [
+                        {
+                            "AuId": 2129919705,
+                            "AuN": "florian schwarz"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/FFM011",
+                    "journal": "journal of semantics",
+                    "title": "processing presupposed content",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2101473234,
+                    "author": [
+                        {
+                            "AuId": 676790176,
+                            "AuN": "michael glanzberg"
+                        },
+                        {
+                            "AuId": 2156330786,
+                            "AuN": "susanna siegel"
+                        }
+                    ],
+                    "doi": "10.1111/J.0029-4624.2006.00600.X",
+                    "journal": "nous",
+                    "title": "presupposition and policing in complex demonstratives",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2115702458,
+                    "author": [
+                        {
+                            "AuId": 185539920,
+                            "AuN": "walter schaeken"
+                        },
+                        {
+                            "AuId": 2468452060,
+                            "AuN": "p n johnsonlaird"
+                        },
+                        {
+                            "AuId": 2044764275,
+                            "AuN": "gery dydewalle"
+                        }
+                    ],
+                    "doi": "10.1016/0010-0277(96)00708-1",
+                    "journal": "cognition",
+                    "title": "mental models and temporal reasoning",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2128361300,
+                    "author": [
+                        {
+                            "AuId": 2004786281,
+                            "AuN": "silvia p gennari"
+                        },
+                        {
+                            "AuId": 1257170656,
+                            "AuN": "david poeppel"
+                        }
+                    ],
+                    "doi": "10.1016/S0010-0277(03)00069-6",
+                    "journal": "cognition",
+                    "title": "processing correlates of lexical semantic complexity",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2624718895,
+                    "author": [
+                        {
+                            "AuId": 676790176,
+                            "AuN": "michael glanzberg"
+                        }
+                    ],
+                    "title": "presuppositions truth values and expressing propositions",
+                    "year_mag": 2005
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kay",
+                            "given": "Paul",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/BF00630517",
+                    "title": "even",
+                    "year_oc": 1990
+                }
+            ],
+            "doi": "10.1057/978-1-137-57942-3_4",
+            "title": "processing presupposition triggers",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2494753216,
+            "cited": [
+                {
+                    "PId": 1509297014,
+                    "author": [
+                        {
+                            "AuId": 2167457875,
+                            "AuN": "irene heim"
+                        }
+                    ],
+                    "doi": "10.1002/9780470758335.CH10",
+                    "title": "on the projection problem for presuppositions",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2119854905,
+                    "author": [
+                        {
+                            "AuId": 2147228984,
+                            "AuN": "rob van der sandt"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/9.4.333",
+                    "journal": "journal of semantics",
+                    "title": "presupposition projection as anaphora resolution",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1527875168,
+                    "author": [
+                        {
+                            "AuId": 2567887855,
+                            "AuN": "david beaver"
+                        }
+                    ],
+                    "title": "presupposition and assertion in dynamic semantics",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2130529146,
+                    "author": [
+                        {
+                            "AuId": 316221396,
+                            "AuN": "kai von fintel"
+                        }
+                    ],
+                    "doi": "10.1111/J.1520-8583.2008.00144.X",
+                    "journal": "philosophical perspectives",
+                    "title": "what is presupposition accommodation again",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2141927550,
+                    "author": [
+                        {
+                            "AuId": 2468452060,
+                            "AuN": "p n johnsonlaird"
+                        }
+                    ],
+                    "doi": "10.1016/S1364-6613(00)01751-4",
+                    "journal": "trends in cognitive sciences",
+                    "title": "mental models and deduction",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1976627566,
+                    "author": [
+                        {
+                            "AuId": 2082286780,
+                            "AuN": "emmanuel chemla"
+                        }
+                    ],
+                    "doi": "10.1007/S11050-009-9043-9",
+                    "journal": "natural language semantics",
+                    "title": "presuppositions of quantified sentences experimental data",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2055852999,
+                    "author": [
+                        {
+                            "AuId": 285761815,
+                            "AuN": "philippe schlenker"
+                        }
+                    ],
+                    "doi": "10.1515/THLI.2008.013",
+                    "journal": "theoretical linguistics",
+                    "title": "be articulate a pragmatic theory of presupposition projection",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2154641895,
+                    "author": [
+                        {
+                            "AuId": 2167457875,
+                            "AuN": "irene heim"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/9.3.183",
+                    "journal": "journal of semantics",
+                    "title": "presupposition projection and the semantics of attitude verbs",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2089765404,
+                    "author": [
+                        {
+                            "AuId": 2352736731,
+                            "AuN": "gerald gazdar"
+                        }
+                    ],
+                    "title": "pragmatics implicature presupposition and logical form",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 2056208991,
+                    "author": [
+                        {
+                            "AuId": 285761815,
+                            "AuN": "philippe schlenker"
+                        }
+                    ],
+                    "doi": "10.1007/S11050-011-9072-Z",
+                    "journal": "natural language semantics",
+                    "title": "the proviso problem a note",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2113463615,
+                    "author": [
+                        {
+                            "AuId": 708897286,
+                            "AuN": "pierre barrouillet"
+                        },
+                        {
+                            "AuId": 2147095201,
+                            "AuN": "jeanfrancois lecas"
+                        }
+                    ],
+                    "doi": "10.1080/135467899393940",
+                    "journal": "thinking & reasoning",
+                    "title": "mental models in conditional reasoning and working memory",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2119647399,
+                    "author": [
+                        {
+                            "AuId": 1997412045,
+                            "AuN": "robert van rooij"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/FFM007",
+                    "journal": "journal of semantics",
+                    "title": "strengthening conditional presuppositions",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2136765872,
+                    "author": [
+                        {
+                            "AuId": 2294927086,
+                            "AuN": "raj singh"
+                        }
+                    ],
+                    "doi": "10.3765/SALT.V17I0.2960",
+                    "journal": "semantics and linguistic theory",
+                    "title": "formal alternatives as a solution to the proviso problem",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2047831834,
+                    "author": [
+                        {
+                            "AuId": 285761815,
+                            "AuN": "philippe schlenker"
+                        }
+                    ],
+                    "doi": "10.1007/S11098-010-9586-0",
+                    "journal": "philosophical studies",
+                    "title": "local contexts and local meanings",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2013106174,
+                    "author": [
+                        {
+                            "AuId": 2176810050,
+                            "AuN": "alison capon"
+                        },
+                        {
+                            "AuId": 2129065326,
+                            "AuN": "simon j handley"
+                        },
+                        {
+                            "AuId": 2157826512,
+                            "AuN": "ian dennis"
+                        }
+                    ],
+                    "doi": "10.1080/13546781343000222",
+                    "journal": "thinking & reasoning",
+                    "title": "working memory and reasoning an individual differences perspective",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2090739862,
+                    "author": [
+                        {
+                            "AuId": 2074726107,
+                            "AuN": "bart geurts"
+                        }
+                    ],
+                    "doi": "10.1007/BF00628201",
+                    "journal": "linguistics and philosophy",
+                    "title": "local satisfaction guaranteed a presupposition theory and its problems",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2006743208,
+                    "author": [
+                        {
+                            "AuId": 2474458681,
+                            "AuN": "margaret toms"
+                        },
+                        {
+                            "AuId": 2163325006,
+                            "AuN": "neil morris"
+                        },
+                        {
+                            "AuId": 2717196995,
+                            "AuN": "deborah ward"
+                        }
+                    ],
+                    "doi": "10.1080/14640749308401033",
+                    "journal": "quarterly journal of experimental psychology",
+                    "title": "working memory and conditional reasoning",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2062430768,
+                    "author": [
+                        {
+                            "AuId": 297748632,
+                            "AuN": "henry markovits"
+                        },
+                        {
+                            "AuId": 2010733236,
+                            "AuN": "celine doyon"
+                        },
+                        {
+                            "AuId": 2489869278,
+                            "AuN": "michael simoneau"
+                        }
+                    ],
+                    "doi": "10.1080/13546780143000143",
+                    "journal": "thinking & reasoning",
+                    "title": "individual differences in working memory and conditional reasoning with concrete and abstract content",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2127845924,
+                    "author": [
+                        {
+                            "AuId": 2570326148,
+                            "AuN": "pla paul piwek"
+                        },
+                        {
+                            "AuId": 2128248289,
+                            "AuN": "emiel krahmer"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-015-9397-7_6",
+                    "title": "presuppositions in context constructing bridges",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2005735904,
+                    "author": [
+                        {
+                            "AuId": 263699349,
+                            "AuN": "thorsten meiser"
+                        },
+                        {
+                            "AuId": 723382306,
+                            "AuN": "karl christoph klauer"
+                        },
+                        {
+                            "AuId": 283287259,
+                            "AuN": "birgit naumer"
+                        }
+                    ],
+                    "doi": "10.1016/S0001-6918(00)00055-X",
+                    "journal": "acta psychologica",
+                    "title": "propositional reasoning and working memory the role of prior training and pragmatic content",
+                    "year_mag": 2001
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Schlenker",
+                            "given": "Philippe",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.3765/SP.2.3",
+                    "title": "local contexts",
+                    "year_oc": 2009
+                }
+            ],
+            "doi": "10.1057/978-1-137-57942-3_5",
+            "title": "processing conditional and unconditional presuppositions",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2490047629,
+            "cited": [
+                {
+                    "PId": 2063705912,
+                    "author": [
+                        {
+                            "AuId": 2129534744,
+                            "AuN": "glenn f wilson"
+                        }
+                    ],
+                    "doi": "10.1207/S15327108IJAP1201_2",
+                    "journal": "the international journal of aviation psychology",
+                    "title": "an analysis of mental workload in pilots during flight using multiple psychophysiological measures",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2094493170,
+                    "author": [
+                        {
+                            "AuId": 2144924319,
+                            "AuN": "donald a norman"
+                        },
+                        {
+                            "AuId": 2087866229,
+                            "AuN": "daniel g bobrow"
+                        }
+                    ],
+                    "doi": "10.1016/0010-0285(75)90004-3",
+                    "journal": "cognitive psychology",
+                    "title": "on data limited and resource limited processes",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 1888386172,
+                    "author": [
+                        {
+                            "AuId": 118367983,
+                            "AuN": "daniel gopher"
+                        },
+                        {
+                            "AuId": 1225759938,
+                            "AuN": "rolf braune"
+                        }
+                    ],
+                    "doi": "10.1177/001872088402600504",
+                    "journal": "human factors",
+                    "title": "on the psychophysics of workload why bother with subjective measures",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 1773016195,
+                    "author": [
+                        {
+                            "AuId": 2081419306,
+                            "AuN": "donald e broadbent"
+                        }
+                    ],
+                    "title": "perception and communication",
+                    "year_mag": 1958
+                },
+                {
+                    "PId": 2912882148,
+                    "author": [
+                        {
+                            "AuId": 349982502,
+                            "AuN": "barry h kantowitz"
+                        }
+                    ],
+                    "journal": "advances in psychology",
+                    "title": "mental workload",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 1987628946,
+                    "author": [
+                        {
+                            "AuId": 705010743,
+                            "AuN": "anne treisman"
+                        }
+                    ],
+                    "doi": "10.1037/H0027242",
+                    "journal": "psychological review",
+                    "title": "strategies and models of selective attention",
+                    "year_mag": 1969
+                },
+                {
+                    "PId": 161128597,
+                    "author": [
+                        {
+                            "AuId": 2001689358,
+                            "AuN": "robert j lysaght"
+                        },
+                        {
+                            "AuId": 2098719303,
+                            "AuN": "susan g hill"
+                        },
+                        {
+                            "AuId": 2633640491,
+                            "AuN": "a o dick"
+                        },
+                        {
+                            "AuId": 2577716247,
+                            "AuN": "brian d plamondon"
+                        },
+                        {
+                            "AuId": 3018240258,
+                            "AuN": "paul m linton"
+                        }
+                    ],
+                    "title": "operator workload comprehensive review and evaluation of operator workload methodologies",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2410474758,
+                    "author": [
+                        {
+                            "AuId": 2129534744,
+                            "AuN": "glenn f wilson"
+                        },
+                        {
+                            "AuId": 2723260436,
+                            "AuN": "f fisher"
+                        }
+                    ],
+                    "journal": "aviation space and environmental medicine",
+                    "title": "the use of cardiac and eye blink measures to determine flight segment in f4 crews",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 1964797398,
+                    "author": [
+                        {
+                            "AuId": 2614798321,
+                            "AuN": "j a deutsch"
+                        },
+                        {
+                            "AuId": 2128225545,
+                            "AuN": "diana deutsch"
+                        }
+                    ],
+                    "doi": "10.1037/H0039515",
+                    "journal": "psychological review",
+                    "title": "attention some theoretical considerations",
+                    "year_mag": 1963
+                },
+                {
+                    "PId": 2020666283,
+                    "author": [
+                        {
+                            "AuId": 2488875944,
+                            "AuN": "marilyn c smith"
+                        }
+                    ],
+                    "doi": "10.1037/H0020419",
+                    "journal": "psychological bulletin",
+                    "title": "theories of the psychological refractory period",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 2092741127,
+                    "author": [
+                        {
+                            "AuId": 2150998575,
+                            "AuN": "charles witt telford"
+                        }
+                    ],
+                    "doi": "10.1037/H0073262",
+                    "journal": "journal of experimental psychology",
+                    "title": "the refractory phase of voluntary and associative responses",
+                    "year_mag": 1931
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Parasuraman",
+                            "given": "Raja",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Caggiano",
+                            "given": "Daniel",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/B0-12-227210-2/00206-5",
+                    "title": "mental workload",
+                    "year_oc": 2002
+                }
+            ],
+            "doi": "10.1057/978-1-137-57942-3_6",
+            "title": "the cognitive load factor",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2486211382,
+            "cited": [
+                {
+                    "PId": 2046411892,
+                    "author": [
+                        {
+                            "AuId": 317508920,
+                            "AuN": "daniel kahneman"
+                        }
+                    ],
+                    "doi": "10.1037/0003-066X.58.9.697",
+                    "journal": "american psychologist",
+                    "title": "a perspective on judgment and choice mapping bounded rationality",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 3009986018,
+                    "author": [
+                        {
+                            "AuId": 2986844026,
+                            "AuN": "marilyn ford"
+                        },
+                        {
+                            "AuId": 2468452060,
+                            "AuN": "p n johnsonlaird"
+                        }
+                    ],
+                    "doi": "10.2307/414498",
+                    "journal": "language",
+                    "title": "mental models towards a cognitive science of language inference and consciousness",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2135255848,
+                    "author": [
+                        {
+                            "AuId": 2111318876,
+                            "AuN": "allan collins"
+                        },
+                        {
+                            "AuId": 2099951371,
+                            "AuN": "elizabeth f loftus"
+                        }
+                    ],
+                    "doi": "10.1037/0033-295X.82.6.407",
+                    "journal": "psychological review",
+                    "title": "a spreading activation theory of semantic processing",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 2048801118,
+                    "author": [
+                        {
+                            "AuId": 2082286780,
+                            "AuN": "emmanuel chemla"
+                        },
+                        {
+                            "AuId": 2119858186,
+                            "AuN": "benjamin spector"
+                        }
+                    ],
+                    "doi": "10.1093/JOS/FFQ023",
+                    "journal": "journal of semantics",
+                    "title": "experimental evidence for embedded scalar implicatures",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2041146141,
+                    "author": [
+                        {
+                            "AuId": 2082286780,
+                            "AuN": "emmanuel chemla"
+                        }
+                    ],
+                    "doi": "10.3765/SP.2.2",
+                    "journal": "semantics and pragmatics",
+                    "title": "universal implicatures and free choice effects experimental data",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2014344082,
+                    "author": [
+                        {
+                            "AuId": 2144924319,
+                            "AuN": "donald a norman"
+                        },
+                        {
+                            "AuId": 119661818,
+                            "AuN": "david e rumelhart"
+                        }
+                    ],
+                    "doi": "10.2307/1421908",
+                    "journal": "american journal of psychology",
+                    "title": "explorations in cognition",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 2143693877,
+                    "author": [
+                        {
+                            "AuId": 2082286780,
+                            "AuN": "emmanuel chemla"
+                        },
+                        {
+                            "AuId": 2152826993,
+                            "AuN": "vincent homer"
+                        },
+                        {
+                            "AuId": 2138247474,
+                            "AuN": "daniel rothschild"
+                        }
+                    ],
+                    "doi": "10.1007/S10988-012-9106-0",
+                    "journal": "linguistics and philosophy",
+                    "title": "modularity and intuitions in formal semantics the case of polarity items",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2040357904,
+                    "author": [
+                        {
+                            "AuId": 2014403340,
+                            "AuN": "cameron j camp"
+                        },
+                        {
+                            "AuId": 1860217005,
+                            "AuN": "janet l lachman"
+                        },
+                        {
+                            "AuId": 1947320968,
+                            "AuN": "roy lachman"
+                        }
+                    ],
+                    "doi": "10.1016/S0022-5371(80)90639-8",
+                    "journal": "journal of verbal learning and verbal behavior",
+                    "title": "evidence for direct access and inferential retrieval in question answering",
+                    "year_mag": 1980
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Stalnaker",
+                            "given": "Robert",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/BF00262951",
+                    "title": "presuppositions",
+                    "year_oc": 1973
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Stalnaker",
+                            "given": "Robert",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1023/A:1020867916902",
+                    "year_oc": 2002
+                }
+            ],
+            "doi": "10.1057/978-1-137-57942-3_3",
+            "title": "mental states and presuppositions an experimental approach",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 623510327,
+            "citing": [
+                {
+                    "PId": 2901455740,
+                    "author": [
+                        {
+                            "AuId": 318649143,
+                            "AuN": "pierluigi chiassoni"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-030-15590-2_4",
+                    "title": "taking context seriously",
+                    "year_mag": 2018
+                }
+            ],
+            "title": "what is said and what is not the semantics pragmatics interface",
+            "type": "5",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2790203997,
+            "citing": [
+                {
+                    "PId": 2271679349,
+                    "author": [
+                        {
+                            "AuId": 82350830,
+                            "AuN": "filippo domaneschi"
+                        },
+                        {
+                            "AuId": 2073501326,
+                            "AuN": "elena carrea"
+                        },
+                        {
+                            "AuId": 2059699432,
+                            "AuN": "carlo penco"
+                        },
+                        {
+                            "AuId": 2243907688,
+                            "AuN": "alberto greco"
+                        }
+                    ],
+                    "doi": "10.3389/FPSYG.2015.02026",
+                    "journal": "frontiers in psychology",
+                    "title": "selecting presuppositions in conditional clauses results from a psycholinguistic experiment",
+                    "year_mag": 2016
+                }
+            ],
+            "title": "presuppositions philosophy linguistics and psychology",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2752890885,
+            "cited": [
+                {
+                    "PId": 1588539311,
+                    "author": [
+                        {
+                            "AuId": 2137085321,
+                            "AuN": "paul ekman"
+                        },
+                        {
+                            "AuId": 2147373449,
+                            "AuN": "wallace v friesen"
+                        }
+                    ],
+                    "doi": "10.1037/T27734-000",
+                    "title": "facial action coding system",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 1576632330,
+                    "author": [
+                        {
+                            "AuId": 3001187651,
+                            "AuN": "john austin"
+                        }
+                    ],
+                    "title": "how to do things with words",
+                    "year_mag": 1962
+                },
+                {
+                    "PId": 2995748625,
+                    "author": [
+                        {
+                            "AuId": 2260550305,
+                            "AuN": "john r searle"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511609213.004",
+                    "title": "indirect speech acts",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 1997692127,
+                    "author": [
+                        {
+                            "AuId": 1790019112,
+                            "AuN": "adam kendon"
+                        }
+                    ],
+                    "doi": "10.1016/0378-2166(94)00037-F",
+                    "journal": "journal of pragmatics",
+                    "title": "gestures as illocutionary and discourse structure markers in southern italian conversation",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 37356699,
+                    "author": [
+                        {
+                            "AuId": 2260550305,
+                            "AuN": "john r searle"
+                        },
+                        {
+                            "AuId": 2006105879,
+                            "AuN": "daniel vanderveken"
+                        }
+                    ],
+                    "title": "the foundations of illocutionary logic",
+                    "year_mag": 1989
+                }
+            ],
+            "title": "facial expressions and speech acts",
+            "type": "0",
+            "year_mag": 2016
+        }
+    ]
+}

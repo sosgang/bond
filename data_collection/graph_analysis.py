@@ -1,5 +1,7 @@
 """ Create graph, measure features and collect results """
 
+import os
+import json
 import networkx as nx
 import numpy as np
 
@@ -48,14 +50,14 @@ def create_graph_pid(graph, list_pubbs, group, author, key, end_date):
     return graph
 
 
-def merge_graphs_pid(comm_dd, cand_dd, author, end_date):
+def merge_graphs_pid(comm_dd, cand_dd, cand_surname, end_date):
     comm_g_a = nx.DiGraph()
-    for comm_id, info in comm_dd.items():
-        surname = info["fullname"][0]
-        comm_g_b = create_graph_pid(comm_g_a, info["pubbs"], "commission", surname, "year", end_date)
-        comm_graph = create_graph_pid(comm_g_b, info["pubbs_mag"], "commission", surname, "year_mag", end_date)
-    cand_g_a = create_graph_pid(comm_graph, cand_dd["pubbs"], "candidate", author, "year", end_date)
-    candidate_graph = create_graph_pid(cand_g_a, cand_dd["pubbs_mag"], "candidate", author, "year_mag", end_date)
+    for comm_id, comm_dict in comm_dd.items():
+        comm_surname = comm_dict["fullname"][0]
+        comm_g_b = create_graph_pid(comm_g_a, comm_dict["pubbs"], "commission", comm_surname, "year", end_date)
+        comm_graph = create_graph_pid(comm_g_b, comm_dict["pubbs_mag"], "commission", comm_surname, "year_mag", end_date)
+    cand_g_a = create_graph_pid(comm_graph, cand_dd["pubbs"], "candidate", cand_surname, "year", end_date)
+    candidate_graph = create_graph_pid(cand_g_a, cand_dd["pubbs_mag"], "candidate", cand_surname, "year_mag", end_date)
 
     return candidate_graph
 
@@ -178,9 +180,9 @@ def analyze_graph(comm, cand_json, author, end_date):
 
     results["other"] = dict()
     results["other"]["cand_other"] = other_citations(merged_graph, cand_nodes, others)
-    # results["other"]["comm_other"] = other_citations(merged_graph, comm_nodes, others)
+    results["other"]["comm_other"] = other_citations(merged_graph, comm_nodes, others)
     results["other"]["other_cand"] = other_citations(merged_graph, others, cand_nodes)
-    # results["other"]["other_comm"] = other_citations(merged_graph, others, comm_nodes)
+    results["other"]["other_comm"] = other_citations(merged_graph, others, comm_nodes)
 
     return results
 
@@ -191,6 +193,10 @@ def analyze_graph(comm, cand_json, author, end_date):
 def adding_citmetrics(dd):
 
     print("adding citmetrics")
+
+    metrics_folder = os.path.join(os.getcwd(), "complete_data")
+    if os.path.exists(metrics_folder) is False:
+        os.mkdir(metrics_folder)
 
     for asn_year, terms in dd["cand"].items():
         for term, roles in terms.items():
@@ -215,7 +221,20 @@ def adding_citmetrics(dd):
                         else:
                             limit = 2020
 
-                    for cand_id, info in candidates.items():
-                        info["citmetrics"] = analyze_graph(comm, info, info["fullname"][0], limit)
+                    for cand_id, cand_dict in candidates.items():
+
+                        cand_file = os.path.join(metrics_folder,
+                                                 f'{asn_year}_{term}_{role}_{field}_{cand_id}_complete.json')
+
+                        if os.path.exists(cand_file) is False:
+                            dd["cand"][asn_year][term][role][field][cand_id]["citmetrics"] = \
+                                analyze_graph(comm, cand_dict, cand_dict["fullname"][0], limit)
+                            cand_met_dict = dd["cand"][asn_year][term][role][field][cand_id]
+                            with open(cand_file, 'w') as met_file:
+                                json.dump(cand_met_dict, met_file, sort_keys=True, indent=4)
+                        else:
+                            with open(cand_file) as met_file:
+                                cand_met_dict = json.load(met_file)
+                                dd["cand"][asn_year][term][role][field][cand_id] = cand_met_dict
 
     return dd

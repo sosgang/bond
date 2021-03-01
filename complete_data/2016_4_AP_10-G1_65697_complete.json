@@ -1,0 +1,658 @@
+{
+    "AuIds": [
+        2165947087,
+        2634219640,
+        2189590478
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 3,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 531,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 36,
+            "comm_other": 4190,
+            "other_cand": 0,
+            "other_comm": 4965
+        },
+        "other_nodes": 6294
+    },
+    "coverage": {
+        "articles": 6,
+        "books": 1,
+        "cov_sect": "C",
+        "other_pubbs": 4,
+        "pubbs": 10,
+        "pubbs_found": 2,
+        "pubbs_ind": 11,
+        "pubbs_ind_found": 3,
+        "total_extra_found": 3,
+        "total_found": 3,
+        "total_pubbs": 11
+    },
+    "fullname": [
+        "Pergola",
+        "Ruggiero"
+    ],
+    "ind_anvur": [
+        8,
+        0,
+        1,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "2239-1916"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "1"
+            },
+            "journal": "CULTURA & COMUNICAZIONE",
+            "title": "la traduzione tra teoria e pratica riflessioni glottodidattiche",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "2281-5953"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "2"
+            },
+            "journal": "SCUOLA E LINGUE MODERNE",
+            "title": "traduzione e ri traduzione nella didattica delle lingue straniere il caso del nome della rosa",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-6760-364-0"
+            ],
+            "ISSN": [
+                "2384-9592"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "title": "i luoghi del tradurre nel medioevo la trasmissione della scienza greca e araba nel mondo latino la stadera ",
+            "type": "monografia o trattato scientifico",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "2239-0359"
+            ],
+            "PId": 2163673978,
+            "cited": [
+                {
+                    "PId": 2091586004,
+                    "author": [
+                        {
+                            "AuId": 2970088440,
+                            "AuN": "robert ignatius burns"
+                        }
+                    ],
+                    "title": "the worlds of alfonso the learned and james the conqueror intellect and force in the middle ages",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2320970041,
+                    "author": [
+                        {
+                            "AuId": 2782468215,
+                            "AuN": "jesus rodriguez velasco"
+                        }
+                    ],
+                    "journal": "bulletin hispanique",
+                    "title": "robert i burns s j ed emperor of culture alfonso x of castile the learned and his thirteenth century renaissance",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2066087678,
+                    "author": [
+                        {
+                            "AuId": 2983799295,
+                            "AuN": "anthony j cardenas"
+                        }
+                    ],
+                    "doi": "10.1080/08831157.1986.9925803",
+                    "journal": "romance quarterly",
+                    "title": "alfonso x s libro de las formas de las ymagenes facts and probabilities",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2470397896,
+                    "author": [
+                        {
+                            "AuId": 2679449700,
+                            "AuN": "anthony j cardenas"
+                        }
+                    ],
+                    "doi": "10.1484/J.MSS.3.989",
+                    "journal": "manuscripta",
+                    "title": "the complete libro del saber de astrologia and cod vat lat 8174",
+                    "year_mag": 1981
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1285/I22390359V13P235",
+            "journal": "LINGUE E LINGUAGGI",
+            "title": "de arauigo en lenguaie castellano politica linguistica e traduzione secondo alfonso x",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-8882329563"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "title": "sub grecis arabicisque uocabulis politica linguistica e traduzione secondo federico ii",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "title": "panoramica delle teorie contemporanee sulla traduzione",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1125-1514"
+            ],
+            "PId": 2189537851,
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "7"
+            },
+            "journal": "DIANOIA",
+            "title": "luoghi del tradurre nella spagna medievale il caso di toledo",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "8"
+            },
+            "title": "le teorie contemporanee",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "9"
+            },
+            "title": "la traduzione nella storia",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1970-1861"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "10"
+            },
+            "journal": "STUDI DI GLOTTODIDATTICA",
+            "title": "aristotele e sapere scientifico",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1970-1861"
+            ],
+            "PId": 1526543234,
+            "cited": [
+                {
+                    "PId": 2127967385,
+                    "author": [
+                        {
+                            "AuId": 2609196504,
+                            "AuN": "joseph f ocallaghan"
+                        }
+                    ],
+                    "title": "the learned king the reign of alfonso x of castile",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 576706151,
+                    "author": [
+                        {
+                            "AuId": 2154335166,
+                            "AuN": "charles burnett"
+                        },
+                        {
+                            "AuId": 2481169550,
+                            "AuN": "\u5553\u4e8c \u5c71\u672c"
+                        },
+                        {
+                            "AuId": 2510648096,
+                            "AuN": "\u9053\u96c4 \u77e2\u91ce"
+                        }
+                    ],
+                    "title": "al qab\u012b\u1e63\u012b alcabitius the introduction to astrology editions of the arabic and latin texts and an english translation",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 173435337,
+                    "author": [
+                        {
+                            "AuId": 123489759,
+                            "AuN": "alexander fidora"
+                        },
+                        {
+                            "AuId": 2107258068,
+                            "AuN": "maria jesus soto bruna"
+                        }
+                    ],
+                    "journal": "estudios eclesiasticos",
+                    "title": "gundisalvus ou dominicus gundisalvi algunas observaciones sobre un reciente articulo de adeline rucquoi",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1679823764,
+                    "author": [
+                        {
+                            "AuId": 2495123332,
+                            "AuN": "paul kunitzsch"
+                        }
+                    ],
+                    "title": "der almagest die syntaxis mathematica des claudius ptolemaus in arabisch lateinischer uberlieferung",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 574404474,
+                    "author": [
+                        {
+                            "AuId": 2505969558,
+                            "AuN": "h l l busard"
+                        },
+                        {
+                            "AuId": 2667021576,
+                            "AuN": "menso folkerts"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-0348-8604-8",
+                    "title": "robert of chester s redaction of euclid s elements the so called adelard ii version",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2464911304,
+                    "author": [
+                        {
+                            "AuId": 205280655,
+                            "AuN": "adeline rucquoi"
+                        }
+                    ],
+                    "doi": "10.1484/J.BPM.3.564",
+                    "title": "gundisalvus ou dominicus gundisalvi",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2517258283,
+                    "author": [
+                        {
+                            "AuId": 2509905780,
+                            "AuN": "glenn m edwards"
+                        }
+                    ],
+                    "doi": "10.1017/S0362152900006942",
+                    "journal": "tradition",
+                    "title": "the two redactions of michael scot s liber introductorius",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 560929248,
+                    "author": [
+                        {
+                            "AuId": 2808584754,
+                            "AuN": "drossaart lulofs"
+                        },
+                        {
+                            "AuId": 2808062748,
+                            "AuN": "poortman"
+                        }
+                    ],
+                    "title": "nicolaus damascenus de plantis five translations",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2289697074,
+                    "author": [
+                        {
+                            "AuId": 2777151260,
+                            "AuN": "charles higounet"
+                        }
+                    ],
+                    "title": "francais a tolede au moyen \u00e2ge hernandez francisco j los cartularios de toledo catalogo documental madrid fundacion ramon arecos 1985",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2046060512,
+                    "author": [
+                        {
+                            "AuId": 2704922050,
+                            "AuN": "danielle jacquart"
+                        }
+                    ],
+                    "doi": "10.3406/BEC.1986.450416",
+                    "journal": "bibliotheque de l ecole des chartes",
+                    "title": "a l aube de la renaissance medicale des xie xiie siecles l isagoge johannitii et son traducteur",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2564322434,
+                    "author": [
+                        {
+                            "AuId": 2690971396,
+                            "AuN": "francisco j hernandez"
+                        }
+                    ],
+                    "title": "los cartularios de toledo catalogo documental",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2057050550,
+                    "author": [
+                        {
+                            "AuId": 1410733648,
+                            "AuN": "james kritzeck"
+                        }
+                    ],
+                    "title": "peter the venerable and islam",
+                    "year_mag": 1964
+                },
+                {
+                    "PId": 2411776751,
+                    "author": [
+                        {
+                            "AuId": 2252371583,
+                            "AuN": "james k otte"
+                        }
+                    ],
+                    "doi": "10.1484/J.VIATOR.2.301671",
+                    "title": "the life and writings of alfredus anglicus",
+                    "year_mag": 1972
+                },
+                {
+                    "PId": 2414071851,
+                    "author": [
+                        {
+                            "AuId": 2703445562,
+                            "AuN": "g maurach"
+                        }
+                    ],
+                    "title": "johannicius isagoge de techne galieni",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 1999287368,
+                    "author": [
+                        {
+                            "AuId": 1860330612,
+                            "AuN": "marshall clagett"
+                        }
+                    ],
+                    "doi": "10.1086/348186",
+                    "journal": "isis",
+                    "title": "the medieval latin translations from the arabic of the elements of euclid with special emphasis on the versions of adelard of bath",
+                    "year_mag": 1953
+                },
+                {
+                    "PId": 353683651,
+                    "author": [
+                        {
+                            "AuId": 2061954002,
+                            "AuN": "l miniopaluello"
+                        }
+                    ],
+                    "title": "opuscula the latin aristotle",
+                    "year_mag": 1972
+                },
+                {
+                    "PId": 1576650930,
+                    "author": [
+                        {
+                            "AuId": 2121601742,
+                            "AuN": "jacques le goff"
+                        }
+                    ],
+                    "title": "les intellectuels au moyen \u00e2ge",
+                    "year_mag": 1957
+                },
+                {
+                    "PId": 202538262,
+                    "author": [
+                        {
+                            "AuId": 2674445794,
+                            "AuN": "jaime ferreiro alemparte"
+                        }
+                    ],
+                    "journal": "hispania sacra",
+                    "title": "hermann el aleman traductor del siglo xiii en toledo",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2318069774,
+                    "author": [
+                        {
+                            "AuId": 2279190750,
+                            "AuN": "ivy a corfis"
+                        },
+                        {
+                            "AuId": 2330095455,
+                            "AuN": "maria wenceslada de diego lobejon"
+                        }
+                    ],
+                    "doi": "10.2307/474299",
+                    "journal": "hispanic review",
+                    "title": "el salterio de hermann el aleman ms escurialense i j 8",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2801627179,
+                    "author": [
+                        {
+                            "AuId": 2653715911,
+                            "AuN": "john emery murdoch"
+                        }
+                    ],
+                    "doi": "10.2307/310767",
+                    "journal": "harvard studies in classical philology",
+                    "title": "euclides graeco latinus a hitherto unknown medieval latin translation of the elements made directly from the greek",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 2091749867,
+                    "author": [
+                        {
+                            "AuId": 2261040389,
+                            "AuN": "francis s benjamin"
+                        },
+                        {
+                            "AuId": 2578614049,
+                            "AuN": "brian lawn"
+                        }
+                    ],
+                    "doi": "10.2307/1842941",
+                    "journal": "the american historical review",
+                    "title": "the salernitan questions an introduction to the history of medieval and renaissance problem literature",
+                    "year_mag": 1964
+                },
+                {
+                    "PId": 187268114,
+                    "author": [
+                        {
+                            "AuId": 2695339273,
+                            "AuN": "gabriel maria verd conradi"
+                        }
+                    ],
+                    "journal": "sefarad",
+                    "title": "las biblias romanzadas criterios de traduccion",
+                    "year_mag": 1971
+                },
+                {
+                    "PId": 2533258795,
+                    "author": [
+                        {
+                            "AuId": 2535213445,
+                            "AuN": "antonio garcia y garcia"
+                        }
+                    ],
+                    "doi": "10.1484/M.CIVI-EB.4.00092",
+                    "title": "vocabulario de las escuelas en la peninsula iberica",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2090989028,
+                    "author": [
+                        {
+                            "AuId": 431884065,
+                            "AuN": "george sarton"
+                        }
+                    ],
+                    "title": "introduction to the history of science",
+                    "year_mag": 1927
+                },
+                {
+                    "PId": 2324079254,
+                    "author": [
+                        {
+                            "AuId": 2320334469,
+                            "AuN": "e s procter"
+                        }
+                    ],
+                    "doi": "10.2307/3717746",
+                    "journal": "modern language review",
+                    "title": "the scientific works of the court of alfonso x of castille the king and his collaborators",
+                    "year_mag": 1945
+                },
+                {
+                    "PId": 2329548729,
+                    "author": [
+                        {
+                            "AuId": 2700102578,
+                            "AuN": "p e russell"
+                        },
+                        {
+                            "AuId": 2970636248,
+                            "AuN": "evelyn stefanos procter"
+                        }
+                    ],
+                    "doi": "10.2307/3719199",
+                    "journal": "modern language review",
+                    "title": "alfonso x of castile patron of literature and learning",
+                    "year_mag": 1953
+                },
+                {
+                    "PId": 2012632447,
+                    "author": [
+                        {
+                            "AuId": 1967721128,
+                            "AuN": "charles h haskins"
+                        }
+                    ],
+                    "title": "studies in the history of mediaeval science",
+                    "year_mag": 1929
+                },
+                {
+                    "PId": 2016920712,
+                    "author": [
+                        {
+                            "AuId": 2289653583,
+                            "AuN": "lynn thorndike"
+                        }
+                    ],
+                    "title": "a history of magic and experimental science",
+                    "year_mag": 1905
+                },
+                {
+                    "PId": 1512108623,
+                    "author": [
+                        {
+                            "AuId": 2560646607,
+                            "AuN": "jose maria lacarra"
+                        }
+                    ],
+                    "title": "documentos para el estudio de la reconquista y repoblacion del valle del ebro",
+                    "year_mag": 1946
+                },
+                {
+                    "PId": 178750723,
+                    "author": [
+                        {
+                            "AuId": 2425532122,
+                            "AuN": "angel j martin duque"
+                        }
+                    ],
+                    "journal": "hispania revista espanola de historia",
+                    "title": "el ingles roberto traductor del coran estancia y activides en espana a mediados del siglo xii",
+                    "year_mag": 1962
+                },
+                {
+                    "PId": 1710068844,
+                    "author": [
+                        {
+                            "AuId": 1846852056,
+                            "AuN": "moritz steinschneider"
+                        }
+                    ],
+                    "doi": "10.2307/1450114",
+                    "journal": "the jewish quarterly review",
+                    "title": "die hebraeischen ubersetzungen des mittelalters und die juden als dolmetscher",
+                    "year_mag": 1893
+                },
+                {
+                    "PId": 1596481046,
+                    "author": [
+                        {
+                            "AuId": 2418678577,
+                            "AuN": "leclerc lucien b"
+                        }
+                    ],
+                    "doi": "10.5962/BHL.TITLE.22957",
+                    "title": "histoire de la medecine arabe expose complet des traductions du grec les sciences en orient leur transmission a l occident par les traductions latines",
+                    "year_mag": 1876
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "11"
+            },
+            "doi": "10.3299/SDG.V3I3.74-105",
+            "journal": "STUDI DI GLOTTODIDATTICA",
+            "title": "ex arabico in latinum traduzioni scientifiche e traduttori nell occidente medievale",
+            "type": "articolo in rivista",
+            "year": 2009
+        }
+    ],
+    "pubbs_mag": []
+}

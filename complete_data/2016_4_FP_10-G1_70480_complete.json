@@ -1,0 +1,517 @@
+{
+    "AuIds": [
+        2328339234,
+        2770112837,
+        2990069582,
+        2596938446,
+        2562044052,
+        2801016470,
+        3046872791,
+        2625390524
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 15,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 531,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 3,
+            "comm_other": 4190,
+            "other_cand": 1,
+            "other_comm": 4965
+        },
+        "other_nodes": 6262
+    },
+    "coverage": {
+        "articles": 8,
+        "books": 2,
+        "cov_sect": "B",
+        "other_pubbs": 21,
+        "pubbs": 15,
+        "pubbs_found": 8,
+        "pubbs_ind": 31,
+        "pubbs_ind_found": 13,
+        "total_extra_found": 15,
+        "total_found": 13,
+        "total_pubbs": 31
+    },
+    "fullname": [
+        "Perta",
+        "Carmela"
+    ],
+    "ind_anvur": [
+        25,
+        3,
+        2,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "978-3-862-88845-0"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "1"
+            },
+            "title": "speakers discourse in multilingual settings",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-7916-833-5"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.7359/833-2017-pert",
+            "title": "variazione in sincronia e diacronia aspetti del sistema morfologico di una varieta francoprovenzale",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-6897-029-1"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "title": "esiti estremi di contatto in contesti minoritari un esemplificazione",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-6787-080-6"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "4"
+            },
+            "title": "repertori minoritari e contatto lessicale alcune riflessioni",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-7916-728-4"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.7359/728-2015-pert",
+            "title": "contatto nel discorso in contesti alloglotti un esempio marcato dal francoprovenzale della puglia",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788879166669"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "6"
+            },
+            "title": "aspetti sociolinguistici lo spazio linguistico di villa badessa",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788879166669"
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "title": "quadro storico e sociolinguistico",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "1443844012"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "8"
+            },
+            "title": "languages in contact in minority communities the case of francoprovencal in italy",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9783659222009"
+            ],
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "title": "sociolinguistic aspects and language contact lexical consequences in francoprovencal settings",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9783659222009"
+            ],
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "title": "identity shift and language planning the arberesh example",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9783659222009"
+            ],
+            "PId": 2592157196,
+            "cv_id": {
+                "pubbs_ind": "11"
+            },
+            "title": "language minorities rights ideology and practice",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9783659222009"
+            ],
+            "PId": 2597722489,
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "title": "on vitality and repertoire the case of francoprovencal",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788878707221"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "13"
+            },
+            "title": "contatti e conflitti linguistici in situazioni minoritarie il caso dell italo albanese",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9783659222009"
+            ],
+            "PId": 2802870957,
+            "cv_id": {
+                "pubbs_ind": "14"
+            },
+            "title": "endangerment policy and planning final remarks",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9783659222009"
+            ],
+            "cv_id": {
+                "pubbs_ind": "15"
+            },
+            "title": "the vitality of minority languages a comparison between arberesh and francoprovencal",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "0165-2516"
+            ],
+            "PId": 2599923742,
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "16"
+            },
+            "journal": "INTERNATIONAL JOURNAL OF THE SOCIOLOGY OF LANGUAGE",
+            "title": "the albanian dialects in southern italy a tenous survival",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9788855703826"
+            ],
+            "cv_id": {
+                "pubbs_ind": "17"
+            },
+            "title": "lingue in contatto nelle comunita francoprovenzali della puglia",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9783110231939"
+            ],
+            "PId": 2989567933,
+            "citing": [
+                {
+                    "PId": 2944537095,
+                    "author": [
+                        {
+                            "AuId": 2944140570,
+                            "AuN": "alessia zulato"
+                        },
+                        {
+                            "AuId": 2969421854,
+                            "AuN": "jonathan kasstan"
+                        },
+                        {
+                            "AuId": 2140966147,
+                            "AuN": "naomi nagy"
+                        }
+                    ],
+                    "doi": "10.1515/IJSL-2017-0038",
+                    "journal": "international journal of the sociology of language",
+                    "title": "an overview of francoprovencal vitality in europe and north america",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "18"
+            },
+            "doi": "10.1515/9783110231922.1-215",
+            "title": "la varieta francoprovenzale della puglia tra mantenimento e perdita linguistica",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "9788854832398"
+            ],
+            "cv_id": {
+                "pubbs_ind": "19"
+            },
+            "title": "ancora sulla legislazione nazionale per le minoranze linguistiche un bilancio sociolinguistico ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "9789537494025"
+            ],
+            "cv_id": {
+                "pubbs_ind": "20"
+            },
+            "title": "language policy ideology and practice",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "9788878704404"
+            ],
+            "PId": 2627056663,
+            "cv_id": {
+                "pubbs": "11",
+                "pubbs_ind": "21"
+            },
+            "doi": "10.1400/137394",
+            "title": "aspetti della vitalita sociolinguistica delle lingue minoritarie arberesh e francoprovenzale a confronto",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "1749-818X"
+            ],
+            "PId": 2007979854,
+            "cited": [
+                {
+                    "PId": 2004027288,
+                    "author": [
+                        {
+                            "AuId": 2662722089,
+                            "AuN": "silvia dal negro"
+                        }
+                    ],
+                    "doi": "10.1515/IJSL.2005.2005.174.113",
+                    "journal": "international journal of the sociology of language",
+                    "title": "minority languages between nationalism and new localism the case of italy",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2976217187,
+                    "author": [
+                        {
+                            "AuId": 2977214072,
+                            "AuN": "tullio telmon"
+                        }
+                    ],
+                    "title": "la sociolinguistica e le leggi di tutela delle minoranze linguistiche",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1807011570,
+                    "author": [
+                        {
+                            "AuId": 2729476683,
+                            "AuN": "sergio bartole"
+                        }
+                    ],
+                    "doi": "10.1402/14893",
+                    "title": "una convenzione per la tutela delle minoranze nazionali",
+                    "year_mag": 1995
+                }
+            ],
+            "cv_id": {
+                "pubbs": "12",
+                "pubbs_ind": "22"
+            },
+            "doi": "10.1111/J.1749-818X.2008.00080.X",
+            "journal": "LANGUAGE AND LINGUISTICS COMPASS",
+            "title": "can language politics ensure languages survival evidence from italy",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "9788888692517"
+            ],
+            "PId": 2591913935,
+            "cv_id": {
+                "pubbs_ind": "23"
+            },
+            "title": "i toponimi francoprovenzali della puglia alcune riflessioni sociolinguistiche",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "9788854821538"
+            ],
+            "PId": 2596170562,
+            "cv_id": {
+                "pubbs": "13",
+                "pubbs_ind": "24"
+            },
+            "title": "repertori e scelte linguistiche nelle comunita francoprovenzali della puglia",
+            "type": "monografia o trattato scientifico",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "1121-0613"
+            ],
+            "cv_id": {
+                "pubbs_ind": "25"
+            },
+            "journal": "MEROPE",
+            "title": "qualche considerazione sull eterogeneita tra le alterita linguistiche",
+            "type": "articolo in rivista",
+            "year": 2007
+        },
+        {
+            "ISSN": [
+                "2036-9484"
+            ],
+            "PId": 2596711527,
+            "cv_id": {
+                "pubbs_ind": "26"
+            },
+            "journal": "ITINERARI",
+            "title": "politica linguistica e identita alcune riflessioni sulle comunita alloglotte",
+            "type": "articolo in rivista",
+            "year": 2006
+        },
+        {
+            "ISSN": [
+                "1127-0241"
+            ],
+            "cv_id": {
+                "pubbs": "14",
+                "pubbs_ind": "27"
+            },
+            "journal": "PLURILINGUISMO",
+            "title": "riflessioni sulla vitalita sociolinguistica di una varieta alloglotta",
+            "type": "articolo in rivista",
+            "year": 2005
+        },
+        {
+            "ISSN": [
+                "2036-9484"
+            ],
+            "cv_id": {
+                "pubbs_ind": "28"
+            },
+            "journal": "ITINERARI",
+            "title": "la legislazione nazionale sulle minoranze linguistiche",
+            "type": "articolo in rivista",
+            "year": 2004
+        },
+        {
+            "ISBN": [
+                "9788876947919"
+            ],
+            "PId": 2602989225,
+            "cv_id": {
+                "pubbs": "15",
+                "pubbs_ind": "29"
+            },
+            "title": "language decline and death in three arberesh communities in italy a sociolinguistic study",
+            "type": "monografia o trattato scientifico",
+            "year": 2004
+        },
+        {
+            "ISSN": [
+                "1127-0241"
+            ],
+            "cv_id": {
+                "pubbs_ind": "30"
+            },
+            "journal": "PLURILINGUISMO",
+            "title": "language death il caso dell arberesh molisano risultati di uno studio pilota",
+            "type": "articolo in rivista",
+            "year": 2003
+        },
+        {
+            "ISSN": [
+                "2036-9484"
+            ],
+            "cv_id": {
+                "pubbs_ind": "31"
+            },
+            "journal": "ITINERARI",
+            "title": "processi di convergenza e differenziazione nelle lingue dell europa medievale e moderna note a margine di un recente convegno",
+            "type": "articolo in rivista",
+            "year": 2002
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2599767301,
+            "title": "unaccusativity si constructions and auxiliary selection in native and non native grammars of italian",
+            "type": "0",
+            "year_mag": 1998
+        },
+        {
+            "PId": 2802490579,
+            "title": "sopravvivenze linguistiche arbereshe a villa badessa",
+            "type": "0",
+            "year_mag": 2014
+        }
+    ]
+}

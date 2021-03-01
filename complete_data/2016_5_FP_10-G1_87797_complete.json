@@ -1,0 +1,2333 @@
+{
+    "AuIds": [
+        2304588430
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 42,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 105,
+            "comm_other": 4682,
+            "other_cand": 24,
+            "other_comm": 4973
+        },
+        "other_nodes": 6638
+    },
+    "coverage": {
+        "articles": 12,
+        "books": 3,
+        "cov_sect": "A",
+        "other_pubbs": 17,
+        "pubbs": 15,
+        "pubbs_found": 10,
+        "pubbs_ind": 23,
+        "pubbs_ind_found": 17,
+        "total_extra_found": 42,
+        "total_found": 23,
+        "total_pubbs": 32
+    },
+    "fullname": [
+        "Landone",
+        "Elena"
+    ],
+    "ind_anvur": [
+        21,
+        3,
+        3,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "2239-0359"
+            ],
+            "PId": 2792800766,
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1285/I22390359V25P81",
+            "journal": "LINGUE E LINGUAGGI",
+            "title": "las imagenes linguisticas del paisaje urbano de la migracion una reflexion metodologica de enfoque pragmatico",
+            "type": "articolo in rivista",
+            "year": 2018
+        },
+        {
+            "ISBN": [
+                "9788857547657"
+            ],
+            "PId": 2801298569,
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "2"
+            },
+            "title": "utopia didattica l apprendimento della lingua straniera oltre l aula eterotopie vol",
+            "type": "monografia o trattato scientifico",
+            "year": 2018
+        },
+        {
+            "ISSN": [
+                "2283-981X"
+            ],
+            "PId": 2782819985,
+            "citing": [
+                {
+                    "PId": 2970599301,
+                    "author": [
+                        {
+                            "AuId": 2304588430,
+                            "AuN": "e landone"
+                        }
+                    ],
+                    "doi": "10.1075/SIC.18001.LAN",
+                    "journal": "spanish in context",
+                    "title": "los marcadores del discurso guias inferenciales de la comunicacion emotiva",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "doi": "10.14672/10.2017.1325",
+            "journal": "CUADERNOS AISPI",
+            "title": "inferencias relacionales y valores culturales en el estudio de los marcadores del discurso",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9788890789724"
+            ],
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "title": "introduccion",
+            "type": "prefazione/postfazione",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9788869690808"
+            ],
+            "PId": 2950747211,
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "title": "appunti metodologici sull uso della traduzione nello studio dei marcatori del discorso spagnoli ed italiani",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "2239-0359"
+            ],
+            "PId": 2227979339,
+            "cited": [
+                {
+                    "PId": 2140918013,
+                    "author": [
+                        {
+                            "AuId": 2268691855,
+                            "AuN": "geert hofstede"
+                        },
+                        {
+                            "AuId": 2960331335,
+                            "AuN": "g j hofstede"
+                        },
+                        {
+                            "AuId": 2081436797,
+                            "AuN": "michael minkov"
+                        }
+                    ],
+                    "title": "cultures and organizations software of the mind",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 438606592,
+                    "author": [
+                        {
+                            "AuId": 2063589786,
+                            "AuN": "alastair pennycook"
+                        }
+                    ],
+                    "title": "language as a local practice",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2964507790,
+                    "author": [
+                        {
+                            "AuId": 2101318852,
+                            "AuN": "jan blommaert"
+                        }
+                    ],
+                    "title": "chronicles of complexity ethnography superdiversity and linguistic landscapes",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 598214555,
+                    "author": [
+                        {
+                            "AuId": 2281850950,
+                            "AuN": "amalia signorelli"
+                        }
+                    ],
+                    "title": "antropologia urbana introduzione alla ricerca in italia",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 3035740307,
+                    "author": [
+                        {
+                            "AuId": 2095831769,
+                            "AuN": "nicola guerra"
+                        }
+                    ],
+                    "title": "il graffitismo nello spazio linguistico urbano la citta come melting pot diamesico",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 3084700940,
+                    "author": [
+                        {
+                            "AuId": 2298747653,
+                            "AuN": "maria vittoria calvi"
+                        }
+                    ],
+                    "title": "interviste a immigrati ispanofoni repertori linguistici e racconto orale",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2791732646,
+                    "author": [
+                        {
+                            "AuId": 2181409251,
+                            "AuN": "m bonomi"
+                        }
+                    ],
+                    "title": "hablamos mita y mita varieta linguistiche di immigrati ispanofoni in italia",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1585813036,
+                    "author": [
+                        {
+                            "AuId": 2311258601,
+                            "AuN": "jose ignacio"
+                        }
+                    ],
+                    "title": "antropologia urbana itinerarios teoricos tradiciones nacionales y ambitos tematicos en la exploracion de lo urbano",
+                    "year_mag": 2000
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1285/I22390359V15P177",
+            "journal": "LINGUE E LINGUAGGI",
+            "title": "polilinguismo nella scrittura murale urbana note pragmatiche sulla lingua spagnola",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788863727845"
+            ],
+            "ISSN": [
+                "2283-0863"
+            ],
+            "PId": 2608836688,
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "title": "l incontro polilinguistico nella scrittura di strada cronache della complessita milanese contemporanea",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "2283-981X"
+            ],
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "journal": "CUADERNOS AISPI",
+            "title": "la modalidad liminar en la normativa territorial de las comunidades autonomas espanolas",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9788492572403"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "9"
+            },
+            "title": "mas alla de la evaluacion de la competencia linguistica en la acreditacion",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "978-88-89804-24-7"
+            ],
+            "PId": 2241932884,
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "title": "el adverbio en mente en el espanol juridico administrativo linguistica de corpus y pragmatica",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0378-2166"
+            ],
+            "PId": 2086289117,
+            "cited": [
+                {
+                    "PId": 2159035740,
+                    "author": [
+                        {
+                            "AuId": 2104626128,
+                            "AuN": "penelope brown"
+                        },
+                        {
+                            "AuId": 1981623995,
+                            "AuN": "stephen c levinson"
+                        }
+                    ],
+                    "title": "politeness some universals in language usage",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2068343953,
+                    "author": [
+                        {
+                            "AuId": 2103301947,
+                            "AuN": "miriam a locher"
+                        },
+                        {
+                            "AuId": 2597630351,
+                            "AuN": "richard j watts"
+                        }
+                    ],
+                    "doi": "10.1515/JPLR.2005.1.1.9",
+                    "journal": "journal of politeness research language behaviour culture",
+                    "title": "politeness theory and relational work",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2992889054,
+                    "author": [
+                        {
+                            "AuId": 2119168297,
+                            "AuN": "susan c herring"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511805080.016",
+                    "title": "computer mediated discourse analysis an approach to researching online behavior",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1544590172,
+                    "author": [
+                        {
+                            "AuId": 2119168297,
+                            "AuN": "susan c herring"
+                        }
+                    ],
+                    "doi": "10.1002/9780470753460.CH32",
+                    "title": "computer mediated discourse",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2018005616,
+                    "author": [
+                        {
+                            "AuId": 2621856525,
+                            "AuN": "robert b arundale"
+                        }
+                    ],
+                    "doi": "10.1515/PR.2006.011",
+                    "journal": "journal of politeness research language behaviour culture",
+                    "title": "face as relational and interactional a communication framework for research on face facework and politeness",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 587403744,
+                    "author": [
+                        {
+                            "AuId": 2654185810,
+                            "AuN": "gino eelen"
+                        }
+                    ],
+                    "title": "a critique of politeness theories",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2159898515,
+                    "author": [
+                        {
+                            "AuId": 28486576,
+                            "AuN": "helen spenceroatey"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2006.12.004",
+                    "journal": "journal of pragmatics",
+                    "title": "theories of identity and the analysis of face",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2172036975,
+                    "author": [
+                        {
+                            "AuId": 2119168297,
+                            "AuN": "susan c herring"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4020-9789-8_14",
+                    "title": "web content analysis expanding the paradigm",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2162840157,
+                    "author": [
+                        {
+                            "AuId": 2030637823,
+                            "AuN": "anita pomerantz"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511665868.008",
+                    "title": "agreeing and disagreeing with assessments some features of preferred dispreferred turn shapes",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 562666744,
+                    "author": [
+                        {
+                            "AuId": 1998389026,
+                            "AuN": "karin aijmer"
+                        }
+                    ],
+                    "title": "english discourse particles",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2072912118,
+                    "author": [
+                        {
+                            "AuId": 1877758379,
+                            "AuN": "robert b arundale"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2009.12.021",
+                    "journal": "journal of pragmatics",
+                    "title": "constituting face in conversation face facework and interactional achievement",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2053423792,
+                    "author": [
+                        {
+                            "AuId": 28486576,
+                            "AuN": "helen spenceroatey"
+                        }
+                    ],
+                    "doi": "10.1515/JPLR.2005.1.1.95",
+                    "journal": "journal of politeness research language behaviour culture",
+                    "title": "im politeness face and perceptions of rapport unpackaging their bases and interrelationships",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1993107892,
+                    "author": [
+                        {
+                            "AuId": 1925757884,
+                            "AuN": "michael haugh"
+                        }
+                    ],
+                    "doi": "10.1515/PR.2007.013",
+                    "journal": "journal of politeness research language behaviour culture",
+                    "title": "the discursive challenge to politeness research an interactional alternative",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2250009423,
+                    "author": [
+                        {
+                            "AuId": 2121527079,
+                            "AuN": "jose portoles lazaro"
+                        },
+                        {
+                            "AuId": 917631661,
+                            "AuN": "maria antonia martin zorraquino"
+                        }
+                    ],
+                    "title": "los marcadores del discurso",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2066352394,
+                    "author": [
+                        {
+                            "AuId": 1899979098,
+                            "AuN": "anna wierzbicka"
+                        }
+                    ],
+                    "title": "cross cultural pragmatics the semantics of human interaction",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 565698836,
+                    "author": [
+                        {
+                            "AuId": 2110887203,
+                            "AuN": "kerstin fischer"
+                        }
+                    ],
+                    "title": "approaches to discourse particles",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 351574304,
+                    "author": [
+                        {
+                            "AuId": 2097557496,
+                            "AuN": "janola ostman"
+                        },
+                        {
+                            "AuId": 2264259582,
+                            "AuN": "jef verschueren"
+                        }
+                    ],
+                    "title": "handbook of pragmatics",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1980777647,
+                    "author": [
+                        {
+                            "AuId": 289427909,
+                            "AuN": "marina terkourafi"
+                        }
+                    ],
+                    "doi": "10.1515/JPLR.2005.1.2.237",
+                    "journal": "journal of politeness research language behaviour culture",
+                    "title": "beyond the micro level in politeness research",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1996538932,
+                    "author": [
+                        {
+                            "AuId": 2073411658,
+                            "AuN": "bruce fraser"
+                        }
+                    ],
+                    "doi": "10.1016/0378-2166(90)90096-V",
+                    "journal": "journal of pragmatics",
+                    "title": "an approach to discourse markers",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 1501667647,
+                    "author": [
+                        {
+                            "AuId": 2022368586,
+                            "AuN": "laurel j brinton"
+                        }
+                    ],
+                    "title": "pragmatic markers in english grammaticalization and discourse functions",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 169815202,
+                    "author": [
+                        {
+                            "AuId": 2243910268,
+                            "AuN": "antonio briz gomez"
+                        }
+                    ],
+                    "title": "el espanol coloquial en la conversacion esbozo de pragmagramatica",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2030100490,
+                    "author": [
+                        {
+                            "AuId": 93379024,
+                            "AuN": "patricia boufranch"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2010.11.002",
+                    "journal": "journal of pragmatics",
+                    "title": "openings and closings in spanish email conversations",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2055746696,
+                    "author": [
+                        {
+                            "AuId": 2103301947,
+                            "AuN": "miriam a locher"
+                        }
+                    ],
+                    "doi": "10.1515/JPLR.2010.001",
+                    "journal": "journal of politeness research language behaviour culture",
+                    "title": "introduction politeness and impoliteness in computer mediated communication",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2083759082,
+                    "author": [
+                        {
+                            "AuId": 162955447,
+                            "AuN": "claudia caffi"
+                        },
+                        {
+                            "AuId": 1984615516,
+                            "AuN": "richard w janney"
+                        }
+                    ],
+                    "doi": "10.1016/0378-2166(94)90115-5",
+                    "journal": "journal of pragmatics",
+                    "title": "toward a pragmatics of emotive communication",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1560395057,
+                    "author": [
+                        {
+                            "AuId": 2275053811,
+                            "AuN": "francisco matte bon"
+                        }
+                    ],
+                    "title": "gramatica comunicativa del espanol",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2171274829,
+                    "author": [
+                        {
+                            "AuId": 2604099408,
+                            "AuN": "nancy k baym"
+                        }
+                    ],
+                    "doi": "10.1207/S15327973RLSI2904_2",
+                    "journal": "research on language and social interaction",
+                    "title": "agreements and disagreements in a computer mediated discussion",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 1998350184,
+                    "author": [
+                        {
+                            "AuId": 2119956925,
+                            "AuN": "mariajosep cuenca"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2008.02.013",
+                    "journal": "journal of pragmatics",
+                    "title": "pragmatic markers in contrast the case of well",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2089554851,
+                    "author": [
+                        {
+                            "AuId": 685234121,
+                            "AuN": "thomas holtgraves"
+                        }
+                    ],
+                    "doi": "10.1515/JPLR.2005.1.1.73",
+                    "journal": "journal of politeness research language behaviour culture",
+                    "title": "social psychology cognitive psychology and linguistic politeness",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1984624710,
+                    "author": [
+                        {
+                            "AuId": 2099245887,
+                            "AuN": "majbritt mosegaard hansen"
+                        }
+                    ],
+                    "title": "the function of discourse particles a study with special reference to spoken standard french",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2138040096,
+                    "author": [
+                        {
+                            "AuId": 2278110711,
+                            "AuN": "henk haverkate"
+                        }
+                    ],
+                    "title": "la cortesia verbal estudio pragmalinguistico",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 20295576,
+                    "author": [
+                        {
+                            "AuId": 2666416637,
+                            "AuN": "diana bravo"
+                        }
+                    ],
+                    "title": "imagen positiva vs imagen negativa pragmatica socio cultural y componentes de face",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 121310954,
+                    "author": [
+                        {
+                            "AuId": 1907385777,
+                            "AuN": "david crystal"
+                        }
+                    ],
+                    "title": "el lenguaje e internet",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1525904145,
+                    "author": [
+                        {
+                            "AuId": 137152499,
+                            "AuN": "shoshana blumkulka"
+                        }
+                    ],
+                    "doi": "10.1016/0378-2166(90)90083-P",
+                    "journal": "journal of pragmatics",
+                    "title": "you don t touch lettuce with your fingers",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2481156285,
+                    "author": [
+                        {
+                            "AuId": 2118678243,
+                            "AuN": "juliane house"
+                        },
+                        {
+                            "AuId": 2116676152,
+                            "AuN": "gabriele kasper"
+                        },
+                        {
+                            "AuId": 2615245349,
+                            "AuN": "florian coulmas"
+                        }
+                    ],
+                    "doi": "10.1515/9783110809145.157",
+                    "title": "politeness markers in english and german",
+                    "year_mag": 1981
+                },
+                {
+                    "PId": 2499282445,
+                    "author": [
+                        {
+                            "AuId": 665935959,
+                            "AuN": "andreas h jucker"
+                        },
+                        {
+                            "AuId": 2101703110,
+                            "AuN": "sara w smith"
+                        }
+                    ],
+                    "journal": "pragmatics and beyond new series",
+                    "title": "and people just you know like wow discourse markers as negotiating strategies",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2159686860,
+                    "author": [
+                        {
+                            "AuId": 1986146393,
+                            "AuN": "yael maschler"
+                        }
+                    ],
+                    "doi": "10.1017/S0047404500018017",
+                    "journal": "language in society",
+                    "title": "metalanguaging and discourse markers in bilingual conversation",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1977560053,
+                    "author": [
+                        {
+                            "AuId": 14603156,
+                            "AuN": "scott a schwenter"
+                        }
+                    ],
+                    "doi": "10.1016/0378-2166(95)00023-2",
+                    "journal": "journal of pragmatics",
+                    "title": "some reflections on o sea a discourse marker in spanish",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2802714926,
+                    "author": [
+                        {
+                            "AuId": 154801596,
+                            "AuN": "carla bazzanella"
+                        }
+                    ],
+                    "title": "discourse markers in italian towards a compositional meaning",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 78748134,
+                    "author": [
+                        {
+                            "AuId": 2119539648,
+                            "AuN": "diana bravo"
+                        },
+                        {
+                            "AuId": 2243910268,
+                            "AuN": "antonio briz gomez"
+                        }
+                    ],
+                    "title": "pragmatica sociocultural estudios sobre el discurso de cortesia en espanol",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1503101100,
+                    "author": [
+                        {
+                            "AuId": 1998389026,
+                            "AuN": "karin aijmer"
+                        },
+                        {
+                            "AuId": 2089883529,
+                            "AuN": "a p foolen"
+                        },
+                        {
+                            "AuId": 1506845931,
+                            "AuN": "annemarie simonvandenbergen"
+                        }
+                    ],
+                    "title": "pragmatic markers in translation a methodological proposal",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2054427153,
+                    "author": [
+                        {
+                            "AuId": 2575365970,
+                            "AuN": "ronald wardhaugh"
+                        }
+                    ],
+                    "title": "how conversation works",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 1964872757,
+                    "author": [
+                        {
+                            "AuId": 255110406,
+                            "AuN": "begona monterofleta"
+                        },
+                        {
+                            "AuId": 2490638433,
+                            "AuN": "anna montesinoslopez"
+                        },
+                        {
+                            "AuId": 316823036,
+                            "AuN": "carmen perezsabater"
+                        },
+                        {
+                            "AuId": 2131138980,
+                            "AuN": "ed turney"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2008.09.039",
+                    "journal": "journal of pragmatics",
+                    "title": "computer mediated communication and informalization of discourse the influence of culture and subject matter",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2241240528,
+                    "author": [
+                        {
+                            "AuId": 2119539648,
+                            "AuN": "diana bravo"
+                        }
+                    ],
+                    "title": "tension entre universalidad y relatividad en las teorias de la cortesia",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2942840245,
+                    "author": [
+                        {
+                            "AuId": 2943626309,
+                            "AuN": "ana maria vigara tauste"
+                        }
+                    ],
+                    "title": "morfosintaxis del espanol coloquial",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2154032850,
+                    "author": [
+                        {
+                            "AuId": 2624370292,
+                            "AuN": "jannis androutsopoulos"
+                        },
+                        {
+                            "AuId": 2040325965,
+                            "AuN": "michael beiswenger"
+                        }
+                    ],
+                    "title": "introduction data and methods in computer mediated discourse analysis",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2342627776,
+                    "author": [
+                        {
+                            "AuId": 1808405128,
+                            "AuN": "lars fant"
+                        }
+                    ],
+                    "doi": "10.7146/HJLCB.V2I3.21412",
+                    "journal": "hermes journal of language and communication in business",
+                    "title": "cultural mismatch in conversation spanish and scandinavian communicative behaviour in negotiation settings",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 983652071,
+                    "author": [
+                        {
+                            "AuId": 244197766,
+                            "AuN": "carmen santamariagarcia"
+                        }
+                    ],
+                    "doi": "10.1075/IJCL.16.3.04SAN",
+                    "journal": "international journal of corpus linguistics",
+                    "title": "bricolage assembling cl ca and da to explore agreement",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2137748031,
+                    "author": [
+                        {
+                            "AuId": 260978479,
+                            "AuN": "kate beeching"
+                        }
+                    ],
+                    "title": "gender politeness and pragmatic particles in french",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2137728473,
+                    "author": [
+                        {
+                            "AuId": 2426612031,
+                            "AuN": "jennifer coates"
+                        }
+                    ],
+                    "doi": "10.1111/J.1467-968X.1987.TB00714.X",
+                    "journal": "transactions of the philological society",
+                    "title": "epistemic modality and spoken discourse",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 626498953,
+                    "author": [
+                        {
+                            "AuId": 2700340443,
+                            "AuN": "klaus brinker"
+                        }
+                    ],
+                    "title": "text und gesprachslinguistik ein internationales handbuch zeitgenossischer forschung",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2473941719,
+                    "author": [
+                        {
+                            "AuId": 2640807167,
+                            "AuN": "maria jose garcia vizcaino"
+                        }
+                    ],
+                    "title": "el uso de los apendices modalizadores no y eh en espanol peninsular",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 3021855575,
+                    "author": [
+                        {
+                            "AuId": 2097557496,
+                            "AuN": "janola ostman"
+                        }
+                    ],
+                    "title": "you know a discourse functional approach",
+                    "year_mag": 1981
+                },
+                {
+                    "PId": 2248948482,
+                    "author": [
+                        {
+                            "AuId": 420788849,
+                            "AuN": "j cesar felixbrasdefer"
+                        }
+                    ],
+                    "title": "la mitigacion en el discurso oral de mexicanos y aprendices de espanol como lengua extranjera",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2139368629,
+                    "author": [
+                        {
+                            "AuId": 2275396176,
+                            "AuN": "perihan savas"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2010.07.018",
+                    "journal": "journal of pragmatics",
+                    "title": "a case study of contextual and individual factors that shape linguistic variation in synchronous text based computer mediated communication",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 92090620,
+                    "author": [
+                        {
+                            "AuId": 128449548,
+                            "AuN": "leonor ruiz gurillo"
+                        }
+                    ],
+                    "title": "hechos pragmaticos del espanol",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2046250504,
+                    "author": [
+                        {
+                            "AuId": 154801596,
+                            "AuN": "carla bazzanella"
+                        }
+                    ],
+                    "doi": "10.1016/0378-2166(90)90034-B",
+                    "journal": "journal of pragmatics",
+                    "title": "phatic connectives as interactional cues in contemporary spoken italian",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 110143962,
+                    "author": [
+                        {
+                            "AuId": 2148651270,
+                            "AuN": "luis rodriguez"
+                        },
+                        {
+                            "AuId": 2148537199,
+                            "AuN": "maria matilde camacho adarve"
+                        }
+                    ],
+                    "title": "unidades de segmentacion y marcadores del discurso elementos esenciales en el procesamiento discursivo oral",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 93855986,
+                    "author": [
+                        {
+                            "AuId": 2244147729,
+                            "AuN": "silvia iglesias recuero"
+                        }
+                    ],
+                    "title": "los estudios de la cortesia en el mundo hispanico estado de la cuestion",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2884879996,
+                    "author": [
+                        {
+                            "AuId": 154801596,
+                            "AuN": "carla bazzanella"
+                        }
+                    ],
+                    "title": "i segnali discorsivi",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2048516255,
+                    "author": [
+                        {
+                            "AuId": 2657617707,
+                            "AuN": "eric keller"
+                        }
+                    ],
+                    "doi": "10.1016/0378-2166(79)90032-8",
+                    "journal": "journal of pragmatics",
+                    "title": "gambits conversational strategy signals",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 1986377813,
+                    "author": [
+                        {
+                            "AuId": 2598551735,
+                            "AuN": "dale april koike"
+                        },
+                        {
+                            "AuId": 2639660207,
+                            "AuN": "robert e vann"
+                        },
+                        {
+                            "AuId": 2704640613,
+                            "AuN": "joan busquets"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-2166(01)80033-3",
+                    "journal": "journal of pragmatics",
+                    "title": "spanish no si reactive moves to perceived face threatening acts part ii",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2240929738,
+                    "author": [
+                        {
+                            "AuId": 2055930755,
+                            "AuN": "araceli lopez serena"
+                        },
+                        {
+                            "AuId": 2314503628,
+                            "AuN": "margarita borreguero zuloaga"
+                        }
+                    ],
+                    "title": "los marcadores del discurso y la variacion lengua hablada vs lengua escrita",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2521328532,
+                    "author": [
+                        {
+                            "AuId": 2639129359,
+                            "AuN": "nieves hernandezflores"
+                        }
+                    ],
+                    "journal": "pragmatics and beyond new series",
+                    "title": "politeness as face enhancement an analysis of spanish conversations between friends and family",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2249954395,
+                    "author": [
+                        {
+                            "AuId": 2726048587,
+                            "AuN": "marta albelda marco"
+                        }
+                    ],
+                    "title": "cortesia en diferentes situaciones comunicativas la conversacion coloquial y la entrevista sociologica semiformal",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2771751972,
+                    "author": [
+                        {
+                            "AuId": 2774318919,
+                            "AuN": "maria antonia martin zorraquino"
+                        }
+                    ],
+                    "title": "marcadores del discurso y estrategias de cortesia verbal en espanol",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1968638300,
+                    "author": [
+                        {
+                            "AuId": 2282425748,
+                            "AuN": "marianna chodorowska"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-2166(97)00004-0",
+                    "journal": "journal of pragmatics",
+                    "title": "on the polite function of me entiendes in spanish",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 41098522,
+                    "author": [
+                        {
+                            "AuId": 2667571527,
+                            "AuN": "antonio briz gomez"
+                        }
+                    ],
+                    "title": "los conectores pragmaticos en la conversacion coloquial ii su papel metadiscursivo",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2084753279,
+                    "author": [
+                        {
+                            "AuId": 2704640613,
+                            "AuN": "joan busquets"
+                        },
+                        {
+                            "AuId": 2598551735,
+                            "AuN": "dale april koike"
+                        },
+                        {
+                            "AuId": 2639660207,
+                            "AuN": "robert e vann"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-2166(00)00029-1",
+                    "journal": "journal of pragmatics",
+                    "title": "spanish no si reactive moves to perceived face threatening acts part i discourse relations and cognitive states",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2288377930,
+                    "author": [
+                        {
+                            "AuId": 2702639650,
+                            "AuN": "maria josep cuenca"
+                        },
+                        {
+                            "AuId": 2637521216,
+                            "AuN": "marta torres vilatarsana"
+                        }
+                    ],
+                    "title": "usos de hombre home y mujer dona como marcadores del discurso en la conversacion coloquial",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2245469857,
+                    "author": [
+                        {
+                            "AuId": 2296776325,
+                            "AuN": "noemi dominguez garcia"
+                        }
+                    ],
+                    "title": "los marcadores del discurso y los tipos textuales",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2247261447,
+                    "author": [
+                        {
+                            "AuId": 2148651270,
+                            "AuN": "luis rodriguez"
+                        }
+                    ],
+                    "title": "conectores marcadores y organizadores como elementos del discurso",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1534901957,
+                    "author": [
+                        {
+                            "AuId": 2638299685,
+                            "AuN": "jose luis blas arroyo"
+                        }
+                    ],
+                    "title": "la interjeccion como marcador discursivo en el caso de eh",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2240726211,
+                    "author": [
+                        {
+                            "AuId": 2245428129,
+                            "AuN": "maria antonia martin zorraquino"
+                        }
+                    ],
+                    "title": "aspectos de la gramatica y de la pragmatica de las particulas de modalidad en espanol actual",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2325495193,
+                    "author": [
+                        {
+                            "AuId": 2712436265,
+                            "AuN": "marianna chodorowskapilch"
+                        }
+                    ],
+                    "doi": "10.1075/PRAG.9.3.01CHO",
+                    "journal": "pragmatics",
+                    "title": "on the polite use of vamos in peninsular spanish",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2488977187,
+                    "author": [
+                        {
+                            "AuId": 2544898341,
+                            "AuN": "nieves hernandez flores"
+                        }
+                    ],
+                    "title": "12 politeness as face enhancement an analysis of spanish conversations between friends and family",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1172246918,
+                    "author": [
+                        {
+                            "AuId": 3108530674,
+                            "AuN": "belen alvarado ortega"
+                        }
+                    ],
+                    "title": "otaola olano c 2006 analisis linguistico del discurso la linguistica enunciativa madrid ediciones academicas",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2240878747,
+                    "author": [
+                        {
+                            "AuId": 2278110711,
+                            "AuN": "henk haverkate"
+                        }
+                    ],
+                    "title": "estrategias de cortesia analisis intercultural",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2241053442,
+                    "author": [
+                        {
+                            "AuId": 2252362848,
+                            "AuN": "andreas p muller"
+                        }
+                    ],
+                    "title": "la cortesia conversacional analisis secuenciales",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1558833215,
+                    "author": [
+                        {
+                            "AuId": 982100823,
+                            "AuN": "cilla haggkvist"
+                        },
+                        {
+                            "AuId": 1808405128,
+                            "AuN": "lars fant"
+                        }
+                    ],
+                    "title": "el intercambio de opiniones en conversaciones intra e interculturales",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 139346013,
+                    "author": [
+                        {
+                            "AuId": 2288575525,
+                            "AuN": "concepcion otaola olano"
+                        }
+                    ],
+                    "title": "analisis linguistico del discurso la linguistica enunciativa",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 633894565,
+                    "author": [
+                        {
+                            "AuId": 2304588430,
+                            "AuN": "e landone"
+                        }
+                    ],
+                    "title": "los marcadores del discurso y la cortesia verbal en espanol",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2243028334,
+                    "author": [
+                        {
+                            "AuId": 2171753062,
+                            "AuN": "catalina fuentes rodriguez"
+                        }
+                    ],
+                    "title": "los marcadores del discurso y la linguistica aplicada",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1592461018,
+                    "author": [
+                        {
+                            "AuId": 2718470915,
+                            "AuN": "gijs mulder"
+                        }
+                    ],
+                    "title": "aproximarse y evitar estrategias de cortesia en castellano",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 80432658,
+                    "author": [
+                        {
+                            "AuId": 2642103769,
+                            "AuN": "mariana chodorowska"
+                        }
+                    ],
+                    "title": "si quieres como marcador gramaticalizado de cortesia",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1902635752,
+                    "author": [
+                        {
+                            "AuId": 2525577741,
+                            "AuN": "manuel marti sanchez"
+                        }
+                    ],
+                    "title": "los operadores pragmaticos en los blogs de nueva economia",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2912396457,
+                    "author": [
+                        {
+                            "AuId": 2914033960,
+                            "AuN": "jose luis blasarroyo"
+                        }
+                    ],
+                    "title": "la interjeccion como marcador discursivo el caso de eh",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1877725932,
+                    "author": [
+                        {
+                            "AuId": 2792230479,
+                            "AuN": "salvador lopez quero"
+                        }
+                    ],
+                    "journal": "language design journal of theoretical and experimental linguistics",
+                    "title": "marcadores discursivos y cortesia en la conversacion virtual en espanol",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1768026033,
+                    "author": [
+                        {
+                            "AuId": 2720006028,
+                            "AuN": "luis ahumada"
+                        }
+                    ],
+                    "doi": "10.5027/PSICOPERSPECTIVAS-VOL5-ISSUE1-FULLTEXT-31",
+                    "title": "el discurso argumentativo de los estudiantes universitarios en los foros de discusion de un campus virtual analisis del uso de marcadores discursivos",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2236781642,
+                    "author": [
+                        {
+                            "AuId": 2775868425,
+                            "AuN": "ma jose garcia vizcaino"
+                        }
+                    ],
+                    "title": "consideraciones sobre la naturaleza y funcionamiento de la cortesia verbal en el espanol peninsular",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2241236833,
+                    "author": [
+                        {
+                            "AuId": 2467603581,
+                            "AuN": "jose portoles lazaro"
+                        },
+                        {
+                            "AuId": 2894175601,
+                            "AuN": "ignacio vazquez orta"
+                        }
+                    ],
+                    "title": "the use of hombre as a discourse marker of politeness in spanish and its relationship to equivalent expressions in english",
+                    "year_mag": 2000
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2881575974,
+                    "author": [
+                        {
+                            "AuId": 2565867479,
+                            "AuN": "g j mulder"
+                        }
+                    ],
+                    "doi": "10.1075/HCP.61.05MUL",
+                    "title": "chapter 4 yo creo que as a marker of evidentiality and epistemic modality evidence from twitter",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2589098348,
+                    "author": [
+                        {
+                            "AuId": 2119456673,
+                            "AuN": "naomi ogi"
+                        }
+                    ],
+                    "title": "involvement and attitude in japanese discourse interactive markers",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2809253729,
+                    "author": [
+                        {
+                            "AuId": 2809285026,
+                            "AuN": "elizabeth floressalgado"
+                        },
+                        {
+                            "AuId": 2809428084,
+                            "AuN": "teresa a castineirabenitez"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2018.06.009",
+                    "title": "the use of politeness in whatsapp discourse and move requests",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 1567419421,
+                    "author": [
+                        {
+                            "AuId": 2126300110,
+                            "AuN": "agnese sampietro"
+                        }
+                    ],
+                    "doi": "10.15443/RL2502",
+                    "title": "la comprension y produccion del lenguaje figurado en la l2 estudio de un foro virtual",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1794545073,
+                    "author": [
+                        {
+                            "AuId": 2694111088,
+                            "AuN": "julia vivas marquez"
+                        }
+                    ],
+                    "doi": "10.25267/PRAGMALINGUISTICA.2017.I25",
+                    "title": "la cortesia valorizadora en las redes sociales analisis de un corpus de publicaciones en facebook",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2589083079,
+                    "author": [
+                        {
+                            "AuId": 2565867479,
+                            "AuN": "g j mulder"
+                        }
+                    ],
+                    "title": "when feeling is thinking a lexical semantic analysis of evidential and epistemic predicates in spanish",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2970599301,
+                    "author": [
+                        {
+                            "AuId": 2304588430,
+                            "AuN": "e landone"
+                        }
+                    ],
+                    "doi": "10.1075/SIC.18001.LAN",
+                    "title": "los marcadores del discurso guias inferenciales de la comunicacion emotiva",
+                    "year_mag": 2019
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Radboud University, Nijmegen"
+                                }
+                            ],
+                            "family": "Mulder",
+                            "given": "Gijs",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/PBNS.271.05MUL",
+                    "title": "when feeling is thinking",
+                    "year_oc": 2017
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Australian National University"
+                                }
+                            ],
+                            "family": "Ogi",
+                            "given": "Naomi",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/PBNS.272",
+                    "title": "involvement and attitude in japanese discourse",
+                    "year_oc": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "11"
+            },
+            "doi": "10.1016/J.PRAGMA.2012.09.001",
+            "journal": "JOURNAL OF PRAGMATICS",
+            "title": "discourse markers and politeness in a digital forum in spanish",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "0210-377X"
+            ],
+            "PId": 1566659632,
+            "citing": [
+                {
+                    "PId": 1532391136,
+                    "author": [
+                        {
+                            "AuId": 2117054692,
+                            "AuN": "antonio hidalgo navarro"
+                        }
+                    ],
+                    "doi": "10.5209/REV_CLAC.2015.V62.49499",
+                    "journal": "circulo de linguistica aplicada a la comunicacion",
+                    "title": "prosodia y particulas discursivas sobre las funciones de atenuacion intensificacion como valores des corteses en los marcadores conversacionales",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "journal": "VERBA",
+            "title": "el alcance interpersonal de los marcadores del discurso en la dinamica conversacional el ejemplo de la cortesia verbal",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "978-8879165969"
+            ],
+            "PId": 2606004577,
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "13"
+            },
+            "title": "tecnologie e consapevolezza nella didattica dello spagnolo come lingua straniera",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "978-88-907897-0-0"
+            ],
+            "PId": 2934031202,
+            "cv_id": {
+                "pubbs_ind": "14"
+            },
+            "title": "la clasificacion de los marcadores del discurso y su valor operativo",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "2035-6323"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "15"
+            },
+            "journal": "INFORMATICA UMANISTICA",
+            "title": "il marcatore del discorso spagnolo hombre dal sussidio didattico al forum online",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-3-0343-1011-6"
+            ],
+            "cv_id": {
+                "pubbs_ind": "16"
+            },
+            "title": "el mapa conceptual en el glosario linguaturismo metodologia de elaboracion y aplicaciones",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-8856834208"
+            ],
+            "PId": 1006394582,
+            "cv_id": {
+                "pubbs_ind": "17"
+            },
+            "title": "nueva gramatica de la lengua espanola policentrismo linguistico e pragmatica",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-3034304634"
+            ],
+            "PId": 606392714,
+            "citing": [
+                {
+                    "PId": 1964154608,
+                    "author": [
+                        {
+                            "AuId": 2144874237,
+                            "AuN": "joseba ezeiza ramos"
+                        },
+                        {
+                            "AuId": 5734508,
+                            "AuN": "xabier alberdi larizgoitia"
+                        }
+                    ],
+                    "doi": "10.4067/S0718-09342015000100001",
+                    "journal": "revista signos",
+                    "title": "los marcadores discursivos como rasgo distintivo de los textos del ambito de las ciencias juridicas en lengua vasca aproximacion estadistica con proyeccion jurilinguistica",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2186903546,
+                    "author": [
+                        {
+                            "AuId": 2144874237,
+                            "AuN": "joseba ezeiza ramos"
+                        },
+                        {
+                            "AuId": 5734508,
+                            "AuN": "xabier alberdi larizgoitia"
+                        }
+                    ],
+                    "journal": "revista signos",
+                    "title": "los marcadores discursivos como rasgo distintivo de los textos del ambito de las ciencias juridicas en lengua vasca aproximacion estadistica con proyeccion jurilinguistica discourse markers as a distinctive feature of basque legal texts a statistical approach applicable to legal language studies",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "18"
+            },
+            "title": "notas en torno a los marcadores del discurso en la normativa territorial de las comunidades autonomas espanolas",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "1885-2211"
+            ],
+            "PId": 2904325960,
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "19"
+            },
+            "journal": "MARCO ELE",
+            "title": "reflexiones sobre la cortesia verbal en la ensenanza aprendizaje del e le",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-8854829633"
+            ],
+            "cv_id": {
+                "pubbs_ind": "20"
+            },
+            "title": "riflessioni sui marcatori del discorso nella scrittura digitale interattiva e asincrona",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-3034304139"
+            ],
+            "PId": 633894565,
+            "citing": [
+                {
+                    "PId": 2086289117,
+                    "author": [
+                        {
+                            "AuId": 2304588430,
+                            "AuN": "e landone"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2012.09.001",
+                    "journal": "journal of pragmatics",
+                    "title": "discourse markers and politeness in a digital forum in spanish",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2495712507,
+                    "author": [
+                        {
+                            "AuId": 2475522297,
+                            "AuN": "agnese sampietro"
+                        }
+                    ],
+                    "journal": "journal of pragmatics",
+                    "title": "the use of the thumbs up emoji on whatsapp",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 3086613119,
+                    "author": [
+                        {
+                            "AuId": 2646307433,
+                            "AuN": "martin hummel"
+                        }
+                    ],
+                    "journal": "journal of pragmatics",
+                    "title": "polyfunctionality polysemy and rhetorical strategy the functional semantic and pragmatic motivation of discourse functions",
+                    "year_mag": 2016
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "21"
+            },
+            "title": "los marcadores del discurso y la cortesia verbal en espanol",
+            "type": "monografia o trattato scientifico",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "978-8488252562"
+            ],
+            "PId": 2909317387,
+            "cited": [
+                {
+                    "PId": 1596100723,
+                    "author": [
+                        {
+                            "AuId": 2122679600,
+                            "AuN": "myron w lustig"
+                        },
+                        {
+                            "AuId": 2134111122,
+                            "AuN": "jolene koester"
+                        }
+                    ],
+                    "title": "intercultural competence interpersonal communication across cultures",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1560395057,
+                    "author": [
+                        {
+                            "AuId": 2275053811,
+                            "AuN": "francisco matte bon"
+                        }
+                    ],
+                    "title": "gramatica comunicativa del espanol",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2062270224,
+                    "author": [
+                        {
+                            "AuId": 2645752877,
+                            "AuN": "genevieve zarate"
+                        }
+                    ],
+                    "doi": "10.2307/330017",
+                    "journal": "the modern language journal",
+                    "title": "representations de l etranger et didactique des langues",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 623776676,
+                    "author": [
+                        {
+                            "AuId": 2646145635,
+                            "AuN": "genevieve zarate"
+                        }
+                    ],
+                    "title": "enseigner une culture etrangere",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2307041742,
+                    "author": [
+                        {
+                            "AuId": 2306647157,
+                            "AuN": "elena verdia"
+                        }
+                    ],
+                    "title": "comentarios al marco comun europeo de referencia para las lenguas",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2606103489,
+                    "author": [
+                        {
+                            "AuId": 2304588430,
+                            "AuN": "e landone"
+                        }
+                    ],
+                    "title": "plurilinguismo y pluriculturalismo en el portfolio europeo de las lenguas",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2175497015,
+                    "author": [
+                        {
+                            "AuId": 2659653170,
+                            "AuN": "fernando trujillo saez"
+                        }
+                    ],
+                    "title": "escritura y cultura la retorica contrastiva",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2999556759,
+                    "author": [
+                        {
+                            "AuId": 2304588430,
+                            "AuN": "e landone"
+                        }
+                    ],
+                    "title": "el aprendizaje autonomo un reto del marco europeo para estudiantes y profesores de espanol",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 3092964417,
+                    "author": [
+                        {
+                            "AuId": 3092927276,
+                            "AuN": "rene lenarduzzi"
+                        }
+                    ],
+                    "title": "pragmatica contrastiva de las formulas de saludo en espanol e italiano congratulaciones y condolencias",
+                    "year_mag": 1994
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "22"
+            },
+            "title": "la nuova dimensione della contrastivita nel portfolio europeo delle lingue pel ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "8434893541"
+            ],
+            "PId": 155014554,
+            "citing": [
+                {
+                    "PId": 1578091993,
+                    "author": [
+                        {
+                            "AuId": 2724764441,
+                            "AuN": "esther gutierrez quintana"
+                        }
+                    ],
+                    "doi": "10.14198/ELUA2005.19.11",
+                    "title": "analisis de la interlengua de italianos aprendices de espanol",
+                    "year_mag": 2005
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "23"
+            },
+            "title": "dificultades del espanol para hablantes de italiano",
+            "type": "monografia o trattato scientifico",
+            "year": 2003
+        },
+        {
+            "ISBN": [
+                "9788497782531"
+            ],
+            "PId": 110444972,
+            "citing": [
+                {
+                    "PId": 1567913343,
+                    "author": [
+                        {
+                            "AuId": 2730428694,
+                            "AuN": "javier pardo gendre"
+                        }
+                    ],
+                    "title": "la autoevaluacion y coevaluacion en una ensenanza centrada en la practica reflexiva",
+                    "year_mag": 2011
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7"
+            },
+            "title": "el uso en clase de un portfolio europeo de las lenguas digital",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2007
+        },
+        {
+            "PId": 234955989,
+            "cited": [
+                {
+                    "PId": 1992842154,
+                    "author": [
+                        {
+                            "AuId": 2218937473,
+                            "AuN": "david little"
+                        }
+                    ],
+                    "doi": "10.1017/S0261444802001805",
+                    "journal": "language teaching",
+                    "title": "the european language portfolio structure origins implementation and challenges",
+                    "year_mag": 2002
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8"
+            },
+            "title": "un portfolio europeo de las lenguas en formato digital",
+            "type": "contributo in atti di convegno",
+            "year": 2007
+        },
+        {
+            "ISBN": [
+                "88-7916-299-3"
+            ],
+            "PId": 2609297986,
+            "cv_id": {
+                "pubbs": "9"
+            },
+            "title": "project of study of the electronic european language portfolio presupposti e risultati",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2005
+        },
+        {
+            "ISSN": [
+                "1571-4667"
+            ],
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "journal": "REVISTA REDELE",
+            "title": "el aprendizaje cooperativo del e le propuestas para integrar las funciones de la lengua y las destrezas colaborativas",
+            "type": "articolo in rivista",
+            "year": 2004
+        },
+        {
+            "ISSN": [
+                "1720-3708"
+            ],
+            "PId": 2606103489,
+            "citing": [
+                {
+                    "PId": 950806086,
+                    "author": [
+                        {
+                            "AuId": 2163505868,
+                            "AuN": "raquel hidalgo downing"
+                        }
+                    ],
+                    "journal": "vial vigo international journal of applied linguistics",
+                    "title": "the development of plurilingual competence through authentic assessment and self assessment case study",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2909317387,
+                    "author": [
+                        {
+                            "AuId": 2304588430,
+                            "AuN": "e landone"
+                        }
+                    ],
+                    "journal": "vial vigo international journal of applied linguistics",
+                    "title": "la nuova dimensione della contrastivita nel portfolio europeo delle lingue",
+                    "year_mag": 2008
+                }
+            ],
+            "cv_id": {
+                "pubbs": "11"
+            },
+            "journal": "MOTS PALABRAS WORDS",
+            "title": "plurilinguismo y pluriculturalismo en el portfolio europeo de las lenguas",
+            "type": "articolo in rivista",
+            "year": 2004
+        },
+        {
+            "ISSN": [
+                "1720-3708"
+            ],
+            "PId": 2999556759,
+            "citing": [
+                {
+                    "PId": 2909317387,
+                    "author": [
+                        {
+                            "AuId": 2304588430,
+                            "AuN": "e landone"
+                        }
+                    ],
+                    "title": "la nuova dimensione della contrastivita nel portfolio europeo delle lingue",
+                    "year_mag": 2008
+                }
+            ],
+            "cv_id": {
+                "pubbs": "12"
+            },
+            "journal": "MOTS PALABRAS WORDS",
+            "title": "el aprendizaje autonomo un reto del marco europeo para estudiantes y profesores de espanol",
+            "type": "articolo in rivista",
+            "year": 2002
+        },
+        {
+            "cv_id": {
+                "pubbs": "13"
+            },
+            "type": "articolo in rivista",
+            "year": 2001
+        },
+        {
+            "ISBN": [
+                "978-8880981466"
+            ],
+            "PId": 2240714129,
+            "citing": [
+                {
+                    "PId": 1567419421,
+                    "author": [
+                        {
+                            "AuId": 2126300110,
+                            "AuN": "agnese sampietro"
+                        }
+                    ],
+                    "doi": "10.15443/RL2502",
+                    "title": "la comprension y produccion del lenguaje figurado en la l2 estudio de un foro virtual",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 131590940,
+                    "author": [
+                        {
+                            "AuId": 2103290020,
+                            "AuN": "paolo della putta"
+                        }
+                    ],
+                    "doi": "10.13130/2037-3597/1916",
+                    "title": "ho conosciuto a jorge l anno scorso proposte glottodidattiche e riflessioni teoriche su un interferenza sintattica nelle interlingue di ispanofoni",
+                    "year_mag": 2011
+                }
+            ],
+            "cv_id": {
+                "pubbs": "14"
+            },
+            "title": "consciousness raising e la traduzione per unita lessicali",
+            "type": "contributo in atti di convegno",
+            "year": 2001
+        },
+        {
+            "ISBN": [
+                "88-491-1656-X"
+            ],
+            "cv_id": {
+                "pubbs": "15"
+            },
+            "title": " lo mejor que los refranes tienen es ser nacidos en el vulgo riflessioni linguistiche intorno all uso di aforismi e massime nelle prime grammatiche per l insegnamento dello spagnolo agli stranieri",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2000
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2589892196,
+            "doi": "10.14672/2.2013.1063",
+            "title": "la modalidad liminar en la normativa territorial de las comunidades autonomas espanolas",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 43103802,
+            "doi": "10.13130/2240-5437/3584",
+            "journal": "tintas quaderni di letterature iberiche e iberoamericane",
+            "title": "alex grijelmo defensa apasionada del idioma espanol madrid suma de letras 2001 398 pp",
+            "type": "1",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2504392621,
+            "citing": [
+                {
+                    "PId": 628054849,
+                    "author": [
+                        {
+                            "AuId": 2014992399,
+                            "AuN": "timbre janiece newby greenwood"
+                        }
+                    ],
+                    "title": "cry the beloved media new media and student perceptions in a world literature classroom",
+                    "year_mag": 2011
+                }
+            ],
+            "doi": "10.4018/978-1-59140-494-1.CH002",
+            "title": "technologies challenging literacy hypertext community building reflection and critical literacy",
+            "type": "4",
+            "year_mag": 2006
+        },
+        {
+            "PId": 133561041,
+            "citing": [
+                {
+                    "PId": 2010536867,
+                    "author": [
+                        {
+                            "AuId": 1376275342,
+                            "AuN": "noelia m ramosgonzalez"
+                        },
+                        {
+                            "AuId": 268760392,
+                            "AuN": "ana m ricomartin"
+                        }
+                    ],
+                    "doi": "10.1016/J.SBSPRO.2015.03.180",
+                    "journal": "procedia social and behavioral sciences",
+                    "title": "the teaching of politeness in the spanish as a foreign language sfl classroom",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 1828214933,
+                    "author": [
+                        {
+                            "AuId": 2624642283,
+                            "AuN": "mestre i mestre"
+                        },
+                        {
+                            "AuId": 2712498637,
+                            "AuN": "eva maria"
+                        }
+                    ],
+                    "doi": "10.4995/THESIS/10251/11277",
+                    "journal": "procedia social and behavioral sciences",
+                    "title": "error in the learning and teaching of english as a second language at higher education level",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2593118824,
+                    "author": [
+                        {
+                            "AuId": 2126029685,
+                            "AuN": "aintzane etxebarria"
+                        },
+                        {
+                            "AuId": 1977898274,
+                            "AuN": "inaki gaminde"
+                        },
+                        {
+                            "AuId": 2064851580,
+                            "AuN": "urtza garay"
+                        },
+                        {
+                            "AuId": 2168677079,
+                            "AuN": "asier romero"
+                        }
+                    ],
+                    "journal": "procedia social and behavioral sciences",
+                    "title": "prosodiaren garrantzia kortesia erlazioetan",
+                    "year_mag": 2011
+                }
+            ],
+            "journal": "marcoele revista de didactica espanol lengua extranjera",
+            "title": "reflexiones sobre la cortesia verbal en la ensenanza aprendizaje del ele",
+            "type": "1",
+            "year_mag": 2009
+        },
+        {
+            "PId": 2483699318,
+            "doi": "10.4018/978-1-59140-750-8.CH014",
+            "title": "language learning and user centered design the development of the electronic european language portfolio",
+            "type": "4",
+            "year_mag": 2005
+        },
+        {
+            "PId": 3042796627,
+            "title": "el espanol y su dinamismo redes irradiaciones y confluencias",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2729362149,
+            "title": "final report of the project of study of the electronic european language portfolio elp reference number 110649 cp 1 2003 1 it minerva mpp",
+            "type": "0",
+            "year_mag": 2006
+        },
+        {
+            "PId": 937642474,
+            "title": "input enhancement en un entorno multimedial",
+            "type": "0",
+            "year_mag": 1999
+        },
+        {
+            "PId": 2946323367,
+            "title": "project of study of the electronic european language portfolio elp",
+            "type": "0",
+            "year_mag": 2005
+        },
+        {
+            "PId": 2920977308,
+            "title": "project of study of the electronic european language portfolio elp",
+            "type": "0",
+            "year_mag": 2004
+        },
+        {
+            "PId": 2608803553,
+            "title": "enlaces studi dedicati a mariarosa scaramuzza",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2601557171,
+            "title": "electronic european language portfolio",
+            "type": "0",
+            "year_mag": 2005
+        },
+        {
+            "PId": 2911195895,
+            "title": "creia que esto solo pasaba en las peliculas un cd rom didactico en el marco de un proyecto europeo para la ensenanza del espanol",
+            "type": "0",
+            "year_mag": 2000
+        },
+        {
+            "PId": 2249578554,
+            "title": "red malla multimedia mundial o internet riflessioni sullo spagnolo per l informatica",
+            "type": "0",
+            "year_mag": 2002
+        },
+        {
+            "PId": 2937241029,
+            "title": "d carpani a l de herizen a cura di en obras ensenar espanol en la universidad que cambia salerno edizioni del paguro 2001 pp 108",
+            "type": "0",
+            "year_mag": 2004
+        },
+        {
+            "PId": 1604837689,
+            "title": "aprendizaje cooperativo en la clase de e le",
+            "type": "0",
+            "year_mag": 2001
+        },
+        {
+            "PId": 1004215814,
+            "title": "scrivere in spagnolo in una classe virtuale",
+            "type": "0",
+            "year_mag": 2001
+        },
+        {
+            "PId": 2790058627,
+            "title": "diccionarios electronicos nuevos objetos culturales con implicaciones en la metodologia de la investigacion y en la didactica del e le",
+            "type": "0",
+            "year_mag": 2000
+        },
+        {
+            "PId": 3000034883,
+            "title": "cuide sus ojos no se olvide de parpadear y ajuste el brillo de su monitor note sulla letteratura ipertestuale",
+            "type": "0",
+            "year_mag": 1999
+        }
+    ]
+}

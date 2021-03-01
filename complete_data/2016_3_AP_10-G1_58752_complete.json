@@ -1,0 +1,1207 @@
+{
+    "AuIds": [
+        2918894372,
+        2653046027,
+        2476033963,
+        2936649298,
+        2640732762
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "2220080504_+_183952579": 1,
+                "2220080504_+_2271447392": 1,
+                "2220080504_+_2291968027": 1,
+                "2220080504_+_2758067731": 1,
+                "2918400439_+_1149299564": 2,
+                "2918400439_+_1482438246": 1,
+                "2918400439_+_1486138975": 1,
+                "2918400439_+_1494066873": 2,
+                "2918400439_+_156312967": 4,
+                "2918400439_+_1608645706": 1,
+                "2918400439_+_183206795": 1,
+                "2918400439_+_183952579": 2,
+                "2918400439_+_1894854907": 2,
+                "2918400439_+_1996825865": 1,
+                "2918400439_+_2005938383": 1,
+                "2918400439_+_2008514911": 1,
+                "2918400439_+_2019273563": 4,
+                "2918400439_+_2023334777": 1,
+                "2918400439_+_2030878599": 1,
+                "2918400439_+_2033437306": 2,
+                "2918400439_+_203902812": 2,
+                "2918400439_+_2066713182": 1,
+                "2918400439_+_2068822147": 1,
+                "2918400439_+_2073946513": 1,
+                "2918400439_+_2086311013": 3,
+                "2918400439_+_2103528847": 1,
+                "2918400439_+_2106234633": 1,
+                "2918400439_+_2130370251": 3,
+                "2918400439_+_2136528656": 1,
+                "2918400439_+_2160335023": 1,
+                "2918400439_+_2173426087": 1,
+                "2918400439_+_2176195928": 2,
+                "2918400439_+_2185994721": 4,
+                "2918400439_+_2260294061": 1,
+                "2918400439_+_2271447392": 2,
+                "2918400439_+_2290254675": 1,
+                "2918400439_+_2291968027": 1,
+                "2918400439_+_2303161626": 1,
+                "2918400439_+_2344408881": 1,
+                "2918400439_+_2759829117": 2,
+                "2918400439_+_2797827555": 1,
+                "2918400439_+_313426785": 1,
+                "2918400439_+_395142559": 2,
+                "2918400439_+_396842771": 3
+            },
+            "number": 11
+        },
+        "cand_nodes": 14,
+        "cand_paths": {
+            "1": [
+                [
+                    "2918400439",
+                    "1549389553"
+                ]
+            ]
+        },
+        "cc": {
+            "articles": {
+                "568770345_+_2073946513": 1,
+                "568770345_+_2081409643": 1
+            },
+            "number": 1
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 531,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 46,
+            "comm_other": 4190,
+            "other_cand": 9,
+            "other_comm": 4964
+        },
+        "other_nodes": 6301
+    },
+    "coverage": {
+        "articles": 10,
+        "books": 1,
+        "cov_sect": "B",
+        "other_pubbs": 8,
+        "pubbs": 10,
+        "pubbs_found": 5,
+        "pubbs_ind": 17,
+        "pubbs_ind_found": 7,
+        "total_extra_found": 14,
+        "total_found": 8,
+        "total_pubbs": 19
+    },
+    "fullname": [
+        "Murelli",
+        "Adriano"
+    ],
+    "ind_anvur": [
+        6,
+        0,
+        2,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "978-3-11-034135-5"
+            ],
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1515/9783110341461-013",
+            "title": "genus",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9783110341355"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1515/9783110341461-014",
+            "title": "numerus",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-3-11-034135-5"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "title": "partizipialattribute",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9783110341355"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "4"
+            },
+            "title": "numerativkonstruktionen",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-3-937241-38-8"
+            ],
+            "PId": 2125628856,
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "5"
+            },
+            "title": "das geheimnis das oder was du mir verraten hast das oder was als relativpronomen",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "978-3-942949-01-9"
+            ],
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "title": "aspekte der interaktion zwischen den tandempartnern eines e tandem kurses",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1121-5291"
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "journal": "LINGUA E NUOVA DIDATTICA",
+            "title": "il corso di e tandem friburgo pavia un primo bilancio lend",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-3-11-026174-5"
+            ],
+            "PId": 568770345,
+            "citing": [
+                {
+                    "PId": 2626436275,
+                    "author": [
+                        {
+                            "AuId": 2589494786,
+                            "AuN": "roland meyer"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.2017.0032",
+                    "journal": "language",
+                    "title": "the c system of relatives and complement clauses in the history of slavic languages",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2741622641,
+                    "author": [
+                        {
+                            "AuId": 2739693047,
+                            "AuN": "wojciech guz"
+                        }
+                    ],
+                    "doi": "10.1353/JSL.2017.0003",
+                    "journal": "language",
+                    "title": "resumptive pronouns in polish co relative clauses",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2220080504,
+                    "author": [
+                        {
+                            "AuId": 2918894372,
+                            "AuN": "adriano murelli"
+                        }
+                    ],
+                    "journal": "language",
+                    "title": "relative constructions in european languages a look at non standard",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2465817985,
+                    "author": [
+                        {
+                            "AuId": 2893973558,
+                            "AuN": "pierre larrivee"
+                        },
+                        {
+                            "AuId": 2517313269,
+                            "AuN": "marie skrovec"
+                        }
+                    ],
+                    "doi": "10.1051/SHSCONF/20162714008",
+                    "journal": "language",
+                    "title": "les relatives en francais vernaculaire",
+                    "year_mag": 2016
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "8"
+            },
+            "title": "relative constructions in european non standard varieties",
+            "type": "monografia o trattato scientifico",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1121-5291"
+            ],
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "journal": "LINGUA E NUOVA DIDATTICA",
+            "title": "l applicazione del portfolio elettronico epos in corsi d italiano per studenti non specialisti primi risultati lend",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "1217-0216"
+            ],
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "journal": "JAHRBUCH DER UNGARISCHEN GERMANISTIK",
+            "title": "die interaktion zwischen gesprachspartnern in einem skype basierten e tandem kurs",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "9788857501840"
+            ],
+            "PId": 2945994435,
+            "cv_id": {
+                "pubbs_ind": "11"
+            },
+            "journal": "IL QUADRIFOGLIO TEDESCO",
+            "title": "cercasi hans in salsa piccante una vita in due mondi",
+            "type": "traduzione di libro",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "1121-5291"
+            ],
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "journal": "LINGUA E NUOVA DIDATTICA",
+            "title": "il rapporto tra intertestualita e intercultura nell insegnamento dell italiano come lingua straniera una proposta lend",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "0324-1653"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "13"
+            },
+            "journal": "BALKANSKO EZIKOZNANIE",
+            "title": " where based relative elements in balkan languages",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "1121-5291"
+            ],
+            "cv_id": {
+                "pubbs_ind": "14"
+            },
+            "journal": "LINGUA E NUOVA DIDATTICA",
+            "title": "il role play e la valutazione della competenza orale una proposta lend",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "1578-9438"
+            ],
+            "PId": 160487145,
+            "cv_id": {
+                "pubbs_ind": "15"
+            },
+            "journal": "ESTUDIOS FILOL\u00d3GICOS ALEMANES",
+            "title": "binnenwanderung in der schweiz soziolinguistische aspekte",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "1578-9438"
+            ],
+            "PId": 27889540,
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "16"
+            },
+            "journal": "ESTUDIOS FILOL\u00d3GICOS ALEMANES",
+            "title": "der die das als personalpronomen sprachtypologische und didaktische fragen",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "1578-9438"
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "17"
+            },
+            "journal": "ESTUDIOS FILOL\u00d3GICOS ALEMANES",
+            "title": "alte und neue ressourcen zur erforschung der gesprochenen sprache das www als korpus ",
+            "type": "articolo in rivista",
+            "year": 2007
+        },
+        {
+            "ISBN": [
+                "9783110220254"
+            ],
+            "PId": 2484749015,
+            "citing": [
+                {
+                    "PId": 2538638491,
+                    "author": [
+                        {
+                            "AuId": 48811583,
+                            "AuN": "gunther de vogelaer"
+                        },
+                        {
+                            "AuId": 2335173625,
+                            "AuN": "guido seiler"
+                        }
+                    ],
+                    "title": "the dialect laboratory introductory remarks",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2735874301,
+                    "author": [
+                        {
+                            "AuId": 1832884466,
+                            "AuN": "bernd kortmann"
+                        }
+                    ],
+                    "doi": "10.1093/OXFORDHB/9780199922765.013.0052",
+                    "title": "typology and typological change in english historical linguistics",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2996325663,
+                    "author": [
+                        {
+                            "AuId": 2731743017,
+                            "AuN": "benedikt szmrecsanyi"
+                        },
+                        {
+                            "AuId": 2467672172,
+                            "AuN": "melanie rothlisberger"
+                        },
+                        {
+                            "AuId": 2223362618,
+                            "AuN": "daniel schreier"
+                        },
+                        {
+                            "AuId": 2076980815,
+                            "AuN": "marianne hundt"
+                        },
+                        {
+                            "AuId": 2103785607,
+                            "AuN": "edgar w schneider"
+                        }
+                    ],
+                    "doi": "10.1017/9781108349406.023",
+                    "title": "world englishes from the perspective of dialect typology",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2478346338,
+                    "author": [
+                        {
+                            "AuId": 2294165937,
+                            "AuN": "lieselotte anderwald"
+                        },
+                        {
+                            "AuId": 1832884466,
+                            "AuN": "bernd kortmann"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511792519.021",
+                    "title": "research methods in language variation and change applying typological methods in dialectology",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2774800427,
+                    "author": [
+                        {
+                            "AuId": 2640609220,
+                            "AuN": "martin konvicka"
+                        }
+                    ],
+                    "doi": "10.5817/BBGN2017-1-9",
+                    "title": "de historische dimensie van taalbondverschijnselen",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5"
+            },
+            "title": "non standard varieties in the areal typology of europe",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1578-9438"
+            ],
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "journal": "ESTUDIOS FILOL\u00d3GICOS ALEMANES",
+            "title": "nicht standard relativsatze im deutschen und in anderen europaischen sprachen",
+            "type": "articolo in rivista",
+            "year": 2006
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2220080504,
+            "cited": [
+                {
+                    "PId": 196354989,
+                    "author": [
+                        {
+                            "AuId": 1651713790,
+                            "AuN": "edward l keenan"
+                        },
+                        {
+                            "AuId": 434010504,
+                            "AuN": "bernard comrie"
+                        }
+                    ],
+                    "title": "noun phrase accessibility and universal grammar",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1973946070,
+                    "author": [
+                        {
+                            "AuId": 3081352182,
+                            "AuN": "t givon"
+                        }
+                    ],
+                    "title": "syntax a functional typological introduction",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 1915746009,
+                    "author": [
+                        {
+                            "AuId": 2628892623,
+                            "AuN": "de mark vries"
+                        }
+                    ],
+                    "title": "the syntax of relativization",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1562809004,
+                    "author": [
+                        {
+                            "AuId": 95979212,
+                            "AuN": "martin haspelmath"
+                        }
+                    ],
+                    "title": "the european linguistic area standard average european",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 616799333,
+                    "author": [
+                        {
+                            "AuId": 1832884466,
+                            "AuN": "bernd kortmann"
+                        },
+                        {
+                            "AuId": 2499073161,
+                            "AuN": "tanja herrmann"
+                        },
+                        {
+                            "AuId": 2650998999,
+                            "AuN": "lukas pietsch"
+                        },
+                        {
+                            "AuId": 2343237292,
+                            "AuN": "susanne wagner"
+                        }
+                    ],
+                    "doi": "10.1515/9783110197518",
+                    "title": "a comparative grammar of british english dialects agreement gender relative clauses",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 418403830,
+                    "author": [
+                        {
+                            "AuId": 2559681721,
+                            "AuN": "olga miseska tomic"
+                        }
+                    ],
+                    "title": "balkan sprachbund morpho syntactic features",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2501966909,
+                    "author": [
+                        {
+                            "AuId": 2482790551,
+                            "AuN": "tanja herrmann"
+                        }
+                    ],
+                    "doi": "10.1515/9783110197518.21",
+                    "title": "relative clauses in english dialects of the british isles",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1543905337,
+                    "author": [
+                        {
+                            "AuId": 2963304305,
+                            "AuN": "bruce donaldson"
+                        }
+                    ],
+                    "title": "dutch a comprehensive grammar",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 586503274,
+                    "author": [
+                        {
+                            "AuId": 2097465800,
+                            "AuN": "christian lehmann"
+                        }
+                    ],
+                    "title": "der relativsatz typologie seiner strukturen theorie seiner funktionen kompendium seiner grammatik",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 600513395,
+                    "author": [
+                        {
+                            "AuId": 2076998077,
+                            "AuN": "geoffrey haig"
+                        }
+                    ],
+                    "title": "relative constructions in turkish",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 568770345,
+                    "author": [
+                        {
+                            "AuId": 2918894372,
+                            "AuN": "adriano murelli"
+                        }
+                    ],
+                    "title": "relative constructions in european non standard varieties",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1972829100,
+                    "author": [
+                        {
+                            "AuId": 2918310166,
+                            "AuN": "r l trask"
+                        }
+                    ],
+                    "doi": "10.1016/S0388-0001(98)00006-0",
+                    "journal": "language sciences",
+                    "title": "the typological position of basque then and now",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 602259857,
+                    "author": [
+                        {
+                            "AuId": 2197163950,
+                            "AuN": "jenny cheshire"
+                        },
+                        {
+                            "AuId": 2619873266,
+                            "AuN": "dieter stein"
+                        }
+                    ],
+                    "title": "taming the vernacular from dialect to written standard language",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1978236720,
+                    "author": [
+                        {
+                            "AuId": 2563497152,
+                            "AuN": "r j c smits"
+                        }
+                    ],
+                    "title": "eurogrammar the relative and cleft constructions of the germanic and romance languages",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2504504183,
+                    "author": [
+                        {
+                            "AuId": 2537115900,
+                            "AuN": "dan i slobin"
+                        }
+                    ],
+                    "title": "the acquisition and use of relative clauses in turkic and indo european languages",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2539145231,
+                    "author": [
+                        {
+                            "AuId": 2073241070,
+                            "AuN": "helmut weis"
+                        }
+                    ],
+                    "title": "a question of relevance",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2487415083,
+                    "author": [
+                        {
+                            "AuId": 2110248856,
+                            "AuN": "sonia cristofaro"
+                        },
+                        {
+                            "AuId": 2541998975,
+                            "AuN": "anna giacaloneramat"
+                        }
+                    ],
+                    "doi": "10.1075/SLCS.88.06CRI",
+                    "title": "relativization strategies in the languages of europe",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1674269636,
+                    "author": [
+                        {
+                            "AuId": 724061787,
+                            "AuN": "fatma erkman akerson"
+                        },
+                        {
+                            "AuId": 2047201045,
+                            "AuN": "\u015feyda ozil"
+                        }
+                    ],
+                    "title": "turkcede niteleme sifat islevli yan tumceler",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 314789889,
+                    "author": [
+                        {
+                            "AuId": 2147249464,
+                            "AuN": "fredrik karlsson"
+                        },
+                        {
+                            "AuId": 2133169489,
+                            "AuN": "kirk p h sullivan"
+                        }
+                    ],
+                    "title": "the use of relativization in the regional dialect of swedish spoken in burtrask",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2980367737,
+                    "author": [
+                        {
+                            "AuId": 2980505556,
+                            "AuN": "bernard oyhar\u04ababal"
+                        }
+                    ],
+                    "doi": "10.1515/9783110884883-005",
+                    "title": "pro drop and the resumptive pronoun strategy in basque",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2899464844,
+                    "author": [
+                        {
+                            "AuId": 2899074253,
+                            "AuN": "gisela zifonun"
+                        }
+                    ],
+                    "title": "grammatik des deutschen im europaischen vergleich der relativsatz",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2320715868,
+                    "author": [
+                        {
+                            "AuId": 2324362343,
+                            "AuN": "h antony hurren"
+                        },
+                        {
+                            "AuId": 2332307259,
+                            "AuN": "elsa nilsson"
+                        }
+                    ],
+                    "doi": "10.2307/3722511",
+                    "journal": "modern language review",
+                    "title": "les termes relatifs et les propositions relatives en roumain moderne etude de syntaxe descriptive",
+                    "year_mag": 1971
+                },
+                {
+                    "PId": 584825069,
+                    "author": [
+                        {
+                            "AuId": 2145337669,
+                            "AuN": "stanislaw urbanczyk"
+                        }
+                    ],
+                    "title": "zdania rozpoczynane wyrazem co w jezyku polskim",
+                    "year_mag": 1939
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 3083623457,
+                    "author": [
+                        {
+                            "AuId": 3083618919,
+                            "AuN": "katherine hodgson"
+                        }
+                    ],
+                    "doi": "10.1016/J.LINGUA.2020.102950",
+                    "journal": "lingua",
+                    "title": "finite relative clauses in colloquial armenian and the phenomenon of inverse attraction",
+                    "year_mag": 2020
+                }
+            ],
+            "title": "relative constructions in european languages a look at non standard",
+            "type": "0",
+            "year_mag": 2011
+        },
+        {
+            "PId": 2918400439,
+            "cited": [
+                {
+                    "PId": 1996672843,
+                    "author": [
+                        {
+                            "AuId": 2049461923,
+                            "AuN": "noam chomsky"
+                        }
+                    ],
+                    "title": "the minimalist program",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1586060904,
+                    "author": [
+                        {
+                            "AuId": 2049461923,
+                            "AuN": "noam chomsky"
+                        }
+                    ],
+                    "title": "lectures on government and binding",
+                    "year_mag": 1981
+                },
+                {
+                    "PId": 2743476741,
+                    "author": [
+                        {
+                            "AuId": 95979212,
+                            "AuN": "martin haspelmath"
+                        }
+                    ],
+                    "doi": "10.1016/0024-3841(92)90049-O",
+                    "journal": "lingua",
+                    "title": "approaches to grammaticalization",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1980114642,
+                    "author": [
+                        {
+                            "AuId": 2677418425,
+                            "AuN": "osvaldo jaeggli"
+                        },
+                        {
+                            "AuId": 928422879,
+                            "AuN": "ken safir"
+                        }
+                    ],
+                    "title": "the null subject parameter",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 1552926031,
+                    "author": [
+                        {
+                            "AuId": 2488187790,
+                            "AuN": "luciana brandi"
+                        },
+                        {
+                            "AuId": 2805480916,
+                            "AuN": "patrizia cordin"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-009-2540-3_4",
+                    "title": "two italian dialects and the null subject parameter",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 32578,
+                    "author": [
+                        {
+                            "AuId": 20256961,
+                            "AuN": "nicole delbecque"
+                        },
+                        {
+                            "AuId": 2202269343,
+                            "AuN": "johan van der auwera"
+                        },
+                        {
+                            "AuId": 120769143,
+                            "AuN": "dirk geeraerts"
+                        }
+                    ],
+                    "doi": "10.1515/9783110909579",
+                    "title": "perspectives on variation sociolinguistic historical comparative",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 38064225,
+                    "author": [
+                        {
+                            "AuId": 2050883184,
+                            "AuN": "luigi rizzi"
+                        }
+                    ],
+                    "doi": "10.1515/9783110878516-025",
+                    "title": "on the status of subject clitics in romance",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2974121967,
+                    "author": [
+                        {
+                            "AuId": 2687218782,
+                            "AuN": "gaetano berruto"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511486623.005",
+                    "title": "dialect standard convergence mixing and models of language contact the case of italy",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2090843025,
+                    "author": [
+                        {
+                            "AuId": 2100203095,
+                            "AuN": "margaret e winters"
+                        },
+                        {
+                            "AuId": 3008087286,
+                            "AuN": "osvaldo jaeggli"
+                        },
+                        {
+                            "AuId": 1419070608,
+                            "AuN": "carmen silvacorvalan"
+                        }
+                    ],
+                    "doi": "10.2307/415456",
+                    "journal": "language",
+                    "title": "studies in romance linguistics",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2083235156,
+                    "author": [
+                        {
+                            "AuId": 2118275880,
+                            "AuN": "sid harris"
+                        }
+                    ],
+                    "doi": "10.1016/S1364-5439(02)01201-7",
+                    "journal": "focus on powder coatings",
+                    "title": "new approaches to old problems",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 615171461,
+                    "author": [
+                        {
+                            "AuId": 2567776526,
+                            "AuN": "terry nadasdi"
+                        }
+                    ],
+                    "title": "variation grammaticale et langue minoritaire le cas des pronoms clitiques en francais ontarien",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1997589678,
+                    "author": [
+                        {
+                            "AuId": 2701514724,
+                            "AuN": "g lepschy"
+                        },
+                        {
+                            "AuId": 2469301245,
+                            "AuN": "gerhard rohlfs"
+                        },
+                        {
+                            "AuId": 2591186959,
+                            "AuN": "s persichino"
+                        },
+                        {
+                            "AuId": 2076099902,
+                            "AuN": "temistocle franceschi"
+                        },
+                        {
+                            "AuId": 2324367028,
+                            "AuN": "m caciagli fancelli"
+                        }
+                    ],
+                    "doi": "10.2307/3726157",
+                    "journal": "modern language review",
+                    "title": "grammatica storica della lingua italiana e dei suoi dialetti",
+                    "year_mag": 1972
+                },
+                {
+                    "PId": 1549389553,
+                    "author": [
+                        {
+                            "AuId": 2666743276,
+                            "AuN": "cecilia poletto"
+                        }
+                    ],
+                    "title": "la sintassi del soggetto nei dialetti italiani settentrionali",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1960397660,
+                    "author": [
+                        {
+                            "AuId": 1973026551,
+                            "AuN": "david heap"
+                        }
+                    ],
+                    "title": "la variation grammaticale en geolinguistique les pronoms sujet en roman central",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 566490793,
+                    "author": [
+                        {
+                            "AuId": 1988103048,
+                            "AuN": "cecilia goria"
+                        }
+                    ],
+                    "title": "subject clitics in the northern italian dialects a comparative study based on the minimalist program and optimality theory",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2541775837,
+                    "author": [
+                        {
+                            "AuId": 1988103048,
+                            "AuN": "cecilia goria"
+                        }
+                    ],
+                    "title": "economy of structure",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2332407696,
+                    "author": [
+                        {
+                            "AuId": 1419070608,
+                            "AuN": "carmen silvacorvalan"
+                        },
+                        {
+                            "AuId": 2691785227,
+                            "AuN": "peter auer"
+                        },
+                        {
+                            "AuId": 2143036480,
+                            "AuN": "aldo di luzio"
+                        }
+                    ],
+                    "doi": "10.2307/414629",
+                    "journal": "language",
+                    "title": "variation and convergence",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2490163578,
+                    "author": [
+                        {
+                            "AuId": 2109020386,
+                            "AuN": "paola beninca"
+                        }
+                    ],
+                    "doi": "10.1515/9783110910346.133",
+                    "title": "i dati dell asis e la sintassi diacronica",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2543332264,
+                    "author": [
+                        {
+                            "AuId": 2540439824,
+                            "AuN": "sandra paoli"
+                        }
+                    ],
+                    "title": "mapping out the left periphery of the clause",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 605466335,
+                    "author": [
+                        {
+                            "AuId": 2251829940,
+                            "AuN": "manlio cortelazzo"
+                        },
+                        {
+                            "AuId": 164591740,
+                            "AuN": "gunter holtus"
+                        },
+                        {
+                            "AuId": 2114630247,
+                            "AuN": "michele metzeltin"
+                        },
+                        {
+                            "AuId": 2599846666,
+                            "AuN": "max pfister"
+                        }
+                    ],
+                    "title": "la dialettologia italiana oggi studi offerti a manlio cortelazzo",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 223009194,
+                    "author": [
+                        {
+                            "AuId": 2401389866,
+                            "AuN": "ottavio lurati"
+                        }
+                    ],
+                    "title": "dialetto e italiano regionale nella svizzera italiana",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 2801380175,
+                    "author": [
+                        {
+                            "AuId": 2801245174,
+                            "AuN": "eduardo blasco ferrer"
+                        }
+                    ],
+                    "doi": "10.1515/9783110244977.52",
+                    "title": "die klassifikation der oberitalienischen dialekte ein typologischer und kulturell historischer ansatz",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 649064289,
+                    "author": [
+                        {
+                            "AuId": 2027891888,
+                            "AuN": "claudio beretta"
+                        }
+                    ],
+                    "title": "contributo per una grammatica del milanese contemporaneo",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 2071261958,
+                    "author": [
+                        {
+                            "AuId": 2791515533,
+                            "AuN": "federico spiess"
+                        }
+                    ],
+                    "doi": "10.2307/3718221",
+                    "journal": "modern language review",
+                    "title": "die verwendung des subjekt personalpronomens in den lombardischen mundarten",
+                    "year_mag": 1958
+                },
+                {
+                    "PId": 1549816515,
+                    "author": [
+                        {
+                            "AuId": 2031753128,
+                            "AuN": "francesco dovidio"
+                        },
+                        {
+                            "AuId": 1849996925,
+                            "AuN": "wilhelm meyerlubke"
+                        },
+                        {
+                            "AuId": 631529276,
+                            "AuN": "eugenio polcari"
+                        }
+                    ],
+                    "title": "grammatica storica della lingua e dei dialetti italiani",
+                    "year_mag": 1919
+                }
+            ],
+            "title": "subject clitics in lombard dialects evidence from the asis syntactic atlas of northern italy",
+            "type": "0",
+            "year_mag": 2010
+        },
+        {
+            "PId": 2969595611,
+            "title": "il role play nella valutazione della competenza orale",
+            "type": "0",
+            "year_mag": 2009
+        },
+        {
+            "PId": 2939852835,
+            "title": "in forma con il pilates",
+            "type": "0",
+            "year_mag": 2009
+        },
+        {
+            "PId": 2942691953,
+            "title": "cosa ci aspetta",
+            "type": "0",
+            "year_mag": 2011
+        },
+        {
+            "PId": 2937062250,
+            "title": "cosi stanno le cose",
+            "type": "0",
+            "year_mag": 2011
+        }
+    ]
+}

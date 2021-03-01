@@ -1,0 +1,353 @@
+{
+    "AuIds": [
+        2292957930
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 2,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 9,
+            "comm_other": 4682,
+            "other_cand": 0,
+            "other_comm": 4973
+        },
+        "other_nodes": 6521
+    },
+    "coverage": {
+        "articles": 4,
+        "books": 1,
+        "cov_sect": "C",
+        "other_pubbs": 10,
+        "pubbs": 9,
+        "pubbs_found": 2,
+        "pubbs_ind": 12,
+        "pubbs_ind_found": 2,
+        "total_extra_found": 2,
+        "total_found": 2,
+        "total_pubbs": 15
+    },
+    "fullname": [
+        "Vessella",
+        "Carlo"
+    ],
+    "ind_anvur": [
+        10,
+        2,
+        1,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "978-3-11-044040-9"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1515/9783110432299",
+            "title": "sophisticated speakers",
+            "type": "monografia o trattato scientifico",
+            "year": 2018
+        },
+        {
+            "ISBN": [
+                "978-88-430-8824-9"
+            ],
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "title": "dedica di nicandre",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-430-8824-9"
+            ],
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "title": "legge locrese sull assegnazione della terra",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-430-8824-9"
+            ],
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "title": "imprecazioni pubbliche da teo",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-430-8824-9"
+            ],
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "title": "monumento coregico per lisicrate",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0026-7074"
+            ],
+            "PId": 2528483499,
+            "cited": [
+                {
+                    "PId": 609575609,
+                    "author": [
+                        {
+                            "AuId": 2121672264,
+                            "AuN": "philomen probert"
+                        }
+                    ],
+                    "title": "a new short guide to the accentuation of ancient greek",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 623406168,
+                    "author": [
+                        {
+                            "AuId": 2609296051,
+                            "AuN": "rudolf wachter"
+                        }
+                    ],
+                    "title": "non attic greek vase inscriptions",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2239704746,
+                    "author": [
+                        {
+                            "AuId": 2665812547,
+                            "AuN": "enrique nieto izquierdo"
+                        }
+                    ],
+                    "doi": "10.1484/J.GIF.5.101764",
+                    "title": "\u03b1\u1f30\u03c3\u03ba\u03bb\u03b1\u03c0\u03b9\u03cc\u03c2 \u03c4\u03c1\u03bf\u03b9\u03b6\u03ac\u03bd\u03bf\u03c2 y \u03b3e\u03c1\u03b1\u03af\u03c3\u03c4\u03b9\u03bf\u03c2 a proposito de la supuesta epentesis de yod en la argolide",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 161713922,
+                    "author": [
+                        {
+                            "AuId": 2576740119,
+                            "AuN": "ortola guixot"
+                        },
+                        {
+                            "AuId": 2632385111,
+                            "AuN": "alvaro fernando"
+                        }
+                    ],
+                    "title": "corina y su poesia una revision",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1983543386,
+                    "author": [
+                        {
+                            "AuId": 2638309552,
+                            "AuN": "a m bowie"
+                        }
+                    ],
+                    "doi": "10.2307/1088955",
+                    "journal": "phoenix",
+                    "title": "the poetic dialect of sappho and alcaeus",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2799599970,
+                    "author": [
+                        {
+                            "AuId": 2801226551,
+                            "AuN": "jennifer mooreblunt"
+                        }
+                    ],
+                    "doi": "10.2307/20538556",
+                    "journal": "quaderni urbinati di cultura classica",
+                    "title": "problems of accentuation in greek papyri",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 2027963489,
+                    "author": [
+                        {
+                            "AuId": 2614276638,
+                            "AuN": "cornelis jord ruijgh"
+                        }
+                    ],
+                    "doi": "10.3406/REG.1967.3916",
+                    "title": "sur le nom de poseidon et sur les noms en \u1fb1 \u03dd\u03bf\u03bd \u1fd1 \u03dd\u03bf\u03bd",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 2797240242,
+                    "author": [
+                        {
+                            "AuId": 2316166281,
+                            "AuN": "carl d buck"
+                        },
+                        {
+                            "AuId": 2097245242,
+                            "AuN": "friedrich bechtel"
+                        }
+                    ],
+                    "doi": "10.2307/289697",
+                    "journal": "american journal of philology",
+                    "title": "die griechischen dialekte",
+                    "year_mag": 1926
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Probert",
+                            "given": "Philomen",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780199279609.001.0001",
+                    "title": "ancient greek accentuation",
+                    "year_oc": 2006
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1163/1568525X-12341975",
+            "journal": "MNEMOSYNE",
+            "title": "boeotian accentuation in the ancient editions of boeotian poetry",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788800745796"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "7"
+            },
+            "title": "la prosa",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788800745796"
+            ],
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "title": "menandro e la commedia nuova",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788800745796"
+            ],
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "title": "callimaco e la poesia alessandrina",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788800745796"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "10"
+            },
+            "title": "teocrito",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788800745796"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "11"
+            },
+            "title": "lessicografia atticista e greco classico",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0392-4866"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "12"
+            },
+            "journal": "RIVISTA DEGLI STUDI ORIENTALI",
+            "title": "reconstructing phonologies of dead languages the case of late greek h ",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9782600016124"
+            ],
+            "cv_id": {
+                "pubbs": "6"
+            },
+            "title": "lettori di corinna in egitto",
+            "type": "contributo in atti di convegno",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1750-2705"
+            ],
+            "cv_id": {
+                "pubbs": "8"
+            },
+            "journal": "THE CAMBRIDGE CLASSICAL JOURNAL",
+            "title": " overlength and the system of primary comparatives in homeric and attic greek ",
+            "type": "articolo in rivista",
+            "year": 2007
+        },
+        {
+            "ISSN": [
+                "1129-5953"
+            ],
+            "cv_id": {
+                "pubbs": "9"
+            },
+            "journal": "SEMINARI ROMANI DI CULTURA GRECA",
+            "title": " 927 923 917 918 927 925 927 923 917 921 918 927 925 nelle epigrafi attiche e l iscrizione dell hekatompedon ig i3 4 b 18 19 ",
+            "type": "articolo in rivista",
+            "year": 2006
+        }
+    ],
+    "pubbs_mag": []
+}

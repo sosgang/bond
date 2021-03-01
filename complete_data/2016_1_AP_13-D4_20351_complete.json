@@ -1,0 +1,4593 @@
+{
+    "AuIds": [
+        2167003968
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "2003689240_+_100266752": 1,
+                "2003689240_+_1588960203": 1,
+                "2003689240_+_2013219970": 1,
+                "2003689240_+_2038102494": 1,
+                "2003689240_+_2198172059": 2,
+                "2003689240_+_2216555879": 1,
+                "2116925137_+_100266752": 1,
+                "2116925137_+_1588960203": 1,
+                "2116925137_+_2013219970": 1,
+                "2116925137_+_2038102494": 1,
+                "2116925137_+_2198172059": 2,
+                "2116925137_+_2216555879": 1,
+                "2484372385_+_100266752": 1,
+                "2484372385_+_1588153103": 1,
+                "2484372385_+_1588960203": 1,
+                "2484372385_+_1978405907": 1,
+                "2484372385_+_2013219970": 1,
+                "2484372385_+_2038102494": 1,
+                "2484372385_+_2198172059": 2,
+                "2484372385_+_2216555879": 1,
+                "30931320_+_100266752": 1,
+                "30931320_+_1588960203": 1,
+                "30931320_+_2013219970": 1,
+                "30931320_+_2038102494": 1,
+                "30931320_+_2198172059": 2,
+                "30931320_+_2216555879": 1,
+                "617240848_+_1588153103": 1,
+                "617240848_+_1978405907": 2
+            },
+            "number": 4
+        },
+        "cand_nodes": 15,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 337,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 205,
+            "comm_other": 3659,
+            "other_cand": 19,
+            "other_comm": 1556
+        },
+        "other_nodes": 3730
+    },
+    "coverage": {
+        "articles": 7,
+        "books": 0,
+        "cov_sect": "A",
+        "other_pubbs": 5,
+        "pubbs": 10,
+        "pubbs_found": 10,
+        "pubbs_ind": 9,
+        "pubbs_ind_found": 8,
+        "total_extra_found": 15,
+        "total_found": 11,
+        "total_pubbs": 12
+    },
+    "fullname": [
+        "Marino",
+        "Zelda"
+    ],
+    "ind_anvur": [
+        5,
+        3,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1469-7696"
+            ],
+            "PId": 2060989478,
+            "cited": [
+                {
+                    "PId": 2115755118,
+                    "author": [
+                        {
+                            "AuId": 1983981876,
+                            "AuN": "stephane mallat"
+                        }
+                    ],
+                    "title": "a wavelet tour of signal processing",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2098914003,
+                    "author": [
+                        {
+                            "AuId": 2009916527,
+                            "AuN": "ingrid daubechies"
+                        }
+                    ],
+                    "doi": "10.1002/CPA.3160410705",
+                    "journal": "communications on pure and applied mathematics",
+                    "title": "orthonormal bases of compactly supported wavelets",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2034139177,
+                    "author": [
+                        {
+                            "AuId": 2108763264,
+                            "AuN": "christopher torrence"
+                        },
+                        {
+                            "AuId": 2133833053,
+                            "AuN": "gilbert p compo"
+                        }
+                    ],
+                    "doi": "10.1175/1520-0477(1998)079<0061:APGTWA>2.0.CO;2",
+                    "journal": "bulletin of the american meteorological society",
+                    "title": "a practical guide to wavelet analysis",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2140153041,
+                    "author": [
+                        {
+                            "AuId": 2018313466,
+                            "AuN": "yousef saad"
+                        },
+                        {
+                            "AuId": 2140736851,
+                            "AuN": "martin h schultz"
+                        }
+                    ],
+                    "doi": "10.1137/0907058",
+                    "journal": "siam journal on scientific and statistical computing",
+                    "title": "gmres a generalized minimal residual algorithm for solving nonsymmetric linear systems",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2094585768,
+                    "author": [
+                        {
+                            "AuId": 2278097012,
+                            "AuN": "gregory beylkin"
+                        },
+                        {
+                            "AuId": 2090152442,
+                            "AuN": "ronald r coifman"
+                        },
+                        {
+                            "AuId": 2052033419,
+                            "AuN": "vladimir rokhlin"
+                        }
+                    ],
+                    "doi": "10.1002/CPA.3160440202",
+                    "journal": "communications on pure and applied mathematics",
+                    "title": "fast wavelet transforms and numerical algorithms i",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 1599341303,
+                    "author": [
+                        {
+                            "AuId": 1182759791,
+                            "AuN": "ramazan gencay"
+                        },
+                        {
+                            "AuId": 2072906887,
+                            "AuN": "faruk selcuk"
+                        },
+                        {
+                            "AuId": 2062957773,
+                            "AuN": "brandon whitcher"
+                        }
+                    ],
+                    "title": "an introduction to wavelets and other filtering methods in finance and economics",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1580684925,
+                    "author": [
+                        {
+                            "AuId": 2017222965,
+                            "AuN": "ian foster"
+                        }
+                    ],
+                    "title": "designing and building parallel programs concepts and tools for parallel software engineering",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2154590891,
+                    "author": [
+                        {
+                            "AuId": 3022172188,
+                            "AuN": "youcef saad"
+                        }
+                    ],
+                    "title": "sparskit a basic tool kit for sparse matrix computations",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2163329249,
+                    "author": [
+                        {
+                            "AuId": 2240905063,
+                            "AuN": "james b ramsey"
+                        }
+                    ],
+                    "doi": "10.2202/1558-3708.1090",
+                    "journal": "studies in nonlinear dynamics and econometrics",
+                    "title": "wavelets in economics and finance past and future",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2024148329,
+                    "author": [
+                        {
+                            "AuId": 2061287580,
+                            "AuN": "gianluca fusai"
+                        },
+                        {
+                            "AuId": 1984176866,
+                            "AuN": "attilio meucci"
+                        }
+                    ],
+                    "doi": "10.1016/J.JBANKFIN.2007.12.027",
+                    "journal": "journal of banking and finance",
+                    "title": "pricing discretely monitored asian options under levy processes",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2104238795,
+                    "author": [
+                        {
+                            "AuId": 2000313997,
+                            "AuN": "vladimir surkov"
+                        }
+                    ],
+                    "doi": "10.1016/J.PARCO.2010.02.006",
+                    "title": "parallel option pricing with fourier space time stepping method on graphics processing units",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1964711958,
+                    "author": [
+                        {
+                            "AuId": 2246300570,
+                            "AuN": "jaeyoung choi"
+                        },
+                        {
+                            "AuId": 2099814946,
+                            "AuN": "david w walker"
+                        },
+                        {
+                            "AuId": 288512535,
+                            "AuN": "jack dongarra"
+                        }
+                    ],
+                    "doi": "10.1002/CPE.4330060702",
+                    "journal": "concurrency and computation practice and experience",
+                    "title": "pumma parallel universal matrix multiplication algorithms on distributed memory concurrent computers",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1997637918,
+                    "author": [
+                        {
+                            "AuId": 2144267908,
+                            "AuN": "bara kim"
+                        },
+                        {
+                            "AuId": 2478150042,
+                            "AuN": "insuk wee"
+                        }
+                    ],
+                    "doi": "10.1080/14697688.2011.596844",
+                    "journal": "quantitative finance",
+                    "title": "pricing of geometric asian options under heston s stochastic volatility model",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2071288491,
+                    "author": [
+                        {
+                            "AuId": 1942326998,
+                            "AuN": "ales cern\u00fd"
+                        },
+                        {
+                            "AuId": 2092947150,
+                            "AuN": "ioannis kyriakou"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1323252",
+                    "journal": "quantitative finance",
+                    "title": "an improved convolution algorithm for discretely sampled asian options",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2598890929,
+                    "author": [
+                        {
+                            "AuId": 379788737,
+                            "AuN": "c c w leentvaar"
+                        },
+                        {
+                            "AuId": 327733553,
+                            "AuN": "cornelis w oosterlee"
+                        }
+                    ],
+                    "doi": "10.21314/JCF.2008.184",
+                    "journal": "journal of computational finance",
+                    "title": "multi asset option pricing using a parallel fourier based technique",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1573778154,
+                    "author": [
+                        {
+                            "AuId": 2778906312,
+                            "AuN": "francis haeuck in"
+                        },
+                        {
+                            "AuId": 2778052567,
+                            "AuN": "sangbae kim"
+                        }
+                    ],
+                    "title": "an introduction to wavelet theory in finance a wavelet multiscale approach",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2102197848,
+                    "author": [
+                        {
+                            "AuId": 1996285541,
+                            "AuN": "anne laure bronstein"
+                        },
+                        {
+                            "AuId": 2596356635,
+                            "AuN": "gilles pages"
+                        },
+                        {
+                            "AuId": 2951454670,
+                            "AuN": "benedikt wilbertz"
+                        }
+                    ],
+                    "doi": "10.1080/14697680903508487",
+                    "journal": "quantitative finance",
+                    "title": "how to speed up the quantization tree algorithm with an application to swing options",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1983468706,
+                    "author": [
+                        {
+                            "AuId": 2061287580,
+                            "AuN": "gianluca fusai"
+                        },
+                        {
+                            "AuId": 140423706,
+                            "AuN": "daniele marazzina"
+                        },
+                        {
+                            "AuId": 1956769179,
+                            "AuN": "marina marena"
+                        }
+                    ],
+                    "doi": "10.1137/09076115X",
+                    "journal": "siam journal on financial mathematics",
+                    "title": "pricing discretely monitored asian options by maturity randomization",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1990410657,
+                    "author": [
+                        {
+                            "AuId": 2797571661,
+                            "AuN": "francesca mariani"
+                        },
+                        {
+                            "AuId": 1871219491,
+                            "AuN": "graziella pacelli"
+                        },
+                        {
+                            "AuId": 286411887,
+                            "AuN": "francesco zirilli"
+                        }
+                    ],
+                    "doi": "10.1007/S11590-007-0052-7",
+                    "journal": "optimization letters",
+                    "title": "maximum likelihood estimation of the heston stochastic volatility model using asset and option prices an application of nonlinear filtering theory",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2171450022,
+                    "author": [
+                        {
+                            "AuId": 2570531141,
+                            "AuN": "b carton de wiart"
+                        },
+                        {
+                            "AuId": 2570531141,
+                            "AuN": "b carton de wiart"
+                        },
+                        {
+                            "AuId": 2789760488,
+                            "AuN": "m a h dempster"
+                        }
+                    ],
+                    "doi": "10.1142/S021902491100667X",
+                    "journal": "international journal of theoretical and applied finance",
+                    "title": "wavelet optimized valuation of financial derivatives",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2077340560,
+                    "author": [
+                        {
+                            "AuId": 2047169553,
+                            "AuN": "halis sak"
+                        },
+                        {
+                            "AuId": 183794235,
+                            "AuN": "suleyman ozekici"
+                        },
+                        {
+                            "AuId": 2283334540,
+                            "AuN": "ilkay boduroglu"
+                        }
+                    ],
+                    "doi": "10.1016/J.PARCO.2006.11.002",
+                    "title": "parallel computing in asian option pricing",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2031092938,
+                    "author": [
+                        {
+                            "AuId": 2662636802,
+                            "AuN": "debora sesana"
+                        },
+                        {
+                            "AuId": 140423706,
+                            "AuN": "daniele marazzina"
+                        },
+                        {
+                            "AuId": 2061287580,
+                            "AuN": "gianluca fusai"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2013.12.009",
+                    "journal": "european journal of operational research",
+                    "title": "pricing exotic derivatives exploiting structure",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2071530452,
+                    "author": [
+                        {
+                            "AuId": 2061287580,
+                            "AuN": "gianluca fusai"
+                        },
+                        {
+                            "AuId": 140423706,
+                            "AuN": "daniele marazzina"
+                        },
+                        {
+                            "AuId": 1956769179,
+                            "AuN": "marina marena"
+                        },
+                        {
+                            "AuId": 2110705915,
+                            "AuN": "michael k ng"
+                        }
+                    ],
+                    "doi": "10.1080/14697688.2010.538074",
+                    "journal": "quantitative finance",
+                    "title": "z transform and preconditioning techniques for option pricing",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1977361903,
+                    "author": [
+                        {
+                            "AuId": 2152457482,
+                            "AuN": "chuangchang chang"
+                        },
+                        {
+                            "AuId": 2652722168,
+                            "AuN": "chuehyung tsao"
+                        }
+                    ],
+                    "doi": "10.1080/14697680903369492",
+                    "journal": "quantitative finance",
+                    "title": "efficient and accurate quadratic approximation methods for pricing asian strike options",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2076994700,
+                    "author": [
+                        {
+                            "AuId": 2061287580,
+                            "AuN": "gianluca fusai"
+                        },
+                        {
+                            "AuId": 140423706,
+                            "AuN": "daniele marazzina"
+                        },
+                        {
+                            "AuId": 1956769179,
+                            "AuN": "marina marena"
+                        }
+                    ],
+                    "doi": "10.1016/J.PARCO.2010.03.002",
+                    "title": "option pricing maturity randomization and distributed computing",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2799178882,
+                    "author": [
+                        {
+                            "AuId": 2798387425,
+                            "AuN": "herbert j carlin"
+                        }
+                    ],
+                    "title": "network theory",
+                    "year_mag": 1964
+                },
+                {
+                    "PId": 1613616841,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2097172280,
+                            "AuN": "luisa damore"
+                        },
+                        {
+                            "AuId": 50334193,
+                            "AuN": "a murli"
+                        }
+                    ],
+                    "doi": "10.1007/3-540-49164-3_34",
+                    "title": "on the parallel implementation of the fast wavelet packet transform on mimd distributed memory environments",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2030716156,
+                    "author": [
+                        {
+                            "AuId": 2130841280,
+                            "AuN": "lothar reichel"
+                        }
+                    ],
+                    "doi": "10.1007/BF01386439",
+                    "journal": "numerische mathematik",
+                    "title": "fast solution methods for fredholm integral equations of the second kind",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 1709409702,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 140423706,
+                            "AuN": "daniele marazzina"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-21878-1_55",
+                    "title": "wavelet techniques for option pricing on advanced architectures",
+                    "year_mag": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Quarteroni",
+                            "given": "Alfio",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Sacco",
+                            "given": "Riccardo",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Saleri",
+                            "given": "Fausto",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/B98885",
+                    "title": "numerical mathematics",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "\u010cern\u00fd",
+                            "given": "Ale\u0161",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Kyriakou",
+                            "given": "Ioannis",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1080/14697680903397667",
+                    "title": "an improved convolution algorithm for discretely sampled asian options",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Daubechies",
+                            "given": "Ingrid",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1137/1.9781611970104",
+                    "title": "ten lectures on wavelets",
+                    "year_oc": 1992
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Monash UniversityAustralia"
+                                }
+                            ],
+                            "family": "In",
+                            "given": "Francis",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Kyungpook National UniversityKorea"
+                                }
+                            ],
+                            "family": "Kim",
+                            "given": "Sangbae",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1142/8431",
+                    "title": "an introduction to wavelet theory in finance",
+                    "year_oc": 2012
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2885076443,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2092947150,
+                            "AuN": "ioannis kyriakou"
+                        },
+                        {
+                            "AuId": 140423706,
+                            "AuN": "daniele marazzina"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJOR.2018.07.017",
+                    "journal": "european journal of operational research",
+                    "title": "a general framework for pricing asian options under stochastic volatility on parallel architectures",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2503128934,
+                    "author": [
+                        {
+                            "AuId": 2092947150,
+                            "AuN": "ioannis kyriakou"
+                        },
+                        {
+                            "AuId": 1831781854,
+                            "AuN": "panos k pouliasis"
+                        },
+                        {
+                            "AuId": 1874142619,
+                            "AuN": "nikos c papapostolou"
+                        }
+                    ],
+                    "doi": "10.1080/14697688.2016.1211798",
+                    "journal": "european journal of operational research",
+                    "title": "jumps and stochastic volatility in crude oil prices and advances in average option pricing",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2257092646,
+                    "author": [
+                        {
+                            "AuId": 211935706,
+                            "AuN": "laura ballotta"
+                        },
+                        {
+                            "AuId": 2239503057,
+                            "AuN": "russell gerrard"
+                        },
+                        {
+                            "AuId": 2092947150,
+                            "AuN": "ioannis kyriakou"
+                        }
+                    ],
+                    "doi": "10.1080/1351847X.2015.1066694",
+                    "journal": "european journal of operational research",
+                    "title": "hedging of asian options under exponential levy models computation and performance",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2775084681,
+                    "author": [
+                        {
+                            "AuId": 2024044257,
+                            "AuN": "dana cerna"
+                        }
+                    ],
+                    "doi": "10.1063/1.5013960",
+                    "journal": "european journal of operational research",
+                    "title": "adaptive wavelet method for pricing two asset asian options with floating strike",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1080/14697688.2014.935465",
+            "journal": "QUANTITATIVE FINANCE",
+            "title": "a parallel wavelet based pricing procedure for asian options",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-1-4614-3772-7"
+            ],
+            "PId": 30931320,
+            "cited": [
+                {
+                    "PId": 1602773783,
+                    "author": [
+                        {
+                            "AuId": 13811602,
+                            "AuN": "paul glasserman"
+                        }
+                    ],
+                    "title": "monte carlo methods in financial engineering",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1575104486,
+                    "author": [
+                        {
+                            "AuId": 129948039,
+                            "AuN": "peter e kloeden"
+                        },
+                        {
+                            "AuId": 2119609511,
+                            "AuN": "eckhard platen"
+                        }
+                    ],
+                    "title": "numerical solution of stochastic differential equations",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2077791698,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        },
+                        {
+                            "AuId": 2640352042,
+                            "AuN": "myron s scholes"
+                        }
+                    ],
+                    "doi": "10.1086/260062",
+                    "journal": "journal of political economy",
+                    "title": "the pricing of options and corporate liabilities",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2011886674,
+                    "author": [
+                        {
+                            "AuId": 2210449200,
+                            "AuN": "darrell duffie"
+                        },
+                        {
+                            "AuId": 669620310,
+                            "AuN": "kenneth j singleton"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/12.4.687",
+                    "journal": "review of financial studies",
+                    "title": "modeling term structures of defaultable bonds",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 3021444882,
+                    "author": [
+                        {
+                            "AuId": 2299606345,
+                            "AuN": "john c cox"
+                        },
+                        {
+                            "AuId": 2051703268,
+                            "AuN": "jonathan e ingersoll"
+                        },
+                        {
+                            "AuId": 2163419371,
+                            "AuN": "stephen a ross"
+                        }
+                    ],
+                    "doi": "10.2307/1911242",
+                    "journal": "econometrica",
+                    "title": "a theory of the term structure of interest rates",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 1575658391,
+                    "author": [
+                        {
+                            "AuId": 166847715,
+                            "AuN": "damiano brigo"
+                        },
+                        {
+                            "AuId": 2031632740,
+                            "AuN": "fabio mercurio"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-662-04553-4",
+                    "title": "interest rate models theory and practice",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2084716442,
+                    "author": [
+                        {
+                            "AuId": 2036592102,
+                            "AuN": "david lando"
+                        }
+                    ],
+                    "doi": "10.1007/BF01531332",
+                    "journal": "review of derivatives research",
+                    "title": "on cox processes and credit risky securities",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 3023478198,
+                    "author": [
+                        {
+                            "AuId": 270822780,
+                            "AuN": "robert a jarrow"
+                        },
+                        {
+                            "AuId": 2036592102,
+                            "AuN": "david lando"
+                        },
+                        {
+                            "AuId": 2099061321,
+                            "AuN": "stuart m turnbull"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/10.2.481",
+                    "journal": "review of financial studies",
+                    "title": "a markov model for the term structure of credit risk spreads",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2987941956,
+                    "author": [
+                        {
+                            "AuId": 2210449200,
+                            "AuN": "darrell duffie"
+                        },
+                        {
+                            "AuId": 669620310,
+                            "AuN": "kenneth j singleton"
+                        }
+                    ],
+                    "title": "credit risk pricing measurement and management",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2158127561,
+                    "author": [
+                        {
+                            "AuId": 2779099247,
+                            "AuN": "roger lord"
+                        },
+                        {
+                            "AuId": 2619724162,
+                            "AuN": "remmert koekkoek"
+                        },
+                        {
+                            "AuId": 1619209637,
+                            "AuN": "dick van dijk"
+                        }
+                    ],
+                    "doi": "10.1080/14697680802392496",
+                    "journal": "quantitative finance",
+                    "title": "a comparison of biased simulation schemes for stochastic volatility models",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1578103278,
+                    "author": [
+                        {
+                            "AuId": 2723306126,
+                            "AuN": "philipp j schonbucher"
+                        }
+                    ],
+                    "title": "credit derivatives pricing models models pricing and implementation",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1504766719,
+                    "author": [
+                        {
+                            "AuId": 2036592102,
+                            "AuN": "david lando"
+                        }
+                    ],
+                    "title": "credit risk modeling theory and applications",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 39759813,
+                    "author": [
+                        {
+                            "AuId": 93706476,
+                            "AuN": "russel e caflisch"
+                        },
+                        {
+                            "AuId": 2686206421,
+                            "AuN": "william j morokoff"
+                        },
+                        {
+                            "AuId": 2692150874,
+                            "AuN": "art owen"
+                        }
+                    ],
+                    "doi": "10.21314/JCF.1997.005",
+                    "journal": "journal of computational finance",
+                    "title": "valuation of mortgage backed securities using brownian bridges to reduce effective dimension",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2338681524,
+                    "author": [
+                        {
+                            "AuId": 45852114,
+                            "AuN": "helyette geman"
+                        },
+                        {
+                            "AuId": 667485976,
+                            "AuN": "nicole el karoui"
+                        },
+                        {
+                            "AuId": 2201352716,
+                            "AuN": "jeancharles rochet"
+                        }
+                    ],
+                    "doi": "10.2307/3215299",
+                    "journal": "journal of applied probability",
+                    "title": "changes of numeraire changes of probability measure and option pricing",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2119299497,
+                    "author": [
+                        {
+                            "AuId": 2674134956,
+                            "AuN": "farshid jamshidian"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1989.TB02413.X",
+                    "journal": "journal of finance",
+                    "title": "an exact bond option formula",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2086611351,
+                    "author": [
+                        {
+                            "AuId": 2333008356,
+                            "AuN": "michael mascagni"
+                        },
+                        {
+                            "AuId": 2655151306,
+                            "AuN": "a srinivasan"
+                        }
+                    ],
+                    "doi": "10.1145/358407.358427",
+                    "journal": "acm transactions on mathematical software",
+                    "title": "algorithm 806 sprng a scalable library for pseudorandom number generation",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2095196343,
+                    "author": [
+                        {
+                            "AuId": 166847715,
+                            "AuN": "damiano brigo"
+                        },
+                        {
+                            "AuId": 2100122523,
+                            "AuN": "aurelien alfonsi"
+                        }
+                    ],
+                    "doi": "10.1007/S00780-004-0131-X",
+                    "journal": "finance and stochastics",
+                    "title": "credit default swap calibration and derivatives pricing with the ssrd stochastic intensity model",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2027849119,
+                    "author": [
+                        {
+                            "AuId": 2682266702,
+                            "AuN": "john c hull"
+                        },
+                        {
+                            "AuId": 2121047447,
+                            "AuN": "alan white"
+                        }
+                    ],
+                    "doi": "10.2307/2331288",
+                    "journal": "journal of financial and quantitative analysis",
+                    "title": "one factor interest rate models and the valuation of interest rate derivative securities",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2146261346,
+                    "author": [
+                        {
+                            "AuId": 2210898457,
+                            "AuN": "spassimir paskov"
+                        },
+                        {
+                            "AuId": 2334622869,
+                            "AuN": "joseph f traub"
+                        }
+                    ],
+                    "doi": "10.3905/JPM.1995.409541",
+                    "journal": "the journal of portfolio management",
+                    "title": "faster valuation of financial derivatives",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2168145847,
+                    "author": [
+                        {
+                            "AuId": 2167952064,
+                            "AuN": "desmond j higham"
+                        },
+                        {
+                            "AuId": 2153573532,
+                            "AuN": "xuerong mao"
+                        }
+                    ],
+                    "doi": "10.21314/JCF.2005.136",
+                    "journal": "journal of computational finance",
+                    "title": "convergence of monte carlo simulations involving the mean reverting square root process",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2109776021,
+                    "author": [
+                        {
+                            "AuId": 2210449200,
+                            "AuN": "darrell duffie"
+                        }
+                    ],
+                    "title": "credit risk modeling with affine processes",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1971274873,
+                    "author": [
+                        {
+                            "AuId": 2576864342,
+                            "AuN": "g n milstein"
+                        },
+                        {
+                            "AuId": 2119609511,
+                            "AuN": "eckhard platen"
+                        },
+                        {
+                            "AuId": 2472414800,
+                            "AuN": "henri schurz"
+                        }
+                    ],
+                    "doi": "10.1137/S0036142994273525",
+                    "journal": "siam journal on numerical analysis",
+                    "title": "balanced implicit methods for stiff stochastic systems",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2058921293,
+                    "author": [
+                        {
+                            "AuId": 2987509240,
+                            "AuN": "stephen j brown"
+                        },
+                        {
+                            "AuId": 288876901,
+                            "AuN": "philip h dybvig"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1986.TB04523.X",
+                    "journal": "journal of finance",
+                    "title": "the empirical implications of the cox ingersoll ross theory of the term structure of interest rates",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2161033241,
+                    "author": [
+                        {
+                            "AuId": 2170481532,
+                            "AuN": "griselda deelstra"
+                        },
+                        {
+                            "AuId": 2661283246,
+                            "AuN": "freddy delbaen"
+                        }
+                    ],
+                    "doi": "10.1002/(SICI)1099-0747(199803)14:1<77::AID-ASM338>3.0.CO;2-2",
+                    "journal": "applied stochastic models and data analysis",
+                    "title": "convergence of discretized stochastic interest rate processes with stochastic drift term",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1947208390,
+                    "author": [
+                        {
+                            "AuId": 166847715,
+                            "AuN": "damiano brigo"
+                        },
+                        {
+                            "AuId": 2100122523,
+                            "AuN": "aurelien alfonsi"
+                        }
+                    ],
+                    "title": "credit default swaps calibration and option pricing with the ssrd stochastic intensity and interest rate model",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2122525602,
+                    "author": [
+                        {
+                            "AuId": 2118433018,
+                            "AuN": "massimo de felice"
+                        },
+                        {
+                            "AuId": 2064167928,
+                            "AuN": "franco moriconi"
+                        }
+                    ],
+                    "doi": "10.1017/S0515036100014070",
+                    "journal": "astin bulletin",
+                    "title": "market based tools for managing the life insurance company",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2003689240,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2485933760,
+                            "AuN": "p l de angelis"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2479691788,
+                            "AuN": "francesca perla"
+                        },
+                        {
+                            "AuId": 2028141982,
+                            "AuN": "paolo zanetti"
+                        }
+                    ],
+                    "doi": "10.1016/J.PARCO.2009.10.002",
+                    "title": "on parallel asset liability management in life insurance a forward risk neutral approach",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 82046789,
+                    "author": [
+                        {
+                            "AuId": 2430011145,
+                            "AuN": "gilberto castellani"
+                        },
+                        {
+                            "AuId": 2118433018,
+                            "AuN": "massimo de felice"
+                        },
+                        {
+                            "AuId": 2064167928,
+                            "AuN": "franco moriconi"
+                        },
+                        {
+                            "AuId": 2632432118,
+                            "AuN": "claudio pacati"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2761395",
+                    "title": "embedded value in life insurance",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2028047679,
+                    "author": [
+                        {
+                            "AuId": 2973933692,
+                            "AuN": "g n milshtein"
+                        }
+                    ],
+                    "doi": "10.1137/1123045",
+                    "journal": "theory of probability and its applications",
+                    "title": "a method of second order accuracy integration of stochastic differential equations",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 1987218397,
+                    "author": [
+                        {
+                            "AuId": 2333008356,
+                            "AuN": "michael mascagni"
+                        },
+                        {
+                            "AuId": 2538502650,
+                            "AuN": "steven a cuccaro"
+                        },
+                        {
+                            "AuId": 2136054354,
+                            "AuN": "daniel v pryor"
+                        },
+                        {
+                            "AuId": 2310751894,
+                            "AuN": "m l robinson"
+                        }
+                    ],
+                    "doi": "10.1006/JCPH.1995.1130",
+                    "journal": "journal of computational physics",
+                    "title": "a fast high quality and reproducible parallel lagged fibonacci pseudorandom number generator",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1789294684,
+                    "author": [
+                        {
+                            "AuId": 2430011145,
+                            "AuN": "gilberto castellani"
+                        },
+                        {
+                            "AuId": 2553909965,
+                            "AuN": "luca passalacqua"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-21878-1_51",
+                    "title": "applications of distributed and parallel computing in the solvency ii framework the disar system",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 658602829,
+                    "author": [
+                        {
+                            "AuId": 2289723179,
+                            "AuN": "john a d appleby"
+                        },
+                        {
+                            "AuId": 2689725323,
+                            "AuN": "david edelman"
+                        },
+                        {
+                            "AuId": 2108027260,
+                            "AuN": "john j h miller"
+                        }
+                    ],
+                    "doi": "10.1201/9781584889267",
+                    "title": "numerical methods for finance",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2116925137,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2485933760,
+                            "AuN": "p l de angelis"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2479691788,
+                            "AuN": "francesca perla"
+                        }
+                    ],
+                    "doi": "10.1007/S10287-009-0100-0",
+                    "journal": "computational management science",
+                    "title": "participating life insurance policies an accurate and efficient parallel software for cots clusters",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1977466773,
+                    "author": [
+                        {
+                            "AuId": 2044710089,
+                            "AuN": "hans buhlmann"
+                        }
+                    ],
+                    "doi": "10.2143/AST.32.2.1025",
+                    "journal": "astin bulletin",
+                    "title": "new math for life actuaries",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2005140680,
+                    "author": [
+                        {
+                            "AuId": 2303159210,
+                            "AuN": "emilio barone"
+                        },
+                        {
+                            "AuId": 2243775075,
+                            "AuN": "giovanni baroneadesi"
+                        },
+                        {
+                            "AuId": 2027527892,
+                            "AuN": "antonio castagna"
+                        }
+                    ],
+                    "doi": "10.1111/1468-036X.00065",
+                    "journal": "european financial management",
+                    "title": "pricing bonds and bond options with default risk",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2512098477,
+                    "author": [
+                        {
+                            "AuId": 1966223958,
+                            "AuN": "m de felice"
+                        },
+                        {
+                            "AuId": 2064167928,
+                            "AuN": "franco moriconi"
+                        }
+                    ],
+                    "title": "market consistent valuation in life insurance measuring fair value and embedded options",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2484372385,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2485933760,
+                            "AuN": "p l de angelis"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2479691788,
+                            "AuN": "francesca perla"
+                        }
+                    ],
+                    "doi": "10.1201/9781584889267-11",
+                    "title": "on high performance software development for the numerical simulation of life insurance policies",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1770619764,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2479691788,
+                            "AuN": "francesca perla"
+                        },
+                        {
+                            "AuId": 2028141982,
+                            "AuN": "paolo zanetti"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-21878-1_58",
+                    "title": "measuring default risk in a parallel alm software for life insurance portfolios",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2796133347,
+                    "author": [
+                        {
+                            "AuId": 2632432118,
+                            "AuN": "claudio pacati"
+                        }
+                    ],
+                    "title": "estimating the euro term structure of interest rates",
+                    "year_mag": 1999
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Felice",
+                            "given": "Massimo De",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Moriconi",
+                            "given": "Franco",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2143/AST.35.1.583167",
+                    "title": "market based tools for managing the life insurance company",
+                    "year_oc": 2005
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1007/978-1-4614-3773-4_11",
+            "title": "financial evaluation of life insurance policies in high performance computing environments",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "1619-697X"
+            ],
+            "PId": 2116925137,
+            "cited": [
+                {
+                    "PId": 1602773783,
+                    "author": [
+                        {
+                            "AuId": 13811602,
+                            "AuN": "paul glasserman"
+                        }
+                    ],
+                    "title": "monte carlo methods in financial engineering",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2077791698,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        },
+                        {
+                            "AuId": 2640352042,
+                            "AuN": "myron s scholes"
+                        }
+                    ],
+                    "doi": "10.1086/260062",
+                    "journal": "journal of political economy",
+                    "title": "the pricing of options and corporate liabilities",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 3021444882,
+                    "author": [
+                        {
+                            "AuId": 2299606345,
+                            "AuN": "john c cox"
+                        },
+                        {
+                            "AuId": 2051703268,
+                            "AuN": "jonathan e ingersoll"
+                        },
+                        {
+                            "AuId": 2163419371,
+                            "AuN": "stephen a ross"
+                        }
+                    ],
+                    "doi": "10.2307/1911242",
+                    "journal": "econometrica",
+                    "title": "a theory of the term structure of interest rates",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 1963898916,
+                    "author": [
+                        {
+                            "AuId": 2050196784,
+                            "AuN": "pierre lecuyer"
+                        },
+                        {
+                            "AuId": 2121928764,
+                            "AuN": "richard simard"
+                        }
+                    ],
+                    "doi": "10.1145/1268776.1268777",
+                    "journal": "acm transactions on mathematical software",
+                    "title": "testu01 a c library for empirical testing of random number generators",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2254488552,
+                    "author": [
+                        {
+                            "AuId": 2100122523,
+                            "AuN": "aurelien alfonsi"
+                        }
+                    ],
+                    "doi": "10.1515/156939605777438569",
+                    "journal": "monte carlo methods and applications",
+                    "title": "on the discretization schemes for the cir and bessel squared processes",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 39759813,
+                    "author": [
+                        {
+                            "AuId": 93706476,
+                            "AuN": "russel e caflisch"
+                        },
+                        {
+                            "AuId": 2686206421,
+                            "AuN": "william j morokoff"
+                        },
+                        {
+                            "AuId": 2692150874,
+                            "AuN": "art owen"
+                        }
+                    ],
+                    "doi": "10.21314/JCF.1997.005",
+                    "journal": "journal of computational finance",
+                    "title": "valuation of mortgage backed securities using brownian bridges to reduce effective dimension",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2086611351,
+                    "author": [
+                        {
+                            "AuId": 2333008356,
+                            "AuN": "michael mascagni"
+                        },
+                        {
+                            "AuId": 2655151306,
+                            "AuN": "a srinivasan"
+                        }
+                    ],
+                    "doi": "10.1145/358407.358427",
+                    "journal": "acm transactions on mathematical software",
+                    "title": "algorithm 806 sprng a scalable library for pseudorandom number generation",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2095196343,
+                    "author": [
+                        {
+                            "AuId": 166847715,
+                            "AuN": "damiano brigo"
+                        },
+                        {
+                            "AuId": 2100122523,
+                            "AuN": "aurelien alfonsi"
+                        }
+                    ],
+                    "doi": "10.1007/S00780-004-0131-X",
+                    "journal": "finance and stochastics",
+                    "title": "credit default swap calibration and derivatives pricing with the ssrd stochastic intensity model",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2146261346,
+                    "author": [
+                        {
+                            "AuId": 2210898457,
+                            "AuN": "spassimir paskov"
+                        },
+                        {
+                            "AuId": 2334622869,
+                            "AuN": "joseph f traub"
+                        }
+                    ],
+                    "doi": "10.3905/JPM.1995.409541",
+                    "journal": "the journal of portfolio management",
+                    "title": "faster valuation of financial derivatives",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2122525602,
+                    "author": [
+                        {
+                            "AuId": 2118433018,
+                            "AuN": "massimo de felice"
+                        },
+                        {
+                            "AuId": 2064167928,
+                            "AuN": "franco moriconi"
+                        }
+                    ],
+                    "doi": "10.1017/S0515036100014070",
+                    "journal": "astin bulletin",
+                    "title": "market based tools for managing the life insurance company",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2147317602,
+                    "author": [
+                        {
+                            "AuId": 2136191845,
+                            "AuN": "richard p brent"
+                        }
+                    ],
+                    "doi": "10.2307/2153583",
+                    "journal": "mathematics of computation",
+                    "title": "on the periods of generalized fibonacci recurrences",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 82046789,
+                    "author": [
+                        {
+                            "AuId": 2430011145,
+                            "AuN": "gilberto castellani"
+                        },
+                        {
+                            "AuId": 2118433018,
+                            "AuN": "massimo de felice"
+                        },
+                        {
+                            "AuId": 2064167928,
+                            "AuN": "franco moriconi"
+                        },
+                        {
+                            "AuId": 2632432118,
+                            "AuN": "claudio pacati"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2761395",
+                    "title": "embedded value in life insurance",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1987218397,
+                    "author": [
+                        {
+                            "AuId": 2333008356,
+                            "AuN": "michael mascagni"
+                        },
+                        {
+                            "AuId": 2538502650,
+                            "AuN": "steven a cuccaro"
+                        },
+                        {
+                            "AuId": 2136054354,
+                            "AuN": "daniel v pryor"
+                        },
+                        {
+                            "AuId": 2310751894,
+                            "AuN": "m l robinson"
+                        }
+                    ],
+                    "doi": "10.1006/JCPH.1995.1130",
+                    "journal": "journal of computational physics",
+                    "title": "a fast high quality and reproducible parallel lagged fibonacci pseudorandom number generator",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 658602829,
+                    "author": [
+                        {
+                            "AuId": 2289723179,
+                            "AuN": "john a d appleby"
+                        },
+                        {
+                            "AuId": 2689725323,
+                            "AuN": "david edelman"
+                        },
+                        {
+                            "AuId": 2108027260,
+                            "AuN": "john j h miller"
+                        }
+                    ],
+                    "doi": "10.1201/9781584889267",
+                    "title": "numerical methods for finance",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2484372385,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2485933760,
+                            "AuN": "p l de angelis"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2479691788,
+                            "AuN": "francesca perla"
+                        }
+                    ],
+                    "doi": "10.1201/9781584889267-11",
+                    "title": "on high performance software development for the numerical simulation of life insurance policies",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2779156868,
+                    "author": [
+                        {
+                            "AuId": 2632432118,
+                            "AuN": "claudio pacati"
+                        }
+                    ],
+                    "title": "valutazione di portafogli di polizze vita con rivalutazione agli ennesimi",
+                    "year_mag": 2000
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Brent",
+                            "given": "Richard P.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1090/S0025-5718-1994-1216256-7",
+                    "title": "on the periods of generalized fibonacci recurrences",
+                    "year_oc": 1994
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Felice",
+                            "given": "Massimo De",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Moriconi",
+                            "given": "Franco",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2143/AST.35.1.583167",
+                    "title": "market based tools for managing the life insurance company",
+                    "year_oc": 2005
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 1789294684,
+                    "author": [
+                        {
+                            "AuId": 2430011145,
+                            "AuN": "gilberto castellani"
+                        },
+                        {
+                            "AuId": 2553909965,
+                            "AuN": "luca passalacqua"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-21878-1_51",
+                    "title": "applications of distributed and parallel computing in the solvency ii framework the disar system",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1770619764,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2479691788,
+                            "AuN": "francesca perla"
+                        },
+                        {
+                            "AuId": 2028141982,
+                            "AuN": "paolo zanetti"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-21878-1_58",
+                    "title": "measuring default risk in a parallel alm software for life insurance portfolios",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 30931320,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2324826355,
+                            "AuN": "pasquale luigi de angelis"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2028141982,
+                            "AuN": "paolo zanetti"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4614-3773-4_11",
+                    "title": "financial evaluation of life insurance policies in high performance computingenvironments",
+                    "year_mag": 2012
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1007/S10287-009-0100-0",
+            "journal": "COMPUTATIONAL MANAGEMENT SCIENCE",
+            "title": "participating life insurance policies an accurate and efficient parallel software for cots clusters",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-3-642-21877-4"
+            ],
+            "PId": 1709409702,
+            "cited": [
+                {
+                    "PId": 2115755118,
+                    "author": [
+                        {
+                            "AuId": 1983981876,
+                            "AuN": "stephane mallat"
+                        }
+                    ],
+                    "title": "a wavelet tour of signal processing",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2062024414,
+                    "author": [
+                        {
+                            "AuId": 2009916527,
+                            "AuN": "ingrid daubechies"
+                        }
+                    ],
+                    "title": "ten lectures on wavelets",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 18046889,
+                    "author": [
+                        {
+                            "AuId": 2578523982,
+                            "AuN": "stphane mallat"
+                        }
+                    ],
+                    "title": "a wavelet tour of signal processing third edition the sparse way",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 600139552,
+                    "author": [
+                        {
+                            "AuId": 2638297828,
+                            "AuN": "ayala cohen"
+                        },
+                        {
+                            "AuId": 2799420406,
+                            "AuN": "albert cohen"
+                        }
+                    ],
+                    "title": "numerical analysis of wavelet methods",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2154590891,
+                    "author": [
+                        {
+                            "AuId": 3022172188,
+                            "AuN": "youcef saad"
+                        }
+                    ],
+                    "title": "sparskit a basic tool kit for sparse matrix computations",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2161907987,
+                    "author": [
+                        {
+                            "AuId": 2132921445,
+                            "AuN": "joaquin franco"
+                        },
+                        {
+                            "AuId": 2164303472,
+                            "AuN": "gregorio bernabe"
+                        },
+                        {
+                            "AuId": 2422619225,
+                            "AuN": "j a fernandez"
+                        },
+                        {
+                            "AuId": 1986326017,
+                            "AuN": "manuel e acacio"
+                        }
+                    ],
+                    "doi": "10.1109/PDP.2009.40",
+                    "title": "a parallel implementation of the 2d wavelet transform using cuda",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2914876264,
+                    "author": [
+                        {
+                            "AuId": 2433056920,
+                            "AuN": "a e fincham"
+                        },
+                        {
+                            "AuId": 2912632349,
+                            "AuN": "b ford"
+                        }
+                    ],
+                    "title": "parallel computation",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1983468706,
+                    "author": [
+                        {
+                            "AuId": 2061287580,
+                            "AuN": "gianluca fusai"
+                        },
+                        {
+                            "AuId": 140423706,
+                            "AuN": "daniele marazzina"
+                        },
+                        {
+                            "AuId": 1956769179,
+                            "AuN": "marina marena"
+                        }
+                    ],
+                    "doi": "10.1137/09076115X",
+                    "journal": "siam journal on financial mathematics",
+                    "title": "pricing discretely monitored asian options by maturity randomization",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2076994700,
+                    "author": [
+                        {
+                            "AuId": 2061287580,
+                            "AuN": "gianluca fusai"
+                        },
+                        {
+                            "AuId": 140423706,
+                            "AuN": "daniele marazzina"
+                        },
+                        {
+                            "AuId": 1956769179,
+                            "AuN": "marina marena"
+                        }
+                    ],
+                    "doi": "10.1016/J.PARCO.2010.03.002",
+                    "title": "option pricing maturity randomization and distributed computing",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1613616841,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2097172280,
+                            "AuN": "luisa damore"
+                        },
+                        {
+                            "AuId": 50334193,
+                            "AuN": "a murli"
+                        }
+                    ],
+                    "doi": "10.1007/3-540-49164-3_34",
+                    "title": "on the parallel implementation of the fast wavelet packet transform on mimd distributed memory environments",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2030716156,
+                    "author": [
+                        {
+                            "AuId": 2130841280,
+                            "AuN": "lothar reichel"
+                        }
+                    ],
+                    "doi": "10.1007/BF01386439",
+                    "journal": "numerische mathematik",
+                    "title": "fast solution methods for fredholm integral equations of the second kind",
+                    "year_mag": 1990
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2060989478,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 140423706,
+                            "AuN": "daniele marazzina"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        }
+                    ],
+                    "doi": "10.1080/14697688.2014.935465",
+                    "journal": "quantitative finance",
+                    "title": "a parallel wavelet based pricing procedure for asian options",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "4"
+            },
+            "doi": "10.1007/978-3-642-21878-1_55",
+            "title": "wavelet techniques for option pricing on advanced architectures",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-3-642-21877-4"
+            ],
+            "PId": 1770619764,
+            "cited": [
+                {
+                    "PId": 2011886674,
+                    "author": [
+                        {
+                            "AuId": 2210449200,
+                            "AuN": "darrell duffie"
+                        },
+                        {
+                            "AuId": 669620310,
+                            "AuN": "kenneth j singleton"
+                        }
+                    ],
+                    "doi": "10.1093/RFS/12.4.687",
+                    "journal": "review of financial studies",
+                    "title": "modeling term structures of defaultable bonds",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2082317778,
+                    "author": [
+                        {
+                            "AuId": 270822780,
+                            "AuN": "robert a jarrow"
+                        },
+                        {
+                            "AuId": 2099061321,
+                            "AuN": "stuart m turnbull"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1995.TB05167.X",
+                    "journal": "journal of finance",
+                    "title": "pricing derivatives on financial securities subject to credit risk",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2084716442,
+                    "author": [
+                        {
+                            "AuId": 2036592102,
+                            "AuN": "david lando"
+                        }
+                    ],
+                    "doi": "10.1007/BF01531332",
+                    "journal": "review of derivatives research",
+                    "title": "on cox processes and credit risky securities",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1578103278,
+                    "author": [
+                        {
+                            "AuId": 2723306126,
+                            "AuN": "philipp j schonbucher"
+                        }
+                    ],
+                    "title": "credit derivatives pricing models models pricing and implementation",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2058921293,
+                    "author": [
+                        {
+                            "AuId": 2987509240,
+                            "AuN": "stephen j brown"
+                        },
+                        {
+                            "AuId": 288876901,
+                            "AuN": "philip h dybvig"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1986.TB04523.X",
+                    "journal": "journal of finance",
+                    "title": "the empirical implications of the cox ingersoll ross theory of the term structure of interest rates",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2122525602,
+                    "author": [
+                        {
+                            "AuId": 2118433018,
+                            "AuN": "massimo de felice"
+                        },
+                        {
+                            "AuId": 2064167928,
+                            "AuN": "franco moriconi"
+                        }
+                    ],
+                    "doi": "10.1017/S0515036100014070",
+                    "journal": "astin bulletin",
+                    "title": "market based tools for managing the life insurance company",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 82046789,
+                    "author": [
+                        {
+                            "AuId": 2430011145,
+                            "AuN": "gilberto castellani"
+                        },
+                        {
+                            "AuId": 2118433018,
+                            "AuN": "massimo de felice"
+                        },
+                        {
+                            "AuId": 2064167928,
+                            "AuN": "franco moriconi"
+                        },
+                        {
+                            "AuId": 2632432118,
+                            "AuN": "claudio pacati"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2761395",
+                    "title": "embedded value in life insurance",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1789294684,
+                    "author": [
+                        {
+                            "AuId": 2430011145,
+                            "AuN": "gilberto castellani"
+                        },
+                        {
+                            "AuId": 2553909965,
+                            "AuN": "luca passalacqua"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-21878-1_51",
+                    "title": "applications of distributed and parallel computing in the solvency ii framework the disar system",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2116925137,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2485933760,
+                            "AuN": "p l de angelis"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2479691788,
+                            "AuN": "francesca perla"
+                        }
+                    ],
+                    "doi": "10.1007/S10287-009-0100-0",
+                    "journal": "computational management science",
+                    "title": "participating life insurance policies an accurate and efficient parallel software for cots clusters",
+                    "year_mag": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Felice",
+                            "given": "Massimo De",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Moriconi",
+                            "given": "Franco",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2143/AST.35.1.583167",
+                    "title": "market based tools for managing the life insurance company",
+                    "year_oc": 2005
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 1804720583,
+                    "author": [
+                        {
+                            "AuId": 2416354051,
+                            "AuN": "giuseppe casarano"
+                        },
+                        {
+                            "AuId": 2430011145,
+                            "AuN": "gilberto castellani"
+                        },
+                        {
+                            "AuId": 2553909965,
+                            "AuN": "luca passalacqua"
+                        },
+                        {
+                            "AuId": 2479691788,
+                            "AuN": "francesca perla"
+                        },
+                        {
+                            "AuId": 2028141982,
+                            "AuN": "paolo zanetti"
+                        }
+                    ],
+                    "doi": "10.1007/S00500-015-1847-6",
+                    "title": "relevant applications of monte carlo simulation in solvency ii",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 30931320,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2324826355,
+                            "AuN": "pasquale luigi de angelis"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2028141982,
+                            "AuN": "paolo zanetti"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4614-3773-4_11",
+                    "title": "financial evaluation of life insurance policies in high performance computingenvironments",
+                    "year_mag": 2012
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.1007/978-3-642-21878-1_58",
+            "title": "measuring default risk in a parallel alm software for life insurance portfolios",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "0167-8191"
+            ],
+            "PId": 2003689240,
+            "cited": [
+                {
+                    "PId": 1602773783,
+                    "author": [
+                        {
+                            "AuId": 13811602,
+                            "AuN": "paul glasserman"
+                        }
+                    ],
+                    "title": "monte carlo methods in financial engineering",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1575104486,
+                    "author": [
+                        {
+                            "AuId": 129948039,
+                            "AuN": "peter e kloeden"
+                        },
+                        {
+                            "AuId": 2119609511,
+                            "AuN": "eckhard platen"
+                        }
+                    ],
+                    "title": "numerical solution of stochastic differential equations",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2077791698,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        },
+                        {
+                            "AuId": 2640352042,
+                            "AuN": "myron s scholes"
+                        }
+                    ],
+                    "doi": "10.1086/260062",
+                    "journal": "journal of political economy",
+                    "title": "the pricing of options and corporate liabilities",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 3021444882,
+                    "author": [
+                        {
+                            "AuId": 2299606345,
+                            "AuN": "john c cox"
+                        },
+                        {
+                            "AuId": 2051703268,
+                            "AuN": "jonathan e ingersoll"
+                        },
+                        {
+                            "AuId": 2163419371,
+                            "AuN": "stephen a ross"
+                        }
+                    ],
+                    "doi": "10.2307/1911242",
+                    "journal": "econometrica",
+                    "title": "a theory of the term structure of interest rates",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 1963898916,
+                    "author": [
+                        {
+                            "AuId": 2050196784,
+                            "AuN": "pierre lecuyer"
+                        },
+                        {
+                            "AuId": 2121928764,
+                            "AuN": "richard simard"
+                        }
+                    ],
+                    "doi": "10.1145/1268776.1268777",
+                    "journal": "acm transactions on mathematical software",
+                    "title": "testu01 a c library for empirical testing of random number generators",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1575658391,
+                    "author": [
+                        {
+                            "AuId": 166847715,
+                            "AuN": "damiano brigo"
+                        },
+                        {
+                            "AuId": 2031632740,
+                            "AuN": "fabio mercurio"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-662-04553-4",
+                    "title": "interest rate models theory and practice",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 39759813,
+                    "author": [
+                        {
+                            "AuId": 93706476,
+                            "AuN": "russel e caflisch"
+                        },
+                        {
+                            "AuId": 2686206421,
+                            "AuN": "william j morokoff"
+                        },
+                        {
+                            "AuId": 2692150874,
+                            "AuN": "art owen"
+                        }
+                    ],
+                    "doi": "10.21314/JCF.1997.005",
+                    "journal": "journal of computational finance",
+                    "title": "valuation of mortgage backed securities using brownian bridges to reduce effective dimension",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2096879147,
+                    "author": [
+                        {
+                            "AuId": 1457411550,
+                            "AuN": "anders grosen"
+                        },
+                        {
+                            "AuId": 2260465504,
+                            "AuN": "peter lochte jorgensen"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(99)00041-4",
+                    "journal": "insurance mathematics & economics",
+                    "title": "fair valuation of life insurance liabilities the impact of interest rate guarantees surrender options and bonus policies",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2338681524,
+                    "author": [
+                        {
+                            "AuId": 45852114,
+                            "AuN": "helyette geman"
+                        },
+                        {
+                            "AuId": 667485976,
+                            "AuN": "nicole el karoui"
+                        },
+                        {
+                            "AuId": 2201352716,
+                            "AuN": "jeancharles rochet"
+                        }
+                    ],
+                    "doi": "10.2307/3215299",
+                    "journal": "journal of applied probability",
+                    "title": "changes of numeraire changes of probability measure and option pricing",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2119299497,
+                    "author": [
+                        {
+                            "AuId": 2674134956,
+                            "AuN": "farshid jamshidian"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.1989.TB02413.X",
+                    "journal": "journal of finance",
+                    "title": "an exact bond option formula",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2086611351,
+                    "author": [
+                        {
+                            "AuId": 2333008356,
+                            "AuN": "michael mascagni"
+                        },
+                        {
+                            "AuId": 2655151306,
+                            "AuN": "a srinivasan"
+                        }
+                    ],
+                    "doi": "10.1145/358407.358427",
+                    "journal": "acm transactions on mathematical software",
+                    "title": "algorithm 806 sprng a scalable library for pseudorandom number generation",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1996644561,
+                    "author": [
+                        {
+                            "AuId": 211935706,
+                            "AuN": "laura ballotta"
+                        },
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2005.10.002",
+                    "journal": "insurance mathematics & economics",
+                    "title": "the fair valuation problem of guaranteed annuity options the stochastic mortality environment case",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1994956456,
+                    "author": [
+                        {
+                            "AuId": 1865393116,
+                            "AuN": "anna rita bacinello"
+                        }
+                    ],
+                    "doi": "10.1111/1539-6975.T01-1-00060",
+                    "journal": "journal of risk and insurance",
+                    "title": "fair valuation of a guaranteed life insurance participating contract embedding a surrender option",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2165254608,
+                    "author": [
+                        {
+                            "AuId": 2050196784,
+                            "AuN": "pierre lecuyer"
+                        }
+                    ],
+                    "doi": "10.1007/S00780-009-0095-Y",
+                    "journal": "finance and stochastics",
+                    "title": "quasi monte carlo methods with applications in finance",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2104480405,
+                    "author": [
+                        {
+                            "AuId": 2655151306,
+                            "AuN": "a srinivasan"
+                        },
+                        {
+                            "AuId": 2333008356,
+                            "AuN": "michael mascagni"
+                        },
+                        {
+                            "AuId": 1806403957,
+                            "AuN": "david m ceperley"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-8191(02)00163-1",
+                    "title": "testing parallel random number generators",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2138656978,
+                    "author": [
+                        {
+                            "AuId": 2693104469,
+                            "AuN": "bjarke jensen"
+                        },
+                        {
+                            "AuId": 2260465504,
+                            "AuN": "peter lochte jorgensen"
+                        },
+                        {
+                            "AuId": 1457411550,
+                            "AuN": "anders grosen"
+                        }
+                    ],
+                    "doi": "10.1023/A:1011264408187",
+                    "journal": "geneva risk and insurance review",
+                    "title": "a finite difference approach to the valuation of path dependent life insurance liabilities",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2122525602,
+                    "author": [
+                        {
+                            "AuId": 2118433018,
+                            "AuN": "massimo de felice"
+                        },
+                        {
+                            "AuId": 2064167928,
+                            "AuN": "franco moriconi"
+                        }
+                    ],
+                    "doi": "10.1017/S0515036100014070",
+                    "journal": "astin bulletin",
+                    "title": "market based tools for managing the life insurance company",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2147317602,
+                    "author": [
+                        {
+                            "AuId": 2136191845,
+                            "AuN": "richard p brent"
+                        }
+                    ],
+                    "doi": "10.2307/2153583",
+                    "journal": "mathematics of computation",
+                    "title": "on the periods of generalized fibonacci recurrences",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 82046789,
+                    "author": [
+                        {
+                            "AuId": 2430011145,
+                            "AuN": "gilberto castellani"
+                        },
+                        {
+                            "AuId": 2118433018,
+                            "AuN": "massimo de felice"
+                        },
+                        {
+                            "AuId": 2064167928,
+                            "AuN": "franco moriconi"
+                        },
+                        {
+                            "AuId": 2632432118,
+                            "AuN": "claudio pacati"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2761395",
+                    "title": "embedded value in life insurance",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1987218397,
+                    "author": [
+                        {
+                            "AuId": 2333008356,
+                            "AuN": "michael mascagni"
+                        },
+                        {
+                            "AuId": 2538502650,
+                            "AuN": "steven a cuccaro"
+                        },
+                        {
+                            "AuId": 2136054354,
+                            "AuN": "daniel v pryor"
+                        },
+                        {
+                            "AuId": 2310751894,
+                            "AuN": "m l robinson"
+                        }
+                    ],
+                    "doi": "10.1006/JCPH.1995.1130",
+                    "journal": "journal of computational physics",
+                    "title": "a fast high quality and reproducible parallel lagged fibonacci pseudorandom number generator",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 658602829,
+                    "author": [
+                        {
+                            "AuId": 2289723179,
+                            "AuN": "john a d appleby"
+                        },
+                        {
+                            "AuId": 2689725323,
+                            "AuN": "david edelman"
+                        },
+                        {
+                            "AuId": 2108027260,
+                            "AuN": "john j h miller"
+                        }
+                    ],
+                    "doi": "10.1201/9781584889267",
+                    "title": "numerical methods for finance",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2096360854,
+                    "author": [
+                        {
+                            "AuId": 2542342333,
+                            "AuN": "gong chen"
+                        },
+                        {
+                            "AuId": 373078722,
+                            "AuN": "parimala thulasiraman"
+                        },
+                        {
+                            "AuId": 2645364672,
+                            "AuN": "r k thulasiram"
+                        }
+                    ],
+                    "doi": "10.1109/ANSS.2006.20",
+                    "title": "distributed quasi monte carlo algorithm for option pricing on hnows using mpc",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2512098477,
+                    "author": [
+                        {
+                            "AuId": 1966223958,
+                            "AuN": "m de felice"
+                        },
+                        {
+                            "AuId": 2064167928,
+                            "AuN": "franco moriconi"
+                        }
+                    ],
+                    "title": "market consistent valuation in life insurance measuring fair value and embedded options",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2484372385,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2485933760,
+                            "AuN": "p l de angelis"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2479691788,
+                            "AuN": "francesca perla"
+                        }
+                    ],
+                    "doi": "10.1201/9781584889267-11",
+                    "title": "on high performance software development for the numerical simulation of life insurance policies",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2150157116,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2485933760,
+                            "AuN": "p l de angelis"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2479691788,
+                            "AuN": "francesca perla"
+                        },
+                        {
+                            "AuId": 2028141982,
+                            "AuN": "paolo zanetti"
+                        }
+                    ],
+                    "doi": "10.1109/IPDPS.2008.4536460",
+                    "title": "financial evaluation of participating life insurance policies in distributed environments",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1531411848,
+                    "author": [
+                        {
+                            "AuId": 2725110253,
+                            "AuN": "alberto de stefani"
+                        }
+                    ],
+                    "doi": "10.2307/40070655",
+                    "title": "manuale di finanza",
+                    "year_mag": 1932
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 1709768198,
+                    "author": [
+                        {
+                            "AuId": 301883288,
+                            "AuN": "christophe guyeux"
+                        },
+                        {
+                            "AuId": 2112899011,
+                            "AuN": "qianxue wang"
+                        },
+                        {
+                            "AuId": 676792750,
+                            "AuN": "jacques m bahi"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-16515-3_26",
+                    "title": "a pseudo random numbers generator based on chaotic iterations application to watermarking",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2385156687,
+                    "author": [
+                        {
+                            "AuId": 2067305504,
+                            "AuN": "rene doff"
+                        }
+                    ],
+                    "doi": "10.1057/GPP.2016.4",
+                    "title": "the final solvency ii framework will it be effective",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2950354999,
+                    "author": [
+                        {
+                            "AuId": 2274074757,
+                            "AuN": "mark tucker"
+                        },
+                        {
+                            "AuId": 2294282341,
+                            "AuN": "j mark bull"
+                        }
+                    ],
+                    "title": "an efficient algorithm for the calculation of reserves for non unit linked life policies",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1744574108,
+                    "author": [
+                        {
+                            "AuId": 2274074757,
+                            "AuN": "mark tucker"
+                        },
+                        {
+                            "AuId": 2294282341,
+                            "AuN": "j mark bull"
+                        }
+                    ],
+                    "doi": "10.3233/AF-140036",
+                    "title": "an efficient algorithm for the calculation of reserves for non unit linked life policies",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2510794222,
+                    "author": [
+                        {
+                            "AuId": 2485933760,
+                            "AuN": "p l de angelis"
+                        },
+                        {
+                            "AuId": 2479691788,
+                            "AuN": "francesca perla"
+                        },
+                        {
+                            "AuId": 2028141982,
+                            "AuN": "paolo zanetti"
+                        }
+                    ],
+                    "doi": "10.12988/AMS.2013.37357",
+                    "title": "hybrid mpi openmp application on multicore architectures the case of profit sharing life insurance policies valuation",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2994747483,
+                    "author": [
+                        {
+                            "AuId": 2285884276,
+                            "AuN": "ana m ferreiroferreiro"
+                        },
+                        {
+                            "AuId": 2112091713,
+                            "AuN": "jose a garciarodriguez"
+                        },
+                        {
+                            "AuId": 2928879916,
+                            "AuN": "luis a souto"
+                        },
+                        {
+                            "AuId": 2375984487,
+                            "AuN": "carlos vazquez"
+                        }
+                    ],
+                    "doi": "10.1007/S12599-019-00626-Y",
+                    "title": "efficient model points selection in insurance by parallel global optimization using multi cpu and multi gpu",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2132174442,
+                    "author": [
+                        {
+                            "AuId": 2479691788,
+                            "AuN": "francesca perla"
+                        },
+                        {
+                            "AuId": 2028141982,
+                            "AuN": "paolo zanetti"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-642-30961-8_19",
+                    "title": "performance analysis of an hybrid mpi openmp alm software for life insurance policies on multi core architectures",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 30931320,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2324826355,
+                            "AuN": "pasquale luigi de angelis"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2028141982,
+                            "AuN": "paolo zanetti"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4614-3773-4_11",
+                    "title": "financial evaluation of life insurance policies in high performance computingenvironments",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2186318970,
+                    "author": [
+                        {
+                            "AuId": 2045387102,
+                            "AuN": "shoja rezaei"
+                        },
+                        {
+                            "AuId": 2310397340,
+                            "AuN": "kianoush nazari ameleh"
+                        },
+                        {
+                            "AuId": 2184808317,
+                            "AuN": "karim ghalmegh"
+                        },
+                        {
+                            "AuId": 2119679662,
+                            "AuN": "ali ramezanzadeh"
+                        }
+                    ],
+                    "title": "management of balance sheet bank using goal programming model gp and fuzzy analytic hierarchy process fahp",
+                    "year_mag": 2013
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1016/J.PARCO.2009.10.002",
+            "journal": "PARALLEL COMPUTING",
+            "title": "on parallel asset liability management in life insurance a forward risk neutral approach",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "0390-5780"
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "journal": "GIORNALE DELL'ISTITUTO ITALIANO DEGLI ATTUARI",
+            "title": "computational issues in internal models the case of profit sharing life insurance policies",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "1971-8829"
+            ],
+            "PId": 1601513011,
+            "cited": [
+                {
+                    "PId": 2296157284,
+                    "author": [
+                        {
+                            "AuId": 2302699734,
+                            "AuN": "ramanathan v guha"
+                        },
+                        {
+                            "AuId": 2147398078,
+                            "AuN": "rob mccool"
+                        },
+                        {
+                            "AuId": 2119852772,
+                            "AuN": "eric j miller"
+                        }
+                    ],
+                    "doi": "10.1145/775152.775250",
+                    "title": "semantic search",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1528546716,
+                    "author": [
+                        {
+                            "AuId": 2225191751,
+                            "AuN": "colin mccormack"
+                        },
+                        {
+                            "AuId": 2151075774,
+                            "AuN": "david jones"
+                        }
+                    ],
+                    "title": "building a web based education system",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2156928189,
+                    "author": [
+                        {
+                            "AuId": 2164586300,
+                            "AuN": "alpha c chiang"
+                        }
+                    ],
+                    "title": "fundamental methods of mathematical economics",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 2011036166,
+                    "author": [
+                        {
+                            "AuId": 271170014,
+                            "AuN": "elias n houstis"
+                        },
+                        {
+                            "AuId": 2119205101,
+                            "AuN": "john r rice"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-4754(00)00187-7",
+                    "journal": "mathematics and computers in simulation",
+                    "title": "future problem solving environments for computational science",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2108224277,
+                    "author": [
+                        {
+                            "AuId": 2973662574,
+                            "AuN": "t l marchioro"
+                        },
+                        {
+                            "AuId": 1741920720,
+                            "AuN": "rubin h landau"
+                        }
+                    ],
+                    "doi": "10.1109/99.609828",
+                    "title": "web based education in computational science and engineering",
+                    "year_mag": 1997
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2173024197,
+                    "author": [
+                        {
+                            "AuId": 2180909666,
+                            "AuN": "nadia yusuf"
+                        },
+                        {
+                            "AuId": 2173209815,
+                            "AuN": "nisreen ismail albanawi"
+                        }
+                    ],
+                    "doi": "10.19030/CIER.V6I2.7726",
+                    "journal": "contemporary issues in education research",
+                    "title": "the impact of changing technology the case of e learning",
+                    "year_mag": 2013
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "8"
+            },
+            "doi": "10.20368/1971-8829/309",
+            "journal": "JOURNAL OF E-LEARNING AND KNOWLEDGE SOCIETY",
+            "title": "kremm an e learning system for mathematical models applied to economics and finance je lks",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISSN": [
+                "1827-9015"
+            ],
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "doi": "10.1658/CSC06057",
+            "journal": "COMMUNICATIONS TO SIMAI CONGRESS",
+            "title": "on software development for financial evaluation of partecipating life insurance policies",
+            "type": "articolo in rivista",
+            "year": 2007
+        },
+        {
+            "ISSN": [
+                "0098-3500"
+            ],
+            "PId": 2040883793,
+            "cited": [
+                {
+                    "PId": 2136434791,
+                    "author": [
+                        {
+                            "AuId": 2176533867,
+                            "AuN": "sameer shende"
+                        },
+                        {
+                            "AuId": 2079969273,
+                            "AuN": "allen d malony"
+                        }
+                    ],
+                    "doi": "10.1177/1094342006064482",
+                    "title": "the tau parallel performance system",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1522241184,
+                    "author": [
+                        {
+                            "AuId": 2050181759,
+                            "AuN": "georg hager"
+                        },
+                        {
+                            "AuId": 138958233,
+                            "AuN": "gerhard wellein"
+                        }
+                    ],
+                    "title": "introduction to high performance computing for scientists and engineers",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1994338028,
+                    "author": [
+                        {
+                            "AuId": 738160708,
+                            "AuN": "j a c weideman"
+                        },
+                        {
+                            "AuId": 111035548,
+                            "AuN": "lloyd n trefethen"
+                        }
+                    ],
+                    "doi": "10.1090/S0025-5718-07-01945-X",
+                    "journal": "mathematics of computation",
+                    "title": "parabolic and hyperbolic contours for computing the bromwich integral",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 196627109,
+                    "author": [
+                        {
+                            "AuId": 2287857437,
+                            "AuN": "alan m cohen"
+                        }
+                    ],
+                    "title": "numerical methods for laplace transform inversion",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 52863793,
+                    "author": [
+                        {
+                            "AuId": 2123005755,
+                            "AuN": "david padua"
+                        }
+                    ],
+                    "title": "encyclopedia of parallel computing",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1545134755,
+                    "author": [
+                        {
+                            "AuId": 2134404633,
+                            "AuN": "joel l schiff"
+                        }
+                    ],
+                    "title": "the laplace transform theory and applications",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 288065879,
+                    "author": [
+                        {
+                            "AuId": 2307470325,
+                            "AuN": "gianfranco bilardi"
+                        },
+                        {
+                            "AuId": 2098977696,
+                            "AuN": "geppino pucci"
+                        }
+                    ],
+                    "doi": "10.1007/978-0-387-09766-4",
+                    "title": "universality in vlsi computation",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 145372873,
+                    "author": [
+                        {
+                            "AuId": 2162626459,
+                            "AuN": "l ridgway scott"
+                        },
+                        {
+                            "AuId": 2950777598,
+                            "AuN": "terry w clark"
+                        },
+                        {
+                            "AuId": 2125704206,
+                            "AuN": "babak bagheri"
+                        }
+                    ],
+                    "title": "scientific parallel computing",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2009082387,
+                    "author": [
+                        {
+                            "AuId": 288512535,
+                            "AuN": "jack dongarra"
+                        },
+                        {
+                            "AuId": 2557746346,
+                            "AuN": "a j van der steen"
+                        }
+                    ],
+                    "doi": "10.1017/S0962492912000050",
+                    "journal": "acta numerica",
+                    "title": "high performance computing systems status and outlook",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2042084825,
+                    "author": [
+                        {
+                            "AuId": 2302570749,
+                            "AuN": "kristopher l kuhlman"
+                        }
+                    ],
+                    "doi": "10.1007/S11075-012-9625-3",
+                    "journal": "numerical algorithms",
+                    "title": "review of inverse laplace transform algorithms for laplace space numerical approaches",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2123426570,
+                    "author": [
+                        {
+                            "AuId": 2090639494,
+                            "AuN": "dongwoo sheen"
+                        },
+                        {
+                            "AuId": 2133130973,
+                            "AuN": "ian h sloan"
+                        },
+                        {
+                            "AuId": 7228888,
+                            "AuN": "vidar thomee"
+                        }
+                    ],
+                    "doi": "10.1093/IMANUM/23.2.269",
+                    "journal": "ima journal of numerical analysis",
+                    "title": "a parallel method for time discretization of parabolic equations based on laplace transformation and quadrature",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2486175508,
+                    "author": [
+                        {
+                            "AuId": 2134404633,
+                            "AuN": "joel l schiff"
+                        }
+                    ],
+                    "doi": "10.1007/978-0-387-22757-3",
+                    "title": "the laplace transform",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 79353637,
+                    "author": [
+                        {
+                            "AuId": 2053339767,
+                            "AuN": "w kahan"
+                        }
+                    ],
+                    "title": "lecture notes on the status of ieee standard 754 for binary floating point arithmetic",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2037007846,
+                    "author": [
+                        {
+                            "AuId": 738160708,
+                            "AuN": "j a c weideman"
+                        }
+                    ],
+                    "doi": "10.1137/050625837",
+                    "journal": "siam journal on numerical analysis",
+                    "title": "optimizing talbot s contours for the inversion of the laplace transform",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2135094424,
+                    "author": [
+                        {
+                            "AuId": 2574734857,
+                            "AuN": "a talbot"
+                        }
+                    ],
+                    "doi": "10.1093/IMAMAT/23.1.97",
+                    "journal": "ima journal of applied mathematics",
+                    "title": "the accurate numerical inversion of laplace transforms",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 2023558112,
+                    "author": [
+                        {
+                            "AuId": 2963693082,
+                            "AuN": "f r de hoog"
+                        },
+                        {
+                            "AuId": 2105219545,
+                            "AuN": "j h knight"
+                        },
+                        {
+                            "AuId": 2670567035,
+                            "AuN": "a n stokes"
+                        }
+                    ],
+                    "doi": "10.1137/0903022",
+                    "journal": "siam journal on scientific and statistical computing",
+                    "title": "an improved method for numerical inversion of laplace transforms",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 2092709797,
+                    "author": [
+                        {
+                            "AuId": 2974518566,
+                            "AuN": "a murli"
+                        },
+                        {
+                            "AuId": 2974200581,
+                            "AuN": "m rizzardi"
+                        }
+                    ],
+                    "doi": "10.1145/78928.78932",
+                    "journal": "acm transactions on mathematical software",
+                    "title": "algorithm 682 talbot s method of the laplace inversion problems",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 1968614732,
+                    "author": [
+                        {
+                            "AuId": 2986954270,
+                            "AuN": "dean g duffy"
+                        }
+                    ],
+                    "doi": "10.1145/155743.155788",
+                    "journal": "acm transactions on mathematical software",
+                    "title": "on the numerical inversion of laplace transforms comparison of three new methods on characteristic problems from applications",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2055776262,
+                    "author": [
+                        {
+                            "AuId": 2974478892,
+                            "AuN": "mariarosaria rizzardi"
+                        }
+                    ],
+                    "doi": "10.1145/212066.212068",
+                    "journal": "acm transactions on mathematical software",
+                    "title": "a modification of talbot s method for the simultaneous approximation of several values of the inverse laplace transform",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2015801234,
+                    "author": [
+                        {
+                            "AuId": 2701772596,
+                            "AuN": "jinwoo lee"
+                        },
+                        {
+                            "AuId": 2090639494,
+                            "AuN": "dongwoo sheen"
+                        }
+                    ],
+                    "doi": "10.1137/050624649",
+                    "journal": "siam journal on numerical analysis",
+                    "title": "a parallel method for backward parabolic problems based on the laplace transformation",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1987922979,
+                    "author": [
+                        {
+                            "AuId": 2517085979,
+                            "AuN": "patrick o kano"
+                        },
+                        {
+                            "AuId": 2130825072,
+                            "AuN": "moysey brio"
+                        },
+                        {
+                            "AuId": 2098418790,
+                            "AuN": "p dostert"
+                        },
+                        {
+                            "AuId": 2408817673,
+                            "AuN": "jon cain"
+                        }
+                    ],
+                    "doi": "10.1016/J.CAMWA.2012.03.041",
+                    "journal": "computers & mathematics with applications",
+                    "title": "dempster shafer evidential theory for the automated selection of parameters for talbot s method contours and application to matrix exponentiation",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1973043606,
+                    "author": [
+                        {
+                            "AuId": 2251552778,
+                            "AuN": "p a fox"
+                        },
+                        {
+                            "AuId": 2973791015,
+                            "AuN": "a d hall"
+                        },
+                        {
+                            "AuId": 2229011447,
+                            "AuN": "norman loren schryer"
+                        }
+                    ],
+                    "doi": "10.1145/355780.355789",
+                    "journal": "acm transactions on mathematical software",
+                    "title": "algorithm 528 framework for a portable library z",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 2091227064,
+                    "author": [
+                        {
+                            "AuId": 2687615457,
+                            "AuN": "william t weeks"
+                        }
+                    ],
+                    "doi": "10.1145/321341.321351",
+                    "journal": "journal of the acm",
+                    "title": "numerical inversion of laplace transforms using laguerre functions",
+                    "year_mag": 1966
+                },
+                {
+                    "PId": 2953133043,
+                    "author": [
+                        {
+                            "AuId": 2553954122,
+                            "AuN": "benedict dingfelder"
+                        },
+                        {
+                            "AuId": 738160708,
+                            "AuN": "j a c weideman"
+                        }
+                    ],
+                    "journal": "arxiv numerical analysis",
+                    "title": "an improved talbot method for numerical laplace transform inversion",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2036828525,
+                    "author": [
+                        {
+                            "AuId": 2144317689,
+                            "AuN": "xiaoyong zhan"
+                        }
+                    ],
+                    "doi": "10.1016/J.ENVSOFT.2004.05.006",
+                    "journal": "environmental modelling and software",
+                    "title": "parallel fortran mpi software for numerical inversion of the laplace transform and its application to oscillatory water levels in groundwater environments",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2018480569,
+                    "author": [
+                        {
+                            "AuId": 2608136916,
+                            "AuN": "m a de rosa"
+                        },
+                        {
+                            "AuId": 2130888725,
+                            "AuN": "giulio giunta"
+                        },
+                        {
+                            "AuId": 2484764275,
+                            "AuN": "m rizzardi"
+                        }
+                    ],
+                    "doi": "10.1016/0167-8191(94)00108-M",
+                    "title": "parallel talbot s algorithm for distributed memory machines",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 165195211,
+                    "author": [
+                        {
+                            "AuId": 2108258563,
+                            "AuN": "choihong lai"
+                        },
+                        {
+                            "AuId": 2291500108,
+                            "AuN": "diane crane"
+                        },
+                        {
+                            "AuId": 2303675500,
+                            "AuN": "alan davies"
+                        }
+                    ],
+                    "doi": "10.1007/978-3-540-34469-8_82",
+                    "title": "on a parallel time domain method for the nonlinear black scholes equation",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 614971731,
+                    "author": [
+                        {
+                            "AuId": 2100068749,
+                            "AuN": "jonathan aaron cain"
+                        }
+                    ],
+                    "title": "parallelization of the dempster shafer application to talbot s method for numerical inverse laplace transforms",
+                    "year_mag": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Bellman",
+                            "given": "R",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Roth",
+                            "given": "R",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1142/0107",
+                    "title": "the laplace transform",
+                    "year_oc": 1984
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2735173532,
+                    "author": [
+                        {
+                            "AuId": 2735864087,
+                            "AuN": "tongke wang"
+                        },
+                        {
+                            "AuId": 2734834506,
+                            "AuN": "yuesheng gu"
+                        },
+                        {
+                            "AuId": 2101189799,
+                            "AuN": "zhiyue zhang"
+                        }
+                    ],
+                    "doi": "10.1007/S11075-017-0369-Y",
+                    "journal": "numerical algorithms",
+                    "title": "an algorithm for the inversion of laplace transforms using puiseux expansions",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2746276801,
+                    "author": [
+                        {
+                            "AuId": 2974478892,
+                            "AuN": "mariarosaria rizzardi"
+                        }
+                    ],
+                    "doi": "10.1145/3089248",
+                    "journal": "numerical algorithms",
+                    "title": "algorithm 981 talbot suite de application of modified talbot s method to solve differential problems",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2"
+            },
+            "doi": "10.1145/2616909",
+            "journal": "ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE",
+            "title": "algorithm 944 talbot suite parallel implementations of talbot s method for the numerical inversion of laplace transforms",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-14244-1693-6"
+            ],
+            "ISSN": [
+                "1530-2075"
+            ],
+            "cv_id": {
+                "pubbs": "9"
+            },
+            "doi": "10.1109/IPDPS.2008.4536076",
+            "title": "financial evaluation of participating life insurance policies in distributed environments",
+            "type": "contributo in atti di convegno",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "9781584889250"
+            ],
+            "PId": 2484372385,
+            "cited": [
+                {
+                    "PId": 1575104486,
+                    "author": [
+                        {
+                            "AuId": 129948039,
+                            "AuN": "peter e kloeden"
+                        },
+                        {
+                            "AuId": 2119609511,
+                            "AuN": "eckhard platen"
+                        }
+                    ],
+                    "title": "numerical solution of stochastic differential equations",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2077791698,
+                    "author": [
+                        {
+                            "AuId": 2119427290,
+                            "AuN": "fischer black"
+                        },
+                        {
+                            "AuId": 2640352042,
+                            "AuN": "myron s scholes"
+                        }
+                    ],
+                    "doi": "10.1086/260062",
+                    "journal": "journal of political economy",
+                    "title": "the pricing of options and corporate liabilities",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2043419861,
+                    "author": [
+                        {
+                            "AuId": 323956792,
+                            "AuN": "harald niederreiter"
+                        }
+                    ],
+                    "title": "random number generation and quasi monte carlo methods",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 3021444882,
+                    "author": [
+                        {
+                            "AuId": 2299606345,
+                            "AuN": "john c cox"
+                        },
+                        {
+                            "AuId": 2051703268,
+                            "AuN": "jonathan e ingersoll"
+                        },
+                        {
+                            "AuId": 2163419371,
+                            "AuN": "stephen a ross"
+                        }
+                    ],
+                    "doi": "10.2307/1911242",
+                    "journal": "econometrica",
+                    "title": "a theory of the term structure of interest rates",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 1964916079,
+                    "author": [
+                        {
+                            "AuId": 2176334485,
+                            "AuN": "phelim p boyle"
+                        },
+                        {
+                            "AuId": 2017336594,
+                            "AuN": "mark broadie"
+                        },
+                        {
+                            "AuId": 13811602,
+                            "AuN": "paul glasserman"
+                        }
+                    ],
+                    "doi": "10.1016/S0165-1889(97)00028-6",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "monte carlo methods for security pricing",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 1981743146,
+                    "author": [
+                        {
+                            "AuId": 2133130973,
+                            "AuN": "ian h sloan"
+                        },
+                        {
+                            "AuId": 1355769651,
+                            "AuN": "henryk wo\u017aniakowski"
+                        }
+                    ],
+                    "doi": "10.1006/JCOM.1997.0463",
+                    "journal": "journal of complexity",
+                    "title": "when are quasi monte carlo algorithms efficient for high dimensional integrals",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2096879147,
+                    "author": [
+                        {
+                            "AuId": 1457411550,
+                            "AuN": "anders grosen"
+                        },
+                        {
+                            "AuId": 2260465504,
+                            "AuN": "peter lochte jorgensen"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(99)00041-4",
+                    "journal": "insurance mathematics & economics",
+                    "title": "fair valuation of life insurance liabilities the impact of interest rate guarantees surrender options and bonus policies",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2228579993,
+                    "author": [
+                        {
+                            "AuId": 2050196784,
+                            "AuN": "pierre lecuyer"
+                        },
+                        {
+                            "AuId": 2119781217,
+                            "AuN": "christiane lemieux"
+                        }
+                    ],
+                    "doi": "10.1007/0-306-48102-2_20",
+                    "title": "recent advances in randomized quasi monte carlo methods",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1996644561,
+                    "author": [
+                        {
+                            "AuId": 211935706,
+                            "AuN": "laura ballotta"
+                        },
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2005.10.002",
+                    "journal": "insurance mathematics & economics",
+                    "title": "the fair valuation problem of guaranteed annuity options the stochastic mortality environment case",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2146261346,
+                    "author": [
+                        {
+                            "AuId": 2210898457,
+                            "AuN": "spassimir paskov"
+                        },
+                        {
+                            "AuId": 2334622869,
+                            "AuN": "joseph f traub"
+                        }
+                    ],
+                    "doi": "10.3905/JPM.1995.409541",
+                    "journal": "the journal of portfolio management",
+                    "title": "faster valuation of financial derivatives",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1564001778,
+                    "author": [
+                        {
+                            "AuId": 2150423984,
+                            "AuN": "anargyros papageorgiou"
+                        },
+                        {
+                            "AuId": 2334622869,
+                            "AuN": "joseph f traub"
+                        }
+                    ],
+                    "doi": "10.1063/1.168616",
+                    "journal": "computers in physics",
+                    "title": "faster evaluation of multidimensional integrals",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2024427751,
+                    "author": [
+                        {
+                            "AuId": 2155746190,
+                            "AuN": "henri faure"
+                        }
+                    ],
+                    "doi": "10.1016/0022-314X(92)90107-Z",
+                    "journal": "journal of number theory",
+                    "title": "good permutations for extreme discrepancy",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2028047679,
+                    "author": [
+                        {
+                            "AuId": 2973933692,
+                            "AuN": "g n milshtein"
+                        }
+                    ],
+                    "doi": "10.1137/1123045",
+                    "journal": "theory of probability and its applications",
+                    "title": "a method of second order accuracy integration of stochastic differential equations",
+                    "year_mag": 1979
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 637625958,
+                    "author": [
+                        {
+                            "AuId": 2136070671,
+                            "AuN": "markus holtz"
+                        }
+                    ],
+                    "title": "sparse grid quadrature in high dimensions with applications in finance and insurance",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2003689240,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2485933760,
+                            "AuN": "p l de angelis"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2479691788,
+                            "AuN": "francesca perla"
+                        },
+                        {
+                            "AuId": 2028141982,
+                            "AuN": "paolo zanetti"
+                        }
+                    ],
+                    "doi": "10.1016/J.PARCO.2009.10.002",
+                    "title": "on parallel asset liability management in life insurance a forward risk neutral approach",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1992311243,
+                    "author": [
+                        {
+                            "AuId": 2073689794,
+                            "AuN": "thomas gerstner"
+                        },
+                        {
+                            "AuId": 2028249993,
+                            "AuN": "michael griebel"
+                        },
+                        {
+                            "AuId": 2136070671,
+                            "AuN": "markus holtz"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2008.12.003",
+                    "title": "efficient deterministic numerical simulation of stochastic asset liability management models in life insurance",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2116925137,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2485933760,
+                            "AuN": "p l de angelis"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2479691788,
+                            "AuN": "francesca perla"
+                        }
+                    ],
+                    "doi": "10.1007/S10287-009-0100-0",
+                    "title": "participating life insurance policies an accurate and efficient parallel software for cots clusters",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2150157116,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2485933760,
+                            "AuN": "p l de angelis"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2479691788,
+                            "AuN": "francesca perla"
+                        },
+                        {
+                            "AuId": 2028141982,
+                            "AuN": "paolo zanetti"
+                        }
+                    ],
+                    "doi": "10.1109/IPDPS.2008.4536460",
+                    "title": "financial evaluation of participating life insurance policies in distributed environments",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 30931320,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2324826355,
+                            "AuN": "pasquale luigi de angelis"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2028141982,
+                            "AuN": "paolo zanetti"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4614-3773-4_11",
+                    "title": "financial evaluation of life insurance policies in high performance computingenvironments",
+                    "year_mag": 2012
+                }
+            ],
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "doi": "10.1201/9781584889267-11",
+            "title": "on high performance software development for the numerical simulation of life insurance policies",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2007
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2183472029,
+            "cited": [
+                {
+                    "PId": 2136434791,
+                    "author": [
+                        {
+                            "AuId": 2176533867,
+                            "AuN": "sameer shende"
+                        },
+                        {
+                            "AuId": 2079969273,
+                            "AuN": "allen d malony"
+                        }
+                    ],
+                    "doi": "10.1177/1094342006064482",
+                    "title": "the tau parallel performance system",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2135094424,
+                    "author": [
+                        {
+                            "AuId": 2574734857,
+                            "AuN": "a talbot"
+                        }
+                    ],
+                    "doi": "10.1093/IMAMAT/23.1.97",
+                    "journal": "ima journal of applied mathematics",
+                    "title": "the accurate numerical inversion of laplace transforms",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 2005669138,
+                    "author": [
+                        {
+                            "AuId": 3018660235,
+                            "AuN": "b davies"
+                        },
+                        {
+                            "AuId": 2570328515,
+                            "AuN": "brian martin"
+                        }
+                    ],
+                    "doi": "10.1016/0021-9991(79)90025-1",
+                    "journal": "journal of computational physics",
+                    "title": "numerical inversion of the laplace transform a survey and comparison of methods",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 2092709797,
+                    "author": [
+                        {
+                            "AuId": 2974518566,
+                            "AuN": "a murli"
+                        },
+                        {
+                            "AuId": 2974200581,
+                            "AuN": "m rizzardi"
+                        }
+                    ],
+                    "doi": "10.1145/78928.78932",
+                    "journal": "acm transactions on mathematical software",
+                    "title": "algorithm 682 talbot s method of the laplace inversion problems",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2055776262,
+                    "author": [
+                        {
+                            "AuId": 2974478892,
+                            "AuN": "mariarosaria rizzardi"
+                        }
+                    ],
+                    "doi": "10.1145/212066.212068",
+                    "journal": "acm transactions on mathematical software",
+                    "title": "a modification of talbot s method for the simultaneous approximation of several values of the inverse laplace transform",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2092385927,
+                    "author": [
+                        {
+                            "AuId": 2311300964,
+                            "AuN": "alan morris"
+                        },
+                        {
+                            "AuId": 2079969273,
+                            "AuN": "allen d malony"
+                        },
+                        {
+                            "AuId": 2176533867,
+                            "AuN": "sameer shende"
+                        }
+                    ],
+                    "doi": "10.1007/S10766-007-0050-5",
+                    "journal": "international journal of parallel programming",
+                    "title": "supporting nested openmp parallelism in the tau performance system",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2018480569,
+                    "author": [
+                        {
+                            "AuId": 2608136916,
+                            "AuN": "m a de rosa"
+                        },
+                        {
+                            "AuId": 2130888725,
+                            "AuN": "giulio giunta"
+                        },
+                        {
+                            "AuId": 2484764275,
+                            "AuN": "m rizzardi"
+                        }
+                    ],
+                    "doi": "10.1016/0167-8191(94)00108-M",
+                    "title": "parallel talbot s algorithm for distributed memory machines",
+                    "year_mag": 1995
+                }
+            ],
+            "title": "performance profiling of talbot suite with tau analysis tools",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2150157116,
+            "cited": [
+                {
+                    "PId": 1602773783,
+                    "author": [
+                        {
+                            "AuId": 13811602,
+                            "AuN": "paul glasserman"
+                        }
+                    ],
+                    "title": "monte carlo methods in financial engineering",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2096879147,
+                    "author": [
+                        {
+                            "AuId": 1457411550,
+                            "AuN": "anders grosen"
+                        },
+                        {
+                            "AuId": 2260465504,
+                            "AuN": "peter lochte jorgensen"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-6687(99)00041-4",
+                    "journal": "insurance mathematics & economics",
+                    "title": "fair valuation of life insurance liabilities the impact of interest rate guarantees surrender options and bonus policies",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2086611351,
+                    "author": [
+                        {
+                            "AuId": 2333008356,
+                            "AuN": "michael mascagni"
+                        },
+                        {
+                            "AuId": 2655151306,
+                            "AuN": "a srinivasan"
+                        }
+                    ],
+                    "doi": "10.1145/358407.358427",
+                    "journal": "acm transactions on mathematical software",
+                    "title": "algorithm 806 sprng a scalable library for pseudorandom number generation",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2095196343,
+                    "author": [
+                        {
+                            "AuId": 166847715,
+                            "AuN": "damiano brigo"
+                        },
+                        {
+                            "AuId": 2100122523,
+                            "AuN": "aurelien alfonsi"
+                        }
+                    ],
+                    "doi": "10.1007/S00780-004-0131-X",
+                    "journal": "finance and stochastics",
+                    "title": "credit default swap calibration and derivatives pricing with the ssrd stochastic intensity model",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1996644561,
+                    "author": [
+                        {
+                            "AuId": 211935706,
+                            "AuN": "laura ballotta"
+                        },
+                        {
+                            "AuId": 2089693111,
+                            "AuN": "steven haberman"
+                        }
+                    ],
+                    "doi": "10.1016/J.INSMATHECO.2005.10.002",
+                    "journal": "insurance mathematics & economics",
+                    "title": "the fair valuation problem of guaranteed annuity options the stochastic mortality environment case",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1994956456,
+                    "author": [
+                        {
+                            "AuId": 1865393116,
+                            "AuN": "anna rita bacinello"
+                        }
+                    ],
+                    "doi": "10.1111/1539-6975.T01-1-00060",
+                    "journal": "journal of risk and insurance",
+                    "title": "fair valuation of a guaranteed life insurance participating contract embedding a surrender option",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2104480405,
+                    "author": [
+                        {
+                            "AuId": 2655151306,
+                            "AuN": "a srinivasan"
+                        },
+                        {
+                            "AuId": 2333008356,
+                            "AuN": "michael mascagni"
+                        },
+                        {
+                            "AuId": 1806403957,
+                            "AuN": "david m ceperley"
+                        }
+                    ],
+                    "doi": "10.1016/S0167-8191(02)00163-1",
+                    "title": "testing parallel random number generators",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2138656978,
+                    "author": [
+                        {
+                            "AuId": 2693104469,
+                            "AuN": "bjarke jensen"
+                        },
+                        {
+                            "AuId": 2260465504,
+                            "AuN": "peter lochte jorgensen"
+                        },
+                        {
+                            "AuId": 1457411550,
+                            "AuN": "anders grosen"
+                        }
+                    ],
+                    "doi": "10.1023/A:1011264408187",
+                    "journal": "geneva risk and insurance review",
+                    "title": "a finite difference approach to the valuation of path dependent life insurance liabilities",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 1947208390,
+                    "author": [
+                        {
+                            "AuId": 166847715,
+                            "AuN": "damiano brigo"
+                        },
+                        {
+                            "AuId": 2100122523,
+                            "AuN": "aurelien alfonsi"
+                        }
+                    ],
+                    "title": "credit default swaps calibration and option pricing with the ssrd stochastic intensity and interest rate model",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2122525602,
+                    "author": [
+                        {
+                            "AuId": 2118433018,
+                            "AuN": "massimo de felice"
+                        },
+                        {
+                            "AuId": 2064167928,
+                            "AuN": "franco moriconi"
+                        }
+                    ],
+                    "doi": "10.1017/S0515036100014070",
+                    "journal": "astin bulletin",
+                    "title": "market based tools for managing the life insurance company",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2147317602,
+                    "author": [
+                        {
+                            "AuId": 2136191845,
+                            "AuN": "richard p brent"
+                        }
+                    ],
+                    "doi": "10.2307/2153583",
+                    "journal": "mathematics of computation",
+                    "title": "on the periods of generalized fibonacci recurrences",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 82046789,
+                    "author": [
+                        {
+                            "AuId": 2430011145,
+                            "AuN": "gilberto castellani"
+                        },
+                        {
+                            "AuId": 2118433018,
+                            "AuN": "massimo de felice"
+                        },
+                        {
+                            "AuId": 2064167928,
+                            "AuN": "franco moriconi"
+                        },
+                        {
+                            "AuId": 2632432118,
+                            "AuN": "claudio pacati"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2761395",
+                    "title": "embedded value in life insurance",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1987218397,
+                    "author": [
+                        {
+                            "AuId": 2333008356,
+                            "AuN": "michael mascagni"
+                        },
+                        {
+                            "AuId": 2538502650,
+                            "AuN": "steven a cuccaro"
+                        },
+                        {
+                            "AuId": 2136054354,
+                            "AuN": "daniel v pryor"
+                        },
+                        {
+                            "AuId": 2310751894,
+                            "AuN": "m l robinson"
+                        }
+                    ],
+                    "doi": "10.1006/JCPH.1995.1130",
+                    "journal": "journal of computational physics",
+                    "title": "a fast high quality and reproducible parallel lagged fibonacci pseudorandom number generator",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2484372385,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2485933760,
+                            "AuN": "p l de angelis"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2479691788,
+                            "AuN": "francesca perla"
+                        }
+                    ],
+                    "doi": "10.1201/9781584889267-11",
+                    "title": "on high performance software development for the numerical simulation of life insurance policies",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2779156868,
+                    "author": [
+                        {
+                            "AuId": 2632432118,
+                            "AuN": "claudio pacati"
+                        }
+                    ],
+                    "title": "valutazione di portafogli di polizze vita con rivalutazione agli ennesimi",
+                    "year_mag": 2000
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Brent",
+                            "given": "Richard P.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1090/S0025-5718-1994-1216256-7",
+                    "title": "on the periods of generalized fibonacci recurrences",
+                    "year_oc": 1994
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Felice",
+                            "given": "Massimo De",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Moriconi",
+                            "given": "Franco",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.2143/AST.35.1.583167",
+                    "title": "market based tools for managing the life insurance company",
+                    "year_oc": 2005
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2003689240,
+                    "author": [
+                        {
+                            "AuId": 2113766016,
+                            "AuN": "stefania corsaro"
+                        },
+                        {
+                            "AuId": 2485933760,
+                            "AuN": "p l de angelis"
+                        },
+                        {
+                            "AuId": 2167003968,
+                            "AuN": "zelda marino"
+                        },
+                        {
+                            "AuId": 2479691788,
+                            "AuN": "francesca perla"
+                        },
+                        {
+                            "AuId": 2028141982,
+                            "AuN": "paolo zanetti"
+                        }
+                    ],
+                    "doi": "10.1016/J.PARCO.2009.10.002",
+                    "title": "on parallel asset liability management in life insurance a forward risk neutral approach",
+                    "year_mag": 2010
+                }
+            ],
+            "doi": "10.1109/IPDPS.2008.4536460",
+            "title": "financial evaluation of participating life insurance policies in distributed environments",
+            "type": "3",
+            "year_mag": 2008
+        },
+        {
+            "PId": 1588141612,
+            "journal": "journal of e learning and knowledge society italian version",
+            "title": "kremm un sistema di e learning per modelli matematici applicati alle discipline economiche e \ufb01nanziarie",
+            "type": "1",
+            "year_mag": 2009
+        },
+        {
+            "PId": 617240848,
+            "cited": [
+                {
+                    "PId": 1602773783,
+                    "author": [
+                        {
+                            "AuId": 13811602,
+                            "AuN": "paul glasserman"
+                        }
+                    ],
+                    "title": "monte carlo methods in financial engineering",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1575104486,
+                    "author": [
+                        {
+                            "AuId": 129948039,
+                            "AuN": "peter e kloeden"
+                        },
+                        {
+                            "AuId": 2119609511,
+                            "AuN": "eckhard platen"
+                        }
+                    ],
+                    "title": "numerical solution of stochastic differential equations",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1964916079,
+                    "author": [
+                        {
+                            "AuId": 2176334485,
+                            "AuN": "phelim p boyle"
+                        },
+                        {
+                            "AuId": 2017336594,
+                            "AuN": "mark broadie"
+                        },
+                        {
+                            "AuId": 13811602,
+                            "AuN": "paul glasserman"
+                        }
+                    ],
+                    "doi": "10.1016/S0165-1889(97)00028-6",
+                    "journal": "journal of economic dynamics and control",
+                    "title": "monte carlo methods for security pricing",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2034638017,
+                    "author": [
+                        {
+                            "AuId": 2710357098,
+                            "AuN": "corwin joy"
+                        },
+                        {
+                            "AuId": 2176334485,
+                            "AuN": "phelim p boyle"
+                        },
+                        {
+                            "AuId": 2669501319,
+                            "AuN": "ken seng tan"
+                        }
+                    ],
+                    "doi": "10.1287/MNSC.42.6.926",
+                    "journal": "management science",
+                    "title": "quasi monte carlo methods in numerical finance",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2779156868,
+                    "author": [
+                        {
+                            "AuId": 2632432118,
+                            "AuN": "claudio pacati"
+                        }
+                    ],
+                    "title": "valutazione di portafogli di polizze vita con rivalutazione agli ennesimi",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2796133347,
+                    "author": [
+                        {
+                            "AuId": 2632432118,
+                            "AuN": "claudio pacati"
+                        }
+                    ],
+                    "title": "estimating the euro term structure of interest rates",
+                    "year_mag": 1999
+                }
+            ],
+            "title": "on software development for financial evaluation of participating life insurance policies",
+            "type": "0",
+            "year_mag": 2007
+        }
+    ]
+}

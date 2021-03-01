@@ -1,0 +1,962 @@
+{
+    "AuIds": [
+        2577207391,
+        2900049793,
+        2731601954,
+        2672067749,
+        2107542155,
+        2302364528,
+        2950767921,
+        2762681399
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 19,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 32,
+            "comm_other": 4682,
+            "other_cand": 1,
+            "other_comm": 4973
+        },
+        "other_nodes": 6540
+    },
+    "coverage": {
+        "articles": 5,
+        "books": 1,
+        "cov_sect": "A",
+        "other_pubbs": 17,
+        "pubbs": 10,
+        "pubbs_found": 5,
+        "pubbs_ind": 19,
+        "pubbs_ind_found": 14,
+        "total_extra_found": 19,
+        "total_found": 16,
+        "total_pubbs": 23
+    },
+    "fullname": [
+        "Caruso",
+        "Valeria"
+    ],
+    "ind_anvur": [
+        20,
+        4,
+        1,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "978-88-7667-695-6"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "title": "reinterpretazioni femminili le categorie grammaticali secondo adele e goldberg",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-255-0171-1"
+            ],
+            "PId": 2776598905,
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "doi": "10.5167/UZH-143024",
+            "title": "la competenza prosodica nell italiano parlato di sordi nativi e stranieri",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-88-9765-714-9"
+            ],
+            "PId": 2938748392,
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "doi": "10.5167/UZH-136467",
+            "title": "l interazione verbale tra sordi e udenti analisi di alcuni meccanismi conversazionali",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-6719-110-9"
+            ],
+            "PId": 2792247707,
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "doi": "10.5167/UZH-126948",
+            "title": "io sorda in italia",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-97657-12-5"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "5"
+            },
+            "title": "dizionari elettronici e apprendimento delle espressioni idiomatiche monitoraggio dei bisogni e prospettive future",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-99459-33-8"
+            ],
+            "PId": 2790322176,
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "title": "lavoro che fai lingua che usi la dimensione figurativa del lessico finanziario inglese",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-88-99982-08-9"
+            ],
+            "PId": 2571621163,
+            "cited": [
+                {
+                    "PId": 2069241659,
+                    "author": [
+                        {
+                            "AuId": 1984093331,
+                            "AuN": "gillesmaurice de schryver"
+                        }
+                    ],
+                    "doi": "10.1093/IJL/16.2.143",
+                    "journal": "international journal of lexicography",
+                    "title": "lexicographers dreams in the electronic dictionary age",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2142536605,
+                    "author": [
+                        {
+                            "AuId": 2140594869,
+                            "AuN": "sven tarp"
+                        }
+                    ],
+                    "title": "beyond lexicography new visions and challenges in the information age",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 840073890,
+                    "author": [
+                        {
+                            "AuId": 1988563079,
+                            "AuN": "rufus h gouws"
+                        }
+                    ],
+                    "title": "learning unlearning and innovation in the planning of electronic dictionaries",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2155109680,
+                    "author": [
+                        {
+                            "AuId": 2234170185,
+                            "AuN": "michael carr"
+                        }
+                    ],
+                    "doi": "10.1093/IJL/10.3.209",
+                    "journal": "international journal of lexicography",
+                    "title": "internet dictionaries and lexicography",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2478972911,
+                    "author": [
+                        {
+                            "AuId": 2130426281,
+                            "AuN": "sylviane granger"
+                        }
+                    ],
+                    "doi": "10.1093/ACPROF:OSO/9780199654864.003.0001",
+                    "title": "introduction electronic lexicography from challenge to opportunity",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1977983478,
+                    "author": [
+                        {
+                            "AuId": 2462839516,
+                            "AuN": "petrus hendrik swanepoel"
+                        }
+                    ],
+                    "doi": "10.5788/18-0-485",
+                    "journal": "lexikos",
+                    "title": "towards a framework for the description and evaluation of dictionary evaluation criteria",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2569858706,
+                    "author": [
+                        {
+                            "AuId": 2672067749,
+                            "AuN": "valeria caruso"
+                        }
+                    ],
+                    "doi": "10.7146/HJLCB.V27I52.25136",
+                    "journal": "hermes journal of language and communication in business",
+                    "title": "a guide not only for economics dictionaries",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3042316912,
+                    "author": [
+                        {
+                            "AuId": 2577207391,
+                            "AuN": "valeria caruso"
+                        },
+                        {
+                            "AuId": 2804642170,
+                            "AuN": "anna de meo"
+                        }
+                    ],
+                    "title": "a dictionary guide for web users",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2120465158,
+                    "author": [
+                        {
+                            "AuId": 2637144132,
+                            "AuN": "donna i arnold"
+                        }
+                    ],
+                    "doi": "10.1353/DIC.1979.0006",
+                    "journal": "dictionaries journal of the dictionary society of north america",
+                    "title": "synonyms and the college level dictionary",
+                    "year_mag": 1979
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "doi": "10.4000/BOOKS.AACCADEMIA.1734",
+            "title": "increasing information accessibility on the web a rating system for specialized dictionaries",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "0175-6206"
+            ],
+            "PId": 2561615785,
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "8"
+            },
+            "doi": "10.1515/LEXI-2015-0004",
+            "journal": "LEXICOGRAPHICA",
+            "title": "explorations on data condensation and data distribution in the microstructures of e dictionaries untersuchungen zur datenkondensation und datendistribution in den mikrostrukturen von onlineworterbuchern etudes sur la condensation et la distribution des donnees dans la microstructure des dictionnaires en ligne",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0390-6809"
+            ],
+            "PId": 2763465681,
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "9"
+            },
+            "journal": "STUDI ITALIANI DI LINGUISTICA TEORICA E APPLICATA",
+            "title": "l acquisizione della morfologia verbale nell italiano di sordi profondi italiani e stranieri",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-97657-11-8"
+            ],
+            "PId": 3032580402,
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "doi": "10.17469/O2101AISV000017",
+            "title": "discriminating between pathological and foreign accented speech an acoustic perceptual study on italian",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788897657088"
+            ],
+            "PId": 3042319705,
+            "cv_id": {
+                "pubbs_ind": "11"
+            },
+            "title": "chi compie l azione l applicazione del competition model su sordi italiani",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "2281-6585"
+            ],
+            "cv_id": {
+                "pubbs_ind": "12"
+            },
+            "journal": "SEZIONE LINGUISTICA",
+            "title": "per effetto di mentite spoglie una nota sullo stile e sulla poetica di toti scialoja annali del dipartimento di studi letterari linguistici e comparati",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1903-1785"
+            ],
+            "PId": 2569858706,
+            "citing": [
+                {
+                    "PId": 2571621163,
+                    "author": [
+                        {
+                            "AuId": 2577207391,
+                            "AuN": "valeria caruso"
+                        },
+                        {
+                            "AuId": 2804642170,
+                            "AuN": "anna de meo"
+                        },
+                        {
+                            "AuId": 2572540432,
+                            "AuN": "vincenzo norman vitale"
+                        }
+                    ],
+                    "doi": "10.4000/BOOKS.AACCADEMIA.1734",
+                    "title": "increasing information accessibility on the web a rating system for specialized dictionaries",
+                    "year_mag": 2016
+                }
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "13"
+            },
+            "doi": "10.7146/HJLCB.V27I52.25136",
+            "journal": "HERMES",
+            "title": "a guide not only for economics dictionaries",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788888906973"
+            ],
+            "PId": 3042316912,
+            "cited": [
+                {
+                    "PId": 47558749,
+                    "author": [
+                        {
+                            "AuId": 2111783205,
+                            "AuN": "anthony pym"
+                        }
+                    ],
+                    "title": "the moving text localization translation and distribution",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 571548458,
+                    "author": [
+                        {
+                            "AuId": 2608636999,
+                            "AuN": "r r k hartmann"
+                        }
+                    ],
+                    "title": "teaching and researching lexicography",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2142536605,
+                    "author": [
+                        {
+                            "AuId": 2140594869,
+                            "AuN": "sven tarp"
+                        }
+                    ],
+                    "title": "beyond lexicography new visions and challenges in the information age",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1592376,
+                    "author": [
+                        {
+                            "AuId": 2579141034,
+                            "AuN": "fuertes olivera"
+                        },
+                        {
+                            "AuId": 2575530204,
+                            "AuN": "a pedro"
+                        }
+                    ],
+                    "doi": "10.1515/9783110231335",
+                    "title": "specialised dictionaries for learners",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 314784564,
+                    "author": [
+                        {
+                            "AuId": 638085271,
+                            "AuN": "henning bergenholtz"
+                        },
+                        {
+                            "AuId": 2152939507,
+                            "AuN": "sandro nielsen"
+                        },
+                        {
+                            "AuId": 2140594869,
+                            "AuN": "sven tarp"
+                        }
+                    ],
+                    "title": "lexicography at a crossroads dictionaries and encyclopedias today lexicographical tools tomorrow",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2165671531,
+                    "author": [
+                        {
+                            "AuId": 679206116,
+                            "AuN": "theo j d bothma"
+                        },
+                        {
+                            "AuId": 2140594869,
+                            "AuN": "sven tarp"
+                        }
+                    ],
+                    "doi": "10.5788/22-1-999",
+                    "journal": "lexikos",
+                    "title": "lexicography and the relevance criterion",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 68673205,
+                    "author": [
+                        {
+                            "AuId": 638085271,
+                            "AuN": "henning bergenholtz"
+                        },
+                        {
+                            "AuId": 2254902880,
+                            "AuN": "uwe kaufmann"
+                        }
+                    ],
+                    "doi": "10.7146/HJLCB.V10I18.25413",
+                    "journal": "hermes journal of language and communication in business",
+                    "title": "terminography and lexicography a critical survey of dictionaries from a single specialised field",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2755932561,
+                    "author": [
+                        {
+                            "AuId": 2755703572,
+                            "AuN": "franz josef hausmann"
+                        },
+                        {
+                            "AuId": 1927813922,
+                            "AuN": "oskar reichmann"
+                        },
+                        {
+                            "AuId": 2756147301,
+                            "AuN": "herbert ernst wiegand"
+                        },
+                        {
+                            "AuId": 2755034375,
+                            "AuN": "ladislav zgusta"
+                        }
+                    ],
+                    "doi": "10.1515/9783110095852.1.4.328",
+                    "title": "component parts and structures of general monolingual dictionaries a survey",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 1983508367,
+                    "author": [
+                        {
+                            "AuId": 638085271,
+                            "AuN": "henning bergenholtz"
+                        }
+                    ],
+                    "doi": "10.1075/TERM.18.2.05BER",
+                    "journal": "terminology",
+                    "title": "concepts for monofunctional accounting dictionaries",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1988349375,
+                    "author": [
+                        {
+                            "AuId": 2756147301,
+                            "AuN": "herbert ernst wiegand"
+                        }
+                    ],
+                    "doi": "10.5788/6-1-1029",
+                    "journal": "lexikos",
+                    "title": "textual condensation in printed dictionaries a theoretical draft",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2811473492,
+                    "author": [
+                        {
+                            "AuId": 2152939507,
+                            "AuN": "sandro nielsen"
+                        }
+                    ],
+                    "doi": "10.1515/9783110244199.90",
+                    "title": "mediostructures in bilingual lsp dictionaries",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2483089267,
+                    "author": [
+                        {
+                            "AuId": 2152939507,
+                            "AuN": "sandro nielsen"
+                        }
+                    ],
+                    "title": "reviewing printed and electronic dictionaries a theoretical and practical framework",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2242445500,
+                    "author": [
+                        {
+                            "AuId": 2302364528,
+                            "AuN": "valeria caruso"
+                        }
+                    ],
+                    "title": "online specialised dictionaries a critical survey",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 560402109,
+                    "author": [
+                        {
+                            "AuId": 2673462692,
+                            "AuN": "christopher n candlin"
+                        },
+                        {
+                            "AuId": 2316584941,
+                            "AuN": "david robert hall"
+                        }
+                    ],
+                    "title": "applied linguistics in action",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 3043290908,
+                    "author": [
+                        {
+                            "AuId": 2577207391,
+                            "AuN": "valeria caruso"
+                        },
+                        {
+                            "AuId": 2119198410,
+                            "AuN": "elisa pellegrino"
+                        }
+                    ],
+                    "title": "metadizionari digitali specialistici",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 176886962,
+                    "author": [
+                        {
+                            "AuId": 245821253,
+                            "AuN": "xii convegno internazionale aitla"
+                        }
+                    ],
+                    "doi": "10.13130/2037-3597/1935",
+                    "journal": "italiano linguadue",
+                    "title": "comunicare le discipline attraverso le lingue prospettive traduttiva didattica socioculturale",
+                    "year_mag": 2012
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2571621163,
+                    "author": [
+                        {
+                            "AuId": 2577207391,
+                            "AuN": "valeria caruso"
+                        },
+                        {
+                            "AuId": 2804642170,
+                            "AuN": "anna de meo"
+                        },
+                        {
+                            "AuId": 2572540432,
+                            "AuN": "vincenzo norman vitale"
+                        }
+                    ],
+                    "doi": "10.4000/BOOKS.AACCADEMIA.1734",
+                    "title": "increasing information accessibility on the web a rating system for specialized dictionaries",
+                    "year_mag": 2016
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "14"
+            },
+            "title": " a dictionary guide for web users ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788898640041"
+            ],
+            "cv_id": {
+                "pubbs_ind": "15"
+            },
+            "title": "per una valutazione critica dei dizionari specialistici in rete",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-3-200-03674-1"
+            ],
+            "PId": 2900305389,
+            "cv_id": {
+                "pubbs_ind": "16"
+            },
+            "title": "frames of winespeak varieties among languages and linguistic contexts",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788867190553"
+            ],
+            "PId": 3043439335,
+            "cv_id": {
+                "pubbs_ind": "17"
+            },
+            "title": "la classe dei sordi dalla fase di pubblicizzazione alla didattica in aula",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9788855705011"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "18"
+            },
+            "title": "comunicare saperi sul web il caso dei dizionari specialistici",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "978-88-95044-82-8"
+            ],
+            "PId": 2288518903,
+            "cv_id": {
+                "pubbs_ind": "19"
+            },
+            "title": "la parola melagrana agnizioni sull opera in versi di toti scialoja",
+            "type": "monografia o trattato scientifico",
+            "year": 2010
+        },
+        {
+            "ISBN": [
+                "1443842478"
+            ],
+            "PId": 3049564969,
+            "cv_id": {
+                "pubbs": "7"
+            },
+            "title": "and nevertheless they do speak italian prosodic explorations in the speech of deaf immigrants",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "2038-8675"
+            ],
+            "cv_id": {
+                "pubbs": "8"
+            },
+            "journal": "IV",
+            "title": "istanze logico cognitive nel pensiero di philipp wegener linguistica zero vol",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9788820742751"
+            ],
+            "cv_id": {
+                "pubbs": "9"
+            },
+            "title": "traduzioni senza senso",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9789619298336"
+            ],
+            "PId": 2242445500,
+            "cited": [
+                {
+                    "PId": 3029819971,
+                    "author": [
+                        {
+                            "AuId": 2694329696,
+                            "AuN": "\u9ec4\u4e9a\u660e"
+                        },
+                        {
+                            "AuId": 3028761209,
+                            "AuN": "\u6f58\u73b0\u4f1f"
+                        }
+                    ],
+                    "title": "medicinenet",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2504306458,
+                    "author": [
+                        {
+                            "AuId": 2140594869,
+                            "AuN": "sven tarp"
+                        }
+                    ],
+                    "title": "lexicography in the borderland between knowledge and non knowledge general lexicographical theory with particular focus on learner s lexicography",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 233744722,
+                    "author": [
+                        {
+                            "AuId": 2235947576,
+                            "AuN": "laurie bauer"
+                        }
+                    ],
+                    "title": "english word formation",
+                    "year_mag": 1983
+                },
+                {
+                    "PId": 2516568576,
+                    "author": [
+                        {
+                            "AuId": 2096491211,
+                            "AuN": "e k brown"
+                        },
+                        {
+                            "AuId": 2980984988,
+                            "AuN": "anne h anderson"
+                        }
+                    ],
+                    "title": "encyclopedia of language linguistics",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2142536605,
+                    "author": [
+                        {
+                            "AuId": 2140594869,
+                            "AuN": "sven tarp"
+                        }
+                    ],
+                    "title": "beyond lexicography new visions and challenges in the information age",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1592376,
+                    "author": [
+                        {
+                            "AuId": 2579141034,
+                            "AuN": "fuertes olivera"
+                        },
+                        {
+                            "AuId": 2575530204,
+                            "AuN": "a pedro"
+                        }
+                    ],
+                    "doi": "10.1515/9783110231335",
+                    "title": "specialised dictionaries for learners",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 314784564,
+                    "author": [
+                        {
+                            "AuId": 638085271,
+                            "AuN": "henning bergenholtz"
+                        },
+                        {
+                            "AuId": 2152939507,
+                            "AuN": "sandro nielsen"
+                        },
+                        {
+                            "AuId": 2140594869,
+                            "AuN": "sven tarp"
+                        }
+                    ],
+                    "title": "lexicography at a crossroads dictionaries and encyclopedias today lexicographical tools tomorrow",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 68673205,
+                    "author": [
+                        {
+                            "AuId": 638085271,
+                            "AuN": "henning bergenholtz"
+                        },
+                        {
+                            "AuId": 2254902880,
+                            "AuN": "uwe kaufmann"
+                        }
+                    ],
+                    "doi": "10.7146/HJLCB.V10I18.25413",
+                    "journal": "hermes journal of language and communication in business",
+                    "title": "terminography and lexicography a critical survey of dictionaries from a single specialised field",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2489190223,
+                    "author": [
+                        {
+                            "AuId": 2152939507,
+                            "AuN": "sandro nielsen"
+                        },
+                        {
+                            "AuId": 2306480697,
+                            "AuN": "lise mourier"
+                        }
+                    ],
+                    "title": "design of a function based internet accounting dictionary",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2479875399,
+                    "author": [
+                        {
+                            "AuId": 2482057843,
+                            "AuN": "pedro a fuertesolivera"
+                        }
+                    ],
+                    "doi": "10.1515/9783110231335.3.193",
+                    "title": "chapter 11 lexicography for the third millennium free institutional internet terminological dictionaries for learners",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2555189525,
+                    "author": [
+                        {
+                            "AuId": 2651964066,
+                            "AuN": "mari carmen campoy cubillo"
+                        }
+                    ],
+                    "journal": "teaching english with technology",
+                    "title": "general and specialised free online dictionaries",
+                    "year_mag": 2002
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2344707022,
+                    "author": [
+                        {
+                            "AuId": 2286260895,
+                            "AuN": "jose antonio mateo"
+                        }
+                    ],
+                    "title": "lexicographical and translation issues in the inclusion of english financial neonyms in spanish bilingual dictionaries of economics on paper",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 3042316912,
+                    "author": [
+                        {
+                            "AuId": 2577207391,
+                            "AuN": "valeria caruso"
+                        },
+                        {
+                            "AuId": 2804642170,
+                            "AuN": "anna de meo"
+                        }
+                    ],
+                    "title": "a dictionary guide for web users",
+                    "year_mag": 2014
+                }
+            ],
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "title": "online specialised dictionaries a critical survey",
+            "type": "contributo in atti di convegno",
+            "year": 2011
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 3043290908,
+            "citing": [
+                {
+                    "PId": 3042316912,
+                    "author": [
+                        {
+                            "AuId": 2577207391,
+                            "AuN": "valeria caruso"
+                        },
+                        {
+                            "AuId": 2804642170,
+                            "AuN": "anna de meo"
+                        }
+                    ],
+                    "title": "a dictionary guide for web users",
+                    "year_mag": 2014
+                }
+            ],
+            "title": "metadizionari digitali specialistici",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2804254686,
+            "doi": "10.30687/978-88-6969-227-7/016",
+            "title": "un percorso di letteratura italiana per studenti cinesi in mobilita internazionale il laboratorio di analisi testuale",
+            "type": "4",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2238903599,
+            "title": "traduttori e traduzioni",
+            "type": "0",
+            "year_mag": 2011
+        }
+    ]
+}

@@ -1,0 +1,4698 @@
+{
+    "AuIds": [
+        2034458341,
+        2587316461
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "2255730464_+_2613126237": 1,
+                "960585923_+_2043881201": 1
+            },
+            "number": 2
+        },
+        "cand_nodes": 36,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 531,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 237,
+            "comm_other": 4190,
+            "other_cand": 34,
+            "other_comm": 4965
+        },
+        "other_nodes": 6492
+    },
+    "coverage": {
+        "articles": 9,
+        "books": 0,
+        "cov_sect": "B",
+        "other_pubbs": 5,
+        "pubbs": 10,
+        "pubbs_found": 7,
+        "pubbs_ind": 12,
+        "pubbs_ind_found": 9,
+        "total_extra_found": 36,
+        "total_found": 9,
+        "total_pubbs": 14
+    },
+    "fullname": [
+        "Ticca",
+        "Anna Claudia"
+    ],
+    "ind_anvur": [
+        10,
+        3,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0378-2166"
+            ],
+            "PId": 2549272635,
+            "cited": [
+                {
+                    "PId": 2151369449,
+                    "author": [
+                        {
+                            "AuId": 1788107697,
+                            "AuN": "tanya stivers"
+                        }
+                    ],
+                    "doi": "10.1080/08351810701691123",
+                    "journal": "research on language and social interaction",
+                    "title": "stance alignment and affiliation during storytelling when nodding is a token of affiliation",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2153190547,
+                    "author": [
+                        {
+                            "AuId": 2121438367,
+                            "AuN": "harvey sacks"
+                        },
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        },
+                        {
+                            "AuId": 2153560426,
+                            "AuN": "gail jefferson"
+                        }
+                    ],
+                    "doi": "10.2307/412243",
+                    "journal": "language",
+                    "title": "a simplest systematics for the organization of turn taking for conversation",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 2167576251,
+                    "author": [
+                        {
+                            "AuId": 2486205109,
+                            "AuN": "charles goodwin"
+                        }
+                    ],
+                    "doi": "10.1177/0957926507069457",
+                    "journal": "discourse & society",
+                    "title": "participation stance and affect in the organization of activities",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 583038877,
+                    "author": [
+                        {
+                            "AuId": 143477269,
+                            "AuN": "cecilia wadensjo"
+                        }
+                    ],
+                    "title": "interpreting as interaction",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 642924155,
+                    "author": [
+                        {
+                            "AuId": 2149165918,
+                            "AuN": "marjorie faulstich orellana"
+                        }
+                    ],
+                    "title": "translating childhoods immigrant youth language and culture",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1989661826,
+                    "author": [
+                        {
+                            "AuId": 886935299,
+                            "AuN": "lorenza mondada"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2008.09.019",
+                    "journal": "journal of pragmatics",
+                    "title": "emergent focused interactions in public places a systematic analysis of the multimodal achievement of a common interactional space",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2121628370,
+                    "author": [
+                        {
+                            "AuId": 2645261410,
+                            "AuN": "brad davidson"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9481.00121",
+                    "journal": "journal of sociolinguistics",
+                    "title": "the interpreter as institutional gatekeeper the social linguistic role of interpreters in spanish english medical discourse",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2009901747,
+                    "author": [
+                        {
+                            "AuId": 2092736153,
+                            "AuN": "galina b bolden"
+                        }
+                    ],
+                    "doi": "10.1177/1461445600002004001",
+                    "journal": "discourse studies",
+                    "title": "toward understanding practices of medical interpreting interpreters involvement in history taking",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2071259998,
+                    "author": [
+                        {
+                            "AuId": 2112019758,
+                            "AuN": "jeffrey d robinson"
+                        }
+                    ],
+                    "doi": "10.1207/S15327027HC1902_1",
+                    "journal": "health communication",
+                    "title": "the structure of patients presenting concerns physicians opening questions",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2150493432,
+                    "author": [
+                        {
+                            "AuId": 2092736153,
+                            "AuN": "galina b bolden"
+                        }
+                    ],
+                    "doi": "10.1017/S0047404511000923",
+                    "journal": "language in society",
+                    "title": "across languages and cultures brokering problems of understanding in conversational repair",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1513811371,
+                    "author": [
+                        {
+                            "AuId": 2122916519,
+                            "AuN": "christian heath"
+                        },
+                        {
+                            "AuId": 2571843086,
+                            "AuN": "katherine nicholls"
+                        }
+                    ],
+                    "title": "body movement and speech in medical interaction",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2141295410,
+                    "author": [
+                        {
+                            "AuId": 2568660824,
+                            "AuN": "alexander bischoff"
+                        },
+                        {
+                            "AuId": 296004677,
+                            "AuN": "thomas v perneger"
+                        },
+                        {
+                            "AuId": 67366298,
+                            "AuN": "patrick a bovier"
+                        },
+                        {
+                            "AuId": 2081758654,
+                            "AuN": "louis loutan"
+                        },
+                        {
+                            "AuId": 2148798842,
+                            "AuN": "hans stalder"
+                        }
+                    ],
+                    "journal": "british journal of general practice",
+                    "title": "improving communication between physicians and patients who speak a foreign language",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2101530046,
+                    "author": [
+                        {
+                            "AuId": 2152492258,
+                            "AuN": "yuri hosoda"
+                        }
+                    ],
+                    "doi": "10.1093/APPLIN/AMI022",
+                    "journal": "applied linguistics",
+                    "title": "repair and relevance of differential language expertise in second language conversations",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 781325456,
+                    "author": [
+                        {
+                            "AuId": 2223977451,
+                            "AuN": "philipp sebastian angermeyer"
+                        }
+                    ],
+                    "title": "speak english or what codeswitching and interpreter use in new york city courts",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2082438452,
+                    "author": [
+                        {
+                            "AuId": 2204401708,
+                            "AuN": "arnulf deppermann"
+                        },
+                        {
+                            "AuId": 2123700393,
+                            "AuN": "reinhold schmitt"
+                        },
+                        {
+                            "AuId": 886935299,
+                            "AuN": "lorenza mondada"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2009.10.006",
+                    "journal": "journal of pragmatics",
+                    "title": "agenda and emergence contingent and planned activities in a meeting",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2158575882,
+                    "author": [
+                        {
+                            "AuId": 886935299,
+                            "AuN": "lorenza mondada"
+                        }
+                    ],
+                    "doi": "10.1177/1468794112438149",
+                    "journal": "qualitative research",
+                    "title": "video analysis and the temporality of inscriptions within social interaction the case of architects at work",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2618571759,
+                    "author": [
+                        {
+                            "AuId": 3124012647,
+                            "AuN": "guadelupe valdes"
+                        }
+                    ],
+                    "doi": "10.4324/9781410607249",
+                    "title": "expanding definitions of giftedness the case of young interpreters from immigrant communities",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2034558837,
+                    "author": [
+                        {
+                            "AuId": 2788376239,
+                            "AuN": "eric laurier"
+                        }
+                    ],
+                    "doi": "10.1016/J.LANGCOM.2008.01.011",
+                    "journal": "language & communication",
+                    "title": "drinking up endings conversational resources of the cafe",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2502078783,
+                    "author": [
+                        {
+                            "AuId": 2527344669,
+                            "AuN": "geoffrey raymond"
+                        },
+                        {
+                            "AuId": 2069696205,
+                            "AuN": "gene h lerner"
+                        }
+                    ],
+                    "doi": "10.1075/Z.187.08RAY",
+                    "title": "a body and its involvements adjusting action for dual involvements",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2483409154,
+                    "author": [
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "title": "ad hoc interpreting in multilingual work meetings who translates for whom",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2488590952,
+                    "author": [
+                        {
+                            "AuId": 2156427873,
+                            "AuN": "piia mikkola"
+                        },
+                        {
+                            "AuId": 2120924162,
+                            "AuN": "esa lehtinen"
+                        }
+                    ],
+                    "title": "initiating activity shifts through use of appraisal forms as material objects during performance appraisal interviews",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1982016465,
+                    "author": [
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-2166(03)00036-5",
+                    "journal": "journal of pragmatics",
+                    "title": "interlocutive crowding and splitting in polylogues the case of a researchers meeting",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2017490402,
+                    "author": [
+                        {
+                            "AuId": 2303705429,
+                            "AuN": "phillip glenn"
+                        },
+                        {
+                            "AuId": 2986604859,
+                            "AuN": "curtis lebaron"
+                        }
+                    ],
+                    "doi": "10.1177/1750481310390161",
+                    "journal": "discourse & communication",
+                    "title": "epistemic authority in employment interviews glancing pointing touching",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 131340175,
+                    "author": [
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "title": "rencontres interculturelles a l hopital la consultation medicale avec interprete",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2341901254,
+                    "author": [
+                        {
+                            "AuId": 2098106689,
+                            "AuN": "bernd meyer"
+                        }
+                    ],
+                    "title": "ad hoc interpreting for partially language proficient patients participation in multilingual constellations",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2482836419,
+                    "author": [
+                        {
+                            "AuId": 2049193274,
+                            "AuN": "claudio baraldi"
+                        },
+                        {
+                            "AuId": 2029241299,
+                            "AuN": "laura gavioli"
+                        }
+                    ],
+                    "title": "introduction understanding coordination in interpreter mediated interaction",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1661577798,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "title": "territoires corporels ressenti et paroles d action des moments delicats de la consultation medicale avec interprete",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2493003408,
+                    "author": [
+                        {
+                            "AuId": 2532854375,
+                            "AuN": "marika sutinen"
+                        }
+                    ],
+                    "title": "negotiating favourable conditions for resuming suspended activities",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2248139180,
+                    "author": [
+                        {
+                            "AuId": 2048996438,
+                            "AuN": "vassiliki markaki"
+                        },
+                        {
+                            "AuId": 2176599199,
+                            "AuN": "sara merlino"
+                        },
+                        {
+                            "AuId": 886935299,
+                            "AuN": "lorenza mondada"
+                        },
+                        {
+                            "AuId": 2177647311,
+                            "AuN": "florence oloff"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "title": "language choice and participation management in international work meetings",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2611792999,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        }
+                    ],
+                    "title": "the use of laughter in bilingual doctor patient interactions displaying resistance to doctor s talk in a mexican village",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1008252663,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        }
+                    ],
+                    "title": "reconfiguring the interactional space organising the closing of encounters in an italian travel agency",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2787533365,
+                    "author": [
+                        {
+                            "AuId": 2068241834,
+                            "AuN": "natacha sarah alexandra niemants"
+                        }
+                    ],
+                    "title": "l interpretation de dialogue en milieu medical du jeu de role a l exercice d une responsabilite",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2796841835,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        }
+                    ],
+                    "title": "acciones despreferidas en la interaccion mediada medico paciente en yucatan",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2612777310,
+                    "author": [
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "title": "co elaboration de solutions et role du graphico gestuel analyse interactionnelle",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2073239367,
+                    "author": [
+                        {
+                            "AuId": 2590921056,
+                            "AuN": "frank ernst muller"
+                        }
+                    ],
+                    "doi": "10.1016/0378-2166(89)90075-1",
+                    "journal": "journal of pragmatics",
+                    "title": "translation in bilingual conversation pragmatic aspects of translatory interaction",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2977677562,
+                    "author": [
+                        {
+                            "AuId": 2139601497,
+                            "AuN": "isabelle boivin"
+                        },
+                        {
+                            "AuId": 268982559,
+                            "AuN": "yvan leanza"
+                        },
+                        {
+                            "AuId": 2194824931,
+                            "AuN": "ellen rosenberg"
+                        }
+                    ],
+                    "title": "representations et roles des interpretes professionnels et familiaux dans les entretiens medicaux et implications pour le monde vecu",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 8339052,
+                    "author": [
+                        {
+                            "AuId": 2676278862,
+                            "AuN": "laurent gajo"
+                        },
+                        {
+                            "AuId": 2651872004,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "title": "analyse de l interaction interculturelle une recherche sur les migrants dans differents services hospitaliers",
+                    "year_mag": 2002
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2800425240,
+                    "author": [
+                        {
+                            "AuId": 886935299,
+                            "AuN": "lorenza mondada"
+                        }
+                    ],
+                    "doi": "10.3917/RFLA.222.0071",
+                    "journal": "revue francaise de linguistique appliquee",
+                    "title": "le defi de la multimodalite en interaction",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2799739028,
+                    "author": [
+                        {
+                            "AuId": 341929280,
+                            "AuN": "elena davitti"
+                        }
+                    ],
+                    "doi": "10.1177/1468794118761492",
+                    "journal": "revue francaise de linguistique appliquee",
+                    "title": "methodological explorations of interpreter mediated interaction novel insights from multimodal analysis",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2953962431,
+                    "author": [
+                        {
+                            "AuId": 3117364637,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "doi": "10.1080/08351813.2019.1608095",
+                    "journal": "revue francaise de linguistique appliquee",
+                    "title": "forms of participation in a mental health care consultation with a nonpresent interpreter",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2956989912,
+                    "author": [
+                        {
+                            "AuId": 2068241834,
+                            "AuN": "natacha sarah alexandra niemants"
+                        }
+                    ],
+                    "doi": "10.7202/1060168AR",
+                    "journal": "revue francaise de linguistique appliquee",
+                    "title": "des enregistrements aux corpus transcription et extraction de donnees d interpretation en milieu medical",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2897654584,
+                    "author": [
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "doi": "10.1017/S0959269518000108",
+                    "journal": "revue francaise de linguistique appliquee",
+                    "title": "demander de l aide a la permanence d acces aux droits d un centre social modalites de construction des requetes",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2950350781,
+                    "author": [
+                        {
+                            "AuId": 2197249858,
+                            "AuN": "cecile petitjean"
+                        },
+                        {
+                            "AuId": 2619354107,
+                            "AuN": "simona pekarek doehler"
+                        }
+                    ],
+                    "doi": "10.3917/RFLA.222.0005",
+                    "journal": "revue francaise de linguistique appliquee",
+                    "title": "developpements actuels en analyse conversationnelle et recherches sur les interactions en francais",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2968654158,
+                    "author": [
+                        {
+                            "AuId": 2967315758,
+                            "AuN": "yuhong yang"
+                        }
+                    ],
+                    "doi": "10.1515/TEXT-2019-2045",
+                    "journal": "revue francaise de linguistique appliquee",
+                    "title": "from text to ensemble a multimodal study of television interpreting with cases from chinese tv",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1016/J.PRAGMA.2016.09.008",
+            "journal": "JOURNAL OF PRAGMATICS",
+            "title": "participation in bilingual interactions translating interpreting and mediating documents in a french social centre",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9789027258755"
+            ],
+            "ISSN": [
+                "0929-7316"
+            ],
+            "PId": 2587399164,
+            "cited": [
+                {
+                    "PId": 2109151141,
+                    "author": [
+                        {
+                            "AuId": 1992934036,
+                            "AuN": "mary bucholtz"
+                        },
+                        {
+                            "AuId": 2166369486,
+                            "AuN": "kira hall"
+                        }
+                    ],
+                    "doi": "10.1177/1461445605054407",
+                    "journal": "discourse studies",
+                    "title": "identity and interaction a sociocultural linguistic approach",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2162216745,
+                    "author": [
+                        {
+                            "AuId": 2133259824,
+                            "AuN": "glenn flores"
+                        }
+                    ],
+                    "doi": "10.1177/1077558705275416",
+                    "journal": "medical care research and review",
+                    "title": "the impact of medical interpreter services on the quality of health care a systematic review",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2000828950,
+                    "author": [
+                        {
+                            "AuId": 2158584783,
+                            "AuN": "luis perezgonzalez"
+                        },
+                        {
+                            "AuId": 1575160096,
+                            "AuN": "\u015febnem susamsaraeva"
+                        }
+                    ],
+                    "doi": "10.1080/13556509.2012.10799506",
+                    "journal": "translator",
+                    "title": "non professionals translating and interpreting participatory and engaged perspectives",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2009901747,
+                    "author": [
+                        {
+                            "AuId": 2092736153,
+                            "AuN": "galina b bolden"
+                        }
+                    ],
+                    "doi": "10.1177/1461445600002004001",
+                    "journal": "discourse studies",
+                    "title": "toward understanding practices of medical interpreting interpreters involvement in history taking",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 628325266,
+                    "author": [
+                        {
+                            "AuId": 2049193274,
+                            "AuN": "claudio baraldi"
+                        },
+                        {
+                            "AuId": 2029241299,
+                            "AuN": "laura gavioli"
+                        }
+                    ],
+                    "doi": "10.1075/BTL.102",
+                    "title": "coordinating participation in dialogue interpreting",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2138703213,
+                    "author": [
+                        {
+                            "AuId": 2603929480,
+                            "AuN": "sergio pasquandrea"
+                        }
+                    ],
+                    "doi": "10.1017/S0047404511000479",
+                    "journal": "language in society",
+                    "title": "managing multiple actions through multimodality doctors involvement in interpreter mediated interactions",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 626817911,
+                    "author": [
+                        {
+                            "AuId": 58418231,
+                            "AuN": "franz pochhacker"
+                        },
+                        {
+                            "AuId": 2166763969,
+                            "AuN": "miriam shlesinger"
+                        }
+                    ],
+                    "doi": "10.1075/BCT.9",
+                    "title": "healthcare interpreting discourse and interaction",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 1966439207,
+                    "author": [
+                        {
+                            "AuId": 2178887327,
+                            "AuN": "claire penn"
+                        },
+                        {
+                            "AuId": 2157370445,
+                            "AuN": "jennifer watermeyer"
+                        }
+                    ],
+                    "doi": "10.1016/J.PEC.2012.06.016",
+                    "journal": "patient education and counseling",
+                    "title": "when asides become central small talk and big talk in interpreted health interactions",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 39498592,
+                    "author": [
+                        {
+                            "AuId": 2160097697,
+                            "AuN": "brian harris"
+                        },
+                        {
+                            "AuId": 2485036617,
+                            "AuN": "bianca sherwood"
+                        }
+                    ],
+                    "doi": "10.1007/978-1-4615-9077-4_15",
+                    "title": "translating as an innate skill",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 2476040658,
+                    "author": [
+                        {
+                            "AuId": 2484372661,
+                            "AuN": "francesco straniero sergio"
+                        }
+                    ],
+                    "doi": "10.1075/BTL.102.04STR",
+                    "title": "3 you are not too funny challenging the role of the interpreter on italian talkshows",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2487070492,
+                    "author": [
+                        {
+                            "AuId": 628745711,
+                            "AuN": "annelie knapppotthoff"
+                        },
+                        {
+                            "AuId": 2642484952,
+                            "AuN": "karlfried knapp"
+                        }
+                    ],
+                    "doi": "10.1515/9783110874280.181",
+                    "title": "the man or woman in the middle discoursal aspects of non professional interpreting",
+                    "year_mag": 1987
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Glenn",
+                            "given": "Phillip",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511519888",
+                    "title": "laughter in interaction",
+                    "year_oc": 2003
+                },
+                {
+                    "doi": "10.1017/CBO9780511665868",
+                    "title": "structures of social action",
+                    "year_oc": 1985
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "B\u00fchrig",
+                            "given": "Kristin",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Meyer",
+                            "given": "Bernd",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1075/HSM.3.04BUH",
+                    "title": "ad hoc interpreting and the achievement of communicative purposes in doctor patient communication",
+                    "year_oc": 2004
+                },
+                {
+                    "doi": "10.1515/9783110807134-022",
+                    "title": "16 interpreters in local courts in papua new guinea",
+                    "year_oc": 1976
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2953962431,
+                    "author": [
+                        {
+                            "AuId": 3117364637,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "doi": "10.1080/08351813.2019.1608095",
+                    "journal": "research on language and social interaction",
+                    "title": "forms of participation in a mental health care consultation with a nonpresent interpreter",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1075/BTL.129.06TIC",
+            "title": "lay interpreters activities and identities in medical consultations ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0181-4095"
+            ],
+            "PId": 1828516650,
+            "citing": [
+                {
+                    "PId": 2800425240,
+                    "author": [
+                        {
+                            "AuId": 886935299,
+                            "AuN": "lorenza mondada"
+                        }
+                    ],
+                    "doi": "10.3917/RFLA.222.0071",
+                    "journal": "revue francaise de linguistique appliquee",
+                    "title": "le defi de la multimodalite en interaction",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2897654584,
+                    "author": [
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "doi": "10.1017/S0959269518000108",
+                    "journal": "revue francaise de linguistique appliquee",
+                    "title": "demander de l aide a la permanence d acces aux droits d un centre social modalites de construction des requetes",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2235641640,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "journal": "revue francaise de linguistique appliquee",
+                    "title": "la bonne information quand les interpretes corrigent les reponses du patient dans la consultation medicale",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2992672310,
+                    "author": [
+                        {
+                            "AuId": 2343456640,
+                            "AuN": "maureen clappe"
+                        }
+                    ],
+                    "doi": "10.7202/1066089AR",
+                    "journal": "revue francaise de linguistique appliquee",
+                    "title": "interpreter les recits de demande d asile une perspective legitimiste et militante du statut de refugie",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "journal": "LANGAGE ET SOCI\u00c9T\u00c9 (PARIS)",
+            "title": "interpretation traduction orale et formes de mediation dans les situations sociales introduction",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0181-4095"
+            ],
+            "PId": 1661577798,
+            "citing": [
+                {
+                    "PId": 2549272635,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2016.09.008",
+                    "journal": "journal of pragmatics",
+                    "title": "participation in bilingual interactions translating interpreting and mediating documents in a french social centre",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3092637991,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        },
+                        {
+                            "AuId": 3095935005,
+                            "AuN": "patricia lambert"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "doi": "10.7202/1071696AR",
+                    "journal": "journal of pragmatics",
+                    "title": "le recit de la migration en sante avec des personnes demandeuses d asile en france reflexions sur la formation des soignants et des interpretes",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2235641640,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "journal": "journal of pragmatics",
+                    "title": "la bonne information quand les interpretes corrigent les reponses du patient dans la consultation medicale",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "5"
+            },
+            "journal": "LANGAGE ET SOCI\u00c9T\u00c9 (PARIS)",
+            "title": "territoires corporels ressenti et paroles d action des moments delicats de la consultation medicale avec interprete ",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0163-853X"
+            ],
+            "cited": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Schegloff",
+                            "given": "Emanuel A.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/BF00148124",
+                    "title": "the routine as achievement",
+                    "year_oc": 1986
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Ford",
+                            "given": "Cecilia E.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Thompson",
+                            "given": "Sandra A.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511620874.003",
+                    "title": "interactional units in conversation syntactic intonational and pragmatic resources for the management of turns",
+                    "year_oc": 1996
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Schegloff",
+                            "given": "Emanuel A.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511791208",
+                    "title": "sequence organization in interaction",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Language and Cognition Department, Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands"
+                                }
+                            ],
+                            "family": "Kendrick",
+                            "given": "Kobin H.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Language and Cognition Department, Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands"
+                                }
+                            ],
+                            "family": "Torreira",
+                            "given": "Francisco",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1080/0163853X.2014.955997",
+                    "title": "the timing and construction of preference a quantitative study",
+                    "year_oc": 2015
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Robinson",
+                            "given": "Jeffrey D.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1080/03637750600581206",
+                    "title": "managing trouble responsibility and relationships during conversational repair",
+                    "year_oc": 2006
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Emmertsen",
+                            "given": "Sofie",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Heinemann",
+                            "given": "Trine",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1080/08351811003738059",
+                    "title": "realization as a device for remedying problems of affiliation in interaction",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kevoe-Feldman",
+                            "given": "Heidi",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Robinson",
+                            "given": "Jeffrey D.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1177/1461445612439958",
+                    "title": "exploring essentially three turn courses of action an institutional case study with implications for ordinary talk",
+                    "year_oc": 2012
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Robinson",
+                            "given": "Jeffrey D.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1207/S15327973RLSI3703_2",
+                    "title": "the sequential organization of explicit apologies in naturally occurring english",
+                    "year_oc": 2004
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "SCHEGLOFF",
+                            "given": "EMANUEL A.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1525/SP.2005.52.4.449",
+                    "title": "on complainability",
+                    "year_oc": 2005
+                }
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "The University of British Columbia"
+                                }
+                            ],
+                            "family": "Rieger",
+                            "given": "Caroline L.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/PRAG.27.4.04RIE",
+                    "title": " i want a real apology ",
+                    "year_oc": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1080/0163853X.2015.1056692",
+            "journal": "DISCOURSE PROCESSES",
+            "title": "i m sorry naming the offence a specific format for doing apologising",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "1591-4127"
+            ],
+            "cv_id": {
+                "pubbs_ind": "7"
+            },
+            "journal": "THE INTERPRETERS' NEWSLETTER",
+            "title": "la bonne information quand les interpretes corrigent les reponses du patient au docteur dans la consultation medicale ",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "8"
+            },
+            "title": " interpreting in for indigenous languages ",
+            "type": "voce (in dizionario o enciclopedia)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9789027212146"
+            ],
+            "cited": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Schegloff",
+                            "given": "Emanuel A.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/BF00148124",
+                    "title": "the routine as achievement",
+                    "year_oc": 1986
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Heath",
+                            "given": "Christian",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Luff",
+                            "given": "Paul",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1007/BF00752451",
+                    "title": "collaboration and controlcrisis management and multimedia technology in london underground line control rooms",
+                    "year_oc": 1992
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Nevile",
+                            "given": "Maurice",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1007/S10606-008-9089-0",
+                    "title": " you are well clear of friendlies diagnostic error and cooperative work in an iraq war friendly fire incident",
+                    "year_oc": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "MAZELAND",
+                            "given": "HARRIE",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "HUISMAN",
+                            "given": "MARJAN",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "SCHASFOORT",
+                            "given": "MARCA",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/B978-0-08-042400-2.50017-0",
+                    "title": "negotiating categories in travel agency calls",
+                    "year_oc": 1995
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Haakana",
+                            "given": "Markku",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2010.01.010",
+                    "title": "laughter and smiling notes on co occurrences",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Arminen",
+                            "given": "Ilkka",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Auvinen",
+                            "given": "Petra",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Palukka",
+                            "given": "Hannele",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2009.06.015",
+                    "title": "repairs as the last orderly provided defense of safety in aviation",
+                    "year_oc": 2010
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Heath",
+                            "given": "Christian",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Luff",
+                            "given": "Paul",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511489839",
+                    "title": "technology in action",
+                    "year_oc": 2000
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Glenn",
+                            "given": "Phillip",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511519888",
+                    "title": "laughter in interaction",
+                    "year_oc": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Goodwin",
+                            "given": "Charles",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511620874.008",
+                    "title": "transparent vision",
+                    "year_oc": 1996
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Coupland",
+                            "given": "Nikolas",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/S0047404500010198",
+                    "title": "patterns of encounter management further arguments for discourse variables",
+                    "year_oc": 1983
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "SZYMANSKI",
+                            "given": "MARGARET H.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/S0047404599001013",
+                    "title": "re engaging and dis engaging talk in activity",
+                    "year_oc": 1999
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "The MITRE Corporation, McLean, Virginia"
+                                }
+                            ],
+                            "family": "Loehr",
+                            "given": "Daniel",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/GEST.7.2.04LOE",
+                    "title": "aspects of rhythm in gesture and speech",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Hartford",
+                            "given": "Beverly S.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Bardovi\u2010Harlig",
+                            "given": "Kathleen",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1080/01638539209544803",
+                    "title": "closing the conversation evidence from the academic advising session",
+                    "year_oc": 1992
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Bolden",
+                            "given": "Galina B.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1080/08351810802237909",
+                    "title": " so what s up using the discourse markersoto launch conversational business",
+                    "year_oc": 2008
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Schegloff",
+                            "given": "Emanuel A.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Lerner",
+                            "given": "Gene H.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1080/08351810902864511",
+                    "title": "beginning to respond well prefaced responses towh questions",
+                    "year_oc": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Helsinki, Finland"
+                                }
+                            ],
+                            "family": "Haakana",
+                            "given": "Markku",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1111/1467-9481.00185",
+                    "title": "laughter in medical interaction from quantification to analysis and back",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Haddington",
+                            "given": "Pentti",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Rauniomaa",
+                            "given": "Mirka",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1111/J.1468-2958.2010.01400.X",
+                    "title": "technologies multitasking and driving attending to and preparing for a mobile phone conversation in a car",
+                    "year_oc": 2011
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Ylanne-Mcewen",
+                            "given": "V.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1177/1461445604046592",
+                    "title": "shifting alignment and negotiating sociality in travel agency discourse",
+                    "year_oc": 2004
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Beach",
+                            "given": "Wayne A.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Lockwood",
+                            "given": "Alane S.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1207/S15327973RLSI3604_3",
+                    "title": "making the case for airline compassion fares the serial organization of problem narratives during a family crisis",
+                    "year_oc": 2003
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "SCHEGLOFF",
+                            "given": "EMANUEL A.",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "SACKS",
+                            "given": "HARVEY",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1515/SEMI.1973.8.4.289",
+                    "title": "opening up closings",
+                    "year_oc": 1973
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "GOODWIN",
+                            "given": "CHARLES",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1515/SEMI.1986.62.1-2.29",
+                    "title": "gestures as a resource for the organization of mutual orientation",
+                    "year_oc": 1986
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Schegloff",
+                            "given": "Emanuel A.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1525/AA.1968.70.6.02A00030",
+                    "title": "sequencing in conversational openings",
+                    "year_oc": 1968
+                }
+            ],
+            "citing": [
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Northwestern University, USA"
+                                }
+                            ],
+                            "family": "Birnholtz",
+                            "given": "Jeremy",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Northwestern University, USA"
+                                }
+                            ],
+                            "family": "Davison",
+                            "given": "Jordan",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Northwestern University, USA"
+                                }
+                            ],
+                            "family": "Li",
+                            "given": "Ang",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1177/2050157917714504",
+                    "title": "attending to attention how do people attract manage and negotiate attention using mobile devices ",
+                    "year_oc": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "9"
+            },
+            "doi": "10.1075/Z.187.07TIC",
+            "title": "multiactivity in a travel agency managing phone calls while interacting with a customer ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9781441164797"
+            ],
+            "PId": 2611792999,
+            "citing": [
+                {
+                    "PId": 2549272635,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2016.09.008",
+                    "journal": "journal of pragmatics",
+                    "title": "participation in bilingual interactions translating interpreting and mediating documents in a french social centre",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2897654584,
+                    "author": [
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "doi": "10.1017/S0959269518000108",
+                    "journal": "journal of pragmatics",
+                    "title": "demander de l aide a la permanence d acces aux droits d un centre social modalites de construction des requetes",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2227167115,
+                    "author": [
+                        {
+                            "AuId": 2657840394,
+                            "AuN": "tejshree auckle"
+                        }
+                    ],
+                    "journal": "journal of pragmatics",
+                    "title": "code switching language mixing and fused lects language alternation phenomena in multilingual mauritius",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2235641640,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "journal": "journal of pragmatics",
+                    "title": "la bonne information quand les interpretes corrigent les reponses du patient dans la consultation medicale",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "10"
+            },
+            "title": "the use of laughter in bilingual doctor patient interactions displaying resistance to doctor s talk in a mexican village",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1592-1328"
+            ],
+            "PId": 2796841835,
+            "citing": [
+                {
+                    "PId": 2549272635,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2016.09.008",
+                    "journal": "journal of pragmatics",
+                    "title": "participation in bilingual interactions translating interpreting and mediating documents in a french social centre",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2235641640,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "journal": "journal of pragmatics",
+                    "title": "la bonne information quand les interpretes corrigent les reponses du patient dans la consultation medicale",
+                    "year_mag": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "11"
+            },
+            "journal": "XI",
+            "title": "acciones despreferidas en la interaccion mediada medico paciente en yucatan rivista di psicolinguistica applicata vol",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1124-8890"
+            ],
+            "PId": 2787364643,
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "12"
+            },
+            "journal": "RIVISTA ITALIANA DI ONOMASTICA",
+            "title": "endonimi esonimi ed altre forme onimiche una verifica empirica ",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "cv_id": {
+                "pubbs": "2"
+            },
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "887395569X"
+            ],
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "title": "configurazioni diadiche nel dialogo mediato medico paziente",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2742877473,
+            "cited": [
+                {
+                    "PId": 2159035740,
+                    "author": [
+                        {
+                            "AuId": 2104626128,
+                            "AuN": "penelope brown"
+                        },
+                        {
+                            "AuId": 1981623995,
+                            "AuN": "stephen c levinson"
+                        }
+                    ],
+                    "title": "politeness some universals in language usage",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2496215390,
+                    "author": [
+                        {
+                            "AuId": 1997509715,
+                            "AuN": "nick llewellyn"
+                        }
+                    ],
+                    "doi": "10.1093/OXFORDHB/9780199671083.013.0013",
+                    "title": "garfinkel and ethnomethodology",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1576632330,
+                    "author": [
+                        {
+                            "AuId": 3001187651,
+                            "AuN": "john austin"
+                        }
+                    ],
+                    "title": "how to do things with words",
+                    "year_mag": 1962
+                },
+                {
+                    "PId": 1495343623,
+                    "author": [
+                        {
+                            "AuId": 1981623995,
+                            "AuN": "stephen c levinson"
+                        }
+                    ],
+                    "doi": "10.1002/9781118325001.CH6",
+                    "title": "action formation and ascription",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2162840157,
+                    "author": [
+                        {
+                            "AuId": 2030637823,
+                            "AuN": "anita pomerantz"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511665868.008",
+                    "title": "agreeing and disagreeing with assessments some features of preferred dispreferred turn shapes",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 2129264276,
+                    "author": [
+                        {
+                            "AuId": 2260550305,
+                            "AuN": "john r searle"
+                        }
+                    ],
+                    "title": "speech acts an essay in the philosophy of language",
+                    "year_mag": 1969
+                },
+                {
+                    "PId": 2110808938,
+                    "author": [
+                        {
+                            "AuId": 2807471759,
+                            "AuN": "elizabeth couperkuhlen"
+                        }
+                    ],
+                    "doi": "10.1075/PRAG.24.3.08COU",
+                    "journal": "pragmatics",
+                    "title": "what does grammar tell us about action",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2068687198,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        },
+                        {
+                            "AuId": 2121438367,
+                            "AuN": "harvey sacks"
+                        }
+                    ],
+                    "doi": "10.1515/SEMI.1973.8.4.289",
+                    "journal": "semiotica",
+                    "title": "opening up closings",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 1659701168,
+                    "author": [
+                        {
+                            "AuId": 2104626128,
+                            "AuN": "penelope brown"
+                        },
+                        {
+                            "AuId": 1981623995,
+                            "AuN": "stephen c levinson"
+                        }
+                    ],
+                    "title": "universals in language usage politeness phenomena",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 2044818951,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        }
+                    ],
+                    "doi": "10.1525/AA.1968.70.6.02A00030",
+                    "journal": "american anthropologist",
+                    "title": "sequencing in conversational openings",
+                    "year_mag": 1968
+                },
+                {
+                    "PId": 2086299222,
+                    "author": [
+                        {
+                            "AuId": 2022872097,
+                            "AuN": "erving goffman"
+                        }
+                    ],
+                    "title": "interaction ritual essays on face to face behavior",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 2182899329,
+                    "author": [
+                        {
+                            "AuId": 2071611480,
+                            "AuN": "steven e clayman"
+                        }
+                    ],
+                    "title": "benefactors and beneficiaries benefactive status and stance in the management of offers and requests",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2029035270,
+                    "author": [
+                        {
+                            "AuId": 2125095586,
+                            "AuN": "spyridoula bella"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2010.11.005",
+                    "journal": "journal of pragmatics",
+                    "title": "mitigation and politeness in greek invitation refusals effects of length of residence in the target community and intensity of interaction on non native speakers performance",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2991321857,
+                    "author": [
+                        {
+                            "AuId": 2989884157,
+                            "AuN": "gail jefferson"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511665868.014",
+                    "title": "structures of social action on stepwise transition from talk about a trouble to inappropriately next positioned matters",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 328760816,
+                    "author": [
+                        {
+                            "AuId": 2675739770,
+                            "AuN": "gene h lerner"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511757464.004",
+                    "title": "conversational repair and human understanding on the place of hesitating in delicate formulations a turn constructional infrastructure for collaborative indiscretion",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1499335640,
+                    "author": [
+                        {
+                            "AuId": 2704563424,
+                            "AuN": "judy davidson"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511665868.009",
+                    "title": "structures of social action subsequent versions of invitations offers requests and proposals dealing with potential or actual rejection",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 2031953582,
+                    "author": [
+                        {
+                            "AuId": 2580459431,
+                            "AuN": "carmen garcia"
+                        }
+                    ],
+                    "doi": "10.1515/MULT.1999.18.4.391",
+                    "journal": "multilingua journal of cross cultural and interlanguage communication",
+                    "title": "the three stages of venezuelan invitations and responses",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2007148057,
+                    "author": [
+                        {
+                            "AuId": 2125095586,
+                            "AuN": "spyridoula bella"
+                        }
+                    ],
+                    "doi": "10.1515/JPLR.2009.013",
+                    "journal": "journal of politeness research language behaviour culture",
+                    "title": "invitations and politeness in greek the age variable",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2616569779,
+                    "author": [
+                        {
+                            "AuId": 2598943121,
+                            "AuN": "annemarie barrajarohan"
+                        }
+                    ],
+                    "doi": "10.1075/ARALSS.11.08BAR",
+                    "title": "a very delayed acceptance to an invitation in a french conversation",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 3038212304,
+                    "author": [
+                        {
+                            "AuId": 3040425707,
+                            "AuN": "d rod watson"
+                        }
+                    ],
+                    "doi": "10.4000/BOOKS.EDITIONSEHESS.10027",
+                    "title": "categories sequentialite et ordre social",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2050935768,
+                    "author": [
+                        {
+                            "AuId": 121595479,
+                            "AuN": "bernard conein"
+                        }
+                    ],
+                    "doi": "10.3406/LGGE.1986.2481",
+                    "journal": "langages",
+                    "title": "conversation et interaction sociale analyse de sequences d offre et d invitation",
+                    "year_mag": 1986
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2749101040,
+                    "author": [
+                        {
+                            "AuId": 2022209543,
+                            "AuN": "piera margutti"
+                        },
+                        {
+                            "AuId": 2463203470,
+                            "AuN": "renata galatolo"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2017.06.017",
+                    "journal": "journal of pragmatics",
+                    "title": "reason for calling invitations in italian telephone calls action design and recipient commitment",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 3015154072,
+                    "author": [
+                        {
+                            "AuId": 2987879784,
+                            "AuN": "elisa ravazzolo"
+                        },
+                        {
+                            "AuId": 2303149304,
+                            "AuN": "carole etienne"
+                        }
+                    ],
+                    "doi": "10.4000/LINX.3454",
+                    "journal": "journal of pragmatics",
+                    "title": "nouvelles ressources pour le fle a partir des etudes en interaction",
+                    "year_mag": 2019
+                }
+            ],
+            "doi": "10.1016/J.PRAGMA.2017.07.003",
+            "journal": "journal of pragmatics",
+            "title": "invitations in french a complex and apparently sensitive action",
+            "type": "1",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2255730464,
+            "cited": [
+                {
+                    "PId": 2498260772,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        }
+                    ],
+                    "title": "sequence organization in interaction a primer in conversation analysis",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2162840157,
+                    "author": [
+                        {
+                            "AuId": 2030637823,
+                            "AuN": "anita pomerantz"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511665868.008",
+                    "title": "agreeing and disagreeing with assessments some features of preferred dispreferred turn shapes",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 252856742,
+                    "author": [
+                        {
+                            "AuId": 2303705429,
+                            "AuN": "phillip glenn"
+                        }
+                    ],
+                    "title": "laughter in interaction",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2068687198,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        },
+                        {
+                            "AuId": 2121438367,
+                            "AuN": "harvey sacks"
+                        }
+                    ],
+                    "doi": "10.1515/SEMI.1973.8.4.289",
+                    "journal": "semiotica",
+                    "title": "opening up closings",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 2255987460,
+                    "author": [
+                        {
+                            "AuId": 2148511306,
+                            "AuN": "chase wesley raymond"
+                        }
+                    ],
+                    "doi": "10.1080/0163853X.2015.1056695",
+                    "journal": "discourse processes",
+                    "title": "are explicit apologies proportional to the offenses they address",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2051459059,
+                    "author": [
+                        {
+                            "AuId": 2112019758,
+                            "AuN": "jeffrey d robinson"
+                        }
+                    ],
+                    "doi": "10.1207/S15327973RLSI3703_2",
+                    "journal": "research on language and social interaction",
+                    "title": "the sequential organization of explicit apologies in naturally occurring english",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2041198080,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-2166(00)00073-4",
+                    "journal": "journal of pragmatics",
+                    "title": "getting serious joke serious no",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2201797033,
+                    "author": [
+                        {
+                            "AuId": 2030637823,
+                            "AuN": "anita pomerantz"
+                        }
+                    ],
+                    "doi": "10.1016/B978-0-12-623550-0.50010-0",
+                    "title": "compliment responses notes on the co operation of multiple constraints",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 2496271756,
+                    "author": [
+                        {
+                            "AuId": 2071611480,
+                            "AuN": "steven e clayman"
+                        }
+                    ],
+                    "doi": "10.1016/S0882-6145(02)19009-6",
+                    "title": "sequence and solidarity",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2122023583,
+                    "author": [
+                        {
+                            "AuId": 2291829446,
+                            "AuN": "janet holmes"
+                        }
+                    ],
+                    "doi": "10.1017/S0047404500014366",
+                    "journal": "language in society",
+                    "title": "apologies in new zealand english",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 27460677,
+                    "author": [
+                        {
+                            "AuId": 2153560426,
+                            "AuN": "gail jefferson"
+                        },
+                        {
+                            "AuId": 2121438367,
+                            "AuN": "harvey sacks"
+                        },
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        }
+                    ],
+                    "title": "notes on laughter in the pursuit of intimacy",
+                    "year_mag": 1987
+                },
+                {
+                    "PId": 2174919855,
+                    "author": [
+                        {
+                            "AuId": 2156010789,
+                            "AuN": "chloe shaw"
+                        },
+                        {
+                            "AuId": 2121659139,
+                            "AuN": "alexa hepburn"
+                        },
+                        {
+                            "AuId": 2465706976,
+                            "AuN": "jonathan potter"
+                        }
+                    ],
+                    "title": "having the last laugh on post completion laughter particles",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 143729218,
+                    "author": [
+                        {
+                            "AuId": 2153560426,
+                            "AuN": "gail jefferson"
+                        }
+                    ],
+                    "title": "a technique for inviting laughter and its subsequent acceptance declination",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 1963704792,
+                    "author": [
+                        {
+                            "AuId": 1234398854,
+                            "AuN": "samuel gyasi obeng"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-2166(98)00089-7",
+                    "journal": "journal of pragmatics",
+                    "title": "apologies in akan discourse",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2256078371,
+                    "author": [
+                        {
+                            "AuId": 2022209543,
+                            "AuN": "piera margutti"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        },
+                        {
+                            "AuId": 2099654004,
+                            "AuN": "rosa pugliese"
+                        }
+                    ],
+                    "doi": "10.1080/0163853X.2015.1056693",
+                    "journal": "discourse processes",
+                    "title": "i m sorry about that apologies indexicals and unnamed offenses",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2472616187,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        }
+                    ],
+                    "doi": "10.1075/PBNS.125.07SCH",
+                    "journal": "pragmatics and beyond new series",
+                    "title": "answering the phone",
+                    "year_mag": 2004
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Heinemann",
+                            "given": "Trine",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Traverso",
+                            "given": "V\u00e9ronique",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2008.10.006",
+                    "title": "complaining in interaction",
+                    "year_oc": 2009
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Schegloff",
+                            "given": "Emanuel A.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511791208",
+                    "title": "sequence organization in interaction",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Levinson",
+                            "given": "Stephen C.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511813313",
+                    "title": "pragmatics",
+                    "year_oc": 1983
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Mazeland",
+                            "given": "Harrie",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Huiskes",
+                            "given": "Mike",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1075/SIDAG.10.08MAZ",
+                    "title": "dutch but as a sequential conjunction",
+                    "year_oc": 2001
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Galatolo",
+                            "given": "Renata",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Ursi",
+                            "given": "Biagio",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Bongelli",
+                            "given": "Ramona",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1080/0163853X.2015.1056694",
+                    "title": "parasitic apologies",
+                    "year_oc": 2015
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2255987460,
+                    "author": [
+                        {
+                            "AuId": 2148511306,
+                            "AuN": "chase wesley raymond"
+                        }
+                    ],
+                    "doi": "10.1080/0163853X.2015.1056695",
+                    "journal": "discourse processes",
+                    "title": "are explicit apologies proportional to the offenses they address",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2914758241,
+                    "author": [
+                        {
+                            "AuId": 2148511306,
+                            "AuN": "chase wesley raymond"
+                        },
+                        {
+                            "AuId": 2234885905,
+                            "AuN": "paul drew"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2019.01.001",
+                    "journal": "discourse processes",
+                    "title": "constructing apologies reflexive relationships between apologies and offenses",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2940771938,
+                    "author": [
+                        {
+                            "AuId": 2570029232,
+                            "AuN": "susan a speer"
+                        }
+                    ],
+                    "doi": "10.1111/BJSO.12329",
+                    "journal": "discourse processes",
+                    "title": "reconsidering self deprecation as a communication practice",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2256078371,
+                    "author": [
+                        {
+                            "AuId": 2022209543,
+                            "AuN": "piera margutti"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        },
+                        {
+                            "AuId": 2099654004,
+                            "AuN": "rosa pugliese"
+                        }
+                    ],
+                    "doi": "10.1080/0163853X.2015.1056693",
+                    "journal": "discourse processes",
+                    "title": "i m sorry about that apologies indexicals and unnamed offenses",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2765779298,
+                    "author": [
+                        {
+                            "AuId": 2018770362,
+                            "AuN": "caroline l rieger"
+                        }
+                    ],
+                    "doi": "10.1075/PRAG.27.4.04RIE",
+                    "journal": "discourse processes",
+                    "title": "i want a real apology a discursive pragmatics perspective on apologies",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2742224263,
+                    "author": [
+                        {
+                            "AuId": 2743146646,
+                            "AuN": "rose burfordrice"
+                        },
+                        {
+                            "AuId": 2002341877,
+                            "AuN": "martha augoustinos"
+                        }
+                    ],
+                    "doi": "10.1111/BJSO.12211",
+                    "journal": "discourse processes",
+                    "title": "i didn t mean that it was just a slip of the tongue racial slips and gaffes in the public arena",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2897796617,
+                    "author": [
+                        {
+                            "AuId": 2582681163,
+                            "AuN": "innhwa park"
+                        },
+                        {
+                            "AuId": 2896563000,
+                            "AuN": "margo duey"
+                        }
+                    ],
+                    "doi": "10.1515/APPLIREV-2018-0017",
+                    "journal": "discourse processes",
+                    "title": "i m sorry to interrupt the use of explicit apology in turn taking",
+                    "year_mag": 2020
+                }
+            ],
+            "doi": "10.1080/0163853X.2015.1056691",
+            "journal": "discourse processes",
+            "title": "i m sorry naming the offense a format for apologizing",
+            "type": "1",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2528832788,
+            "title": "constructing objects through mediation the case of prenatal ultrasound visits",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2789991570,
+            "citing": [
+                {
+                    "PId": 3012866632,
+                    "author": [
+                        {
+                            "AuId": 3012938771,
+                            "AuN": "natacha niemants"
+                        },
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "doi": "10.1080/10410236.2020.1735702",
+                    "journal": "health communication",
+                    "title": "patients disalignment in two different healthcare settings",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 3037732440,
+                    "author": [
+                        {
+                            "AuId": 3037017276,
+                            "AuN": "s piazza"
+                        }
+                    ],
+                    "doi": "10.1016/J.INAN.2020.04.004",
+                    "journal": "health communication",
+                    "title": "entretien en binome reanimateur et psychologue la traduction en question",
+                    "year_mag": 2020
+                }
+            ],
+            "doi": "10.3917/LAUTR.054.0304",
+            "title": "parole voix et corps convergence entre l interprete et le soignant dans les consultations avec des migrants",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2604788666,
+            "cited": [
+                {
+                    "PId": 1978874520,
+                    "author": [
+                        {
+                            "AuId": 2486205109,
+                            "AuN": "charles goodwin"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-2166(99)00096-X",
+                    "journal": "journal of pragmatics",
+                    "title": "action and embodiment within situated human interaction",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2153190547,
+                    "author": [
+                        {
+                            "AuId": 2121438367,
+                            "AuN": "harvey sacks"
+                        },
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        },
+                        {
+                            "AuId": 2153560426,
+                            "AuN": "gail jefferson"
+                        }
+                    ],
+                    "doi": "10.2307/412243",
+                    "journal": "language",
+                    "title": "a simplest systematics for the organization of turn taking for conversation",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 2125846400,
+                    "author": [
+                        {
+                            "AuId": 2662960765,
+                            "AuN": "william f hanks"
+                        }
+                    ],
+                    "doi": "10.1086/427120",
+                    "journal": "current anthropology",
+                    "title": "explorations in the deictic field",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1998982775,
+                    "author": [
+                        {
+                            "AuId": 2184841385,
+                            "AuN": "tijana asic"
+                        },
+                        {
+                            "AuId": 2015698257,
+                            "AuN": "veran stanojevic"
+                        }
+                    ],
+                    "doi": "10.3917/LF.179.0029",
+                    "journal": "langue francaise",
+                    "title": "espace temps verbaux prepositions temporelles",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2061228114,
+                    "author": [
+                        {
+                            "AuId": 2159056259,
+                            "AuN": "ellen fricke"
+                        }
+                    ],
+                    "doi": "10.1075/GEST.2.2.05FRI",
+                    "journal": "gesture",
+                    "title": "origo pointing and speech the impact of co speech gestures on linguistic deixis theory",
+                    "year_mag": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Sacks",
+                            "given": "Harvey",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Schegloff",
+                            "given": "Emanuel A.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Jefferson",
+                            "given": "Gail",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.1974.0010",
+                    "title": "a simplest systematics for the organization of turn taking for conversation",
+                    "year_oc": 1974
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2995344891,
+                    "author": [
+                        {
+                            "AuId": 3095857779,
+                            "AuN": "anna claudia ticca"
+                        },
+                        {
+                            "AuId": 2805409309,
+                            "AuN": "biagio ursi"
+                        }
+                    ],
+                    "doi": "10.4000/BOOKS.UGAEDITIONS.11032",
+                    "title": "chapitre 9 le toucher dans une visite guidee avec des enfants malvoyants orientation transition experience",
+                    "year_mag": 2019
+                }
+            ],
+            "doi": "10.3917/LF.193.0057",
+            "journal": "langue francaise",
+            "title": "multidimensionnalite indexicalite et temporalite s le cas de tout a l heure",
+            "type": "1",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2786788261,
+            "citing": [
+                {
+                    "PId": 3037732440,
+                    "author": [
+                        {
+                            "AuId": 3037017276,
+                            "AuN": "s piazza"
+                        }
+                    ],
+                    "doi": "10.1016/J.INAN.2020.04.004",
+                    "journal": "analysis",
+                    "title": "entretien en binome reanimateur et psychologue la traduction en question",
+                    "year_mag": 2020
+                }
+            ],
+            "title": "parole voix et corps",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2927430341,
+            "title": "touching for greeting in conversations among friends",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 960585923,
+            "cited": [
+                {
+                    "PId": 2085529605,
+                    "author": [
+                        {
+                            "AuId": 2002906405,
+                            "AuN": "edwin hutchins"
+                        }
+                    ],
+                    "title": "cognition in the wild",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2052417512,
+                    "author": [
+                        {
+                            "AuId": 194655116,
+                            "AuN": "george lakoff"
+                        },
+                        {
+                            "AuId": 2111261108,
+                            "AuN": "mark h johnson"
+                        }
+                    ],
+                    "title": "metaphors we live by",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 168676630,
+                    "author": [
+                        {
+                            "AuId": 2503347236,
+                            "AuN": "leonard talmy"
+                        }
+                    ],
+                    "title": "toward a cognitive semantics",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1978874520,
+                    "author": [
+                        {
+                            "AuId": 2486205109,
+                            "AuN": "charles goodwin"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-2166(99)00096-X",
+                    "journal": "journal of pragmatics",
+                    "title": "action and embodiment within situated human interaction",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1605655352,
+                    "author": [
+                        {
+                            "AuId": 1981623995,
+                            "AuN": "stephen c levinson"
+                        }
+                    ],
+                    "title": "space in language and cognition",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1803225698,
+                    "author": [
+                        {
+                            "AuId": 2155738069,
+                            "AuN": "henri lefebvre"
+                        }
+                    ],
+                    "title": "la production de l espace",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2121722567,
+                    "author": [
+                        {
+                            "AuId": 2788376239,
+                            "AuN": "eric laurier"
+                        },
+                        {
+                            "AuId": 2148537771,
+                            "AuN": "hayden lorimer"
+                        },
+                        {
+                            "AuId": 2134812874,
+                            "AuN": "barry brown"
+                        },
+                        {
+                            "AuId": 2124028427,
+                            "AuN": "owain jones"
+                        },
+                        {
+                            "AuId": 2922756745,
+                            "AuN": "oskar juhlin"
+                        },
+                        {
+                            "AuId": 2787904885,
+                            "AuN": "allyson noble"
+                        },
+                        {
+                            "AuId": 2397203458,
+                            "AuN": "mark perry"
+                        },
+                        {
+                            "AuId": 2072123772,
+                            "AuN": "daniele pica"
+                        },
+                        {
+                            "AuId": 2952146814,
+                            "AuN": "philippe sormani"
+                        },
+                        {
+                            "AuId": 1921874116,
+                            "AuN": "ignaz strebel"
+                        },
+                        {
+                            "AuId": 2126464196,
+                            "AuN": "laurel swan"
+                        },
+                        {
+                            "AuId": 2163777400,
+                            "AuN": "alex s taylor"
+                        },
+                        {
+                            "AuId": 2098614807,
+                            "AuN": "laura watts"
+                        },
+                        {
+                            "AuId": 2056074731,
+                            "AuN": "alexandra weilenmann"
+                        }
+                    ],
+                    "doi": "10.1080/17450100701797273",
+                    "journal": "mobilities",
+                    "title": "driving and passengering notes on the ordinary organization of car travel",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 641408313,
+                    "author": [
+                        {
+                            "AuId": 2161989416,
+                            "AuN": "charles j fillmore"
+                        }
+                    ],
+                    "title": "lectures on deixis",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2267177853,
+                    "author": [
+                        {
+                            "AuId": 1997766105,
+                            "AuN": "edward s casey"
+                        }
+                    ],
+                    "title": "the fate of place",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2143363866,
+                    "author": [
+                        {
+                            "AuId": 2992395484,
+                            "AuN": "jon hindmarsh"
+                        },
+                        {
+                            "AuId": 2122916519,
+                            "AuN": "christian heath"
+                        },
+                        {
+                            "AuId": 2061974184,
+                            "AuN": "dirk vom lehn"
+                        },
+                        {
+                            "AuId": 2086676818,
+                            "AuN": "jason cleverly"
+                        }
+                    ],
+                    "doi": "10.1007/S10606-004-1814-8",
+                    "title": "creating assemblies in public environments social interaction interactive exhibits and cscw",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1516645065,
+                    "author": [
+                        {
+                            "AuId": 2271345896,
+                            "AuN": "elwys de stefani"
+                        },
+                        {
+                            "AuId": 886935299,
+                            "AuN": "lorenza mondada"
+                        }
+                    ],
+                    "doi": "10.1177/1206331213508504",
+                    "journal": "space and culture",
+                    "title": "reorganizing mobile formations when guided participants initiate reorientations in guided tours",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1985004168,
+                    "author": [
+                        {
+                            "AuId": 376168030,
+                            "AuN": "n j enfield"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.2003.0075",
+                    "journal": "language",
+                    "title": "demonstratives in space and interaction data from lao speakers and implications for semantic analysis",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 600716078,
+                    "author": [
+                        {
+                            "AuId": 2103660852,
+                            "AuN": "johannes schmidt"
+                        }
+                    ],
+                    "title": "die verwantschaftsverhaltnisse der indogermanischen sprachen",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2151430859,
+                    "author": [
+                        {
+                            "AuId": 2061700448,
+                            "AuN": "greg myers"
+                        }
+                    ],
+                    "doi": "10.1111/J.1360-6441.2006.00330.X",
+                    "journal": "journal of sociolinguistics",
+                    "title": "where are you from identifying place1",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 569907279,
+                    "author": [
+                        {
+                            "AuId": 2100181615,
+                            "AuN": "francis charles timothy moore"
+                        }
+                    ],
+                    "title": "cognitive development and the acquisition of language",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 1572854454,
+                    "author": [
+                        {
+                            "AuId": 1981623995,
+                            "AuN": "stephen c levinson"
+                        },
+                        {
+                            "AuId": 2089064041,
+                            "AuN": "david p wilkins"
+                        }
+                    ],
+                    "title": "grammars of space",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2019355698,
+                    "author": [
+                        {
+                            "AuId": 2343202478,
+                            "AuN": "pentti haddington"
+                        },
+                        {
+                            "AuId": 142144550,
+                            "AuN": "tiina keisanen"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2008.09.018",
+                    "journal": "journal of pragmatics",
+                    "title": "location mobility and the body as resources in selecting a route",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2071955539,
+                    "author": [
+                        {
+                            "AuId": 229145643,
+                            "AuN": "ian hutchby"
+                        },
+                        {
+                            "AuId": 2292330035,
+                            "AuN": "simone barnett"
+                        }
+                    ],
+                    "doi": "10.1177/1461445605050364",
+                    "title": "aspects of the sequential organization of mobile phone conversation",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2145703170,
+                    "author": [
+                        {
+                            "AuId": 120640187,
+                            "AuN": "ilkka arminen"
+                        }
+                    ],
+                    "doi": "10.1177/1461445605055421",
+                    "journal": "discourse studies",
+                    "title": "sequential order and sequence structure the case of incommensurable studies on mobile phone calls",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 1520020354,
+                    "author": [
+                        {
+                            "AuId": 2122093311,
+                            "AuN": "herbert h clark"
+                        }
+                    ],
+                    "doi": "10.1016/B978-0-12-505850-6.50008-6",
+                    "title": "space time semantics and the child",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 1964391827,
+                    "author": [
+                        {
+                            "AuId": 2343202478,
+                            "AuN": "pentti haddington"
+                        }
+                    ],
+                    "doi": "10.1080/08351813.2010.518068",
+                    "journal": "research on language and social interaction",
+                    "title": "turn taking for turntaking mobility time and action in the sequential organization of junction negotiations in cars",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1974253104,
+                    "author": [
+                        {
+                            "AuId": 2056074731,
+                            "AuN": "alexandra weilenmann"
+                        },
+                        {
+                            "AuId": 248334490,
+                            "AuN": "peter leuchovius"
+                        }
+                    ],
+                    "doi": "10.1145/1028014.1028019",
+                    "title": "i m waiting where we met last time exploring everyday positioning practices to inform design",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2501046361,
+                    "author": [
+                        {
+                            "AuId": 376168030,
+                            "AuN": "n j enfield"
+                        },
+                        {
+                            "AuId": 1788107697,
+                            "AuN": "tanya stivers"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511486746.012",
+                    "title": "intersubjectivity and progressivity in person and place reference",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2315411926,
+                    "author": [
+                        {
+                            "AuId": 2705229080,
+                            "AuN": "david walsh"
+                        },
+                        {
+                            "AuId": 215231874,
+                            "AuN": "david sudnow"
+                        }
+                    ],
+                    "doi": "10.2307/588328",
+                    "journal": "british journal of sociology",
+                    "title": "studies in social interaction",
+                    "year_mag": 1972
+                },
+                {
+                    "PId": 1971588079,
+                    "author": [
+                        {
+                            "AuId": 565763985,
+                            "AuN": "christian licoppe"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2008.09.017",
+                    "journal": "journal of pragmatics",
+                    "title": "recognizing mutual proximity at a distance weaving together mobility sociality and technology",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2799057038,
+                    "author": [
+                        {
+                            "AuId": 2279362808,
+                            "AuN": "yifu tuan"
+                        }
+                    ],
+                    "title": "space and place",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 1970633754,
+                    "author": [
+                        {
+                            "AuId": 2088845660,
+                            "AuN": "adrian pable"
+                        }
+                    ],
+                    "doi": "10.1016/J.LANGCOM.2008.12.004",
+                    "journal": "language & communication",
+                    "title": "the dialect myth and socio onomastics the names of the castles of bellinzona in an integrational perspective",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2306877809,
+                    "author": [
+                        {
+                            "AuId": 2486205109,
+                            "AuN": "charles goodwin"
+                        }
+                    ],
+                    "title": "the interactive construction of a sentence in natural conversation",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 2240306122,
+                    "author": [
+                        {
+                            "AuId": 2121438367,
+                            "AuN": "harvey sacks"
+                        }
+                    ],
+                    "title": "an initial investigation of the usability of conversational data for doing sociology",
+                    "year_mag": 1972
+                },
+                {
+                    "PId": 2508003517,
+                    "author": [
+                        {
+                            "AuId": 886935299,
+                            "AuN": "lorenza mondada"
+                        }
+                    ],
+                    "doi": "10.3406/INTEL.2005.1722",
+                    "journal": "intellectica",
+                    "title": "la constitution de l origo deictique comme travail interactionnel des participants une approche praxeologique de la spatialite",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2274934395,
+                    "author": [
+                        {
+                            "AuId": 2730992989,
+                            "AuN": "elwys de stefani"
+                        }
+                    ],
+                    "title": "reference as an interactively and multimodally accomplished practice organizing spatial reorientation in guided tours",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1506120056,
+                    "author": [
+                        {
+                            "AuId": 2022266088,
+                            "AuN": "martin putz"
+                        },
+                        {
+                            "AuId": 2521542378,
+                            "AuN": "rene dirven"
+                        }
+                    ],
+                    "doi": "10.1515/9783110821611",
+                    "title": "the construal of space in language and thought",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2045412845,
+                    "author": [
+                        {
+                            "AuId": 1577271095,
+                            "AuN": "marc relieu"
+                        }
+                    ],
+                    "doi": "10.3406/LSOC.1999.2883",
+                    "title": "parler en marchant pour une ecologie dynamique des echanges de paroles",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 1987875924,
+                    "author": [
+                        {
+                            "AuId": 2712780805,
+                            "AuN": "albert e scheflen"
+                        }
+                    ],
+                    "doi": "10.1080/00332747.1964.11023403",
+                    "journal": "psychiatry mmc",
+                    "title": "the significance of posture in communication systems",
+                    "year_mag": 1964
+                },
+                {
+                    "PId": 2482664698,
+                    "author": [
+                        {
+                            "AuId": 2488694292,
+                            "AuN": "heiko hausendorf"
+                        }
+                    ],
+                    "doi": "10.1075/PBNS.112.13HAU",
+                    "title": "11 deixis and speech situation revisited the mechanism of perceived perception",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1849175860,
+                    "author": [
+                        {
+                            "AuId": 35759486,
+                            "AuN": "jacquelyn allencollinson"
+                        }
+                    ],
+                    "doi": "10.5281/ZENODO.31422",
+                    "title": "running together some ethnomethodological considerations",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2113514002,
+                    "author": [
+                        {
+                            "AuId": 2234885905,
+                            "AuN": "paul drew"
+                        }
+                    ],
+                    "doi": "10.1177/003803857801200102",
+                    "journal": "sociology",
+                    "title": "accusations the occasioned use of members knowledge of religious geography in describing events",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 1529409092,
+                    "author": [
+                        {
+                            "AuId": 2746202086,
+                            "AuN": "a lincoln ryave"
+                        },
+                        {
+                            "AuId": 2051261705,
+                            "AuN": "james n schenkein"
+                        }
+                    ],
+                    "title": "notes on the art of walking",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 2086868878,
+                    "author": [
+                        {
+                            "AuId": 2120144406,
+                            "AuN": "arnold gesell"
+                        }
+                    ],
+                    "doi": "10.1080/00221325.1991.9914712",
+                    "journal": "journal of genetic psychology",
+                    "title": "cinemanalysis a method of behavior study",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 621778366,
+                    "author": [
+                        {
+                            "AuId": 2045685908,
+                            "AuN": "franz bopp"
+                        },
+                        {
+                            "AuId": 625956674,
+                            "AuN": "karl joseph hieronymus windischmann"
+                        }
+                    ],
+                    "title": "uber das conjugationssystem der sanskritsprache in vergleichung mit jenem der griechischen lateinischen persischen und germanischen sprache",
+                    "year_mag": 1975
+                },
+                {
+                    "PId": 107826083,
+                    "author": [
+                        {
+                            "AuId": 1208566309,
+                            "AuN": "karola pitsch"
+                        }
+                    ],
+                    "title": "exponat alltagsgegenstand turngerat zur interaktiven konstitution von objekten in einer museumsausstellung",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1594330252,
+                    "author": [
+                        {
+                            "AuId": 2660682958,
+                            "AuN": "heinz vater"
+                        }
+                    ],
+                    "title": "einfuhrung in die raum linguistik",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 325349659,
+                    "author": [
+                        {
+                            "AuId": 1545565131,
+                            "AuN": "george psathas"
+                        }
+                    ],
+                    "doi": "10.1177/0145482X7607000904",
+                    "journal": "journal of visual impairment & blindness",
+                    "title": "mobility orientation and navigation conceptual and theoretical considerations",
+                    "year_mag": 1976
+                },
+                {
+                    "PId": 1488363850,
+                    "author": [
+                        {
+                            "AuId": 1993904027,
+                            "AuN": "karl buhler"
+                        }
+                    ],
+                    "title": "sprachtheorie die darstellungsfunktion der sprache",
+                    "year_mag": 1934
+                },
+                {
+                    "PId": 2754626249,
+                    "author": [
+                        {
+                            "AuId": 2155594133,
+                            "AuN": "ernst eichler"
+                        },
+                        {
+                            "AuId": 2706058464,
+                            "AuN": "gerold hilty"
+                        },
+                        {
+                            "AuId": 2276084049,
+                            "AuN": "heinrich loffler"
+                        },
+                        {
+                            "AuId": 1982146184,
+                            "AuN": "hugo steger"
+                        },
+                        {
+                            "AuId": 2091182231,
+                            "AuN": "ladislav zgusta"
+                        }
+                    ],
+                    "doi": "10.1515/9783110114263.1.4.400",
+                    "title": "grammatik der eigennamen uberblick",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1987241149,
+                    "author": [
+                        {
+                            "AuId": 1904591803,
+                            "AuN": "k jaberg"
+                        },
+                        {
+                            "AuId": 1821853018,
+                            "AuN": "jakob jud"
+                        },
+                        {
+                            "AuId": 2320056758,
+                            "AuN": "paul scheuermeier"
+                        },
+                        {
+                            "AuId": 2469301245,
+                            "AuN": "gerhard rohlfs"
+                        },
+                        {
+                            "AuId": 2096223363,
+                            "AuN": "max leopold wagner"
+                        }
+                    ],
+                    "doi": "10.2307/2913518",
+                    "journal": "modern language review",
+                    "title": "sprach und sachatlas italiens und der sudschweiz",
+                    "year_mag": 1930
+                },
+                {
+                    "PId": 1567025775,
+                    "author": [
+                        {
+                            "AuId": 1886933246,
+                            "AuN": "jules gillieron"
+                        }
+                    ],
+                    "title": "atlas linguistique de la france",
+                    "year_mag": 1902
+                },
+                {
+                    "PId": 2053929887,
+                    "author": [
+                        {
+                            "AuId": 2122525685,
+                            "AuN": "franz boas"
+                        }
+                    ],
+                    "title": "geographical names of the kwakiutl indians",
+                    "year_mag": 1896
+                },
+                {
+                    "PId": 1514353964,
+                    "author": [
+                        {
+                            "AuId": 1965086586,
+                            "AuN": "j j egli"
+                        }
+                    ],
+                    "title": "geschichte der geographischen namenkunde",
+                    "year_mag": 1886
+                },
+                {
+                    "PId": 1492739070,
+                    "author": [
+                        {
+                            "AuId": 2970460634,
+                            "AuN": "william hughes"
+                        },
+                        {
+                            "AuId": 2144901629,
+                            "AuN": "george long"
+                        }
+                    ],
+                    "title": "an atlas of classical geography",
+                    "year_mag": 1856
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2752226701,
+                    "author": [
+                        {
+                            "AuId": 2753026688,
+                            "AuN": "katarzyna aleksiejuk"
+                        }
+                    ],
+                    "title": "names on the internet towards electronic socio onom stics",
+                    "year_mag": 2017
+                }
+            ],
+            "title": "space in social interaction an introduction",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 1008252663,
+            "cited": [
+                {
+                    "PId": 1978874520,
+                    "author": [
+                        {
+                            "AuId": 2486205109,
+                            "AuN": "charles goodwin"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-2166(99)00096-X",
+                    "journal": "journal of pragmatics",
+                    "title": "action and embodiment within situated human interaction",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 1989661826,
+                    "author": [
+                        {
+                            "AuId": 886935299,
+                            "AuN": "lorenza mondada"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2008.09.019",
+                    "journal": "journal of pragmatics",
+                    "title": "emergent focused interactions in public places a systematic analysis of the multimodal achievement of a common interactional space",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2067589702,
+                    "author": [
+                        {
+                            "AuId": 1790019112,
+                            "AuN": "adam kendon"
+                        }
+                    ],
+                    "title": "conducting interaction patterns of behavior in focused encounters",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2147743504,
+                    "author": [
+                        {
+                            "AuId": 2069696205,
+                            "AuN": "gene h lerner"
+                        }
+                    ],
+                    "doi": "10.1017/S004740450332202X",
+                    "journal": "language in society",
+                    "title": "selecting next speaker the context sensitive operation of a context free organization",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 252856742,
+                    "author": [
+                        {
+                            "AuId": 2303705429,
+                            "AuN": "phillip glenn"
+                        }
+                    ],
+                    "title": "laughter in interaction",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2068687198,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        },
+                        {
+                            "AuId": 2121438367,
+                            "AuN": "harvey sacks"
+                        }
+                    ],
+                    "doi": "10.1515/SEMI.1973.8.4.289",
+                    "journal": "semiotica",
+                    "title": "opening up closings",
+                    "year_mag": 1973
+                },
+                {
+                    "PId": 1595229305,
+                    "author": [
+                        {
+                            "AuId": 2486205109,
+                            "AuN": "charles goodwin"
+                        }
+                    ],
+                    "title": "conversational organization interaction between speakers and hearers",
+                    "year_mag": 1981
+                },
+                {
+                    "PId": 1531878707,
+                    "author": [
+                        {
+                            "AuId": 2004280361,
+                            "AuN": "federico rossano"
+                        },
+                        {
+                            "AuId": 2104626128,
+                            "AuN": "penelope brown"
+                        },
+                        {
+                            "AuId": 1981623995,
+                            "AuN": "stephen c levinson"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511635670.008",
+                    "title": "gaze questioning and culture",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 1513811371,
+                    "author": [
+                        {
+                            "AuId": 2122916519,
+                            "AuN": "christian heath"
+                        },
+                        {
+                            "AuId": 2571843086,
+                            "AuN": "katherine nicholls"
+                        }
+                    ],
+                    "title": "body movement and speech in medical interaction",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2151664961,
+                    "author": [
+                        {
+                            "AuId": 886935299,
+                            "AuN": "lorenza mondada"
+                        }
+                    ],
+                    "doi": "10.1177/1461445606059561",
+                    "journal": "discourse studies",
+                    "title": "participants online analysis and multimodal practices projecting the end of the turn and the closing of the sequence",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2127747549,
+                    "author": [
+                        {
+                            "AuId": 2234885905,
+                            "AuN": "paul drew"
+                        },
+                        {
+                            "AuId": 2668646015,
+                            "AuN": "elizabeth holt"
+                        }
+                    ],
+                    "doi": "10.1017/S0047404500020200",
+                    "journal": "language in society",
+                    "title": "figures of speech figurative expressions and the management of topic transition in conversation",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2363663284,
+                    "author": [
+                        {
+                            "AuId": 2486205109,
+                            "AuN": "charles goodwin"
+                        }
+                    ],
+                    "doi": "10.1057/9781403918543_2",
+                    "title": "the body in action",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2006698646,
+                    "author": [
+                        {
+                            "AuId": 1937450413,
+                            "AuN": "margret selting"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2006.07.008",
+                    "title": "lists as embedded structures and the prosody of list construction as an interactional resource",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2000184353,
+                    "author": [
+                        {
+                            "AuId": 2797988257,
+                            "AuN": "jocelyn c white"
+                        },
+                        {
+                            "AuId": 2464840793,
+                            "AuN": "wendy levinson"
+                        },
+                        {
+                            "AuId": 2464840793,
+                            "AuN": "wendy levinson"
+                        },
+                        {
+                            "AuId": 584379276,
+                            "AuN": "debra l roter"
+                        }
+                    ],
+                    "doi": "10.1007/BF02599139",
+                    "journal": "journal of general internal medicine",
+                    "title": "oh by the way the closing moments of the medical visit",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2095504063,
+                    "author": [
+                        {
+                            "AuId": 1937260950,
+                            "AuN": "markku haakana"
+                        }
+                    ],
+                    "doi": "10.1515/TEXT.1.21.1-2.187",
+                    "journal": "text & talk",
+                    "title": "laughter as a patient s resource dealing with delicate aspects of medical interaction",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2069004747,
+                    "author": [
+                        {
+                            "AuId": 2112019758,
+                            "AuN": "jeffrey d robinson"
+                        }
+                    ],
+                    "doi": "10.1111/J.1468-2958.1998.TB00438.X",
+                    "journal": "human communication research",
+                    "title": "getting down to business talk gaze and body orientation during openings of doctor patient consultations",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1985479696,
+                    "author": [
+                        {
+                            "AuId": 1790019112,
+                            "AuN": "adam kendon"
+                        }
+                    ],
+                    "doi": "10.1016/0001-6918(67)90005-4",
+                    "journal": "acta psychologica",
+                    "title": "some functions of gaze direction in social interaction",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 2028182395,
+                    "author": [
+                        {
+                            "AuId": 2112019758,
+                            "AuN": "jeffrey d robinson"
+                        }
+                    ],
+                    "doi": "10.1016/S0277-9536(00)00366-X",
+                    "journal": "social science & medicine",
+                    "title": "closing medical encounters two physician practices and their implications for the expression of patients unstated concerns",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2034558837,
+                    "author": [
+                        {
+                            "AuId": 2788376239,
+                            "AuN": "eric laurier"
+                        }
+                    ],
+                    "doi": "10.1016/J.LANGCOM.2008.01.011",
+                    "journal": "language & communication",
+                    "title": "drinking up endings conversational resources of the cafe",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 1966536425,
+                    "author": [
+                        {
+                            "AuId": 2013158811,
+                            "AuN": "charles antaki"
+                        }
+                    ],
+                    "doi": "10.1177/14614456020040010101",
+                    "journal": "discourse studies",
+                    "title": "lovely turn initial high grade assessments in telephone closings",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1548398086,
+                    "author": [
+                        {
+                            "AuId": 2092736153,
+                            "AuN": "galina b bolden"
+                        }
+                    ],
+                    "doi": "10.1111/J.1468-2958.2007.00315.X",
+                    "journal": "human communication research",
+                    "title": "reopening russian conversations the discourse particle to and the negotiation of interpersonal accountability in closings",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2062259608,
+                    "author": [
+                        {
+                            "AuId": 2139020845,
+                            "AuN": "curtis lebaron"
+                        },
+                        {
+                            "AuId": 2326240026,
+                            "AuN": "stanley e jones"
+                        }
+                    ],
+                    "doi": "10.1111/J.1460-2466.2002.TB02561.X",
+                    "journal": "journal of communication",
+                    "title": "closing up closings showing the relevance of the social and material surround to the completion of interaction",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1988581286,
+                    "author": [
+                        {
+                            "AuId": 2486205109,
+                            "AuN": "charles goodwin"
+                        }
+                    ],
+                    "doi": "10.1111/J.1475-682X.1980.TB00023.X",
+                    "journal": "sociological inquiry",
+                    "title": "restarts pauses and the achievement of a state of mutual gaze at turn beginning",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 2508003517,
+                    "author": [
+                        {
+                            "AuId": 886935299,
+                            "AuN": "lorenza mondada"
+                        }
+                    ],
+                    "doi": "10.3406/INTEL.2005.1722",
+                    "journal": "intellectica",
+                    "title": "la constitution de l origo deictique comme travail interactionnel des participants une approche praxeologique de la spatialite",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2011433607,
+                    "author": [
+                        {
+                            "AuId": 2797988257,
+                            "AuN": "jocelyn c white"
+                        },
+                        {
+                            "AuId": 2676593323,
+                            "AuN": "connie rosson"
+                        },
+                        {
+                            "AuId": 2161867713,
+                            "AuN": "john f christensen"
+                        },
+                        {
+                            "AuId": 2278188490,
+                            "AuN": "rosemary hart"
+                        },
+                        {
+                            "AuId": 2464840793,
+                            "AuN": "wendy levinson"
+                        }
+                    ],
+                    "doi": "10.1016/S0738-3991(96)00962-7",
+                    "journal": "patient education and counseling",
+                    "title": "wrapping things up a qualitative analysis of the closing moments of the medical visit",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2051214567,
+                    "author": [
+                        {
+                            "AuId": 1952057715,
+                            "AuN": "beverly s hartford"
+                        },
+                        {
+                            "AuId": 174721227,
+                            "AuN": "kathleen bardoviharlig"
+                        }
+                    ],
+                    "doi": "10.1080/01638539209544803",
+                    "journal": "discourse processes",
+                    "title": "closing the conversation evidence from the academic advising session",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2063512300,
+                    "author": [
+                        {
+                            "AuId": 2071611480,
+                            "AuN": "steven e clayman"
+                        }
+                    ],
+                    "doi": "10.1086/229329",
+                    "journal": "american journal of sociology",
+                    "title": "the production of punctuality social interaction temporal organization and social structure",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 2275547405,
+                    "author": [
+                        {
+                            "AuId": 2732937769,
+                            "AuN": "elwys de stefani"
+                        }
+                    ],
+                    "title": "ah petta ecco io prendo questi che mi piacciono agire come coppia al supermercato un approccio conversazionale e multimodale allo studio dei processi decisional",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1591220783,
+                    "author": [
+                        {
+                            "AuId": 886935299,
+                            "AuN": "lorenza mondada"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "doi": "10.4000/LIDIL.128",
+                    "title": "des alignements en cloture une etude interactionnelle de corpus de francais parle en interaction",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2523070167,
+                    "author": [
+                        {
+                            "AuId": 2724710202,
+                            "AuN": "elwys de stefani"
+                        }
+                    ],
+                    "title": "le chiusure conversazionali nell interazione al banco di un supermercato",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 3108069196,
+                    "author": [
+                        {
+                            "AuId": 886935299,
+                            "AuN": "lorenza mondada"
+                        }
+                    ],
+                    "title": "multiactivite multimodalite et sequentialite l initiation de cours d action paralleles en contexte scolaire",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1980596050,
+                    "author": [
+                        {
+                            "AuId": 2706026336,
+                            "AuN": "christian heath"
+                        }
+                    ],
+                    "doi": "10.1515/IJSL.1985.51.27",
+                    "journal": "international journal of the sociology of language",
+                    "title": "the consultation s end the coordination of speech and body movement",
+                    "year_mag": 1985
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2549272635,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2016.09.008",
+                    "journal": "journal of pragmatics",
+                    "title": "participation in bilingual interactions translating interpreting and mediating documents in a french social centre",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2009112243,
+                    "author": [
+                        {
+                            "AuId": 2511234962,
+                            "AuN": "sylvaine tuncer"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2014.11.012",
+                    "journal": "journal of pragmatics",
+                    "title": "walking away an embodied resource to close informal encounters in offices",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2539848685,
+                    "author": [
+                        {
+                            "AuId": 2589631222,
+                            "AuN": "annaclaudia ticca"
+                        }
+                    ],
+                    "journal": "journal of pragmatics",
+                    "title": "managing multiactivity in a travel agency making phone calls while interacting with customers",
+                    "year_mag": 2014
+                }
+            ],
+            "title": "reconfiguring the interactional space organising the closing of encounters in an italian travel agency",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2602675838,
+            "title": "importance of data for analysis",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2890729060,
+            "citing": [
+                {
+                    "PId": 3092637991,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        },
+                        {
+                            "AuId": 3095935005,
+                            "AuN": "patricia lambert"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "doi": "10.7202/1071696AR",
+                    "journal": "phronesis",
+                    "title": "le recit de la migration en sante avec des personnes demandeuses d asile en france reflexions sur la formation des soignants et des interpretes",
+                    "year_mag": 2020
+                }
+            ],
+            "title": "parole voix et corps lorsque l interprete et le soignant s alignent dans les consultations avec migrants l autre clinique culture et societe dossier des interpretes pour mieux soigner",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 2593908579,
+            "citing": [
+                {
+                    "PId": 2897654584,
+                    "author": [
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "doi": "10.1017/S0959269518000108",
+                    "journal": "journal of french language studies",
+                    "title": "demander de l aide a la permanence d acces aux droits d un centre social modalites de construction des requetes",
+                    "year_mag": 2019
+                }
+            ],
+            "title": "traduction orale interaction et situations sociales",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2613323529,
+            "title": "from food to lunch practices of meal service at the hospital",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2235641640,
+            "cited": [
+                {
+                    "PId": 2153190547,
+                    "author": [
+                        {
+                            "AuId": 2121438367,
+                            "AuN": "harvey sacks"
+                        },
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        },
+                        {
+                            "AuId": 2153560426,
+                            "AuN": "gail jefferson"
+                        }
+                    ],
+                    "doi": "10.2307/412243",
+                    "journal": "language",
+                    "title": "a simplest systematics for the organization of turn taking for conversation",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 2024642405,
+                    "author": [
+                        {
+                            "AuId": 2109770537,
+                            "AuN": "harold garfinkel"
+                        }
+                    ],
+                    "title": "studies in ethnomethodology",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 1980298376,
+                    "author": [
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        },
+                        {
+                            "AuId": 2153560426,
+                            "AuN": "gail jefferson"
+                        },
+                        {
+                            "AuId": 2121438367,
+                            "AuN": "harvey sacks"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.1977.0041",
+                    "journal": "language",
+                    "title": "the preference for self correction in the organization of repair in conversation",
+                    "year_mag": 1977
+                },
+                {
+                    "PId": 2144352500,
+                    "author": [
+                        {
+                            "AuId": 1927919897,
+                            "AuN": "douglas macbeth"
+                        }
+                    ],
+                    "doi": "10.1017/S0047404504045038",
+                    "journal": "language in society",
+                    "title": "the relevance of repair for classroom correction",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2009901747,
+                    "author": [
+                        {
+                            "AuId": 2092736153,
+                            "AuN": "galina b bolden"
+                        }
+                    ],
+                    "doi": "10.1177/1461445600002004001",
+                    "journal": "discourse studies",
+                    "title": "toward understanding practices of medical interpreting interpreters involvement in history taking",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2138703213,
+                    "author": [
+                        {
+                            "AuId": 2603929480,
+                            "AuN": "sergio pasquandrea"
+                        }
+                    ],
+                    "doi": "10.1017/S0047404511000479",
+                    "journal": "language in society",
+                    "title": "managing multiple actions through multimodality doctors involvement in interpreter mediated interactions",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 1987965412,
+                    "author": [
+                        {
+                            "AuId": 120640187,
+                            "AuN": "ilkka arminen"
+                        },
+                        {
+                            "AuId": 2007571166,
+                            "AuN": "petra auvinen"
+                        },
+                        {
+                            "AuId": 2034337647,
+                            "AuN": "hannele palukka"
+                        }
+                    ],
+                    "doi": "10.1016/J.PRAGMA.2009.06.015",
+                    "journal": "journal of pragmatics",
+                    "title": "repairs as the last orderly provided defense of safety in aviation",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2125570972,
+                    "author": [
+                        {
+                            "AuId": 1966372380,
+                            "AuN": "alec mchoul"
+                        }
+                    ],
+                    "doi": "10.1017/S004740450001455X",
+                    "journal": "language in society",
+                    "title": "the organization of repair in classroom talk",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2490196346,
+                    "author": [
+                        {
+                            "AuId": 2210770313,
+                            "AuN": "douglas w maynard"
+                        }
+                    ],
+                    "doi": "10.4135/9781412984034.N4",
+                    "title": "ethnography and conversation analysis what is the context of an utterance",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 131340175,
+                    "author": [
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "title": "rencontres interculturelles a l hopital la consultation medicale avec interprete",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 1828516650,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "title": "interpretation traduction orale et formes de mediation dans les situations sociales introduction",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2617486383,
+                    "author": [
+                        {
+                            "AuId": 2507107648,
+                            "AuN": "t s harvey"
+                        }
+                    ],
+                    "title": "wellness beyond words maya compositions of speech and silence in medical care",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 1661577798,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        },
+                        {
+                            "AuId": 1929691798,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "title": "territoires corporels ressenti et paroles d action des moments delicats de la consultation medicale avec interprete",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2611792999,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        }
+                    ],
+                    "title": "the use of laughter in bilingual doctor patient interactions displaying resistance to doctor s talk in a mexican village",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2796841835,
+                    "author": [
+                        {
+                            "AuId": 2034458341,
+                            "AuN": "anna claudia ticca"
+                        }
+                    ],
+                    "title": "acciones despreferidas en la interaccion mediada medico paciente en yucatan",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2073239367,
+                    "author": [
+                        {
+                            "AuId": 2590921056,
+                            "AuN": "frank ernst muller"
+                        }
+                    ],
+                    "doi": "10.1016/0378-2166(89)90075-1",
+                    "journal": "journal of pragmatics",
+                    "title": "translation in bilingual conversation pragmatic aspects of translatory interaction",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 8339052,
+                    "author": [
+                        {
+                            "AuId": 2676278862,
+                            "AuN": "laurent gajo"
+                        },
+                        {
+                            "AuId": 2651872004,
+                            "AuN": "veronique traverso"
+                        }
+                    ],
+                    "title": "analyse de l interaction interculturelle une recherche sur les migrants dans differents services hospitaliers",
+                    "year_mag": 2002
+                }
+            ],
+            "title": "la bonne information quand les interpretes corrigent les reponses du patient dans la consultation medicale",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 1885565853,
+            "title": "delicate moments in interpreted medical consultations the body feelings and actions",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2902174090,
+            "cited": [
+                {
+                    "PId": 2153190547,
+                    "author": [
+                        {
+                            "AuId": 2121438367,
+                            "AuN": "harvey sacks"
+                        },
+                        {
+                            "AuId": 1244490626,
+                            "AuN": "emanuel a schegloff"
+                        },
+                        {
+                            "AuId": 2153560426,
+                            "AuN": "gail jefferson"
+                        }
+                    ],
+                    "doi": "10.2307/412243",
+                    "journal": "language",
+                    "title": "a simplest systematics for the organization of turn taking for conversation",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 1959712200,
+                    "author": [
+                        {
+                            "AuId": 281535982,
+                            "AuN": "paul seedhouse"
+                        }
+                    ],
+                    "title": "the interactional architecture of the language classroom a conversation analysis perspective",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2021469526,
+                    "author": [
+                        {
+                            "AuId": 2061974184,
+                            "AuN": "dirk vom lehn"
+                        },
+                        {
+                            "AuId": 2122916519,
+                            "AuN": "christian heath"
+                        },
+                        {
+                            "AuId": 2992395484,
+                            "AuN": "jon hindmarsh"
+                        }
+                    ],
+                    "doi": "10.1525/SI.2001.24.2.189",
+                    "journal": "symbolic interaction",
+                    "title": "exhibiting interaction conduct and collaboration in museums and galleries",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2491176990,
+                    "author": [
+                        {
+                            "AuId": 2018527607,
+                            "AuN": "jack sidnell"
+                        },
+                        {
+                            "AuId": 1788107697,
+                            "AuN": "tanya stivers"
+                        }
+                    ],
+                    "doi": "10.1002/9781118325001",
+                    "title": "the handbook of conversation analysis sidnell the handbook of conversation analysis",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2091563840,
+                    "author": [
+                        {
+                            "AuId": 2651804534,
+                            "AuN": "hugh mehan"
+                        }
+                    ],
+                    "title": "learning lessons social organization in the classroom",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 2086299222,
+                    "author": [
+                        {
+                            "AuId": 2022872097,
+                            "AuN": "erving goffman"
+                        }
+                    ],
+                    "title": "interaction ritual essays on face to face behavior",
+                    "year_mag": 1967
+                },
+                {
+                    "PId": 2095504063,
+                    "author": [
+                        {
+                            "AuId": 1937260950,
+                            "AuN": "markku haakana"
+                        }
+                    ],
+                    "doi": "10.1515/TEXT.1.21.1-2.187",
+                    "journal": "text & talk",
+                    "title": "laughter as a patient s resource dealing with delicate aspects of medical interaction",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2042855400,
+                    "author": [
+                        {
+                            "AuId": 2071611480,
+                            "AuN": "steven e clayman"
+                        }
+                    ],
+                    "doi": "10.1515/TEXT.1.1993.13.2.159",
+                    "journal": "text interdisciplinary journal for the study of discourse",
+                    "title": "reformulating the question a device for answering not answering questions in news interviews and press conferences",
+                    "year_mag": 1993
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Per\u00e4kyl\u00e4",
+                            "given": "Anssi",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1002/9781405165518.WBEOSC133",
+                    "title": "conversation analysis",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Heritage",
+                            "given": "John",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1016/S0378-2166(02)00072-3",
+                    "title": "the limits of questioning negative interrogatives and hostile question content",
+                    "year_oc": 2002
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Streeck",
+                            "given": "J\u00fcrgen",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511621710.007",
+                    "title": "on projection",
+                    "year_oc": 1995
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Schegloff",
+                            "given": "Emanuel A.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511791208",
+                    "title": "sequence organization in interaction",
+                    "year_oc": 2007
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "University of Illinois at Urbana-Champaign"
+                                }
+                            ],
+                            "family": "Koshik",
+                            "given": "Irene",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.1075/SIDAG.16",
+                    "title": "beyond rhetorical questions",
+                    "year_oc": 2005
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Sacks",
+                            "given": "Harvey",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Schegloff",
+                            "given": "Emanuel A.",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [],
+                            "family": "Jefferson",
+                            "given": "Gail",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1353/LAN.1974.0010",
+                    "title": "a simplest systematics for the organization of turn taking for conversation",
+                    "year_oc": 1974
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Mehan",
+                            "given": "Hugh",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.4159/HARVARD.9780674420106",
+                    "title": "learning lessons",
+                    "year_oc": 2013
+                }
+            ],
+            "doi": "10.1075/PS.7.4.05TIC",
+            "journal": "pragmatics and society",
+            "title": "when questioners count on recipients lack of knowledge a recurring question answer format in guided tours",
+            "type": "1",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2528998032,
+            "journal": "journal of pragmatics",
+            "title": "forms of mediations in bilingual interactions translating documents interpreting discourse mediating institutions",
+            "type": "1",
+            "year_mag": 2016
+        },
+        {
+            "PId": 1799434556,
+            "title": "interpreting oral translation and forms of mediation in social situations introduction",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2345575992,
+            "title": "traduire et interpreter en situations sociales sante education justice dir du du numero special 153 3 de langage et societe",
+            "type": "5",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2923298106,
+            "title": "circulation parcours et mise en recit des refugies et migrants en france",
+            "type": "0",
+            "year_mag": 2017
+        },
+        {
+            "PId": 3046444559,
+            "title": "une approche multimodale des marqueurs d accord le cas de ouais",
+            "type": "0",
+            "year_mag": 2016
+        },
+        {
+            "PId": 2610224186,
+            "title": "experiencing senses promoting participation of visually impaired children during a garden visit",
+            "type": "0",
+            "year_mag": 2015
+        },
+        {
+            "PId": 2277827388,
+            "title": "l espace dans l interaction sociale der raum in der sozialen interaktion",
+            "type": "5",
+            "year_mag": 2012
+        },
+        {
+            "PId": 108386971,
+            "title": "endonimi esonimi e altre forme onimiche una verifica empirica",
+            "type": "0",
+            "year_mag": 2011
+        },
+        {
+            "PId": 1024751529,
+            "title": "problemi comunicativi nella visita medica bilingue maya spagnolo in yucatan",
+            "type": "0",
+            "year_mag": 2010
+        },
+        {
+            "PId": 2738064960,
+            "title": "toponyms as a resource for direction indications",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2943980955,
+            "title": "el rol del interprete en el dialogo medico paciente observaciones de interacciones en una comunidad indigena de yucatan",
+            "type": "0",
+            "year_mag": 2008
+        }
+    ]
+}

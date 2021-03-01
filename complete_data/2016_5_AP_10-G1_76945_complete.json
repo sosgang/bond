@@ -1,0 +1,762 @@
+{
+    "AuIds": [
+        2899852679,
+        2734572031
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "2729577758_+_2068822147": 1,
+                "2729577758_+_2103528847": 1
+            },
+            "number": 1
+        },
+        "cand_nodes": 21,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 28,
+            "comm_other": 4682,
+            "other_cand": 2,
+            "other_comm": 4973
+        },
+        "other_nodes": 6541
+    },
+    "coverage": {
+        "articles": 5,
+        "books": 1,
+        "cov_sect": "A",
+        "other_pubbs": 8,
+        "pubbs": 10,
+        "pubbs_found": 8,
+        "pubbs_ind": 12,
+        "pubbs_ind_found": 10,
+        "total_extra_found": 21,
+        "total_found": 12,
+        "total_pubbs": 14
+    },
+    "fullname": [
+        "Gallina",
+        "Francesca"
+    ],
+    "ind_anvur": [
+        10,
+        3,
+        1,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0390-6809"
+            ],
+            "PId": 2782630063,
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "journal": "XLVI",
+            "title": "il nuovo vocabolario di base e il lessico degli stranieri una prima ricognizione quantitativa studi italiani di linguistica teorica e applicata vol",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-3-631-71758-5"
+            ],
+            "PId": 2782696072,
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "title": "lips creating a learner corpus",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-1-4725-0617-7"
+            ],
+            "PId": 3095551163,
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "title": "italian language in tanzanian ll between the italian way of life and italian mass tourism",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1790-5672"
+            ],
+            "PId": 3105927498,
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "journal": "ITALIANO A STRANIERI",
+            "title": "il lessico della conoscenza e la didattica dell italiano a stranieri",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-7870-981-2"
+            ],
+            "PId": 2572107801,
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "5"
+            },
+            "title": "processi di costruzione identitari e repertori sociolinguistici dei giovani di seconda generazione il caso dell italia e dei paesi bassi",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-204-5703-7"
+            ],
+            "PId": 2736010431,
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "6"
+            },
+            "title": "forme connettive nell italiano parlato da stranieri e livelli di competenza alcune evidenze dal corpus lips",
+            "type": "contributo in atti di convegno",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "978-88-557-0550-9"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "7"
+            },
+            "title": "le parole degli stranieri il lessico dell italiano parlato da stranieri",
+            "type": "monografia o trattato scientifico",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "8854868175"
+            ],
+            "PId": 2728253866,
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "8"
+            },
+            "title": "la competenza lessicale degli alunni stranieri dal lessico tecnicoscientifico al lessico della conoscenza",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-883709939-8"
+            ],
+            "PId": 2787436719,
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "title": "la didattica interculturale museale come strumento per la fruibilita",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "978-2-87558-200-3"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "10"
+            },
+            "title": "the lips corpus lexicon of spoken italian by foreigners a study on the acquisition of vocabulary by l2 italian learners between measures of lexical richness and lexical fields",
+            "type": "contributo in atti di convegno",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0390-6809"
+            ],
+            "PId": 2728218290,
+            "cv_id": {
+                "pubbs_ind": "11"
+            },
+            "journal": "STUDI ITALIANI DI LINGUISTICA TEORICA E APPLICATA",
+            "title": "il progetto firb perdita mantenimento e recupero dello spazio linguistico e culturale nella ii e iii generazione di emigrati italiani nel mondo lingua lingue identita la lingua e cultura italiana come valore e patrimonio per nuove professionalita nelle comunita emigrate alcuni strumenti di indagine",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "0390-6809"
+            ],
+            "PId": 3009674598,
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "12"
+            },
+            "journal": "STUDI ITALIANI DI LINGUISTICA TEORICA E APPLICATA",
+            "title": "la competenza lessicale in italiano l2 e il suo sviluppo nei processi di acquisizione spontanea e di apprendimento guidato",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "9788843060283"
+            ],
+            "PId": 2920887552,
+            "citing": [
+                {
+                    "PId": 2802265548,
+                    "author": [
+                        {
+                            "AuId": 2784349180,
+                            "AuN": "ruben benatti"
+                        },
+                        {
+                            "AuId": 2785214372,
+                            "AuN": "angela tiziana tarantini"
+                        }
+                    ],
+                    "doi": "10.1515/STAP-2017-0021",
+                    "journal": "studia anglica posnaniensia",
+                    "title": "dialects among young italian australians a shift in attitude and perception",
+                    "year_mag": 2017
+                }
+            ],
+            "cv_id": {
+                "pubbs": "8"
+            },
+            "title": "australia e nuova zelanda",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "0390-6809"
+            ],
+            "PId": 2734435407,
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "journal": "STUDI ITALIANI DI LINGUISTICA TEORICA E APPLICATA",
+            "title": "condizioni sociolinguistiche percezioni e usi linguisitici un confronto tra cicli scolastici della scuola italiana",
+            "type": "articolo in rivista",
+            "year": 2007
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2906003130,
+            "citing": [
+                {
+                    "PId": 2530139875,
+                    "author": [
+                        {
+                            "AuId": 2530131913,
+                            "AuN": "matteo la grassa"
+                        }
+                    ],
+                    "doi": "10.13130/2037-3597/7564",
+                    "journal": "italiano linguadue",
+                    "title": "il nome in lis nel segnato di adulti udenti una indagine preliminare sul corpus lisau",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2729577758,
+                    "author": [
+                        {
+                            "AuId": 2899852679,
+                            "AuN": "francesca gallina"
+                        }
+                    ],
+                    "journal": "italiano linguadue",
+                    "title": "the lips corpus lexicon of spoken italian by foreigners and the acquisition of vocabulary by learners of italian as l2",
+                    "year_mag": 2010
+                }
+            ],
+            "title": "le parole degli stranieri il lips il primo lessico di frequenza dell italiano parlato dagli stranieri",
+            "type": "0",
+            "year_mag": 2008
+        },
+        {
+            "PId": 2803230286,
+            "doi": "10.30687/978-88-6969-227-7",
+            "title": "l approccio del linguistic landscape applicato alla didattica dell italiano l2 per studenti internazionali",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2729577758,
+            "cited": [
+                {
+                    "PId": 2114282361,
+                    "author": [
+                        {
+                            "AuId": 2669687180,
+                            "AuN": "i s p nation"
+                        }
+                    ],
+                    "title": "learning vocabulary in another language",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2089064175,
+                    "author": [
+                        {
+                            "AuId": 2150587807,
+                            "AuN": "rod ellis"
+                        }
+                    ],
+                    "title": "the study of second language acquisition",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1522263329,
+                    "author": [
+                        {
+                            "AuId": 2130753807,
+                            "AuN": "helmut schmid"
+                        }
+                    ],
+                    "doi": "10.1007/978-94-017-2390-9_2",
+                    "title": "improvements in part of speech tagging with an application to german",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 1964698778,
+                    "author": [
+                        {
+                            "AuId": 2024636790,
+                            "AuN": "batia laufer"
+                        },
+                        {
+                            "AuId": 2127791960,
+                            "AuN": "paul nation"
+                        }
+                    ],
+                    "doi": "10.1093/APPLIN/16.3.307",
+                    "journal": "applied linguistics",
+                    "title": "vocabulary size and use lexical richness in l2 written production",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 1969020117,
+                    "author": [
+                        {
+                            "AuId": 2024636790,
+                            "AuN": "batia laufer"
+                        }
+                    ],
+                    "doi": "10.1093/APPLIN/19.2.255",
+                    "journal": "applied linguistics",
+                    "title": "the development of passive and active vocabulary in a second language same or different",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2138950273,
+                    "author": [
+                        {
+                            "AuId": 2150759083,
+                            "AuN": "birgit henriksen"
+                        }
+                    ],
+                    "doi": "10.1017/S0272263199002089",
+                    "journal": "studies in second language acquisition",
+                    "title": "three dimensions of vocabulary development",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2058429249,
+                    "author": [
+                        {
+                            "AuId": 2117588006,
+                            "AuN": "margaret thomas"
+                        },
+                        {
+                            "AuId": 2321821483,
+                            "AuN": "nick c ellis"
+                        }
+                    ],
+                    "doi": "10.2307/416043",
+                    "journal": "language",
+                    "title": "implicit and explicit learning of languages",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 2124216532,
+                    "author": [
+                        {
+                            "AuId": 2205640936,
+                            "AuN": "joseph collentine"
+                        }
+                    ],
+                    "doi": "10.1017/S0272263104262040",
+                    "journal": "studies in second language acquisition",
+                    "title": "the effects of learning contexts on morphosyntactic and lexical development",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 1975121989,
+                    "author": [
+                        {
+                            "AuId": 2024636790,
+                            "AuN": "batia laufer"
+                        },
+                        {
+                            "AuId": 430875487,
+                            "AuN": "t sima paribakht"
+                        }
+                    ],
+                    "doi": "10.1111/0023-8333.00046",
+                    "journal": "language learning",
+                    "title": "the relationship between passive and active vocabularies effects of languagelearning context",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 613222843,
+                    "author": [
+                        {
+                            "AuId": 2015856458,
+                            "AuN": "david singleton"
+                        }
+                    ],
+                    "title": "exploring the second language mental lexicon",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 163882031,
+                    "author": [
+                        {
+                            "AuId": 1236048761,
+                            "AuN": "jana vizmullerzocco"
+                        },
+                        {
+                            "AuId": 2202700080,
+                            "AuN": "tullio de mauro"
+                        },
+                        {
+                            "AuId": 2285391212,
+                            "AuN": "federico mancini"
+                        },
+                        {
+                            "AuId": 2314703686,
+                            "AuN": "massimo vedovelli"
+                        },
+                        {
+                            "AuId": 2781021524,
+                            "AuN": "miriam voghera"
+                        }
+                    ],
+                    "doi": "10.2307/479679",
+                    "title": "lessico di frequenza dell italiano parlato",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2090307281,
+                    "author": [
+                        {
+                            "AuId": 1889344050,
+                            "AuN": "robert schreuder"
+                        },
+                        {
+                            "AuId": 1935275862,
+                            "AuN": "bert weltens"
+                        }
+                    ],
+                    "doi": "10.1075/SIBIL.6",
+                    "journal": "the modern language journal",
+                    "title": "the bilingual lexicon",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 2017121316,
+                    "author": [
+                        {
+                            "AuId": 2164381453,
+                            "AuN": "brent wolter"
+                        }
+                    ],
+                    "doi": "10.1017/S0272263101001024",
+                    "journal": "studies in second language acquisition",
+                    "title": "comparing the l1 and l2 mental lexicon a depth of individual word knowledge model",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2136943242,
+                    "author": [
+                        {
+                            "AuId": 2567186368,
+                            "AuN": "anne vermeer"
+                        }
+                    ],
+                    "doi": "10.1177/026553220001700103",
+                    "journal": "language testing",
+                    "title": "coming to grips with lexical richness in spontaneous speech data",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2058775158,
+                    "author": [
+                        {
+                            "AuId": 2150587807,
+                            "AuN": "rod ellis"
+                        }
+                    ],
+                    "doi": "10.1093/APPLIN/16.4.409",
+                    "journal": "applied linguistics",
+                    "title": "modified oral input and the acquisition of word meanings",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 198720428,
+                    "author": [
+                        {
+                            "AuId": 2251621170,
+                            "AuN": "paul meara"
+                        },
+                        {
+                            "AuId": 2107542125,
+                            "AuN": "huw bell"
+                        }
+                    ],
+                    "journal": "prospects",
+                    "title": "p lex a simple and effective way of describing the lexical characteristics of short l2 tests",
+                    "year_mag": 2001
+                },
+                {
+                    "PId": 2063448223,
+                    "author": [
+                        {
+                            "AuId": 2013132394,
+                            "AuN": "kirsten haastrup"
+                        },
+                        {
+                            "AuId": 2150759083,
+                            "AuN": "birgit henriksen"
+                        }
+                    ],
+                    "doi": "10.1111/J.1473-4192.2000.TB00149.X",
+                    "journal": "international journal of applied linguistics",
+                    "title": "vocabulary acquisition acquiring depth of knowledge through network building",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 90802263,
+                    "author": [
+                        {
+                            "AuId": 2135363648,
+                            "AuN": "annette m b de groot"
+                        }
+                    ],
+                    "doi": "10.1075/SIBIL.6.04GRO",
+                    "title": "word type effects in bilingual processing tasks support for a mixed representational system",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1506730116,
+                    "author": [
+                        {
+                            "AuId": 2567186368,
+                            "AuN": "anne vermeer"
+                        }
+                    ],
+                    "title": "the relation between lexical richness and vocabulary size in dutch l1 and l2 children",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 619308876,
+                    "author": [
+                        {
+                            "AuId": 2160748687,
+                            "AuN": "gillian brown"
+                        },
+                        {
+                            "AuId": 1971976755,
+                            "AuN": "kirsten malmkjaer"
+                        },
+                        {
+                            "AuId": 1999867360,
+                            "AuN": "john williams"
+                        }
+                    ],
+                    "title": "performance and competence in second language acquisition",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2481098312,
+                    "author": [
+                        {
+                            "AuId": 2670927654,
+                            "AuN": "batia laufer"
+                        }
+                    ],
+                    "doi": "10.1075/Z.73.21LAU",
+                    "title": "beyond 2000 a measure of productive lexicon in a second language",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2230885710,
+                    "author": [
+                        {
+                            "AuId": 2228036665,
+                            "AuN": "j read"
+                        }
+                    ],
+                    "title": "applying lexical statistics to the ielts speaking test",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2090424818,
+                    "author": [
+                        {
+                            "AuId": 2251621170,
+                            "AuN": "paul meara"
+                        }
+                    ],
+                    "doi": "10.1177/026765839000600204",
+                    "journal": "second language research",
+                    "title": "a note on passive vocabulary",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 1709855680,
+                    "author": [
+                        {
+                            "AuId": 2130426281,
+                            "AuN": "sylviane granger"
+                        },
+                        {
+                            "AuId": 2600171439,
+                            "AuN": "martin wynne"
+                        }
+                    ],
+                    "title": "optimising measures of lexical variation in efl learner corpora",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2572021380,
+                    "author": [
+                        {
+                            "AuId": 2014291774,
+                            "AuN": "p broeder"
+                        },
+                        {
+                            "AuId": 2626905753,
+                            "AuN": "g extra"
+                        },
+                        {
+                            "AuId": 2616273419,
+                            "AuN": "r van hout"
+                        }
+                    ],
+                    "title": "richness and variety in the developing lexicon",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1537076907,
+                    "author": [
+                        {
+                            "AuId": 2202700080,
+                            "AuN": "tullio de mauro"
+                        }
+                    ],
+                    "title": "guida all uso delle parole",
+                    "year_mag": 1980
+                },
+                {
+                    "PId": 32310978,
+                    "author": [
+                        {
+                            "AuId": 2026243639,
+                            "AuN": "alessandro laudanna"
+                        },
+                        {
+                            "AuId": 2776817755,
+                            "AuN": "miriam voghera"
+                        }
+                    ],
+                    "journal": "the italian journal of linguistics",
+                    "title": "nouns and verbs as grammatical classes in the lexicon 2680",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2373102349,
+                    "author": [
+                        {
+                            "AuId": 2366336858,
+                            "AuN": "zou shen"
+                        }
+                    ],
+                    "journal": "computer assisted foreign language education",
+                    "title": "using corpora in language testing",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2906003130,
+                    "author": [
+                        {
+                            "AuId": 2899852679,
+                            "AuN": "francesca gallina"
+                        },
+                        {
+                            "AuId": 2905718857,
+                            "AuN": "monica barni"
+                        }
+                    ],
+                    "title": "le parole degli stranieri il lips il primo lessico di frequenza dell italiano parlato dagli stranieri",
+                    "year_mag": 2008
+                }
+            ],
+            "title": "the lips corpus lexicon of spoken italian by foreigners and the acquisition of vocabulary by learners of italian as l2",
+            "type": "0",
+            "year_mag": 2010
+        },
+        {
+            "PId": 3094273331,
+            "title": "i segnali discorsivi nelle pratiche didattiche dell italiano a stranieri",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2803256043,
+            "doi": "10.30687/978-88-6969-227-7",
+            "title": "studenti internazionali in mobilita la questione del lessico della conoscenza in italiano l2",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2735485615,
+            "title": "l italiano lingua di contatto per gli apprendenti adolescenti delle scuole italiane secondarie di secondo grado",
+            "type": "0",
+            "year_mag": 2010
+        },
+        {
+            "PId": 2736164431,
+            "title": "new minorities and their languages their impact on the multiethnic areas of italy",
+            "type": "0",
+            "year_mag": 2012
+        },
+        {
+            "PId": 2734832588,
+            "title": "adolescenti immigrati in italia un nuovo pubblico di apprendenti l italiano l2",
+            "type": "0",
+            "year_mag": 2007
+        },
+        {
+            "PId": 2725737513,
+            "title": "recensione a a patat 2004 l italiano in argentina",
+            "type": "0",
+            "year_mag": 2005
+        }
+    ]
+}

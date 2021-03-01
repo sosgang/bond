@@ -1,0 +1,690 @@
+{
+    "AuIds": [
+        2253996560,
+        2642129517
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 19,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 0,
+            "comm_other": 4682,
+            "other_cand": 13,
+            "other_comm": 4973
+        },
+        "other_nodes": 6525
+    },
+    "coverage": {
+        "articles": 3,
+        "books": 6,
+        "cov_sect": "B",
+        "other_pubbs": 16,
+        "pubbs": 15,
+        "pubbs_found": 2,
+        "pubbs_ind": 16,
+        "pubbs_ind_found": 2,
+        "total_extra_found": 19,
+        "total_found": 3,
+        "total_pubbs": 25
+    },
+    "fullname": [
+        "Maturi",
+        "Pietro"
+    ],
+    "ind_anvur": [
+        12,
+        0,
+        4,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "9788825500349"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "title": "migranti a salerno tra italiano e dialetto",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9788868663605"
+            ],
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "title": "immigrati in campania tra dialetti e italiano",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "cv_id": {
+                "pubbs_ind": "3"
+            },
+            "type": "traduzione di libro",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "9788867191109"
+            ],
+            "cv_id": {
+                "pubbs_ind": "4"
+            },
+            "title": "l immersione in una realta linguistica complessa gli immigrati tra i dialetti e l italiano",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788891727183"
+            ],
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "title": "designare le persone lgbt identita di genere orientamento sessuale e genere grammaticale",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788899742119"
+            ],
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "title": "la linguistica e le parole della parita",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788843073214"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "7"
+            },
+            "title": "elementi per una didattica del livello fonetico fonologico",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788815251145"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "8"
+            },
+            "title": "i suoni delle lingue i suoni dell italiano nuova introduzione alla fonetica",
+            "type": "monografia o trattato scientifico",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788820416157"
+            ],
+            "cv_id": {
+                "pubbs_ind": "9"
+            },
+            "title": "le parole dell orgoglio e del pregiudizio",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9788820401504"
+            ],
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "title": "percorsi linguistici globali della bit generation",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "9783631636695"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "11"
+            },
+            "title": "tratti fonetici neo standard nell italiano della rai",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788876674334"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "12"
+            },
+            "title": "la variabile schwa nei dialetti campani",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788849521870"
+            ],
+            "cv_id": {
+                "pubbs_ind": "13"
+            },
+            "title": "il livello fonico nella didattica linguistica italiana",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "1722-0262"
+            ],
+            "PId": 2249192654,
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "14"
+            },
+            "journal": "BOLLETTINO LINGUISTICO CAMPANO",
+            "title": "grafie del napoletano dai classici a facebook",
+            "type": "articolo in rivista",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "9788815133052"
+            ],
+            "PId": 647508595,
+            "citing": [
+                {
+                    "PId": 2152748510,
+                    "author": [
+                        {
+                            "AuId": 1938834901,
+                            "AuN": "jeremy goslin"
+                        },
+                        {
+                            "AuId": 2048923466,
+                            "AuN": "claudia galluzzi"
+                        },
+                        {
+                            "AuId": 2148912008,
+                            "AuN": "cristina romani"
+                        }
+                    ],
+                    "doi": "10.3758/S13428-013-0400-8",
+                    "journal": "behavior research methods",
+                    "title": "phonitalia a phonological lexicon for italian",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2289363437,
+                    "author": [
+                        {
+                            "AuId": 2288986357,
+                            "AuN": "jose antonio"
+                        },
+                        {
+                            "AuId": 2291243103,
+                            "AuN": "luque moya"
+                        }
+                    ],
+                    "journal": "behavior research methods",
+                    "title": "la ensenanza de la prosodia en",
+                    "year_mag": 2013
+                }
+            ],
+            "cv_id": {
+                "pubbs_ind": "15"
+            },
+            "title": "i suoni delle lingue i suoni dell italiano introduzione alla fonetica 2 ed ",
+            "type": "monografia o trattato scientifico",
+            "year": 2009
+        },
+        {
+            "ISBN": [
+                "9788815110527"
+            ],
+            "cv_id": {
+                "pubbs_ind": "16"
+            },
+            "title": "i suoni delle lingue i suoni dell italiano introduzione alla fonetica ",
+            "type": "monografia o trattato scientifico",
+            "year": 2006
+        },
+        {
+            "ISBN": [
+                "9788820740344"
+            ],
+            "cv_id": {
+                "pubbs": "7"
+            },
+            "title": "le scritture esposte dialettalita e multilinguismo sui muri di napoli",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2006
+        },
+        {
+            "ISBN": [
+                "9788820740290"
+            ],
+            "cv_id": {
+                "pubbs": "8"
+            },
+            "title": "dialetto e italiano negli usi linguistici dei parlanti di napoli e della campania",
+            "type": "contributo in atti di convegno",
+            "year": 2006
+        },
+        {
+            "ISBN": [
+                "9788843021277"
+            ],
+            "cv_id": {
+                "pubbs": "9"
+            },
+            "title": "manuale di fonetica iii ed con cd rom",
+            "type": "monografia o trattato scientifico",
+            "year": 2002
+        },
+        {
+            "ISBN": [
+                "9783631385456"
+            ],
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "title": "dialetti e substandardizzazione nel sannio beneventano",
+            "type": "monografia o trattato scientifico",
+            "year": 2002
+        },
+        {
+            "ISBN": [
+                "9788880981428"
+            ],
+            "cv_id": {
+                "pubbs": "11"
+            },
+            "title": "confini fonetici nella lucania nord occidentale",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2001
+        },
+        {
+            "ISBN": [
+                "9788883196096"
+            ],
+            "PId": 2921378114,
+            "cv_id": {
+                "pubbs": "12"
+            },
+            "doi": "10.5167/UZH-119570",
+            "title": "allomorfia e morfo fonetica riflessioni induttive su dati dialettali campani",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2001
+        },
+        {
+            "ISSN": [
+                "1126-778X"
+            ],
+            "cv_id": {
+                "pubbs": "13"
+            },
+            "journal": "XIII",
+            "title": "aspetti di fonosintassi nei dialetti campani settentrionali contributi di filologia dell italia mediana vol",
+            "type": "articolo in rivista",
+            "year": 1999
+        },
+        {
+            "ISBN": [
+                "9783931368012"
+            ],
+            "cv_id": {
+                "pubbs": "14"
+            },
+            "title": "comme v eggia dice testi orali dal sannio beneventano in trascrizione fonetica",
+            "type": "monografia o trattato scientifico",
+            "year": 1997
+        },
+        {
+            "ISSN": [
+                "0393-1110"
+            ],
+            "cv_id": {
+                "pubbs": "15"
+            },
+            "journal": "XII",
+            "title": "l intonazione delle frasi dichiarative ed interrogative nella varieta napoletana dell italiano rivista italiana di acustica vol",
+            "type": "articolo in rivista",
+            "year": 1988
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2774346484,
+            "citing": [
+                {
+                    "PId": 2906338661,
+                    "author": [
+                        {
+                            "AuId": 2773887568,
+                            "AuN": "rachele delucchi"
+                        },
+                        {
+                            "AuId": 2172590963,
+                            "AuN": "francesco cangemi"
+                        },
+                        {
+                            "AuId": 2023813723,
+                            "AuN": "michele loporcaro"
+                        },
+                        {
+                            "AuId": 2115707842,
+                            "AuN": "silvia calamai"
+                        },
+                        {
+                            "AuId": 2108887605,
+                            "AuN": "chiara celata"
+                        },
+                        {
+                            "AuId": 2022220712,
+                            "AuN": "luca ciucci"
+                        }
+                    ],
+                    "title": "sociolinguistic interpretation needs geography and dialectology final unstressed vowels in some southern campanian dialects",
+                    "year_mag": 2012
+                }
+            ],
+            "doi": "10.5167/UZH-45237",
+            "title": "vocalismo finale atono toscano nei dialetti del vallo di diano salerno",
+            "type": "4",
+            "year_mag": 2010
+        },
+        {
+            "PId": 2521682244,
+            "citing": [
+                {
+                    "PId": 2071315723,
+                    "author": [
+                        {
+                            "AuId": 2293636059,
+                            "AuN": "philippe boula de mareuil"
+                        },
+                        {
+                            "AuId": 137402976,
+                            "AuN": "bianca vierudimulescu"
+                        }
+                    ],
+                    "doi": "10.1159/000097308",
+                    "journal": "phonetica",
+                    "title": "the contribution of prosody to the perception of foreign accent",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 1594665447,
+                    "author": [
+                        {
+                            "AuId": 2049995452,
+                            "AuN": "edward flemming"
+                        }
+                    ],
+                    "journal": "phonetica",
+                    "title": "contrast and perceptual distinctiveness",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1654442493,
+                    "author": [
+                        {
+                            "AuId": 90316106,
+                            "AuN": "michael kenstowicz"
+                        }
+                    ],
+                    "journal": "phonetica",
+                    "title": "vocale incerta vocale aperta",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2182393643,
+                    "author": [
+                        {
+                            "AuId": 2049995452,
+                            "AuN": "edward flemming"
+                        }
+                    ],
+                    "journal": "phonetica",
+                    "title": "a phonetically based model of phonological vowel reduction",
+                    "year_mag": 2005
+                },
+                {
+                    "PId": 2789715228,
+                    "author": [
+                        {
+                            "AuId": 2794146810,
+                            "AuN": "r landi"
+                        },
+                        {
+                            "AuId": 1922167484,
+                            "AuN": "renata savy"
+                        }
+                    ],
+                    "journal": "phonetica",
+                    "title": "durata vocalica struttura sillabica e velocita di eloquio nel parlato connesso",
+                    "year_mag": 1996
+                }
+            ],
+            "title": "il vocalismo dell italiano analisi di un campione televisio",
+            "type": "0",
+            "year_mag": 1995
+        },
+        {
+            "PId": 2917739858,
+            "doi": "10.1159/000077208",
+            "journal": "phonetica",
+            "title": "index autorum vol 60 2003",
+            "type": "1",
+            "year_mag": 2003
+        },
+        {
+            "PId": 2600390481,
+            "doi": "10.1159/000077209",
+            "journal": "phonetica",
+            "title": "contents vol 60 2003",
+            "type": "1",
+            "year_mag": 2003
+        },
+        {
+            "PId": 2567752328,
+            "citing": [
+                {
+                    "PId": 1973840702,
+                    "author": [
+                        {
+                            "AuId": 2162255603,
+                            "AuN": "sarah hawkins"
+                        }
+                    ],
+                    "doi": "10.1007/S12046-011-0038-0",
+                    "journal": "sadhana academy proceedings in engineering sciences",
+                    "title": "phonetic perspectives on modelling information in the speech signal",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2316016771,
+                    "author": [
+                        {
+                            "AuId": 2172590963,
+                            "AuN": "francesco cangemi"
+                        },
+                        {
+                            "AuId": 2108829181,
+                            "AuN": "mariapaola dimperio"
+                        }
+                    ],
+                    "doi": "10.1515/LP-2013-0008",
+                    "journal": "sadhana academy proceedings in engineering sciences",
+                    "title": "tempo and the perception of sentence modality",
+                    "year_mag": 2013
+                }
+            ],
+            "title": "parlare con le persone parlare alle macchine la dimensione interazionale della comunicazione verbale",
+            "type": "0",
+            "year_mag": 2010
+        },
+        {
+            "PId": 2287561698,
+            "citing": [
+                {
+                    "PId": 1688610710,
+                    "author": [
+                        {
+                            "AuId": 2652128872,
+                            "AuN": "b t tan"
+                        },
+                        {
+                            "AuId": 1966739410,
+                            "AuN": "minyue fu"
+                        },
+                        {
+                            "AuId": 2974464816,
+                            "AuN": "a spray"
+                        },
+                        {
+                            "AuId": 2618601558,
+                            "AuN": "p dermody"
+                        }
+                    ],
+                    "doi": "10.1109/ICSLP.1996.607300",
+                    "title": "the use of wavelet transforms in phoneme recognition",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2082473404,
+                    "author": [
+                        {
+                            "AuId": 2557099316,
+                            "AuN": "p k cherupalli"
+                        },
+                        {
+                            "AuId": 2554500444,
+                            "AuN": "j s k gari"
+                        }
+                    ],
+                    "doi": "10.1109/TENCON.2005.301083",
+                    "title": "a wavelet based feature extraction for voice lock systems",
+                    "year_mag": 2005
+                }
+            ],
+            "title": "the time scale transform method as an instrument for phonetic analysis",
+            "type": "5",
+            "year_mag": 1993
+        },
+        {
+            "PId": 102431901,
+            "citing": [
+                {
+                    "PId": 2156482987,
+                    "author": [
+                        {
+                            "AuId": 2974208271,
+                            "AuN": "l janer"
+                        },
+                        {
+                            "AuId": 2566613936,
+                            "AuN": "j marti"
+                        },
+                        {
+                            "AuId": 2974090520,
+                            "AuN": "c nadeu"
+                        },
+                        {
+                            "AuId": 2974758852,
+                            "AuN": "e lleidasolano"
+                        }
+                    ],
+                    "doi": "10.1109/ICSLP.1996.607279",
+                    "title": "wavelet transforms for non uniform speech recognition systems",
+                    "year_mag": 1996
+                }
+            ],
+            "title": "analysing connected speech with wavelets some italian data",
+            "type": "3",
+            "year_mag": 1993
+        },
+        {
+            "PId": 2944773351,
+            "doi": "10.5167/UZH-117696",
+            "title": "sulla diffusione areale di un fenomeno di variazione morfo fonetica nei dialetti campani",
+            "type": "4",
+            "year_mag": 2003
+        },
+        {
+            "PId": 2802682822,
+            "doi": "10.5167/UZH-119569",
+            "title": "dialettologia e fonetica acustica una ricerca in campania",
+            "type": "4",
+            "year_mag": 2002
+        },
+        {
+            "PId": 2473725167,
+            "title": "representation of frequency variations in time in speech signals",
+            "type": "5",
+            "year_mag": 1993
+        },
+        {
+            "PId": 2060490927,
+            "doi": "10.1159/000078664",
+            "journal": "phonetica",
+            "title": "manuale di fonetica nuova edizione",
+            "type": "1",
+            "year_mag": 2004
+        },
+        {
+            "PId": 2500299126,
+            "title": "destrutturazione di parlato naturale",
+            "type": "0",
+            "year_mag": 1995
+        },
+        {
+            "PId": 2241449106,
+            "title": "un indagine sugli usi linguistici a napoli e in campania",
+            "type": "0",
+            "year_mag": 2007
+        },
+        {
+            "PId": 347786660,
+            "title": "introduzione alla linguistica",
+            "type": "0",
+            "year_mag": 2007
+        },
+        {
+            "PId": 339842965,
+            "title": "i suoni dell italiano",
+            "type": "0",
+            "year_mag": 2007
+        },
+        {
+            "PId": 253103839,
+            "title": "la trascrizione fonetica",
+            "type": "0",
+            "year_mag": 2007
+        }
+    ]
+}

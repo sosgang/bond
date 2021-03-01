@@ -1,0 +1,193 @@
+{
+    "AuIds": [
+        2756145091
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 2,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 0,
+            "comm_other": 4682,
+            "other_cand": 0,
+            "other_comm": 4973
+        },
+        "other_nodes": 6512
+    },
+    "coverage": {
+        "articles": 5,
+        "books": 1,
+        "cov_sect": "C",
+        "other_pubbs": 6,
+        "pubbs": 10,
+        "pubbs_found": 2,
+        "pubbs_ind": 8,
+        "pubbs_ind_found": 2,
+        "total_extra_found": 2,
+        "total_found": 2,
+        "total_pubbs": 12
+    },
+    "fullname": [
+        "Reinhardt",
+        "Michaela"
+    ],
+    "ind_anvur": [
+        6,
+        2,
+        1,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "978-3-11-029584-9"
+            ],
+            "PId": 2754346142,
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1515/9783110297898-022",
+            "title": "fingierte mundlichkeit und poetische sprache in theatertexten",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-3-631-66865-8"
+            ],
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "title": "poetische sprache zur darstellung von verraumlichungs und verzeitigungsprozessen in theatertexten",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1649-8526"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.33178/scenario.9.2.5",
+            "journal": "SCENARIO",
+            "title": "900 euro oder dreigroschen kollektive und individuelle schaffensprozesse bei der erarbeitung eines theaterstuckes ",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0340-2258"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "4"
+            },
+            "journal": "DEUTSCHUNTERRICHT",
+            "title": "analyse von theatertexten am beispiel von philipp lohles stuck die unsicherheit der sachlage 2008 ",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9783503155040"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "title": "theatertexte literarische kunstwerke eine untersuchung zu poetischer sprache in zeitgenossischen deutschen theatertexten vol",
+            "type": "monografia o trattato scientifico",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "2281-6658"
+            ],
+            "cv_id": {
+                "pubbs_ind": "6"
+            },
+            "journal": "COSMO",
+            "title": " vi proibisco di capirmi la poesia dell inconciliabile introduzione parte ii ",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISBN": [
+                "978-88-430-6905-7"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "7"
+            },
+            "title": "neuhochdeutsch ii alto tedesco moderno 1918 oggi",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "2279-5081"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "8"
+            },
+            "journal": "DAF WERKSTATT",
+            "title": "theaterarbeit im universitaren sprachunterricht",
+            "type": "articolo in rivista",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "2384-8987"
+            ],
+            "cv_id": {
+                "pubbs": "4"
+            },
+            "journal": "RICOGNIZIONI",
+            "title": "la poesia tedesca del novecento progettazione di un unita didattica ",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "cv_id": {
+                "pubbs": "8"
+            },
+            "title": "sprechen in den wissenschaften zunachst mit humor",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2009
+        },
+        {
+            "cv_id": {
+                "pubbs": "9"
+            },
+            "title": "was soll das theater ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2006
+        },
+        {
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "title": "pladoyer fur mehr theaterarbeit im fremdsprachenunterricht am beispiel eines expressionistischen textes die wandlung von ernst toller ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2005
+        }
+    ],
+    "pubbs_mag": []
+}

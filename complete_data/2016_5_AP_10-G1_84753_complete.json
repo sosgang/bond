@@ -1,0 +1,1079 @@
+{
+    "AuIds": [
+        2167348003
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 17,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 49,
+            "comm_other": 4682,
+            "other_cand": 5,
+            "other_comm": 4973
+        },
+        "other_nodes": 6543
+    },
+    "coverage": {
+        "articles": 8,
+        "books": 1,
+        "cov_sect": "B",
+        "other_pubbs": 3,
+        "pubbs": 10,
+        "pubbs_found": 8,
+        "pubbs_ind": 9,
+        "pubbs_ind_found": 6,
+        "total_extra_found": 17,
+        "total_found": 8,
+        "total_pubbs": 12
+    },
+    "fullname": [
+        "Pozza",
+        "Marianna"
+    ],
+    "ind_anvur": [
+        5,
+        6,
+        1,
+        "Si"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0168-7298"
+            ],
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "journal": "BOLLETTINO DI ITALIANISTICA",
+            "title": "linguistica filologia e storia culturale in ricordo di palmira cipriano 29 30 settembre 2016 sapienza universita di roma ",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0085-6827"
+            ],
+            "PId": 2337544839,
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.4454/SSL.V53I2.138",
+            "journal": "STUDI E SAGGI LINGUISTICI",
+            "title": "the multilingual urban environment of achaemenid sardis",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788891714916"
+            ],
+            "PId": 3120191662,
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "3"
+            },
+            "title": "considerazioni micro sociolinguistiche su fenomeni di interferenza in area egeo anatolica tra ii e i millennio a c ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0392-4866"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "4"
+            },
+            "journal": "RIVISTA DEGLI STUDI ORIENTALI",
+            "title": "itt ista n h e mema i esperire e riflettere tra concretezza e metafora",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "9788843069194"
+            ],
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "title": "pluralita di vie del prestito i casi di itt lahanni gr \u03bb\u03b1\u03b3\u03c5\u03bd\u03bf\u03c2 e itt kupahi gr \u03ba\u03c5\u03bc\u03b2\u03b1\u03c7\u03bf\u03c2",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0019-7262"
+            ],
+            "PId": 2324442486,
+            "citing": [
+                {
+                    "PId": 2944829758,
+                    "author": [
+                        {
+                            "AuId": 2937449128,
+                            "AuN": "anthony d yates"
+                        },
+                        {
+                            "AuId": 2512677187,
+                            "AuN": "sam zukoff"
+                        }
+                    ],
+                    "doi": "10.1163/22125892-00601001",
+                    "title": "the phonology of anatolian reduplication synchrony and diachrony",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2782221678,
+                    "author": [
+                        {
+                            "AuId": 2167348003,
+                            "AuN": "marianna pozza"
+                        }
+                    ],
+                    "doi": "10.30958/AJP.3.4.2",
+                    "title": "traces of weaving in hittite a brief overview",
+                    "year_mag": 2016
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [],
+                            "family": "Kimball",
+                            "given": "S.",
+                            "sequence": "first"
+                        }
+                    ],
+                    "doi": "10.29091/KRATYLOS/2015/1/2",
+                    "title": "kloekhorst alwin accent in hittite",
+                    "year_oc": 2015
+                }
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1515/INDO.2012.117.2012.257",
+            "journal": "INDOGERMANISCHE FORSCHUNGEN",
+            "title": "reflections on some problematic cases for sturtevant s law",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "0390-6809"
+            ],
+            "PId": 2617985839,
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "7"
+            },
+            "journal": "STUDI ITALIANI DI LINGUISTICA TEORICA E APPLICATA",
+            "title": "oscillazioni grafiche di occlusive in ittito come spia di neutralizzazione fonologica riflessioni su alcuni casi problematici per la lex sturtevant",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "2281-6585"
+            ],
+            "PId": 2602510519,
+            "citing": [
+                {
+                    "PId": 3033025798,
+                    "author": [
+                        {
+                            "AuId": 3033566651,
+                            "AuN": "michele bianconi"
+                        }
+                    ],
+                    "doi": "10.1163/15699846-02001004",
+                    "journal": "journal of greek linguistics",
+                    "title": "the linguistic relationships between greek and the anatolian languages university of oxford 2019",
+                    "year_mag": 2020
+                },
+                {
+                    "PId": 2182214288,
+                    "author": [
+                        {
+                            "AuId": 2167348003,
+                            "AuN": "marianna pozza"
+                        },
+                        {
+                            "AuId": 2183475113,
+                            "AuN": "valentina gasbarra"
+                        }
+                    ],
+                    "doi": "10.30958/AJP.1-4-2",
+                    "journal": "journal of greek linguistics",
+                    "title": "multidirectional lexical borrowings in the ancient near east in the 2nd millennium bc",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2188257283,
+                    "author": [
+                        {
+                            "AuId": 2167348003,
+                            "AuN": "marianna pozza"
+                        },
+                        {
+                            "AuId": 2183475113,
+                            "AuN": "valentina gasbarra"
+                        }
+                    ],
+                    "journal": "journal of greek linguistics",
+                    "title": "atiner s conference paper series lng2014 1048",
+                    "year_mag": 2014
+                }
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "8"
+            },
+            "journal": "SEZIONE LINGUISTICA",
+            "title": "fenomeni di interferenza greco anatolica nel ii millennio a c l ittito come mediatore tra mondo indoeuropeo e mondo non indoeuropeo annali del dipartimento di studi letterari linguistici e comparati",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "9788889837733"
+            ],
+            "PId": 2615483905,
+            "citing": [
+                {
+                    "PId": 2944829758,
+                    "author": [
+                        {
+                            "AuId": 2937449128,
+                            "AuN": "anthony d yates"
+                        },
+                        {
+                            "AuId": 2512677187,
+                            "AuN": "sam zukoff"
+                        }
+                    ],
+                    "doi": "10.1163/22125892-00601001",
+                    "title": "the phonology of anatolian reduplication synchrony and diachrony",
+                    "year_mag": 2018
+                },
+                {
+                    "PId": 2548423333,
+                    "author": [
+                        {
+                            "AuId": 2780672697,
+                            "AuN": "alwin kloekhorst"
+                        }
+                    ],
+                    "doi": "10.1515/IF-2016-0013",
+                    "title": "the anatolian stop system and the indo hittite hypothesis",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2182214288,
+                    "author": [
+                        {
+                            "AuId": 2167348003,
+                            "AuN": "marianna pozza"
+                        },
+                        {
+                            "AuId": 2183475113,
+                            "AuN": "valentina gasbarra"
+                        }
+                    ],
+                    "doi": "10.30958/AJP.1-4-2",
+                    "title": "multidirectional lexical borrowings in the ancient near east in the 2nd millennium bc",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2188257283,
+                    "author": [
+                        {
+                            "AuId": 2167348003,
+                            "AuN": "marianna pozza"
+                        },
+                        {
+                            "AuId": 2183475113,
+                            "AuN": "valentina gasbarra"
+                        }
+                    ],
+                    "title": "atiner s conference paper series lng2014 1048",
+                    "year_mag": 2014
+                }
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "9"
+            },
+            "title": "la grafia delle occlusive intervocaliche in ittito verso una riformulazione della lex sturtevant",
+            "type": "monografia o trattato scientifico",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "2241-8385"
+            ],
+            "PId": 2782221678,
+            "cited": [
+                {
+                    "PId": 627049221,
+                    "author": [
+                        {
+                            "AuId": 2611970759,
+                            "AuN": "theo van den hout"
+                        }
+                    ],
+                    "title": "the elements of hittite",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 656926645,
+                    "author": [
+                        {
+                            "AuId": 2294416828,
+                            "AuN": "h craig melchert"
+                        }
+                    ],
+                    "title": "anatolian historical phonology",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2324442486,
+                    "author": [
+                        {
+                            "AuId": 2167348003,
+                            "AuN": "marianna pozza"
+                        }
+                    ],
+                    "doi": "10.1515/INDO.2012.117.2012.257",
+                    "journal": "indogermanische forschungen",
+                    "title": "reflections on some problematic cases for sturtevant s law",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2054916079,
+                    "author": [
+                        {
+                            "AuId": 2129406521,
+                            "AuN": "oswald szemerenyi"
+                        }
+                    ],
+                    "doi": "10.2307/630427",
+                    "journal": "the journal of hellenic studies",
+                    "title": "the origins of the greek lexicon ex oriente lux",
+                    "year_mag": 1974
+                },
+                {
+                    "PId": 2321882510,
+                    "author": [
+                        {
+                            "AuId": 2132271864,
+                            "AuN": "calvert watkins"
+                        }
+                    ],
+                    "doi": "10.2307/411657",
+                    "journal": "language",
+                    "title": "a latin hittite etymology",
+                    "year_mag": 1969
+                },
+                {
+                    "PId": 2312698742,
+                    "author": [
+                        {
+                            "AuId": 2893405886,
+                            "AuN": "e h sturtevant"
+                        }
+                    ],
+                    "doi": "10.2307/409218",
+                    "journal": "language",
+                    "title": "the gutturals in hittite and indo european",
+                    "year_mag": 1930
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1"
+            },
+            "doi": "10.30958/AJP.3.4.2",
+            "journal": "ATHENS JOURNAL OF PHILOLOGY",
+            "title": "traces of weaving in hittite a brief overview",
+            "type": "articolo in rivista",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1820-1768"
+            ],
+            "PId": 2783913395,
+            "cv_id": {
+                "pubbs": "3"
+            },
+            "journal": "NASLEDE",
+            "title": "l espressione dello strumento nel latino arcaico tra linguistica cognitiva e naturalezza morfologica",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "9788856817676"
+            ],
+            "cv_id": {
+                "pubbs": "10"
+            },
+            "title": "un caso di colonnarita nella morfologia derivazionale il gr bathus",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2010
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2182214288,
+            "cited": [
+                {
+                    "PId": 2308803526,
+                    "author": [
+                        {
+                            "AuId": 2122548064,
+                            "AuN": "lisa lim"
+                        },
+                        {
+                            "AuId": 2777263619,
+                            "AuN": "umberto ansaldo"
+                        }
+                    ],
+                    "title": "languages in contact",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2038375792,
+                    "author": [
+                        {
+                            "AuId": 2576501662,
+                            "AuN": "ronald wardhaugh"
+                        }
+                    ],
+                    "title": "an introduction to sociolinguistics",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 163332037,
+                    "author": [
+                        {
+                            "AuId": 328979055,
+                            "AuN": "william labov"
+                        }
+                    ],
+                    "title": "principles of linguistic change",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2798705394,
+                    "author": [
+                        {
+                            "AuId": 2798450308,
+                            "AuN": "joan bybee"
+                        }
+                    ],
+                    "title": "language change",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2011069026,
+                    "author": [
+                        {
+                            "AuId": 2601900250,
+                            "AuN": "ralph w fasold"
+                        }
+                    ],
+                    "title": "the sociolinguistics of society",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2117615882,
+                    "author": [
+                        {
+                            "AuId": 2157618206,
+                            "AuN": "sarah g thomason"
+                        },
+                        {
+                            "AuId": 2090063562,
+                            "AuN": "terrence kaufman"
+                        }
+                    ],
+                    "title": "language contact creolization and genetic linguistics",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2072182783,
+                    "author": [
+                        {
+                            "AuId": 74693216,
+                            "AuN": "florian coulmas"
+                        }
+                    ],
+                    "doi": "10.1111/B.9780631211938.1998.X",
+                    "journal": "language",
+                    "title": "the handbook of sociolinguistics",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2079164242,
+                    "author": [
+                        {
+                            "AuId": 2326407990,
+                            "AuN": "r m w dixon"
+                        }
+                    ],
+                    "title": "the rise and fall of languages",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 650510207,
+                    "author": [
+                        {
+                            "AuId": 2112491174,
+                            "AuN": "rajend mesthrie"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511997068",
+                    "title": "the cambridge handbook of sociolinguistics",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2050200483,
+                    "author": [
+                        {
+                            "AuId": 2601900250,
+                            "AuN": "ralph w fasold"
+                        }
+                    ],
+                    "title": "the sociolinguistics of language",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 1607859908,
+                    "author": [
+                        {
+                            "AuId": 38942955,
+                            "AuN": "herbert schendl"
+                        }
+                    ],
+                    "doi": "10.1002/9781118257227.CH28",
+                    "title": "multilingualism code switching and language contact in historical sociolinguistics",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1553927692,
+                    "author": [
+                        {
+                            "AuId": 2590985687,
+                            "AuN": "juan manuel hernandezcampoy"
+                        },
+                        {
+                            "AuId": 2793244583,
+                            "AuN": "juan camilo conde silvestre"
+                        }
+                    ],
+                    "title": "the handbook of historical sociolinguistics",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1542403608,
+                    "author": [
+                        {
+                            "AuId": 2158155460,
+                            "AuN": "raymond hickey"
+                        }
+                    ],
+                    "doi": "10.1002/9781118257227.CH21",
+                    "title": "internally and externally motivated language change",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2079968990,
+                    "author": [
+                        {
+                            "AuId": 714250694,
+                            "AuN": "suzanne romaine"
+                        }
+                    ],
+                    "title": "socio historical linguistics its status and methodology",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 2321910184,
+                    "author": [
+                        {
+                            "AuId": 2718247557,
+                            "AuN": "p a mountjoy"
+                        }
+                    ],
+                    "doi": "10.2307/3643047",
+                    "journal": "anatolian studies",
+                    "title": "the east aegean west anatolian interface in the late bronze age mycenaeans and the kingdom of ahhiyawa",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1597491499,
+                    "author": [
+                        {
+                            "AuId": 2635049609,
+                            "AuN": "seth l sanders"
+                        }
+                    ],
+                    "title": "margins of writing origins of cultures",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2082621521,
+                    "author": [
+                        {
+                            "AuId": 2132855866,
+                            "AuN": "einar haugen"
+                        }
+                    ],
+                    "doi": "10.1525/AA.1966.68.4.02A00040",
+                    "journal": "american anthropologist",
+                    "title": "dialect language nation1",
+                    "year_mag": 1966
+                },
+                {
+                    "PId": 1521184974,
+                    "author": [
+                        {
+                            "AuId": 2167128335,
+                            "AuN": "joshua a fishman"
+                        }
+                    ],
+                    "title": "bilingualism in the barrio",
+                    "year_mag": 1968
+                },
+                {
+                    "PId": 2602510519,
+                    "author": [
+                        {
+                            "AuId": 2167348003,
+                            "AuN": "marianna pozza"
+                        }
+                    ],
+                    "title": "fenomeni di interferenza greco anatolica nel ii millennio a c l ittito come mediatore tra mondo indoeuropeo e mondo non indoeuropeo",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2615483905,
+                    "author": [
+                        {
+                            "AuId": 2167348003,
+                            "AuN": "marianna pozza"
+                        }
+                    ],
+                    "title": "la grafia delle occlusive intervocaliche in ittito verso una riformulazione della lex sturtevant",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2502496244,
+                    "author": [
+                        {
+                            "AuId": 2501747239,
+                            "AuN": "david langslow"
+                        }
+                    ],
+                    "title": "approaching bilingualism in corpus languages",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 55908669,
+                    "author": [
+                        {
+                            "AuId": 2476836912,
+                            "AuN": "trevor bryce"
+                        }
+                    ],
+                    "journal": "historia zeitschrift fur alte geschichte",
+                    "title": "anatolian scribes in mycenaean greece",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 281094313,
+                    "author": [
+                        {
+                            "AuId": 3035018730,
+                            "AuN": "henning marquardt"
+                        }
+                    ],
+                    "doi": "10.1515/9783110209006.357",
+                    "journal": "indogermanische forschungen",
+                    "title": "studi linguistici in onore di roberto gusmani",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2579121,
+                    "author": [
+                        {
+                            "AuId": 2476836912,
+                            "AuN": "trevor bryce"
+                        }
+                    ],
+                    "title": "relations between hatti and ahhiyawa in the last decades of the bronze age",
+                    "year_mag": 2003
+                }
+            ],
+            "doi": "10.30958/AJP.1-4-2",
+            "journal": "american journal of psychology",
+            "title": "multidirectional lexical borrowings in the ancient near east in the 2nd millennium bc",
+            "type": "1",
+            "year_mag": 2014
+        },
+        {
+            "PId": 2242685747,
+            "title": "dinamiche sociolinguistiche in aree di influenza greca mutamento variazione e contatto sociolinguistic dynamics under the greek influence linguistic change variation and contact",
+            "type": "0",
+            "year_mag": 2014
+        },
+        {
+            "PId": 2480377445,
+            "title": "internal structure of verbal stems in the germanic languages",
+            "type": "0",
+            "year_mag": 2007
+        },
+        {
+            "PId": 2597535304,
+            "title": "some sociolinguistic reflections on the aegean anatolian interference in the 2nd millennium bc",
+            "type": "0",
+            "year_mag": 2014
+        },
+        {
+            "PId": 2188257283,
+            "cited": [
+                {
+                    "PId": 2308803526,
+                    "author": [
+                        {
+                            "AuId": 2122548064,
+                            "AuN": "lisa lim"
+                        },
+                        {
+                            "AuId": 2777263619,
+                            "AuN": "umberto ansaldo"
+                        }
+                    ],
+                    "title": "languages in contact",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2038375792,
+                    "author": [
+                        {
+                            "AuId": 2576501662,
+                            "AuN": "ronald wardhaugh"
+                        }
+                    ],
+                    "title": "an introduction to sociolinguistics",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 163332037,
+                    "author": [
+                        {
+                            "AuId": 328979055,
+                            "AuN": "william labov"
+                        }
+                    ],
+                    "title": "principles of linguistic change",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2798705394,
+                    "author": [
+                        {
+                            "AuId": 2798450308,
+                            "AuN": "joan bybee"
+                        }
+                    ],
+                    "title": "language change",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2011069026,
+                    "author": [
+                        {
+                            "AuId": 2601900250,
+                            "AuN": "ralph w fasold"
+                        }
+                    ],
+                    "title": "the sociolinguistics of society",
+                    "year_mag": 1991
+                },
+                {
+                    "PId": 2117615882,
+                    "author": [
+                        {
+                            "AuId": 2157618206,
+                            "AuN": "sarah g thomason"
+                        },
+                        {
+                            "AuId": 2090063562,
+                            "AuN": "terrence kaufman"
+                        }
+                    ],
+                    "title": "language contact creolization and genetic linguistics",
+                    "year_mag": 1988
+                },
+                {
+                    "PId": 2072182783,
+                    "author": [
+                        {
+                            "AuId": 74693216,
+                            "AuN": "florian coulmas"
+                        }
+                    ],
+                    "doi": "10.1111/B.9780631211938.1998.X",
+                    "journal": "language",
+                    "title": "the handbook of sociolinguistics",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2079164242,
+                    "author": [
+                        {
+                            "AuId": 2326407990,
+                            "AuN": "r m w dixon"
+                        }
+                    ],
+                    "title": "the rise and fall of languages",
+                    "year_mag": 1997
+                },
+                {
+                    "PId": 650510207,
+                    "author": [
+                        {
+                            "AuId": 2112491174,
+                            "AuN": "rajend mesthrie"
+                        }
+                    ],
+                    "doi": "10.1017/CBO9780511997068",
+                    "title": "the cambridge handbook of sociolinguistics",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2050200483,
+                    "author": [
+                        {
+                            "AuId": 2601900250,
+                            "AuN": "ralph w fasold"
+                        }
+                    ],
+                    "title": "the sociolinguistics of language",
+                    "year_mag": 1984
+                },
+                {
+                    "PId": 1607859908,
+                    "author": [
+                        {
+                            "AuId": 38942955,
+                            "AuN": "herbert schendl"
+                        }
+                    ],
+                    "doi": "10.1002/9781118257227.CH28",
+                    "title": "multilingualism code switching and language contact in historical sociolinguistics",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1553927692,
+                    "author": [
+                        {
+                            "AuId": 2590985687,
+                            "AuN": "juan manuel hernandezcampoy"
+                        },
+                        {
+                            "AuId": 2793244583,
+                            "AuN": "juan camilo conde silvestre"
+                        }
+                    ],
+                    "title": "the handbook of historical sociolinguistics",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1542403608,
+                    "author": [
+                        {
+                            "AuId": 2158155460,
+                            "AuN": "raymond hickey"
+                        }
+                    ],
+                    "doi": "10.1002/9781118257227.CH21",
+                    "title": "internally and externally motivated language change",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2079968990,
+                    "author": [
+                        {
+                            "AuId": 714250694,
+                            "AuN": "suzanne romaine"
+                        }
+                    ],
+                    "title": "socio historical linguistics its status and methodology",
+                    "year_mag": 1982
+                },
+                {
+                    "PId": 2321910184,
+                    "author": [
+                        {
+                            "AuId": 2718247557,
+                            "AuN": "p a mountjoy"
+                        }
+                    ],
+                    "doi": "10.2307/3643047",
+                    "journal": "anatolian studies",
+                    "title": "the east aegean west anatolian interface in the late bronze age mycenaeans and the kingdom of ahhiyawa",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 1597491499,
+                    "author": [
+                        {
+                            "AuId": 2635049609,
+                            "AuN": "seth l sanders"
+                        }
+                    ],
+                    "title": "margins of writing origins of cultures",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2082621521,
+                    "author": [
+                        {
+                            "AuId": 2132855866,
+                            "AuN": "einar haugen"
+                        }
+                    ],
+                    "doi": "10.1525/AA.1966.68.4.02A00040",
+                    "journal": "american anthropologist",
+                    "title": "dialect language nation1",
+                    "year_mag": 1966
+                },
+                {
+                    "PId": 1521184974,
+                    "author": [
+                        {
+                            "AuId": 2167128335,
+                            "AuN": "joshua a fishman"
+                        }
+                    ],
+                    "title": "bilingualism in the barrio",
+                    "year_mag": 1968
+                },
+                {
+                    "PId": 2602510519,
+                    "author": [
+                        {
+                            "AuId": 2167348003,
+                            "AuN": "marianna pozza"
+                        }
+                    ],
+                    "title": "fenomeni di interferenza greco anatolica nel ii millennio a c l ittito come mediatore tra mondo indoeuropeo e mondo non indoeuropeo",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2615483905,
+                    "author": [
+                        {
+                            "AuId": 2167348003,
+                            "AuN": "marianna pozza"
+                        }
+                    ],
+                    "title": "la grafia delle occlusive intervocaliche in ittito verso una riformulazione della lex sturtevant",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2502496244,
+                    "author": [
+                        {
+                            "AuId": 2501747239,
+                            "AuN": "david langslow"
+                        }
+                    ],
+                    "title": "approaching bilingualism in corpus languages",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 55908669,
+                    "author": [
+                        {
+                            "AuId": 2476836912,
+                            "AuN": "trevor bryce"
+                        }
+                    ],
+                    "journal": "historia zeitschrift fur alte geschichte",
+                    "title": "anatolian scribes in mycenaean greece",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 281094313,
+                    "author": [
+                        {
+                            "AuId": 3035018730,
+                            "AuN": "henning marquardt"
+                        }
+                    ],
+                    "doi": "10.1515/9783110209006.357",
+                    "journal": "indogermanische forschungen",
+                    "title": "studi linguistici in onore di roberto gusmani",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2579121,
+                    "author": [
+                        {
+                            "AuId": 2476836912,
+                            "AuN": "trevor bryce"
+                        }
+                    ],
+                    "title": "relations between hatti and ahhiyawa in the last decades of the bronze age",
+                    "year_mag": 2003
+                }
+            ],
+            "title": "atiner s conference paper series lng2014 1048",
+            "type": "0",
+            "year_mag": 2014
+        },
+        {
+            "PId": 2598420646,
+            "title": "recensione a robert fischer detlev groddeck henning marquardt hrsgg hethitologie in dresden textbearbeitungen arbeiten zur forschungs und schriftgeschichte dresdner beitrage zur hethitologie 35 wiesbaden harrassowitz 2011 230 pp",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2784124486,
+            "title": "pluralita di vie del prestito i casi di itt la\u1e2banni gr \u03bb\u03ac\u03b3\u03c5\u03bd\u03bf\u03c2 e itt kupa\u1e2bi gr \u03ba\u03cd\u03bc\u03b2\u03b1\u03c7\u03bf\u03c2",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2602152847,
+            "title": "pluralita di vie del prestito i casi di itt lahanni gr lagunos e itt kupahi gr kumbakhos",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2617145098,
+            "title": "il greco bathus tra etimologia di parola ed etimologia di sistema",
+            "type": "0",
+            "year_mag": 2007
+        }
+    ]
+}

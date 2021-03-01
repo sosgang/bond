@@ -1,0 +1,378 @@
+{
+    "AuIds": [
+        2589814562,
+        2510714120,
+        2684207373,
+        1081143086,
+        347675477,
+        2589676410,
+        2640971038
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 7,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 531,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 0,
+            "comm_other": 4190,
+            "other_cand": 0,
+            "other_comm": 4965
+        },
+        "other_nodes": 6258
+    },
+    "coverage": {
+        "articles": 12,
+        "books": 2,
+        "cov_sect": "C",
+        "other_pubbs": 12,
+        "pubbs": 15,
+        "pubbs_found": 4,
+        "pubbs_ind": 23,
+        "pubbs_ind_found": 6,
+        "total_extra_found": 7,
+        "total_found": 7,
+        "total_pubbs": 26
+    },
+    "fullname": [
+        "Lupinu",
+        "Giovanni"
+    ],
+    "ind_anvur": [
+        19,
+        6,
+        4,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISBN": [
+                "978-88-99459-42-0"
+            ],
+            "cv_id": {
+                "pubbs_ind": "1"
+            },
+            "title": "scritti di linguistica e filologia del sardo medievale ",
+            "type": "monografia o trattato scientifico",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "2279-6908"
+            ],
+            "PId": 2590701374,
+            "cv_id": {
+                "pubbs_ind": "2"
+            },
+            "journal": "BOLLETTINO DI STUDI SARDI",
+            "title": "un corpus informatizzato per il sardo antico",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "0085-2295"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "3"
+            },
+            "journal": "LXXIII",
+            "title": "per una nuova edizione critica del condaghe di barisone ii l italia dialettale vol numero speciale allegato al vol",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "2279-6908"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "4"
+            },
+            "journal": "BOLLETTINO DI STUDI SARDI",
+            "title": "traducendo salvatore satta dal giorno del giudizio ad az itelet napja ",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISBN": [
+                "978-88-96312-56-8"
+            ],
+            "cv_id": {
+                "pubbs_ind": "5"
+            },
+            "title": "la traduzione ungherese del giorno del giudizio di salvatore satta",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0391-5654"
+            ],
+            "PId": 1945859156,
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "6"
+            },
+            "doi": "10.1400/221235",
+            "journal": "CULTURA NEOLATINA",
+            "title": "le questioni giuridiche integrative della carta de logu preliminari a un edizione critica",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0394-3569"
+            ],
+            "PId": 2468583947,
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "7"
+            },
+            "doi": "10.1400/215189",
+            "journal": "STUDI LINGUISTICI ITALIANI",
+            "title": "appunti sul contatto linguistico sardo pisano nel medioevo",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "2279-6908"
+            ],
+            "cv_id": {
+                "pubbs_ind": "8"
+            },
+            "journal": "BOLLETTINO DI STUDI SARDI",
+            "title": "testis unus testis nullus su una voce dubbia nel ms della carta de logu",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "0085-2295"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "9"
+            },
+            "journal": "L'ITALIA DIALETTALE",
+            "title": "sull uso del vocabolo ragione nel sardo medievale",
+            "type": "articolo in rivista",
+            "year": 2012
+        },
+        {
+            "ISBN": [
+                "978-88-95462-53-0"
+            ],
+            "cv_id": {
+                "pubbs_ind": "10"
+            },
+            "title": "una nuova edizione critica della carta de logu dell arborea",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2012
+        },
+        {
+            "ISSN": [
+                "0042-899X"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "11"
+            },
+            "journal": "VOX ROMANICA",
+            "title": "a proposito del sardo medievale maquicia",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISSN": [
+                "2279-6908"
+            ],
+            "PId": 2518356026,
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "12"
+            },
+            "journal": "BOLLETTINO DI STUDI SARDI",
+            "title": "ancora sull ant sardo beredalli derredali",
+            "type": "articolo in rivista",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9788896412565"
+            ],
+            "cv_id": {
+                "pubbs_ind": "13"
+            },
+            "title": "quadro linguistico in italia e in sardegna all indomani dell unita d italia",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "978-88-6202-084-8"
+            ],
+            "cv_id": {
+                "pubbs_ind": "14"
+            },
+            "title": "appunti sul lessico sardo dell intreccio e della cestineria tradizionali",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2011
+        },
+        {
+            "ISBN": [
+                "9788895701219"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "15"
+            },
+            "journal": "1, p",
+            "title": "carta de logu dell arborea nuova edizione critica secondo il manoscritto di cagliari buc 211 con traduzione italiana a cura di giovanni lupinu con la collaborazione di giovanni strinna vol",
+            "type": "edizione critica di testi/di scavo",
+            "year": 2010
+        },
+        {
+            "ISSN": [
+                "0394-3569"
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "16"
+            },
+            "journal": "STUDI LINGUISTICI ITALIANI",
+            "title": "cinque righe in meno storia di una polemica fra luigi luciano bonaparte e hugo schuchardt",
+            "type": "articolo in rivista",
+            "year": 2008
+        },
+        {
+            "ISBN": [
+                "978-88-557-0170-9"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "17"
+            },
+            "title": "lingue culture identita in sardegna a proposito di una recente indagine sociolinguistica",
+            "type": "contributo in atti di convegno",
+            "year": 2008
+        },
+        {
+            "ISSN": [
+                "0023-8503"
+            ],
+            "cv_id": {
+                "pubbs_ind": "18"
+            },
+            "journal": "LXXI",
+            "title": "parole di pane lares vol",
+            "type": "articolo in rivista",
+            "year": 2007
+        },
+        {
+            "ISBN": [
+                "978-88-6202-017-6"
+            ],
+            "PId": 67811560,
+            "cv_id": {
+                "pubbs_ind": "19"
+            },
+            "title": "appunti sul lessico sardo della figulina",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2007
+        },
+        {
+            "ISBN": [
+                "978-88-8467-416-6"
+            ],
+            "cv_id": {
+                "pubbs_ind": "20"
+            },
+            "title": "max leopold wagner e la sardegna autentica ",
+            "type": "contributo in atti di convegno",
+            "year": 2007
+        },
+        {
+            "ISBN": [
+                "978-88-548-1231-4"
+            ],
+            "PId": 2590725226,
+            "cv_id": {
+                "pubbs_ind": "21"
+            },
+            "title": "luigi luciano bonaparte e la linguistica sarda",
+            "type": "contributo in atti di convegno",
+            "year": 2007
+        },
+        {
+            "ISBN": [
+                "978-88-8467398-5"
+            ],
+            "cv_id": {
+                "pubbs": "11",
+                "pubbs_ind": "22"
+            },
+            "journal": "p",
+            "title": "il vangelo di san matteo voltato in sassarese la traduzione ottocentesca di giovanni spano",
+            "type": "edizione critica di testi/di scavo",
+            "year": 2007
+        },
+        {
+            "ISBN": [
+                "88-8467-221-X"
+            ],
+            "cv_id": {
+                "pubbs": "12",
+                "pubbs_ind": "23"
+            },
+            "journal": "p",
+            "title": "il vangelo di san matteo voltato in logudorese e cagliaritano le traduzioni ottocentesche di giovanni spano e federigo abis",
+            "type": "edizione critica di testi/di scavo",
+            "year": 2004
+        },
+        {
+            "ISBN": [
+                "88-87825-24-6"
+            ],
+            "cv_id": {
+                "pubbs": "13"
+            },
+            "title": "latino epigrafico della sardegna aspetti fonetici ",
+            "type": "monografia o trattato scientifico",
+            "year": 2000
+        },
+        {
+            "PId": 19735673,
+            "cv_id": {
+                "pubbs": "14"
+            },
+            "title": "contributo allo studio della fonologia delle iscrizioni latine della sardegna paleocristiana",
+            "type": "contributo in atti di convegno",
+            "year": 1999
+        },
+        {
+            "cv_id": {
+                "pubbs": "15"
+            },
+            "journal": "XIV",
+            "title": "la polisemia nel iv libro del de compensiosa doctrina di nonio marcello studi noniani vol",
+            "type": "articolo in rivista",
+            "year": 1992
+        }
+    ],
+    "pubbs_mag": []
+}

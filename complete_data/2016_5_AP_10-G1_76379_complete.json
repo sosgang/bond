@@ -1,0 +1,180 @@
+{
+    "AuIds": [],
+    "citmetrics": {
+        "bc": {
+            "articles": {},
+            "number": 0
+        },
+        "cand_nodes": 1,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 569,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 0,
+            "comm_other": 4682,
+            "other_cand": 0,
+            "other_comm": 4973
+        },
+        "other_nodes": 6512
+    },
+    "coverage": {
+        "articles": 5,
+        "books": 1,
+        "cov_sect": "C",
+        "other_pubbs": 4,
+        "pubbs": 10,
+        "pubbs_found": 1,
+        "pubbs_ind": 10,
+        "pubbs_ind_found": 1,
+        "total_extra_found": 1,
+        "total_found": 1,
+        "total_pubbs": 10
+    },
+    "fullname": [
+        "Marmiroli",
+        "Lorenzo"
+    ],
+    "ind_anvur": [
+        8,
+        0,
+        1,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "1125-520X"
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "journal": "RIVISTA DI STUDI UNGHERESI",
+            "title": "suggestioni panslaviste pangermaniste e turaniche nella nyugat allo scoppio della grande guerra rsu",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-615-80663-8-9"
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "title": "delenda austria dalla neutralita all intervento riviste culturali italiane e austro ungariche nella grande guerra 1914 1915 vol 3 ",
+            "type": "monografia o trattato scientifico",
+            "year": 2017
+        },
+        {
+            "ISBN": [
+                "978-963-306-509-9"
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "title": "lo scoppio della prima guerra mondiale sulle pagine delle riviste culturali italiane l unita problemi della vita italiana la voce e dell ungherese nyugat luglio agosto 1914 ",
+            "type": "contributo in volume (capitolo o saggio)",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "9788868970673"
+            ],
+            "cv_id": {
+                "pubbs": "4",
+                "pubbs_ind": "4"
+            },
+            "title": "la campagna interventista in italia e in ungheria un confronto fra l unita la voce e nyugat lug 114 mag 1915 ",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISBN": [
+                "978-3-8487-2265-5"
+            ],
+            "cv_id": {
+                "pubbs": "5",
+                "pubbs_ind": "5"
+            },
+            "doi": "10.5771/9783845263595-101",
+            "title": "peace perspectives after the outbreak of wwi a comparison between the cultural magazines l unita problemi della vita italiana and nyugat 1914 1915 ",
+            "type": "contributo in atti di convegno",
+            "year": 2016
+        },
+        {
+            "ISSN": [
+                "1125-520X"
+            ],
+            "cv_id": {
+                "pubbs": "7",
+                "pubbs_ind": "6"
+            },
+            "journal": "RIVISTA DI STUDI UNGHERESI",
+            "title": "lo scoppio della grande guerra e l intervento armato italiano sulla rivista nyugat luglio 1914 giugno 1915 rsu",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISSN": [
+                "1218-9472"
+            ],
+            "cv_id": {
+                "pubbs": "6",
+                "pubbs_ind": "7"
+            },
+            "journal": "NUOVA CORVINA",
+            "title": "le radiose giornate del maggio 1915 sulle riviste culturali l unita problemi della vita italiana la voce e nyugat",
+            "type": "articolo in rivista",
+            "year": 2015
+        },
+        {
+            "ISBN": [
+                "1-4438-8051-5"
+            ],
+            "cv_id": {
+                "pubbs": "8",
+                "pubbs_ind": "8"
+            },
+            "title": "the july crisis and the outbreak of wwi on cultural magazines of that time a comparison between italy and austria hungary ",
+            "type": "contributo in atti di convegno",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "1125-520X"
+            ],
+            "cv_id": {
+                "pubbs": "9",
+                "pubbs_ind": "9"
+            },
+            "journal": "RIVISTA DI STUDI UNGHERESI",
+            "title": "le traduzioni delle opere di kosztolanyi rsu",
+            "type": "articolo in rivista",
+            "year": 2013
+        },
+        {
+            "ISSN": [
+                "1125-520X"
+            ],
+            "cv_id": {
+                "pubbs": "10",
+                "pubbs_ind": "10"
+            },
+            "journal": "RIVISTA DI STUDI UNGHERESI",
+            "title": "nemzetkozi vonatkozasok a voros postakocsiban modelli letterari stranieri nel romanzo la carrozza cremisi rsu",
+            "type": "articolo in rivista",
+            "year": 2009
+        }
+    ],
+    "pubbs_mag": []
+}

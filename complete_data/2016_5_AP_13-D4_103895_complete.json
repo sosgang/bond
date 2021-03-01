@@ -1,0 +1,1940 @@
+{
+    "AuIds": [
+        2037807402
+    ],
+    "citmetrics": {
+        "bc": {
+            "articles": {
+                "2265447265_+_1968230821": 1,
+                "270212997_+_2174661097": 1,
+                "2794459618_+_2008542423": 1
+            },
+            "number": 3
+        },
+        "cand_nodes": 7,
+        "cand_paths": {},
+        "cc": {
+            "articles": {},
+            "number": 0
+        },
+        "co-au": {
+            "articles": [],
+            "number": 0
+        },
+        "comm_nodes": 374,
+        "comm_paths": {},
+        "other": {
+            "cand_other": 81,
+            "comm_other": 4216,
+            "other_cand": 8,
+            "other_comm": 1564
+        },
+        "other_nodes": 4004
+    },
+    "coverage": {
+        "articles": 3,
+        "books": 0,
+        "cov_sect": "A",
+        "other_pubbs": 0,
+        "pubbs": 3,
+        "pubbs_found": 3,
+        "pubbs_ind": 3,
+        "pubbs_ind_found": 3,
+        "total_extra_found": 7,
+        "total_found": 3,
+        "total_pubbs": 3
+    },
+    "fullname": [
+        "Gioffre'",
+        "Alessandro"
+    ],
+    "ind_anvur": [
+        3,
+        2,
+        0,
+        "No"
+    ],
+    "pubbs": [
+        {
+            "ISSN": [
+                "0165-1765"
+            ],
+            "PId": 2567216860,
+            "cited": [
+                {
+                    "PId": 2056700716,
+                    "author": [
+                        {
+                            "AuId": 2165342514,
+                            "AuN": "michihiro kandori"
+                        }
+                    ],
+                    "doi": "10.2307/2297925",
+                    "journal": "the review of economic studies",
+                    "title": "social norms and community enforcement",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2768978272,
+                    "author": [
+                        {
+                            "AuId": 573466828,
+                            "AuN": "drew fudenberg"
+                        },
+                        {
+                            "AuId": 260955992,
+                            "AuN": "eric maskin"
+                        }
+                    ],
+                    "title": "the folk theorem in repeated games with discounting or with incomplete information1",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 2125635807,
+                    "author": [
+                        {
+                            "AuId": 573466828,
+                            "AuN": "drew fudenberg"
+                        },
+                        {
+                            "AuId": 260955992,
+                            "AuN": "eric maskin"
+                        }
+                    ],
+                    "doi": "10.2307/1911307",
+                    "journal": "econometrica",
+                    "title": "the folk theorem in repeated games with discounting or with incomplete information",
+                    "year_mag": 1986
+                },
+                {
+                    "PId": 1984093725,
+                    "author": [
+                        {
+                            "AuId": 1990728966,
+                            "AuN": "glenn ellison"
+                        }
+                    ],
+                    "doi": "10.2307/2297904",
+                    "journal": "the review of economic studies",
+                    "title": "cooperation in the prisoner s dilemma with anonymous random matching",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2080286264,
+                    "author": [
+                        {
+                            "AuId": 2158263865,
+                            "AuN": "ariel rubinstein"
+                        }
+                    ],
+                    "doi": "10.1016/0022-0531(79)90002-4",
+                    "journal": "journal of economic theory",
+                    "title": "equilibrium in supergames with the overtaking criterion",
+                    "year_mag": 1979
+                },
+                {
+                    "PId": 2113718256,
+                    "author": [
+                        {
+                            "AuId": 2171037176,
+                            "AuN": "matthias blonski"
+                        },
+                        {
+                            "AuId": 2035675841,
+                            "AuN": "giancarlo spagnolo"
+                        },
+                        {
+                            "AuId": 2035675841,
+                            "AuN": "giancarlo spagnolo"
+                        },
+                        {
+                            "AuId": 2035675841,
+                            "AuN": "giancarlo spagnolo"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.278872",
+                    "journal": "international journal of game theory",
+                    "title": "prisoners other dilemma",
+                    "year_mag": 2015
+                },
+                {
+                    "PId": 2038156956,
+                    "author": [
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 2037807402,
+                            "AuN": "alessandro gioffre"
+                        }
+                    ],
+                    "doi": "10.1016/J.JMATECO.2013.07.003",
+                    "journal": "journal of mathematical economics",
+                    "title": "a tractable analysis of contagious equilibria",
+                    "year_mag": 2014
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2930498630,
+                    "author": [
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 2145145525,
+                            "AuN": "cary deck"
+                        },
+                        {
+                            "AuId": 2137697576,
+                            "AuN": "david porter"
+                        }
+                    ],
+                    "title": "do economic inequalities affect long run cooperation prosperity",
+                    "year_mag": 2019
+                }
+            ],
+            "cv_id": {
+                "pubbs": "1",
+                "pubbs_ind": "1"
+            },
+            "doi": "10.1016/J.ECONLET.2016.12.025",
+            "journal": "ECONOMICS LETTERS",
+            "title": "asymmetric social norms",
+            "type": "articolo in rivista",
+            "year": 2017
+        },
+        {
+            "ISSN": [
+                "0304-3932"
+            ],
+            "PId": 2264667057,
+            "cited": [
+                {
+                    "PId": 2056700716,
+                    "author": [
+                        {
+                            "AuId": 2165342514,
+                            "AuN": "michihiro kandori"
+                        }
+                    ],
+                    "doi": "10.2307/2297925",
+                    "journal": "the review of economic studies",
+                    "title": "social norms and community enforcement",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1989442752,
+                    "author": [
+                        {
+                            "AuId": 2252465130,
+                            "AuN": "narayana r kocherlakota"
+                        }
+                    ],
+                    "doi": "10.1006/JETH.1997.2357",
+                    "journal": "journal of economic theory",
+                    "title": "money is memory",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2575211436,
+                    "author": [
+                        {
+                            "AuId": 2577684932,
+                            "AuN": "norman meyers"
+                        },
+                        {
+                            "AuId": 176739540,
+                            "AuN": "james serrin"
+                        }
+                    ],
+                    "doi": "10.1073/PNAS.51.6.1055",
+                    "journal": "proceedings of the national academy of sciences of the united states of america",
+                    "title": "h w",
+                    "year_mag": 1964
+                },
+                {
+                    "PId": 1556267561,
+                    "author": [
+                        {
+                            "AuId": 247251627,
+                            "AuN": "nobuhiro kiyotaki"
+                        },
+                        {
+                            "AuId": 2129873145,
+                            "AuN": "randall wright"
+                        }
+                    ],
+                    "journal": "the american economic review",
+                    "title": "a search theoretic approach to monetary economics",
+                    "year_mag": 1993
+                },
+                {
+                    "PId": 1984093725,
+                    "author": [
+                        {
+                            "AuId": 1990728966,
+                            "AuN": "glenn ellison"
+                        }
+                    ],
+                    "doi": "10.2307/2297904",
+                    "journal": "the review of economic studies",
+                    "title": "cooperation in the prisoner s dilemma with anonymous random matching",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 2153604581,
+                    "author": [
+                        {
+                            "AuId": 1856348575,
+                            "AuN": "avinash dixit"
+                        }
+                    ],
+                    "doi": "10.1111/1468-0262.00415",
+                    "journal": "econometrica",
+                    "title": "on modes of economic governance",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 1994003047,
+                    "author": [
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 2039979327,
+                            "AuN": "marco casari"
+                        }
+                    ],
+                    "doi": "10.1257/AER.99.3.979",
+                    "journal": "the american economic review",
+                    "title": "cooperation among strangers under the shadow of the future",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2001126868,
+                    "author": [
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 2039979327,
+                            "AuN": "marco casari"
+                        },
+                        {
+                            "AuId": 1991154506,
+                            "AuN": "maria bigoni"
+                        }
+                    ],
+                    "doi": "10.1073/PNAS.1301888110",
+                    "journal": "proceedings of the national academy of sciences of the united states of america",
+                    "title": "money and trust among strangers",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2161401558,
+                    "author": [
+                        {
+                            "AuId": 184450300,
+                            "AuN": "stefan krasa"
+                        },
+                        {
+                            "AuId": 2146193933,
+                            "AuN": "anne p villamil"
+                        }
+                    ],
+                    "doi": "10.1111/1468-0262.00095",
+                    "journal": "econometrica",
+                    "title": "optimal contracts when enforcement is a decision variable",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2074764193,
+                    "author": [
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 2039979327,
+                            "AuN": "marco casari"
+                        }
+                    ],
+                    "doi": "10.1257/MIC.6.1.290",
+                    "journal": "american economic journal microeconomics",
+                    "title": "the coordination value of monetary exchange experimental evidence",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2127284648,
+                    "author": [
+                        {
+                            "AuId": 2307095496,
+                            "AuN": "erik o kimbrough"
+                        },
+                        {
+                            "AuId": 1981573856,
+                            "AuN": "vernon l smith"
+                        },
+                        {
+                            "AuId": 2116261084,
+                            "AuN": "bart j wilson"
+                        }
+                    ],
+                    "doi": "10.1257/AER.98.3.1009",
+                    "journal": "the american economic review",
+                    "title": "historical property rights sociality and the emergence of impersonal exchange in long distance trade",
+                    "year_mag": 2008
+                },
+                {
+                    "PId": 2071373868,
+                    "author": [
+                        {
+                            "AuId": 2109781769,
+                            "AuN": "luis araujo"
+                        }
+                    ],
+                    "doi": "10.1016/J.JMONECO.2003.01.005",
+                    "journal": "journal of monetary economics",
+                    "title": "social norms and money",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2743262831,
+                    "author": [
+                        {
+                            "AuId": 2285602560,
+                            "AuN": "joseph m ostroy"
+                        },
+                        {
+                            "AuId": 2126176118,
+                            "AuN": "ross m starr"
+                        }
+                    ],
+                    "doi": "10.1016/S1573-4498(05)80004-9",
+                    "journal": "handbook of monetary economics",
+                    "title": "the transactions role of money",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2054944846,
+                    "author": [
+                        {
+                            "AuId": 2307095496,
+                            "AuN": "erik o kimbrough"
+                        },
+                        {
+                            "AuId": 1981573856,
+                            "AuN": "vernon l smith"
+                        },
+                        {
+                            "AuId": 2116261084,
+                            "AuN": "bart j wilson"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEBO.2010.03.017",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "exchange theft and the social formation of property",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 1981900721,
+                    "author": [
+                        {
+                            "AuId": 2040197997,
+                            "AuN": "mark huggett"
+                        },
+                        {
+                            "AuId": 184450300,
+                            "AuN": "stefan krasa"
+                        }
+                    ],
+                    "doi": "10.1007/BF01211813",
+                    "journal": "economic theory",
+                    "title": "money and storage in a differential information economy",
+                    "year_mag": 1996
+                },
+                {
+                    "PId": 2007914820,
+                    "author": [
+                        {
+                            "AuId": 2109781769,
+                            "AuN": "luis araujo"
+                        },
+                        {
+                            "AuId": 2152638657,
+                            "AuN": "bernardo guimaraes"
+                        }
+                    ],
+                    "doi": "10.1016/J.JMONECO.2014.01.009",
+                    "journal": "journal of monetary economics",
+                    "title": "coordination in the use of money",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2246127399,
+                    "author": [
+                        {
+                            "AuId": 682070399,
+                            "AuN": "thorsten v koeppl"
+                        }
+                    ],
+                    "doi": "10.1016/J.JET.2006.03.002",
+                    "journal": "journal of economic theory",
+                    "title": "optimal dynamic risk sharing when enforcement is a decision variable",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2038156956,
+                    "author": [
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 2037807402,
+                            "AuN": "alessandro gioffre"
+                        }
+                    ],
+                    "doi": "10.1016/J.JMATECO.2013.07.003",
+                    "journal": "journal of mathematical economics",
+                    "title": "a tractable analysis of contagious equilibria",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2074425505,
+                    "author": [
+                        {
+                            "AuId": 2126176118,
+                            "AuN": "ross m starr"
+                        }
+                    ],
+                    "doi": "10.2307/1880564",
+                    "journal": "quarterly journal of economics",
+                    "title": "the structure of exchange in barter and monetary economies",
+                    "year_mag": 1972
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2130704844,
+                    "author": [
+                        {
+                            "AuId": 1813302484,
+                            "AuN": "alfons j weichenrieder"
+                        },
+                        {
+                            "AuId": 2033085606,
+                            "AuN": "jochen zimmer"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2265312",
+                    "journal": "international tax and public finance",
+                    "title": "euro membership and fiscal reaction functions",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 1694533291,
+                    "author": [
+                        {
+                            "AuId": 1991154506,
+                            "AuN": "maria bigoni"
+                        },
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 2039979327,
+                            "AuN": "marco casari"
+                        }
+                    ],
+                    "doi": "10.1016/J.JMONECO.2019.01.002",
+                    "journal": "international tax and public finance",
+                    "title": "money is more than memory",
+                    "year_mag": 2020
+                }
+            ],
+            "cv_id": {
+                "pubbs": "2",
+                "pubbs_ind": "2"
+            },
+            "doi": "10.1016/J.JMONECO.2014.01.001",
+            "journal": "JOURNAL OF MONETARY ECONOMICS",
+            "title": "game theoretic foundations of monetary equilibrium",
+            "type": "articolo in rivista",
+            "year": 2014
+        },
+        {
+            "ISSN": [
+                "0304-4068"
+            ],
+            "PId": 2038156956,
+            "cited": [
+                {
+                    "PId": 2056700716,
+                    "author": [
+                        {
+                            "AuId": 2165342514,
+                            "AuN": "michihiro kandori"
+                        }
+                    ],
+                    "doi": "10.2307/2297925",
+                    "journal": "the review of economic studies",
+                    "title": "social norms and community enforcement",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 1984093725,
+                    "author": [
+                        {
+                            "AuId": 1990728966,
+                            "AuN": "glenn ellison"
+                        }
+                    ],
+                    "doi": "10.2307/2297904",
+                    "journal": "the review of economic studies",
+                    "title": "cooperation in the prisoner s dilemma with anonymous random matching",
+                    "year_mag": 1994
+                },
+                {
+                    "PId": 1994003047,
+                    "author": [
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 2039979327,
+                            "AuN": "marco casari"
+                        }
+                    ],
+                    "doi": "10.1257/AER.99.3.979",
+                    "journal": "the american economic review",
+                    "title": "cooperation among strangers under the shadow of the future",
+                    "year_mag": 2009
+                },
+                {
+                    "PId": 2074764193,
+                    "author": [
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 2039979327,
+                            "AuN": "marco casari"
+                        }
+                    ],
+                    "doi": "10.1257/MIC.6.1.290",
+                    "journal": "american economic journal microeconomics",
+                    "title": "the coordination value of monetary exchange experimental evidence",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2056636176,
+                    "author": [
+                        {
+                            "AuId": 2158988026,
+                            "AuN": "alvin e roth"
+                        },
+                        {
+                            "AuId": 408796118,
+                            "AuN": "j keith murnighan"
+                        }
+                    ],
+                    "doi": "10.1016/0022-2496(78)90030-5",
+                    "journal": "journal of mathematical psychology",
+                    "title": "equilibrium behavior and repeated play of the prisoner s dilemma",
+                    "year_mag": 1978
+                },
+                {
+                    "PId": 2794459618,
+                    "author": [
+                        {
+                            "AuId": 2037807402,
+                            "AuN": "alessandro gioffre"
+                        }
+                    ],
+                    "title": "a repeated game foundation of monetary equilibrium",
+                    "year_mag": 2013
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2297266521,
+                    "author": [
+                        {
+                            "AuId": 2305977413,
+                            "AuN": "john duffy"
+                        },
+                        {
+                            "AuId": 2135544773,
+                            "AuN": "huan xie"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEBO.2016.02.007",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "group size and cooperation among strangers",
+                    "year_mag": 2016
+                },
+                {
+                    "PId": 2983235577,
+                    "author": [
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 2037807402,
+                            "AuN": "alessandro gioffre"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEBO.2019.11.014",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "cooperation in indefinitely repeated helping games existence and characterization",
+                    "year_mag": 2019
+                },
+                {
+                    "PId": 2567216860,
+                    "author": [
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 2037807402,
+                            "AuN": "alessandro gioffre"
+                        }
+                    ],
+                    "doi": "10.1016/J.ECONLET.2016.12.025",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "asymmetric social norms",
+                    "year_mag": 2017
+                },
+                {
+                    "PId": 2264667057,
+                    "author": [
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 2037807402,
+                            "AuN": "alessandro gioffre"
+                        }
+                    ],
+                    "doi": "10.1016/J.JMONECO.2014.01.001",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "game theoretic foundations of monetary equilibrium",
+                    "year_mag": 2014
+                }
+            ],
+            "cv_id": {
+                "pubbs": "3",
+                "pubbs_ind": "3"
+            },
+            "doi": "10.1016/J.JMATECO.2013.07.003",
+            "journal": "JOURNAL OF MATHEMATICAL ECONOMICS",
+            "title": "a tractable analysis of contagious equilibria",
+            "type": "articolo in rivista",
+            "year": 2014
+        }
+    ],
+    "pubbs_mag": [
+        {
+            "PId": 2794459618,
+            "cited": [
+                {
+                    "PId": 2056700716,
+                    "author": [
+                        {
+                            "AuId": 2165342514,
+                            "AuN": "michihiro kandori"
+                        }
+                    ],
+                    "doi": "10.2307/2297925",
+                    "journal": "the review of economic studies",
+                    "title": "social norms and community enforcement",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2053564429,
+                    "author": [
+                        {
+                            "AuId": 247251627,
+                            "AuN": "nobuhiro kiyotaki"
+                        },
+                        {
+                            "AuId": 2129873145,
+                            "AuN": "randall wright"
+                        }
+                    ],
+                    "doi": "10.1086/261634",
+                    "journal": "journal of political economy",
+                    "title": "on money as a medium of exchange",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 1989442752,
+                    "author": [
+                        {
+                            "AuId": 2252465130,
+                            "AuN": "narayana r kocherlakota"
+                        }
+                    ],
+                    "doi": "10.1006/JETH.1997.2357",
+                    "journal": "journal of economic theory",
+                    "title": "money is memory",
+                    "year_mag": 1998
+                },
+                {
+                    "PId": 2071373868,
+                    "author": [
+                        {
+                            "AuId": 2109781769,
+                            "AuN": "luis araujo"
+                        }
+                    ],
+                    "doi": "10.1016/J.JMONECO.2003.01.005",
+                    "journal": "journal of monetary economics",
+                    "title": "social norms and money",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2743262831,
+                    "author": [
+                        {
+                            "AuId": 2285602560,
+                            "AuN": "joseph m ostroy"
+                        },
+                        {
+                            "AuId": 2126176118,
+                            "AuN": "ross m starr"
+                        }
+                    ],
+                    "doi": "10.1016/S1573-4498(05)80004-9",
+                    "journal": "handbook of monetary economics",
+                    "title": "the transactions role of money",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2323266160,
+                    "author": [
+                        {
+                            "AuId": 2040904325,
+                            "AuN": "joseph a schumpeter"
+                        },
+                        {
+                            "AuId": 1830319489,
+                            "AuN": "john maynard keynes"
+                        }
+                    ],
+                    "doi": "10.2307/2278703",
+                    "journal": "journal of the american statistical association",
+                    "title": "the general theory of employment interest and money",
+                    "year_mag": 1936
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2038156956,
+                    "author": [
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 2037807402,
+                            "AuN": "alessandro gioffre"
+                        }
+                    ],
+                    "doi": "10.1016/J.JMATECO.2013.07.003",
+                    "journal": "journal of mathematical economics",
+                    "title": "a tractable analysis of contagious equilibria",
+                    "year_mag": 2014
+                }
+            ],
+            "title": "a repeated game foundation of monetary equilibrium",
+            "type": "0",
+            "year_mag": 2013
+        },
+        {
+            "PId": 2908442594,
+            "citing": [
+                {
+                    "PId": 2983235577,
+                    "author": [
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 1967510033,
+                            "AuN": "gabriele camera"
+                        },
+                        {
+                            "AuId": 2037807402,
+                            "AuN": "alessandro gioffre"
+                        }
+                    ],
+                    "doi": "10.1016/J.JEBO.2019.11.014",
+                    "journal": "journal of economic behavior and organization",
+                    "title": "cooperation in indefinitely repeated helping games existence and characterization",
+                    "year_mag": 2019
+                }
+            ],
+            "title": "beyond grim punishment norms in the theory of cooperation",
+            "type": "0",
+            "year_mag": 2018
+        },
+        {
+            "PId": 2265447265,
+            "cited": [
+                {
+                    "PId": 2157028860,
+                    "author": [
+                        {
+                            "AuId": 2061888244,
+                            "AuN": "carmen reinhart"
+                        },
+                        {
+                            "AuId": 214390093,
+                            "AuN": "kenneth rogoff"
+                        }
+                    ],
+                    "doi": "10.1257/AER.100.2.573",
+                    "journal": "the american economic review",
+                    "title": "growth in a time of debt",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2162484441,
+                    "author": [
+                        {
+                            "AuId": 2603972192,
+                            "AuN": "paul m romer"
+                        }
+                    ],
+                    "doi": "10.3386/W3210",
+                    "journal": "journal of political economy",
+                    "title": "endogenous technological change",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2129385606,
+                    "author": [
+                        {
+                            "AuId": 74993031,
+                            "AuN": "philippe aghion"
+                        },
+                        {
+                            "AuId": 74993031,
+                            "AuN": "philippe aghion"
+                        },
+                        {
+                            "AuId": 74993031,
+                            "AuN": "philippe aghion"
+                        },
+                        {
+                            "AuId": 2066080023,
+                            "AuN": "peter howitt"
+                        },
+                        {
+                            "AuId": 2066080023,
+                            "AuN": "peter howitt"
+                        }
+                    ],
+                    "doi": "10.3386/W3223",
+                    "journal": "econometrica",
+                    "title": "a model of growth through creative destruction",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 2113704261,
+                    "author": [
+                        {
+                            "AuId": 2617737754,
+                            "AuN": "ravi bansal"
+                        },
+                        {
+                            "AuId": 1253268175,
+                            "AuN": "amir yaron"
+                        },
+                        {
+                            "AuId": 1253268175,
+                            "AuN": "amir yaron"
+                        }
+                    ],
+                    "doi": "10.1111/J.1540-6261.2004.00670.X",
+                    "journal": "journal of finance",
+                    "title": "risks for the long run a potential resolution of asset pricing puzzles",
+                    "year_mag": 2004
+                },
+                {
+                    "PId": 2570834760,
+                    "author": [
+                        {
+                            "AuId": 2166361349,
+                            "AuN": "rajnish mehra"
+                        },
+                        {
+                            "AuId": 1944617901,
+                            "AuN": "edward c prescott"
+                        }
+                    ],
+                    "doi": "10.1016/0304-3932(85)90061-3",
+                    "journal": "journal of monetary economics",
+                    "title": "the equity premium a puzzle",
+                    "year_mag": 1985
+                },
+                {
+                    "PId": 1997776596,
+                    "author": [
+                        {
+                            "AuId": 624416284,
+                            "AuN": "diego comin"
+                        },
+                        {
+                            "AuId": 624416284,
+                            "AuN": "diego comin"
+                        },
+                        {
+                            "AuId": 1989999200,
+                            "AuN": "mark gertler"
+                        },
+                        {
+                            "AuId": 1989999200,
+                            "AuN": "mark gertler"
+                        }
+                    ],
+                    "doi": "10.1257/AER.96.3.523",
+                    "journal": "the american economic review",
+                    "title": "medium term business cycles",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2051512022,
+                    "author": [
+                        {
+                            "AuId": 1981418622,
+                            "AuN": "roberto perotti"
+                        }
+                    ],
+                    "doi": "10.1162/003355399556304",
+                    "journal": "quarterly journal of economics",
+                    "title": "fiscal policy in good times and bad",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 2128134302,
+                    "author": [
+                        {
+                            "AuId": 2101947066,
+                            "AuN": "alberto alesina"
+                        },
+                        {
+                            "AuId": 1981418622,
+                            "AuN": "roberto perotti"
+                        }
+                    ],
+                    "doi": "10.2307/1344590",
+                    "journal": "economic policy",
+                    "title": "fiscal expansions and adjustments in oecd countries",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2152275623,
+                    "author": [
+                        {
+                            "AuId": 1210806046,
+                            "AuN": "michael b devereux"
+                        },
+                        {
+                            "AuId": 2040465168,
+                            "AuN": "james yetman"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1628033",
+                    "journal": "journal of money credit and banking",
+                    "title": "leverage constraints and the international transmission of shocks",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2095832644,
+                    "author": [
+                        {
+                            "AuId": 2074850508,
+                            "AuN": "florin ovidiu bilbiie"
+                        },
+                        {
+                            "AuId": 2074850508,
+                            "AuN": "florin ovidiu bilbiie"
+                        },
+                        {
+                            "AuId": 2004810667,
+                            "AuN": "fabio ghironi"
+                        },
+                        {
+                            "AuId": 20898483,
+                            "AuN": "marc j melitz"
+                        },
+                        {
+                            "AuId": 20898483,
+                            "AuN": "marc j melitz"
+                        },
+                        {
+                            "AuId": 20898483,
+                            "AuN": "marc j melitz"
+                        }
+                    ],
+                    "doi": "10.1086/665825",
+                    "journal": "journal of political economy",
+                    "title": "endogenous entry product variety and business cycles",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2127058949,
+                    "author": [
+                        {
+                            "AuId": 2089713634,
+                            "AuN": "dimitris papanikolaou"
+                        },
+                        {
+                            "AuId": 2089713634,
+                            "AuN": "dimitris papanikolaou"
+                        }
+                    ],
+                    "doi": "10.1086/662221",
+                    "journal": "journal of political economy",
+                    "title": "investment shocks and asset prices",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2171015128,
+                    "author": [
+                        {
+                            "AuId": 2166361349,
+                            "AuN": "rajnish mehra"
+                        },
+                        {
+                            "AuId": 2166361349,
+                            "AuN": "rajnish mehra"
+                        }
+                    ],
+                    "doi": "10.3386/W9512",
+                    "journal": "financial analysts journal",
+                    "title": "the equity premium why is it a puzzle",
+                    "year_mag": 2003
+                },
+                {
+                    "PId": 2162038426,
+                    "author": [
+                        {
+                            "AuId": 2159456298,
+                            "AuN": "howard kung"
+                        },
+                        {
+                            "AuId": 2159456298,
+                            "AuN": "howard kung"
+                        },
+                        {
+                            "AuId": 2580721073,
+                            "AuN": "lukas schmid"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1787741",
+                    "journal": "journal of finance",
+                    "title": "innovation growth and asset prices",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2086556391,
+                    "author": [
+                        {
+                            "AuId": 2575695629,
+                            "AuN": "dario caldara"
+                        },
+                        {
+                            "AuId": 1612081549,
+                            "AuN": "jesus fernandezvillaverde"
+                        },
+                        {
+                            "AuId": 668236511,
+                            "AuN": "juan francisco rubioramirez"
+                        },
+                        {
+                            "AuId": 668236511,
+                            "AuN": "juan francisco rubioramirez"
+                        },
+                        {
+                            "AuId": 2626483501,
+                            "AuN": "wen yao"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1995735",
+                    "journal": "review of economic dynamics",
+                    "title": "computing dsge models with recursive preferences and stochastic volatility",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2115463787,
+                    "author": [
+                        {
+                            "AuId": 312584140,
+                            "AuN": "riccardo colacito"
+                        },
+                        {
+                            "AuId": 312584140,
+                            "AuN": "riccardo colacito"
+                        },
+                        {
+                            "AuId": 2340806851,
+                            "AuN": "mariano massimiliano croce"
+                        },
+                        {
+                            "AuId": 2340806851,
+                            "AuN": "mariano massimiliano croce"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2021328",
+                    "journal": "journal of finance",
+                    "title": "international asset pricing with recursive preferences",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2148565877,
+                    "author": [
+                        {
+                            "AuId": 1982717958,
+                            "AuN": "gianluca benigno"
+                        },
+                        {
+                            "AuId": 24098336,
+                            "AuN": "pierpaolo benigno"
+                        },
+                        {
+                            "AuId": 2625654114,
+                            "AuN": "salvatore nistico"
+                        }
+                    ],
+                    "doi": "10.1086/663993",
+                    "journal": "nber macroeconomics annual",
+                    "title": "risk monetary policy and the exchange rate",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2884914098,
+                    "author": [
+                        {
+                            "AuId": 2092481382,
+                            "AuN": "ben westmore"
+                        }
+                    ],
+                    "doi": "10.1787/5K46H2RFB4F3-EN",
+                    "title": "r d patenting and growth the role of public policy",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2023091037,
+                    "author": [
+                        {
+                            "AuId": 397249658,
+                            "AuN": "christoph a schaltegger"
+                        },
+                        {
+                            "AuId": 397249658,
+                            "AuN": "christoph a schaltegger"
+                        },
+                        {
+                            "AuId": 2383591099,
+                            "AuN": "martin weder"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJPOLECO.2014.03.005",
+                    "journal": "european journal of political economy",
+                    "title": "austerity inequality and politics",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2152313378,
+                    "author": [
+                        {
+                            "AuId": 2340806851,
+                            "AuN": "mariano massimiliano croce"
+                        },
+                        {
+                            "AuId": 2340806851,
+                            "AuN": "mariano massimiliano croce"
+                        },
+                        {
+                            "AuId": 2240914602,
+                            "AuN": "thien tung nguyen"
+                        },
+                        {
+                            "AuId": 2580721073,
+                            "AuN": "lukas schmid"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1874003",
+                    "title": "fiscal policy and the distribution of consumption risk",
+                    "year_mag": 2013
+                }
+            ],
+            "citing": [
+                {
+                    "PId": 2266978497,
+                    "author": [
+                        {
+                            "AuId": 177721204,
+                            "AuN": "ghassen el montasser"
+                        },
+                        {
+                            "AuId": 2116153567,
+                            "AuN": "rangan gupta"
+                        },
+                        {
+                            "AuId": 2078852132,
+                            "AuN": "charl jooste"
+                        },
+                        {
+                            "AuId": 2103740138,
+                            "AuN": "stephen m miller"
+                        },
+                        {
+                            "AuId": 2103740138,
+                            "AuN": "stephen m miller"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2587847",
+                    "journal": "public finance review",
+                    "title": "the time series linkages between us fiscal policy and asset prices",
+                    "year_mag": 2020
+                },
+                {
+                    "author": [
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Ecole superieure de Commerce de Tunis, Campus Universitaire de la Manouba, Tunisia"
+                                }
+                            ],
+                            "family": "Montasser",
+                            "given": "Ghassen El",
+                            "sequence": "first"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Department of Economics, University of Pretoria, Hatfield, South Africa"
+                                }
+                            ],
+                            "family": "Gupta",
+                            "given": "Rangan",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Department of Economics, University of Pretoria, Hatfield, South Africa"
+                                }
+                            ],
+                            "family": "Charl",
+                            "given": "Jooste",
+                            "sequence": "additional"
+                        },
+                        {
+                            "affiliation": [
+                                {
+                                    "name": "Department of Economics, Lee Business School, University of Nevada, Las Vegas, Las Vegas, NV, USA"
+                                }
+                            ],
+                            "family": "Miller",
+                            "given": "Stephen M.",
+                            "sequence": "additional"
+                        }
+                    ],
+                    "doi": "10.1177/1091142120916032",
+                    "title": "the time series linkages between us fiscal policy and asset prices",
+                    "year_oc": 2020
+                }
+            ],
+            "doi": "10.2139/SSRN.2458855",
+            "title": "austerity fiscal uncertainty and economic growth insights from fiscally weak eu countries",
+            "type": "0",
+            "year_mag": 2014
+        },
+        {
+            "PId": 270212997,
+            "cited": [
+                {
+                    "PId": 2157028860,
+                    "author": [
+                        {
+                            "AuId": 2061888244,
+                            "AuN": "carmen reinhart"
+                        },
+                        {
+                            "AuId": 214390093,
+                            "AuN": "kenneth rogoff"
+                        }
+                    ],
+                    "doi": "10.1257/AER.100.2.573",
+                    "journal": "the american economic review",
+                    "title": "growth in a time of debt",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2162484441,
+                    "author": [
+                        {
+                            "AuId": 2603972192,
+                            "AuN": "paul m romer"
+                        }
+                    ],
+                    "doi": "10.3386/W3210",
+                    "journal": "journal of political economy",
+                    "title": "endogenous technological change",
+                    "year_mag": 1990
+                },
+                {
+                    "PId": 2144836007,
+                    "author": [
+                        {
+                            "AuId": 2133900406,
+                            "AuN": "nicholas bloom"
+                        }
+                    ],
+                    "doi": "10.3386/W13385",
+                    "journal": "econometrica",
+                    "title": "the impact of uncertainty shocks",
+                    "year_mag": 2007
+                },
+                {
+                    "PId": 2140286179,
+                    "author": [
+                        {
+                            "AuId": 740423593,
+                            "AuN": "christina d romer"
+                        },
+                        {
+                            "AuId": 2044575498,
+                            "AuN": "david h romer"
+                        }
+                    ],
+                    "doi": "10.1257/AER.100.3.763",
+                    "journal": "the american economic review",
+                    "title": "the macroeconomic effects of tax changes estimates based on a new measure of fiscal shocks",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2104532949,
+                    "author": [
+                        {
+                            "AuId": 2101947066,
+                            "AuN": "alberto alesina"
+                        },
+                        {
+                            "AuId": 2101947066,
+                            "AuN": "alberto alesina"
+                        },
+                        {
+                            "AuId": 2101947066,
+                            "AuN": "alberto alesina"
+                        },
+                        {
+                            "AuId": 2618282787,
+                            "AuN": "silvia ardagna"
+                        },
+                        {
+                            "AuId": 2618282787,
+                            "AuN": "silvia ardagna"
+                        }
+                    ],
+                    "doi": "10.1086/649828",
+                    "journal": "tax policy and the economy",
+                    "title": "large changes in fiscal policy taxes versus spending",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2129385606,
+                    "author": [
+                        {
+                            "AuId": 74993031,
+                            "AuN": "philippe aghion"
+                        },
+                        {
+                            "AuId": 74993031,
+                            "AuN": "philippe aghion"
+                        },
+                        {
+                            "AuId": 74993031,
+                            "AuN": "philippe aghion"
+                        },
+                        {
+                            "AuId": 2066080023,
+                            "AuN": "peter howitt"
+                        },
+                        {
+                            "AuId": 2066080023,
+                            "AuN": "peter howitt"
+                        }
+                    ],
+                    "doi": "10.3386/W3223",
+                    "journal": "econometrica",
+                    "title": "a model of growth through creative destruction",
+                    "year_mag": 1992
+                },
+                {
+                    "PId": 3022004200,
+                    "author": [
+                        {
+                            "AuId": 1995290413,
+                            "AuN": "ethan ilzetzki"
+                        },
+                        {
+                            "AuId": 2155756113,
+                            "AuN": "enrique g mendoza"
+                        },
+                        {
+                            "AuId": 229145319,
+                            "AuN": "carlos a vegh"
+                        }
+                    ],
+                    "doi": "10.1016/J.JMONECO.2012.10.011",
+                    "journal": "journal of monetary economics",
+                    "title": "how big small are fiscal multipliers",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2121292648,
+                    "author": [
+                        {
+                            "AuId": 1612081549,
+                            "AuN": "jesus fernandezvillaverde"
+                        },
+                        {
+                            "AuId": 290916051,
+                            "AuN": "pablo a guerronquintana"
+                        },
+                        {
+                            "AuId": 1825593664,
+                            "AuN": "keith kuester"
+                        },
+                        {
+                            "AuId": 668236511,
+                            "AuN": "juan francisco rubioramirez"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1908330",
+                    "journal": "the american economic review",
+                    "title": "fiscal volatility shocks and economic activity",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 1574786337,
+                    "author": [
+                        {
+                            "AuId": 2106000634,
+                            "AuN": "larry g epstein"
+                        },
+                        {
+                            "AuId": 2810601162,
+                            "AuN": "stanley e zin"
+                        }
+                    ],
+                    "doi": "10.2307/1913778",
+                    "journal": "econometrica",
+                    "title": "substitution risk aversion and the temporal behavior of consumption and asset returns a theoretical framework",
+                    "year_mag": 1989
+                },
+                {
+                    "PId": 1997776596,
+                    "author": [
+                        {
+                            "AuId": 624416284,
+                            "AuN": "diego comin"
+                        },
+                        {
+                            "AuId": 624416284,
+                            "AuN": "diego comin"
+                        },
+                        {
+                            "AuId": 1989999200,
+                            "AuN": "mark gertler"
+                        },
+                        {
+                            "AuId": 1989999200,
+                            "AuN": "mark gertler"
+                        }
+                    ],
+                    "doi": "10.1257/AER.96.3.523",
+                    "journal": "the american economic review",
+                    "title": "medium term business cycles",
+                    "year_mag": 2006
+                },
+                {
+                    "PId": 2051512022,
+                    "author": [
+                        {
+                            "AuId": 1981418622,
+                            "AuN": "roberto perotti"
+                        }
+                    ],
+                    "doi": "10.1162/003355399556304",
+                    "journal": "quarterly journal of economics",
+                    "title": "fiscal policy in good times and bad",
+                    "year_mag": 1999
+                },
+                {
+                    "PId": 1592994637,
+                    "author": [
+                        {
+                            "AuId": 325647804,
+                            "AuN": "hali j edison"
+                        },
+                        {
+                            "AuId": 2232689747,
+                            "AuN": "ross levine"
+                        },
+                        {
+                            "AuId": 2249744707,
+                            "AuN": "luca a ricci"
+                        },
+                        {
+                            "AuId": 2952650654,
+                            "AuN": "torsten slok"
+                        }
+                    ],
+                    "doi": "10.1016/S0261-5606(02)00021-9",
+                    "journal": "journal of international money and finance",
+                    "title": "international financial integration and economic growth",
+                    "year_mag": 2002
+                },
+                {
+                    "PId": 2152275623,
+                    "author": [
+                        {
+                            "AuId": 1210806046,
+                            "AuN": "michael b devereux"
+                        },
+                        {
+                            "AuId": 2040465168,
+                            "AuN": "james yetman"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1628033",
+                    "journal": "journal of money credit and banking",
+                    "title": "leverage constraints and the international transmission of shocks",
+                    "year_mag": 2010
+                },
+                {
+                    "PId": 2095832644,
+                    "author": [
+                        {
+                            "AuId": 2074850508,
+                            "AuN": "florin ovidiu bilbiie"
+                        },
+                        {
+                            "AuId": 2074850508,
+                            "AuN": "florin ovidiu bilbiie"
+                        },
+                        {
+                            "AuId": 2004810667,
+                            "AuN": "fabio ghironi"
+                        },
+                        {
+                            "AuId": 20898483,
+                            "AuN": "marc j melitz"
+                        },
+                        {
+                            "AuId": 20898483,
+                            "AuN": "marc j melitz"
+                        },
+                        {
+                            "AuId": 20898483,
+                            "AuN": "marc j melitz"
+                        }
+                    ],
+                    "doi": "10.1086/665825",
+                    "journal": "journal of political economy",
+                    "title": "endogenous entry product variety and business cycles",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2127058949,
+                    "author": [
+                        {
+                            "AuId": 2089713634,
+                            "AuN": "dimitris papanikolaou"
+                        },
+                        {
+                            "AuId": 2089713634,
+                            "AuN": "dimitris papanikolaou"
+                        }
+                    ],
+                    "doi": "10.1086/662221",
+                    "journal": "journal of political economy",
+                    "title": "investment shocks and asset prices",
+                    "year_mag": 2011
+                },
+                {
+                    "PId": 2162038426,
+                    "author": [
+                        {
+                            "AuId": 2159456298,
+                            "AuN": "howard kung"
+                        },
+                        {
+                            "AuId": 2159456298,
+                            "AuN": "howard kung"
+                        },
+                        {
+                            "AuId": 2580721073,
+                            "AuN": "lukas schmid"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1787741",
+                    "journal": "journal of finance",
+                    "title": "innovation growth and asset prices",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2086556391,
+                    "author": [
+                        {
+                            "AuId": 2575695629,
+                            "AuN": "dario caldara"
+                        },
+                        {
+                            "AuId": 1612081549,
+                            "AuN": "jesus fernandezvillaverde"
+                        },
+                        {
+                            "AuId": 668236511,
+                            "AuN": "juan francisco rubioramirez"
+                        },
+                        {
+                            "AuId": 668236511,
+                            "AuN": "juan francisco rubioramirez"
+                        },
+                        {
+                            "AuId": 2626483501,
+                            "AuN": "wen yao"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1995735",
+                    "journal": "review of economic dynamics",
+                    "title": "computing dsge models with recursive preferences and stochastic volatility",
+                    "year_mag": 2012
+                },
+                {
+                    "PId": 2115463787,
+                    "author": [
+                        {
+                            "AuId": 312584140,
+                            "AuN": "riccardo colacito"
+                        },
+                        {
+                            "AuId": 312584140,
+                            "AuN": "riccardo colacito"
+                        },
+                        {
+                            "AuId": 2340806851,
+                            "AuN": "mariano massimiliano croce"
+                        },
+                        {
+                            "AuId": 2340806851,
+                            "AuN": "mariano massimiliano croce"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2021328",
+                    "journal": "journal of finance",
+                    "title": "international asset pricing with recursive preferences",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2135333936,
+                    "author": [
+                        {
+                            "AuId": 2155756113,
+                            "AuN": "enrique g mendoza"
+                        },
+                        {
+                            "AuId": 2155756113,
+                            "AuN": "enrique g mendoza"
+                        },
+                        {
+                            "AuId": 2243304868,
+                            "AuN": "linda l tesar"
+                        },
+                        {
+                            "AuId": 2243304868,
+                            "AuN": "linda l tesar"
+                        },
+                        {
+                            "AuId": 2713279664,
+                            "AuN": "jing zhang"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.2526421",
+                    "journal": "national bureau of economic research",
+                    "title": "saving europe the unpleasant arithmetic of fiscal austerity in integrated economies",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2081965243,
+                    "author": [
+                        {
+                            "AuId": 2577555762,
+                            "AuN": "jaejoon woo"
+                        },
+                        {
+                            "AuId": 2338679726,
+                            "AuN": "elva bova"
+                        },
+                        {
+                            "AuId": 2001636160,
+                            "AuN": "tidiane kinda"
+                        },
+                        {
+                            "AuId": 2959198120,
+                            "AuN": "y sophia zhang"
+                        }
+                    ],
+                    "doi": "10.5089/9781484390917.001",
+                    "journal": "imf working papers",
+                    "title": "distributional consequences of fiscal consolidation and the role of fiscal policy what do the data say",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 92172035,
+                    "author": [
+                        {
+                            "AuId": 2155660295,
+                            "AuN": "rachel griffith"
+                        }
+                    ],
+                    "doi": "10.1920/BN.IFS.2000.0012",
+                    "title": "how important is business r d for economic growth and should the government subsidise it",
+                    "year_mag": 2000
+                },
+                {
+                    "PId": 2884914098,
+                    "author": [
+                        {
+                            "AuId": 2092481382,
+                            "AuN": "ben westmore"
+                        }
+                    ],
+                    "doi": "10.1787/5K46H2RFB4F3-EN",
+                    "title": "r d patenting and growth the role of public policy",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2137058009,
+                    "author": [
+                        {
+                            "AuId": 2101947066,
+                            "AuN": "alberto alesina"
+                        },
+                        {
+                            "AuId": 1981418622,
+                            "AuN": "roberto perotti"
+                        }
+                    ],
+                    "doi": "10.7916/D87P95XP",
+                    "journal": "economic and policy review",
+                    "title": "reducing budget deficits",
+                    "year_mag": 1995
+                },
+                {
+                    "PId": 2023091037,
+                    "author": [
+                        {
+                            "AuId": 397249658,
+                            "AuN": "christoph a schaltegger"
+                        },
+                        {
+                            "AuId": 397249658,
+                            "AuN": "christoph a schaltegger"
+                        },
+                        {
+                            "AuId": 2383591099,
+                            "AuN": "martin weder"
+                        }
+                    ],
+                    "doi": "10.1016/J.EJPOLECO.2014.03.005",
+                    "journal": "european journal of political economy",
+                    "title": "austerity inequality and politics",
+                    "year_mag": 2014
+                },
+                {
+                    "PId": 2152313378,
+                    "author": [
+                        {
+                            "AuId": 2340806851,
+                            "AuN": "mariano massimiliano croce"
+                        },
+                        {
+                            "AuId": 2340806851,
+                            "AuN": "mariano massimiliano croce"
+                        },
+                        {
+                            "AuId": 2240914602,
+                            "AuN": "thien tung nguyen"
+                        },
+                        {
+                            "AuId": 2580721073,
+                            "AuN": "lukas schmid"
+                        }
+                    ],
+                    "doi": "10.2139/SSRN.1874003",
+                    "title": "fiscal policy and the distribution of consumption risk",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 3023752686,
+                    "author": [
+                        {
+                            "AuId": 2582949789,
+                            "AuN": "roberto pancrazi"
+                        }
+                    ],
+                    "title": "how beneficial was the great moderation after all",
+                    "year_mag": 2013
+                },
+                {
+                    "PId": 2266699356,
+                    "author": [
+                        {
+                            "AuId": 343448411,
+                            "AuN": "ana maria santacreu"
+                        }
+                    ],
+                    "title": "innovation diffusion and trade theory and measurement",
+                    "year_mag": 2011
+                }
+            ],
+            "title": "austerity fiscal volatility and economic growth",
+            "type": "0",
+            "year_mag": 2014
+        }
+    ]
+}
