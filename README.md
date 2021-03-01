@@ -6,7 +6,7 @@ Repository containing code and data for our **"Do open citations inform the qual
 2. [Resulting data](#2-resulting-data)
 3. [Reproducing the data collection](#3-reproducing-the-data-collection)
 4. [Analyzing coverage](#4-analyzing-coverage)
-5. [Reproducing the citation network visualization](#3-reproducing-the-citation-network-visualization)
+5. [Reproducing the citation network visualization](#5-reproducing-the-citation-network-visualization)
 6. [Machine learning experiment](#6-machine-learning-experiment)
 
 ## 1. Introduction
