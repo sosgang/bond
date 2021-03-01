@@ -42,7 +42,6 @@ We ground our analysis on the data of the candidates and commissions that took p
     - Each publication is a dictionary with year, title, Paper Id, DOI, ISSN, ISBN, citing and cited publications
       - "citing" and "cited" : lists of citing and cited publications as lists of dictionaries
   - "pubbs_MAG" : structured as "pubbs", contains the list of publications found in MAG that the candidate did not included in her/his CV
-  - 
 
 
 ### 2.3 Citation networks and citation-based metrics
@@ -99,16 +98,16 @@ We ground our analysis on the data of the candidates and commissions that took p
 
 - [**cv_jsons** folder](https://github.com/sosgang/bond/tree/main/cv_jsons)
 - All the files in [**data_collection** folder](https://github.com/sosgang/bond/tree/main/data_collection)
- - [stopwords-it.txt](https://github.com/sosgang/bond/blob/main/stopwords-it.txt) : list of stopwords in italian
- - [indicatoriCalcolati-ASN16-18.tsv](https://github.com/sosgang/bond/blob/main/indicatoriCalcolati-ASN16-18.tsv) : file containing the ANVUR metrics and outcomes for each candidate
- - [commissions.csv](https://github.com/sosgang/bond/blob/main/commissions.csv) : file containing initial bibliographic metadata of the members of the commissions
- - bond_execution.py : executes the entire collection process by calling all the other necessary python files, saving the bibliographic and citation data in jsons in separate folders at numerous steps throughout the process, and storing the final metrics in a csv file. This ensures that no information is lost if the computation suddenly shuts down.
- - meta_extraction.py : extracts the publications' metadata from the CV json files, disambiguating duplicate publications, and stores it in a dictionary.
- - add_info.py : adds other types of information to the dictionary: the full name of the candidate, the ANVUR metrics, the outcome of the NSQ and the coverage of the candidate's publications.
- - id_search.py : searches for each candidate’s Author Ids in MAG and for each article’s DOI in OA and CR.
- - bib_retrieval.py : queries MAG for each Author Id and retrieves all the available bibliographic information for each Author Id.
- - cit_retrieval.py : retrieves the metadata of all the cited and citing publications for each candidate's publication from MAG, COCI and CR.
- - graph_analysis.py : creates and analyzes citation networks, and calculates our citation-based metrics for each candidate.
+  - [stopwords-it.txt](https://github.com/sosgang/bond/blob/main/stopwords-it.txt) : list of stopwords in italian
+  - [indicatoriCalcolati-ASN16-18.tsv](https://github.com/sosgang/bond/blob/main/indicatoriCalcolati-ASN16-18.tsv) : file containing the ANVUR metrics and outcomes for each candidate
+  - [commissions.csv](https://github.com/sosgang/bond/blob/main/commissions.csv) : file containing initial bibliographic metadata of the members of the commissions
+  - bond_execution.py : executes the entire collection process by calling all the other necessary python files, saving the bibliographic and citation data in jsons in separate folders at numerous steps throughout the process, and storing the final metrics in a csv file. This ensures that no information is lost if the computation suddenly shuts down.
+  - meta_extraction.py : extracts the publications' metadata from the CV json files, disambiguating duplicate publications, and stores it in a dictionary.
+  - add_info.py : adds other types of information to the dictionary: the full name of the candidate, the ANVUR metrics, the outcome of the NSQ and the coverage of the candidate's publications.
+  - id_search.py : searches for each candidate’s Author Ids in MAG and for each article’s DOI in OA and CR.
+  - bib_retrieval.py : queries MAG for each Author Id and retrieves all the available bibliographic information for each Author Id.
+  - cit_retrieval.py : retrieves the metadata of all the cited and citing publications for each candidate's publication from MAG, COCI and CR.
+  - graph_analysis.py : creates and analyzes citation networks, and calculates our citation-based metrics for each candidate.
 
 ### 3.2 Execution
 - [**bond_execution.py**](https://github.com/sosgang/bond/blob/main/data_collection/bond_execution.py): executes the entire collection process. Before running this code, it is necessary to make sure that the folder and file paths at the end of this python file correspond to the appropriate ones. If, for whatever reason, the execution is stopped, it is sufficient to run this python file again.
