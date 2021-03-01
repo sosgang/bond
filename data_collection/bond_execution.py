@@ -66,6 +66,6 @@ def BoND(cand_jsons_path, comm_csv_path, outcomes_path, final_path):
                                              info["ind_anvur"][3]))
 
 
-cv_jsons_folder = "C:\\Users\\Federica\\PycharmProjects\\assegno\\cv_jsons"
+cv_jsons_folder = os.path.join(os.getcwd(), "cv_jsons")
 
 BoND(cv_jsons_folder, "commissions.csv", "indicatoriCalcolati-ASN16-18.tsv", "complete_metrics.csv")
