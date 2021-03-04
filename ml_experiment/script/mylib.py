@@ -10,25 +10,25 @@ from sklearn.utils import resample
 from itertools import combinations
 
 def balanceSample(data):
-	countSi = data[data.esito == "Si"].shape[0]
-	countNo = data[data.esito == "No"].shape[0]
+	countSi = data[data.outcome == "Si"].shape[0]
+	countNo = data[data.outcome == "No"].shape[0]
 	if countSi > countNo:
 		# resample Sis with stratification
-		data_resampled = resample(data[data.esito == "No"], 
+		data_resampled = resample(data[data.outcome == "No"], 
 											replace=True,     # sample with replacement
 											n_samples=countSi,    # to match majority class
 											random_state=123, # reproducible results
-											stratify=data[data.esito == "No"])
-		return pd.concat([data[data.esito == "Si"], data_resampled])
+											stratify=data[data.outcome == "No"])
+		return pd.concat([data[data.outcome == "Si"], data_resampled])
 		
 	elif countSi < countNo:
 		# resample Nos with stratification
-		data_resampled = resample(data[data.esito == "Si"], 
+		data_resampled = resample(data[data.outcome == "Si"], 
 											replace=True,     # sample with replacement
 											n_samples=countNo,    # to match majority class
 											random_state=123, # reproducible results
-											stratify=data[data.esito == "Si"])
-		return pd.concat([data[data.esito == "No"], data_resampled])
+											stratify=data[data.outcome == "Si"])
+		return pd.concat([data[data.outcome == "No"], data_resampled])
 	return data
 
 
@@ -45,13 +45,13 @@ def incremental(df,field,section,features,classifierType,coverage=["A"],doBalanc
 		sys.exit()
 	
 	# filter field, section and coverage, and remove NaN values
-	temp = df[(df["field"] == field) & (df["section"] == section)]
+	temp = df[(df["field"] == field) & (df["role"] == section)]
 	df_filtered = temp[temp["coverage"].isin(coverage)]
 	
 	for i in range(5,6):
 		terms = list(range(1,i))
-		df_TrainSet = df_filtered[df_filtered["term"].isin(terms)][features+["esito"]].dropna()
-		df_TestSet = df_filtered[df_filtered["term"].isin(list(range(i,6)))][features+["esito"]].dropna()
+		df_TrainSet = df_filtered[df_filtered["term"].isin(terms)][features+["outcome"]].dropna()
+		df_TestSet = df_filtered[df_filtered["term"].isin(list(range(i,6)))][features+["outcome"]].dropna()
 		
 		# RESAMPLE TEST
 		if doBalance:
@@ -73,9 +73,9 @@ def incremental(df,field,section,features,classifierType,coverage=["A"],doBalanc
 		elif classifierType == "decisionTree":
 			clf = tree.DecisionTreeClassifier()
 		
-		clf = clf.fit(df_TrainSet[features], df_TrainSet["esito"])
+		clf = clf.fit(df_TrainSet[features], df_TrainSet["outcome"])
 		
-		y_true = df_TestSet["esito"].tolist()
+		y_true = df_TestSet["outcome"].tolist()
 		y_pred = clf.predict(df_TestSet[features]).tolist()
 		
 		if isDivergent(y_pred):

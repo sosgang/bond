@@ -10,7 +10,7 @@ from sklearn.utils import resample
 from itertools import combinations
 import mylib
 
-inputFile = "../data/results.csv"
+inputFile = "../../complete_metrics.csv"
 
 def myIncremental(df,field,section,features,classifierType,coverage=["A"],doBalance=True):
 	
@@ -20,13 +20,13 @@ def myIncremental(df,field,section,features,classifierType,coverage=["A"],doBala
 	
 		
 	# filter field, section and coverage, and remove NaN values
-	temp = df[(df["field"] == field) & (df["section"] == section)]
+	temp = df[(df["field"] == field) & (df["role"] == section)]
 	df_filtered = temp[temp["coverage"].isin(coverage)]
 	
 	for i in range(5,6):
 		terms = list(range(1,i))
-		df_TrainSet = df_filtered[df_filtered["term"].isin(terms)][features+["esito"]].dropna()
-		df_TestSet = df_filtered[df_filtered["term"].isin(list(range(i,6)))][features+["esito"]].dropna()
+		df_TrainSet = df_filtered[df_filtered["term"].isin(terms)][features+["outcome"]].dropna()
+		df_TestSet = df_filtered[df_filtered["term"].isin(list(range(i,6)))][features+["outcome"]].dropna()
 		
 		# RESAMPLE TEST
 		if doBalance:
@@ -48,7 +48,7 @@ def myIncremental(df,field,section,features,classifierType,coverage=["A"],doBala
 		elif classifierType == "decisionTree":
 			clf = tree.DecisionTreeClassifier(random_state=2018)
 		
-		clf = clf.fit(df_TrainSet[features], df_TrainSet["esito"])
+		clf = clf.fit(df_TrainSet[features], df_TrainSet["outcome"])
 		
 
 		tree.plot_tree(clf,feature_names=features,class_names=clf.classes_)
@@ -71,6 +71,5 @@ def myIncremental(df,field,section,features,classifierType,coverage=["A"],doBala
 df = pd.read_csv(inputFile)
 
 # Figure 7 
-features = ["cand","co-au","BC","CC"]
-resMetrics = myIncremental(df,"10-G1",2,features,"decisionTree",list("A"),False)
-
+features = ["co-au","CC","books","nd_m1"]
+resMetrics = myIncremental(df,"10-G1","AP",features,"decisionTree",list("AB"),False)
